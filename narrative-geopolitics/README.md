@@ -35,6 +35,10 @@ daily-geopolitics
 ```text
 narrative-geopolitics/
 ├── README.md
+├── archive/
+│   ├── README.md
+│   ├── source-manifest.json
+│   └── sources/
 ├── method/
 │   ├── narrative-statecraft.md
 │   └── voice-continuity.md
@@ -62,6 +66,8 @@ narrative-geopolitics/
 The first source basis is `strategy-codex/statecraft`, especially its daily transcript intake and synthesis responsibilities.
 
 V1 should use a manual manifest for each run. Automated extraction can come later.
+
+Imported source truth lives in [archive/](archive/README.md). Voice records link into that central archive instead of duplicating transcripts or essays per voice.
 
 ## Voice Continuity
 

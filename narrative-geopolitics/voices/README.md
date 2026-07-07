@@ -16,6 +16,12 @@ A `voice record` is the durable continuity object for one person/source.
 
 Use [_template.md](_template.md) for every new voice record. The template is intentionally lighter than the inherited `strategy-codex/statecraft` voice machinery, but it preserves one important law: every recurring voice should have the same basic shape.
 
+## Current Voice Records
+
+| Voice | Record | Source index | Status |
+| --- | --- | --- | --- |
+| Robert Pape | [pape/README.md](pape/README.md) | [pape/source-index.md](pape/source-index.md) | internal |
+
 ## Status
 
 Voice records are internal first. Public summaries can come later when a record is stable enough to share.
