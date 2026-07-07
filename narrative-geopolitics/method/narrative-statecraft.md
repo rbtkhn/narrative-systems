@@ -23,10 +23,16 @@ Narrative Statecraft inherits these principles from `strategy-codex/statecraft`:
 
 - name the crisis object before drafting judgment
 - distinguish source truth from synthesis
-- preserve speaker continuity when an interpretation depends on speaker history
+- preserve voice continuity when an interpretation depends on a source-person's history
 - identify actor incentives and legitimacy claims
 - avoid promoting every sharp interpretation into a grand framework
 - include review hooks so judgment can learn from later evidence
+
+## Voice Continuity
+
+Use [voice-continuity.md](voice-continuity.md) when a daily run depends on whether a source-person's claim is new, recurring, contradicted, forecast-bearing, or shaped by source modality.
+
+Use `voice` as the umbrella term. Use `speaker` only when the source is specifically a spoken appearance.
 
 ## Simplification
 

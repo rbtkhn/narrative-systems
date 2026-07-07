@@ -1,0 +1,92 @@
+# Voice Record: <Name>
+
+Status: `internal`
+
+## Profile
+
+| Field | Value |
+| --- | --- |
+| Name |  |
+| Slug |  |
+| Role |  |
+| Source basis |  |
+| Public summary status | `none` / `draft` / `published` |
+| First added | `YYYY-MM-DD` |
+| Last reviewed | `YYYY-MM-DD` |
+
+## Source Modalities
+
+Check every modality that applies.
+
+| Modality | Applies | Notes |
+| --- | --- | --- |
+| Transcript |  |  |
+| Interview |  |  |
+| Essay |  |  |
+| Article |  |  |
+| Social post |  |  |
+| Stream |  |  |
+| Report |  |  |
+| Mixed |  |  |
+
+## Core Frame
+
+What this voice tends to notice:
+
+-
+
+What this voice tends to emphasize:
+
+-
+
+What this voice may miss or underweight:
+
+-
+
+## Recurring Claims
+
+| Claim | Pattern | Evidence / Source Links | Status |
+| --- | --- | --- | --- |
+|  |  |  | `active` / `revised` / `retired` |
+
+## Contradictions / Tensions
+
+| Tension | Earlier Pattern | New Evidence | Interpretation |
+| --- | --- | --- | --- |
+|  |  |  |  |
+
+## Forecast History
+
+| Claim / Forecast | Date Made | Review Date | Outcome | Notes |
+| --- | --- | --- | --- | --- |
+|  | `YYYY-MM-DD` | `YYYY-MM-DD` | `open` / `hit` / `miss` / `mixed` |  |
+
+## Daily Run Links
+
+| Date | Run / Brief | Why This Voice Mattered |
+| --- | --- | --- |
+| `YYYY-MM-DD` |  |  |
+
+## Use Guidance
+
+Use this voice when:
+
+-
+
+Be careful when:
+
+-
+
+Evidence needed before relying on this voice:
+
+-
+
+## Public Summary Notes
+
+What could eventually be public:
+
+-
+
+What should remain internal for now:
+
+-

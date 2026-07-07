@@ -36,7 +36,8 @@ daily-geopolitics
 narrative-geopolitics/
 ├── README.md
 ├── method/
-│   └── narrative-statecraft.md
+│   ├── narrative-statecraft.md
+│   └── voice-continuity.md
 ├── public/
 │   ├── README.md
 │   └── briefs/
@@ -46,6 +47,9 @@ narrative-geopolitics/
 │   ├── synthesis.md
 │   ├── public-brief.md
 │   └── forecast.md
+├── voices/
+│   ├── README.md
+│   └── _template.md
 └── work/
     ├── README.md
     ├── daily/
@@ -58,6 +62,12 @@ narrative-geopolitics/
 The first source basis is `strategy-codex/statecraft`, especially its daily transcript intake and synthesis responsibilities.
 
 V1 should use a manual manifest for each run. Automated extraction can come later.
+
+## Voice Continuity
+
+Narrative Geopolitics uses [voices/](voices/README.md) for durable voice records. A voice can be a speaker, writer, essayist, interview guest, social poster, or mixed-format analyst.
+
+Voice continuity means remembered interpretive pattern across sources and time. Voice records are internal first; public summaries can come later after a record is stable enough to share.
 
 ## Public Voice
 
