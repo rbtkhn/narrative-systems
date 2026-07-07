@@ -1,0 +1,13 @@
+# Narrative Systems Notes
+
+This directory holds working notes for the research side of the project. The notes should stay close to the runnable package: terms are most useful when they can eventually become examples, tests, or small models.
+
+## Current Notes
+
+- [Working vocabulary](working-vocabulary.md)
+
+## Note Practice
+
+- Prefer short, revisable definitions over closed theory.
+- Link concepts to code examples when possible.
+- Keep unresolved questions visible instead of polishing them away.
