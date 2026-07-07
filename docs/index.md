@@ -5,6 +5,7 @@ This directory holds working notes for the research side of the project. The not
 ## Current Notes
 
 - [Working vocabulary](working-vocabulary.md)
+- [Predictive History research target](research-targets/predictive-history.md)
 
 ## Note Practice
 

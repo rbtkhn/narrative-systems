@@ -41,3 +41,7 @@ The initial model is intentionally small:
 - `NarrativeSystem` collects units and relations and can summarize its contents.
 
 These names are working handles, not final theory. They give the repo enough structure to grow by experiment.
+
+## First Research Target
+
+The first narrative system under study is [`rbtkhn/predictive-history`](https://github.com/rbtkhn/predictive-history), treated as a public namespace catalog and source-lattice reading system. See [docs/research-targets/predictive-history.md](docs/research-targets/predictive-history.md).
