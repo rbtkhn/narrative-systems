@@ -1,12 +1,23 @@
-# Predictive History Research Target
+# Predictive History
 
 Source repository: [`rbtkhn/predictive-history`](https://github.com/rbtkhn/predictive-history)
 
 Local source inspected: `C:\dev\predictive-history`
 
+## Purpose
+
+Predictive History is studied here as a public historical and civilizational reading model. It shows how a body of source material, commentary, catalogs, routes, and LLM entry contracts can become a guided public learning system.
+
+In this repo, Predictive History is the first sibling model for comparison with Narrative Geopolitics.
+
+```text
+predictive-history = public historical/civilizational model
+narrative-geopolitics = public geopolitical judgment model
+```
+
 ## Working Read
 
-Predictive History is a public narrative system organized as a namespace catalog hub. Its reader-facing shape is not a single argument or linear book; it is a routed corpus of chapters, commentaries, indexes, cards, and LLM-oriented entry contracts.
+Predictive History is organized as a namespace catalog hub. Its reader-facing shape is not a single argument or linear book; it is a routed corpus of chapters, commentaries, indexes, cards, and LLM-oriented entry contracts.
 
 The system's most important design move is traversal discipline. It tells a reader or model what to open first, what counts as evidence, when interpretation is allowed to widen, and which older frames are deprecated but still present for compatibility.
 

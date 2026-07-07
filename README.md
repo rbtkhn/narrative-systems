@@ -8,10 +8,12 @@ This repository starts with a minimal Python package, a few working concepts, an
 
 ```text
 .
-├── docs/                  Concept notes and working vocabulary
-├── examples/              Small runnable demonstrations
-├── src/narrative_systems/ Python package code
-└── tests/                 Focused tests for the package surface
+├── predictive-history/        Public historical/civilizational model study
+├── narrative-geopolitics/     Public geopolitical model project
+├── docs/                      Concept notes and working vocabulary
+├── examples/                  Small runnable demonstrations
+├── src/narrative_systems/     Python package code
+└── tests/                     Focused tests for the package surface
 ```
 
 ## Development
@@ -42,6 +44,7 @@ The initial model is intentionally small:
 
 These names are working handles, not final theory. They give the repo enough structure to grow by experiment.
 
-## First Research Target
+## Projects
 
-The first narrative system under study is [`rbtkhn/predictive-history`](https://github.com/rbtkhn/predictive-history), treated as a public namespace catalog and source-lattice reading system. See [docs/research-targets/predictive-history.md](docs/research-targets/predictive-history.md).
+- [Predictive History](predictive-history/README.md) studies [`rbtkhn/predictive-history`](https://github.com/rbtkhn/predictive-history) as a public historical/civilizational reading model.
+- [Narrative Geopolitics](narrative-geopolitics/README.md) is a workflow-first project for building a public geopolitical judgment model from statecraft transcript intake and synthesis.

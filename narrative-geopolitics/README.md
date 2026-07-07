@@ -1,0 +1,70 @@
+# Narrative Geopolitics
+
+Narrative Geopolitics is a workflow-first project for building a public geopolitical judgment model.
+
+It uses `strategy-codex/statecraft` as its source basis and predecessor system, but its goal is not to copy that inherited operator machinery. Its goal is to distill the best parts of statecraft into a cleaner public model that can stand beside Predictive History.
+
+```text
+statecraft = source basis and operator ancestor
+narrative-geopolitics = public geopolitical judgment model
+predictive-history = public historical/civilizational reading model
+```
+
+## Purpose
+
+Narrative Geopolitics turns transcripts, expert claims, current crises, actor incentives, legitimacy claims, historical memory, and competing narratives into public geopolitical judgment.
+
+It is not an oracle and not a generic news summary. It is a bounded analyst system: source-heavy, calm, quote-aware, uncertainty-conscious, and reviewable.
+
+## V1 Workflow
+
+The initial operating loop is:
+
+```text
+daily-geopolitics
+-> work/daily/YYYY-MM-DD/sources.md
+-> work/daily/YYYY-MM-DD/synthesis.md
+-> work/daily/YYYY-MM-DD/public-brief.md
+-> work/daily/YYYY-MM-DD/forecast.md
+-> public/briefs/daily/YYYY-MM-DD.md
+-> work/forecasts/forecast-ledger.md
+```
+
+## Directory Map
+
+```text
+narrative-geopolitics/
+├── README.md
+├── method/
+│   └── narrative-statecraft.md
+├── public/
+│   ├── README.md
+│   └── briefs/
+│       └── daily/
+├── templates/
+│   ├── sources.md
+│   ├── synthesis.md
+│   ├── public-brief.md
+│   └── forecast.md
+└── work/
+    ├── README.md
+    ├── daily/
+    └── forecasts/
+        └── forecast-ledger.md
+```
+
+## Source Basis
+
+The first source basis is `strategy-codex/statecraft`, especially its daily transcript intake and synthesis responsibilities.
+
+V1 should use a manual manifest for each run. Automated extraction can come later.
+
+## Public Voice
+
+The public voice should be a calm public analyst:
+
+- source-heavy and quote-aware
+- willing to make bounded judgments
+- careful with uncertainty in normal prose
+- committed to at least one forecast or review hook per brief
+- readable without becoming thin
