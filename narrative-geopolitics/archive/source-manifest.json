@@ -607,7 +607,8 @@
                         "source_class":  "guest interview pressure test",
                         "modality":  "cleaned-transcript",
                         "voice_slugs":  [
-                                            "pape"
+                                            "pape",
+                                            "mario-nawfal"
                                         ],
                         "host_slug":  "mario-nawfal",
                         "import_status":  "imported"
@@ -677,7 +678,8 @@
                         "source_class":  "guest interview pressure test",
                         "modality":  "transcript",
                         "voice_slugs":  [
-                                            "pape"
+                                            "pape",
+                                            "mario-nawfal"
                                         ],
                         "host_slug":  "mario-nawfal",
                         "import_status":  "imported"
@@ -747,7 +749,8 @@
                         "source_class":  "guest interview pressure test",
                         "modality":  "transcript",
                         "voice_slugs":  [
-                                            "pape"
+                                            "pape",
+                                            "mario-nawfal"
                                         ],
                         "host_slug":  "mario-nawfal",
                         "import_status":  "imported"
@@ -817,7 +820,8 @@
                         "source_class":  "guest interview pressure test",
                         "modality":  "cleaned-transcript",
                         "voice_slugs":  [
-                                            "pape"
+                                            "pape",
+                                            "mario-nawfal"
                                         ],
                         "host_slug":  "mario-nawfal",
                         "import_status":  "imported"
@@ -873,7 +877,8 @@
                         "source_class":  "guest interview pressure test",
                         "modality":  "cleaned-transcript",
                         "voice_slugs":  [
-                                            "pape"
+                                            "pape",
+                                            "mario-nawfal"
                                         ],
                         "host_slug":  "mario-nawfal",
                         "import_status":  "imported"
@@ -915,7 +920,8 @@
                         "source_class":  "guest interview pressure test",
                         "modality":  "cleaned-transcript",
                         "voice_slugs":  [
-                                            "pape"
+                                            "pape",
+                                            "mario-nawfal"
                                         ],
                         "host_slug":  "mario-nawfal",
                         "import_status":  "imported"
@@ -1041,7 +1047,8 @@
                         "source_class":  "guest interview pressure test",
                         "modality":  "cleaned-transcript",
                         "voice_slugs":  [
-                                            "pape"
+                                            "pape",
+                                            "mario-nawfal"
                                         ],
                         "host_slug":  "mario-nawfal",
                         "import_status":  "imported"

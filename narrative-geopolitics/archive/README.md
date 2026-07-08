@@ -28,6 +28,8 @@ archive/
 
 [source-manifest.json](source-manifest.json) records each imported source with its local archive path, upstream source path, source class, modality, voice slugs, host slug when present, and import status.
 
+Use [voice-routing-audit.md](voice-routing-audit.md) when deciding whether a shared source should carry more than one `voice_slug`.
+
 ## Import Rule
 
 Preserve source contents as imported. Add interpretation, routing, and synthesis in voice records, work runs, and public briefs.
