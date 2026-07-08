@@ -73,3 +73,20 @@ Use him when Pape and Mercouris leave a gap between mechanism and room:
 Do not collapse Mearsheimer into Mercouris. They can both speak about order transition, but Mercouris is more stream-sequential and institutional, while Mearsheimer is more structural and incentive-driven.
 
 Do not collapse Mearsheimer into Pape. They can both explain coercive failure, but Pape seeks forecast mechanisms and falsifiers, while Mearsheimer seeks structural constraints and bargaining geometry.
+
+## Fourth Axis: Marandi
+
+Marandi adds the **regional-embedded red-line / legitimacy axis**.
+
+Use him when the system needs to know how Iranian strategic perception, legitimacy language, and coercion-resistance signaling look from an Iran-facing frame:
+
+- Pape asks what coercive mechanism is unfolding.
+- Mercouris asks what institutional room and diplomatic sequence actors inhabit.
+- Mearsheimer asks what structural incentives and great-power constraints make the crisis likely.
+- Marandi asks how Iran defines red lines, endurance, sovereignty, complicity, and acceptable settlement.
+
+Do not collapse Marandi into Pape. They can both speak about coercion failure, but Pape models the mechanism while Marandi supplies Iran-facing perception and signaling.
+
+Do not collapse Marandi into Mearsheimer. They can both reject coercive success, but Mearsheimer is structural and Marandi is regional-embedded.
+
+Do not collapse Marandi into Mercouris. They can both explain diplomatic distrust, but Mercouris reads institutional sequence while Marandi reads Iranian legitimacy and red-line language.
