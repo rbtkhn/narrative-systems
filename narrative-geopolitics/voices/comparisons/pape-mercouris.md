@@ -90,3 +90,21 @@ Do not collapse Marandi into Pape. They can both speak about coercion failure, b
 Do not collapse Marandi into Mearsheimer. They can both reject coercive success, but Mearsheimer is structural and Marandi is regional-embedded.
 
 Do not collapse Marandi into Mercouris. They can both explain diplomatic distrust, but Mercouris reads institutional sequence while Marandi reads Iranian legitimacy and red-line language.
+
+## Fifth Axis: Diesen
+
+Diesen adds the **multipolar-order / host-convener axis**.
+
+Use him when the system needs to know how a crisis or guest claim becomes an argument about civilizational sequence, Eurasian institutional formation, Western legitimacy erosion, or post-unipolar transition:
+
+- Pape asks what coercive mechanism is unfolding.
+- Mercouris asks what institutional room and diplomatic sequence actors inhabit.
+- Mearsheimer asks what structural incentives and great-power constraints make the crisis likely.
+- Marandi asks how Iran defines red lines, endurance, sovereignty, complicity, and acceptable settlement.
+- Diesen asks how the crisis reveals order transition, multipolar institutions, and the legitimacy collapse of Western-centric frames.
+
+Do not collapse Diesen into Mearsheimer. They can both speak about structure, but Mearsheimer is security-dilemma and great-power incentives, while Diesen is multipolar institutional transition and civilizational-order framing.
+
+Do not collapse Diesen into Mercouris. They can both read institutional sequence, but Mercouris follows diplomatic/process chronology while Diesen lifts the sequence into order-transition consequence.
+
+Do not collapse Diesen into the guests he hosts. Diesen's channel can transform Mearsheimer, Marandi, Sachs, Ritter, or Postol without absorbing their voice continuity.
