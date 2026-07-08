@@ -4,6 +4,12 @@ Narrative Statecraft is the internal method layer of Narrative Geopolitics.
 
 It names how the system converts source material into public geopolitical judgment.
 
+## Intake Layer
+
+Use [best-intake.md](best-intake.md) as the default landing contract for source intake.
+
+That contract exists to keep archive throughput high while preserving enough provenance and provisional routing for later voice and channel work.
+
 ## Method
 
 ```text

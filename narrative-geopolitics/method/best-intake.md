@@ -173,7 +173,6 @@ Current approved hosts:
 - `daniel-davis`
 - `alexander-mercouris`
 - `dialogue-works`
-- `alexander-mercouris`
 
 ## Status Model
 
