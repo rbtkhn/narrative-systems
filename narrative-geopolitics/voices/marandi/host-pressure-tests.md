@@ -8,7 +8,7 @@ Status: `first-slice-parity-lens`
 
 | Host slug | Local shelf | Sources in this slice |
 | --- | --- | ---: |
-| `daniel-davis` | [daniel-davis/](../../channels/daniel-davis/README.md) | 3 |
+| `daniel-davis` | [daniel-davis/](../../channels/daniel-davis/README.md) | 5 |
 | `dialogue-works` | [dialogue-works/](../../channels/dialogue-works/README.md) | 8 |
 | `glenn-diesen` | [glenn-diesen/](../../channels/glenn-diesen/README.md) | 5 |
 
@@ -29,7 +29,9 @@ Status: `first-slice-parity-lens`
 - [2026-05-09 - Hormuz, UAE, Ceasefire, and the New Security Architecture](../../archive/sources/2026-05-09/source-dialogue-works-marandi-hormuz-uae-ceasefire-occupied-country-2026-05-09.md) - **regional-red-line spine** - transcript - host: `dialogue-works`
 - [2026-05-09 - Seyed M. Marandi: Iran Rejects U.S. Deal - War Is Likely Imminent](../../archive/sources/2026-05-09/source-glenn-diesen-seyed-m-marandi-iran-rejects-u-s-deal-war-is-likely-imminent-2026-05-09.md) - **host-pressure test** - transcript - host: `glenn-diesen`
 - [2026-05-10 - Iran Intimidation Has Failed /Professor Seyed Marandi](../../archive/sources/2026-05-10/source-daniel-davis-iran-intimidation-has-failed-professor-seyed-marandi-2026-05-10.md) - **host-pressure test** - transcript - host: `daniel-davis`
+- [2026-06-09 - Professor Seyed Marandi: EXPECT ESCALATION OF WAR IN IRAN](../../archive/sources/2026-06-09/source-daniel-davis-professor-seyed-marandi-expect-escalation-of-war-in-iran-2026-06-09.md) - **host-pressure test** - cleaned-transcript - host: `daniel-davis`
 - [2026-06-23 - Seyed M. Marandi: New Hormuz mechanism - IAEA access put on hold](../../archive/sources/2026-06-23/source-dialogue-works-marandi-new-hormuz-mechanism-iaea-access-put-on-hold-2026-06-23.md) - **regional-red-line spine** - transcript - host: `dialogue-works`
+- [2026-06-26 - Prof Seyed Marandi: WILL the US COLLAPSE the GLOBAL ECONOMY?](../../archive/sources/2026-06-26/source-daniel-davis-seyed-marandi-will-us-collapse-global-economy-2026-06-26.md) - **host-pressure test** - cleaned-transcript - host: `daniel-davis`
 
 ## Boundary Rule
 

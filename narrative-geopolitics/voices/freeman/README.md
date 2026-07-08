@@ -1,0 +1,54 @@
+# Voice Record: Chas Freeman
+
+Status: `internal`
+
+## Profile
+
+| Field | Value |
+| --- | --- |
+| Name | Chas Freeman |
+| Slug | `freeman` |
+| Role | Hybrid interview-centered strategic backfire, alliance-law, and order-transition voice |
+| Source basis | `strategy-codex/statecraft/voices/freeman/freeman-index.md` plus already-local matching archive rows |
+| Public summary status | `none` |
+| Parity status | `imported-corpus` |
+| Imported source rows | 150 |
+| Central archive files | 150 |
+| Last reviewed | `2026-07-08` |
+
+## Routing
+
+| Route | Use when | Notes |
+| --- | --- | --- |
+| [source-index.md](source-index.md) | You need the imported local route map. | Links only to central archive source files. |
+
+## Source Modalities
+
+Imported modalities in this slice: `cleaned-transcript`, `operator-transcript`, `transcript`.
+
+Active host/channel shelves in this slice: `daniel-davis`, `dialogue-works`, `glenn-diesen`, `india-global-left`, `judging-freedom`, `neutrality-studies`.
+
+## Core Frame
+
+Freeman supplies a host-conditioned diplomacy-and-order reading centered on strategic backfire, alliance credibility, escalation risk, and the institutional consequences of US and Israeli policy.
+
+## Use Guidance
+
+Use this voice when:
+
+- Use when a daily item needs alliance-law, diplomacy-collapse, strategic-backfire, or order-transition framing across repeated host contexts.
+
+Be careful when:
+
+- Be careful when recurring host cadence compresses Freeman's independent register into show-specific framing or multi-guest consensus language.
+
+Evidence needed before relying on this voice:
+
+- At least one imported source from [source-index.md](source-index.md).
+- A host/channel check whenever `host_slug` is not `freeman`.
+- Independent corroboration when panel dynamics blur Freeman's claims with co-guest framing.
+
+## Parity Note
+
+This voice is a unified local Freeman shelf built from the strategy-codex Freeman index and any already-routed local archive rows that match the imported corpus.
+

@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `mercouris` to the 
 
 Source basis: `strategy-codex/statecraft/voices/mercouris/mercouris-index.md`.
 
-Corpus: 16 local route rows across 16 central archive source files.
+Corpus: 17 local route rows across 17 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -40,6 +40,7 @@ Status: `first-slice-parity`
 | `2026-05-27` | Ukraine Russia War Expansion /The Duran's Alexander Mercouris & Lt Col Daniel Dav... | `cross-host pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-27/source-daniel-davis-ukraine-russia-war-expansion-the-duran-s-alexander-mercouris-lt-col-daniel-davis-2026-05-27.md) |
 | `2026-06-02` | The Duran / Alexander Mercouris - Konstantinovka Is Falling, West's Ukraine Narra... | `stream-sequence spine` | `the-duran` | [source](../../archive/sources/2026-06-02/source-duran-mercouris-konstantinovka-is-falling-wests-ukraine-narrative-is-crumbling-2026-06-02.md) |
 | `2026-06-22` | US-Iran Ceasefire Talks. Conflict Round 3 Is Coming | `stream-sequence spine` | `the-duran` | [source](../../archive/sources/2026-06-22/source-duran-mercouris-us-iran-ceasefire-talks-conflict-round-3-2026-06-22.md) |
+| `2026-07-07` | Russia Destroys Arms Dump Huge Blast; Zelensky Begs Patriots Says Russia Ground Ad... | `stream-sequence spine` | `alexander-mercouris` | [source](../../archive/sources/2026-07-07/source-mercouris-russia-destroys-arms-dump-zelensky-begs-patriots-2026-07-07.md) |
 
 ## Import Boundary
 

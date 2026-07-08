@@ -1,0 +1,77 @@
+# Trita Parsi Source Index
+
+This index routes the unified local Parsi corpus for `parsi` to the central Narrative Geopolitics source archive.
+
+Source basis: `strategy-codex/statecraft/voices/parsi/parsi-index.md` plus already-local matching archive rows.
+
+Corpus: 51 local route rows across 51 central archive source files.
+
+Status: `imported-corpus`
+
+## Reading Rule
+
+1. Source truth lives in `../../archive/sources/`.
+2. This file owns `parsi` routing and continuity only.
+3. Open the relevant channel shelf before synthesis when `host_slug` is present.
+4. Distinguish authored Parsi sources from host-conditioned Parsi appearances before promoting claims.
+
+## Imported Route Map
+
+| Date | Source | Role | Host slug | Archive link |
+| --- | --- | --- | --- | --- |
+| `2025-05-09` | Amb. Chas Freeman & Trita Parsi: Trump's Wake-Up Call: Yemen's Chaos Forcing a Deal with Iran? | `cross-voice panel` | `dialogue-works` | [source](../../archive/sources/2025-05-09/source-dialogue-works-amb-chas-freeman-and-trita-parsi-trump-s-wake-up-call-yemen-s-chaos-forcing-a-deal-with-iran-2025-05-09.md) |
+| `2025-06-22` | Col. Larry Wilkerson, Amb. Chas Freeman & Trita Parsi: The U.S. Could Face a WAR It Can't Win! | `cross-voice panel` | `dialogue-works` | [source](../../archive/sources/2025-06-22/source-dialogue-works-col-larry-wilkerson-amb-chas-freeman-and-trita-parsi-the-us-could-face-a-war-it-can-t-win-2025-06-22.md) |
+| `2025-07-26` | Amb. Chas Freeman & Trita Parsi: How the Iran-Israel War Changed EVERYTHING Overnight | `cross-voice panel` | `dialogue-works` | [source](../../archive/sources/2025-07-26/source-dialogue-works-amb-chas-freeman-and-trita-parsi-how-the-iran-israel-war-changed-everything-overnight-2025-07-26.md) |
+| `2025-08-15` | Amb. Chas Freeman & Trita Parsi: The Next Israel-Iran War Is Coming | `cross-voice panel` | `dialogue-works` | [source](../../archive/sources/2025-08-15/source-dialogue-works-amb-chas-freeman-and-trita-parsi-the-next-israel-iran-war-is-coming-2025-08-15.md) |
+| `2025-09-02` | Trita Parsi: Why Europe's Sanctions Make an Israeli-Western War on Iran Unstoppable | `host-pressure test` | `india-global-left` | [source](../../archive/sources/2025-09-02/source-india-global-left-europe-snapback-sanctions-israel-war-trita-parsi-2025-09-02.md) |
+| `2025-10-20` | IRAN's NUCLEAR DILEMMA /Trita Parsi & Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2025-10-20/source-daniel-davis-irans-nuclear-dilemma-trita-parsi-lt-col-daniel-davis-2025-10-20.md) |
+| `2025-12-19` | Amb. Chas Freeman & Trita Parsi: The Middle East You Knew Is Disappearing | `cross-voice panel` | `dialogue-works` | [source](../../archive/sources/2025-12-19/source-dialogue-works-freeman-parsi-middle-east-you-knew-disappearing-2025-12-19.md) |
+| `2026-01-09` | As Tehran cracks down, Trump's likely instincts are to stay out | `authored analysis` | `parsi` | [source](../../archive/sources/2026-01-09/source-parsi-as-tehran-cracks-down-trumps-likely-instincts-are-to-stay-out-2026-01-09.md) |
+| `2026-02-07` | Iran's Despair Is U.S. Policy | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-02-07/source-parsi-irans-despair-is-us-policy-2026-02-07.md) |
+| `2026-02-20` | Trump Iran No, even a 'small attack' on Iran will lead to war | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-02-20/source-parsi-no-even-a-small-attack-on-iran-will-lead-to-war-2026-02-20.md) |
+| `2026-03-04` | Further thoughts on Trump and Israel's war of choice with Iran: | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-03-04/source-parsi-further-thoughts-on-trump-and-israels-war-of-choice-with-iran-2026-03-04.md) |
+| `2026-03-08` | Why the Iranian Theocracy will likely survive | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-03-08/source-parsi-why-the-iranian-theocracy-will-likely-survive-2026-03-08.md) |
+| `2026-03-09` | Can Trump declare unilateral victory and end the Iran war? | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-03-09/source-parsi-can-trump-declare-unilateral-victory-and-end-the-iran-war-2026-03-09.md) |
+| `2026-03-16` | IRAN MAKING IT PAINFUL FOR U.S. /Trita Parsi & Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-03-16/source-daniel-davis-iran-making-it-painful-for-u-s-trita-parsi-lt-col-daniel-davis-2026-03-16.md) |
+| `2026-03-16` | [SPECIAL] - TRITA PARSI - How Washington Underestimated Iran | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-03-16/source-judging-freedom-parsi-how-washington-underestimated-iran-2026-03-16.md) |
+| `2026-03-17` | Why was Larijani targeted? | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-03-17/source-parsi-why-was-larijani-targeted-2026-03-17.md) |
+| `2026-04-01` | Limited US Ground Operations in Iran Will Not Shift the War's Balance | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-04-01/source-parsi-limited-us-ground-operations-in-iran-will-not-shift-the-wars-balance-2026-04-01.md) |
+| `2026-04-08` | What on earth just happened? Trump, Iran, and the unlikely ceasefire | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-04-08/source-parsi-what-on-earth-just-happened-trump-iran-and-the-unlikely-ceasefire-2026-04-08.md) |
+| `2026-04-12` | Bluster or genuine economic suicide? Trump's Naval Blockade threat Against Iran | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-04-12/source-parsi-bluster-or-genuine-economic-suicide-trumps-naval-blockade-threat-against-iran-2026-04-12.md) |
+| `2026-04-14` | Why the Iran ceasefire may have shifted the dynamics back in Trump's favor | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-04-14/source-parsi-why-the-iran-ceasefire-may-have-shifted-the-dynamics-back-in-trumps-favor-2026-04-14.md) |
+| `2026-04-17` | source-parsi-2026-04-17 | `signal capture` | `parsi` | [source](../../archive/sources/2026-04-17/source-parsi-2026-04-17.md) |
+| `2026-04-18` | source-parsi-2026-04-18 | `signal capture` | `parsi` | [source](../../archive/sources/2026-04-18/source-parsi-2026-04-18.md) |
+| `2026-04-20` | @tparsi — bundle (20 April 2026) | `signal capture` | `parsi` | [source](../../archive/sources/2026-04-20/source-x-bundle-2026-04-20.md) |
+| `2026-05-01` | Trump's Blockade Snatches Defeat from the Jaws of Victory | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-05-01/source-parsi-trumps-blockade-snatches-defeat-from-the-jaws-of-victory-2026-05-01.md) |
+| `2026-05-02` | Trump's war has destroyed the illusion of US military supremacy | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-05-02/source-parsi-trumps-war-has-destroyed-the-illusion-of-us-military-supremacy-2026-05-02.md) |
+| `2026-05-03` | A few observations on Iran's latest proposal to Trump | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-05-03/source-parsi-a-few-observations-on-irans-latest-proposal-to-trump-2026-05-03.md) |
+| `2026-05-06` | Mercouris and Trita Parsi on the US-Iran blockade, Hormuz, and diplomacy | `host-pressure test` | `the-duran` | [source](../../archive/sources/2026-05-06/source-duran-mercouris-trita-parsi-us-iran-blockade-diplomacy-2026-05-06.md) |
+| `2026-05-18` | Trita Parsi: Iran War Marks the End of American Primacy | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-05-18/source-glenn-diesen-trita-parsi-iran-war-marks-the-end-of-american-primacy-2026-05-18.md) |
+| `2026-05-25` | A new regional logic? If Israel strikes Lebanon, Iran strikes back at the UAE | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-05-25/source-parsi-a-new-regional-logic-if-israel-strikes-lebanon-iran-strikes-back-at-the-uae-2026-05-25.md) |
+| `2026-05-28` | BREAKING: TRUMP & IRAN \"CLOSE TO DEAL\" - w/ Political Analyst Trita Parsi | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-05-28/source-mario-nawfal-parsi-breaking-trump-iran-close-to-deal-2026-05-28.md) |
+| `2026-06-01` | BREAKING: IRAN WALKS AWAY, TRUMP SCRAMBLES, ISRAEL SAYS BETRAYAL - w/ Trita Parsi | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-01/source-mario-nawfal-parsi-breaking-iran-walks-away-trump-scrambles-israel-says-betrayal-2026-06-01.md) |
+| `2026-06-01` | Why Trump may actually have told Netanyahu "Everybody hates you!" | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-06-01/source-parsi-why-trump-may-actually-have-told-netanyahu-everybody-hates-you-2026-06-01.md) |
+| `2026-06-05` | IRAN GOES AGGRESSIVE, TRUMP GOES DOCILE - w/ Trita Parsi | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-05/source-mario-nawfal-parsi-iran-goes-aggressive-trump-goes-docile-2026-06-05.md) |
+| `2026-06-07` | After Israel strikes Beirut, Iran strikes Israel. What's Trump's next move? | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-06-07/source-parsi-after-israel-strikes-beirut-iran-whats-trumps-next-move-2026-06-07.md) |
+| `2026-06-07` | Netanyahu defies Trump and strikes back at Iran - but can he take on Tehran without the US? | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-06-07/source-parsi-netanyahu-defies-trump-and-strikes-back-at-iran-2026-06-07.md) |
+| `2026-06-07` | The profound geopolitical implications of Iran's strikes on Israel | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-06-07/source-parsi-the-profound-geopolitical-implications-of-irans-strikes-on-israel-2026-06-07.md) |
+| `2026-06-08` | Did Iran establish a new equation in the Middle East through its attacks on Israel? | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-06-08/source-parsi-did-iran-establish-a-new-equation-2026-06-08.md) |
+| `2026-06-08` | ISRAEL TORPEDOES TRUMP'S IRAN DEAL OVERNIGHT – w/ Trita Parsi (Quincy Institute) | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-08/source-mario-nawfal-parsi-israel-torpedoes-trump-iran-deal-overnight-2026-06-08.md) |
+| `2026-06-12` | BREAKING: IRAN DEAL LEAKED – w/ Trita Parsi | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-12/source-mario-nawfal-parsi-breaking-iran-deal-leaked-2026-06-12.md) |
+| `2026-06-13` | So they tried to deport me… | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-06-13/source-parsi-so-they-tried-to-deport-me-2026-06-13.md) |
+| `2026-06-13` | Trita Parsi: Iran War Ends Today? Threats of Deporting Trita Parsi | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-06-13/source-glenn-diesen-trita-parsi-iran-war-mou-deportation-threat-2026-06-13.md) |
+| `2026-06-14` | With one strike, Netanyahu tries to kill two peace deals | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-06-14/source-parsi-with-one-strike-netanyahu-tries-to-kill-two-peace-deals-2026-06-14.md) |
+| `2026-06-15` | UPDATE: Trump's Iran Peace Deal, Israel's Move to Sabotage It and What to Expect Next | `host-pressure test` | `tucker` | [source](../../archive/sources/2026-06-15/source-tucker-parsi-trump-iran-peace-deal-israel-sabotage-2026-06-15.md) |
+| `2026-06-16` | GIANT L': Ben Shapiro MELTS DOWN Over Iran Deal | `host-pressure test` | `breaking-points` | [source](../../archive/sources/2026-06-16/source-breaking-points-parsi-giant-l-ben-shapiro-melts-down-iran-deal-2026-06-16.md) |
+| `2026-06-17` | BREAKING: FULL IRAN MOU RELEASED - w/ Trita Parsi | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-17/source-mario-nawfal-parsi-breaking-full-iran-mou-released-2026-06-17.md) |
+| `2026-06-17` | Trump, the Democrats and the Courage to End a Failed War | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-06-17/source-parsi-trump-democrats-courage-end-failed-war-2026-06-17.md) |
+| `2026-06-19` | BREAKING: TRUMP MAY ENDORSE NETANYAHU'S RIVAL – w/ Trita Parsi | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-19/source-mario-nawfal-parsi-breaking-trump-may-endorse-netanyahu-rival-2026-06-19.md) |
+| `2026-06-21` | Can the US-Iran peace deal hold? | `host-pressure test` | `tom-switzer` | [source](../../archive/sources/2026-06-21/source-switzer-mearsheimer-parsi-us-iran-peace-deal-hold-2026-06-21.md) |
+| `2026-06-24` | BREAKING: ISRAEL \"WILL NOT WITHDRAW FROM LEBANON\" - w/ Trita Parsi | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-24/source-mario-nawfal-parsi-israel-will-not-withdraw-lebanon-2026-06-24.md) |
+| `2026-06-24` | ISRAEL REFUSE TO LEAVE LEBANON, WILL IRAN RESPOND? w/ GEOPOLITICS EXPERT TRITA PARSI | `host-pressure test` | `moral-resistance` | [source](../../archive/sources/2026-06-24/source-moral-resistance-parsi-israel-refuse-leave-lebanon-will-iran-respond-2026-06-24.md) |
+| `2026-06-26` | BREAKING: ISRAEL AND LEBANON SIGN PEACE AGREEMENT, BREACHING IRANIAN MOU - w/ Trita Parsi | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-26/source-mario-nawfal-trita-parsi-israel-lebanon-peace-agreement-mou-breach-2026-06-26.md) |
+
+## Import Boundary
+
+This import followed the strategy-codex Parsi index and copied source captures into `archive/sources/YYYY-MM-DD/` while preserving already-local matching archive rows.
+

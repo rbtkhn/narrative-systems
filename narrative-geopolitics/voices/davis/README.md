@@ -12,8 +12,8 @@ Status: `internal`
 | Source basis | `strategy-codex/statecraft/voices/davis` |
 | Public summary status | `none` |
 | Parity status | `first-slice-parity` |
-| Imported source rows | 6 |
-| Central archive files | 6 |
+| Imported source rows | 42 |
+| Central archive files | 42 |
 | Last reviewed | `2026-07-08` |
 
 ## Routing
@@ -27,9 +27,9 @@ Status: `internal`
 
 ## Source Modalities
 
-Imported modalities in this first slice: `operator-transcript`, `transcript`.
+Imported modalities in this first slice: `cleaned-transcript`, `operator-transcript`, `transcript`.
 
-Active host/channel shelves in this first slice: [`dialogue-works`](../../channels/dialogue-works/README.md), [`glenn-diesen`](../../channels/glenn-diesen/README.md).
+Active host/channel shelves in this first slice: [`daniel-davis`](../../channels/daniel-davis/README.md), [`dialogue-works`](../../channels/dialogue-works/README.md), [`glenn-diesen`](../../channels/glenn-diesen/README.md).
 
 ## Core Frame
 
@@ -54,5 +54,7 @@ Evidence needed before relying on this voice:
 ## Parity Note
 
 This voice now has Pape-style operational shape: central archive evidence, manifest coverage, complete local routing for the imported slice, two retrieval lenses, and channel-aware pressure separation.
+
+It now includes a June 2026 Daniel Davis Deep Dive archive batch imported from `strategy-codex/statecraft`, covering 36 host-owned June files in addition to the earlier guest-context slice.
 
 It does not yet have full-source parity with Pape's 75-source corpus.

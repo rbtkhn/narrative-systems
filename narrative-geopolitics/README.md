@@ -73,6 +73,14 @@ V1 should use a manual manifest for each run. Automated extraction can come late
 
 Imported source truth lives in [archive/](archive/README.md). Voice records link into that central archive instead of duplicating transcripts or essays per voice.
 
+## Intake Contract
+
+Default source landing should follow [method/best-intake.md](method/best-intake.md).
+
+Use `best-intake` when the priority is to land same-day source truth quickly without pretending that provisional routing is final interpretation.
+
+See [method/intake-speedup.md](method/intake-speedup.md) for the current speedup plan and [../scripts/land_best_intake.py](../scripts/land_best_intake.py) for the first helper that automates archive-file creation plus manifest append.
+
 ## Voice Continuity
 
 Narrative Geopolitics uses [voices/](voices/README.md) for durable voice records. A voice can be a speaker, writer, essayist, interview guest, social poster, or mixed-format analyst.

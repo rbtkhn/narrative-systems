@@ -12,8 +12,8 @@ Status: `internal`
 | Source basis | `strategy-codex/statecraft/voices/mercouris` |
 | Public summary status | `none` |
 | Parity status | `first-slice-parity` |
-| Imported source rows | 16 |
-| Central archive files | 16 |
+| Imported source rows | 17 |
+| Central archive files | 17 |
 | Last reviewed | `2026-07-08` |
 
 ## Routing

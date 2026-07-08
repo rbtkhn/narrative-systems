@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `mearsheimer` to th
 
 Source basis: `strategy-codex/statecraft/voices/mearsheimer/mearsheimer-index.md`.
 
-Corpus: 16 local route rows across 16 central archive source files.
+Corpus: 25 local route rows across 25 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -18,7 +18,8 @@ Status: `first-slice-parity`
 ## Retrieval Lenses
 
 - [Structural Realism Spine](structural-realism-spine.md) - Use this lens for state incentives, great-power constraints, coercive-failure logic, and bargaining geometry.
-- [Host Pressure Tests](host-pressure-tests.md) - Use this lens for how Diesen, Davis, and Judging Freedom shape Mearsheimer's structural claims.
+- [Host Pressure Tests](host-pressure-tests.md) - Use this lens for how Davis, Diesen, Judging Freedom, Breaking Points, Tucker Carlson, and Tom Switzer shape Mearsheimer's structural claims.
+- [June 2026 Cross-Host Comparison](june-2026-cross-host-comparison.md) - Use this note to choose the right June host-conditioned retrieval lane before synthesis.
 
 ## Imported Route Map
 
@@ -39,7 +40,16 @@ Status: `first-slice-parity`
 | `2026-05-18` | John Mearsheimer: Toward All-Out War With Both Russia & Iran | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-05-18/source-glenn-diesen-john-mearsheimer-toward-all-out-war-with-both-russia-and-iran-2026-05-18.md) |
 | `2026-05-28` | Prof John Mearsheimer: IRAN CEASEFIRE HANGS by a THREAD | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-28/source-daniel-davis-mearsheimer-iran-ceasefire-hangs-by-a-thread-2026-05-28.md) |
 | `2026-06-02` | Prof. John Mearsheimer : Will Israel Veto an American Peace? | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-02/source-judging-freedom-mearsheimer-will-israel-veto-an-american-peace-2026-06-02.md) |
+| `2026-06-09` | BREAKING: U.S. Resumes Strikes on Iran. A Clean Exit Is Unlikely. Tucker and John Mearsheimer React. | `host-pressure test` | `tucker-carlson` | [source](../../archive/sources/2026-06-09/source-tucker-carlson-mearsheimer-us-resumes-strikes-iran-clean-exit-unlikely-2026-06-09.md) |
+| `2026-06-11` | Prof John Mearsheimer Iran War Strategy CHANGES AGAIN! | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-06-11/source-daniel-davis-john-mearsheimer-iran-war-strategy-changes-again-2026-06-11.md) |
 | `2026-06-13` | John Mearsheimer & Sergey Karaganov: Nuclear Strike on Europe to Restore Deterren... | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-06-13/source-glenn-diesen-mearsheimer-karaganov-nuclear-strike-europe-restore-deterrence-2026-06-13.md) |
+| `2026-06-19` | Prof. John Mearsheimer : Israel Undermining US/Iran Deal | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-19/source-judging-freedom-mearsheimer-israel-undermining-us-iran-deal-2026-06-19.md) |
+| `2026-06-21` | Can the US-Iran peace deal hold? | `host-pressure test` | `tom-switzer` | [source](../../archive/sources/2026-06-21/source-switzer-mearsheimer-parsi-us-iran-peace-deal-hold-2026-06-21.md) |
+| `2026-06-23` | SLIPPERY SLOPE TO OBLIVION: Mearsheimer DIRE WARNING On Russia/Ukraine | `host-pressure test` | `breaking-points` | [source](../../archive/sources/2026-06-23/source-breaking-points-mearsheimer-slippery-slope-oblivion-russia-ukraine-2026-06-23.md) |
+| `2026-06-23` | John Mearsheimer: Trump LOST, Iran Gets Spoils With Sanctions Relief | `host-pressure test` | `breaking-points` | [source](../../archive/sources/2026-06-23/source-breaking-points-mearsheimer-trump-lost-iran-spoils-sanctions-relief-2026-06-23.md) |
+| `2026-06-23` | Prof. John Mearsheimer: Netanyahu and Israeli Decline | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-23/source-judging-freedom-mearsheimer-netanyahu-and-israeli-decline-2026-06-23.md) |
+| `2026-06-25` | John Mearsheimer: Russia's Red Lines Have Been Crossed | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-06-25/source-daniel-davis-mearsheimer-russia-red-lines-crossed-2026-06-25.md) |
+| `2026-06-30` | Prof. John Mearsheimer: Making Sense of Iran's Victory | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-30/source-judging-freedom-mearsheimer-making-sense-of-irans-victory-2026-06-30.md) |
 
 ## Import Boundary
 

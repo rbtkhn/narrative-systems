@@ -47,3 +47,55 @@ Use this shelf for host/show conditioning.
 Use `voices/` for whole-source-person continuity.
 
 Use `archive/` for source truth.
+
+## June 2026 Batch Note
+
+June 2026 now includes a locally imported Daniel Davis Deep Dive statecraft batch:
+
+- `36` Davis-owned source files landed under `../../archive/sources/2026-06-*`
+- mixed month: `solo` monologues and guest interviews
+- imported manifest routing used `stream-sequence spine` for solos and `host-pressure test` for interviews
+
+## June 2026 Trim Survey
+
+Bounded closing survey result for the June batch:
+
+- current approved deterministic Davis closing marker still clearly matches only `2` files
+- recurring promo/signoff language exists, but not yet with enough stable phrase consistency to approve a broader automatic closing trim
+- examples observed:
+- `You know, we don't have sponsors cuz we hate to hit you over the head with ads.`
+- `Subscribe, like, and send this to somebody you care about.`
+- same-day next-show plugs such as afternoon follow-up references
+
+Judgment:
+
+- do not run a June Davis historical trim backfill yet
+- keep Davis opening trim out of scope
+- reassess only after a separate marker-approval pass if more repeated closings accumulate
+
+## June 2026 Guest Clusters
+
+These June Davis interviews now matter as cross-voice retrieval surfaces even where a dedicated voice record is not yet present.
+
+### Macgregor
+
+- [2026-06-02 - Col Douglas Macgregor: The Israel First White House](../../archive/sources/2026-06-02/source-daniel-davis-col-douglas-macgregor-the-israel-first-white-house-2026-06-02.md)
+- [2026-06-09 - Col Douglas Macgregor THE WORLD BACKS IRAN in this War](../../archive/sources/2026-06-09/source-daniel-davis-douglas-macgregor-world-backs-iran-2026-06-09.md)
+- [2026-06-16 - Col Douglas Macgregor: Trump Seeks 'Get out of Jail ' Card Since US Lost in Iran](../../archive/sources/2026-06-16/source-daniel-davis-macgregor-trump-get-out-of-jail-card-us-lost-iran-2026-06-16.md)
+- [2026-06-23 - Col Douglas Macgregor: Pressure to REMOVE TRUMP FROM OFFICE Growing](../../archive/sources/2026-06-23/source-daniel-davis-macgregor-pressure-remove-trump-from-office-growing-2026-06-23.md)
+- [2026-06-30 - Col Douglas Macgregor: The Problem Facing Putin Right Now](../../archive/sources/2026-06-30/source-daniel-davis-macgregor-problem-facing-putin-right-now-2026-06-30.md)
+
+### Barnes
+
+- [2026-06-11 - Robert Barnes: Shifting Goal Posts w/Iran War](../../archive/sources/2026-06-11/source-daniel-davis-robert-barnes-shifting-goal-posts-iran-war-2026-06-11.md)
+- [2026-06-26 - Iran Deal Miscalculations / Robert Barnes & Lt Col Daniel Davis](../../archive/sources/2026-06-26/source-daniel-davis-robert-barnes-iran-deal-miscalculations-2026-06-26.md)
+
+### Johnson
+
+- [2026-06-11 - Larry Johnson: Trump Wants to Blow Up Iran Negotiations](../../archive/sources/2026-06-11/source-daniel-davis-larry-johnson-trump-wants-blow-up-iran-negotiations-2026-06-11.md)
+- [2026-06-24 - fmr CIA Analyst Larry Johnson: Iran Deal, Trump's Making it Up As He Goes Along](../../archive/sources/2026-06-24/source-daniel-davis-larry-johnson-iran-deal-trump-making-it-up-2026-06-24.md)
+
+### Postol
+
+- [2026-06-23 - MIT Professor Ted Postol: Patriot Missile Capabilities](../../archive/sources/2026-06-23/source-daniel-davis-postol-patriot-missile-capabilities-2026-06-23.md)
+- [2026-06-29 - Patriot Missiles Fail Miserably, Here's the Video Evidence / MIT Prof Ted Postol](../../archive/sources/2026-06-29/source-daniel-davis-ted-postol-patriot-missiles-fail-video-evidence-2026-06-29.md)

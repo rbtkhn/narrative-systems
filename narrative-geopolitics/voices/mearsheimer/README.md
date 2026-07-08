@@ -12,8 +12,8 @@ Status: `internal`
 | Source basis | `strategy-codex/statecraft/voices/mearsheimer` |
 | Public summary status | `none` |
 | Parity status | `first-slice-parity` |
-| Imported source rows | 16 |
-| Central archive files | 16 |
+| Imported source rows | 25 |
+| Central archive files | 25 |
 | Last reviewed | `2026-07-08` |
 
 ## Routing
@@ -22,14 +22,15 @@ Status: `internal`
 | --- | --- | --- |
 | [source-index.md](source-index.md) | You need the imported local route map. | Links only to central archive source files. |
 | [Structural Realism Spine](structural-realism-spine.md) | You need the voice's native interpretive spine. | Use this lens for state incentives, great-power constraints, coercive-failure logic, and bargaining geometry. |
-| [Host Pressure Tests](host-pressure-tests.md) | You need host or channel pressure context. | Use this lens for how Diesen, Davis, and Judging Freedom shape Mearsheimer's structural claims. |
+| [Host Pressure Tests](host-pressure-tests.md) | You need host or channel pressure context. | Use this lens for how Davis, Diesen, Judging Freedom, Breaking Points, Tucker Carlson, and Tom Switzer shape Mearsheimer's structural claims. |
+| [June 2026 Cross-Host Comparison](june-2026-cross-host-comparison.md) | You need to choose the right June host lane for synthesis. | Use this note to decide which host-conditioned Mearsheimer retrieval lane best fits the task. |
 | [claim-map.md](claim-map.md) | You need the seeded claim families and review questions. | Claim maps remain evolving interpretive surfaces. |
 
 ## Source Modalities
 
 Imported modalities in this first slice: `cleaned-transcript`, `operator-transcript`, `panel`, `transcript`.
 
-Active host/channel shelves in this first slice: [`daniel-davis`](../../channels/daniel-davis/README.md), [`glenn-diesen`](../../channels/glenn-diesen/README.md), [`judging-freedom`](../../channels/judging-freedom/README.md).
+Active host/channel shelves in this first slice: [`daniel-davis`](../../channels/daniel-davis/README.md), [`glenn-diesen`](../../channels/glenn-diesen/README.md), [`judging-freedom`](../../channels/judging-freedom/README.md), [`breaking-points`](../../channels/breaking-points/README.md), [`tom-switzer`](../../channels/tom-switzer/README.md), `tucker-carlson`.
 
 ## Core Frame
 
