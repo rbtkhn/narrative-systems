@@ -1,67 +1,33 @@
-# Diesen Source Index
+# Glenn Diesen Source Index
 
-This index routes Glenn Diesen voice work to the upstream Statecraft source basis.
+This index routes the imported first-slice parity corpus for `diesen` to the central Narrative Geopolitics source archive.
 
-Source basis: `strategy-codex/statecraft/voices/diesen/`.
+Source basis: `strategy-codex/statecraft/voices/diesen/diesen-index.md`.
 
-Status: `source-basis-pointer`
+Corpus: 3 local route rows across 3 central archive source files.
 
-This pass does not import the full Diesen corpus into `narrative-geopolitics/archive/sources/`. Diesen's upstream surface is high-density and stream-native, with a large Glenn Diesen channel body plus a small cross-host guest index.
+Status: `first-slice-parity`
 
 ## Reading Rule
 
-1. Diesen is stream-native and also a host/convener.
-2. Route Diesen-as-voice separately from Diesen-as-channel-conditioning.
-3. Use this file for routing, not source truth.
-4. Do not treat guest transformations on the Glenn Diesen channel as erasing the guest voice.
+1. Source truth lives in `../../archive/sources/`.
+2. This file owns `diesen` routing and continuity only.
+3. Open the relevant channel shelf before synthesis when `host_slug` is present.
+4. Use the voice-native lens docs before public-facing synthesis.
 
-## Upstream Open-First Surfaces
+## Retrieval Lenses
 
-| Upstream surface | Job in Narrative Geopolitics |
-| --- | --- |
-| `statecraft/voices/diesen/README.md` | Statecraft front door and stream-native shelf explanation. |
-| `statecraft/voices/diesen/diesen-profile.md` | Identity, role, public source pointers, and ledger notes. |
-| `statecraft/voices/diesen/diesen-speaker-object.md` | Defines Diesen as a first-class stream-native speaker object. |
-| `statecraft/voices/diesen/diesen-host-wiring-2026.md` | Explains how Diesen as host transforms guest voices. |
-| `statecraft/voices/diesen/diesen-index.md` | Cross-host guest captures where Diesen appears elsewhere. |
-| `statecraft/channels/glenn-diesen/glenn-diesen-channel-index.md` | Host-channel captures where Diesen is host or solo channel owner. |
+- [Multipolar Order Spine](multipolar-order-spine.md) - Use this lens for Diesen as guest analyst: order transition, Western legitimacy erosion, and Eurasian institutional logic.
+- [Host-Convener Transformations](host-convener-transformations.md) - Use this lens to separate Diesen's own voice from Glenn Diesen as a host who lifts guests into order-transition framing.
 
-## Corpus Shape From Statecraft
+## Imported Route Map
 
-| Surface | Approximate role | Local Narrative status |
-| --- | --- | --- |
-| Glenn Diesen channel captures | Native stream and host-convener body. | `not-imported` |
-| Cross-host guest captures | Daniel Davis, Mario Nawfal, Judging Freedom. | `not-imported` |
-| Guest transformation matrix | How Diesen elicits order-transition readings from other voices. | `source-basis` |
-| Guest ledgers | Mearsheimer, Sachs, Ritter, Macgregor, and other stream ledgers. | `source-basis` |
-
-## Candidate Import Slices
-
-| Slice | Why it is useful | Suggested first files |
-| --- | --- | --- |
-| Mearsheimer x Diesen structural lane | Tests Diesen as order-transition convener against Mearsheimer as structural realist. | Selected 2026 Diesen x Mearsheimer captures. |
-| Marandi x Diesen escalation horizon | Tests regional red-line framing lifted into order-transition consequence. | Selected Marandi x Diesen 2026 captures. |
-| Sachs x Diesen economic-order lane | Adds economic-system and development-order pressure. | Selected Sachs x Diesen captures. |
-| Cross-host Diesen guest rows | Tests how Diesen sounds when not controlling the channel frame. | Davis, Mario Nawfal, and Judging Freedom guest rows. |
+| Date | Source | Role | Host slug | Archive link |
+| --- | --- | --- | --- | --- |
+| `2026-03-11` | IRANIAN HATRED for THEIR GOV OVERBLOWN /Glenn Diesen & Lt Col Daniel Davis | `multipolar-order spine` | `daniel-davis` | [source](../../archive/sources/2026-03-11/source-daniel-davis-diesen-iranian-hatred-for-their-gov-overblown-2026-03-11.md) |
+| `2026-05-31` | BREAKING: IRAN COLLECTS TOLLS FROM 28 SHIPS IN PAST 24 HOURS - w/ Analyst Glenn D... | `multipolar-order spine` | `mario-nawfal` | [source](../../archive/sources/2026-05-31/source-mario-nawfal-diesen-breaking-iran-collects-tolls-from-28-ships-in-past-24-hours-2026-05-31.md) |
+| `2026-06-24` | Prof. Glenn Diesen : Is Europe Preparing for War? | `multipolar-order spine` | `judging-freedom` | [source](../../archive/sources/2026-06-24/source-judging-freedom-diesen-europe-preparing-war-2026-06-24.md) |
 
 ## Import Boundary
 
-Before local synthesis uses a Diesen source as source truth, import the selected capture into:
-
-`narrative-geopolitics/archive/sources/YYYY-MM-DD/source-*.md`
-
-Then add a manifest row with:
-
-- `voice_slugs: ["diesen"]`
-- `host_slug` only when a host/channel conditioning layer is present
-- `source_class` such as `stream-native order synthesis`, `host-convener transformation`, or `guest interview pressure test`
-- `modality` such as `transcript`, `cleaned-transcript`, `stream`, `interview`, or `mixed`
-
-## Local Route Status
-
-| Route | Status | Notes |
-| --- | --- | --- |
-| [README.md](README.md) | `active-seed` | Local voice record exists. |
-| [claim-map.md](claim-map.md) | `active-seed` | Claim families are seeded from Statecraft surfaces. |
-| Local archive imports | `not-started` | No Diesen source captures are copied into Narrative archive yet. |
-| Local channel shelves | `candidate` | `glenn-diesen` should be promoted when channel conditioning is needed. |
+Future expansion should keep copying source captures into `archive/sources/YYYY-MM-DD/` and adding manifest rows before treating them as source truth.

@@ -16,16 +16,30 @@ A `voice record` is the durable continuity object for one person/source.
 
 Use [_template.md](_template.md) for every new voice record. The template is intentionally lighter than the inherited `strategy-codex/statecraft` voice machinery, but it preserves one important law: every recurring voice should have the same basic shape.
 
+## Pape-Parity Standard
+
+`Pape parity` means a voice has the same operational shape as Pape, even if it does not yet have Pape's full 75-source depth.
+
+A parity-ready voice has:
+
+- a voice record, source index, and claim map
+- at least two voice-native retrieval lenses
+- imported central archive sources
+- manifest rows for those sources
+- channel-aware routing when a source is host-conditioned
+
+Pape is currently `full-source-parity`. The other core voices are `first-slice-parity`: source-backed enough for synthesis, but not yet exhaustive.
+
 ## Current Voice Records
 
 | Voice | Record | Source index | Status |
 | --- | --- | --- | --- |
-| Alexander Mercouris | [mercouris/README.md](mercouris/README.md) | [mercouris/source-index.md](mercouris/source-index.md) | internal-seed |
-| Daniel Davis | [davis/README.md](davis/README.md) | [davis/source-index.md](davis/source-index.md) | internal-seed |
-| Glenn Diesen | [diesen/README.md](diesen/README.md) | [diesen/source-index.md](diesen/source-index.md) | internal-seed |
-| John Mearsheimer | [mearsheimer/README.md](mearsheimer/README.md) | [mearsheimer/source-index.md](mearsheimer/source-index.md) | internal-seed |
-| Seyed Mohammad Marandi | [marandi/README.md](marandi/README.md) | [marandi/source-index.md](marandi/source-index.md) | internal-seed |
-| Robert Pape | [pape/README.md](pape/README.md) | [pape/source-index.md](pape/source-index.md) | internal |
+| Alexander Mercouris | [mercouris/README.md](mercouris/README.md) | [mercouris/source-index.md](mercouris/source-index.md) | internal / first-slice-parity |
+| Daniel Davis | [davis/README.md](davis/README.md) | [davis/source-index.md](davis/source-index.md) | internal / first-slice-parity |
+| Glenn Diesen | [diesen/README.md](diesen/README.md) | [diesen/source-index.md](diesen/source-index.md) | internal / first-slice-parity |
+| John Mearsheimer | [mearsheimer/README.md](mearsheimer/README.md) | [mearsheimer/source-index.md](mearsheimer/source-index.md) | internal / first-slice-parity |
+| Seyed Mohammad Marandi | [marandi/README.md](marandi/README.md) | [marandi/source-index.md](marandi/source-index.md) | internal / first-slice-parity |
+| Robert Pape | [pape/README.md](pape/README.md) | [pape/source-index.md](pape/source-index.md) | internal / full-source-parity |
 
 ## Comparison Notes
 

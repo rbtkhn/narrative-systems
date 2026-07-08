@@ -1,68 +1,46 @@
-# Mearsheimer Source Index
+# John Mearsheimer Source Index
 
-This index routes John Mearsheimer voice work to the upstream Statecraft source basis.
+This index routes the imported first-slice parity corpus for `mearsheimer` to the central Narrative Geopolitics source archive.
 
-Source basis: `strategy-codex/statecraft/voices/mearsheimer/`.
+Source basis: `strategy-codex/statecraft/voices/mearsheimer/mearsheimer-index.md`.
 
-Status: `source-basis-pointer`
+Corpus: 16 local route rows across 16 central archive source files.
 
-This pass does not import the full Mearsheimer corpus into `narrative-geopolitics/archive/sources/`. Statecraft currently identifies 96 eligible archive captures across host lanes, authored/shorthand material, and non-core appearances.
+Status: `first-slice-parity`
 
 ## Reading Rule
 
-1. Mearsheimer is host-led: host lanes own the cleanest chronology and transformation.
-2. Transcript-first evidence, arc-first interpretation.
-3. Use the local claim map for structural-realism routing, not as source truth.
-4. Do not collapse host lanes into one generic Mearsheimer verdict.
+1. Source truth lives in `../../archive/sources/`.
+2. This file owns `mearsheimer` routing and continuity only.
+3. Open the relevant channel shelf before synthesis when `host_slug` is present.
+4. Use the voice-native lens docs before public-facing synthesis.
 
-## Upstream Open-First Surfaces
+## Retrieval Lenses
 
-| Upstream surface | Job in Narrative Geopolitics |
-| --- | --- |
-| `statecraft/voices/mearsheimer/README.md` | Statecraft front door and shelf-class explanation. |
-| `statecraft/voices/mearsheimer/mearsheimer-profile.md` | Identity, voice fingerprint, failure modes, June 2026 receipts. |
-| `statecraft/voices/mearsheimer/mearsheimer-routing.md` | Explains transcript-first evidence and arc-first interpretation. |
-| `statecraft/voices/mearsheimer/mearsheimer-source-index.md` | Exhaustive route map for materialized appearances. |
-| `statecraft/voices/mearsheimer/mearsheimer-surface-orthogonality-2026-05.md` | Host-lane orthogonality review. |
-| `statecraft/voices/mearsheimer/mearsheimer-helix.md` | Support surface for durable host-led structure. |
+- [Structural Realism Spine](structural-realism-spine.md) - Use this lens for state incentives, great-power constraints, coercive-failure logic, and bargaining geometry.
+- [Host Pressure Tests](host-pressure-tests.md) - Use this lens for how Diesen, Davis, and Judging Freedom shape Mearsheimer's structural claims.
 
-## Corpus Shape From Statecraft
+## Imported Route Map
 
-| Surface | Approximate role | Local Narrative status |
-| --- | --- | --- |
-| Glenn Diesen x Mearsheimer | Highest-altitude structural realism, security dilemma, order transition. | `not-imported` |
-| Daniel Davis x Mearsheimer | Force-versus-bargaining, coercive failure, settlement impossibility. | `not-imported` |
-| Judging Freedom x Mearsheimer | Defeat accounting, self-entrapment, Washington-has-already-lost reinforcement. | `not-imported` |
-| Tucker / Hedges / Redacted / misc | Non-core appearance bench and auxiliary pressure tests. | `not-imported` |
-| Authored/shorthand captures | Parity rows, not chronology substitutes. | `not-imported` |
-
-## Candidate Import Slices
-
-| Slice | Why it is useful | Suggested first files |
-| --- | --- | --- |
-| June 2026 Iran receipts | Direct comparison with Pape and Mercouris during the Iran/MOU period. | `2026-06-02` Napolitano, `2026-06-09` Tucker, `2026-06-11` Davis. |
-| Diesen structural lane | Best source for security dilemma and order-transition altitude. | Selected Diesen x Mearsheimer 2026 rows. |
-| Davis bargaining lane | Best source for force-versus-bargaining and punishment-failure analysis. | Selected Davis x Mearsheimer 2026 rows. |
-| Iran authored / shorthand bench | Useful for comparing structural claims to Pape's authored forecast spine. | `The Tag Team Fails in Iran`, `Will Trump Go Kamikaze?`. |
+| Date | Source | Role | Host slug | Archive link |
+| --- | --- | --- | --- | --- |
+| `2025-02-15` | Trump To Force Ukraine Peace on Europe - John Mearsheimer, Alexander Mercouris & ... | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2025-02-15/source-diesen-mearsheimer-mercouris-trump-to-force-ukraine-peace-on-europe-2025-02-15.md) |
+| `2025-06-20` | \"Israel Has Walked Off a Cliff\" - John Mearsheimer, Alexander Mercouris & Glenn... | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2025-06-20/source-diesen-mearsheimer-mercouris-israel-has-walked-off-a-cliff-2025-06-20.md) |
+| `2026-01-14` | Prof John Mearsheimer: CLASSIC U.S. REGIME CHANGE in IRAN | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-01-14/source-daniel-davis-prof-john-mearsheimer-classic-u-s-regime-change-in-iran-2026-01-14.md) |
+| `2026-01-15` | Prof John Mearsheimer: DISMANTLING IRAN, The Four Part Strategy | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-01-15/source-daniel-davis-prof-john-mearsheimer-dismantling-iran-the-four-part-strategy-2026-01-15.md) |
+| `2026-02-24` | John Mearsheimer: Trump Has No Offramp | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-02-24/source-judging-freedom-mearsheimer-trump-has-no-offramp-2026-02-24.md) |
+| `2026-02-25` | John Mearsheimer: The Case for a Nuclear Iran | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-02-25/source-diesen-mearsheimer-case-for-nuclear-iran-2026-02-25.md) |
+| `2026-03-10` | John Mearsheimer: U.S. Already Lost Iran War — No Off-Ramp in Sight | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-03-10/source-diesen-mearsheimer-us-already-lost-no-offramp-2026-03-10.md) |
+| `2026-04-10` | John Mearsheimer: World Changed Forever as Iran Defeated the U.S. | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-04-10/source-diesen-mearsheimer-world-changed-forever-2026-04-10.md) |
+| `2026-04-13` | Prof John Mearsheimer: The HORRIBLE NAVAL BLOCKADE in Hormuz Strait | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-13/source-daniel-davis-prof-john-mearsheimer-the-horrible-naval-blockade-in-hormuz-strait-2026-04-13.md) |
+| `2026-04-30` | Prof John Mearsheimer: We’ve Lost the Iran War, We’re Screwed | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-30/source-daniel-davis-mearsheimer-weve-lost-the-iran-war-were-screwed-2026-04-30.md) |
+| `2026-05-04` | John Mearsheimer: World Order Ending & Risk of Nuclear War | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-05-04/source-diesen-mearsheimer-world-order-ending-risk-nuclear-war-2026-05-04.md) |
+| `2026-05-13` | Prof John Mearsheimer TRUMP WILL BE FORCED TO CUT A DEAL w/IRAN | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-13/source-daniel-davis-prof-john-mearsheimer-trump-will-be-forced-to-cut-a-deal-w-iran-2026-05-13.md) |
+| `2026-05-18` | John Mearsheimer: Toward All-Out War With Both Russia & Iran | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-05-18/source-glenn-diesen-john-mearsheimer-toward-all-out-war-with-both-russia-and-iran-2026-05-18.md) |
+| `2026-05-28` | Prof John Mearsheimer: IRAN CEASEFIRE HANGS by a THREAD | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-28/source-daniel-davis-mearsheimer-iran-ceasefire-hangs-by-a-thread-2026-05-28.md) |
+| `2026-06-02` | Prof. John Mearsheimer : Will Israel Veto an American Peace? | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-02/source-judging-freedom-mearsheimer-will-israel-veto-an-american-peace-2026-06-02.md) |
+| `2026-06-13` | John Mearsheimer & Sergey Karaganov: Nuclear Strike on Europe to Restore Deterren... | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-06-13/source-glenn-diesen-mearsheimer-karaganov-nuclear-strike-europe-restore-deterrence-2026-06-13.md) |
 
 ## Import Boundary
 
-Before local synthesis uses a Mearsheimer source as source truth, import the selected capture into:
-
-`narrative-geopolitics/archive/sources/YYYY-MM-DD/source-*.md`
-
-Then add a manifest row with:
-
-- `voice_slugs: ["mearsheimer"]`
-- `host_slug` only when a host/channel conditioning layer is present
-- `source_class` such as `structural realism interview`, `guest interview pressure test`, or `authored structural claim`
-- `modality` such as `transcript`, `cleaned-transcript`, `interview`, or `essay`
-
-## Local Route Status
-
-| Route | Status | Notes |
-| --- | --- | --- |
-| [README.md](README.md) | `active-seed` | Local voice record exists. |
-| [claim-map.md](claim-map.md) | `active-seed` | Claim families are seeded from Statecraft surfaces. |
-| Local archive imports | `not-started` | No Mearsheimer source captures are copied into Narrative archive yet. |
-| Local channel shelves | `candidate` | Glenn Diesen, Daniel Davis, Judging Freedom, Tucker, and other host shelves should be promoted as import slices require. |
+Future expansion should keep copying source captures into `archive/sources/YYYY-MM-DD/` and adding manifest rows before treating them as source truth.

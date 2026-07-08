@@ -37,3 +37,9 @@ Use [voice-routing-audit.md](voice-routing-audit.md) when deciding whether a sha
 ## Import Rule
 
 Preserve source contents as imported. Add interpretation, routing, and synthesis in voice records, work runs, and public briefs.
+
+## Phased Pape Parity
+
+Pape has full-source parity in this archive: 75 imported sources routed through one complete voice record.
+
+Other core voices can reach first-slice parity before full-source parity. First-slice parity means the voice has imported source evidence, manifest coverage, complete local routing for that slice, retrieval lenses, and channel-aware pressure separation. It does not mean the full upstream Statecraft corpus has been copied yet.

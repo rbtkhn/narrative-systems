@@ -2,7 +2,11 @@
 
 This map records why the first Narrative Geopolitics voice ensemble is useful because its voices are not interchangeable.
 
-Status: `seed-map`
+Status: `first-slice-parity-map`
+
+## Evidence Status
+
+Pape has full-source parity. Mercouris, Mearsheimer, Marandi, Diesen, and Davis now have first-slice parity: imported archive evidence, local source routing, and voice-native retrieval lenses, but not full upstream corpus depth.
 
 ## Core Ensemble
 

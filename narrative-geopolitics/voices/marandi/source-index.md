@@ -1,69 +1,46 @@
-# Marandi Source Index
+# Seyed Mohammad Marandi Source Index
 
-This index routes Seyed Mohammad Marandi voice work to the upstream Statecraft source basis.
+This index routes the imported first-slice parity corpus for `marandi` to the central Narrative Geopolitics source archive.
 
-Source basis: `strategy-codex/statecraft/voices/marandi/`.
+Source basis: `strategy-codex/statecraft/voices/marandi/marandi-index.md`.
 
-Status: `source-basis-pointer`
+Corpus: 16 local route rows across 16 central archive source files.
 
-This pass does not import the full Marandi corpus into `narrative-geopolitics/archive/sources/`. Statecraft currently identifies 73 eligible archive captures and a mature three-host core.
+Status: `first-slice-parity`
 
 ## Reading Rule
 
-1. Marandi is a speaker-first, helix-centered cross-host object.
-2. Dialogue Works, Diesen, and Davis each own distinct host transformations.
-3. Use this file for routing, not source truth.
-4. Do not collapse Iranian signaling into independently verified event fact.
+1. Source truth lives in `../../archive/sources/`.
+2. This file owns `marandi` routing and continuity only.
+3. Open the relevant channel shelf before synthesis when `host_slug` is present.
+4. Use the voice-native lens docs before public-facing synthesis.
 
-## Upstream Open-First Surfaces
+## Retrieval Lenses
 
-| Upstream surface | Job in Narrative Geopolitics |
-| --- | --- |
-| `statecraft/voices/marandi/README.md` | Statecraft front door and shelf-shape explanation. |
-| `statecraft/voices/marandi/marandi-profile.md` | Identity, regional-embedded role, source handles. |
-| `statecraft/voices/marandi/marandi-routing.md` | Fast task-to-host-lane routing. |
-| `statecraft/voices/marandi/marandi-source-index.md` | Exhaustive route map for materialized Marandi appearances. |
-| `statecraft/voices/marandi/marandi-surface-orthogonality-2026-05.md` | Host-lane orthogonality review. |
-| `statecraft/voices/marandi/marandi-helix.md` | Explains the three-host mature core. |
-| `statecraft/voices/marandi/marandi-2025-present-arc-threads.md` | Recurring thread atlas for legitimacy, Hormuz, siege, complicity, diplomacy, and sovereignty. |
+- [Regional Red-Line Spine](regional-red-line-spine.md) - Use this lens for Iranian sovereignty, siege endurance, Hormuz leverage, legitimacy language, and resistance posture.
+- [Host Pressure Tests](host-pressure-tests.md) - Use this lens for how Dialogue Works, Diesen, and Davis shape Marandi's claims.
 
-## Corpus Shape From Statecraft
+## Imported Route Map
 
-| Surface | Approximate role | Local Narrative status |
-| --- | --- | --- |
-| Dialogue Works x Marandi | Live-pressure legitimacy, selective Hormuz, Gulf complicity, red-line signaling. | `not-imported` |
-| Glenn Diesen x Marandi | Strategic-order altitude, escalation horizon, blockade consequence. | `not-imported` |
-| Daniel Davis x Marandi | Operational limits, failed intimidation, shrinking U.S. coercive room. | `not-imported` |
-| Napolitano x Marandi | Tehran live / U.S.-audience translation support tier. | `not-imported` |
-| Shorthand / X / reposts | Support evidence and signal captures. | `not-imported` |
-
-## Candidate Import Slices
-
-| Slice | Why it is useful | Suggested first files |
-| --- | --- | --- |
-| May 2026 Hormuz anchor | Best single opening for the strongest Marandi lane. | `2026-05-05` Dialogue Works x Marandi. |
-| June 2026 MOU / Geneva / Hormuz week | Direct comparison with Pape, Mercouris, and Mearsheimer during the Iran/MOU period. | June cadence rows from `marandi-source-index.md`. |
-| Davis failed-intimidation lane | Best source for force-versus-resilience and operational-limit testing. | `2026-05-10` Davis x Marandi and related 2026 rows. |
-| Diesen escalation-horizon lane | Best source for regional escalation and order-transition implications. | `2026-05-05`, `2026-06-05`, and `2026-06-25` Diesen rows. |
+| Date | Source | Role | Host slug | Archive link |
+| --- | --- | --- | --- | --- |
+| `2026-02-17` | Mohammad Marandi: Iran JUST Closed the Strait of Hormuz - Wiped Out: Iran Plans t... | `regional-red-line spine` | `dialogue-works` | [source](../../archive/sources/2026-02-17/source-dialogue-works-mohammad-marandi-iran-just-closed-the-strait-of-hormuz-wiped-out-iran-pl-2026-02-17.md) |
+| `2026-03-03` | Seyed M. Marandi: Iran's Military Strategy & U.S. Miscalculations | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-03-03/source-glenn-diesen-seyed-m-marandi-iran-s-military-strategy-u-s-miscalculations-2026-03-03.md) |
+| `2026-03-18` | Seyed M. Marandi: U.S. Attacked World's Largest Gas Field & Iran Declares Economi... | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-03-18/source-glenn-diesen-seyed-m-marandi-u-s-attacked-world-s-largest-gas-field-iran-declares-eco-2026-03-18.md) |
+| `2026-03-24` | Seyed M. Marandi: Israel Hits Iran Energy Sites, Iran\u2019s Next Move: Israel\u2... | `regional-red-line spine` | `dialogue-works` | [source](../../archive/sources/2026-03-24/source-dialogue-works-seyed-m-marandi-israel-hits-iran-energy-sites-iran-s-next-move-israel-s-2026-03-24.md) |
+| `2026-04-06` | IRAN: Just a Bunch of Crazy Bastards? /Prof Marandi & Lt Col Danel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-06/source-daniel-davis-iran-just-a-bunch-of-crazy-bastards-prof-marandi-lt-col-danel-davis-2026-04-06.md) |
+| `2026-04-07` | Seyed M. Marandi: Iran SLAMS Trump\u2019s Ultimatum w/ COUNTER ULTIMATUM \u2014 W... | `regional-red-line spine` | `dialogue-works` | [source](../../archive/sources/2026-04-07/source-dialogue-works-seyed-m-marandi-iran-slams-trump-s-ultimatum-w-counter-ultimatum-war-hea-2026-04-07.md) |
+| `2026-04-13` | Professor Seyed Marandi: Why the Iran Talks Failed | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-13/source-daniel-davis-professor-seyed-marandi-why-the-iran-talks-failed-2026-04-13.md) |
+| `2026-04-13` | Seyed M. Marandi: US Blockade on Iran Just Triggered Iran\u2019s HARSHEST Respons... | `regional-red-line spine` | `dialogue-works` | [source](../../archive/sources/2026-04-13/source-dialogue-works-seyed-m-marandi-us-blockade-on-iran-just-triggered-iran-s-harshest-respo-2026-04-13.md) |
+| `2026-04-16` | Seyed M. Marandi: U.S. Naval Blockade & Ground Invasion of Iran? | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-04-16/source-glenn-diesen-seyed-m-marandi-u-s-naval-blockade-ground-invasion-of-iran-2026-04-16.md) |
+| `2026-04-18` | Seyed M. Marandi: Iran Just Put the Strait of Hormuz on LIMITED MODE - Signs Poin... | `regional-red-line spine` | `dialogue-works` | [source](../../archive/sources/2026-04-18/source-dialogue-works-seyed-m-marandi-iran-just-put-the-strait-of-hormuz-on-limited-mode-signs-2026-04-18.md) |
+| `2026-05-05` | Dialogue Works - Marandi on Hormuz, UAE, and China - 2026-05-05 | `regional-red-line spine` | `dialogue-works` | [source](../../archive/sources/2026-05-05/source-dialogue-works-marandi-hormuz-uae-china-2026-05-05.md) |
+| `2026-05-05` | Diesen, Marandi, Hormuz, All-Out War - 2026-05-05 | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-05-05/source-diesen-marandi-hormuz-all-out-war-2026-05-05.md) |
+| `2026-05-09` | Hormuz, UAE, Ceasefire, and the New Security Architecture | `regional-red-line spine` | `dialogue-works` | [source](../../archive/sources/2026-05-09/source-dialogue-works-marandi-hormuz-uae-ceasefire-occupied-country-2026-05-09.md) |
+| `2026-05-09` | Seyed M. Marandi: Iran Rejects U.S. Deal - War Is Likely Imminent | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-05-09/source-glenn-diesen-seyed-m-marandi-iran-rejects-u-s-deal-war-is-likely-imminent-2026-05-09.md) |
+| `2026-05-10` | Iran Intimidation Has Failed /Professor Seyed Marandi | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-10/source-daniel-davis-iran-intimidation-has-failed-professor-seyed-marandi-2026-05-10.md) |
+| `2026-06-23` | Seyed M. Marandi: New Hormuz mechanism - IAEA access put on hold | `regional-red-line spine` | `dialogue-works` | [source](../../archive/sources/2026-06-23/source-dialogue-works-marandi-new-hormuz-mechanism-iaea-access-put-on-hold-2026-06-23.md) |
 
 ## Import Boundary
 
-Before local synthesis uses a Marandi source as source truth, import the selected capture into:
-
-`narrative-geopolitics/archive/sources/YYYY-MM-DD/source-*.md`
-
-Then add a manifest row with:
-
-- `voice_slugs: ["marandi"]`
-- `host_slug` only when a host/channel conditioning layer is present
-- `source_class` such as `regional-embedded red-line interview`, `guest interview pressure test`, or `signal capture`
-- `modality` such as `transcript`, `cleaned-transcript`, `interview`, `social-post`, or `mixed`
-
-## Local Route Status
-
-| Route | Status | Notes |
-| --- | --- | --- |
-| [README.md](README.md) | `active-seed` | Local voice record exists. |
-| [claim-map.md](claim-map.md) | `active-seed` | Claim families are seeded from Statecraft surfaces. |
-| Local archive imports | `not-started` | No Marandi source captures are copied into Narrative archive yet. |
-| Local channel shelves | `candidate` | Dialogue Works, Glenn Diesen, Daniel Davis, Judging Freedom, and related host shelves should be promoted as import slices require. |
+Future expansion should keep copying source captures into `archive/sources/YYYY-MM-DD/` and adding manifest rows before treating them as source truth.

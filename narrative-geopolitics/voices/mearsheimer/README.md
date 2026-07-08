@@ -1,6 +1,6 @@
 # Voice Record: John Mearsheimer
 
-Status: `internal-seed`
+Status: `internal`
 
 ## Profile
 
@@ -8,100 +8,51 @@ Status: `internal-seed`
 | --- | --- |
 | Name | John Mearsheimer |
 | Slug | `mearsheimer` |
-| Role | Structural realism / security dilemma / great-power geometry voice |
+| Role | Structure / security dilemma / bargaining-geometry voice |
 | Source basis | `strategy-codex/statecraft/voices/mearsheimer` |
 | Public summary status | `none` |
-| First added | `2026-07-08` |
+| Parity status | `first-slice-parity` |
+| Imported source rows | 16 |
+| Central archive files | 16 |
 | Last reviewed | `2026-07-08` |
 
 ## Routing
 
 | Route | Use when | Notes |
 | --- | --- | --- |
-| [source-index.md](source-index.md) | You need the local Narrative route map for Mearsheimer source basis. | This pass references Statecraft source surfaces; it does not import the full Mearsheimer archive yet. |
-| [claim-map.md](claim-map.md) | You need Mearsheimer's interpretive claim layer. | Maps structural-realist claim families to upstream source-basis surfaces and review questions. |
+| [source-index.md](source-index.md) | You need the imported local route map. | Links only to central archive source files. |
+| [Structural Realism Spine](structural-realism-spine.md) | You need the voice's native interpretive spine. | Use this lens for state incentives, great-power constraints, coercive-failure logic, and bargaining geometry. |
+| [Host Pressure Tests](host-pressure-tests.md) | You need host or channel pressure context. | Use this lens for how Diesen, Davis, and Judging Freedom shape Mearsheimer's structural claims. |
+| [claim-map.md](claim-map.md) | You need the seeded claim families and review questions. | Claim maps remain evolving interpretive surfaces. |
 
 ## Source Modalities
 
-| Modality | Applies | Notes |
-| --- | --- | --- |
-| Transcript | yes | Statecraft has many transcript-bearing appearances. |
-| Interview | yes | Major host lanes include Glenn Diesen, Daniel Davis, Judging Freedom, Tucker Carlson, and other hosts. |
-| Essay | yes | A small authored/shorthand bench exists in Statecraft. |
-| Article | no | Not a primary imported modality in this pass. |
-| Social post | no | Not a primary Mearsheimer modality in this pass. |
-| Stream | no | Mearsheimer is not modeled as stream-native here. |
-| Report | no | Not a primary modality in this pass. |
-| Mixed | yes | Host-led interviews, panels, authored captures, and non-core appearances. |
+Imported modalities in this first slice: `cleaned-transcript`, `operator-transcript`, `panel`, `transcript`.
+
+Active host/channel shelves in this first slice: [`daniel-davis`](../../channels/daniel-davis/README.md), [`glenn-diesen`](../../channels/glenn-diesen/README.md), [`judging-freedom`](../../channels/judging-freedom/README.md).
 
 ## Core Frame
 
-What this voice tends to notice:
-
-- Security dilemmas, great-power incentives, NATO/Russia order logic, escalation ladders, deterrence, limits of American power, and Israel as a structural liability.
-
-What this voice tends to emphasize:
-
-- State-level incentives, anarchy, balance of power, bargaining geometry, and the difference between punishment and surrender.
-
-What this voice may miss or underweight:
-
-- Internal regime dynamics, moral/legal accountability, local agency, tactical battlefield detail, and finer diplomatic room compared with Mercouris.
-
-## Recurring Claims
-
-| Claim | Pattern | Evidence / Source Links | Status |
-| --- | --- | --- | --- |
-| Security dilemma | Expansion, threat perception, and deterrence failure create predictable counterpressure. | [claim-map.md](claim-map.md) | `active` |
-| Limits of American power | U.S. military and economic pressure often cannot produce the political outcomes promised. | [claim-map.md](claim-map.md) | `active` |
-| Punishment does not equal surrender | Escalatory punishment can harden resistance rather than compel capitulation. | [claim-map.md](claim-map.md) | `active` |
-| Israel as structural liability | Israel's strategic position can create systemic costs for U.S. policy. | [claim-map.md](claim-map.md) | `active-careful` |
-| Negotiation impossibility / no offramp | Once interests harden and costs mount, settlement space can narrow faster than rhetoric admits. | [claim-map.md](claim-map.md) | `active` |
-
-## Contradictions / Tensions
-
-| Tension | Earlier Pattern | New Evidence | Interpretation |
-| --- | --- | --- | --- |
-| Structure vs agency | Mearsheimer is strongest at state-level incentives. | Local actors, ideology, domestic politics, and law can matter more than the structural model admits. | Use Mearsheimer for structural constraint, not complete causal explanation. |
-| Host-led clarity vs host compression | Diesen, Davis, and Napolitano each elicit different parts of the Mearsheimer object. | Same conclusion can appear through different host pressure. | Open the host lane before synthesis when host conditioning matters. |
-| Structural realism vs forecast specificity | Mearsheimer can identify structural direction strongly. | Exact timing and event-level forecasts may be less precise. | Add forecast rows only after source-level binding and review hooks. |
-
-## Forecast History
-
-| Claim / Forecast | Date Made | Review Date | Outcome | Notes |
-| --- | --- | --- | --- | --- |
-| TBD | TBD | TBD | `not-started` | Forecast rows should be added only after importing or binding source-level evidence. |
-
-## Daily Run Links
-
-| Date | Run / Brief | Why This Voice Mattered |
-| --- | --- | --- |
-| `YYYY-MM-DD` |  |  |
+Mearsheimer supplies the structural constraint layer: why coercive projects fail when incentives, security dilemmas, and bargaining geometry point the other way.
 
 ## Use Guidance
 
 Use this voice when:
 
-- A daily brief needs security-dilemma logic, great-power geometry, escalation-ladder reasoning, NATO/Russia structure, Israel/U.S. strategic liability, or limits-of-power framing.
+- Use when a daily item needs great-power structure, security-dilemma logic, punishment-failure analysis, or bargaining geometry.
 
 Be careful when:
 
-- A claim requires granular battlefield verification, legal accountability, internal regime analysis, or a narrow timing forecast.
-- The host lane may be shaping the level of analysis.
+- Be careful when local agency, regional legitimacy, host compression, or operational feasibility should be foregrounded instead.
 
 Evidence needed before relying on this voice:
 
-- A check against [source-index.md](source-index.md) and the relevant Statecraft source-basis surface.
-- A host-lane check: Diesen for system architecture, Davis for bargaining/feasibility, Napolitano for defeat-accounting orbit.
-- A comparison voice when the claim moves from structure into operational or predictive judgment.
+- At least one imported source from [source-index.md](source-index.md).
+- A modality check through the relevant voice-native lens.
+- A channel check whenever a source has a `host_slug`.
 
-## Public Summary Notes
+## Parity Note
 
-What could eventually be public:
+This voice now has Pape-style operational shape: central archive evidence, manifest coverage, complete local routing for the imported slice, two retrieval lenses, and channel-aware pressure separation.
 
-- A short profile of Mearsheimer as the structural realism axis in Narrative Geopolitics.
-- A comparison of Mearsheimer's security-dilemma model against Pape's mechanism/falsifier axis and Mercouris's room/sequence axis.
-
-What should remain internal for now:
-
-- Full source-basis routing and claim-map notes until selected Mearsheimer sources are imported into the Narrative archive.
+It does not yet have full-source parity with Pape's 75-source corpus.

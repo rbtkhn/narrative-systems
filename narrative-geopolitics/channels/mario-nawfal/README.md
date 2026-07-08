@@ -10,13 +10,13 @@ Status: `pilot`
 | Channel / show | Mario Nawfal |
 | Host people | Mario Nawfal |
 | Source basis | [../../archive/source-manifest.json](../../archive/source-manifest.json) |
-| Shelf status | `pilot` |
+| Shelf status | `pilot-active` |
 
 ## Channel Role
 
 Mario Nawfal is the first full channel pilot because the Pape import contains seven Pape-on-Nawfal captures.
 
-For Narrative Geopolitics, this shelf tracks Pape-on-Nawfal as escalation-trap, MOU, and Hormuz-oil pressure tests in a breaking-headline register.
+For Narrative Geopolitics, this shelf tracks Pape-on-Nawfal as escalation-trap, MOU, and Hormuz-oil pressure tests in a breaking-headline register. It now also carries a lightweight Diesen guest route for breaking-news Hormuz / toll mechanics pressure.
 
 The shelf is not a Mario Nawfal voice record. It is a host/channel conditioning surface for how Nawfal frames, sequences, compresses, and amplifies guest claims.
 
@@ -31,10 +31,18 @@ The shelf is not a Mario Nawfal voice record. It is a host/channel conditioning 
 
 ## Source Index
 
-See [source-index.md](source-index.md).
+See [source-index.md](source-index.md) for the Pape pilot source route.
+
+## Added First-Slice Parity Sources
+
+| Date | Guest / Voice | Source |
+| --- | --- | --- |
+| `2026-05-31` | Diesen | [BREAKING: IRAN COLLECTS TOLLS FROM 28 SHIPS IN PAST 24 HOURS](../../archive/sources/2026-05-31/source-mario-nawfal-diesen-breaking-iran-collects-tolls-from-28-ships-in-past-24-hours-2026-05-31.md) |
 
 ## Boundary
 
 Use [../../voices/pape/README.md](../../voices/pape/README.md) for Pape's whole-voice continuity.
 
-Use this shelf when the question is what Nawfal's breaking-headline format does to Pape's claims.
+Use [../../voices/diesen/README.md](../../voices/diesen/README.md) for Diesen's whole-voice continuity.
+
+Use this shelf when the question is what Nawfal's breaking-headline format does to a guest's claims.

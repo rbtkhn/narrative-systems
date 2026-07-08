@@ -1,68 +1,46 @@
-# Mercouris Source Index
+# Alexander Mercouris Source Index
 
-This index routes Alexander Mercouris voice work to the upstream Statecraft source basis.
+This index routes the imported first-slice parity corpus for `mercouris` to the central Narrative Geopolitics source archive.
 
-Source basis: `strategy-codex/statecraft/voices/mercouris/`.
+Source basis: `strategy-codex/statecraft/voices/mercouris/mercouris-index.md`.
 
-Status: `source-basis-pointer`
+Corpus: 16 local route rows across 16 central archive source files.
 
-This pass does not import the full Mercouris corpus into `narrative-geopolitics/archive/sources/`. Mercouris has a much larger stream-native source surface than Pape, so the first Narrative Geopolitics move is to establish voice continuity and claim routing before selecting an import slice.
+Status: `first-slice-parity`
 
 ## Reading Rule
 
-1. Mercouris is stream-native: solo `@AlexMercouris` continuity is the main shape.
-2. Cross-host guest captures are reinforcement and pressure tests, not the whole voice.
-3. The Duran rows need special care because Mercouris may appear as co-host, guest, or analyst voice inside a channel object.
-4. Do not use this file as source truth; source truth remains upstream until selected captures are imported into `archive/sources/`.
+1. Source truth lives in `../../archive/sources/`.
+2. This file owns `mercouris` routing and continuity only.
+3. Open the relevant channel shelf before synthesis when `host_slug` is present.
+4. Use the voice-native lens docs before public-facing synthesis.
 
-## Upstream Open-First Surfaces
+## Retrieval Lenses
 
-| Upstream surface | Job in Narrative Geopolitics |
-| --- | --- |
-| `statecraft/voices/mercouris/README.md` | Statecraft front door and canonical shelf explanation. |
-| `statecraft/voices/mercouris/mercouris-profile.md` | Identity, voice fingerprint, failure modes, use guidance. |
-| `statecraft/voices/mercouris/mercouris-routing.md` | Explains why Mercouris should be opened as a stream-native object. |
-| `statecraft/voices/mercouris/mercouris-index.md` | Cross-host guest captures and guest route map. |
-| `statecraft/voices/mercouris/mercouris-analytical-bench.md` | Hinge anchors, monthly synthesis routing, and cross-weaves. |
-| `statecraft/channels/alexander-mercouris/alexander-mercouris-channel-index.md` | Solo `@AlexMercouris` host-channel capture index. |
-| `statecraft/channels/the-duran/the-duran-channel-index.md` | The Duran host-channel captures involving Mercouris and other guests. |
+- [Stream Sequence Spine](stream-sequence-spine.md) - Use this lens for diplomatic room, institutional chronology, sequence discipline, and legitimacy drift.
+- [Cross-Host Pressure Tests](cross-host-pressure-tests.md) - Use this lens for how The Duran, Diesen, and Davis change Mercouris's register.
 
-## Corpus Shape From Statecraft
+## Imported Route Map
 
-| Surface | Approximate role | Local Narrative status |
-| --- | --- | --- |
-| Solo `@AlexMercouris` captures | Native continuity, daily/weekly stream arc, month shelves. | `not-imported` |
-| Cross-host guest captures | Daniel Davis, Glenn Diesen, The Duran, Neutrality Studies, and related panels. | `not-imported` |
-| Analytical bench | Curated hinges for January 2025, February 2025, June 2026, and cross-weaves. | `source-basis` |
-| Monthly shelves | Bounded synthesis shelves that summarize the Mercouris object without owning chronology. | `source-basis` |
-
-## Candidate Import Slices
-
-| Slice | Why it is useful | Suggested first files |
-| --- | --- | --- |
-| June 2026 hinge | Direct comparison with Pape's Iran/MOU/Oreshnik period. | `mercouris-shelf-2026-06.md`, June hinge sources from `mercouris-analytical-bench.md`. |
-| Cross-host guest map | Tests voice vs channel separation across Daniel Davis, Glenn Diesen, The Duran, and Neutrality Studies. | `mercouris-index.md` selected 2026 rows. |
-| Solo channel sample | Tests stream-native continuity against Pape's authored forecast spine. | Selected `@AlexMercouris` June 2026 sources. |
-| Prehistory anchors | Provides order-transition and Ukraine negotiation context. | January-February 2025 anchors from `mercouris-analytical-bench.md`. |
+| Date | Source | Role | Host slug | Archive link |
+| --- | --- | --- | --- | --- |
+| `2025-01-16` | The Duran's Alexander Mercouris NATO Preparing for WAR w RUSSIA | `cross-host pressure test` | `daniel-davis` | [source](../../archive/sources/2025-01-16/source-daniel-davis-the-duran-s-alexander-mercouris-nato-preparing-for-war-w-russia-2025-01-16.md) |
+| `2025-02-07` | The Duran / Alexander Mercouris - Trump's Ukraine dilemma, escalate or walk away | `stream-sequence spine` | `the-duran` | [source](../../archive/sources/2025-02-07/source-duran-mercouris-trumps-ukraine-dilemma-escalate-or-walk-away-2025-02-07.md) |
+| `2025-02-10` | The Duran / Alexander Mercouris - US carrot and stick offer to Russia | `stream-sequence spine` | `the-duran` | [source](../../archive/sources/2025-02-10/source-duran-mercouris-us-carrot-and-stick-offer-to-russia-2025-02-10.md) |
+| `2025-02-15` | Trump To Force Ukraine Peace on Europe - John Mearsheimer, Alexander Mercouris & ... | `cross-host pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-02-15/source-diesen-mearsheimer-mercouris-trump-to-force-ukraine-peace-on-europe-2025-02-15.md) |
+| `2025-02-21` | The Duran / Alexander Mercouris - UK/EU take ownership of project Ukraine. Preemp... | `stream-sequence spine` | `the-duran` | [source](../../archive/sources/2025-02-21/source-duran-mercouris-uk-eu-take-ownership-of-project-ukraine-preemptive-coup-2025-02-21.md) |
+| `2025-03-08` | The US Push for Peace & Europe Panics - John Mearsheimer, Alexander Mercouris & G... | `cross-host pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-03-08/source-diesen-mearsheimer-mercouris-the-us-push-for-peace-and-europe-panics-2025-03-08.md) |
+| `2025-04-10` | Russian Realism + European Dreams = UKRAINE DEFEAT | `cross-host pressure test` | `daniel-davis` | [source](../../archive/sources/2025-04-10/source-daniel-davis-russian-realism-european-dreams-ukraine-defeat-2025-04-10.md) |
+| `2025-05-29` | Russia Won the War - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `cross-host pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-05-29/source-diesen-mearsheimer-mercouris-russia-won-the-war-2025-05-29.md) |
+| `2025-06-17` | The Duran / Alexander Mercouris / Brian Berletic - Trump on the brink of Iran war... | `stream-sequence spine` | `the-duran` | [source](../../archive/sources/2025-06-17/source-duran-mercouris-berletic-trump-on-the-brink-of-iran-war-live-2025-06-17.md) |
+| `2025-06-20` | \"Israel Has Walked Off a Cliff\" - John Mearsheimer, Alexander Mercouris & Glenn... | `cross-host pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-06-20/source-diesen-mearsheimer-mercouris-israel-has-walked-off-a-cliff-2025-06-20.md) |
+| `2025-12-19` | Fake Diplomacy & Permanent Conflict - John Mearsheimer, Alexander Mercouris & Gle... | `cross-host pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-12-19/source-diesen-mearsheimer-mercouris-fake-diplomacy-and-permanent-conflict-2025-12-19.md) |
+| `2026-04-25` | Sea Blockade Trap: How the US Got Locked Into the Iran Conflict | `stream-sequence spine` | `the-duran` | [source](../../archive/sources/2026-04-25/source-duran-mercouris-cristoforu-sea-blockade-iran-2026-04-25.md) |
+| `2026-05-26` | The Duran / Alexander Mercouris - Pressure to Walk Away From a Good Iran Deal | `stream-sequence spine` | `the-duran` | [source](../../archive/sources/2026-05-26/source-duran-mercouris-pressure-to-walk-away-from-a-good-iran-deal-2026-05-26.md) |
+| `2026-05-27` | Ukraine Russia War Expansion /The Duran's Alexander Mercouris & Lt Col Daniel Dav... | `cross-host pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-27/source-daniel-davis-ukraine-russia-war-expansion-the-duran-s-alexander-mercouris-lt-col-daniel-davis-2026-05-27.md) |
+| `2026-06-02` | The Duran / Alexander Mercouris - Konstantinovka Is Falling, West's Ukraine Narra... | `stream-sequence spine` | `the-duran` | [source](../../archive/sources/2026-06-02/source-duran-mercouris-konstantinovka-is-falling-wests-ukraine-narrative-is-crumbling-2026-06-02.md) |
+| `2026-06-22` | US-Iran Ceasefire Talks. Conflict Round 3 Is Coming | `stream-sequence spine` | `the-duran` | [source](../../archive/sources/2026-06-22/source-duran-mercouris-us-iran-ceasefire-talks-conflict-round-3-2026-06-22.md) |
 
 ## Import Boundary
 
-Before local synthesis uses a Mercouris source as source truth, import the selected capture into:
-
-`narrative-geopolitics/archive/sources/YYYY-MM-DD/source-*.md`
-
-Then add a manifest row with:
-
-- `voice_slugs: ["mercouris"]`
-- `host_slug` only when a host/channel conditioning layer is present
-- `source_class` such as `stream-native synthesis`, `guest interview pressure test`, or `panel reinforcement`
-- `modality` such as `transcript`, `cleaned-transcript`, `stream`, or `mixed`
-
-## Local Route Status
-
-| Route | Status | Notes |
-| --- | --- | --- |
-| [README.md](README.md) | `active-seed` | Local voice record exists. |
-| [claim-map.md](claim-map.md) | `active-seed` | Claim families are seeded from Statecraft surfaces. |
-| Local archive imports | `not-started` | No Mercouris source captures are copied into Narrative archive yet. |
-| Local channel shelves | `candidate` | `alexander-mercouris` and `the-duran` should be promoted when an import slice is selected. |
+Future expansion should keep copying source captures into `archive/sources/YYYY-MM-DD/` and adding manifest rows before treating them as source truth.

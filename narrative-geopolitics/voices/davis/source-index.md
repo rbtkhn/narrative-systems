@@ -1,73 +1,36 @@
-# Davis Source Index
+# Daniel L. Davis Source Index
 
-This index routes Daniel Davis voice work to the upstream Statecraft source basis.
+This index routes the imported first-slice parity corpus for `davis` to the central Narrative Geopolitics source archive.
 
-Source basis: `strategy-codex/statecraft/voices/davis/`.
+Source basis: `strategy-codex/statecraft/voices/davis/davis-index.md`.
 
-Status: `source-basis-pointer`
+Corpus: 6 local route rows across 6 central archive source files.
 
-This pass does not import the full Davis corpus into `narrative-geopolitics/archive/sources/`. Davis's upstream surface is stream-native and double-role: he is both a recurring analyst voice and an important host/channel conditioner.
+Status: `first-slice-parity`
 
 ## Reading Rule
 
-1. Davis is stream-native before he is a generic interview guest.
-2. Route Davis-as-voice separately from Davis-as-channel-conditioning.
-3. Use this file for routing, not source truth.
-4. Do not treat guests on Daniel Davis Deep Dive as becoming Davis.
-5. Open the channel shelf when Davis is shaping another voice as host.
+1. Source truth lives in `../../archive/sources/`.
+2. This file owns `davis` routing and continuity only.
+3. Open the relevant channel shelf before synthesis when `host_slug` is present.
+4. Use the voice-native lens docs before public-facing synthesis.
 
-## Upstream Open-First Surfaces
+## Retrieval Lenses
 
-| Upstream surface | Job in Narrative Geopolitics |
-| --- | --- |
-| `statecraft/voices/davis/README.md` | Statecraft front door and boundary between Davis voice and Davis host work. |
-| `statecraft/voices/davis/davis-profile.md` | Identity, style, recurring claims, and source pointers. |
-| `statecraft/voices/davis/davis-speaker-object.md` | Defines Davis as a stream-native practical-room speaker object. |
-| `statecraft/voices/davis/davis-host-law.md` | Explains when to open Davis as host for feasibility and war-termination testing. |
-| `statecraft/voices/davis/davis-host-wiring-2026.md` | Explains how Davis transforms guest voices through military feasibility pressure. |
-| `statecraft/voices/davis/davis-index.md` | Cross-host guest captures where Davis appears elsewhere. |
-| `statecraft/voices/davis/davis-lane-map-2026-05.md` | Lane notes for Davis's restraint, feasibility, and negotiation-clock function. |
-| `statecraft/channels/daniel-davis/daniel-davis-channel-index.md` | Host-channel captures where Davis is host or solo channel owner. |
+- [Practical Room Spine](practical-room-spine.md) - Use this lens for Davis as guest analyst: force feasibility, bargaining limits, and implementation proof.
+- [Host / Guest Boundary Tests](host-guest-boundary-tests.md) - Use this lens to separate Davis's own voice from Daniel Davis Deep Dive as a host-conditioning surface.
 
-## Corpus Shape From Statecraft
+## Imported Route Map
 
-| Surface | Approximate role | Local Narrative status |
-| --- | --- | --- |
-| Daniel Davis Deep Dive captures | Native stream and host-conditioning body. | `partly-linked` |
-| Cross-host guest captures | Glenn Diesen and Dialogue Works appearances. | `not-imported` |
-| Davis profile / speaker object | Voice fingerprint and practical-room definition. | `source-basis` |
-| Host law / host wiring | How Davis elicits feasibility and settlement-room tests from guests. | `source-basis` |
-| Defense Priorities and written work | Written Davis source modality. | `not-imported` |
-
-## Candidate Import Slices
-
-| Slice | Why it is useful | Suggested first files |
-| --- | --- | --- |
-| Davis as practical-room baseline | Establishes the voice's own feasibility discipline before guest transformations. | Selected solo or Davis-authored 2026 captures. |
-| Pape x Davis escalation lane | Tests Pape's mechanism/falsifier model against Davis's force-feasibility and off-ramp questions. | [../../archive/sources/2026-03-10/source-daniel-davis-pape-escalation-trap-2026-03-10.md](../../archive/sources/2026-03-10/source-daniel-davis-pape-escalation-trap-2026-03-10.md) |
-| Mearsheimer x Davis bargaining lane | Tests structural realism against practical war-termination and bargaining-room constraints. | Selected Davis-hosted Mearsheimer captures. |
-| Marandi x Davis coercion-resistance lane | Tests Iran-facing red-line and legitimacy claims against force feasibility and operational limits. | Selected Davis-hosted Marandi captures. |
-| Technical feasibility lane | Separates Davis practical-room testing from technical specialists. | Selected Jermy, Postol, Ritter, or Martyanov captures on Davis. |
-| Cross-host Davis guest rows | Tests how Davis sounds when he is not controlling the channel frame. | Glenn Diesen and Dialogue Works guest captures from `davis-index.md`. |
+| Date | Source | Role | Host slug | Archive link |
+| --- | --- | --- | --- | --- |
+| `2025-08-18` | Daniel Davis: Trump Pushes Zelensky & Europe on Peace Deal | `practical-room spine` | `glenn-diesen` | [source](../../archive/sources/2025-08-18/source-glenn-diesen-daniel-davis-trump-pushes-zelensky-europe-on-peace-deal-2025-08-18.md) |
+| `2026-02-07` | Daniel Davis × Glenn Diesen — Iran on a knife’s edge / objectives vs capability (... | `practical-room spine` | `glenn-diesen` | [source](../../archive/sources/2026-02-07/source-glenn-diesen-daniel-davis-iran-knife-edge-2026-02-07.md) |
+| `2026-03-01` | Daniel Davis × Glenn Diesen — U.S. strategic miscalculation / Iran war (operator ... | `practical-room spine` | `glenn-diesen` | [source](../../archive/sources/2026-03-01/source-glenn-diesen-daniel-davis-iran-miscalculation-2026-03-01.md) |
+| `2026-03-18` | Daniel Davis × Glenn Diesen — Iran’s aims, Hormuz, military options, Joe Kent (op... | `practical-room spine` | `glenn-diesen` | [source](../../archive/sources/2026-03-18/source-glenn-diesen-daniel-davis-military-options-kent-2026-03-18.md) |
+| `2026-03-25` | Lt Col. Daniel Davis: Iran’s Trap Is Already Set… And the U.S. Is Moving In | `practical-room spine` | `dialogue-works` | [source](../../archive/sources/2026-03-25/source-dialogue-works-lt-col-daniel-davis-iran-s-trap-is-already-set-and-the-u-s-is-2026-03-25.md) |
+| `2026-04-02` | Daniel Davis × Glenn Diesen — Trump war speech, Hormuz, NATO (operator transcript) | `practical-room spine` | `glenn-diesen` | [source](../../archive/sources/2026-04-02/source-glenn-diesen-daniel-davis-trump-war-speech-2026-04-02.md) |
 
 ## Import Boundary
 
-Before local synthesis uses a Davis source as source truth, import the selected capture into:
-
-`narrative-geopolitics/archive/sources/YYYY-MM-DD/source-*.md`
-
-Then add a manifest row with:
-
-- `voice_slugs: ["davis"]` when Davis is the source-person whose own claims are being tracked
-- `host_slug: "daniel-davis"` only when Davis is shaping another voice through the channel layer
-- `source_class` such as `stream-native feasibility synthesis`, `host-convener transformation`, `guest interview pressure test`, or `restraint-realism article`
-- `modality` such as `transcript`, `cleaned-transcript`, `stream`, `interview`, `article`, `social-post`, or `mixed`
-
-## Local Route Status
-
-| Route | Status | Notes |
-| --- | --- | --- |
-| [README.md](README.md) | `active-seed` | Local voice record exists. |
-| [claim-map.md](claim-map.md) | `active-seed` | Claim families are seeded from Statecraft surfaces. |
-| [../../channels/daniel-davis/README.md](../../channels/daniel-davis/README.md) | `active-lightweight` | Local Daniel Davis channel shelf exists from the Pape pilot. |
-| Local archive imports | `partial` | One Pape-on-Davis source is already imported for Pape routing; Davis's own voice corpus is not imported yet. |
+Future expansion should keep copying source captures into `archive/sources/YYYY-MM-DD/` and adding manifest rows before treating them as source truth.
