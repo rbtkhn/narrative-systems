@@ -21,6 +21,7 @@ Use [_template.md](_template.md) for every new voice record. The template is int
 | Voice | Record | Source index | Status |
 | --- | --- | --- | --- |
 | Alexander Mercouris | [mercouris/README.md](mercouris/README.md) | [mercouris/source-index.md](mercouris/source-index.md) | internal-seed |
+| Daniel Davis | [davis/README.md](davis/README.md) | [davis/source-index.md](davis/source-index.md) | internal-seed |
 | Glenn Diesen | [diesen/README.md](diesen/README.md) | [diesen/source-index.md](diesen/source-index.md) | internal-seed |
 | John Mearsheimer | [mearsheimer/README.md](mearsheimer/README.md) | [mearsheimer/source-index.md](mearsheimer/source-index.md) | internal-seed |
 | Seyed Mohammad Marandi | [marandi/README.md](marandi/README.md) | [marandi/source-index.md](marandi/source-index.md) | internal-seed |
@@ -30,7 +31,7 @@ Use [_template.md](_template.md) for every new voice record. The template is int
 
 | Comparison | Purpose | Status |
 | --- | --- | --- |
-| [Voice orthogonality map](comparisons/orthogonality-map.md) | Preserves the current five-axis ensemble and its do-not-collapse rules. | seed-map |
+| [Voice orthogonality map](comparisons/orthogonality-map.md) | Preserves the current six-axis ensemble and its do-not-collapse rules. | seed-map |
 | [Pape / Mercouris orthogonality](comparisons/pape-mercouris.md) | Compatibility pointer to the ensemble orthogonality map. | compat-pointer |
 
 ## Status
