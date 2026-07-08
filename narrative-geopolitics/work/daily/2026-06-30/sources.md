@@ -11,6 +11,25 @@ Primary source basis:
 - `narrative-geopolitics/archive/source-manifest.json`
 - `narrative-geopolitics/archive/sources/`
 
+## Intake Batch
+
+This pilot is a retrospective judgment run built from already-imported archive
+sources. It establishes the daily workflow shape before live same-day intake is
+automated or routinized.
+
+| Source File | Source Type | Intake Status | Manifest Row | Voice Route | Channel Route | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| `archive/sources/2026-04-24/source-pape-2-blockades-2-clocks-2026-04-24.md` | substack-post | `already-imported` | `yes` | Pape | none | Mechanism source for blockade and shortage clocks. |
+| `archive/sources/2026-05-27/source-pape-the-price-of-oil-is-the-real-iran-2026-05-27.md` | substack-post | `already-imported` | `yes` | Pape | none | Energy risk-premium source. |
+| `archive/sources/2026-06-29/source-pape-the-mou-is-dying-worse-is-still-ahead-2026-06-29.md` | substack-post | `already-imported` | `yes` | Pape | none | Latest MOU-fragility source in the packet. |
+| `archive/sources/2026-03-10/source-diesen-mearsheimer-us-already-lost-no-offramp-2026-03-10.md` | operator-transcript | `already-imported` | `yes` | Mearsheimer | Glenn Diesen | Structural no-offramp pressure test. |
+| `archive/sources/2026-05-28/source-daniel-davis-mearsheimer-iran-ceasefire-hangs-by-a-thread-2026-05-28.md` | transcript | `already-imported` | `yes` | Mearsheimer | Daniel Davis | Bargaining and ceasefire-feasibility pressure test. |
+| `archive/sources/2026-05-09/source-dialogue-works-marandi-hormuz-uae-ceasefire-occupied-country-2026-05-09.md` | transcript | `already-imported` | `yes` | Marandi | Dialogue Works | Iran-facing red-line source. |
+| `archive/sources/2026-06-23/source-dialogue-works-marandi-new-hormuz-mechanism-iaea-access-put-on-hold-2026-06-23.md` | transcript | `already-imported` | `yes` | Marandi | Dialogue Works | Implementation and inspection-sequence source. |
+| `archive/sources/2026-03-25/source-dialogue-works-lt-col-daniel-davis-iran-s-trap-is-already-set-and-the-u-s-is-2026-03-25.md` | transcript | `already-imported` | `yes` | Davis | Dialogue Works | Practical-room and force-posture pressure test. |
+| `archive/sources/2026-06-22/source-duran-mercouris-us-iran-ceasefire-talks-conflict-round-3-2026-06-22.md` | cleaned-transcript | `already-imported` | `yes` | Mercouris | The Duran | Diplomatic-sequence pressure test. |
+| `archive/sources/2026-05-31/source-mario-nawfal-diesen-breaking-iran-collects-tolls-from-28-ships-in-past-24-hours-2026-05-31.md` | cleaned-transcript | `already-imported` | `yes` | Diesen | Mario Nawfal | Order-transition pressure test. |
+
 ## Run Source Set
 
 | Source ID | Voice | Host / Channel | Modality | Archive Path | Why It Matters |
@@ -56,3 +75,4 @@ Use short direct quotes only when wording matters.
 - All 10 sources are imported central archive sources.
 - All sources have manifest rows with `import_status: "imported"`.
 - Host-conditioned sources require opening their channel shelves before public synthesis.
+- This pilot is retrospective; future daily runs should import same-day source material before synthesis.

@@ -11,6 +11,18 @@ Primary source basis:
 - `narrative-geopolitics/archive/source-manifest.json`
 - `narrative-geopolitics/archive/sources/YYYY-MM-DD/source-*.md`
 
+## Intake Batch
+
+Daily runs begin by landing the day's source material in the central archive.
+Use this section to account for what was imported before synthesis.
+
+| Source File | Source Type | Intake Status | Manifest Row | Voice Route | Channel Route | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| `archive/sources/YYYY-MM-DD/source-example.md` | transcript/article/essay/report/post | `imported` | `yes` |  |  |  |
+
+If this is a retrospective run using already-imported sources, mark the intake
+status as `already-imported` and explain why the run is being reconstructed.
+
 ## Run Source Set
 
 | Source ID | Voice | Host / Channel | Modality | Archive Path | Why It Matters |
@@ -36,3 +48,4 @@ Use short direct quotes only when wording matters. Keep quotes brief and tie eac
 - Confirm each archive path resolves.
 - Confirm each source has a manifest row.
 - Confirm `voice_slugs`, `host_slug`, and modality before synthesis.
+- Confirm the day's new source material was imported before synthesis, or mark the run as retrospective.

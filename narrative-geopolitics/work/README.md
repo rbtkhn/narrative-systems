@@ -15,9 +15,30 @@ Each run should contain:
 - `public-brief.md`
 - `forecast.md`
 
+## Daily Cadence
+
+Daily runs begin with intake. Before synthesis, land the day's transcripts,
+articles, essays, reports, or posts in the central archive and update the
+manifest:
+
+- `archive/sources/YYYY-MM-DD/source-*.md`
+- `archive/source-manifest.json`
+
+Then route each source through the relevant continuity layers:
+
+- `voices/` for whole-source-person continuity
+- `channels/` for host, show, or channel conditioning
+- `work/daily/YYYY-MM-DD/` for the day's judgment run
+
+The daily run should use the newly imported day sources first, then add older
+archive sources only when they sharpen the crisis object or pressure-test the
+judgment.
+
 ## Operating Rule
 
-Daily runs are internal-first judgment work. They should identify the crisis object, route primary and pressure voices, make a bounded judgment, and create at least one reviewable forecast hook.
+Daily runs are internal-first judgment work. They should intake the day's
+source material, identify the crisis object, route primary and pressure voices,
+make a bounded judgment, and create at least one reviewable forecast hook.
 
 Use coarse probability bands for v1:
 
