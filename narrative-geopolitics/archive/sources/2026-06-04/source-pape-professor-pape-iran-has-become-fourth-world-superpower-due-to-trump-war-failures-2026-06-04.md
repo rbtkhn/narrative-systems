@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-04
 pub_date: 2026-06-04
 kind: cleaned-transcript
@@ -20,6 +21,14 @@ editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft enti
 nawfal_close_promo_trim_applied: true
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
 transcript_curation: curated_sectioned
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 ---
 # Robert Pape - fourth center of world power framing (operator transcript)
 

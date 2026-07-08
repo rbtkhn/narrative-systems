@@ -1,4 +1,6 @@
 ---
+
+
 ingest_date: 2026-06-30
 pub_date: 2026-06-30
 kind: cleaned-transcript
@@ -26,6 +28,14 @@ transcript_wrapper_tier: paste-prefix
 normalization_state: raw_operator_paste
 editorial_note: Operator-pasted YouTube transcript; ASR artifacts retained (Hummus/Homos/Hormuz, theou, bemend, etc.). Not human-verified verbatim.
 quality_note: Initial land 2026-06-30 via land_statecraft_source_body.py; operator paste.
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 ---
 
 # TRUMP SAYS TALKS ON, IRAN SAYS NO — WHO'S CONTROLLING ESCALATION? – w/ Prof. Robert Pape
@@ -144,7 +154,4 @@ So I would still say Iran is likely to do be the side initiating the use of forc
 Well, that corresponds to when Saudi Arabia decided to get a a backbone and shut down its airspace. So that's a post I put up today and I'm not 100% sure on this but Reuters, others have have have laid this out these Pakistani troop details. And what that tells me, Mario, is that um in the coming weeks as as Iran enforces theou with force and as the United States wants to push back, don't be surprised if Saudi Arabia and maybe some other Gulf states are saying uh no, we want to work with Iran in another way and it's not with uh
 retaliatory bombing. So those are the things I'm like keenly following this week, next week. How is this exactly going to work out with these? It's it's not really is Jared Kushner going to meet with an Iranian diplomat in DOA. That may happen or not, but um I I don't think that's notice that those meetings have not really been very predictive of what's happening the next few days later.
  You see, they're they're not because they're just talk. The realities, as I keep saying, are what the states are actually doing and what are their actual security incentives. >> Professor, always a pleasure to speak to you. Thank you for your time. >> Well, thank you, Mario, and thank you for all you're doing. I I just can't believe how how much you have uh you're you're the you're you you know, CNN used to do what you do and then stopped and now you're the new CNN.
-I don't know whether it's an insult or a >> compliment. No, no, I don't mean I mean the CNN 30 years ago, >> the CNN that we all >> but it became CN. >> Thank you, Professor. I appreciate your time. >> All right. Bye-bye. >> Bye-bye. All right, guys. I'll be going live again with Professor Gibbs, David Gibbs, in 15 minutes.
- Uh in the meantime, um I'll probably go through some of the comments for today um with the interview I just had with Professor Pap, the interview I had before that with Elijah Magne where he broke down on how what's happening in Iraq, Syria, Turkey, the Erdogan, Trump love affair is all related to Hezbollah and weakening Hezbollah and he also talks about Yemen.
- So that was a great conversation with Elijah. Before that, I spoke to Admiral Mark Montgomery. It was a great chat as always uh to get his thoughts on the latest developments and and whether the likelihood of renewed conflict and before that with former prime minister Nafali Bennett, former prime minister of Israel to talk about how what would Israel look like if he takes over from Netanyahu later this year.
- Um so I hope you enjoyed the conversation so far today. Professor Gibbs is in 15 minutes and we have Brendan Wert, uh Tom Luongo, Muhammad Faridi and then Larry Johnson to wrap up the day. Thanks everyone.
+I don't know whether it's an insult or a >> compliment. No, no, I don't mean I mean the CNN 30 years ago, >> the CNN that we all >> but it became CN. >> Thank you, Professor. I appreciate your time. >> All right. Bye-bye.

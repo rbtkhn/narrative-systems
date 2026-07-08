@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-16
 pub_date: 2026-06-16
 kind: cleaned-transcript
@@ -26,9 +27,16 @@ transcript_wrapper_tier: paste-prefix
 normalization_state: raw_operator_paste
 editorial_note: Operator-pasted YouTube transcript; ASR artifacts retained (Formos/Hormuz, theou, Hexath/Hegseth, etc.). Not human-verified verbatim. Opening rapport/production banter trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (9 sections)."
 quality_note: Initial land 2026-06-16 via land_statecraft_source_body.py; operator paste.
-opening_trim_applied: true
 nawfal_close_promo_trim_applied: true
 transcript_curation: curated_sectioned
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 ---
 
 # CIA CHIEF WARNS: IRAN NOT SERIOUS ABOUT COMMITTING TO MoU - w/ Prof. Analyst Robert Pape
