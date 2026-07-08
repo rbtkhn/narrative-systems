@@ -1,0 +1,70 @@
+# Voice Orthogonality Map
+
+This map records why the first Narrative Geopolitics voice ensemble is useful because its voices are not interchangeable.
+
+Status: `seed-map`
+
+## Core Ensemble
+
+| Voice | Axis | Native unit | Main question | Primary risk |
+| --- | --- | --- | --- | --- |
+| [Pape](../pape/README.md) | Mechanism / falsifier | Claim, threshold, forecast, review hook | What coercive mechanism is unfolding, and what would falsify it? | Forecast overextension or over-urgent warning. |
+| [Mercouris](../mercouris/README.md) | Room / sequence / legitimacy | Stream arc, diplomatic room, institutional chronology | What room do actors have, and how is the institutional story moving? | Narrative over-coherence or source-frame smoothing. |
+| [Mearsheimer](../mearsheimer/README.md) | Structure / security dilemma | State incentive, great-power constraint, bargaining geometry | What structural incentives make this crisis likely? | Over-structuring and underweighting agency, law, or local dynamics. |
+| [Marandi](../marandi/README.md) | Regional-embedded red line / legitimacy | Signal, red line, sovereignty claim, resistance posture | How does Iran define legitimacy, endurance, complicity, and acceptable settlement? | Treating regime-adjacent signaling as independently verified fact. |
+| [Diesen](../diesen/README.md) | Multipolar order / host-convener | Order-transition frame, guest transformation, institutional consequence | How does this crisis reveal post-unipolar transition and Western legitimacy erosion? | Totalizing multipolar framing or absorbing guest voices into the host frame. |
+
+## One-Line Instruments
+
+- Pape hears mechanism.
+- Mercouris hears room.
+- Mearsheimer hears structure.
+- Marandi hears red lines.
+- Diesen hears order transition.
+
+## System Rule
+
+Orthogonality is not disagreement by default.
+
+Two voices may agree on crisis direction while explaining it at different levels. Preserve the level difference instead of forcing one combined verdict.
+
+## Pairwise Corrections
+
+| Pair | Correction value |
+| --- | --- |
+| Pape x Mercouris | Mechanism gets checked against diplomatic room; sequence gets checked against falsifiable thresholds. |
+| Pape x Mearsheimer | Coercive mechanism gets checked against structural incentives and bargaining geometry. |
+| Pape x Marandi | External coercion model gets checked against Iran-facing perception and signaling. |
+| Pape x Diesen | Forecast mechanism gets checked against order-transition and institutional consequence. |
+| Mercouris x Mearsheimer | Diplomatic chronology gets checked against structural causality. |
+| Mercouris x Marandi | Institutional sequence gets checked against Iranian red-line and legitimacy language. |
+| Mercouris x Diesen | Process chronology gets lifted into, but not swallowed by, order-transition consequence. |
+| Mearsheimer x Marandi | Structural anti-coercion logic gets checked against regional-embedded strategic perception. |
+| Mearsheimer x Diesen | Security-dilemma realism gets checked against multipolar institutional transition. |
+| Marandi x Diesen | Iran-facing red-line logic gets checked against wider Eurasian/order-transition framing. |
+
+## Use In Daily Synthesis
+
+Use this map when a daily item touches more than one explanatory level.
+
+Recommended order:
+
+1. Identify the crisis object.
+2. Ask which axis is primary: mechanism, room, structure, red line, or order transition.
+3. Open the primary voice record and claim map.
+4. Open one orthogonal voice to pressure-test the claim.
+5. Record convergence only when different axes point to the same strategic object.
+6. Preserve unresolved tension when the voices explain different levels of the same event.
+
+## Do-Not-Collapse Rules
+
+Do not collapse Pape into Mearsheimer. They can both explain coercive failure, but Pape seeks forecast mechanisms and falsifiers while Mearsheimer seeks structural constraints and bargaining geometry.
+
+Do not collapse Mercouris into Diesen. They can both read institutional sequence, but Mercouris follows diplomatic/process chronology while Diesen lifts the sequence into order-transition consequence.
+
+Do not collapse Marandi into Pape or Mearsheimer. They can all reject coercive success, but Marandi supplies Iran-facing perception, red-line language, and legitimacy signaling.
+
+Do not collapse Diesen into the guests he hosts. Diesen's channel can transform Mearsheimer, Marandi, Sachs, Ritter, or Postol without absorbing their voice continuity.
+
+Do not collapse all anti-war or anti-coercion conclusions into one worldview. Same conclusion, different axis, is the core analytic value.
+

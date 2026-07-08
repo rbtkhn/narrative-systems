@@ -30,7 +30,8 @@ Use [_template.md](_template.md) for every new voice record. The template is int
 
 | Comparison | Purpose | Status |
 | --- | --- | --- |
-| [Pape / Mercouris orthogonality](comparisons/pape-mercouris.md) | Preserves the mechanism/falsifier axis vs room/sequence/legitimacy axis. | seed-comparison |
+| [Voice orthogonality map](comparisons/orthogonality-map.md) | Preserves the current five-axis ensemble and its do-not-collapse rules. | seed-map |
+| [Pape / Mercouris orthogonality](comparisons/pape-mercouris.md) | Compatibility pointer to the ensemble orthogonality map. | compat-pointer |
 
 ## Status
 
