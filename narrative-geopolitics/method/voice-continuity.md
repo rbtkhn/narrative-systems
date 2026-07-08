@@ -20,6 +20,7 @@ Voice continuity sits between source grounding and public judgment:
 ```text
 source manifest
 -> voice continuity check
+-> channel conditioning check when host context matters
 -> synthesis
 -> public brief
 -> forecast / review hook
@@ -47,3 +48,5 @@ Use `narrative-geopolitics/voices/_template.md` when adding a new voice.
 Voice continuity is not source truth. It interprets recurring patterns after the source floor is identified.
 
 Voice continuity is also not final judgment. It informs synthesis and briefs, but the daily run still has to name the crisis object, actor incentives, uncertainty, and forecast/review hook.
+
+Voice continuity is not channel conditioning. Use [../channels/](../channels/README.md) when the key question is how a host, show, or channel reshaped a guest's claims.

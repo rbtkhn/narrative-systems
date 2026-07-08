@@ -9,6 +9,7 @@ Sources are stored centrally because one transcript or source capture may involv
 ```text
 archive/ = source truth
 voices/  = voice continuity and routing
+channels/ = host, show, and channel conditioning
 work/    = daily synthesis
 public/  = published briefs
 ```
@@ -19,6 +20,7 @@ public/  = published briefs
 archive/
 |-- README.md
 |-- source-manifest.json
+|-- voice-routing-audit.md
 `-- sources/
     `-- YYYY-MM-DD/
         `-- source-*.md
@@ -27,6 +29,8 @@ archive/
 ## Manifest
 
 [source-manifest.json](source-manifest.json) records each imported source with its local archive path, upstream source path, source class, modality, voice slugs, host slug when present, and import status.
+
+Use `voice_slugs` for whole-source-person continuity. Use `host_slug` as the v1 routing key into [../channels/](../channels/README.md).
 
 Use [voice-routing-audit.md](voice-routing-audit.md) when deciding whether a shared source should carry more than one `voice_slug`.
 

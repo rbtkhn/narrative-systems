@@ -6,9 +6,9 @@ This note records archive-level checks for whether imported sources should carry
 
 ## Rule
 
-Use `voice_slugs` for recurring source-people whose interpretive pattern may need continuity tracking.
+Use `voice_slugs` for whole-source-person continuity.
 
-Use `host_slug` for host, channel, show, or publication routing when the host context matters but a durable voice record is not yet justified.
+Use `host_slug` for host, channel, show, or publication routing when host context matters.
 
 Do not add entity, institution, publication, or channel slugs to `voice_slugs` until the system explicitly supports non-person continuity records.
 
@@ -18,26 +18,25 @@ Audit date: `2026-07-07`
 
 Source basis: [source-manifest.json](source-manifest.json)
 
-The Pape import contains 17 guest/interview pressure-test sources. Most should remain `voice_slugs: ["pape"]` because Pape is the load-bearing voice and the host is either a one-off person or a channel/entity.
+The Pape import contains 17 guest/interview pressure-test sources. All should remain `voice_slugs: ["pape"]` because Pape is the load-bearing analyst voice.
 
-One recurring host-pressure voice should already be represented in `voice_slugs`:
+Host-conditioned routing belongs in `host_slug` and [../channels/](../channels/README.md).
 
-| Voice slug | Evidence | Decision |
+| Channel slug | Evidence | Decision |
 | --- | --- | --- |
-| `mario-nawfal` | Appears as person-host across 7 Pape interview captures. | Add alongside `pape` on those 7 source rows. |
+| `mario-nawfal` | Appears as host/channel across 7 Pape interview captures. | Route through [../channels/mario-nawfal/](../channels/mario-nawfal/README.md), not through `voice_slugs`. |
 
-These person-hosts remain candidates, but are not promoted in this pass:
+These host/channel shelves exist as lightweight Pape-reference shelves:
 
-| Candidate slug | Evidence | Reason held back |
+| Channel slug | Evidence | Status |
 | --- | --- | --- |
-| `clayton-morris` | Appears in 2 Redacted captures. | Redacted may need a channel/show continuity model before person-host promotion. |
-| `natali-morris` | Appears in 2 Redacted captures. | Same as above. |
-| `daniel-davis` | Appears in 1 Pape capture. | One source is not enough for a voice record. |
-| `cyrus-janssen` | Appears in 1 Pape capture. | One source is not enough for a voice record. |
-| `ryan-grim` | Appears in 1 Pape capture. | One source is not enough for a voice record. |
-| `tom-switzer` | Appears in 1 Pape capture. | One source is not enough for a voice record. |
-| `sulaiman-ahmed` | Appears in 1 Pape capture. | One source is not enough for a voice record. |
+| `breaking-points` | Appears in 4 Pape captures. | Lightweight shelf. |
+| `redacted-news` | Appears in 2 Pape captures. | Lightweight shelf. |
+| `daniel-davis` | Appears in 1 Pape capture. | Lightweight shelf. |
+| `cyrus-janssen` | Appears in 1 Pape capture. | Lightweight shelf. |
+| `tom-switzer` | Appears in 1 Pape capture. | Lightweight shelf. |
+| `moral-resistance` | Appears in 1 Pape capture. | Lightweight shelf. |
 
 ## Follow-Up
 
-If `mario-nawfal` becomes a full voice record, its source index should link back into the 7 shared archive files already tagged in the manifest.
+If a host later becomes a full voice record, that should be a separate decision from channel routing.

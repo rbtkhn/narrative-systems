@@ -39,6 +39,10 @@ narrative-geopolitics/
 │   ├── README.md
 │   ├── source-manifest.json
 │   └── sources/
+├── channels/
+│   ├── README.md
+│   ├── channel-index.md
+│   └── _template.md
 ├── method/
 │   ├── narrative-statecraft.md
 │   └── voice-continuity.md
@@ -74,6 +78,12 @@ Imported source truth lives in [archive/](archive/README.md). Voice records link
 Narrative Geopolitics uses [voices/](voices/README.md) for durable voice records. A voice can be a speaker, writer, essayist, interview guest, social poster, or mixed-format analyst.
 
 Voice continuity means remembered interpretive pattern across sources and time. Voice records are internal first; public summaries can come later after a record is stable enough to share.
+
+## Channel Conditioning
+
+Narrative Geopolitics uses [channels/](channels/README.md) for host, show, and channel conditioning. Open this layer when the real question is how a host frames, pressures, selects, amplifies, compresses, or translates a guest's claims.
+
+Pape remains the analyst voice. Pape-on-host sources route through channel shelves when host context changes interpretation.
 
 ## Public Voice
 

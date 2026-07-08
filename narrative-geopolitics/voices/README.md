@@ -28,6 +28,8 @@ Voice records are internal first. Public summaries can come later when a record 
 
 People come first. Entity, institution, publication, or channel records can be added later if daily runs prove they need their own continuity objects.
 
+Host, show, and channel conditioning belongs in [../channels/](../channels/README.md), not in a voice record, unless the host also becomes a recurring source-person whose own claims need continuity.
+
 ## Minimum Rule
 
 Do not add a voice record just because a source appears once.

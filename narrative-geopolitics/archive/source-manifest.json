@@ -455,7 +455,7 @@
                         "voice_slugs":  [
                                             "pape"
                                         ],
-                        "host_slug":  null,
+                        "host_slug":  "redacted-news",
                         "import_status":  "imported"
                     },
                     {
@@ -607,8 +607,7 @@
                         "source_class":  "guest interview pressure test",
                         "modality":  "cleaned-transcript",
                         "voice_slugs":  [
-                                            "pape",
-                                            "mario-nawfal"
+                                            "pape"
                                         ],
                         "host_slug":  "mario-nawfal",
                         "import_status":  "imported"
@@ -678,8 +677,7 @@
                         "source_class":  "guest interview pressure test",
                         "modality":  "transcript",
                         "voice_slugs":  [
-                                            "pape",
-                                            "mario-nawfal"
+                                            "pape"
                                         ],
                         "host_slug":  "mario-nawfal",
                         "import_status":  "imported"
@@ -737,7 +735,7 @@
                         "voice_slugs":  [
                                             "pape"
                                         ],
-                        "host_slug":  null,
+                        "host_slug":  "tom-switzer",
                         "import_status":  "imported"
                     },
                     {
@@ -749,8 +747,7 @@
                         "source_class":  "guest interview pressure test",
                         "modality":  "transcript",
                         "voice_slugs":  [
-                                            "pape",
-                                            "mario-nawfal"
+                                            "pape"
                                         ],
                         "host_slug":  "mario-nawfal",
                         "import_status":  "imported"
@@ -820,8 +817,7 @@
                         "source_class":  "guest interview pressure test",
                         "modality":  "cleaned-transcript",
                         "voice_slugs":  [
-                                            "pape",
-                                            "mario-nawfal"
+                                            "pape"
                                         ],
                         "host_slug":  "mario-nawfal",
                         "import_status":  "imported"
@@ -877,8 +873,7 @@
                         "source_class":  "guest interview pressure test",
                         "modality":  "cleaned-transcript",
                         "voice_slugs":  [
-                                            "pape",
-                                            "mario-nawfal"
+                                            "pape"
                                         ],
                         "host_slug":  "mario-nawfal",
                         "import_status":  "imported"
@@ -920,8 +915,7 @@
                         "source_class":  "guest interview pressure test",
                         "modality":  "cleaned-transcript",
                         "voice_slugs":  [
-                                            "pape",
-                                            "mario-nawfal"
+                                            "pape"
                                         ],
                         "host_slug":  "mario-nawfal",
                         "import_status":  "imported"
@@ -1047,8 +1041,7 @@
                         "source_class":  "guest interview pressure test",
                         "modality":  "cleaned-transcript",
                         "voice_slugs":  [
-                                            "pape",
-                                            "mario-nawfal"
+                                            "pape"
                                         ],
                         "host_slug":  "mario-nawfal",
                         "import_status":  "imported"

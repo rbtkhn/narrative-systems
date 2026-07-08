@@ -11,6 +11,7 @@ source material
 -> claims
 -> crisis object
 -> actors
+-> voice / channel checks
 -> narratives
 -> constraints
 -> judgment
@@ -24,6 +25,7 @@ Narrative Statecraft inherits these principles from `strategy-codex/statecraft`:
 - name the crisis object before drafting judgment
 - distinguish source truth from synthesis
 - preserve voice continuity when an interpretation depends on a source-person's history
+- preserve channel conditioning when a host or show changes the way a guest's claim should be read
 - identify actor incentives and legitimacy claims
 - avoid promoting every sharp interpretation into a grand framework
 - include review hooks so judgment can learn from later evidence
@@ -33,6 +35,12 @@ Narrative Statecraft inherits these principles from `strategy-codex/statecraft`:
 Use [voice-continuity.md](voice-continuity.md) when a daily run depends on whether a source-person's claim is new, recurring, contradicted, forecast-bearing, or shaped by source modality.
 
 Use `voice` as the umbrella term. Use `speaker` only when the source is specifically a spoken appearance.
+
+## Channel Conditioning
+
+Use [../channels/](../channels/README.md) when a daily run depends on host-conditioned guest transformation: framing, pressure, selection, amplification, compression, or translation.
+
+Do not flatten a guest-on-host source into `voices/` when the host context changes retrieval posture.
 
 ## Simplification
 
