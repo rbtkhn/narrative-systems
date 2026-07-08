@@ -1,8 +1,8 @@
 {
   "manifest_id": "narrative-geopolitics-pape-source-import-v1",
   "source_basis": "strategy-codex/statecraft/voices/pape/pape-index.md",
-  "imported_at": "2026-07-07",
-  "source_count": 130,
+  "imported_at": "2026-07-08",
+  "source_count": 340,
   "boundary": {
     "archive": "source truth",
     "voices": "voice continuity and routing",
@@ -214,7 +214,7 @@
     },
     {
       "date": "2026-02-07",
-      "title": "Daniel Davis × Glenn Diesen — Iran on a knife’s edge / objectives vs capability (operator transcript)",
+      "title": "Daniel Davis \u00c3\u2014 Glenn Diesen \u00e2\u20ac\u201d Iran on a knife\u00e2\u20ac\u2122s edge / objectives vs capability (operator transcript)",
       "local_path": "narrative-geopolitics/archive/sources/2026-02-07/source-glenn-diesen-daniel-davis-iran-knife-edge-2026-02-07.md",
       "voice_index_path": "../../archive/sources/2026-02-07/source-glenn-diesen-daniel-davis-iran-knife-edge-2026-02-07.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-07/source-glenn-diesen-daniel-davis-iran-knife-edge-2026-02-07.md",
@@ -284,7 +284,7 @@
     },
     {
       "date": "2026-02-27",
-      "title": "From Kosovo to Iran: The Smart Bomb Trap and the Risk of Catastrophic…",
+      "title": "From Kosovo to Iran: The Smart Bomb Trap and the Risk of Catastrophic\u00e2\u20ac\u00a6",
       "local_path": "narrative-geopolitics/archive/sources/2026-02-27/source-pape-from-kosovo-to-iran-the-smart-bomb-2026-02-27.md",
       "voice_index_path": "../../archive/sources/2026-02-27/source-pape-from-kosovo-to-iran-the-smart-bomb-2026-02-27.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-27/source-pape-from-kosovo-to-iran-the-smart-bomb-2026-02-27.md",
@@ -326,7 +326,7 @@
     },
     {
       "date": "2026-03-01",
-      "title": "Daniel Davis × Glenn Diesen — U.S. strategic miscalculation / Iran war (operator cleaned transcript)",
+      "title": "Daniel Davis \u00c3\u2014 Glenn Diesen \u00e2\u20ac\u201d U.S. strategic miscalculation / Iran war (operator cleaned transcript)",
       "local_path": "narrative-geopolitics/archive/sources/2026-03-01/source-glenn-diesen-daniel-davis-iran-miscalculation-2026-03-01.md",
       "voice_index_path": "../../archive/sources/2026-03-01/source-glenn-diesen-daniel-davis-iran-miscalculation-2026-03-01.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-01/source-glenn-diesen-daniel-davis-iran-miscalculation-2026-03-01.md",
@@ -340,7 +340,7 @@
     },
     {
       "date": "2026-03-01",
-      "title": "Smart Bomb Trap Confirmed: Decapitation, Nationalism, and the Escalat…",
+      "title": "Smart Bomb Trap Confirmed: Decapitation, Nationalism, and the Escalat\u00e2\u20ac\u00a6",
       "local_path": "narrative-geopolitics/archive/sources/2026-03-01/source-pape-smart-bomb-trap-confirmed-decapitation-2026-03-01.md",
       "voice_index_path": "../../archive/sources/2026-03-01/source-pape-smart-bomb-trap-confirmed-decapitation-2026-03-01.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-01/source-pape-smart-bomb-trap-confirmed-decapitation-2026-03-01.md",
@@ -354,7 +354,7 @@
     },
     {
       "date": "2026-03-01",
-      "title": "What Vox Couldn’t Publish",
+      "title": "What Vox Couldn\u00e2\u20ac\u2122t Publish",
       "local_path": "narrative-geopolitics/archive/sources/2026-03-01/source-pape-what-vox-couldnt-publish-2026-03-01.md",
       "voice_index_path": "../../archive/sources/2026-03-01/source-pape-what-vox-couldnt-publish-2026-03-01.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-01/source-pape-what-vox-couldnt-publish-2026-03-01.md",
@@ -368,7 +368,7 @@
     },
     {
       "date": "2026-03-02",
-      "title": "The Escalation Ledger — Iran, Day 3",
+      "title": "The Escalation Ledger \u00e2\u20ac\u201d Iran, Day 3",
       "local_path": "narrative-geopolitics/archive/sources/2026-03-02/source-pape-the-escalation-ledger-iran-day-3-2026-03-02.md",
       "voice_index_path": "../../archive/sources/2026-03-02/source-pape-the-escalation-ledger-iran-day-3-2026-03-02.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-02/source-pape-the-escalation-ledger-iran-day-3-2026-03-02.md",
@@ -424,7 +424,7 @@
     },
     {
       "date": "2026-03-05",
-      "title": "Day 5: The War Is Widening — from Gulf Chokepoints to the Caucasus",
+      "title": "Day 5: The War Is Widening \u00e2\u20ac\u201d from Gulf Chokepoints to the Caucasus",
       "local_path": "narrative-geopolitics/archive/sources/2026-03-05/source-pape-day-5-the-war-is-widening-from-gulf-2026-03-05.md",
       "voice_index_path": "../../archive/sources/2026-03-05/source-pape-day-5-the-war-is-widening-from-gulf-2026-03-05.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-05/source-pape-day-5-the-war-is-widening-from-gulf-2026-03-05.md",
@@ -438,7 +438,7 @@
     },
     {
       "date": "2026-03-05",
-      "title": "Parallel Strategic Attack — Stage II of the Smart Bomb Trap",
+      "title": "Parallel Strategic Attack \u00e2\u20ac\u201d Stage II of the Smart Bomb Trap",
       "local_path": "narrative-geopolitics/archive/sources/2026-03-05/source-pape-parallel-strategic-attack-stage-ii-2026-03-05.md",
       "voice_index_path": "../../archive/sources/2026-03-05/source-pape-parallel-strategic-attack-stage-ii-2026-03-05.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-05/source-pape-parallel-strategic-attack-stage-ii-2026-03-05.md",
@@ -494,7 +494,7 @@
     },
     {
       "date": "2026-03-07",
-      "title": "The Escalation Trap Widens: Russia’s Intelligence Lifeline to Iran",
+      "title": "The Escalation Trap Widens: Russia\u00e2\u20ac\u2122s Intelligence Lifeline to Iran",
       "local_path": "narrative-geopolitics/archive/sources/2026-03-07/source-pape-the-escalation-trap-widens-russias-2026-03-07.md",
       "voice_index_path": "../../archive/sources/2026-03-07/source-pape-the-escalation-trap-widens-russias-2026-03-07.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-07/source-pape-the-escalation-trap-widens-russias-2026-03-07.md",
@@ -508,7 +508,7 @@
     },
     {
       "date": "2026-03-08",
-      "title": "Three Signals to Watch After Iran’s Leadership Transition",
+      "title": "Three Signals to Watch After Iran\u00e2\u20ac\u2122s Leadership Transition",
       "local_path": "narrative-geopolitics/archive/sources/2026-03-08/source-pape-three-signals-to-watch-after-irans-2026-03-08.md",
       "voice_index_path": "../../archive/sources/2026-03-08/source-pape-three-signals-to-watch-after-irans-2026-03-08.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-08/source-pape-three-signals-to-watch-after-irans-2026-03-08.md",
@@ -550,7 +550,7 @@
     },
     {
       "date": "2026-03-10",
-      "title": "John Mearsheimer: U.S. Already Lost Iran War — No Off-Ramp in Sight",
+      "title": "John Mearsheimer: U.S. Already Lost Iran War \u00e2\u20ac\u201d No Off-Ramp in Sight",
       "local_path": "narrative-geopolitics/archive/sources/2026-03-10/source-diesen-mearsheimer-us-already-lost-no-offramp-2026-03-10.md",
       "voice_index_path": "../../archive/sources/2026-03-10/source-diesen-mearsheimer-us-already-lost-no-offramp-2026-03-10.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-10/source-diesen-mearsheimer-us-already-lost-no-offramp-2026-03-10.md",
@@ -620,7 +620,7 @@
     },
     {
       "date": "2026-03-18",
-      "title": "Daniel Davis × Glenn Diesen — Iran’s aims, Hormuz, military options, Joe Kent (operator transcript)",
+      "title": "Daniel Davis \u00c3\u2014 Glenn Diesen \u00e2\u20ac\u201d Iran\u00e2\u20ac\u2122s aims, Hormuz, military options, Joe Kent (operator transcript)",
       "local_path": "narrative-geopolitics/archive/sources/2026-03-18/source-glenn-diesen-daniel-davis-military-options-kent-2026-03-18.md",
       "voice_index_path": "../../archive/sources/2026-03-18/source-glenn-diesen-daniel-davis-military-options-kent-2026-03-18.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-18/source-glenn-diesen-daniel-davis-military-options-kent-2026-03-18.md",
@@ -704,7 +704,7 @@
     },
     {
       "date": "2026-03-25",
-      "title": "Lt Col. Daniel Davis: Iran’s Trap Is Already Set… And the U.S. Is Moving In",
+      "title": "Lt Col. Daniel Davis: Iran\u00e2\u20ac\u2122s Trap Is Already Set\u00e2\u20ac\u00a6 And the U.S. Is Moving In",
       "local_path": "narrative-geopolitics/archive/sources/2026-03-25/source-dialogue-works-lt-col-daniel-davis-iran-s-trap-is-already-set-and-the-u-s-is-2026-03-25.md",
       "voice_index_path": "../../archive/sources/2026-03-25/source-dialogue-works-lt-col-daniel-davis-iran-s-trap-is-already-set-and-the-u-s-is-2026-03-25.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-25/source-dialogue-works-lt-col-daniel-davis-iran-s-trap-is-already-set-and-the-u-s-is-2026-03-25.md",
@@ -732,7 +732,7 @@
     },
     {
       "date": "2026-03-27",
-      "title": "The Marine Threshold: 5,000 Marines and the 82nd Airborne—And Still N…",
+      "title": "The Marine Threshold: 5,000 Marines and the 82nd Airborne\u00e2\u20ac\u201dAnd Still N\u00e2\u20ac\u00a6",
       "local_path": "narrative-geopolitics/archive/sources/2026-03-27/source-pape-the-marine-threshold-5000-marines-2026-03-27.md",
       "voice_index_path": "../../archive/sources/2026-03-27/source-pape-the-marine-threshold-5000-marines-2026-03-27.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-27/source-pape-the-marine-threshold-5000-marines-2026-03-27.md",
@@ -746,7 +746,7 @@
     },
     {
       "date": "2026-03-29",
-      "title": "Vietnam Shows Exactly When Air Wars Become Ground Wars—Those Signals …",
+      "title": "Vietnam Shows Exactly When Air Wars Become Ground Wars\u00e2\u20ac\u201dThose Signals \u00e2\u20ac\u00a6",
       "local_path": "narrative-geopolitics/archive/sources/2026-03-29/source-pape-vietnam-shows-exactly-when-air-wars-2026-03-29.md",
       "voice_index_path": "../../archive/sources/2026-03-29/source-pape-vietnam-shows-exactly-when-air-wars-2026-03-29.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-29/source-pape-vietnam-shows-exactly-when-air-wars-2026-03-29.md",
@@ -760,7 +760,7 @@
     },
     {
       "date": "2026-04-02",
-      "title": "Daniel Davis × Glenn Diesen — Trump war speech, Hormuz, NATO (operator transcript)",
+      "title": "Daniel Davis \u00c3\u2014 Glenn Diesen \u00e2\u20ac\u201d Trump war speech, Hormuz, NATO (operator transcript)",
       "local_path": "narrative-geopolitics/archive/sources/2026-04-02/source-glenn-diesen-daniel-davis-trump-war-speech-2026-04-02.md",
       "voice_index_path": "../../archive/sources/2026-04-02/source-glenn-diesen-daniel-davis-trump-war-speech-2026-04-02.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-02/source-glenn-diesen-daniel-davis-trump-war-speech-2026-04-02.md",
@@ -900,7 +900,7 @@
     },
     {
       "date": "2026-04-16",
-      "title": "The Iran War Is About to Hit a Supply Wall—Markets Aren’t Ready",
+      "title": "The Iran War Is About to Hit a Supply Wall\u00e2\u20ac\u201dMarkets Aren\u00e2\u20ac\u2122t Ready",
       "local_path": "narrative-geopolitics/archive/sources/2026-04-16/source-pape-the-iran-war-is-about-to-hit-a-supply-2026-04-16.md",
       "voice_index_path": "../../archive/sources/2026-04-16/source-pape-the-iran-war-is-about-to-hit-a-supply-2026-04-16.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-16/source-pape-the-iran-war-is-about-to-hit-a-supply-2026-04-16.md",
@@ -914,7 +914,7 @@
     },
     {
       "date": "2026-04-17",
-      "title": "A Real-Time Test of Power—and Why Tonight Matters",
+      "title": "A Real-Time Test of Power\u00e2\u20ac\u201dand Why Tonight Matters",
       "local_path": "narrative-geopolitics/archive/sources/2026-04-17/source-pape-a-real-time-test-of-powerand-why-2026-04-17.md",
       "voice_index_path": "../../archive/sources/2026-04-17/source-pape-a-real-time-test-of-powerand-why-2026-04-17.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-17/source-pape-a-real-time-test-of-powerand-why-2026-04-17.md",
@@ -942,7 +942,7 @@
     },
     {
       "date": "2026-04-20",
-      "title": "Redacted — *The Collapse is Now \"Ahead of Schedule\"* (April 20, 2026)",
+      "title": "Redacted \u00e2\u20ac\u201d *The Collapse is Now \"Ahead of Schedule\"* (April 20, 2026)",
       "local_path": "narrative-geopolitics/archive/sources/2026-04-20/source-pape-collapse-ahead-of-schedule-2026-04-20.md",
       "voice_index_path": "../../archive/sources/2026-04-20/source-pape-collapse-ahead-of-schedule-2026-04-20.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-20/source-pape-collapse-ahead-of-schedule-2026-04-20.md",
@@ -956,7 +956,7 @@
     },
     {
       "date": "2026-04-21",
-      "title": "Robert A. Pape (@ProfessorPape) — zero-sum conflict / escalation ladd…",
+      "title": "Robert A. Pape (@ProfessorPape) \u00e2\u20ac\u201d zero-sum conflict / escalation ladd\u00e2\u20ac\u00a6",
       "local_path": "narrative-geopolitics/archive/sources/2026-04-21/source-pape-zero-sum-escalation-ladder-2026-04-21.md",
       "voice_index_path": "../../archive/sources/2026-04-21/source-pape-zero-sum-escalation-ladder-2026-04-21.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-21/source-pape-zero-sum-escalation-ladder-2026-04-21.md",
@@ -1040,7 +1040,7 @@
     },
     {
       "date": "2026-04-30",
-      "title": "Prof John Mearsheimer: We’ve Lost the Iran War, We’re Screwed",
+      "title": "Prof John Mearsheimer: We\u00e2\u20ac\u2122ve Lost the Iran War, We\u00e2\u20ac\u2122re Screwed",
       "local_path": "narrative-geopolitics/archive/sources/2026-04-30/source-daniel-davis-mearsheimer-weve-lost-the-iran-war-were-screwed-2026-04-30.md",
       "voice_index_path": "../../archive/sources/2026-04-30/source-daniel-davis-mearsheimer-weve-lost-the-iran-war-were-screwed-2026-04-30.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-30/source-daniel-davis-mearsheimer-weve-lost-the-iran-war-were-screwed-2026-04-30.md",
@@ -1054,7 +1054,7 @@
     },
     {
       "date": "2026-05-03",
-      "title": "What the First 60 Days Actually Changed-and Why the Next 30 Will Be W…",
+      "title": "What the First 60 Days Actually Changed-and Why the Next 30 Will Be W\u00e2\u20ac\u00a6",
       "local_path": "narrative-geopolitics/archive/sources/2026-05-03/source-pape-what-the-first-60-days-actually-changed-and-why-the-next-30-will-be-worse-2026-05-03.md",
       "voice_index_path": "../../archive/sources/2026-05-03/source-pape-what-the-first-60-days-actually-changed-and-why-the-next-30-will-be-worse-2026-05-03.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-03/source-pape-what-the-first-60-days-actually-changed-and-why-the-next-30-will-be-worse-2026-05-03.md",
@@ -1124,7 +1124,7 @@
     },
     {
       "date": "2026-05-06",
-      "title": "What Really Changed Yesterday – The U.S. Lost More Control of Gulf Oil",
+      "title": "What Really Changed Yesterday \u00e2\u20ac\u201c The U.S. Lost More Control of Gulf Oil",
       "local_path": "narrative-geopolitics/archive/sources/2026-05-06/source-pape-what-really-changed-yesterday-the-us-lost-more-control-of-gulf-oil-2026-05-06.md",
       "voice_index_path": "../../archive/sources/2026-05-06/source-pape-what-really-changed-yesterday-the-us-lost-more-control-of-gulf-oil-2026-05-06.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-06/source-pape-what-really-changed-yesterday-the-us-lost-more-control-of-gulf-oil-2026-05-06.md",
@@ -1208,7 +1208,7 @@
     },
     {
       "date": "2026-05-12",
-      "title": "TRUMP'S NEXT IRAN STEPS REVEALED - w/ #1 Political Scientist Prof. Ro…",
+      "title": "TRUMP'S NEXT IRAN STEPS REVEALED - w/ #1 Political Scientist Prof. Ro\u00e2\u20ac\u00a6",
       "local_path": "narrative-geopolitics/archive/sources/2026-05-12/source-pape-mario-nawfal-trump-s-next-iran-steps-revealed-2026-05-12.md",
       "voice_index_path": "../../archive/sources/2026-05-12/source-pape-mario-nawfal-trump-s-next-iran-steps-revealed-2026-05-12.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-12/source-pape-mario-nawfal-trump-s-next-iran-steps-revealed-2026-05-12.md",
@@ -1306,7 +1306,7 @@
     },
     {
       "date": "2026-05-20",
-      "title": "Iran Warns U.S. of 'Surprises'; Xi, Putin Meet in Beijing - w/ Prof. …",
+      "title": "Iran Warns U.S. of 'Surprises'; Xi, Putin Meet in Beijing - w/ Prof. \u00e2\u20ac\u00a6",
       "local_path": "narrative-geopolitics/archive/sources/2026-05-20/source-pape-mario-nawfal-iran-warns-u-s-of-surprises-xi-putin-meet-in-beijing-2026-05-20.md",
       "voice_index_path": "../../archive/sources/2026-05-20/source-pape-mario-nawfal-iran-warns-u-s-of-surprises-xi-putin-meet-in-beijing-2026-05-20.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-20/source-pape-mario-nawfal-iran-warns-u-s-of-surprises-xi-putin-meet-in-beijing-2026-05-20.md",
@@ -1418,7 +1418,7 @@
     },
     {
       "date": "2026-05-29",
-      "title": "BREAKING: TRUMP TEASES LIFTING IRAN BLOCKADE - w/ Analyst & Prof. Rob…",
+      "title": "BREAKING: TRUMP TEASES LIFTING IRAN BLOCKADE - w/ Analyst & Prof. Rob\u00e2\u20ac\u00a6",
       "local_path": "narrative-geopolitics/archive/sources/2026-05-29/source-mario-nawfal-pape-breaking-trump-teases-lifting-iran-blockade-2026-05-29.md",
       "voice_index_path": "../../archive/sources/2026-05-29/source-mario-nawfal-pape-breaking-trump-teases-lifting-iran-blockade-2026-05-29.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-29/source-mario-nawfal-pape-breaking-trump-teases-lifting-iran-blockade-2026-05-29.md",
@@ -1501,6 +1501,20 @@
       "import_status": "imported"
     },
     {
+      "date": "2026-06-02",
+      "title": "BREAKING: IRAN ATTACKS KUWAIT - w/ Fmr. CIA Larry Johnson",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-02/source-mario-nawfal-larry-johnson-breaking-iran-attacks-kuwait-2026-06-02.md",
+      "voice_index_path": "../../archive/sources/2026-06-02/source-mario-nawfal-larry-johnson-breaking-iran-attacks-kuwait-2026-06-02.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-02/source-mario-nawfal-larry-johnson-breaking-iran-attacks-kuwait-2026-06-02.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "mario-nawfal",
+      "import_status": "imported"
+    },
+    {
       "date": "2026-06-03",
       "title": "Bombing While Talking II",
       "local_path": "narrative-geopolitics/archive/sources/2026-06-03/source-pape-bombing-while-talking-ii-2026-06-03.md",
@@ -1516,7 +1530,7 @@
     },
     {
       "date": "2026-06-03",
-      "title": "Redacted News x Robert Pape - Ukraine, Russia, escalation trap (opera…",
+      "title": "Redacted News x Robert Pape - Ukraine, Russia, escalation trap (opera\u00e2\u20ac\u00a6",
       "local_path": "narrative-geopolitics/archive/sources/2026-06-03/source-pape-redacted-we-are-in-the-end-game-now-ukraine-just-made-a-fatal-mistake-attacking-russia-2026-06-03.md",
       "voice_index_path": "../../archive/sources/2026-06-03/source-pape-redacted-we-are-in-the-end-game-now-ukraine-just-made-a-fatal-mistake-attacking-russia-2026-06-03.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-03/source-pape-redacted-we-are-in-the-end-game-now-ukraine-just-made-a-fatal-mistake-attacking-russia-2026-06-03.md",
@@ -1572,7 +1586,7 @@
     },
     {
       "date": "2026-06-08",
-      "title": "Day 100: Why Iran's Strategy Is Expanding – and the Ceasefire is Brea…",
+      "title": "Day 100: Why Iran's Strategy Is Expanding \u00e2\u20ac\u201c and the Ceasefire is Brea\u00e2\u20ac\u00a6",
       "local_path": "narrative-geopolitics/archive/sources/2026-06-08/source-pape-day-100-why-irans-strategy-is-expanding-2026-06-08.md",
       "voice_index_path": "../../archive/sources/2026-06-08/source-pape-day-100-why-irans-strategy-is-expanding-2026-06-08.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-08/source-pape-day-100-why-irans-strategy-is-expanding-2026-06-08.md",
@@ -1586,7 +1600,7 @@
     },
     {
       "date": "2026-06-09",
-      "title": "BREAKING: HEZBOLLAH INFILTRATES ISRAEL, APACHE SHOT DOWN – w/ Prof. R…",
+      "title": "BREAKING: HEZBOLLAH INFILTRATES ISRAEL, APACHE SHOT DOWN \u00e2\u20ac\u201c w/ Prof. R\u00e2\u20ac\u00a6",
       "local_path": "narrative-geopolitics/archive/sources/2026-06-09/source-mario-nawfal-pape-hezbollah-infiltrates-israel-apache-shot-down-2026-06-09.md",
       "voice_index_path": "../../archive/sources/2026-06-09/source-mario-nawfal-pape-hezbollah-infiltrates-israel-apache-shot-down-2026-06-09.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-09/source-mario-nawfal-pape-hezbollah-infiltrates-israel-apache-shot-down-2026-06-09.md",
@@ -1600,7 +1614,21 @@
     },
     {
       "date": "2026-06-09",
-      "title": "Professor Pape REACTS: Iran's 'Axis Of Resistance' Will Transform The…",
+      "title": "BREAKING: U.S. Resumes Strikes on Iran. A Clean Exit Is Unlikely. Tucker and John Mearsheimer React.",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-09/source-tucker-carlson-mearsheimer-us-resumes-strikes-iran-clean-exit-unlikely-2026-06-09.md",
+      "voice_index_path": "../../archive/sources/2026-06-09/source-tucker-carlson-mearsheimer-us-resumes-strikes-iran-clean-exit-unlikely-2026-06-09.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-09/source-tucker-carlson-mearsheimer-us-resumes-strikes-iran-clean-exit-unlikely-2026-06-09.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "tucker-carlson",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "Professor Pape REACTS: Iran's 'Axis Of Resistance' Will Transform The\u00e2\u20ac\u00a6",
       "local_path": "narrative-geopolitics/archive/sources/2026-06-09/source-pape-breaking-points-axis-of-resistance-security-belt-2026-06-09.md",
       "voice_index_path": "../../archive/sources/2026-06-09/source-pape-breaking-points-axis-of-resistance-security-belt-2026-06-09.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-09/source-pape-breaking-points-axis-of-resistance-security-belt-2026-06-09.md",
@@ -1628,7 +1656,7 @@
     },
     {
       "date": "2026-06-15",
-      "title": "Uncertain Deal—And Iran Certainly Enters Its Period of Maximum Leverage",
+      "title": "Uncertain Deal\u00e2\u20ac\u201dAnd Iran Certainly Enters Its Period of Maximum Leverage",
       "local_path": "narrative-geopolitics/archive/sources/2026-06-15/source-pape-uncertain-deal-iran-maximum-leverage-2026-06-15.md",
       "voice_index_path": "../../archive/sources/2026-06-15/source-pape-uncertain-deal-iran-maximum-leverage-2026-06-15.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-15/source-pape-uncertain-deal-iran-maximum-leverage-2026-06-15.md",
@@ -1642,7 +1670,7 @@
     },
     {
       "date": "2026-06-16",
-      "title": "CIA CHIEF WARNS: IRAN NOT SERIOUS ABOUT COMMITTING TO MoU - w/ Prof. …",
+      "title": "CIA CHIEF WARNS: IRAN NOT SERIOUS ABOUT COMMITTING TO MoU - w/ Prof. \u00e2\u20ac\u00a6",
       "local_path": "narrative-geopolitics/archive/sources/2026-06-16/source-mario-nawfal-robert-pape-cia-chief-warns-iran-not-serious-mou-2026-06-16.md",
       "voice_index_path": "../../archive/sources/2026-06-16/source-mario-nawfal-robert-pape-cia-chief-warns-iran-not-serious-mou-2026-06-16.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-16/source-mario-nawfal-robert-pape-cia-chief-warns-iran-not-serious-mou-2026-06-16.md",
@@ -1768,7 +1796,7 @@
     },
     {
       "date": "2026-06-26",
-      "title": "U.S STRIKE IRAN, U.S ISRAEL LEBANON DEAL VIOLATES THE MOU DEAL w/ PRO…",
+      "title": "U.S STRIKE IRAN, U.S ISRAEL LEBANON DEAL VIOLATES THE MOU DEAL w/ PRO\u00e2\u20ac\u00a6",
       "local_path": "narrative-geopolitics/archive/sources/2026-06-26/source-moral-resistance-robert-pape-us-strike-iran-lebanon-deal-violates-mou-2026-06-26.md",
       "voice_index_path": "../../archive/sources/2026-06-26/source-moral-resistance-robert-pape-us-strike-iran-lebanon-deal-violates-mou-2026-06-26.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-26/source-moral-resistance-robert-pape-us-strike-iran-lebanon-deal-violates-mou-2026-06-26.md",
@@ -1782,7 +1810,7 @@
     },
     {
       "date": "2026-06-27",
-      "title": "Situation Report — Special Edition",
+      "title": "Situation Report \u00e2\u20ac\u201d Special Edition",
       "local_path": "narrative-geopolitics/archive/sources/2026-06-27/source-pape-situation-report-special-edition-iran-war-heating-up-2026-06-27.md",
       "voice_index_path": "../../archive/sources/2026-06-27/source-pape-situation-report-special-edition-iran-war-heating-up-2026-06-27.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-27/source-pape-situation-report-special-edition-iran-war-heating-up-2026-06-27.md",
@@ -1796,7 +1824,7 @@
     },
     {
       "date": "2026-06-29",
-      "title": "The MOU Is Dying — Worse Is Still Ahead",
+      "title": "The MOU Is Dying \u00e2\u20ac\u201d Worse Is Still Ahead",
       "local_path": "narrative-geopolitics/archive/sources/2026-06-29/source-pape-the-mou-is-dying-worse-is-still-ahead-2026-06-29.md",
       "voice_index_path": "../../archive/sources/2026-06-29/source-pape-the-mou-is-dying-worse-is-still-ahead-2026-06-29.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-29/source-pape-the-mou-is-dying-worse-is-still-ahead-2026-06-29.md",
@@ -1810,7 +1838,7 @@
     },
     {
       "date": "2026-06-30",
-      "title": "TRUMP SAYS TALKS ON, IRAN SAYS NO — WHO'S CONTROLLING ESCALATION? – w…",
+      "title": "TRUMP SAYS TALKS ON, IRAN SAYS NO \u00e2\u20ac\u201d WHO'S CONTROLLING ESCALATION? \u00e2\u20ac\u201c w\u00e2\u20ac\u00a6",
       "local_path": "narrative-geopolitics/archive/sources/2026-06-30/source-mario-nawfal-robert-pape-trump-says-talks-on-iran-says-no-controlling-escalation-2026-06-30.md",
       "voice_index_path": "../../archive/sources/2026-06-30/source-mario-nawfal-robert-pape-trump-says-talks-on-iran-says-no-controlling-escalation-2026-06-30.md",
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-30/source-mario-nawfal-robert-pape-trump-says-talks-on-iran-says-no-controlling-escalation-2026-06-30.md",
@@ -1834,6 +1862,2921 @@
         "pape"
       ],
       "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Russia Destroys Arms Dump Huge Blast; Zelensky Begs Patriots Says Russia Ground Advance Unimportant",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-07/source-mercouris-russia-destroys-arms-dump-zelensky-begs-patriots-2026-07-07.md",
+      "voice_index_path": "../../archive/sources/2026-07-07/source-mercouris-russia-destroys-arms-dump-zelensky-begs-patriots-2026-07-07.md",
+      "upstream_path": "operator-paste://2026-07-08/mercouris-russia-destroys-arms-dump-zelensky-begs-patriots",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Col Douglas Macgregor: War to the Last Missile in Iran",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-07/source-daniel-davis-macgregor-war-to-the-last-missile-in-iran-2026-07-07.md",
+      "voice_index_path": "../../archive/sources/2026-07-07/source-daniel-davis-macgregor-war-to-the-last-missile-in-iran-2026-07-07.md",
+      "upstream_path": "operator-paste://2026-07-08/daniel-davis-macgregor-war-to-the-last-missile-in-iran",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "macgregor"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Seyed M. Marandi: Iran Strikes Ships as the U.S. Tests Iran's Control Over the Strait of Hormuz",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-07/source-glenn-diesen-seyed-m-marandi-iran-strikes-ships-as-the-u-s-tests-iran-s-control-over-the-strait-of-hormuz-2026-07-07.md",
+      "voice_index_path": "../../archive/sources/2026-07-07/source-glenn-diesen-seyed-m-marandi-iran-strikes-ships-as-the-u-s-tests-iran-s-control-over-the-strait-of-hormuz-2026-07-07.md",
+      "upstream_path": "operator-paste://2026-07-08/glenn-diesen-seyed-m-marandi-iran-strikes-ships-as-the-u-s-tests-iran-s-control-over-the-strait-of-hormuz",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "John Helmer: Trump Signs NATO Escalation! Putin's DEMILITARIZATION Order (To Poland!)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-07/source-dialogue-works-john-helmer-trump-signs-nato-escalation-putins-demilitarization-order-to-poland-2026-07-07.md",
+      "voice_index_path": "../../archive/sources/2026-07-07/source-dialogue-works-john-helmer-trump-signs-nato-escalation-putins-demilitarization-order-to-poland-2026-07-07.md",
+      "upstream_path": "operator-paste://2026-07-08/dialogue-works-john-helmer-trump-signs-nato-escalation-putins-demilitarization-order-to-poland",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "helmer"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Robert Barnes: U.S. Just REVOKED Iran Waivers - We Heading to War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-07/source-dialogue-works-robert-barnes-u-s-just-revoked-iran-waivers-we-heading-to-war-2026-07-07.md",
+      "voice_index_path": "../../archive/sources/2026-07-07/source-dialogue-works-robert-barnes-u-s-just-revoked-iran-waivers-we-heading-to-war-2026-07-07.md",
+      "upstream_path": "operator-paste://2026-07-08/dialogue-works-robert-barnes-u-s-just-revoked-iran-waivers-we-heading-to-war",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "barnes"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "BREAKING: US NEW STRIKES ON IRAN /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-07/source-daniel-davis-breaking-us-new-strikes-on-iran-2026-07-07.md",
+      "voice_index_path": "../../archive/sources/2026-07-07/source-daniel-davis-breaking-us-new-strikes-on-iran-2026-07-07.md",
+      "upstream_path": "operator-paste://2026-07-08/daniel-davis-breaking-us-new-strikes-on-iran",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "BREAKING: TRUMP STRIKES IRAN'S KHARG ISLAND FOR FIRST TIME SINCE CEASEFIRE w/Brandon Weichert",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-07/source-mario-nawfal-brandon-weichert-breaking-trump-strikes-irans-kharg-island-for-first-time-since-ceasefire-2026-07-07.md",
+      "voice_index_path": "../../archive/sources/2026-07-07/source-mario-nawfal-brandon-weichert-breaking-trump-strikes-irans-kharg-island-for-first-time-since-ceasefire-2026-07-07.md",
+      "upstream_path": "operator-paste://2026-07-08/mario-nawfal-brandon-weichert-breaking-trump-strikes-irans-kharg-island-for-first-time-since-ceasefire",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "weichert"
+      ],
+      "host_slug": "mario-nawfal",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-01",
+      "title": "Zelensky To Sack Syrsky Appoint Budanov Kiev Army Chief; Kiev's Konstantinovka Crisis; Drones Fade",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-01/source-alexander-mercouris-zelensky-to-sack-syrsky-appoint-budanov-kiev-army-chief-kiev-s-konstantinovka-crisis-drones-fade-2026-06-01.md",
+      "voice_index_path": "../../archive/sources/2026-06-01/source-alexander-mercouris-zelensky-to-sack-syrsky-appoint-budanov-kiev-army-chief-kiev-s-konstantinovka-crisis-drones-fade-2026-06-01.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-01/source-alexander-mercouris-zelensky-to-sack-syrsky-appoint-budanov-kiev-army-chief-kiev-s-konstantinovka-crisis-drones-fade-2026-06-01.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "Russian Massive Strike Shatters Kiev; Tsirkon Missile First Mass Use Kiev Troops Flee Konstantinovka",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-02/source-alexander-mercouris-russian-massive-strike-shatters-kiev-tsirkon-missile-first-mass-use-kiev-troops-flee-konstantinovka-2026-06-02.md",
+      "voice_index_path": "../../archive/sources/2026-06-02/source-alexander-mercouris-russian-massive-strike-shatters-kiev-tsirkon-missile-first-mass-use-kiev-troops-flee-konstantinovka-2026-06-02.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-02/source-alexander-mercouris-russian-massive-strike-shatters-kiev-tsirkon-missile-first-mass-use-kiev-troops-flee-konstantinovka-2026-06-02.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-03",
+      "title": "Russia Sanctions Crumble; St. Pete Hosts US German Business; Zelensky Sends Drones; US Iran Fighting",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-03/source-alexander-mercouris-russia-sanctions-crumble-st-pete-hosts-us-german-business-zelensky-sends-drones-us-iran-fighting-2026-06-03.md",
+      "voice_index_path": "../../archive/sources/2026-06-03/source-alexander-mercouris-russia-sanctions-crumble-st-pete-hosts-us-german-business-zelensky-sends-drones-us-iran-fighting-2026-06-03.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-03/source-alexander-mercouris-russia-sanctions-crumble-st-pete-hosts-us-german-business-zelensky-sends-drones-us-iran-fighting-2026-06-03.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-04",
+      "title": "Big Russian Army Breakthroughs Donbass Orekhov Shake Kiev NATO; Zelensky UK/EU Discuss Russia Talks",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-04/source-alexander-mercouris-big-russian-army-breakthroughs-donbass-orekhov-shake-kiev-nato-zelensky-uk-eu-discuss-russia-talks-2026-06-04.md",
+      "voice_index_path": "../../archive/sources/2026-06-04/source-alexander-mercouris-big-russian-army-breakthroughs-donbass-orekhov-shake-kiev-nato-zelensky-uk-eu-discuss-russia-talks-2026-06-04.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-04/source-alexander-mercouris-big-russian-army-breakthroughs-donbass-orekhov-shake-kiev-nato-zelensky-uk-eu-discuss-russia-talks-2026-06-04.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "Putin Uncompromising Tells West MSM Oreshnik Will Strike Kiev Russia Winning; Zelensky Pleads Summit",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-05/source-alexander-mercouris-putin-uncompromising-tells-west-msm-oreshnik-will-strike-kiev-russia-winning-zelensky-pleads-summit-2026-06-05.md",
+      "voice_index_path": "../../archive/sources/2026-06-05/source-alexander-mercouris-putin-uncompromising-tells-west-msm-oreshnik-will-strike-kiev-russia-winning-zelensky-pleads-summit-2026-06-05.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-05/source-alexander-mercouris-putin-uncompromising-tells-west-msm-oreshnik-will-strike-kiev-russia-winning-zelensky-pleads-summit-2026-06-05.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-06",
+      "title": "Putin Withering Reply To 'Insolent' Zelensky Letter; Kiev Drones To Fail Oreshnik May Target Europe",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-06/source-alexander-mercouris-putin-withering-reply-to-insolent-zelensky-letter-kiev-drones-to-fail-oreshnik-may-target-europe-2026-06-06.md",
+      "voice_index_path": "../../archive/sources/2026-06-06/source-alexander-mercouris-putin-withering-reply-to-insolent-zelensky-letter-kiev-drones-to-fail-oreshnik-may-target-europe-2026-06-06.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-06/source-alexander-mercouris-putin-withering-reply-to-insolent-zelensky-letter-kiev-drones-to-fail-oreshnik-may-target-europe-2026-06-06.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-07",
+      "title": "Russia Spurns Desperate Zelensky's Secret Talks Offer; Lyman Konstantinovka About To Fall West Panic",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-07/source-alexander-mercouris-russia-spurns-desperate-zelensky-secret-talks-offer-lyman-konstantinovka-about-to-fall-west-panic-2026-06-07.md",
+      "voice_index_path": "../../archive/sources/2026-06-07/source-alexander-mercouris-russia-spurns-desperate-zelensky-secret-talks-offer-lyman-konstantinovka-about-to-fall-west-panic-2026-06-07.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-07/source-alexander-mercouris-russia-spurns-desperate-zelensky-secret-talks-offer-lyman-konstantinovka-about-to-fall-west-panic-2026-06-07.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "Kiev Steps Up Work On Odessa Defences Fears Oreshnik Smashes Fortifications; Big Iran Israel Strikes",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-08/source-alexander-mercouris-kiev-odessa-oreshnik-fortifications-iran-israel-strikes-2026-06-08.md",
+      "voice_index_path": "../../archive/sources/2026-06-08/source-alexander-mercouris-kiev-odessa-oreshnik-fortifications-iran-israel-strikes-2026-06-08.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-08/source-alexander-mercouris-kiev-odessa-oreshnik-fortifications-iran-israel-strikes-2026-06-08.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "Zelensky Uselessly Begs UK/EU For AD; Russia Targets Sumy; Moscow Peaceful; Iran Israel Trade Blows",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-09/source-alexander-mercouris-moscow-sumy-zelensky-ad-iran-israel-2026-06-09.md",
+      "voice_index_path": "../../archive/sources/2026-06-09/source-alexander-mercouris-moscow-sumy-zelensky-ad-iran-israel-2026-06-09.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-09/source-alexander-mercouris-moscow-sumy-zelensky-ad-iran-israel-2026-06-09.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-10",
+      "title": "Putin Ignores EU Demand For Russian Surrender; Russia Confirms Kiev Troops Surrounded; Iran US War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-10/source-alexander-mercouris-putin-ignores-eu-demand-for-russian-surrender-russia-confirms-kiev-troops-surrounded-iran-us-war-2026-06-10.md",
+      "voice_index_path": "../../archive/sources/2026-06-10/source-alexander-mercouris-putin-ignores-eu-demand-for-russian-surrender-russia-confirms-kiev-troops-surrounded-iran-us-war-2026-06-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-10/source-alexander-mercouris-putin-ignores-eu-demand-for-russian-surrender-russia-confirms-kiev-troops-surrounded-iran-us-war-2026-06-10.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "Iran US War Resumes; Russia Brushes Off EU Sanctions, Complains To China Over Drones",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-11/source-alexander-mercouris-iran-us-war-resumes-russia-brushes-off-eu-sanctions-complains-to-china-over-drones-2026-06-11.md",
+      "voice_index_path": "../../archive/sources/2026-06-11/source-alexander-mercouris-iran-us-war-resumes-russia-brushes-off-eu-sanctions-complains-to-china-over-drones-2026-06-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-11/source-alexander-mercouris-iran-us-war-resumes-russia-brushes-off-eu-sanctions-complains-to-china-over-drones-2026-06-11.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-12",
+      "title": "Russia Mocks EU Demands; UK/EU Plan Arms Spend Debt Surge; UK Gov Implodes; Merkel For Russia Envoy",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-12/source-alexander-mercouris-russia-mocks-eu-demands-uk-eu-arms-debt-surge-uk-gov-implodes-merkel-envoy-2026-06-12.md",
+      "voice_index_path": "../../archive/sources/2026-06-12/source-alexander-mercouris-russia-mocks-eu-demands-uk-eu-arms-debt-surge-uk-gov-implodes-merkel-envoy-2026-06-12.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-12/source-alexander-mercouris-russia-mocks-eu-demands-uk-eu-arms-debt-surge-uk-gov-implodes-merkel-envoy-2026-06-12.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-13",
+      "title": "Putin Meets Military Warns West Says Russia Has Drone Dominance Seeks Victory; US Plans China Trap",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-13/source-alexander-mercouris-putin-meets-military-warns-west-drone-dominance-victory-us-china-trap-2026-06-13.md",
+      "voice_index_path": "../../archive/sources/2026-06-13/source-alexander-mercouris-putin-meets-military-warns-west-drone-dominance-victory-us-china-trap-2026-06-13.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-13/source-alexander-mercouris-putin-meets-military-warns-west-drone-dominance-victory-us-china-trap-2026-06-13.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-14",
+      "title": "US Iran Closer To Signing MoU Reflecting Iran's Terms; Russian MoD Says Konstantinovka Close To Fall",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-14/source-alexander-mercouris-us-iran-mou-iran-terms-konstantinovka-close-to-fall-2026-06-14.md",
+      "voice_index_path": "../../archive/sources/2026-06-14/source-alexander-mercouris-us-iran-mou-iran-terms-konstantinovka-close-to-fall-2026-06-14.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-14/source-alexander-mercouris-us-iran-mou-iran-terms-konstantinovka-close-to-fall-2026-06-14.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "US Iran Agree MoU US Ends Sea Blockade Neocons Israel Furious; Putin Tells Trump Ignore UK/EU",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-16/source-alexander-mercouris-us-iran-agree-mou-sea-blockade-neocons-israel-furious-putin-trump-ignore-uk-eu-2026-06-16.md",
+      "voice_index_path": "../../archive/sources/2026-06-16/source-alexander-mercouris-us-iran-agree-mou-sea-blockade-neocons-israel-furious-putin-trump-ignore-uk-eu-2026-06-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-16/source-alexander-mercouris-us-iran-agree-mou-sea-blockade-neocons-israel-furious-putin-trump-ignore-uk-eu-2026-06-16.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "Russia China Deepen Energy Ties Agree PoS2 Terms; Russian Navy Stuns UK; EU Wants More Oil Sanctions",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-17/source-alexander-mercouris-russia-china-energy-pos2-russian-navy-stuns-uk-eu-sanctions-2026-06-17.md",
+      "voice_index_path": "../../archive/sources/2026-06-17/source-alexander-mercouris-russia-china-energy-pos2-russian-navy-stuns-uk-eu-sanctions-2026-06-17.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-17/source-alexander-mercouris-russia-china-energy-pos2-russian-navy-stuns-uk-eu-sanctions-2026-06-17.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-18",
+      "title": "Russia Warns Iran Beware US Trap; US Signs MoU On Iran Terms; EU Offers Talks Russia 'Uninterested'",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-18/source-alexander-mercouris-russia-warns-iran-beware-us-trap-mou-iran-terms-2026-06-18.md",
+      "voice_index_path": "../../archive/sources/2026-06-18/source-alexander-mercouris-russia-warns-iran-beware-us-trap-mou-iran-terms-2026-06-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-18/source-alexander-mercouris-russia-warns-iran-beware-us-trap-mou-iran-terms-2026-06-18.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "Russia Toughens Demands As Key Donbas Towns Fall; EU Quarrels Over Russia Talks; US Rounds On Israel",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-19/source-alexander-mercouris-russia-toughens-demands-donbas-towns-fall-eu-quarrels-us-israel-2026-06-19.md",
+      "voice_index_path": "../../archive/sources/2026-06-19/source-alexander-mercouris-russia-toughens-demands-donbas-towns-fall-eu-quarrels-us-israel-2026-06-19.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-19/source-alexander-mercouris-russia-toughens-demands-donbas-towns-fall-eu-quarrels-us-israel-2026-06-19.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-20",
+      "title": "Zelensky Desperate; Threatens Belarus Attack; Russia Trebles Oreshnik Output; Plans Big Kiev Strikes",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-20/source-alexander-mercouris-zelensky-desperate-threatens-belarus-attack-russia-trebles-oreshnik-output-2026-06-20.md",
+      "voice_index_path": "../../archive/sources/2026-06-20/source-alexander-mercouris-zelensky-desperate-threatens-belarus-attack-russia-trebles-oreshnik-output-2026-06-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-20/source-alexander-mercouris-zelensky-desperate-threatens-belarus-attack-russia-trebles-oreshnik-output-2026-06-20.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "Kremlin Says Talks With US Failed; Russia Seeks Victory; Russia Prepares Big Kiev Strike; Starmer Goes",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-21/source-alexander-mercouris-kremlin-says-talks-with-us-failed-russia-seeks-victory-kiev-strike-starmer-goes-2026-06-21.md",
+      "voice_index_path": "../../archive/sources/2026-06-21/source-alexander-mercouris-kremlin-says-talks-with-us-failed-russia-seeks-victory-kiev-strike-starmer-goes-2026-06-21.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-21/source-alexander-mercouris-kremlin-says-talks-with-us-failed-russia-seeks-victory-kiev-strike-starmer-goes-2026-06-21.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "Starmer Finally Quits; BBC Admits Kiev Faces Donbas Crisis Losing Konstantinovka; Neocons Iran Rage",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-22/source-alexander-mercouris-starmer-quits-bbc-kostyantynivka-donbas-neocons-iran-rage-2026-06-22.md",
+      "voice_index_path": "../../archive/sources/2026-06-22/source-alexander-mercouris-starmer-quits-bbc-kostyantynivka-donbas-neocons-iran-rage-2026-06-22.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-22/source-alexander-mercouris-starmer-quits-bbc-kostyantynivka-donbas-neocons-iran-rage-2026-06-22.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Putin Warns Russian Army War With West Coming; Russia Leads West In Arms Output; US Iran Talks Stuck",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-23/source-alexander-mercouris-putin-warns-russian-army-war-with-west-coming-russia-leads-west-in-arms-output-us-iran-talks-stuck-2026-06-23.md",
+      "voice_index_path": "../../archive/sources/2026-06-23/source-alexander-mercouris-putin-warns-russian-army-war-with-west-coming-russia-leads-west-in-arms-output-us-iran-talks-stuck-2026-06-23.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-23/source-alexander-mercouris-putin-warns-russian-army-war-with-west-coming-russia-leads-west-in-arms-output-us-iran-talks-stuck-2026-06-23.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-25",
+      "title": "Lukashenko NO To Zelensky Belarus Stands With Russia; Russian Troops Enter Sumy; EU NO To Kiev Entry",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-25/source-alexander-mercouris-lukashenko-no-to-zelensky-belarus-stands-with-russia-russian-troops-enter-sumy-eu-no-to-kiev-entry-2026-06-25.md",
+      "voice_index_path": "../../archive/sources/2026-06-25/source-alexander-mercouris-lukashenko-no-to-zelensky-belarus-stands-with-russia-russian-troops-enter-sumy-eu-no-to-kiev-entry-2026-06-25.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-25/source-alexander-mercouris-lukashenko-no-to-zelensky-belarus-stands-with-russia-russian-troops-enter-sumy-eu-no-to-kiev-entry-2026-06-25.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "Zelensky Again Threatens Belarus; Kharkov Crumbles Threat To Kiev Grows; Lavrov Rubio Bury Anchorage",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-26/source-alexander-mercouris-zelensky-threatens-belarus-kharkov-kiev-lavrov-rubio-bury-anchorage-2026-06-26.md",
+      "voice_index_path": "../../archive/sources/2026-06-26/source-alexander-mercouris-zelensky-threatens-belarus-kharkov-kiev-lavrov-rubio-bury-anchorage-2026-06-26.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-26/source-alexander-mercouris-zelensky-threatens-belarus-kharkov-kiev-lavrov-rubio-bury-anchorage-2026-06-26.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-27",
+      "title": "Putin Lukashenko Rebuff Zelensky Meet In Valdai; French MSM Admits Kiev Troops Losing; MoU Unravels",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-27/source-alexander-mercouris-putin-lukashenko-rebuff-zelensky-meet-in-valdai-french-msm-admits-kiev-troops-losing-mou-unravels-2026-06-27.md",
+      "voice_index_path": "../../archive/sources/2026-06-27/source-alexander-mercouris-putin-lukashenko-rebuff-zelensky-meet-in-valdai-french-msm-admits-kiev-troops-losing-mou-unravels-2026-06-27.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-27/source-alexander-mercouris-putin-lukashenko-rebuff-zelensky-meet-in-valdai-french-msm-admits-kiev-troops-losing-mou-unravels-2026-06-27.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "Russia Hits Back Kills Kiev Intel Chief; Putin Says West Behind Kiev Strikes; Destabilisation Failed",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-28/source-alexander-mercouris-russia-hits-back-kills-kiev-intel-chief-putin-west-kiev-strikes-destabilisation-failed-2026-06-28.md",
+      "voice_index_path": "../../archive/sources/2026-06-28/source-alexander-mercouris-russia-hits-back-kills-kiev-intel-chief-putin-west-kiev-strikes-destabilisation-failed-2026-06-28.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-28/source-alexander-mercouris-russia-hits-back-kills-kiev-intel-chief-putin-west-kiev-strikes-destabilisation-failed-2026-06-28.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-29",
+      "title": "Putin Rejects Talks Aims For Odessa Says Russia About To Take Donbas Calls For Unity; Drones Abate",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-29/source-alexander-mercouris-putin-rejects-talks-odessa-donbas-drones-abate-2026-06-29.md",
+      "voice_index_path": "../../archive/sources/2026-06-29/source-alexander-mercouris-putin-rejects-talks-odessa-donbas-drones-abate-2026-06-29.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-29/source-alexander-mercouris-putin-rejects-talks-odessa-donbas-drones-abate-2026-06-29.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Kiev Fears Big Russian Oreshnik Strike Coming; Russia Repels Ukraine Drones; EU Gas Storage Crisis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-30/source-alexander-mercouris-kiev-fears-big-russian-oreshnik-strike-russia-repels-drones-eu-gas-crisis-2026-06-30.md",
+      "voice_index_path": "../../archive/sources/2026-06-30/source-alexander-mercouris-kiev-fears-big-russian-oreshnik-strike-russia-repels-drones-eu-gas-crisis-2026-06-30.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-30/source-alexander-mercouris-kiev-fears-big-russian-oreshnik-strike-russia-repels-drones-eu-gas-crisis-2026-06-30.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-01",
+      "title": "BREAKING: Iran Suspends Talks w/US over Israel's strikes on Lebanon Matt Hoh & Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-01/source-daniel-davis-breaking-iran-suspends-talks-w-us-over-israel-s-strikes-on-lebanon-matt-hoh-lt-col-daniel-davis-2026-06-01.md",
+      "voice_index_path": "../../archive/sources/2026-06-01/source-daniel-davis-breaking-iran-suspends-talks-w-us-over-israel-s-strikes-on-lebanon-matt-hoh-lt-col-daniel-davis-2026-06-01.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-01/source-daniel-davis-breaking-iran-suspends-talks-w-us-over-israel-s-strikes-on-lebanon-matt-hoh-lt-col-daniel-davis-2026-06-01.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-01",
+      "title": "Iran Warhawks Delusional Fantasy /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-01/source-daniel-davis-iran-warhawks-delusional-fantasy-lt-col-daniel-davis-2026-06-01.md",
+      "voice_index_path": "../../archive/sources/2026-06-01/source-daniel-davis-iran-warhawks-delusional-fantasy-lt-col-daniel-davis-2026-06-01.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-01/source-daniel-davis-iran-warhawks-delusional-fantasy-lt-col-daniel-davis-2026-06-01.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "America's OLD WORLD WAR MENTALITY /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-02/source-daniel-davis-americas-old-world-war-mentality-lt-col-daniel-davis-2026-06-02.md",
+      "voice_index_path": "../../archive/sources/2026-06-02/source-daniel-davis-americas-old-world-war-mentality-lt-col-daniel-davis-2026-06-02.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-02/source-daniel-davis-americas-old-world-war-mentality-lt-col-daniel-davis-2026-06-02.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "Col Douglas Macgregor: The Israel First White House",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-02/source-daniel-davis-col-douglas-macgregor-the-israel-first-white-house-2026-06-02.md",
+      "voice_index_path": "../../archive/sources/2026-06-02/source-daniel-davis-col-douglas-macgregor-the-israel-first-white-house-2026-06-02.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-02/source-daniel-davis-col-douglas-macgregor-the-israel-first-white-house-2026-06-02.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "Zelensky's Letter to Putin /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-05/source-daniel-davis-zelensky-s-letter-to-putin-lt-col-daniel-davis-2026-06-05.md",
+      "voice_index_path": "../../archive/sources/2026-06-05/source-daniel-davis-zelensky-s-letter-to-putin-lt-col-daniel-davis-2026-06-05.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-05/source-daniel-davis-zelensky-s-letter-to-putin-lt-col-daniel-davis-2026-06-05.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-07",
+      "title": "BREAKING: ISRAEL LAUNCHES MISSILE ATTACK AGAINST IRAN",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-07/source-daniel-davis-israel-launches-missile-attack-against-iran-2026-06-07.md",
+      "voice_index_path": "../../archive/sources/2026-06-07/source-daniel-davis-israel-launches-missile-attack-against-iran-2026-06-07.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-07/source-daniel-davis-israel-launches-missile-attack-against-iran-2026-06-07.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "Iran War Expands, Houthis Declare War on Israel",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-08/source-daniel-davis-iran-war-expands-houthis-declare-war-on-israel-2026-06-08.md",
+      "voice_index_path": "../../archive/sources/2026-06-08/source-daniel-davis-iran-war-expands-houthis-declare-war-on-israel-2026-06-08.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-08/source-daniel-davis-iran-war-expands-houthis-declare-war-on-israel-2026-06-08.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "We've Always Known the Truth of War w/Iran",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-08/source-daniel-davis-weve-always-known-truth-of-war-iran-2026-06-08.md",
+      "voice_index_path": "../../archive/sources/2026-06-08/source-daniel-davis-weve-always-known-truth-of-war-iran-2026-06-08.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-08/source-daniel-davis-weve-always-known-truth-of-war-iran-2026-06-08.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "BREAKING: US Strikes IRAN Qeshm Island / Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-09/source-daniel-davis-breaking-us-strikes-iran-qeshm-island-apache-response-2026-06-09.md",
+      "voice_index_path": "../../archive/sources/2026-06-09/source-daniel-davis-breaking-us-strikes-iran-qeshm-island-apache-response-2026-06-09.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-09/source-daniel-davis-breaking-us-strikes-iran-qeshm-island-apache-response-2026-06-09.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "Col Douglas Macgregor THE WORLD BACKS IRAN in this War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-09/source-daniel-davis-douglas-macgregor-world-backs-iran-2026-06-09.md",
+      "voice_index_path": "../../archive/sources/2026-06-09/source-daniel-davis-douglas-macgregor-world-backs-iran-2026-06-09.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-09/source-daniel-davis-douglas-macgregor-world-backs-iran-2026-06-09.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "Professor Seyed Marandi: EXPECT ESCALATION OF WAR IN IRAN",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-09/source-daniel-davis-professor-seyed-marandi-expect-escalation-of-war-in-iran-2026-06-09.md",
+      "voice_index_path": "../../archive/sources/2026-06-09/source-daniel-davis-professor-seyed-marandi-expect-escalation-of-war-in-iran-2026-06-09.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-09/source-daniel-davis-professor-seyed-marandi-expect-escalation-of-war-in-iran-2026-06-09.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "Alastair Crooke: More Iran Attacks WEAKEN the US",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-11/source-daniel-davis-alastair-crooke-more-iran-attacks-weaken-the-us-2026-06-11.md",
+      "voice_index_path": "../../archive/sources/2026-06-11/source-daniel-davis-alastair-crooke-more-iran-attacks-weaken-the-us-2026-06-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-11/source-daniel-davis-alastair-crooke-more-iran-attacks-weaken-the-us-2026-06-11.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "Prof John Mearsheimer Iran War Strategy CHANGES AGAIN!",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-11/source-daniel-davis-john-mearsheimer-iran-war-strategy-changes-again-2026-06-11.md",
+      "voice_index_path": "../../archive/sources/2026-06-11/source-daniel-davis-john-mearsheimer-iran-war-strategy-changes-again-2026-06-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-11/source-daniel-davis-john-mearsheimer-iran-war-strategy-changes-again-2026-06-11.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "Larry Johnson: Trump Wants to Blow Up Iran Negotiations",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-11/source-daniel-davis-larry-johnson-trump-wants-blow-up-iran-negotiations-2026-06-11.md",
+      "voice_index_path": "../../archive/sources/2026-06-11/source-daniel-davis-larry-johnson-trump-wants-blow-up-iran-negotiations-2026-06-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-11/source-daniel-davis-larry-johnson-trump-wants-blow-up-iran-negotiations-2026-06-11.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "Robert Barnes: Shifting Goal Posts w/Iran War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-11/source-daniel-davis-robert-barnes-shifting-goal-posts-iran-war-2026-06-11.md",
+      "voice_index_path": "../../archive/sources/2026-06-11/source-daniel-davis-robert-barnes-shifting-goal-posts-iran-war-2026-06-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-11/source-daniel-davis-robert-barnes-shifting-goal-posts-iran-war-2026-06-11.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-12",
+      "title": "Trump Again Claims an Agmt \\\"At Hand\\\" but Iran has MUCH Different View / Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-12/source-daniel-davis-trump-again-claims-agmt-at-hand-iran-different-view-2026-06-12.md",
+      "voice_index_path": "../../archive/sources/2026-06-12/source-daniel-davis-trump-again-claims-agmt-at-hand-iran-different-view-2026-06-12.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-12/source-daniel-davis-trump-again-claims-agmt-at-hand-iran-different-view-2026-06-12.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-13",
+      "title": "IRAN WAR DEAL - I'm SKEPTICAL / Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-13/source-daniel-davis-iran-war-deal-skeptical-2026-06-13.md",
+      "voice_index_path": "../../archive/sources/2026-06-13/source-daniel-davis-iran-war-deal-skeptical-2026-06-13.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-13/source-daniel-davis-iran-war-deal-skeptical-2026-06-13.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-13",
+      "title": "Signing a Deal Tomorrow? It's Scheduled! / Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-13/source-daniel-davis-signing-deal-tomorrow-scheduled-2026-06-13.md",
+      "voice_index_path": "../../archive/sources/2026-06-13/source-daniel-davis-signing-deal-tomorrow-scheduled-2026-06-13.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-13/source-daniel-davis-signing-deal-tomorrow-scheduled-2026-06-13.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-14",
+      "title": "Breaking: IRAN DEAL COMPLETE Trump Says / Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-14/source-daniel-davis-marandi-iran-deal-complete-trump-says-2026-06-14.md",
+      "voice_index_path": "../../archive/sources/2026-06-14/source-daniel-davis-marandi-iran-deal-complete-trump-says-2026-06-14.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-14/source-daniel-davis-marandi-iran-deal-complete-trump-says-2026-06-14.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-15",
+      "title": "Putin & Macron Try to Persuade Trump to Their Side in RU/UKR War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-15/source-daniel-davis-putin-macron-trump-ukraine-war-2026-06-15.md",
+      "voice_index_path": "../../archive/sources/2026-06-15/source-daniel-davis-putin-macron-trump-ukraine-war-2026-06-15.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-15/source-daniel-davis-putin-macron-trump-ukraine-war-2026-06-15.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-15",
+      "title": "What's the Deal with Iran / Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-15/source-daniel-davis-whats-the-deal-with-iran-2026-06-15.md",
+      "voice_index_path": "../../archive/sources/2026-06-15/source-daniel-davis-whats-the-deal-with-iran-2026-06-15.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-15/source-daniel-davis-whats-the-deal-with-iran-2026-06-15.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "IRAN DEAL DRAMA & DOUBT /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-16/source-daniel-davis-iran-deal-drama-doubt-lt-col-daniel-davis-2026-06-16.md",
+      "voice_index_path": "../../archive/sources/2026-06-16/source-daniel-davis-iran-deal-drama-doubt-lt-col-daniel-davis-2026-06-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-16/source-daniel-davis-iran-deal-drama-doubt-lt-col-daniel-davis-2026-06-16.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "Col Douglas Macgregor: Trump Seeks 'Get out of Jail ' Card Since US Lost in Iran",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-16/source-daniel-davis-macgregor-trump-get-out-of-jail-card-us-lost-iran-2026-06-16.md",
+      "voice_index_path": "../../archive/sources/2026-06-16/source-daniel-davis-macgregor-trump-get-out-of-jail-card-us-lost-iran-2026-06-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-16/source-daniel-davis-macgregor-trump-get-out-of-jail-card-us-lost-iran-2026-06-16.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-18",
+      "title": "Tough Road Iran Deal Lays Out / Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-18/source-daniel-davis-tough-road-iran-deal-lays-out-2026-06-18.md",
+      "voice_index_path": "../../archive/sources/2026-06-18/source-daniel-davis-tough-road-iran-deal-lays-out-2026-06-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-18/source-daniel-davis-tough-road-iran-deal-lays-out-2026-06-18.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "Israel & Hezbollah Agree to Ceasefire / Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-19/source-daniel-davis-israel-hezbollah-agree-ceasefire-2026-06-19.md",
+      "voice_index_path": "../../archive/sources/2026-06-19/source-daniel-davis-israel-hezbollah-agree-ceasefire-2026-06-19.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-19/source-daniel-davis-israel-hezbollah-agree-ceasefire-2026-06-19.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-20",
+      "title": "STRAIT of HORMUZ CLOSED: Guess Who We're Sending to Get it Re-Opened? / Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-20/source-daniel-davis-strait-of-hormuz-closed-guess-who-were-sending-to-reopen-2026-06-20.md",
+      "voice_index_path": "../../archive/sources/2026-06-20/source-daniel-davis-strait-of-hormuz-closed-guess-who-were-sending-to-reopen-2026-06-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-20/source-daniel-davis-strait-of-hormuz-closed-guess-who-were-sending-to-reopen-2026-06-20.md",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "Why Iran Talks Will Fail / Patrick Henningsen & Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-22/source-daniel-davis-henningsen-why-iran-talks-will-fail-2026-06-22.md",
+      "voice_index_path": "../../archive/sources/2026-06-22/source-daniel-davis-henningsen-why-iran-talks-will-fail-2026-06-22.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-22/source-daniel-davis-henningsen-why-iran-talks-will-fail-2026-06-22.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Col Douglas Macgregor: Pressure to REMOVE TRUMP FROM OFFICE Growing",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-23/source-daniel-davis-macgregor-pressure-remove-trump-from-office-growing-2026-06-23.md",
+      "voice_index_path": "../../archive/sources/2026-06-23/source-daniel-davis-macgregor-pressure-remove-trump-from-office-growing-2026-06-23.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-23/source-daniel-davis-macgregor-pressure-remove-trump-from-office-growing-2026-06-23.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "MIT Professor Ted Postol: Patriot Missile Capabilities",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-23/source-daniel-davis-postol-patriot-missile-capabilities-2026-06-23.md",
+      "voice_index_path": "../../archive/sources/2026-06-23/source-daniel-davis-postol-patriot-missile-capabilities-2026-06-23.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-23/source-daniel-davis-postol-patriot-missile-capabilities-2026-06-23.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Alastair Crooke: Iran Deal, Who's Dictating the Terms?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-24/source-daniel-davis-alastair-crooke-iran-deal-who-dictating-terms-2026-06-24.md",
+      "voice_index_path": "../../archive/sources/2026-06-24/source-daniel-davis-alastair-crooke-iran-deal-who-dictating-terms-2026-06-24.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-24/source-daniel-davis-alastair-crooke-iran-deal-who-dictating-terms-2026-06-24.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "fmr CIA Analyst Larry Johnson: Iran Deal, Trump's Making it Up As He Goes Along",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-24/source-daniel-davis-larry-johnson-iran-deal-trump-making-it-up-2026-06-24.md",
+      "voice_index_path": "../../archive/sources/2026-06-24/source-daniel-davis-larry-johnson-iran-deal-trump-making-it-up-2026-06-24.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-24/source-daniel-davis-larry-johnson-iran-deal-trump-making-it-up-2026-06-24.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-25",
+      "title": "John Mearsheimer: Russia's Red Lines Have Been Crossed",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-25/source-daniel-davis-mearsheimer-russia-red-lines-crossed-2026-06-25.md",
+      "voice_index_path": "../../archive/sources/2026-06-25/source-daniel-davis-mearsheimer-russia-red-lines-crossed-2026-06-25.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-25/source-daniel-davis-mearsheimer-russia-red-lines-crossed-2026-06-25.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "Iran Deal Miscalculations / Robert Barnes & Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-26/source-daniel-davis-robert-barnes-iran-deal-miscalculations-2026-06-26.md",
+      "voice_index_path": "../../archive/sources/2026-06-26/source-daniel-davis-robert-barnes-iran-deal-miscalculations-2026-06-26.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-26/source-daniel-davis-robert-barnes-iran-deal-miscalculations-2026-06-26.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "Prof Seyed Marandi: WILL the US COLLAPSE the GLOBAL ECONOMY?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-26/source-daniel-davis-seyed-marandi-will-us-collapse-global-economy-2026-06-26.md",
+      "voice_index_path": "../../archive/sources/2026-06-26/source-daniel-davis-seyed-marandi-will-us-collapse-global-economy-2026-06-26.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-26/source-daniel-davis-seyed-marandi-will-us-collapse-global-economy-2026-06-26.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-29",
+      "title": "Patriot Missiles Fail Miserably, Here's the Video Evidence / MIT Prof Ted Postol",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-29/source-daniel-davis-ted-postol-patriot-missiles-fail-video-evidence-2026-06-29.md",
+      "voice_index_path": "../../archive/sources/2026-06-29/source-daniel-davis-ted-postol-patriot-missiles-fail-video-evidence-2026-06-29.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-29/source-daniel-davis-ted-postol-patriot-missiles-fail-video-evidence-2026-06-29.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Col Douglas Macgregor: The Problem Facing Putin Right Now",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-30/source-daniel-davis-macgregor-problem-facing-putin-right-now-2026-06-30.md",
+      "voice_index_path": "../../archive/sources/2026-06-30/source-daniel-davis-macgregor-problem-facing-putin-right-now-2026-06-30.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-30/source-daniel-davis-macgregor-problem-facing-putin-right-now-2026-06-30.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-12",
+      "title": "Larry Johnson: End of War? U.S. & Iran Close to a Deal?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-12/source-glenn-diesen-larry-johnson-end-of-war-us-iran-close-to-a-deal-2026-06-12.md",
+      "voice_index_path": "../../archive/sources/2026-06-12/source-glenn-diesen-larry-johnson-end-of-war-us-iran-close-to-a-deal-2026-06-12.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-12/source-glenn-diesen-larry-johnson-end-of-war-us-iran-close-to-a-deal-2026-06-12.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-27",
+      "title": "Larry Johnson: Putin Warns the West - Russia is Ready for War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-27/source-glenn-diesen-larry-johnson-putin-warns-west-russia-ready-war-2026-06-27.md",
+      "voice_index_path": "../../archive/sources/2026-06-27/source-glenn-diesen-larry-johnson-putin-warns-west-russia-ready-war-2026-06-27.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-27/source-glenn-diesen-larry-johnson-putin-warns-west-russia-ready-war-2026-06-27.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-01",
+      "title": "Nima Alkhorshid with Larry Johnson: The Strait of Hormuz Is a Ticking Time Bomb, The U.S. and Iran Just Threw Down",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-01/source-dialogue-works-johnson-strait-of-hormuz-ticking-time-bomb-us-iran-threw-down-2026-06-01.md",
+      "voice_index_path": "../../archive/sources/2026-06-01/source-dialogue-works-johnson-strait-of-hormuz-ticking-time-bomb-us-iran-threw-down-2026-06-01.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-01/source-dialogue-works-johnson-strait-of-hormuz-ticking-time-bomb-us-iran-threw-down-2026-06-01.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "Larry Johnson & Col. Wilkerson: Iran FIRES MISSILES at US Destroyers - US Ships FLEE to Indian Ocean",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-05/source-dialogue-works-johnson-wilkerson-iran-fires-missiles-at-us-destroyers-us-ships-flee-to-indian-ocean-2026-06-05.md",
+      "voice_index_path": "../../archive/sources/2026-06-05/source-dialogue-works-johnson-wilkerson-iran-fires-missiles-at-us-destroyers-us-ships-flee-to-indian-ocean-2026-06-05.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-05/source-dialogue-works-johnson-wilkerson-iran-fires-missiles-at-us-destroyers-us-ships-flee-to-indian-ocean-2026-06-05.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "Larry Johnson: Iran Missiles Rain Down on Northern Israel - Massive Strikes!",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-08/source-dialogue-works-larry-johnson-iran-missiles-rain-down-northern-israel-massive-strikes-2026-06-08.md",
+      "voice_index_path": "../../archive/sources/2026-06-08/source-dialogue-works-larry-johnson-iran-missiles-rain-down-northern-israel-massive-strikes-2026-06-08.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-08/source-dialogue-works-larry-johnson-iran-missiles-rain-down-northern-israel-massive-strikes-2026-06-08.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-10",
+      "title": "Larry Johnson: BREAKING: The American ATTACK on Iran has BEGUN - Iran's Upscale Retaliation Coming",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-10/source-dialogue-works-larry-johnson-breaking-american-attack-on-iran-has-begun-2026-06-10.md",
+      "voice_index_path": "../../archive/sources/2026-06-10/source-dialogue-works-larry-johnson-breaking-american-attack-on-iran-has-begun-2026-06-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-10/source-dialogue-works-larry-johnson-breaking-american-attack-on-iran-has-begun-2026-06-10.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "Larry Johnson: BREAKING: Iran Forces Trump Into Concession - War Price Unbearable",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-11/source-dialogue-works-larry-johnson-iran-forces-trump-into-concession-2026-06-11.md",
+      "voice_index_path": "../../archive/sources/2026-06-11/source-dialogue-works-larry-johnson-iran-forces-trump-into-concession-2026-06-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-11/source-dialogue-works-larry-johnson-iran-forces-trump-into-concession-2026-06-11.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-12",
+      "title": "Larry Johnson & Col. Wilkerson: Iran Just Fired at U.S.-Guided Ships: Trump REVEALS Final Decision",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-12/source-dialogue-works-johnson-wilkerson-iran-fired-us-guided-ships-trump-final-decision-2026-06-12.md",
+      "voice_index_path": "../../archive/sources/2026-06-12/source-dialogue-works-johnson-wilkerson-iran-fired-us-guided-ships-trump-final-decision-2026-06-12.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-12/source-dialogue-works-johnson-wilkerson-iran-fired-us-guided-ships-trump-final-decision-2026-06-12.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-14",
+      "title": "Larry Johnson & Mohammad Marandi: BREAKING: US and Iran Reach Deal - Full Details Inside",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-14/source-dialogue-works-johnson-marandi-us-iran-reach-deal-full-details-2026-06-14.md",
+      "voice_index_path": "../../archive/sources/2026-06-14/source-dialogue-works-johnson-marandi-us-iran-reach-deal-full-details-2026-06-14.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-14/source-dialogue-works-johnson-marandi-us-iran-reach-deal-full-details-2026-06-14.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson",
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-15",
+      "title": "Larry Johnson: Israel's Sabotage Backfires - Trump's Last Move ENDS Israel's Agenda",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-15/source-dialogue-works-johnson-israel-sabotage-backfires-trump-last-move-2026-06-15.md",
+      "voice_index_path": "../../archive/sources/2026-06-15/source-dialogue-works-johnson-israel-sabotage-backfires-trump-last-move-2026-06-15.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-15/source-dialogue-works-johnson-israel-sabotage-backfires-trump-last-move-2026-06-15.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "Larry Johnson: BREAKING: $150 Billion of Iran's $300B Reparations Is ALREADY Spent!",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-16/source-dialogue-works-larry-johnson-breaking-150-billion-iran-300b-reparations-already-spent-2026-06-16.md",
+      "voice_index_path": "../../archive/sources/2026-06-16/source-dialogue-works-larry-johnson-breaking-150-billion-iran-300b-reparations-already-spent-2026-06-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-16/source-dialogue-works-larry-johnson-breaking-150-billion-iran-300b-reparations-already-spent-2026-06-16.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "Larry Johnson & Mohammad Marandi: The White House has released the full text of the 14-point MoU",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-17/source-dialogue-works-larry-johnson-marandi-white-house-full-14-point-mou-2026-06-17.md",
+      "voice_index_path": "../../archive/sources/2026-06-17/source-dialogue-works-larry-johnson-marandi-white-house-full-14-point-mou-2026-06-17.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-17/source-dialogue-works-larry-johnson-marandi-white-house-full-14-point-mou-2026-06-17.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson",
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "Trump Surrender Document Released, Total Iranian Victory!!! w/ FMR CIA Larry Johnson",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-17/source-dialogue-works-larry-johnson-trump-surrender-document-total-iranian-victory-2026-06-17.md",
+      "voice_index_path": "../../archive/sources/2026-06-17/source-dialogue-works-larry-johnson-trump-surrender-document-total-iranian-victory-2026-06-17.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-17/source-dialogue-works-larry-johnson-trump-surrender-document-total-iranian-victory-2026-06-17.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-18",
+      "title": "BREAKING: IRAN CANCELS NEGOTIATIONS AS ISRAEL BOMBS LEBANON - w/ Fmr. CIA Larry Johnson",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-18/source-dialogue-works-larry-johnson-iran-cancels-negotiations-israel-bombs-lebanon-2026-06-18.md",
+      "voice_index_path": "../../archive/sources/2026-06-18/source-dialogue-works-larry-johnson-iran-cancels-negotiations-israel-bombs-lebanon-2026-06-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-18/source-dialogue-works-larry-johnson-iran-cancels-negotiations-israel-bombs-lebanon-2026-06-18.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-18",
+      "title": "Larry Johnson: \"ENOUGH!\" - Vice President JD Vance SLAMS Netanyahu's Government in Heated Rant",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-18/source-dialogue-works-larry-johnson-jd-vance-slams-netanyahu-government-2026-06-18.md",
+      "voice_index_path": "../../archive/sources/2026-06-18/source-dialogue-works-larry-johnson-jd-vance-slams-netanyahu-government-2026-06-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-18/source-dialogue-works-larry-johnson-jd-vance-slams-netanyahu-government-2026-06-18.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-20",
+      "title": "Larry Johnson: Iran Closes Hormuz AND Ends Israel's Combat Ops - US Rushes to Talks!",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-20/source-dialogue-works-larry-johnson-iran-closes-hormuz-ends-israel-combat-ops-us-rushes-talks-2026-06-20.md",
+      "voice_index_path": "../../archive/sources/2026-06-20/source-dialogue-works-larry-johnson-iran-closes-hormuz-ends-israel-combat-ops-us-rushes-talks-2026-06-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-20/source-dialogue-works-larry-johnson-iran-closes-hormuz-ends-israel-combat-ops-us-rushes-talks-2026-06-20.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Larry Johnson: Israel Just Triggered the NEXT WAR - Preparing to Bomb Yemen",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-24/source-dialogue-works-johnson-israel-next-war-preparing-bomb-yemen-2026-06-24.md",
+      "voice_index_path": "../../archive/sources/2026-06-24/source-dialogue-works-johnson-israel-next-war-preparing-bomb-yemen-2026-06-24.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-24/source-dialogue-works-johnson-israel-next-war-preparing-bomb-yemen-2026-06-24.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-25",
+      "title": "Larry Johnson: The U.S. Is Now Directly Calling Iran (Vance's Switzerland Bombshell)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-25/source-dialogue-works-larry-johnson-us-directly-calling-iran-vance-switzerland-bombshell-2026-06-25.md",
+      "voice_index_path": "../../archive/sources/2026-06-25/source-dialogue-works-larry-johnson-us-directly-calling-iran-vance-switzerland-bombshell-2026-06-25.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-25/source-dialogue-works-larry-johnson-us-directly-calling-iran-vance-switzerland-bombshell-2026-06-25.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-27",
+      "title": "Larry Johnson: U.S. Bombs Iran Near Sirik - Tehran's Counterstrike on US Bases Trigger Regional War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-27/source-dialogue-works-larry-johnson-us-bombs-iran-near-sirik-tehran-counterstrike-us-bases-regional-war-2026-06-27.md",
+      "voice_index_path": "../../archive/sources/2026-06-27/source-dialogue-works-larry-johnson-us-bombs-iran-near-sirik-tehran-counterstrike-us-bases-regional-war-2026-06-27.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-27/source-dialogue-works-larry-johnson-us-bombs-iran-near-sirik-tehran-counterstrike-us-bases-regional-war-2026-06-27.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-03",
+      "title": "Larry Johnson : Does Iran Have the Bomb? Part 2",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-03/source-judging-freedom-johnson-does-iran-have-the-bomb-part-2-2026-06-03.md",
+      "voice_index_path": "../../archive/sources/2026-06-03/source-judging-freedom-johnson-does-iran-have-the-bomb-part-2-2026-06-03.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-03/source-judging-freedom-johnson-does-iran-have-the-bomb-part-2-2026-06-03.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "INTEL Roundtable w/ Johnson & McGovern : Weekly Wrap 5-June",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-05/source-judging-freedom-johnson-mcgovern-intel-roundtable-weekly-wrap-5-june-2026-06-05.md",
+      "voice_index_path": "../../archive/sources/2026-06-05/source-judging-freedom-johnson-mcgovern-intel-roundtable-weekly-wrap-5-june-2026-06-05.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-05/source-judging-freedom-johnson-mcgovern-intel-roundtable-weekly-wrap-5-june-2026-06-05.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-12",
+      "title": "INTEL Roundtable w/ Johnson & McGovern - Weekly Wrap 12-June",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-12/source-judging-freedom-johnson-mcgovern-intel-roundtable-weekly-wrap-12-june-2026-06-12.md",
+      "voice_index_path": "../../archive/sources/2026-06-12/source-judging-freedom-johnson-mcgovern-intel-roundtable-weekly-wrap-12-june-2026-06-12.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-12/source-judging-freedom-johnson-mcgovern-intel-roundtable-weekly-wrap-12-june-2026-06-12.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-15",
+      "title": "Larry Johnson: Is This Any Way to Negotiate?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-15/source-judging-freedom-johnson-is-this-any-way-to-negotiate-2026-06-15.md",
+      "voice_index_path": "../../archive/sources/2026-06-15/source-judging-freedom-johnson-is-this-any-way-to-negotiate-2026-06-15.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-15/source-judging-freedom-johnson-is-this-any-way-to-negotiate-2026-06-15.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "INTEL Roundtable w/ Johnson & McGovern : Weekly Wrap 19-June",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-19/source-judging-freedom-johnson-mcgovern-intel-roundtable-weekly-wrap-19-june-2026-06-19.md",
+      "voice_index_path": "../../archive/sources/2026-06-19/source-judging-freedom-johnson-mcgovern-intel-roundtable-weekly-wrap-19-june-2026-06-19.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-19/source-judging-freedom-johnson-mcgovern-intel-roundtable-weekly-wrap-19-june-2026-06-19.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "Larry Johnson: Why Iran Still Controls Hormuz",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-22/source-judging-freedom-johnson-why-iran-still-controls-hormuz-2026-06-22.md",
+      "voice_index_path": "../../archive/sources/2026-06-22/source-judging-freedom-johnson-why-iran-still-controls-hormuz-2026-06-22.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-22/source-judging-freedom-johnson-why-iran-still-controls-hormuz-2026-06-22.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "INTEL Roundtable w/Johnson & McGovern - Weekly Wrap 26-June",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-26/source-judging-freedom-johnson-mcgovern-intel-roundtable-weekly-wrap-26-june-2026-06-26.md",
+      "voice_index_path": "../../archive/sources/2026-06-26/source-judging-freedom-johnson-mcgovern-intel-roundtable-weekly-wrap-26-june-2026-06-26.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-26/source-judging-freedom-johnson-mcgovern-intel-roundtable-weekly-wrap-26-june-2026-06-26.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-29",
+      "title": "Larry Johnson: Is Trump's MoU Unraveling?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-29/source-judging-freedom-johnson-trump-mou-unraveling-2026-06-29.md",
+      "voice_index_path": "../../archive/sources/2026-06-29/source-judging-freedom-johnson-trump-mou-unraveling-2026-06-29.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-29/source-judging-freedom-johnson-trump-mou-unraveling-2026-06-29.md",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "Prof. John Mearsheimer : Israel Undermining US/Iran Deal",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-19/source-judging-freedom-mearsheimer-israel-undermining-us-iran-deal-2026-06-19.md",
+      "voice_index_path": "../../archive/sources/2026-06-19/source-judging-freedom-mearsheimer-israel-undermining-us-iran-deal-2026-06-19.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-19/source-judging-freedom-mearsheimer-israel-undermining-us-iran-deal-2026-06-19.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "Can the US-Iran peace deal hold?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-21/source-switzer-mearsheimer-parsi-us-iran-peace-deal-hold-2026-06-21.md",
+      "voice_index_path": "../../archive/sources/2026-06-21/source-switzer-mearsheimer-parsi-us-iran-peace-deal-hold-2026-06-21.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-21/source-switzer-mearsheimer-parsi-us-iran-peace-deal-hold-2026-06-21.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mearsheimer",
+        "parsi"
+      ],
+      "host_slug": "tom-switzer",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "SLIPPERY SLOPE TO OBLIVION: Mearsheimer DIRE WARNING On Russia/Ukraine",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-23/source-breaking-points-mearsheimer-slippery-slope-oblivion-russia-ukraine-2026-06-23.md",
+      "voice_index_path": "../../archive/sources/2026-06-23/source-breaking-points-mearsheimer-slippery-slope-oblivion-russia-ukraine-2026-06-23.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-23/source-breaking-points-mearsheimer-slippery-slope-oblivion-russia-ukraine-2026-06-23.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "breaking-points",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "John Mearsheimer: Trump LOST, Iran Gets Spoils With Sanctions Relief",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-23/source-breaking-points-mearsheimer-trump-lost-iran-spoils-sanctions-relief-2026-06-23.md",
+      "voice_index_path": "../../archive/sources/2026-06-23/source-breaking-points-mearsheimer-trump-lost-iran-spoils-sanctions-relief-2026-06-23.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-23/source-breaking-points-mearsheimer-trump-lost-iran-spoils-sanctions-relief-2026-06-23.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "breaking-points",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Prof. John Mearsheimer: Netanyahu and Israeli Decline",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-23/source-judging-freedom-mearsheimer-netanyahu-and-israeli-decline-2026-06-23.md",
+      "voice_index_path": "../../archive/sources/2026-06-23/source-judging-freedom-mearsheimer-netanyahu-and-israeli-decline-2026-06-23.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-23/source-judging-freedom-mearsheimer-netanyahu-and-israeli-decline-2026-06-23.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Prof. John Mearsheimer: Making Sense of Iran's Victory",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-30/source-judging-freedom-mearsheimer-making-sense-of-irans-victory-2026-06-30.md",
+      "voice_index_path": "../../archive/sources/2026-06-30/source-judging-freedom-mearsheimer-making-sense-of-irans-victory-2026-06-30.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-30/source-judging-freedom-mearsheimer-making-sense-of-irans-victory-2026-06-30.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "Alexander Mercouris: Russia Gives WW3 Warning; Prepares Kiev Orekhov Offensives; NATO Meeting Bust Trump Talks Greenland",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-08/source-alexander-mercouris-russia-gives-ww3-warning-prepares-kiev-orekhov-offensives-nato-meeting-bust-trump-talks-greenland-2026-07-08.md",
+      "voice_index_path": "../../archive/sources/2026-07-08/source-alexander-mercouris-russia-gives-ww3-warning-prepares-kiev-orekhov-offensives-nato-meeting-bust-trump-talks-greenland-2026-07-08.md",
+      "upstream_path": "operator-paste://2026-07-08/alexander-mercouris-russia-gives-ww3-warning-prepares-kiev-orekhov-offensives-nato-meeting-bust-trump-talks-greenland",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "Prof. S. M. Marandi: Iran War Round 3? US Desperation Setting In",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-08/source-prof-s-m-marandi-iran-war-round-3-us-desperation-setting-in-2026-07-08.md",
+      "voice_index_path": "../../archive/sources/2026-07-08/source-prof-s-m-marandi-iran-war-round-3-us-desperation-setting-in-2026-07-08.md",
+      "upstream_path": "operator-paste://2026-07-08/prof-s-m-marandi-iran-war-round-3-us-desperation-setting-in",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "neutrality-studies",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "Trump Declares CEASEFIRE OVER w/IRAN Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-08/source-trump-declares-ceasefire-over-w-iran-lt-col-daniel-davis-2026-07-08.md",
+      "voice_index_path": "../../archive/sources/2026-07-08/source-trump-declares-ceasefire-over-w-iran-lt-col-daniel-davis-2026-07-08.md",
+      "upstream_path": "operator-paste://2026-07-08/trump-declares-ceasefire-over-w-iran-lt-col-daniel-davis",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "Larry Johnson: Iran Strikes US Bases in Bahrain & Kuwait After US Strikes South Iran - Hormuz CLOSED",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-08/source-larry-johnson-iran-strikes-us-bases-in-bahrain-kuwait-after-us-strikes-south-iran-hormuz-closed-2026-07-08.md",
+      "voice_index_path": "../../archive/sources/2026-07-08/source-larry-johnson-iran-strikes-us-bases-in-bahrain-kuwait-after-us-strikes-south-iran-hormuz-closed-2026-07-08.md",
+      "upstream_path": "operator-paste://2026-07-08/larry-johnson-iran-strikes-us-bases-in-bahrain-kuwait-after-us-strikes-south-iran-hormuz-closed",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "LIVE From Russia Stanislav Krapivnik - Latest on the War w/Ukraine",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-08/source-live-from-russia-stanislav-krapivnik-latest-on-the-war-w-ukraine-2026-07-08.md",
+      "voice_index_path": "../../archive/sources/2026-07-08/source-live-from-russia-stanislav-krapivnik-latest-on-the-war-w-ukraine-2026-07-08.md",
+      "upstream_path": "operator-paste://2026-07-08/live-from-russia-stanislav-krapivnik-latest-on-the-war-w-ukraine",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "krapivnik"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-01-05",
+      "title": "Israel's Worst Nightmare Coming | Prof. Mohammad Marandi & Scott Ritter",
+      "local_path": "narrative-geopolitics/archive/sources/2025-01-05/source-dialogue-works-israel-s-worst-nightmare-coming-prof-mohammad-marandi-scott-ritter-2025-01-05.md",
+      "voice_index_path": "../../archive/sources/2025-01-05/source-dialogue-works-israel-s-worst-nightmare-coming-prof-mohammad-marandi-scott-ritter-2025-01-05.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-01-05/source-dialogue-works-israel-s-worst-nightmare-coming-prof-mohammad-marandi-scott-ritter-2025-01-05.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-01-11",
+      "title": "Russia Crushes Kursk Offensive: Ukrainian Forces Encircled and Trapped! | Scott Ritter",
+      "local_path": "narrative-geopolitics/archive/sources/2025-01-11/source-dialogue-works-russia-crushes-kursk-offensive-ukrainian-forces-encircled-and-trapped-sc-2025-01-11.md",
+      "voice_index_path": "../../archive/sources/2025-01-11/source-dialogue-works-russia-crushes-kursk-offensive-ukrainian-forces-encircled-and-trapped-sc-2025-01-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-01-11/source-dialogue-works-russia-crushes-kursk-offensive-ukrainian-forces-encircled-and-trapped-sc-2025-01-11.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-01-12",
+      "title": "Israel is BLIND & its Strategic Defeat Becomes Clearer with Time | Larry C. Johnson & Scott Ritter",
+      "local_path": "narrative-geopolitics/archive/sources/2025-01-12/source-dialogue-works-israel-is-blind-its-strategic-defeat-becomes-clearer-with-time-larry-c-j-2025-01-12.md",
+      "voice_index_path": "../../archive/sources/2025-01-12/source-dialogue-works-israel-is-blind-its-strategic-defeat-becomes-clearer-with-time-larry-c-j-2025-01-12.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-01-12/source-dialogue-works-israel-is-blind-its-strategic-defeat-becomes-clearer-with-time-larry-c-j-2025-01-12.md",
+      "source_class": "solo",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-01-19",
+      "title": "Trump Pressures Netanyahu: A Power Play Unfolds | Larry C. Johnson & Scott Ritter",
+      "local_path": "narrative-geopolitics/archive/sources/2025-01-19/source-dialogue-works-trump-pressures-netanyahu-a-power-play-unfolds-larry-c-johnson-scott-rit-2025-01-19.md",
+      "voice_index_path": "../../archive/sources/2025-01-19/source-dialogue-works-trump-pressures-netanyahu-a-power-play-unfolds-larry-c-johnson-scott-rit-2025-01-19.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-01-19/source-dialogue-works-trump-pressures-netanyahu-a-power-play-unfolds-larry-c-johnson-scott-rit-2025-01-19.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-02-02",
+      "title": "Trump's Weakness Spells Disaster | Col. Larry Wilkerson & Scott Ritter",
+      "local_path": "narrative-geopolitics/archive/sources/2025-02-02/source-dialogue-works-trumps-weakness-spells-disaster-col-larry-wilkerson-scott-ritter-2025-02-02.md",
+      "voice_index_path": "../../archive/sources/2025-02-02/source-dialogue-works-trumps-weakness-spells-disaster-col-larry-wilkerson-scott-ritter-2025-02-02.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-02-02/source-dialogue-works-trumps-weakness-spells-disaster-col-larry-wilkerson-scott-ritter-2025-02-02.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-02-22",
+      "title": "Scott Ritter: Why Trump admitted that Russia has won the Ukraine war?",
+      "local_path": "narrative-geopolitics/archive/sources/2025-02-22/source-india-global-left-trump-russia-ukraine-war-scott-ritter-2025-02-22.md",
+      "voice_index_path": "../../archive/sources/2025-02-22/source-india-global-left-trump-russia-ukraine-war-scott-ritter-2025-02-22.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-02-22/source-india-global-left-trump-russia-ukraine-war-scott-ritter-2025-02-22.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "india-global-left",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-03-02",
+      "title": "Scott Ritter Gives His FIRST Impression on TRUMP ZELENSKY FIASCO",
+      "local_path": "narrative-geopolitics/archive/sources/2025-03-02/source-india-global-left-trump-zelensky-fiasco-scott-ritter-2025-03-02.md",
+      "voice_index_path": "../../archive/sources/2025-03-02/source-india-global-left-trump-zelensky-fiasco-scott-ritter-2025-03-02.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-03-02/source-india-global-left-trump-zelensky-fiasco-scott-ritter-2025-03-02.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "india-global-left",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-03-21",
+      "title": "Scott Ritter Breaks Down Trump & Rubio's Warning: Is the U.S. About to Quit Ukraine Peace Talks?",
+      "local_path": "narrative-geopolitics/archive/sources/2025-03-21/source-india-global-left-trump-rubio-ukraine-peace-talks-scott-ritter-2025-03-21.md",
+      "voice_index_path": "../../archive/sources/2025-03-21/source-india-global-left-trump-rubio-ukraine-peace-talks-scott-ritter-2025-03-21.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-03-21/source-india-global-left-trump-rubio-ukraine-peace-talks-scott-ritter-2025-03-21.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "india-global-left",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-03-28",
+      "title": "Scott Ritter: Will Trump bring peace or chaos to Middle East?",
+      "local_path": "narrative-geopolitics/archive/sources/2025-03-28/source-india-global-left-trump-peace-chaos-middle-east-scott-ritter-2025-03-28.md",
+      "voice_index_path": "../../archive/sources/2025-03-28/source-india-global-left-trump-peace-chaos-middle-east-scott-ritter-2025-03-28.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-03-28/source-india-global-left-trump-peace-chaos-middle-east-scott-ritter-2025-03-28.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "india-global-left",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-05-24",
+      "title": "Scott Ritter: Will Trump Own the Ukraine War or Walk Away?",
+      "local_path": "narrative-geopolitics/archive/sources/2025-05-24/source-glenn-diesen-scott-ritter-scott-ritter-will-trump-own-the-ukraine-war-or-walk-away-2025-05-24.md",
+      "voice_index_path": "../../archive/sources/2025-05-24/source-glenn-diesen-scott-ritter-scott-ritter-will-trump-own-the-ukraine-war-or-walk-away-2025-05-24.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-05-24/source-glenn-diesen-scott-ritter-scott-ritter-will-trump-own-the-ukraine-war-or-walk-away-2025-05-24.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-06-10",
+      "title": "Scott Ritter: Dangerous Endgame in Ukraine: Collapse or Escalation",
+      "local_path": "narrative-geopolitics/archive/sources/2025-06-10/source-glenn-diesen-scott-ritter-scott-ritter-dangerous-endgame-in-ukraine-collapse-or-escalation-2025-06-10.md",
+      "voice_index_path": "../../archive/sources/2025-06-10/source-glenn-diesen-scott-ritter-scott-ritter-dangerous-endgame-in-ukraine-collapse-or-escalation-2025-06-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-06-10/source-glenn-diesen-scott-ritter-scott-ritter-dangerous-endgame-in-ukraine-collapse-or-escalation-2025-06-10.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-08-10",
+      "title": "Trump's Plan to Threaten Putin with Sanctions & Submarines | Col. Larry Wilkerson & Scott Ritter",
+      "local_path": "narrative-geopolitics/archive/sources/2025-08-10/source-dialogue-works-trumps-plan-to-threaten-putin-with-sanctions-submarines-col-larry-wilkerson-scott-ritter-2025-08-10.md",
+      "voice_index_path": "../../archive/sources/2025-08-10/source-dialogue-works-trumps-plan-to-threaten-putin-with-sanctions-submarines-col-larry-wilkerson-scott-ritter-2025-08-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-08-10/source-dialogue-works-trumps-plan-to-threaten-putin-with-sanctions-submarines-col-larry-wilkerson-scott-ritter-2025-08-10.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-09-06",
+      "title": "The US is committing Geopolitical Suicide | Andrei Martyanov & Scott Ritter",
+      "local_path": "narrative-geopolitics/archive/sources/2025-09-06/source-dialogue-works-andrei-martyanov-scott-ritter-the-us-is-committing-geopolitical-suicide-2025-09-06.md",
+      "voice_index_path": "../../archive/sources/2025-09-06/source-dialogue-works-andrei-martyanov-scott-ritter-the-us-is-committing-geopolitical-suicide-2025-09-06.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-09-06/source-dialogue-works-andrei-martyanov-scott-ritter-the-us-is-committing-geopolitical-suicide-2025-09-06.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-09-17",
+      "title": "Scott Ritter: NATO Prepares for War with Russia",
+      "local_path": "narrative-geopolitics/archive/sources/2025-09-17/source-glenn-diesen-scott-ritter-scott-ritter-nato-prepares-for-war-with-russia-2025-09-17.md",
+      "voice_index_path": "../../archive/sources/2025-09-17/source-glenn-diesen-scott-ritter-scott-ritter-nato-prepares-for-war-with-russia-2025-09-17.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-09-17/source-glenn-diesen-scott-ritter-scott-ritter-nato-prepares-for-war-with-russia-2025-09-17.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-09-23",
+      "title": "Scott Ritter & Col. Larry Wilkerson: Israel's DEAD END- Charlie Kirk- Iran & Russia vs NATO",
+      "local_path": "narrative-geopolitics/archive/sources/2025-09-23/source-dialogue-works-scott-ritter-col-larry-wilkerson-israels-dead-end-charlie-kirk-iran-russia-vs-nato-2025-09-23.md",
+      "voice_index_path": "../../archive/sources/2025-09-23/source-dialogue-works-scott-ritter-col-larry-wilkerson-israels-dead-end-charlie-kirk-iran-russia-vs-nato-2025-09-23.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-09-23/source-dialogue-works-scott-ritter-col-larry-wilkerson-israels-dead-end-charlie-kirk-iran-russia-vs-nato-2025-09-23.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-10-07",
+      "title": "Scott Ritter: Tomahawks, End of NATO & Coming Nuclear War",
+      "local_path": "narrative-geopolitics/archive/sources/2025-10-07/source-glenn-diesen-scott-ritter-scott-ritter-tomahawks-end-of-nato-coming-nuclear-war-2025-10-07.md",
+      "voice_index_path": "../../archive/sources/2025-10-07/source-glenn-diesen-scott-ritter-scott-ritter-tomahawks-end-of-nato-coming-nuclear-war-2025-10-07.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-10-07/source-glenn-diesen-scott-ritter-scott-ritter-tomahawks-end-of-nato-coming-nuclear-war-2025-10-07.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-10-19",
+      "title": "Israel\u2019s Attack IGNITES Iran\u2019s Oreshnik Moment \u2014 IDF in RUINS l Scott Ritter",
+      "local_path": "narrative-geopolitics/archive/sources/2025-10-19/source-dialogue-works-scott-ritter-israel-s-attack-ignites-iran-s-oreshnik-moment-idf-in-ruins-l-scott-ritter-2025-10-19.md",
+      "voice_index_path": "../../archive/sources/2025-10-19/source-dialogue-works-scott-ritter-israel-s-attack-ignites-iran-s-oreshnik-moment-idf-in-ruins-l-scott-ritter-2025-10-19.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-10-19/source-dialogue-works-scott-ritter-israel-s-attack-ignites-iran-s-oreshnik-moment-idf-in-ruins-l-scott-ritter-2025-10-19.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-10-24",
+      "title": "Scott Ritter: Russia 'Fed Up' With NATO Escalations - Retaliation is Coming",
+      "local_path": "narrative-geopolitics/archive/sources/2025-10-24/source-glenn-diesen-scott-ritter-scott-ritter-russia-fed-up-with-nato-escalations-retaliation-is-coming-2025-10-24.md",
+      "voice_index_path": "../../archive/sources/2025-10-24/source-glenn-diesen-scott-ritter-scott-ritter-russia-fed-up-with-nato-escalations-retaliation-is-coming-2025-10-24.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-10-24/source-glenn-diesen-scott-ritter-scott-ritter-russia-fed-up-with-nato-escalations-retaliation-is-coming-2025-10-24.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-11-02",
+      "title": "It's ALL BLOWING UP - Iran & Russia Vow to WIPE OUT Any Attack! | Scott Ritter & Andrei Martyanov",
+      "local_path": "narrative-geopolitics/archive/sources/2025-11-02/source-dialogue-works-scott-ritter-andrei-martyanov-its-all-blowing-up-iran-russia-vow-to-wipe-out-any-attack-2025-11-02.md",
+      "voice_index_path": "../../archive/sources/2025-11-02/source-dialogue-works-scott-ritter-andrei-martyanov-its-all-blowing-up-iran-russia-vow-to-wipe-out-any-attack-2025-11-02.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-11-02/source-dialogue-works-scott-ritter-andrei-martyanov-its-all-blowing-up-iran-russia-vow-to-wipe-out-any-attack-2025-11-02.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-11-04",
+      "title": "Scott Ritter: NATO's Ukraine Strategy Is Collapsing",
+      "local_path": "narrative-geopolitics/archive/sources/2025-11-04/source-judging-freedom-ritter-natos-ukraine-strategy-is-collapsing-2025-11-04.md",
+      "voice_index_path": "../../archive/sources/2025-11-04/source-judging-freedom-ritter-natos-ukraine-strategy-is-collapsing-2025-11-04.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-11-04/source-judging-freedom-ritter-natos-ukraine-strategy-is-collapsing-2025-11-04.md",
+      "source_class": "article",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-11-05",
+      "title": "Scott Ritter: Russia & Iran Just Triggered It All!",
+      "local_path": "narrative-geopolitics/archive/sources/2025-11-05/source-dialogue-works-scott-ritter-scott-ritter-russia-iran-just-triggered-it-all-2025-11-05.md",
+      "voice_index_path": "../../archive/sources/2025-11-05/source-dialogue-works-scott-ritter-scott-ritter-russia-iran-just-triggered-it-all-2025-11-05.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-11-05/source-dialogue-works-scott-ritter-scott-ritter-russia-iran-just-triggered-it-all-2025-11-05.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-12-01",
+      "title": "Scott Ritter: War Has Been Won & Russia Faces a Dilemma",
+      "local_path": "narrative-geopolitics/archive/sources/2025-12-01/source-glenn-diesen-scott-ritter-scott-ritter-war-has-been-won-russia-faces-a-dilemma-2025-12-01.md",
+      "voice_index_path": "../../archive/sources/2025-12-01/source-glenn-diesen-scott-ritter-scott-ritter-war-has-been-won-russia-faces-a-dilemma-2025-12-01.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-12-01/source-glenn-diesen-scott-ritter-scott-ritter-war-has-been-won-russia-faces-a-dilemma-2025-12-01.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-12-01",
+      "title": "Scott Ritter: Did Hegseth Order Murders?",
+      "local_path": "narrative-geopolitics/archive/sources/2025-12-01/source-judging-freedom-ritter-did-hegseth-order-murders-2025-12-01.md",
+      "voice_index_path": "../../archive/sources/2025-12-01/source-judging-freedom-ritter-did-hegseth-order-murders-2025-12-01.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-12-01/source-judging-freedom-ritter-did-hegseth-order-murders-2025-12-01.md",
+      "source_class": "article",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-12-03",
+      "title": "Scott Ritter: Putin Warns Europe: \u201cWe\u2019re Ready Right Now\u201d",
+      "local_path": "narrative-geopolitics/archive/sources/2025-12-03/source-dialogue-works-scott-ritter-scott-ritter-putin-warns-europe-we-re-ready-right-now-2025-12-03.md",
+      "voice_index_path": "../../archive/sources/2025-12-03/source-dialogue-works-scott-ritter-scott-ritter-putin-warns-europe-we-re-ready-right-now-2025-12-03.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-12-03/source-dialogue-works-scott-ritter-scott-ritter-putin-warns-europe-we-re-ready-right-now-2025-12-03.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-12-06",
+      "title": "Putin Defies Trump: EU Cornered as Ukraine Troops Collapse | Scott Ritter",
+      "local_path": "narrative-geopolitics/archive/sources/2025-12-06/source-dialogue-works-scott-ritter-putin-defies-trump-eu-cornered-as-ukraine-troops-collapse-scott-ritter-2025-12-06.md",
+      "voice_index_path": "../../archive/sources/2025-12-06/source-dialogue-works-scott-ritter-putin-defies-trump-eu-cornered-as-ukraine-troops-collapse-scott-ritter-2025-12-06.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-12-06/source-dialogue-works-scott-ritter-putin-defies-trump-eu-cornered-as-ukraine-troops-collapse-scott-ritter-2025-12-06.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-12-10",
+      "title": "Scott Ritter: The U.S. Now Considers the EU an Enemy",
+      "local_path": "narrative-geopolitics/archive/sources/2025-12-10/source-glenn-diesen-scott-ritter-scott-ritter-the-u-s-now-considers-the-eu-an-enemy-2025-12-10.md",
+      "voice_index_path": "../../archive/sources/2025-12-10/source-glenn-diesen-scott-ritter-scott-ritter-the-u-s-now-considers-the-eu-an-enemy-2025-12-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-12-10/source-glenn-diesen-scott-ritter-scott-ritter-the-u-s-now-considers-the-eu-an-enemy-2025-12-10.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-12-19",
+      "title": "Scott Ritter: Russia Just Made a Move That Could Collapse Everything",
+      "local_path": "narrative-geopolitics/archive/sources/2025-12-19/source-dialogue-works-scott-ritter-scott-ritter-russia-just-made-a-move-that-could-collapse-everything-2025-12-19.md",
+      "voice_index_path": "../../archive/sources/2025-12-19/source-dialogue-works-scott-ritter-scott-ritter-russia-just-made-a-move-that-could-collapse-everything-2025-12-19.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-12-19/source-dialogue-works-scott-ritter-scott-ritter-russia-just-made-a-move-that-could-collapse-everything-2025-12-19.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-12-24",
+      "title": "Scott Ritter: This Is How It All COLLAPSES \u2014 Russia\u2019s Role Explained",
+      "local_path": "narrative-geopolitics/archive/sources/2025-12-24/source-dialogue-works-scott-ritter-scott-ritter-this-is-how-it-all-collapses-russia-s-role-explained-2025-12-24.md",
+      "voice_index_path": "../../archive/sources/2025-12-24/source-dialogue-works-scott-ritter-scott-ritter-this-is-how-it-all-collapses-russia-s-role-explained-2025-12-24.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-12-24/source-dialogue-works-scott-ritter-scott-ritter-this-is-how-it-all-collapses-russia-s-role-explained-2025-12-24.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-03",
+      "title": "Russia's Dark Sage (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-03/source-ritter-russia-dark-sage-karaganov-2026-01-03.md",
+      "voice_index_path": "../../archive/sources/2026-01-03/source-ritter-russia-dark-sage-karaganov-2026-01-03.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-03/source-ritter-russia-dark-sage-karaganov-2026-01-03.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-05",
+      "title": "The Sanctions Shield (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-05/source-ritter-the-sanctions-shield-2026-01-05.md",
+      "voice_index_path": "../../archive/sources/2026-01-05/source-ritter-the-sanctions-shield-2026-01-05.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-05/source-ritter-the-sanctions-shield-2026-01-05.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-06",
+      "title": "The Battle of New York (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-06/source-ritter-the-battle-of-new-york-2026-01-06.md",
+      "voice_index_path": "../../archive/sources/2026-01-06/source-ritter-the-battle-of-new-york-2026-01-06.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-06/source-ritter-the-battle-of-new-york-2026-01-06.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-09",
+      "title": "The Camel\u2019s Bloody Nose (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-09/source-ritter-the-camels-bloody-nose-2026-01-09.md",
+      "voice_index_path": "../../archive/sources/2026-01-09/source-ritter-the-camels-bloody-nose-2026-01-09.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-09/source-ritter-the-camels-bloody-nose-2026-01-09.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-10",
+      "title": "The End of a Dream? (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-10/source-ritter-the-end-of-a-dream-2026-01-10.md",
+      "voice_index_path": "../../archive/sources/2026-01-10/source-ritter-the-end-of-a-dream-2026-01-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-10/source-ritter-the-end-of-a-dream-2026-01-10.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-12",
+      "title": "Scott Ritter: How Close Is Putin to Escalation?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-12/source-judging-freedom-ritter-how-close-is-putin-to-escalation-2026-01-12.md",
+      "voice_index_path": "../../archive/sources/2026-01-12/source-judging-freedom-ritter-how-close-is-putin-to-escalation-2026-01-12.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-12/source-judging-freedom-ritter-how-close-is-putin-to-escalation-2026-01-12.md",
+      "source_class": "article",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-12",
+      "title": "Iranian Resilience (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-12/source-ritter-iranian-resilience-2026-01-12.md",
+      "voice_index_path": "../../archive/sources/2026-01-12/source-ritter-iranian-resilience-2026-01-12.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-12/source-ritter-iranian-resilience-2026-01-12.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-13",
+      "title": "Scott Ritter: Trump Set Up Putin & Escalates War With Russia",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-13/source-glenn-diesen-scott-ritter-trump-set-up-putin-escalates-war-with-russia-2026-01-13.md",
+      "voice_index_path": "../../archive/sources/2026-01-13/source-glenn-diesen-scott-ritter-trump-set-up-putin-escalates-war-with-russia-2026-01-13.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-13/source-glenn-diesen-scott-ritter-trump-set-up-putin-escalates-war-with-russia-2026-01-13.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-13",
+      "title": "Losing the Republic (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-13/source-ritter-losing-the-republic-2026-01-13.md",
+      "voice_index_path": "../../archive/sources/2026-01-13/source-ritter-losing-the-republic-2026-01-13.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-13/source-ritter-losing-the-republic-2026-01-13.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-16",
+      "title": "Reflections on a War (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-16/source-ritter-reflections-on-a-war-2026-01-16.md",
+      "voice_index_path": "../../archive/sources/2026-01-16/source-ritter-reflections-on-a-war-2026-01-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-16/source-ritter-reflections-on-a-war-2026-01-16.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-16",
+      "title": "Back to the Future (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-16/source-ritter-back-to-the-future-2026-01-16.md",
+      "voice_index_path": "../../archive/sources/2026-01-16/source-ritter-back-to-the-future-2026-01-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-16/source-ritter-back-to-the-future-2026-01-16.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-18",
+      "title": "Don't Drink the Water (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-18/source-ritter-dont-drink-the-water-2026-01-18.md",
+      "voice_index_path": "../../archive/sources/2026-01-18/source-ritter-dont-drink-the-water-2026-01-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-18/source-ritter-dont-drink-the-water-2026-01-18.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-20",
+      "title": "Getting it Wrong on Russia (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-20/source-ritter-getting-it-wrong-on-russia-2026-01-20.md",
+      "voice_index_path": "../../archive/sources/2026-01-20/source-ritter-getting-it-wrong-on-russia-2026-01-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-20/source-ritter-getting-it-wrong-on-russia-2026-01-20.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-27",
+      "title": "Scott Ritter:  US-Iran War Imminent as Military Buildup Peaks",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-27/source-glenn-diesen-scott-ritter-us-iran-war-imminent-as-military-buildup-peaks-2026-01-27.md",
+      "voice_index_path": "../../archive/sources/2026-01-27/source-glenn-diesen-scott-ritter-us-iran-war-imminent-as-military-buildup-peaks-2026-01-27.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-27/source-glenn-diesen-scott-ritter-us-iran-war-imminent-as-military-buildup-peaks-2026-01-27.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-04",
+      "title": "Scott Ritter: Game Over? Trump\\u2019s Iran Strategy Might Blow Up and Start a Regional War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-04/source-dialogue-works-scott-ritter-game-over-trump-s-iran-strategy-might-blow-up-and-start-a-r-2026-02-04.md",
+      "voice_index_path": "../../archive/sources/2026-02-04/source-dialogue-works-scott-ritter-game-over-trump-s-iran-strategy-might-blow-up-and-start-a-r-2026-02-04.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-04/source-dialogue-works-scott-ritter-game-over-trump-s-iran-strategy-might-blow-up-and-start-a-r-2026-02-04.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-05",
+      "title": "Alas, Babylon (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-05/source-ritter-alas-babylon-2026-02-05.md",
+      "voice_index_path": "../../archive/sources/2026-02-05/source-ritter-alas-babylon-2026-02-05.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-05/source-ritter-alas-babylon-2026-02-05.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-11",
+      "title": "Scott Ritter: Trump in MAJOR Trouble \\u2014 China & Russia Arm Iran With Deadly Weapons!",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-11/source-dialogue-works-scott-ritter-trump-in-major-trouble-china-russia-arm-iran-with-deadly-we-2026-02-11.md",
+      "voice_index_path": "../../archive/sources/2026-02-11/source-dialogue-works-scott-ritter-trump-in-major-trouble-china-russia-arm-iran-with-deadly-we-2026-02-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-11/source-dialogue-works-scott-ritter-trump-in-major-trouble-china-russia-arm-iran-with-deadly-we-2026-02-11.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-18",
+      "title": "Scott Ritter: Hormuz Blocked! Iran\\u2019s Missile Fire Can Leave the US Navy DEFENSELESS",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-18/source-dialogue-works-scott-ritter-hormuz-blocked-iran-s-missile-fire-can-leave-the-us-navy-de-2026-02-18.md",
+      "voice_index_path": "../../archive/sources/2026-02-18/source-dialogue-works-scott-ritter-hormuz-blocked-iran-s-missile-fire-can-leave-the-us-navy-de-2026-02-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-18/source-dialogue-works-scott-ritter-hormuz-blocked-iran-s-missile-fire-can-leave-the-us-navy-de-2026-02-18.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-19",
+      "title": "Scott Ritter: U.S. Revives Empire & Europe Is No Longer An Ally",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-19/source-glenn-diesen-scott-ritter-u-s-revives-empire-europe-is-no-longer-an-ally-2026-02-19.md",
+      "voice_index_path": "../../archive/sources/2026-02-19/source-glenn-diesen-scott-ritter-u-s-revives-empire-europe-is-no-longer-an-ally-2026-02-19.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-19/source-glenn-diesen-scott-ritter-u-s-revives-empire-europe-is-no-longer-an-ally-2026-02-19.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-20",
+      "title": "Scott Ritter on US Foreign Policy, CIA & What's REALLY Happening in Venezuela, Iran & Ukraine",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-20/source-india-global-left-us-foreign-policy-cia-venezuela-iran-ukraine-scott-ritter-2026-02-20.md",
+      "voice_index_path": "../../archive/sources/2026-02-20/source-india-global-left-us-foreign-policy-cia-venezuela-iran-ukraine-scott-ritter-2026-02-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-20/source-india-global-left-us-foreign-policy-cia-venezuela-iran-ukraine-scott-ritter-2026-02-20.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "india-global-left",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-20",
+      "title": "Dead at 27 (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-20/source-ritter-dead-at-27-2026-02-20.md",
+      "voice_index_path": "../../archive/sources/2026-02-20/source-ritter-dead-at-27-2026-02-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-20/source-ritter-dead-at-27-2026-02-20.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-22",
+      "title": "The Flamingo Effect (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-22/source-ritter-the-flamingo-effect-2026-02-22.md",
+      "voice_index_path": "../../archive/sources/2026-02-22/source-ritter-the-flamingo-effect-2026-02-22.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-22/source-ritter-the-flamingo-effect-2026-02-22.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-23",
+      "title": "Scott Ritter: What War With Iran Will Look Like",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-23/source-judging-freedom-ritter-what-war-with-iran-will-look-like-2026-02-23.md",
+      "voice_index_path": "../../archive/sources/2026-02-23/source-judging-freedom-ritter-what-war-with-iran-will-look-like-2026-02-23.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-23/source-judging-freedom-ritter-what-war-with-iran-will-look-like-2026-02-23.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-28",
+      "title": "Scott Ritter: Full-Scale War as Iran Attacks All U.S. Targets",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-28/source-glenn-diesen-scott-ritter-full-scale-war-as-iran-attacks-all-u-s-targets-2026-02-28.md",
+      "voice_index_path": "../../archive/sources/2026-02-28/source-glenn-diesen-scott-ritter-full-scale-war-as-iran-attacks-all-u-s-targets-2026-02-28.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-28/source-glenn-diesen-scott-ritter-full-scale-war-as-iran-attacks-all-u-s-targets-2026-02-28.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-02",
+      "title": "\\\"Prove Me Wrong\\\" \u2013 Scott Ritter Says This War Could End US Power in the Middle East",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-02/source-india-global-left-prove-me-wrong-scott-ritter-2026-03-02.md",
+      "voice_index_path": "../../archive/sources/2026-03-02/source-india-global-left-prove-me-wrong-scott-ritter-2026-03-02.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-02/source-india-global-left-prove-me-wrong-scott-ritter-2026-03-02.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "india-global-left",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-01",
+      "title": "Regime Change, the Double-Edged Sword (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-01/source-ritter-regime-change-double-edged-sword-2026-03-01.md",
+      "voice_index_path": "../../archive/sources/2026-03-01/source-ritter-regime-change-double-edged-sword-2026-03-01.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-01/source-ritter-regime-change-double-edged-sword-2026-03-01.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-04",
+      "title": "Scott Ritter: Iran Wins the Long War \u2014 U.S. & Israel Losing Ground!",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-04/source-dialogue-works-scott-ritter-iran-wins-the-long-war-us-israel-losing-ground-2026-03-04.md",
+      "voice_index_path": "../../archive/sources/2026-03-04/source-dialogue-works-scott-ritter-iran-wins-the-long-war-us-israel-losing-ground-2026-03-04.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-04/source-dialogue-works-scott-ritter-iran-wins-the-long-war-us-israel-losing-ground-2026-03-04.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-06",
+      "title": "Scott Ritter & Lt Col Daniel Davis: IRAN HITTING OUR BASES LIKE NO ENEMY BEFORE",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-06/source-daniel-davis-scott-ritter-lt-col-daniel-davis-iran-hitting-our-bases-like-no-enemy-be-2026-03-06.md",
+      "voice_index_path": "../../archive/sources/2026-03-06/source-daniel-davis-scott-ritter-lt-col-daniel-davis-iran-hitting-our-bases-like-no-enemy-be-2026-03-06.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-06/source-daniel-davis-scott-ritter-lt-col-daniel-davis-iran-hitting-our-bases-like-no-enemy-be-2026-03-06.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "Scott Ritter: Trump Calls Putin for Iran War Off-Ramp",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-11/source-glenn-diesen-scott-ritter-trump-calls-putin-for-iran-war-off-ramp-2026-03-11.md",
+      "voice_index_path": "../../archive/sources/2026-03-11/source-glenn-diesen-scott-ritter-trump-calls-putin-for-iran-war-off-ramp-2026-03-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-11/source-glenn-diesen-scott-ritter-trump-calls-putin-for-iran-war-off-ramp-2026-03-11.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "Scott Ritter: The U.S. Has Lost and Is Trapped in the Iran War With No Way Out",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-11/source-dialogue-works-scott-ritter-the-u-s-has-lost-and-is-trapped-in-the-iran-war-with-no-way-2026-03-11.md",
+      "voice_index_path": "../../archive/sources/2026-03-11/source-dialogue-works-scott-ritter-the-u-s-has-lost-and-is-trapped-in-the-iran-war-with-no-way-2026-03-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-11/source-dialogue-works-scott-ritter-the-u-s-has-lost-and-is-trapped-in-the-iran-war-with-no-way-2026-03-11.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-14",
+      "title": "The Backpack Girls (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-14/source-ritter-the-backpack-girls-2026-03-14.md",
+      "voice_index_path": "../../archive/sources/2026-03-14/source-ritter-the-backpack-girls-2026-03-14.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-14/source-ritter-the-backpack-girls-2026-03-14.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "Scott Ritter: TRUMP is DEAD WRONG About U.S. Missiles & Stockpiles",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-16/source-daniel-davis-scott-ritter-trump-is-dead-wrong-about-u-s-missiles-stockpiles-2026-03-16.md",
+      "voice_index_path": "../../archive/sources/2026-03-16/source-daniel-davis-scott-ritter-trump-is-dead-wrong-about-u-s-missiles-stockpiles-2026-03-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-16/source-daniel-davis-scott-ritter-trump-is-dead-wrong-about-u-s-missiles-stockpiles-2026-03-16.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "Scott Ritter: IRAN Would Become a Graveyard for Our Marines",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-16/source-daniel-davis-scott-ritter-iran-would-become-a-graveyard-for-our-marines-2026-03-16.md",
+      "voice_index_path": "../../archive/sources/2026-03-16/source-daniel-davis-scott-ritter-iran-would-become-a-graveyard-for-our-marines-2026-03-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-16/source-daniel-davis-scott-ritter-iran-would-become-a-graveyard-for-our-marines-2026-03-16.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "Scott Ritter, Danny Davis Combat Vets: Can the US Force Hormuz Open?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-16/source-daniel-davis-scott-ritter-danny-davis-combat-vets-can-the-us-force-hormuz-open-2026-03-16.md",
+      "voice_index_path": "../../archive/sources/2026-03-16/source-daniel-davis-scott-ritter-danny-davis-combat-vets-can-the-us-force-hormuz-open-2026-03-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-16/source-daniel-davis-scott-ritter-danny-davis-combat-vets-can-the-us-force-hormuz-open-2026-03-16.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-17",
+      "title": "Scott Ritter : Could US Officials Face War Crime Charges?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-17/source-judging-freedom-ritter-could-us-officials-face-war-crime-charges-2026-03-17.md",
+      "voice_index_path": "../../archive/sources/2026-03-17/source-judging-freedom-ritter-could-us-officials-face-war-crime-charges-2026-03-17.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-17/source-judging-freedom-ritter-could-us-officials-face-war-crime-charges-2026-03-17.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "Zionism, the Human Parasitoid (Revisited) (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-18/source-ritter-zionism-human-parasitoid-revisited-2026-03-18.md",
+      "voice_index_path": "../../archive/sources/2026-03-18/source-ritter-zionism-human-parasitoid-revisited-2026-03-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-18/source-ritter-zionism-human-parasitoid-revisited-2026-03-18.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-25",
+      "title": "How the Chechen miracle kick-started the Russian 'Path of Redemption' (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-25/source-ritter-chechen-miracle-path-redemption-2026-03-25.md",
+      "voice_index_path": "../../archive/sources/2026-03-25/source-ritter-chechen-miracle-path-redemption-2026-03-25.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-25/source-ritter-chechen-miracle-path-redemption-2026-03-25.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-31",
+      "title": "Scott Ritter: NO WAR PLAN in IRAN  We're Making It Up as we Go Along",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-31/source-daniel-davis-scott-ritter-no-war-plan-in-iran-we-re-making-it-up-as-we-go-along-2026-03-31.md",
+      "voice_index_path": "../../archive/sources/2026-03-31/source-daniel-davis-scott-ritter-no-war-plan-in-iran-we-re-making-it-up-as-we-go-along-2026-03-31.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-31/source-daniel-davis-scott-ritter-no-war-plan-in-iran-we-re-making-it-up-as-we-go-along-2026-03-31.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-31",
+      "title": "Scott Ritter: Why Iran Is Winning",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-31/source-judging-freedom-ritter-why-iran-is-winning-2026-03-31.md",
+      "voice_index_path": "../../archive/sources/2026-03-31/source-judging-freedom-ritter-why-iran-is-winning-2026-03-31.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-31/source-judging-freedom-ritter-why-iran-is-winning-2026-03-31.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "\\\"There Is No Ceasefire\\\" \u2014 Scott Ritter on Iran, Israel & What Comes Next",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-09/source-india-global-left-no-ceasefire-scott-ritter-2026-04-09.md",
+      "voice_index_path": "../../archive/sources/2026-04-09/source-india-global-left-no-ceasefire-scott-ritter-2026-04-09.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-09/source-india-global-left-no-ceasefire-scott-ritter-2026-04-09.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "india-global-left",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-01",
+      "title": "Operator capture (cleaned Substack export)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-01/source-ritter-why-i-no-longer-stand-with-israel-redux-2026-04-01.md",
+      "voice_index_path": "../../archive/sources/2026-04-01/source-ritter-why-i-no-longer-stand-with-israel-redux-2026-04-01.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-01/source-ritter-why-i-no-longer-stand-with-israel-redux-2026-04-01.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "Scott Ritter: Will Iran Force the US Out of the Middle East?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-02/source-dialogue-works-scott-ritter-will-iran-force-the-us-out-of-the-middle-east-2026-04-02.md",
+      "voice_index_path": "../../archive/sources/2026-04-02/source-dialogue-works-scott-ritter-will-iran-force-the-us-out-of-the-middle-east-2026-04-02.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-02/source-dialogue-works-scott-ritter-will-iran-force-the-us-out-of-the-middle-east-2026-04-02.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-03",
+      "title": "Combat Search and Rescue, the Prequel (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-03/source-ritter-combat-search-and-rescue-prequel-2026-04-03.md",
+      "voice_index_path": "../../archive/sources/2026-04-03/source-ritter-combat-search-and-rescue-prequel-2026-04-03.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-03/source-ritter-combat-search-and-rescue-prequel-2026-04-03.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-05",
+      "title": "SCOTT RITTER: We Don't Control the Skies Over Iran!",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-05/source-daniel-davis-scott-ritter-we-don-t-control-the-skies-over-iran-2026-04-05.md",
+      "voice_index_path": "../../archive/sources/2026-04-05/source-daniel-davis-scott-ritter-we-don-t-control-the-skies-over-iran-2026-04-05.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-05/source-daniel-davis-scott-ritter-we-don-t-control-the-skies-over-iran-2026-04-05.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-07",
+      "title": "Scott Ritter: War Goes Horribly Wrong - U.S. Could Use Nuclear Weapons",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-07/source-glenn-diesen-scott-ritter-war-goes-horribly-wrong-u-s-could-use-nuclear-weapons-2026-04-07.md",
+      "voice_index_path": "../../archive/sources/2026-04-07/source-glenn-diesen-scott-ritter-war-goes-horribly-wrong-u-s-could-use-nuclear-weapons-2026-04-07.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-07/source-glenn-diesen-scott-ritter-war-goes-horribly-wrong-u-s-could-use-nuclear-weapons-2026-04-07.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "Scott Ritter: The US War on Iran Just COLLAPSED \\u2013 Ceasefire Does the Impossible",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-08/source-dialogue-works-scott-ritter-the-us-war-on-iran-just-collapsed-ceasefire-does-the-imposs-2026-04-08.md",
+      "voice_index_path": "../../archive/sources/2026-04-08/source-dialogue-works-scott-ritter-the-us-war-on-iran-just-collapsed-ceasefire-does-the-imposs-2026-04-08.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-08/source-dialogue-works-scott-ritter-the-us-war-on-iran-just-collapsed-ceasefire-does-the-imposs-2026-04-08.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "Scott Ritter: TRUMP's BLOCKADE IS A JOKE",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-13/source-daniel-davis-scott-ritter-trump-s-blockade-is-a-joke-2026-04-13.md",
+      "voice_index_path": "../../archive/sources/2026-04-13/source-daniel-davis-scott-ritter-trump-s-blockade-is-a-joke-2026-04-13.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-13/source-daniel-davis-scott-ritter-trump-s-blockade-is-a-joke-2026-04-13.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "Blasphemy, American Style (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-13/source-ritter-blasphemy-american-style-2026-04-13.md",
+      "voice_index_path": "../../archive/sources/2026-04-13/source-ritter-blasphemy-american-style-2026-04-13.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-13/source-ritter-blasphemy-american-style-2026-04-13.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "Diesen \u00d7 Scott Ritter \u2014 Russia Threatens Strike on Finland & Baltic States (operator transcript SSOT)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-17/source-diesen-ritter-russia-threatens-strike-finland-baltic-2026-04-17.md",
+      "voice_index_path": "../../archive/sources/2026-04-17/source-diesen-ritter-russia-threatens-strike-finland-baltic-2026-04-17.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-17/source-diesen-ritter-russia-threatens-strike-finland-baltic-2026-04-17.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-20",
+      "title": "Scott Ritter: Trump and Hegseth Haven't a Clue",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-20/source-trump-hegseth-2026-04-20.md",
+      "voice_index_path": "../../archive/sources/2026-04-20/source-trump-hegseth-2026-04-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-20/source-trump-hegseth-2026-04-20.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-20",
+      "title": "The Shorting of America",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-20/source-rant-shorting-america-7pXI52jKcOU-2026-04-20.md",
+      "voice_index_path": "../../archive/sources/2026-04-20/source-rant-shorting-america-7pXI52jKcOU-2026-04-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-20/source-rant-shorting-america-7pXI52jKcOU-2026-04-20.md",
+      "source_class": "solo",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-27",
+      "title": "A New Middle Eastern Power Paradigm (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-27/source-ritter-new-middle-eastern-power-paradigm-2026-04-27.md",
+      "voice_index_path": "../../archive/sources/2026-04-27/source-ritter-new-middle-eastern-power-paradigm-2026-04-27.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-27/source-ritter-new-middle-eastern-power-paradigm-2026-04-27.md",
+      "source_class": "authored newsletter",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-03",
+      "title": "The Fifth Year",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-03/source-ritter-fifth-year-russia-smo-2026-05-03.md",
+      "voice_index_path": "../../archive/sources/2026-05-03/source-ritter-fifth-year-russia-smo-2026-05-03.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-03/source-ritter-fifth-year-russia-smo-2026-05-03.md",
+      "source_class": "authored newsletter",
+      "modality": "article",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-04",
+      "title": "Diesen \u00d7 Scott Ritter \u2014 Strait of Hormuz, escalation, and return to war (operator transcript)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-04/source-diesen-ritter-hormuz-return-to-war-2026-05-04.md",
+      "voice_index_path": "../../archive/sources/2026-05-04/source-diesen-ritter-hormuz-return-to-war-2026-05-04.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-04/source-diesen-ritter-hormuz-return-to-war-2026-05-04.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-06",
+      "title": "Daniel Davis Deep Dive - Scott Ritter on the Skirmish in the Persian Gulf - 2026-05-06",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-06/source-daniel-davis-ritter-skirmish-persian-gulf-iran-2026-05-06.md",
+      "voice_index_path": "../../archive/sources/2026-05-06/source-daniel-davis-ritter-skirmish-persian-gulf-iran-2026-05-06.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-06/source-daniel-davis-ritter-skirmish-persian-gulf-iran-2026-05-06.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-06",
+      "title": "Dialogue Works - Scott Ritter on Operation Freedom, Hormuz, and Iran - 2026-05-06",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-06/source-dialogue-works-ritter-operation-freedom-hormuz-iran-2026-05-06.md",
+      "voice_index_path": "../../archive/sources/2026-05-06/source-dialogue-works-ritter-operation-freedom-hormuz-iran-2026-05-06.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-06/source-dialogue-works-ritter-operation-freedom-hormuz-iran-2026-05-06.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-10",
+      "title": "Scott Ritter on Iran, the Strait of Hormuz, and the Energy Shock",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-10/source-ritter-cyrus-janssen-iran-hormuz-energy-shock-2026-05-10.md",
+      "voice_index_path": "../../archive/sources/2026-05-10/source-ritter-cyrus-janssen-iran-hormuz-energy-shock-2026-05-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-10/source-ritter-cyrus-janssen-iran-hormuz-energy-shock-2026-05-10.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "cyrus-janssen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-13",
+      "title": "Scott Ritter: Iran Didn\\u2019t Break. It Adapted, Now Stronger Than Ever",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-13/source-dialogue-works-scott-ritter-iran-didn-t-break-it-adapted-now-stronger-than-ever-2026-05-13.md",
+      "voice_index_path": "../../archive/sources/2026-05-13/source-dialogue-works-scott-ritter-iran-didn-t-break-it-adapted-now-stronger-than-ever-2026-05-13.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-13/source-dialogue-works-scott-ritter-iran-didn-t-break-it-adapted-now-stronger-than-ever-2026-05-13.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-14",
+      "title": "SCOTT RITTER: Russia Retaliation on Europe No Longer In Doubt",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-14/source-daniel-davis-scott-ritter-russia-retaliation-on-europe-no-longer-in-doubt-2026-05-14.md",
+      "voice_index_path": "../../archive/sources/2026-05-14/source-daniel-davis-scott-ritter-russia-retaliation-on-europe-no-longer-in-doubt-2026-05-14.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-14/source-daniel-davis-scott-ritter-russia-retaliation-on-europe-no-longer-in-doubt-2026-05-14.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-18",
+      "title": "RUSSIA DEBATE \u2013 SCOTT RITTER vs. RAY McGOVERN",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-18/source-consortium-news-russia-debate-scott-ritter-vs-ray-mcgovern-2026-05-18.md",
+      "voice_index_path": "../../archive/sources/2026-05-18/source-consortium-news-russia-debate-scott-ritter-vs-ray-mcgovern-2026-05-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-18/source-consortium-news-russia-debate-scott-ritter-vs-ray-mcgovern-2026-05-18.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "consortium-news",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-18",
+      "title": "Scott Ritter: The US Will Never Learn",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-18/source-judging-freedom-ritter-the-us-will-never-learn-2026-05-18.md",
+      "voice_index_path": "../../archive/sources/2026-05-18/source-judging-freedom-ritter-the-us-will-never-learn-2026-05-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-18/source-judging-freedom-ritter-the-us-will-never-learn-2026-05-18.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-19",
+      "title": "Scott Ritter: Europe Attacked Russia - Retaliation Is Now Unavoidable",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-19/source-glenn-diesen-scott-ritter-europe-attacked-russia-retaliation-is-now-unavoidable-2026-05-19.md",
+      "voice_index_path": "../../archive/sources/2026-05-19/source-glenn-diesen-scott-ritter-europe-attacked-russia-retaliation-is-now-unavoidable-2026-05-19.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-19/source-glenn-diesen-scott-ritter-europe-attacked-russia-retaliation-is-now-unavoidable-2026-05-19.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-20",
+      "title": "Scott Ritter: Trump's Iran Attack Is a TRAP That Leads to HUGE Humiliation",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-20/source-ritter-dialogue-works-trump-s-iran-attack-is-a-trap-that-leads-to-huge-humiliation-2026-05-20.md",
+      "voice_index_path": "../../archive/sources/2026-05-20/source-ritter-dialogue-works-trump-s-iran-attack-is-a-trap-that-leads-to-huge-humiliation-2026-05-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-20/source-ritter-dialogue-works-trump-s-iran-attack-is-a-trap-that-leads-to-huge-humiliation-2026-05-20.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-27",
+      "title": "Scott Ritter: Iran Just HIT an MQ-9 & Opened Fire on an RQ-4 and F-35 - Russia Escalates W/ Oreshnik",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-27/source-dialogue-works-scott-ritter-iran-hit-an-mq-9-russia-escalates-with-oreshnik-2026-05-27.md",
+      "voice_index_path": "../../archive/sources/2026-05-27/source-dialogue-works-scott-ritter-iran-hit-an-mq-9-russia-escalates-with-oreshnik-2026-05-27.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-27/source-dialogue-works-scott-ritter-iran-hit-an-mq-9-russia-escalates-with-oreshnik-2026-05-27.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-28",
+      "title": "WARRIOR UPDATE W/SCOTT RITTER EPISODE 119 - US NEGOTIATIONS DETACHED FROM REALITY - KIEV TARGETED",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-28/source-garland-nixon-scott-ritter-us-negotiations-detached-from-reality-kiev-targeted-2026-05-28.md",
+      "voice_index_path": "../../archive/sources/2026-05-28/source-garland-nixon-scott-ritter-us-negotiations-detached-from-reality-kiev-targeted-2026-05-28.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-28/source-garland-nixon-scott-ritter-us-negotiations-detached-from-reality-kiev-targeted-2026-05-28.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "garland-nixon",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "Scott Ritter: UKRAINE The DEATH OF A NATION",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-26/source-daniel-davis-scott-ritter-ukraine-the-death-of-a-nation-2026-05-26.md",
+      "voice_index_path": "../../archive/sources/2026-05-26/source-daniel-davis-scott-ritter-ukraine-the-death-of-a-nation-2026-05-26.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-daniel-davis-scott-ritter-ukraine-the-death-of-a-nation-2026-05-26.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "Scott Ritter: Why Bother to Negotiate With Trump?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-26/source-judging-freedom-ritter-why-bother-to-negotiate-with-trump-2026-05-26.md",
+      "voice_index_path": "../../archive/sources/2026-05-26/source-judging-freedom-ritter-why-bother-to-negotiate-with-trump-2026-05-26.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-judging-freedom-ritter-why-bother-to-negotiate-with-trump-2026-05-26.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-01",
+      "title": "The Revenge Tour, 2026 (operator capture)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-01/source-ritter-the-revenge-tour-2026-2026-06-01.md",
+      "voice_index_path": "../../archive/sources/2026-06-01/source-ritter-the-revenge-tour-2026-2026-06-01.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-01/source-ritter-the-revenge-tour-2026-2026-06-01.md",
+      "source_class": "authored newsletter",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-10",
+      "title": "Shoot the Dog",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-10/source-ritter-shoot-the-dog-2026-06-10.md",
+      "voice_index_path": "../../archive/sources/2026-06-10/source-ritter-shoot-the-dog-2026-06-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-10/source-ritter-shoot-the-dog-2026-06-10.md",
+      "source_class": "authored newsletter",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "A Trail of Tears",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-19/source-ritter-a-trail-of-tears-2026-06-19.md",
+      "voice_index_path": "../../archive/sources/2026-06-19/source-ritter-a-trail-of-tears-2026-06-19.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-19/source-ritter-a-trail-of-tears-2026-06-19.md",
+      "source_class": "authored newsletter",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Scott Ritter: Russia and US/Iran MoU; Ukraine Attacks Moscow",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-23/source-judging-freedom-ritter-russia-us-iran-mou-ukraine-attacks-moscow-2026-06-23.md",
+      "voice_index_path": "../../archive/sources/2026-06-23/source-judging-freedom-ritter-russia-us-iran-mou-ukraine-attacks-moscow-2026-06-23.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-23/source-judging-freedom-ritter-russia-us-iran-mou-ukraine-attacks-moscow-2026-06-23.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "judging-freedom",
       "import_status": "imported"
     }
   ]
