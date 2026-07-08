@@ -1,23 +1,24 @@
-# Forecast / Review Hook
+# Forecast / Review Hooks
 
 Date: `YYYY-MM-DD`
 
-## Hook
+Status: `template`
 
-What claim should be reviewed later?
+## Probability Bands
 
-## Review Date
+Use coarse bands, not false precision:
 
-`YYYY-MM-DD`
+- `low`: roughly 10-30%
+- `plausible`: roughly 30-45%
+- `likely`: roughly 55-70%
+- `high`: roughly 70-85%
 
-## Evidence That Would Strengthen The Judgment
+## Hooks
 
-- 
+| Hook ID | Claim | Probability Band | Review Date | Strengthening Evidence | Weakening Evidence |
+| --- | --- | --- | --- | --- | --- |
+| `NG-YYYYMMDD-F01` |  |  |  |  |  |
 
-## Evidence That Would Weaken The Judgment
+## Ledger Entries
 
-- 
-
-## Ledger Entry
-
-Copy the final hook to `work/forecasts/forecast-ledger.md`.
+Copy final hooks to `work/forecasts/forecast-ledger.md`.
