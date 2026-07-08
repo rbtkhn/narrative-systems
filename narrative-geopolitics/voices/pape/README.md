@@ -14,6 +14,15 @@ Status: `internal`
 | First added | `2026-07-07` |
 | Last reviewed | `2026-07-07` |
 
+## Routing
+
+| Route | Use when | Notes |
+| --- | --- | --- |
+| [source-index.md](source-index.md) | You need the complete Pape corpus route. | 75 imported sources: 58 authored sources and 17 guest appearances. |
+| [authored-forecast-spine.md](authored-forecast-spine.md) | You need Pape's own written model, claim development, or forecast logic. | Written sources are the forecast-mechanism spine. |
+| [guest-pressure-tests.md](guest-pressure-tests.md) | You need Pape under host, show, or channel pressure. | Open the relevant `channels/` shelf before synthesis. |
+| [claim-map.md](claim-map.md) | You need the interpretive claim layer. | Maps claim families to source dates, forecast IDs, pressure tests, and open review questions. |
+
 ## Source Modalities
 
 | Modality | Applies | Notes |
@@ -47,11 +56,11 @@ What this voice may miss or underweight:
 
 | Claim | Pattern | Evidence / Source Links | Status |
 | --- | --- | --- | --- |
-| Smart-bomb trap | Precision coercion creates false bounded-control confidence and can widen commitment. | [source-index.md](source-index.md), `PAPE-2026-F001` | `active` |
-| Escalation ledger | Escalation should be tracked through thresholds rather than isolated strikes or rhetoric. | [source-index.md](source-index.md) | `active` |
-| Blockade / shortage clock | Crisis can move from price shock to physical shortage faster than consensus expects. | [source-index.md](source-index.md), `PAPE-2026-F015` | `active` |
-| Fourth-center thesis | Iran can become a coercive system-shaping center through leverage without being a full-spectrum peer power. | [source-index.md](source-index.md), `PAPE-2026-F023` | `active` |
-| Gulf risk premium / energy repricing | Formal reopening may matter less than whether risk premiums and confidence shifts persist. | [source-index.md](source-index.md), `PAPE-2026-F030` | `active` |
+| Smart-bomb trap | Precision coercion creates false bounded-control confidence and can widen commitment. | [claim-map.md](claim-map.md), `PAPE-2026-F001` | `active` |
+| Escalation ledger | Escalation should be tracked through thresholds rather than isolated strikes or rhetoric. | [claim-map.md](claim-map.md) | `active` |
+| Blockade / shortage clock | Crisis can move from price shock to physical shortage faster than consensus expects. | [claim-map.md](claim-map.md), `PAPE-2026-F015` | `active` |
+| Fourth-center thesis | Iran can become a coercive system-shaping center through leverage without being a full-spectrum peer power. | [claim-map.md](claim-map.md), `PAPE-2026-F023` | `active` |
+| Gulf risk premium / energy repricing | Formal reopening may matter less than whether risk premiums and confidence shifts persist. | [claim-map.md](claim-map.md), `PAPE-2026-F030` | `active` |
 
 ## Contradictions / Tensions
 
@@ -91,7 +100,7 @@ Be careful when:
 Evidence needed before relying on this voice:
 
 - At least one imported source from [source-index.md](source-index.md).
-- A check against source modality: authored forecast spine, interview pressure test, social post, or mixed capture.
+- A check against source modality: [authored forecast spine](authored-forecast-spine.md), [guest pressure test](guest-pressure-tests.md), social post, or mixed capture.
 - A forecast/review hook when the claim is predictive.
 
 ## Public Summary Notes

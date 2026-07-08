@@ -13,6 +13,12 @@ Corpus: 58 authored sources, 17 guest appearances, 75 total imported sources.
 3. Do not dedupe a guest appearance by person alone; host context matters.
 4. Source truth lives in `../../archive/sources/`; this file owns Pape routing only.
 
+## Retrieval Lenses
+
+- Use [authored-forecast-spine.md](authored-forecast-spine.md) for Pape's written forecast mechanism and claim development.
+- Use [guest-pressure-tests.md](guest-pressure-tests.md) for Pape appearances under host, show, or channel pressure.
+- Use this file when the task needs the complete 75-source Pape route map.
+
 ## 2026-02
 
 - [2026-02-25 — The Smart Bomb Trap](../../archive/sources/2026-02-25/source-pape-the-smart-bomb-trap-2026-02-25.md) — **authored** · substack-post
@@ -52,7 +58,7 @@ Corpus: 58 authored sources, 17 guest appearances, 75 total imported sources.
 - [2026-04-16 — Professor Robert Pape: US Has No Idea What is Coming NEXT!](../../archive/sources/2026-04-16/source-pape-cyrus-janssen-us-has-no-idea-what-is-coming-next-2026-04-16.md) — **guest** · cleaned-transcript · host: `cyrus-janssen`
 - [2026-04-16 — The Iran War Is About to Hit a Supply Wall—Markets Aren’t Ready](../../archive/sources/2026-04-16/source-pape-the-iran-war-is-about-to-hit-a-supply-2026-04-16.md) — **authored** · substack-post
 - [2026-04-17 — A Real-Time Test of Power—and Why Tonight Matters](../../archive/sources/2026-04-17/source-pape-a-real-time-test-of-powerand-why-2026-04-17.md) — **authored** · substack-post
-- [2026-04-20 — Redacted — *The Collapse is Now "Ahead of Schedule"* (April 20, 2026)](../../archive/sources/2026-04-20/source-pape-collapse-ahead-of-schedule-2026-04-20.md) — **guest** · transcript
+- [2026-04-20 — Redacted — *The Collapse is Now "Ahead of Schedule"* (April 20, 2026)](../../archive/sources/2026-04-20/source-pape-collapse-ahead-of-schedule-2026-04-20.md) — **guest** · transcript · host: `redacted-news`
 - [2026-04-21 — Robert A. Pape (@ProfessorPape) — zero-sum conflict / escalation ladd…](../../archive/sources/2026-04-21/source-pape-zero-sum-escalation-ladder-2026-04-21.md) — **authored** · x-post-text
 - [2026-04-22 — The First Move Has Begun](../../archive/sources/2026-04-22/source-pape-the-first-move-has-begun-2026-04-22.md) — **authored** · substack-post
 - [2026-04-22 — Within 10 Days, Shortages Are Already Here](../../archive/sources/2026-04-22/source-pape-within-10-days-shortages-already-2026-04-22.md) — **authored** · substack-post
@@ -75,7 +81,7 @@ Corpus: 58 authored sources, 17 guest appearances, 75 total imported sources.
 - [2026-05-23 — Trump May Be Approaching the Biggest Smart Bomb Trap Yet](../../archive/sources/2026-05-23/source-pape-trump-may-be-approaching-the-biggest-2026-05-23.md) — **authored** · substack-post
 - [2026-05-27 — Prof Pape: Iran IN DRIVERS SEAT As SHOCKING Deal Emerges](../../archive/sources/2026-05-27/source-pape-breaking-points-iran-drivers-seat-shocking-deal-emerges-2026-05-27.md) — **guest** · transcript · host: `breaking-points`
 - [2026-05-27 — The Price of Oil Is the Real Iran Deal](../../archive/sources/2026-05-27/source-pape-the-price-of-oil-is-the-real-iran-2026-05-27.md) — **authored** · substack-post
-- [2026-05-28 — The mirage of peace | Professor Robert Pape](../../archive/sources/2026-05-28/source-pape-switzer-the-mirage-of-peace-2026-05-28.md) — **guest** · transcript
+- [2026-05-28 — The mirage of peace | Professor Robert Pape](../../archive/sources/2026-05-28/source-pape-switzer-the-mirage-of-peace-2026-05-28.md) — **guest** · transcript · host: `tom-switzer`
 - [2026-05-29 — BREAKING: TRUMP TEASES LIFTING IRAN BLOCKADE - w/ Analyst & Prof. Rob…](../../archive/sources/2026-05-29/source-mario-nawfal-pape-breaking-trump-teases-lifting-iran-blockade-2026-05-29.md) — **guest** · transcript · host: `mario-nawfal`
 
 ## 2026-06
