@@ -12,6 +12,7 @@ LEDGER_PATH = NG_ROOT / "work" / "forecasts" / "forecast-ledger.md"
 
 
 DATE_RE = re.compile(r"Date:\s*`([^`]+)`")
+CRISIS_OBJECT_RE = re.compile(r"## Crisis Object\s+(.+?)(?:\n## |\Z)", re.DOTALL)
 TABLE_ROW_RE = re.compile(
     r"^\|\s*`(NG-\d{8}-F\d{2})`\s*\|\s*(.*?)\s*\|\s*`?(low|plausible|likely|high)`?\s*\|\s*`([^`]+)`\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|$"
 )
@@ -67,6 +68,14 @@ def infer_crisis_object(forecast_text: str, fallback: str) -> str:
     if fallback:
         return fallback
     run_date = extract_run_date(forecast_text)
+    synthesis_path = DAILY_ROOT / run_date / "synthesis.md"
+    if synthesis_path.exists():
+        synthesis_text = read_text(synthesis_path)
+        match = CRISIS_OBJECT_RE.search(synthesis_text)
+        if match:
+            crisis_object = " ".join(match.group(1).strip().splitlines()).strip()
+            if crisis_object:
+                return crisis_object
     return f"{run_date} daily judgment"
 
 

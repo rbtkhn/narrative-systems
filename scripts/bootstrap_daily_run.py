@@ -255,7 +255,7 @@ def build_from_template(name: str, run_date: str, status: str) -> str:
     text = text.replace("YYYY-MM-DD", run_date)
     if "Status: `template`" in text:
         text = text.replace("Status: `template`", f"Status: `{status}`", 1)
-    if name == "public-brief.md":
+    if name == "daily-brief.md":
         text = text.replace("Status: `draft`", "Status: `not-promoted`", 1)
     if name == "forecast.md":
         due_hooks = extract_due_review_hooks(run_date)
@@ -319,7 +319,7 @@ def main() -> None:
             args.dry_run,
         )
     )
-    for name in ("synthesis.md", "forecast.md", "public-brief.md"):
+    for name in ("synthesis.md", "forecast.md", "daily-brief.md"):
         actions.append(
             write_text(
                 run_dir / name,

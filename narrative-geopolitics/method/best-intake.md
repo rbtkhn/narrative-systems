@@ -95,7 +95,7 @@ If optional fields are unclear, preserve uncertainty instead of inventing precis
 - source-index updates beyond what is necessary
 - voice-lens synthesis
 - sectioning for readability
-- public-brief extraction
+- daily-brief authoring
 - quote curation
 - claim extraction
 - forecast generation
@@ -173,6 +173,29 @@ Current approved hosts:
 - `daniel-davis`
 - `alexander-mercouris`
 - `dialogue-works`
+
+## Handoff To Synthesis
+
+`best-intake` ends when the source is safely archived and manifest-backed.
+
+The next job is usually `geopolitical-synthesis`, not more intake polishing.
+
+Short rule:
+
+```text
+best-intake lands the day; geopolitical-synthesis judges the day
+```
+
+That handoff should follow this order:
+
+1. finish the day's archive intake
+2. confirm the manifest day batch is materially real
+3. open `work/daily/YYYY-MM-DD/`
+4. use `geopolitical-synthesis` to bootstrap, reconcile, deepen, or execute the run
+
+`best-intake` does not need to produce a finished `daily-brief.md`, forecast,
+or full daily judgment before the handoff. It only needs to leave the archive
+truth in a state that makes those downstream moves possible.
 
 ## Status Model
 

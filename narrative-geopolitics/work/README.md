@@ -12,7 +12,7 @@ Each run should contain:
 
 - `sources.md`
 - `synthesis.md`
-- `public-brief.md`
+- `daily-brief.md`
 - `forecast.md`
 
 For the normal evening synthesis session after the day's `best-intake` work is
@@ -22,16 +22,95 @@ done, use the single `geopolitical-synthesis` command:
 C:\Users\rober\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe scripts/geopolitical_synthesis.py --date YYYY-MM-DD
 ```
 
-This command:
+This command now opens a guided work session first. It summarizes the current
+day state and presents a bounded multiple-choice menu so the evening pass can be
+navigated deliberately rather than always jumping straight into automation.
+
+Each guided invocation also writes a lightweight session receipt to:
+
+```text
+work/daily/YYYY-MM-DD/geopolitical-synthesis-session.json
+```
+
+The receipt records manifest-row count, validation state, whether a real sourced
+daily run exists, whether a placeholder scaffold exists, the recommended menu
+letter, the latest selected choice if one was provided, and a small choice
+history for that day.
+
+Menu shape:
+
+- `A` bootstrap or refresh the day run
+- `B` reconcile intake coverage and routing
+- `C` deepen synthesis around the owning object
+- `D` sharpen forecast hooks and review logic
+- `E` execute the full daily stack immediately
+
+If you want the old one-shot automation behavior directly, use:
+
+```text
+C:\Users\rober\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe scripts/geopolitical_synthesis.py --date YYYY-MM-DD --execute
+```
+
+Direct execute mode:
 
 - bootstraps the daily run folder from the manifest day batch
 - carries forward due forecast reviews into `forecast.md`
 - validates the daily run against archive and ledger state
 - syncs any missing forecast hooks into the ledger
 
+If you want to scaffold a full month or date range, including placeholder days
+that are still awaiting intake, use:
+
+```text
+C:\Users\rober\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe scripts/geopolitical_synthesis.py --month 2026-07 --scaffold-empty
+```
+
+Or:
+
+```text
+C:\Users\rober\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe scripts/geopolitical_synthesis.py --start-date YYYY-MM-DD --end-date YYYY-MM-DD --scaffold-empty
+```
+
+This creates canonical `sources.md`, `synthesis.md`, `forecast.md`,
+`daily-brief.md`, and a session receipt for empty days without pretending a
+real sourced run already exists.
+
 Implementation note: `scripts/geopolitical_synthesis.py` is the operator-facing
 entrypoint and delegates to the underlying orchestration helper. The older
 `scripts/geo_synthesis.py` name remains as a compatibility shim.
+
+## Skill Sync
+
+The repo drafts for reusable Codex skills live under:
+
+- `docs/skill-drafts/best-intake/SKILL.md`
+- `docs/skill-drafts/geopolitical-synthesis/SKILL.md`
+
+To deploy those repo-owned drafts into the live user-level Codex skill
+directory, run:
+
+```text
+C:\Users\rober\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe scripts/sync_codex_skills.py
+```
+
+To check for drift without rewriting anything, run:
+
+```text
+C:\Users\rober\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe scripts/check_codex_skills_sync.py
+```
+
+To audit the full repo-vs-Codex skill picture, including skills that exist only
+in the repo or only in the live Codex install, run:
+
+```text
+C:\Users\rober\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe scripts/audit_codex_skills_sync.py
+```
+
+Short rule:
+
+```text
+edit in repo, sync to codex, check for drift before relying on the live skill
+```
 
 To bootstrap a new daily run from the manifest day batch, use:
 
@@ -47,7 +126,7 @@ The generated `forecast.md` also carries forward any open ledger hooks whose
 `Review Date` is due on or before the new run date, so review work is surfaced
 inside the daily run rather than left to memory.
 
-Before trusting a daily run for synthesis or review, validate it against the
+Before trusting a real daily run for synthesis or review, validate it against the
 archive and forecast ledger:
 
 ```text
@@ -61,6 +140,9 @@ The validator checks:
 - the referenced archive source files exist
 - `sources.md` links cover the manifest day batch
 - `forecast.md` hook ids are present in the forecast ledger
+
+For placeholder days that are still awaiting intake, the validator reports a
+non-fatal placeholder warning rather than treating the day as a completed run.
 
 To sync a day's forecast hooks into the central ledger without duplicate manual
 copying, use:
@@ -105,4 +187,6 @@ Use coarse probability bands for v1:
 
 Do not publish a draft brief to `public/` until it is intentionally promoted.
 
-Do not create a dated run folder until there is a real run to process.
+Placeholder run folders are allowed when they are explicitly scaffolded as
+awaiting intake. Do not treat those placeholders as real synthesis runs until
+the archive day batch exists.

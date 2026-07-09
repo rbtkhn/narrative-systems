@@ -4,7 +4,7 @@ Status: `draft`
 
 ## Lead Judgment
 
-State the day's bounded geopolitical judgment in calm public prose.
+State the day's bounded geopolitical judgment in calm reader-facing prose.
 
 ## Source Grounding
 
@@ -20,7 +20,7 @@ Explain the main actor incentives, constraints, legitimacy claims, and competing
 
 ## Voice Pressure Test
 
-Explain which voices shaped the judgment and which voices pressure-tested it. Do not force every voice into the public brief if it does not change the judgment.
+Explain which voices shaped the judgment and which voices pressure-tested it. Do not force every voice into the daily brief if it does not change the judgment.
 
 ## What To Watch
 

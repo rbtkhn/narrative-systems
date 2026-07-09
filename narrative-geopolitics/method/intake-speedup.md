@@ -56,7 +56,7 @@ Landing should **not** pause for:
 - full voice-shelf creation
 - deep channel interpretation
 - synthesis-grade quote extraction
-- public-brief readiness
+- daily-brief readiness
 
 ## Immediate Fix
 
@@ -132,6 +132,7 @@ Use two passes:
 - expand voice continuity when warranted
 - open channel shelves only for synthesis-relevant items
 - create the daily run after the archive batch is complete
+- hand off to `geopolitical-synthesis` for guided bootstrap, reconciliation, or execution
 
 ## Next Improvements
 

@@ -18,6 +18,7 @@ HOOK_RE = re.compile(r"`(NG-\d{8}-F\d{2})`")
 ARCHIVE_LINK_RE = re.compile(r"\((\.\./\.\./\.\./archive/sources/[^)]+\.md)\)")
 INTAKE_ROW_RE = re.compile(r"\|\s*`(archive/sources/[^`]+\.md)`\s*\|")
 STATUS_RE = re.compile(r"Status:\s*`([^`]+)`")
+PLACEHOLDER_RE = re.compile(r"awaiting intake", re.IGNORECASE)
 
 
 def parse_args() -> argparse.Namespace:
@@ -46,7 +47,7 @@ def expected_files(run_date: str) -> list[Path]:
         base / "sources.md",
         base / "synthesis.md",
         base / "forecast.md",
-        base / "public-brief.md",
+        base / "daily-brief.md",
     ]
 
 
@@ -79,6 +80,13 @@ def extract_status(text: str) -> str:
     return match.group(1) if match else ""
 
 
+def is_placeholder_day(run_path: Path) -> bool:
+    sources_path = run_path / "sources.md"
+    if not sources_path.exists():
+        return False
+    return bool(PLACEHOLDER_RE.search(read_text(sources_path)))
+
+
 def normalize_daily_archive_link(link: str) -> str:
     return link.removeprefix("../../../")
 
@@ -105,6 +113,7 @@ def main() -> None:
     manifest = load_manifest()
     rows = manifest_rows_for_date(manifest, run_date)
     run_path = daily_dir(run_date)
+    placeholder_day = is_placeholder_day(run_path)
 
     failures: list[str] = []
     warnings: list[str] = []
@@ -116,8 +125,10 @@ def main() -> None:
         if not path.exists():
             failures.append(f"missing file: {path.relative_to(REPO_ROOT)}")
 
-    if not rows:
+    if not rows and not placeholder_day:
         failures.append(f"no manifest rows for date {run_date}")
+    if not rows and placeholder_day:
+        warnings.append(f"placeholder day awaiting intake for date {run_date}")
 
     missing_sources = source_paths_exist(rows)
     for local_path in missing_sources:
@@ -146,7 +157,7 @@ def main() -> None:
         forecast_text = read_text(run_path / "forecast.md")
         hook_ids = extract_hook_ids(forecast_text)
         ledger_hook_ids = extract_ledger_hook_ids()
-        if not hook_ids:
+        if not hook_ids and not placeholder_day:
             warnings.append("forecast.md has no hook ids")
         for hook_id in hook_ids:
             if hook_id not in ledger_hook_ids:

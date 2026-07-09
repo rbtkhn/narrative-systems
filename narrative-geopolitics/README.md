@@ -21,13 +21,16 @@ It is not an oracle and not a generic news summary. It is a bounded analyst syst
 The initial operating loop is:
 
 ```text
-daily-geopolitics
+best-intake through the day
+-> archive/sources/YYYY-MM-DD/source-*.md
+-> archive/source-manifest.json
+-> geopolitical-synthesis
 -> work/daily/YYYY-MM-DD/sources.md
 -> work/daily/YYYY-MM-DD/synthesis.md
--> work/daily/YYYY-MM-DD/public-brief.md
+-> work/daily/YYYY-MM-DD/daily-brief.md
 -> work/daily/YYYY-MM-DD/forecast.md
--> public/briefs/daily/YYYY-MM-DD.md
 -> work/forecasts/forecast-ledger.md
+-> public/briefs/daily/YYYY-MM-DD.md (only when intentionally promoted)
 ```
 
 ## Directory Map
@@ -53,7 +56,7 @@ narrative-geopolitics/
 ├── templates/
 │   ├── sources.md
 │   ├── synthesis.md
-│   ├── public-brief.md
+│   ├── daily-brief.md
 │   └── forecast.md
 ├── voices/
 │   ├── README.md
@@ -80,6 +83,14 @@ Default source landing should follow [method/best-intake.md](method/best-intake.
 Use `best-intake` when the priority is to land same-day source truth quickly without pretending that provisional routing is final interpretation.
 
 See [method/intake-speedup.md](method/intake-speedup.md) for the current speedup plan and [../scripts/land_best_intake.py](../scripts/land_best_intake.py) for the first helper that automates archive-file creation plus manifest append.
+
+Once the day batch is materially real, use `geopolitical-synthesis` as the
+single evening synthesis command. It supports three day states under one
+contract:
+
+- real sourced daily runs
+- placeholder scaffolds awaiting intake
+- retrospective authored runs
 
 ## Voice Continuity
 
