@@ -36,7 +36,7 @@ Use [voice-routing-audit.md](voice-routing-audit.md) when deciding whether a sha
 
 ## Import Rule
 
-Preserve source contents as imported. Add interpretation, routing, and synthesis in voice records, work runs, and public briefs.
+Preserve source contents as imported. Add interpretation, routing, and synthesis in voice records, work runs, and daily briefs.
 
 ## Phased Pape Parity
 

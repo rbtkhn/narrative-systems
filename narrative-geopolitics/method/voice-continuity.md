@@ -22,7 +22,7 @@ source manifest
 -> voice continuity check
 -> channel conditioning check when host context matters
 -> synthesis
--> public brief
+-> daily brief
 -> forecast / review hook
 ```
 

@@ -56,6 +56,6 @@ For v1, prefer:
 
 - daily transcript intake over broad archive migration
 - source manifests over automated extraction
-- synthesis notes before public briefs
-- public briefs before full crisis atlases
+- synthesis notes before daily briefs
+- daily briefs before full crisis atlases
 - forecast/review hooks before elaborate scoring systems

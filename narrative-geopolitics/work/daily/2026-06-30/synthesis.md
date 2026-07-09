@@ -1,4 +1,4 @@
-# Synthesis
+﻿# Synthesis
 
 Date: `2026-06-30`
 
@@ -46,7 +46,7 @@ The best internal read is that Iran's leverage has shifted from spectacular clos
 
 Pape supplies the mechanism: economic pressure and blockade politics tend to generate escalation rather than surrender, while oil pricing becomes the real deal metric. Marandi supplies the regional test: from Iran's view, a settlement that ignores Hormuz control, Gaza/Lebanon, sanctions, and security guarantees is not a settlement. Mearsheimer and Davis converge from different angles: the U.S. may inflict punishment, but punishment does not automatically create a plausible off-ramp or a workable military reopening strategy. Mercouris adds the sequencing risk: talks can proceed while the political system prepares the next confrontation narrative. Diesen adds the order-transition question: if states adapt to Iranian/Omani transit control, the crisis has already changed the regional order.
 
-The most important analytic caution is that some of this source set is forecast-heavy and host-conditioned. The public brief should avoid declaring the MOU dead as fact. The sharper, safer judgment is that the MOU is fragile because it has not yet resolved the incentives that made Hormuz leverage useful.
+The most important analytic caution is that some of this source set is forecast-heavy and host-conditioned. The daily brief should avoid declaring the MOU dead as fact. The sharper, safer judgment is that the MOU is fragile because it has not yet resolved the incentives that made Hormuz leverage useful.
 
 ## Uncertainty
 

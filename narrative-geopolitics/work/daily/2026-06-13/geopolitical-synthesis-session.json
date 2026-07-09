@@ -1,0 +1,21 @@
+{
+  "run_date": "2026-06-13",
+  "status": "guided-session",
+  "awaiting_intake": false,
+  "manifest_day_rows": 7,
+  "daily_run_exists": true,
+  "daily_scaffold_exists": true,
+  "validation_failures": 0,
+  "validation_warnings": 1,
+  "recommended_choice": "B",
+  "selected_choice": null,
+  "choice_history": [],
+  "session_menu": {
+    "A": "Bootstrap / refresh the day run from the manifest batch.",
+    "B": "Reconcile intake coverage and source routing against the full day batch.",
+    "C": "Deepen the internal synthesis around the owning crisis object.",
+    "D": "Sharpen forecast hooks, falsifiers, and review questions.",
+    "E": "Execute the full daily stack immediately."
+  },
+  "execute_command": "C:\\Users\\rober\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe scripts/geopolitical_synthesis.py --date 2026-06-13 --execute"
+}

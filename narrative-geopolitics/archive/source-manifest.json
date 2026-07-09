@@ -2,7 +2,7 @@
   "manifest_id": "narrative-geopolitics-pape-source-import-v1",
   "source_basis": "strategy-codex/statecraft/voices/pape/pape-index.md",
   "imported_at": "2026-07-08",
-  "source_count": 997,
+  "source_count": 999,
   "boundary": {
     "archive": "source truth",
     "voices": "voice continuity and routing",
@@ -14011,6 +14011,34 @@
       "modality": "transcript",
       "import_status": "imported",
       "date": "2025-05-27"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "Matthew Hoh: Iran & US Hit Absolute ROCK BOTTOM",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-08/source-matthew-hoh-iran-us-hit-absolute-rock-bottom-2026-07-08.md",
+      "voice_index_path": "../../archive/sources/2026-07-08/source-matthew-hoh-iran-us-hit-absolute-rock-bottom-2026-07-08.md",
+      "upstream_path": "operator-paste://2026-07-08/matthew-hoh-iran-us-hit-absolute-rock-bottom",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "hoh"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "BREAKING: U.S. BOMBING IRAN NOW - w/ Robert Barnes",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-08/source-breaking-u-s-bombing-iran-now-w-robert-barnes-2026-07-08.md",
+      "voice_index_path": "../../archive/sources/2026-07-08/source-breaking-u-s-bombing-iran-now-w-robert-barnes-2026-07-08.md",
+      "upstream_path": "operator-paste://2026-07-08/breaking-u-s-bombing-iran-now-w-robert-barnes",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "barnes"
+      ],
+      "host_slug": "mario-nawfal",
+      "import_status": "imported"
     }
   ]
 }
