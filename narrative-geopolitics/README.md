@@ -130,3 +130,5 @@ Current decision: `narrow`.
   are thin.
 - See [the public Hormuz brief](public/briefs/hormuz-transit-governance-2026-07-09.md)
   and [the internal findings](work/experiments/2026-07-value-test/milestone-findings.md).
+- Use [the public watch surface](public/watch.md) to distinguish the active
+  dossier from trigger-bound, unranked watch candidates.
