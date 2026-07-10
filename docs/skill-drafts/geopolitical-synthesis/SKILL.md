@@ -1,107 +1,60 @@
 ---
 name: geopolitical-synthesis
-description: "Narrative Geopolitics guided daily synthesis skill. Use after intake lands to open, scaffold, reconcile, deepen, or execute a daily run with one contract across live, retrospective, and placeholder days."
+description: "Narrative Geopolitics guided synthesis for manifest-backed live or intentional retrospective days."
 preferred_activation: geopolitical-synthesis
-activation: geopolitical-synthesis
 portable: false
-version: 0.1.0
+version: 0.2.0
 category: narrative-geopolitics
 status: active
 ---
+
 # Geopolitical Synthesis
 
-**Preferred activation (operator):** say **`geopolitical-synthesis`**.
+Use after intake has landed or when deepening an existing retrospective run.
 
-Use this skill after the day has been landed into the central archive, or when
-you need to inspect whether a day is a real run, a placeholder scaffold, or a
-retrospective authored run.
+## Core Law
 
-## Core law
+Read in this order:
 
-Read this stack in order:
+```text
+archive -> voices/channels -> work/daily
+```
 
-`archive -> voices / channels -> work/daily`
+This skill does not replace `best-intake` and never creates a daily directory
+for a date without manifest rows.
 
-This skill owns the `work/daily/YYYY-MM-DD/` layer. It does not replace
-`best-intake`.
-
-## Daily contract
-
-Canonical daily files:
+## Daily Contract
 
 - `sources.md`
 - `synthesis.md`
 - `forecast.md`
 - `daily-brief.md`
 
-Session receipt:
+There is no tracked session receipt or placeholder-day state.
 
-- `work/daily/YYYY-MM-DD/geopolitical-synthesis-session.json`
+## Entrypoint
 
-## Supported day states
-
-This skill must distinguish:
-
-- real sourced daily run
-- placeholder scaffold awaiting intake
-- retrospective authored run
-
-`daily_run_exists` means a real sourced run exists.
-
-`daily_scaffold_exists` means the canonical daily folder exists, even if the day
-is still awaiting intake.
-
-## Operator entrypoint
-
-Default command:
-
-```text
-python scripts/geopolitical_synthesis.py --date YYYY-MM-DD
+```powershell
+.\scripts\python.ps1 scripts\geopolitical_synthesis.py --date YYYY-MM-DD
+.\scripts\python.ps1 scripts\geopolitical_synthesis.py --date YYYY-MM-DD --execute
 ```
 
-Direct execution:
+Month and range modes process only dates with manifest rows. The deprecated
+`--scaffold-empty` flag reports skipped dates and writes nothing.
 
-```text
-python scripts/geopolitical_synthesis.py --date YYYY-MM-DD --execute
-```
+## Guided Menu
 
-Month or range scaffold:
-
-```text
-python scripts/geopolitical_synthesis.py --month YYYY-MM --scaffold-empty
-python scripts/geopolitical_synthesis.py --start-date YYYY-MM-DD --end-date YYYY-MM-DD --scaffold-empty
-```
-
-## Guided menu
-
-- `A` bootstrap or refresh the day run
-- `B` reconcile intake coverage and routing
-- `C` deepen synthesis around the owning object
-- `D` sharpen forecast hooks and review logic
-- `E` execute the full daily stack immediately
-
-## Workflow
-
-1. Inspect manifest coverage for the requested date.
-2. Classify the day as real, placeholder, or retrospective.
-3. Write or refresh the session receipt.
-4. Use the guided menu first unless the operator explicitly wants `--execute`.
-5. Keep placeholder days explicit when intake is missing.
-6. Treat `daily-brief.md` as internal-first unless intentionally promoted.
+- `A` bootstrap or refresh the run;
+- `B` reconcile intake coverage and routing;
+- `C` deepen the owning crisis object;
+- `D` sharpen forecast hooks and review logic;
+- `E` execute the full stack.
 
 ## Guardrails
 
-- Do not treat placeholder scaffolds as real runs.
-- Do not execute a real daily stack for a day with no manifest rows.
-- Do not jump straight to `public/` before internal source grounding exists.
+- Require exact manifest coverage in the Intake Batch before synthesis.
+- Permit a documented Run Source Set subset.
+- Treat retrospective forecasts as retrospective unless timing proves otherwise.
+- Keep `daily-brief.md` internal until intentionally promoted.
 - Do not revive the old `public-brief.md` contract.
-
-## Repo surfaces
-
-- `narrative-geopolitics/work/README.md`
-- `narrative-geopolitics/templates/daily-brief.md`
-- `scripts/geopolitical_synthesis.py`
-- `scripts/bootstrap_daily_run.py`
-- `scripts/validate_daily_run.py`
-- `scripts/demo_daily_runs.py`
-
+- Do not alter private intake behavior.

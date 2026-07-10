@@ -16,12 +16,10 @@ A `voice record` is the durable continuity object for one person/source.
 
 Use [_template.md](_template.md) for every new voice record. The template is intentionally lighter than the inherited `strategy-codex/statecraft` voice machinery, but it preserves one important law: every recurring voice should have the same basic shape.
 
-For navigability, each voice directory should now expose:
+For navigability, each voice directory exposes two canonical routes:
 
 - `README.md` as the canonical profile surface
 - `source-index.md` as the canonical routing/index surface
-- `profile.md` as a stable alias to the profile surface
-- `index.md` as a stable alias to the routing/index surface
 
 ## Pape-Parity Standard
 
@@ -41,14 +39,14 @@ Pape is currently `full-source-parity`. The other core voices are `first-slice-p
 
 | Voice | Profile | Index | Status |
 | --- | --- | --- | --- |
-| Alexander Mercouris | [mercouris/profile.md](mercouris/profile.md) | [mercouris/index.md](mercouris/index.md) | internal / first-slice-parity |
-| Daniel Davis | [davis/profile.md](davis/profile.md) | [davis/index.md](davis/index.md) | internal / first-slice-parity |
-| Douglas Macgregor | [macgregor/profile.md](macgregor/profile.md) | [macgregor/index.md](macgregor/index.md) | internal / first-slice-parity |
-| Glenn Diesen | [diesen/profile.md](diesen/profile.md) | [diesen/index.md](diesen/index.md) | internal / first-slice-parity |
-| Larry Johnson | [johnson/profile.md](johnson/profile.md) | [johnson/index.md](johnson/index.md) | internal / first-slice-parity |
-| John Mearsheimer | [mearsheimer/profile.md](mearsheimer/profile.md) | [mearsheimer/index.md](mearsheimer/index.md) | internal / first-slice-parity |
-| Seyed Mohammad Marandi | [marandi/profile.md](marandi/profile.md) | [marandi/index.md](marandi/index.md) | internal / first-slice-parity |
-| Robert Pape | [pape/profile.md](pape/profile.md) | [pape/index.md](pape/index.md) | internal / full-source-parity |
+| Alexander Mercouris | [mercouris/README.md](mercouris/README.md) | [mercouris/source-index.md](mercouris/source-index.md) | internal / first-slice-parity |
+| Daniel Davis | [davis/README.md](davis/README.md) | [davis/source-index.md](davis/source-index.md) | internal / first-slice-parity |
+| Douglas Macgregor | [macgregor/README.md](macgregor/README.md) | [macgregor/source-index.md](macgregor/source-index.md) | internal / first-slice-parity |
+| Glenn Diesen | [diesen/README.md](diesen/README.md) | [diesen/source-index.md](diesen/source-index.md) | internal / first-slice-parity |
+| Larry Johnson | [johnson/README.md](johnson/README.md) | [johnson/source-index.md](johnson/source-index.md) | internal / first-slice-parity |
+| John Mearsheimer | [mearsheimer/README.md](mearsheimer/README.md) | [mearsheimer/source-index.md](mearsheimer/source-index.md) | internal / first-slice-parity |
+| Seyed Mohammad Marandi | [marandi/README.md](marandi/README.md) | [marandi/source-index.md](marandi/source-index.md) | internal / first-slice-parity |
+| Robert Pape | [pape/README.md](pape/README.md) | [pape/source-index.md](pape/source-index.md) | internal / full-source-parity |
 
 ## Comparison Notes
 

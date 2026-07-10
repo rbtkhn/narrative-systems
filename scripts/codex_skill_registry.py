@@ -7,6 +7,7 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SKILL_DRAFT_ROOT = REPO_ROOT / "docs" / "skill-drafts"
 CODEX_SKILLS_ROOT = Path.home() / ".codex" / "skills"
+DEPLOYABLE_SKILL_NAMES = ("best-intake", "geopolitical-synthesis")
 
 
 @dataclass(frozen=True)
@@ -40,7 +41,7 @@ def discover_codex_skill_names() -> list[str]:
 
 
 def build_registry(names: list[str] | None = None) -> dict[str, SkillEntry]:
-    chosen = names or discover_repo_skill_names()
+    chosen = list(DEPLOYABLE_SKILL_NAMES) if names is None else names
     return {
         name: SkillEntry(
             name=name,

@@ -1,50 +1,45 @@
 # narrative-systems
 
-A small research workbench for turning narrative-system ideas into runnable, testable structures.
+An archive-first geopolitical research workbench.
 
-This repository starts with a minimal Python package, a few working concepts, and space for notes. The goal is to keep theory and code close enough that terms can be tested, revised, and reused without needing a full application too early.
+The executable center is [Narrative Geopolitics](narrative-geopolitics/README.md):
+a source-bounded system for transcript intake, voice and channel continuity,
+daily synthesis, accountable forecasts, and selective public briefs.
+
+[Predictive History](predictive-history/README.md) remains a sibling study of
+public historical and civilizational corpus traversal.
 
 ## Layout
 
 ```text
 .
-├── predictive-history/        Public historical/civilizational model study
-├── narrative-geopolitics/     Public geopolitical model project
-├── docs/                      Concept notes and working vocabulary
-├── examples/                  Small runnable demonstrations
-├── src/narrative_systems/     Python package code
-└── tests/                     Focused tests for the package surface
+├── narrative-geopolitics/  Archive, continuity, work, forecasts, and public output
+├── predictive-history/     Sibling public-system study
+├── docs/                   Method and local skill contracts
+├── scripts/                Operator commands and validators
+└── tests/                  Intake, synthesis, forecast, and integrity tests
 ```
 
 ## Development
 
-Create a local environment, install the package with test tooling, then run the checks:
+Create the local environment once, then use the repository launcher. It resolves
+`.venv` directly, so commands do not depend on global Python or shell activation.
 
 ```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-python -m pip install -e ".[test]"
-python -m pytest
-python examples/basic_system.py
+py -3 -m venv .venv
+.\scripts\python.ps1 -m pip install -e ".[test]"
+.\scripts\python.ps1 -m pytest
+.\scripts\python.ps1 scripts\validate_repository.py
 ```
 
-For a plain import check:
+If `py` is unavailable during environment creation, install Python 3.10 or
+newer. Private intake behavior is documented separately under
+`narrative-geopolitics/method/` and is not part of repository maintenance.
 
-```powershell
-python -c "import narrative_systems; print(narrative_systems.__version__)"
-```
+## Operating Boundary
 
-## First Concepts
-
-The initial model is intentionally small:
-
-- `NarrativeUnit` names a unit of meaning or event.
-- `NarrativeRelation` links two units with a typed relationship.
-- `NarrativeSystem` collects units and relations and can summarize its contents.
-
-These names are working handles, not final theory. They give the repo enough structure to grow by experiment.
-
-## Projects
-
-- [Predictive History](predictive-history/README.md) studies [`rbtkhn/predictive-history`](https://github.com/rbtkhn/predictive-history) as a public historical/civilizational reading model.
-- [Narrative Geopolitics](narrative-geopolitics/README.md) is a workflow-first project for building a public geopolitical judgment model from statecraft transcript intake and synthesis.
+- `archive/` owns source truth.
+- `voices/` and `channels/` own continuity and conditioning.
+- `work/` owns internal judgment and forecast review.
+- `public/` contains intentionally promoted reader-facing material.
+- Empty dates create no daily directory.

@@ -2,7 +2,12 @@ from __future__ import annotations
 
 import argparse
 
-from codex_skill_registry import build_registry, discover_codex_skill_names, discover_repo_skill_names, read_text
+from codex_skill_registry import (
+    build_registry,
+    discover_codex_skill_names,
+    discover_repo_skill_names,
+    read_text,
+)
 
 
 def parse_args() -> argparse.Namespace:
@@ -21,10 +26,11 @@ def main() -> None:
     args = parse_args()
     repo_names = discover_repo_skill_names()
     codex_names = discover_codex_skill_names()
-    registry = build_registry(repo_names)
+    registry = build_registry()
+    deployable_names = sorted(registry)
+    local_only = [name for name in repo_names if name not in deployable_names]
 
-    repo_only = [name for name in repo_names if name not in codex_names]
-    codex_only = [name for name in codex_names if name not in repo_names]
+    repo_only = [name for name in deployable_names if name not in codex_names]
     in_sync: list[str] = []
     drift: list[str] = []
     missing_dest: list[str] = []
@@ -39,11 +45,12 @@ def main() -> None:
             drift.append(name)
 
     print(f"repo_skill_drafts={len(repo_names)}")
+    print(f"deployable_skill_drafts={len(deployable_names)}")
+    print(f"local_only_skill_drafts={len(local_only)}")
     print(f"codex_installed_skills={len(codex_names)}")
     print(f"in_sync={len(in_sync)}")
     print(f"drift={len(drift)}")
     print(f"repo_only={len(repo_only)}")
-    print(f"codex_only={len(codex_only)}")
     print(f"missing_dest={len(missing_dest)}")
     print("")
 
@@ -67,13 +74,13 @@ def main() -> None:
         for name in repo_only:
             print(f"- {name}")
         print("")
-    if codex_only:
-        print("CODEX ONLY")
-        for name in codex_only:
+    if local_only:
+        print("LOCAL ONLY")
+        for name in local_only:
             print(f"- {name}")
         print("")
 
-    if args.strict and (drift or missing_dest or repo_only or codex_only):
+    if args.strict and (drift or missing_dest or repo_only):
         raise SystemExit(1)
 
 

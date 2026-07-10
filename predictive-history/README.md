@@ -49,4 +49,6 @@ The system's most important design move is traversal discipline. It tells a read
 
 ## Next Research Move
 
-Use the current `NarrativeSystem` primitives to model Predictive History at the layer level first. Do not attempt chapter-level extraction until the layer model can distinguish doorway, catalog, route, source floor, and widened interpretation.
+Keep this as a documented sibling-system comparison. Revisit executable
+modeling only when Narrative Geopolitics needs a concrete public traversal
+interface rather than a speculative generic graph layer.

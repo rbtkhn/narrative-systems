@@ -1,5 +1,9 @@
 # June Backfill Demo Sequence
 
+> Historical demonstration receipt. The one-off `demo_daily_runs.py` runner was
+> retired after the June backfill; the preserved commands below document how the
+> artifacts were reviewed, not a current executable interface.
+
 Thesis:
 
 > June is now a reviewable judgment month, not just a stored archive month.

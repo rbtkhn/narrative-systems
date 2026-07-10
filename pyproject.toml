@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "narrative-systems"
 version = "0.1.0"
-description = "A small research workbench for narrative-system concepts."
+description = "An archive-first geopolitical research workbench."
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [
@@ -18,9 +18,5 @@ test = [
   "pytest>=8"
 ]
 
-[tool.setuptools.packages.find]
-where = ["src"]
-
 [tool.pytest.ini_options]
 testpaths = ["tests"]
-pythonpath = ["src"]

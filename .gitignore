@@ -21,3 +21,6 @@ dist/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Local advisory cadence state (never research evidence)
+/narrative-geopolitics/work/cadence/last-dream.json

@@ -83,3 +83,24 @@ def test_due_review_carry_forward_excludes_non_accountable_rows(monkeypatch) -> 
     hooks = bootstrap.extract_due_review_hooks("2026-07-20")
 
     assert [hook["hook_id"] for hook in hooks] == ["NG-20260707-F01"]
+
+
+def test_due_review_link_is_rebased_for_daily_forecast() -> None:
+    text = "# Forecast\n\n## Hooks\n"
+    hooks = [
+        {
+            "hook_id": "NG-20260707-F01",
+            "hook_date": "2026-07-07",
+            "crisis_object": "Object",
+            "claim": "Claim",
+            "band": "likely",
+            "review_date": "2026-07-10",
+            "source_label": "2026-07-07",
+            "source_link": "../daily/2026-07-07/forecast.md",
+        }
+    ]
+
+    updated = bootstrap.inject_due_review_hooks(text, hooks)
+
+    assert "[2026-07-07](../2026-07-07/forecast.md)" in updated
+    assert "../daily/2026-07-07/forecast.md" not in updated

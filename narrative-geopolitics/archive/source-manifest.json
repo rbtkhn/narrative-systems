@@ -1,7 +1,7 @@
 {
-  "manifest_id": "narrative-geopolitics-pape-source-import-v1",
-  "source_basis": "strategy-codex/statecraft/voices/pape/pape-index.md",
-  "imported_at": "2026-07-08",
+  "manifest_id": "narrative-geopolitics-source-manifest-v1",
+  "source_basis": "central archive with completed historical strategy-codex imports",
+  "imported_at": "2026-07-09",
   "source_count": 1007,
   "boundary": {
     "archive": "source truth",

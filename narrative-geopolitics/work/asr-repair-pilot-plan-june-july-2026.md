@@ -28,21 +28,21 @@ Posture:
 
 ### Batch A: immediate repair now
 
-1. [source-daniel-davis-iran-warhawks-delusional-fantasy-lt-col-daniel-davis-2026-06-01.md](../../archive/sources/2026-06-01/source-daniel-davis-iran-warhawks-delusional-fantasy-lt-col-daniel-davis-2026-06-01.md)
-2. [source-dialogue-works-baud-trump-just-pulled-his-last-card-and-israel-is-in-shambles-2026-06-01.md](../../archive/sources/2026-06-01/source-dialogue-works-baud-trump-just-pulled-his-last-card-and-israel-is-in-shambles-2026-06-01.md)
-3. [source-judging-freedom-sachs-how-the-best-military-and-intel-failed-2026-06-01.md](../../archive/sources/2026-06-01/source-judging-freedom-sachs-how-the-best-military-and-intel-failed-2026-06-01.md)
-4. [source-dialogue-works-helmer-irans-unthinkable-move-middle-east-never-same-2026-06-02.md](../../archive/sources/2026-06-02/source-dialogue-works-helmer-irans-unthinkable-move-middle-east-never-same-2026-06-02.md)
-5. [source-dialogue-works-wilkerson-irans-quds-force-chief-red-sea-chokepoint-next-hormuz-2026-06-02.md](../../archive/sources/2026-06-02/source-dialogue-works-wilkerson-irans-quds-force-chief-red-sea-chokepoint-next-hormuz-2026-06-02.md)
-6. [source-daniel-davis-col-douglas-macgregor-the-israel-first-white-house-2026-06-02.md](../../archive/sources/2026-06-02/source-daniel-davis-col-douglas-macgregor-the-israel-first-white-house-2026-06-02.md)
+1. [source-daniel-davis-iran-warhawks-delusional-fantasy-lt-col-daniel-davis-2026-06-01.md](../archive/sources/2026-06-01/source-daniel-davis-iran-warhawks-delusional-fantasy-lt-col-daniel-davis-2026-06-01.md)
+2. [source-dialogue-works-baud-trump-just-pulled-his-last-card-and-israel-is-in-shambles-2026-06-01.md](../archive/sources/2026-06-01/source-dialogue-works-baud-trump-just-pulled-his-last-card-and-israel-is-in-shambles-2026-06-01.md)
+3. [source-judging-freedom-sachs-how-the-best-military-and-intel-failed-2026-06-01.md](../archive/sources/2026-06-01/source-judging-freedom-sachs-how-the-best-military-and-intel-failed-2026-06-01.md)
+4. [source-dialogue-works-helmer-irans-unthinkable-move-middle-east-never-same-2026-06-02.md](../archive/sources/2026-06-02/source-dialogue-works-helmer-irans-unthinkable-move-middle-east-never-same-2026-06-02.md)
+5. [source-dialogue-works-wilkerson-irans-quds-force-chief-red-sea-chokepoint-next-hormuz-2026-06-02.md](../archive/sources/2026-06-02/source-dialogue-works-wilkerson-irans-quds-force-chief-red-sea-chokepoint-next-hormuz-2026-06-02.md)
+6. [source-daniel-davis-col-douglas-macgregor-the-israel-first-white-house-2026-06-02.md](../archive/sources/2026-06-02/source-daniel-davis-col-douglas-macgregor-the-israel-first-white-house-2026-06-02.md)
 
 ### Batch B: expand only if Batch A proves out
 
-7. [source-judging-freedom-mearsheimer-will-israel-veto-an-american-peace-2026-06-02.md](../../archive/sources/2026-06-02/source-judging-freedom-mearsheimer-will-israel-veto-an-american-peace-2026-06-02.md)
-8. [source-judging-freedom-freeman-how-the-us-lost-geopolitical-primacy-2026-06-02.md](../../archive/sources/2026-06-02/source-judging-freedom-freeman-how-the-us-lost-geopolitical-primacy-2026-06-02.md)
-9. [source-judging-freedom-hoh-military-spending-into-oblivion-2026-06-02.md](../../archive/sources/2026-06-02/source-judging-freedom-hoh-military-spending-into-oblivion-2026-06-02.md)
-10. [source-daniel-davis-americas-old-world-war-mentality-lt-col-daniel-davis-2026-06-02.md](../../archive/sources/2026-06-02/source-daniel-davis-americas-old-world-war-mentality-lt-col-daniel-davis-2026-06-02.md)
-11. [source-judging-freedom-mcgovern-what-putin-is-thinking-2026-06-01.md](../../archive/sources/2026-06-01/source-judging-freedom-mcgovern-what-putin-is-thinking-2026-06-01.md)
-12. [source-alexander-mercouris-russia-sanctions-crumble-st-pete-hosts-us-german-business-zelensky-sends-drones-us-iran-fighting-2026-06-03.md](../../archive/sources/2026-06-03/source-alexander-mercouris-russia-sanctions-crumble-st-pete-hosts-us-german-business-zelensky-sends-drones-us-iran-fighting-2026-06-03.md)
+7. [source-judging-freedom-mearsheimer-will-israel-veto-an-american-peace-2026-06-02.md](../archive/sources/2026-06-02/source-judging-freedom-mearsheimer-will-israel-veto-an-american-peace-2026-06-02.md)
+8. [source-judging-freedom-freeman-how-the-us-lost-geopolitical-primacy-2026-06-02.md](../archive/sources/2026-06-02/source-judging-freedom-freeman-how-the-us-lost-geopolitical-primacy-2026-06-02.md)
+9. [source-judging-freedom-hoh-military-spending-into-oblivion-2026-06-02.md](../archive/sources/2026-06-02/source-judging-freedom-hoh-military-spending-into-oblivion-2026-06-02.md)
+10. [source-daniel-davis-americas-old-world-war-mentality-lt-col-daniel-davis-2026-06-02.md](../archive/sources/2026-06-02/source-daniel-davis-americas-old-world-war-mentality-lt-col-daniel-davis-2026-06-02.md)
+11. [source-judging-freedom-mcgovern-what-putin-is-thinking-2026-06-01.md](../archive/sources/2026-06-01/source-judging-freedom-mcgovern-what-putin-is-thinking-2026-06-01.md)
+12. [source-alexander-mercouris-russia-sanctions-crumble-st-pete-hosts-us-german-business-zelensky-sends-drones-us-iran-fighting-2026-06-03.md](../archive/sources/2026-06-03/source-alexander-mercouris-russia-sanctions-crumble-st-pete-hosts-us-german-business-zelensky-sends-drones-us-iran-fighting-2026-06-03.md)
 
 ## Repair Scope For The Pilot
 

@@ -284,10 +284,11 @@ def inject_due_review_hooks(text: str, due_hooks: list[dict[str, str]]) -> str:
     else:
         rows = []
         for hook in due_hooks:
+            daily_source_link = f"../{hook['hook_date']}/forecast.md"
             rows.append(
                 f"| `{hook['hook_id']}` | `{hook['hook_date']}` | {hook['crisis_object']} | "
                 f"{hook['claim']} | `{hook['band']}` | `{hook['review_date']}` | "
-                f"[{hook['source_label']}]({hook['source_link']}) |"
+                f"[{hook['source_label']}]({daily_source_link}) |"
             )
         block = (
             "## Due Review Hooks\n\n"

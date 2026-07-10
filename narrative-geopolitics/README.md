@@ -85,12 +85,8 @@ Use `best-intake` when the priority is to land same-day source truth quickly wit
 See [method/intake-speedup.md](method/intake-speedup.md) for the current speedup plan and [../scripts/land_best_intake.py](../scripts/land_best_intake.py) for the first helper that automates archive-file creation plus manifest append.
 
 Once the day batch is materially real, use `geopolitical-synthesis` as the
-single evening synthesis command. It supports three day states under one
-contract:
-
-- real sourced daily runs
-- placeholder scaffolds awaiting intake
-- retrospective authored runs
+single evening synthesis command. It supports live and intentional
+retrospective runs. Dates without manifest-backed intake remain absent.
 
 ## Voice Continuity
 
