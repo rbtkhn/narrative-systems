@@ -106,6 +106,8 @@ def test_exact_intake_coverage_is_ready(monkeypatch, tmp_path: Path) -> None:
 
     assert result["state"] == "ready"
     assert result["failures"] == []
+    assert result["landed_sources"] == 2
+    assert result["consumed_sources"] == 2
 
 
 def test_selected_run_source_set_may_be_subset(monkeypatch, tmp_path: Path) -> None:

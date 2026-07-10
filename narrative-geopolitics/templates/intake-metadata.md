@@ -34,17 +34,36 @@ The helper now writes trim metrics into landed source frontmatter automatically:
 For batch work, save one filled sidecar per source in a folder and run:
 
 ```powershell
-python scripts\land_best_intake.py --batch-dir C:\path\to\intake-batch
+.\scripts\python.ps1 scripts\land_best_intake.py --batch-dir C:\path\to\intake-batch
 ```
 
-## Required Fields
+## Paste-First Minimum
+
+Same-day one-off intake needs:
+
+- `pub_date` or `ingest_date`;
+- `url`;
+- source body through `--body-file` or `--body-text`.
+
+Title, voice, host, and source form are inferred when the body is clear. A
+single clarification is allowed when host or primary voice ownership is truly
+ambiguous.
+
+## Batch Sidecar Fields
+
+For repeatable batch work, provide:
 
 ```text
 pub_date:
 ingest_date:
-title:
 url:
 body_file:
+```
+
+Supply these overrides only when known or inference is ambiguous:
+
+```text
+title:
 voice_slug:
 ```
 
@@ -142,7 +161,7 @@ guest_people: Robert Barnes
 Turn the sidecar into a helper command by mapping fields directly:
 
 ```powershell
-python scripts\land_best_intake.py `
+.\scripts\python.ps1 scripts\land_best_intake.py `
   --pub-date 2026-07-07 `
   --ingest-date 2026-07-08 `
   --title "Robert Barnes: U.S. Just REVOKED Iran Waivers - We Heading to War" `
@@ -163,7 +182,7 @@ python scripts\land_best_intake.py `
 Or land directly from the sidecar:
 
 ```powershell
-python scripts\land_best_intake.py `
+.\scripts\python.ps1 scripts\land_best_intake.py `
   --metadata-file "C:\temp\2026-07-07-barnes-metadata.txt"
 ```
 

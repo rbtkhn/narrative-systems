@@ -82,6 +82,10 @@ longer the preferred same-day one-off flow.
 
 If optional fields are unclear, preserve uncertainty instead of inventing precision.
 
+The central manifest is authoritative for host and voice routing. Archive
+frontmatter may duplicate those fields for convenience, but older sources do
+not need retroactive header rewrites when their manifest routes are complete.
+
 ## What Best-Intake Does
 
 `best-intake` should:
@@ -241,6 +245,11 @@ truth in a state that makes those downstream moves possible.
 
 Every `best-intake` source should be legible about its state.
 
+These are landing-time states, not lifecycle states. `unreviewed` and
+`provisional` mean that intake deferred enrichment; they are not expected to be
+rewritten after a source is used. Daily validation derives `landed` and
+`consumed` from archive, manifest, and intake-table agreement.
+
 Suggested state fields:
 
 - `review_state: unreviewed`
@@ -325,10 +334,26 @@ Newly landed sources can record:
 For host-level reporting, use:
 
 ```powershell
-python scripts\report_trim_stats.py
-python scripts\report_trim_stats.py --host-slug mario-nawfal
-python scripts\report_trim_stats.py --host-slug daniel-davis
+.\scripts\python.ps1 scripts\report_trim_stats.py
+.\scripts\python.ps1 scripts\report_trim_stats.py --host-slug mario-nawfal
+.\scripts\python.ps1 scripts\report_trim_stats.py --ingested-since YYYY-MM-DD --json
 ```
+
+Reporting interprets automatically generated section state conservatively:
+
+- `useful_sectioning` requires at least two headings;
+- `weak_sectioning` includes one-heading transcripts;
+- `preserved_unsectioned` records an explicit no-section result;
+- `curation_state_missing` means the source predates the current metadata pass.
+
+Similarly, `asr_checked_no_change` and `asr_state_missing` are distinct. A
+missing field must not be counted as a clean ASR check.
+
+## Measurement Hold
+
+Do not add trim hosts, ASR substitutions, or sectioning heuristics until two
+weeks of recent-intake reporting show a repeated correction cost or retrieval
+gain. Do not run another mass retrofit merely to normalize metadata generations.
 
 Its companion step is a later enrichment pass that can:
 

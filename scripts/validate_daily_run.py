@@ -138,6 +138,11 @@ def validate_run(run_date: str, stage: str = "intake") -> dict[str, Any]:
     failures: list[str] = []
     warnings: list[str] = []
     state = "ready" if rows else "awaiting-intake"
+    landed_sources = len(rows) - len(source_paths_exist(rows))
+    consumed_sources = 0
+    routing_complete = sum(
+        bool(row.get("host_slug") and row.get("voice_slugs")) for row in rows
+    )
 
     if not run_path.exists():
         failures.append(f"missing daily folder: {run_path.relative_to(REPO_ROOT)}")
@@ -156,6 +161,9 @@ def validate_run(run_date: str, stage: str = "intake") -> dict[str, Any]:
 
     if rows and (run_path / "sources.md").exists():
         sources_text = read_text(run_path / "sources.md")
+        consumed_sources = len(
+            manifest_archive_paths(rows) & set(extract_intake_paths(sources_text))
+        )
         status = extract_status(sources_text)
         linked_paths = {normalize_daily_archive_link(link) for link in extract_archive_links(sources_text)}
 
@@ -196,6 +204,9 @@ def validate_run(run_date: str, stage: str = "intake") -> dict[str, Any]:
         "stage": stage,
         "state": state,
         "manifest_rows": len(rows),
+        "landed_sources": landed_sources,
+        "consumed_sources": consumed_sources,
+        "routing_complete": routing_complete,
         "failures": failures,
         "warnings": warnings,
     }
@@ -209,6 +220,9 @@ def main() -> None:
     print(f"stage={result['stage']}")
     print(f"state={result['state']}")
     print(f"manifest_rows={result['manifest_rows']}")
+    print(f"landed_sources={result['landed_sources']}")
+    print(f"consumed_sources={result['consumed_sources']}")
+    print(f"routing_complete={result['routing_complete']}")
     print(f"failures={len(result['failures'])}")
     print(f"warnings={len(result['warnings'])}")
     for item in result["failures"]:

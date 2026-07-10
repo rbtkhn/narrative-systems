@@ -170,3 +170,11 @@ ASR repair is now also part of landing, but only in a conservative form:
 - one quick verification pass for the batch
 
 not five bespoke archival compositions.
+
+Measure the actual ingestion cohort with:
+
+```powershell
+.\scripts\python.ps1 scripts\report_trim_stats.py --ingested-since YYYY-MM-DD --json
+```
+
+Do not use publication-date reports as a proxy for recent operator work.
