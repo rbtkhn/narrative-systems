@@ -69,9 +69,19 @@ a changed decision or capability.
 
 State: `watch-candidate`
 
+Last promotion review: `remain-watch-candidate-after-comparison` — four gates
+passed and one remained partial. Continuity outperformed the source-only control
+on three dimensions by exposing the missing conversion between battlefield
+direction and implementable settlement terms, but it did not repair the
+operational or official-term evidence baseline. The minimum activation set is
+now defined internally; current qualifying coverage is zero actor snapshots and
+zero threshold records. See the
+[internal promotion review](../work/experiments/2026-07-value-test/ukraine-endgame-promotion-review.md).
+
 Current archive signal: recurring claims about Russian advances, Ukrainian deep
-strikes, Western weapons constraints, and shrinking diplomatic room. The object
-remains too broad and often collapses into general war coverage.
+strikes, Western weapons constraints, and shrinking diplomatic room. The
+focused object is now the war-termination gap: whether an adjudicated military
+threshold actually changes the parties' acceptable settlement terms.
 
 Promote only when:
 
