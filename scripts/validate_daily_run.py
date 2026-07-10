@@ -26,6 +26,15 @@ def parse_args() -> argparse.Namespace:
         description="Validate a Narrative Geopolitics daily run against archive and forecast surfaces."
     )
     parser.add_argument("--date", required=True, help="Run date in YYYY-MM-DD format.")
+    parser.add_argument(
+        "--stage",
+        choices=("intake", "synthesis", "forecast", "publication"),
+        default="intake",
+        help=(
+            "Validation stage. Intake reports stale coverage without blocking; "
+            "synthesis, forecast, and publication treat it as a failure."
+        ),
+    )
     return parser.parse_args()
 
 
@@ -107,16 +116,28 @@ def extract_ledger_hook_ids() -> set[str]:
     return set(HOOK_RE.findall(read_text(LEDGER_PATH)))
 
 
-def main() -> None:
-    args = parse_args()
-    run_date = args.date
+def coverage_differences(
+    rows: list[dict[str, Any]], sources_text: str
+) -> tuple[list[str], list[str]]:
+    """Return manifest paths missing from, and extra paths present in, Intake Batch."""
+    intake_paths = set(extract_intake_paths(sources_text))
+    manifest_paths = manifest_archive_paths(rows)
+    return sorted(manifest_paths - intake_paths), sorted(intake_paths - manifest_paths)
+
+
+def validate_run(run_date: str, stage: str = "intake") -> dict[str, Any]:
+    if stage not in {"intake", "synthesis", "forecast", "publication"}:
+        raise ValueError(f"unsupported validation stage: {stage}")
+
     manifest = load_manifest()
     rows = manifest_rows_for_date(manifest, run_date)
     run_path = daily_dir(run_date)
     placeholder_day = is_placeholder_day(run_path)
+    downstream = stage != "intake"
 
     failures: list[str] = []
     warnings: list[str] = []
+    state = "ready" if rows else "awaiting-intake"
 
     if not run_path.exists():
         failures.append(f"missing daily folder: {run_path.relative_to(REPO_ROOT)}")
@@ -130,28 +151,35 @@ def main() -> None:
     if not rows and placeholder_day:
         warnings.append(f"placeholder day awaiting intake for date {run_date}")
 
-    missing_sources = source_paths_exist(rows)
-    for local_path in missing_sources:
+    for local_path in source_paths_exist(rows):
         failures.append(f"missing archive source file: {local_path}")
 
     if rows and (run_path / "sources.md").exists():
         sources_text = read_text(run_path / "sources.md")
         status = extract_status(sources_text)
         linked_paths = {normalize_daily_archive_link(link) for link in extract_archive_links(sources_text)}
-        intake_paths = set(extract_intake_paths(sources_text))
-        manifest_paths = manifest_archive_paths(rows)
 
         for rel in sorted(linked_paths):
             if not (REPO_ROOT / "narrative-geopolitics" / Path(rel)).exists():
                 warnings.append(f"sources.md links missing archive file: {rel}")
 
         if status != "pilot":
-            missing_intake = sorted(manifest_paths - intake_paths)
-            extra_intake = sorted(intake_paths - manifest_paths)
-            for rel in missing_intake:
-                warnings.append(f"intake batch missing manifest day source: {rel}")
-            for rel in extra_intake:
-                warnings.append(f"intake batch includes source outside manifest day batch: {rel}")
+            missing_intake, extra_intake = coverage_differences(rows, sources_text)
+            if placeholder_day or missing_intake or extra_intake:
+                state = "stale-after-intake"
+            coverage_messages = [
+                *(f"intake batch missing manifest day source: {rel}" for rel in missing_intake),
+                *(f"intake batch includes source outside manifest day batch: {rel}" for rel in extra_intake),
+            ]
+            if placeholder_day:
+                coverage_messages.insert(
+                    0,
+                    f"daily run still claims awaiting intake after {len(rows)} manifest rows landed; refresh required",
+                )
+            if downstream:
+                failures.extend(coverage_messages)
+            else:
+                warnings.extend(coverage_messages)
 
     if (run_path / "forecast.md").exists():
         forecast_text = read_text(run_path / "forecast.md")
@@ -163,16 +191,32 @@ def main() -> None:
             if hook_id not in ledger_hook_ids:
                 warnings.append(f"forecast hook missing from ledger: {hook_id}")
 
-    print(f"date={run_date}")
-    print(f"manifest_rows={len(rows)}")
-    print(f"failures={len(failures)}")
-    print(f"warnings={len(warnings)}")
-    for item in failures:
+    return {
+        "date": run_date,
+        "stage": stage,
+        "state": state,
+        "manifest_rows": len(rows),
+        "failures": failures,
+        "warnings": warnings,
+    }
+
+
+def main() -> None:
+    args = parse_args()
+    result = validate_run(args.date, args.stage)
+
+    print(f"date={result['date']}")
+    print(f"stage={result['stage']}")
+    print(f"state={result['state']}")
+    print(f"manifest_rows={result['manifest_rows']}")
+    print(f"failures={len(result['failures'])}")
+    print(f"warnings={len(result['warnings'])}")
+    for item in result["failures"]:
         print(f"FAIL {item}")
-    for item in warnings:
+    for item in result["warnings"]:
         print(f"WARN {item}")
 
-    if failures:
+    if result["failures"]:
         raise SystemExit(1)
 
 

@@ -19,6 +19,10 @@ LEDGER_PATH = NG_ROOT / "work" / "forecasts" / "forecast-ledger.md"
 LEDGER_ROW_RE = re.compile(
     r"^\|\s*`(NG-\d{8}-F\d{2})`\s*\|\s*`([^`]+)`\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*`(low|plausible|likely|high)`\s*\|\s*`([^`]+)`\s*\|\s*\[([^\]]+)\]\(([^)]+)\)\s*\|\s*`([^`]+)`\s*\|$"
 )
+TRIAGE_ROW_RE = re.compile(
+    r"^\|\s*`(NG-\d{8}-F\d{2})`\s*\|\s*`[^`]+`\s*\|\s*`[^`]+`\s*\|"
+    r"\s*`[^`]+`\s*\|\s*`([^`]+)`\s*\|\s*`(yes|no)`\s*\|"
+)
 
 
 VOICE_LABELS = {
@@ -139,12 +143,20 @@ def archive_link(local_path: str) -> str:
 def extract_due_review_hooks(run_date: str) -> list[dict[str, str]]:
     run_day = parse_iso_date(run_date)
     due_hooks: list[dict[str, str]] = []
-    for line in load_ledger_text().splitlines():
+    ledger_text = load_ledger_text()
+    accountable_open = {
+        match.group(1)
+        for line in ledger_text.splitlines()
+        if (match := TRIAGE_ROW_RE.match(line.strip()))
+        and match.group(2) == "open"
+        and match.group(3) == "yes"
+    }
+    for line in ledger_text.splitlines():
         match = LEDGER_ROW_RE.match(line.strip())
         if not match:
             continue
         hook_id, hook_date, crisis_object, claim, band, review_date, source_label, source_link, status = match.groups()
-        if status != "open":
+        if status != "open" or hook_id not in accountable_open:
             continue
         if parse_iso_date(review_date) <= run_day:
             due_hooks.append(

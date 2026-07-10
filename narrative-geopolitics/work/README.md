@@ -130,8 +130,17 @@ Before trusting a real daily run for synthesis or review, validate it against th
 archive and forecast ledger:
 
 ```text
-C:\Users\rober\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe scripts/validate_daily_run.py --date YYYY-MM-DD
+C:\Users\rober\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe scripts/validate_daily_run.py --date YYYY-MM-DD --stage synthesis
 ```
+
+Stage behavior is deliberate:
+
+- `--stage intake` reports `stale-after-intake` plus a refresh instruction
+  without blocking source landing.
+- `--stage synthesis`, `forecast`, or `publication` blocks when the Intake
+  Batch does not exactly cover the manifest day rows.
+- The Run Source Set may remain a documented analytical subset of the complete
+  Intake Batch.
 
 The validator checks:
 
@@ -143,6 +152,21 @@ The validator checks:
 
 For placeholder days that are still awaiting intake, the validator reports a
 non-fatal placeholder warning rather than treating the day as a completed run.
+
+## Forecast Accountability Triage
+
+The central Markdown ledger preserves every historical row, but only
+timing-reviewed `ex_ante` entries marked `Accountable: yes` belong in later
+calibration. Validate that separation with:
+
+```text
+C:\Users\rober\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe scripts/triage_forecast_ledger.py --as-of YYYY-MM-DD
+```
+
+Retrospective hypotheses, indicators, falsifiers, and unscorable hooks remain
+visible without being counted as forecast performance. When the authorized
+archive cannot resolve an observable, use
+`unresolvable_with_authorized_evidence` rather than forcing a hit or miss.
 
 To sync a day's forecast hooks into the central ledger without duplicate manual
 copying, use:

@@ -46,3 +46,54 @@ Each public daily brief should include at least one forecast or review hook, and
 | `NG-20260627-F01` | `2026-06-27` | Whether coercive calm can hold while Iran retains Hormuz-linked leverage and wider settlement demands. | Within 30 days, the leverage structure around whether coercive calm can hold while iran retains hormuz-linked leverage and wider settlement demands. will remain visible through renewed bargaining stress, implementation disputes, or another coercive test. | `likely` | `2026-07-27` | [2026-06-27](../daily/2026-06-27/forecast.md) | `open` |
 | `NG-20260628-F01` | `2026-06-28` | Whether battlefield developments are closing the room for negotiation faster than outside actors can reopen it. | Within 30 days, the leverage structure around whether battlefield developments are closing the room for negotiation faster than outside actors can reopen it. will remain visible through renewed bargaining stress, implementation disputes, or another coercive test. | `likely` | `2026-07-28` | [2026-06-28](../daily/2026-06-28/forecast.md) | `open` |
 | `NG-20260629-F01` | `2026-06-29` | Whether coercive calm can hold while Iran retains Hormuz-linked leverage and wider settlement demands. | Within 30 days, the leverage structure around whether coercive calm can hold while iran retains hormuz-linked leverage and wider settlement demands. will remain visible through renewed bargaining stress, implementation disputes, or another coercive test. | `likely` | `2026-07-29` | [2026-06-29](../daily/2026-06-29/forecast.md) | `open` |
+
+## Accountability Triage
+
+Authorship dates below are conservative bounds from the earliest Git commit
+containing each entry. They are not claims about the exact drafting time.
+Only rows marked `accountable: yes` belong in later calibration.
+
+Allowed resolution states include `unresolvable_with_authorized_evidence`;
+reviewers should not force a hit or miss when the authorized corpus cannot
+resolve the observable.
+
+| Hook ID | Authored No Later Than | Timing Provenance | Forecast Type | Resolution Status | Accountable | Review Note |
+| --- | --- | --- | --- | --- | --- | --- |
+| `NG-20260630-F01` | `2026-07-07` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Added after the labeled June 30 run date. |
+| `NG-20260630-F02` | `2026-07-07` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Added after the labeled June 30 run date. |
+| `NG-20260630-F03` | `2026-07-07` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Added after the labeled June 30 run date. |
+| `NG-20260707-F01` | `2026-07-08` | `git_commit_upper_bound_plus_daily_receipt` | `ex_ante` | `open` | `yes` | Contemporaneous July 7/8 live run; review remains prospective. |
+| `NG-20260707-F02` | `2026-07-08` | `git_commit_upper_bound_plus_daily_receipt` | `ex_ante` | `open` | `yes` | Contemporaneous July 7/8 live run; review remains prospective. |
+| `NG-20260707-F03` | `2026-07-08` | `git_commit_upper_bound_plus_daily_receipt` | `unscorable` | `excluded_unscorable` | `no` | “Better explained by” lacks a sufficiently objective resolution rule. |
+| `NG-20260708-F01` | `2026-07-09` | `git_commit_upper_bound_plus_daily_receipt` | `ex_ante` | `open` | `yes` | Contemporaneous July 8/9 live run; public-language observable is bounded. |
+| `NG-20260708-F02` | `2026-07-09` | `git_commit_upper_bound_plus_daily_receipt` | `ex_ante` | `open` | `yes` | Contemporaneous July 8/9 live run; both trigger and response are required. |
+| `NG-20260708-F03` | `2026-07-09` | `git_commit_upper_bound_plus_daily_receipt` | `falsifier` | `open` | `no` | This is a weakening condition, not a probability-bearing forecast. |
+| `NG-20260601-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260602-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260603-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260604-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260605-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260606-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260607-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260608-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260609-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260610-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260611-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260612-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260613-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260614-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260615-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260616-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260617-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260618-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260619-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260620-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260621-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260622-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260623-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260624-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260625-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260626-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260627-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260628-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260629-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |

@@ -1,0 +1,117 @@
+from __future__ import annotations
+
+import importlib.util
+import json
+import sys
+from pathlib import Path
+
+
+REPO_ROOT = Path(__file__).resolve().parent.parent
+
+
+def load_module(name: str, path: Path):
+    spec = importlib.util.spec_from_file_location(name, path)
+    assert spec is not None
+    assert spec.loader is not None
+    module = importlib.util.module_from_spec(spec)
+    sys.modules[name] = module
+    spec.loader.exec_module(module)
+    return module
+
+
+validator = load_module("daily_run_validator_tests", REPO_ROOT / "scripts" / "validate_daily_run.py")
+
+
+def configure_fixture(monkeypatch, tmp_path: Path, sources_text: str) -> None:
+    ng_root = tmp_path / "narrative-geopolitics"
+    daily_root = ng_root / "work" / "daily"
+    ledger_path = ng_root / "work" / "forecasts" / "forecast-ledger.md"
+    manifest_path = ng_root / "archive" / "source-manifest.json"
+    run_dir = daily_root / "2026-07-09"
+    source_dir = ng_root / "archive" / "sources" / "2026-07-09"
+    run_dir.mkdir(parents=True)
+    source_dir.mkdir(parents=True)
+    ledger_path.parent.mkdir(parents=True)
+
+    rows = []
+    for name in ("source-a.md", "source-b.md"):
+        local_path = f"narrative-geopolitics/archive/sources/2026-07-09/{name}"
+        rows.append({"date": "2026-07-09", "local_path": local_path})
+        (source_dir / name).write_text("source\n", encoding="utf-8")
+    manifest_path.write_text(json.dumps({"sources": rows}), encoding="utf-8")
+    (run_dir / "sources.md").write_text(sources_text, encoding="utf-8")
+    for name in ("synthesis.md", "forecast.md", "daily-brief.md"):
+        (run_dir / name).write_text("Status: `draft`\n", encoding="utf-8")
+    ledger_path.write_text("# Ledger\n", encoding="utf-8")
+
+    monkeypatch.setattr(validator, "REPO_ROOT", tmp_path)
+    monkeypatch.setattr(validator, "NG_ROOT", ng_root)
+    monkeypatch.setattr(validator, "MANIFEST_PATH", manifest_path)
+    monkeypatch.setattr(validator, "DAILY_ROOT", daily_root)
+    monkeypatch.setattr(validator, "LEDGER_PATH", ledger_path)
+
+
+def complete_sources_text(selected_subset: bool = False) -> str:
+    selected = (
+        "\n## Run Source Set\n"
+        "| Source ID | Archive Path |\n"
+        "| --- | --- |\n"
+        "| `SRC-01` | [A](../../../archive/sources/2026-07-09/source-a.md) |\n"
+        if selected_subset
+        else ""
+    )
+    return (
+        "Status: `live-intake-first`\n\n"
+        "## Intake Batch\n"
+        "| Source File | Type |\n"
+        "| --- | --- |\n"
+        "| `archive/sources/2026-07-09/source-a.md` | transcript |\n"
+        "| `archive/sources/2026-07-09/source-b.md` | transcript |\n"
+        + selected
+    )
+
+
+def test_intake_stage_reports_stale_after_sources_land(monkeypatch, tmp_path: Path) -> None:
+    configure_fixture(
+        monkeypatch,
+        tmp_path,
+        "Status: `placeholder`\n\nThis day is awaiting intake.\n",
+    )
+
+    result = validator.validate_run("2026-07-09", "intake")
+
+    assert result["state"] == "stale-after-intake"
+    assert result["failures"] == []
+    assert any("refresh required" in warning for warning in result["warnings"])
+
+
+def test_synthesis_stage_blocks_stale_after_intake(monkeypatch, tmp_path: Path) -> None:
+    configure_fixture(
+        monkeypatch,
+        tmp_path,
+        "Status: `placeholder`\n\nThis day is awaiting intake.\n",
+    )
+
+    result = validator.validate_run("2026-07-09", "synthesis")
+
+    assert result["state"] == "stale-after-intake"
+    assert any("refresh required" in failure for failure in result["failures"])
+    assert sum("missing manifest day source" in failure for failure in result["failures"]) == 2
+
+
+def test_exact_intake_coverage_is_ready(monkeypatch, tmp_path: Path) -> None:
+    configure_fixture(monkeypatch, tmp_path, complete_sources_text())
+
+    result = validator.validate_run("2026-07-09", "synthesis")
+
+    assert result["state"] == "ready"
+    assert result["failures"] == []
+
+
+def test_selected_run_source_set_may_be_subset(monkeypatch, tmp_path: Path) -> None:
+    configure_fixture(monkeypatch, tmp_path, complete_sources_text(selected_subset=True))
+
+    result = validator.validate_run("2026-07-09", "synthesis")
+
+    assert result["state"] == "ready"
+    assert result["failures"] == []

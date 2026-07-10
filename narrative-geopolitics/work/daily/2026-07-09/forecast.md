@@ -2,34 +2,29 @@
 
 Date: `2026-07-09`
 
-Status: `live-intake-first`
-
-## Probability Bands
-
-Use coarse bands, not false precision:
-
-- `low`: roughly 10-30%
-- `plausible`: roughly 30-45%
-- `likely`: roughly 55-70%
-- `high`: roughly 70-85%
+Status: `experiment-reviewed`
 
 ## Due Review Hooks
 
-No open ledger hooks are due on or before this run date.
+No accountable ex-ante hook is due on or before this run date.
 
-## Hooks
+## Carried Accountable Hook
 
-No new day-specific forecast hooks are authorized because this day is awaiting intake.
+| Hook ID | Claim | Probability Band | Review Date | Resolution Rule |
+| --- | --- | --- | --- | --- |
+| `NG-20260708-F02` | A visible attempt to weaken or bypass claimed Iranian transit authority produces a visible coercive response. | `likely` | `2026-07-29` | Count a hit only if both a bypass or dilution attempt and a visible response occur. |
 
-| Hook ID | Claim | Probability Band | Review Date | Strengthening Evidence | Weakening Evidence |
-| --- | --- | --- | --- | --- | --- |
-| `pending` | Await archive intake before making a new probability-bearing claim. |  |  |  |  |
+## New Hooks
 
+No new probability-bearing hook was authorized. The value test improved the
+interpretation but did not establish a new independently scorable baseline.
 
-| Hook ID | Claim | Probability Band | Review Date | Strengthening Evidence | Weakening Evidence |
-| --- | --- | --- | --- | --- | --- |
-| `NG-YYYYMMDD-F01` |  |  |  |  |  |
+## Accountability
 
-## Ledger Entries
+- Four existing ledger hooks survive timing review as ex-ante.
+- Thirty-four entries are retrospective, unscorable, or falsifier-only and are
+  excluded from calibration.
+- `unresolvable_with_authorized_evidence` remains available when the archive
+  cannot resolve an observable.
 
-Copy final hooks to `work/forecasts/forecast-ledger.md`.
+See [forecast-ledger.md](../../forecasts/forecast-ledger.md#accountability-triage).

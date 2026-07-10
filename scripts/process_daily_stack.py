@@ -91,58 +91,8 @@ def run_bootstrap(args: argparse.Namespace) -> dict[str, Any]:
     return {"rows": len(rows), "actions": actions}
 
 
-def run_validation(run_date: str) -> dict[str, Any]:
-    manifest = VALIDATOR.load_manifest()
-    rows = VALIDATOR.manifest_rows_for_date(manifest, run_date)
-    run_path = VALIDATOR.daily_dir(run_date)
-
-    failures: list[str] = []
-    warnings: list[str] = []
-
-    if not run_path.exists():
-        failures.append(f"missing daily folder: {run_path.relative_to(REPO_ROOT)}")
-
-    for path in VALIDATOR.expected_files(run_date):
-        if not path.exists():
-            failures.append(f"missing file: {path.relative_to(REPO_ROOT)}")
-
-    if not rows:
-        failures.append(f"no manifest rows for date {run_date}")
-
-    for local_path in VALIDATOR.source_paths_exist(rows):
-        failures.append(f"missing archive source file: {local_path}")
-
-    if rows and (run_path / "sources.md").exists():
-        sources_text = VALIDATOR.read_text(run_path / "sources.md")
-        status = VALIDATOR.extract_status(sources_text)
-        linked_paths = {
-            VALIDATOR.normalize_daily_archive_link(link)
-            for link in VALIDATOR.extract_archive_links(sources_text)
-        }
-        intake_paths = set(VALIDATOR.extract_intake_paths(sources_text))
-        manifest_paths = VALIDATOR.manifest_archive_paths(rows)
-
-        for rel in sorted(linked_paths):
-            if not (REPO_ROOT / "narrative-geopolitics" / Path(rel)).exists():
-                warnings.append(f"sources.md links missing archive file: {rel}")
-
-        if status != "pilot":
-            for rel in sorted(manifest_paths - intake_paths):
-                warnings.append(f"intake batch missing manifest day source: {rel}")
-            for rel in sorted(intake_paths - manifest_paths):
-                warnings.append(f"intake batch includes source outside manifest day batch: {rel}")
-
-    if (run_path / "forecast.md").exists():
-        forecast_text = VALIDATOR.read_text(run_path / "forecast.md")
-        hook_ids = VALIDATOR.extract_hook_ids(forecast_text)
-        ledger_hook_ids = VALIDATOR.extract_ledger_hook_ids()
-        if not hook_ids:
-            warnings.append("forecast.md has no hook ids")
-        for hook_id in hook_ids:
-            if hook_id not in ledger_hook_ids:
-                warnings.append(f"forecast hook missing from ledger: {hook_id}")
-
-    return {"manifest_rows": len(rows), "failures": failures, "warnings": warnings}
+def run_validation(run_date: str, stage: str = "synthesis") -> dict[str, Any]:
+    return VALIDATOR.validate_run(run_date, stage)
 
 
 def run_ledger_sync(args: argparse.Namespace) -> dict[str, Any]:
@@ -184,13 +134,13 @@ def main() -> None:
 
     validation = {"failures": [], "warnings": [], "manifest_rows": bootstrap["rows"]}
     if can_validate:
-        validation = run_validation(args.date)
+        validation = run_validation(args.date, "synthesis")
 
     ledger_sync = {"hooks": 0, "new_rows": 0, "rows": []}
     if can_sync_ledger:
         ledger_sync = run_ledger_sync(args)
         if can_validate:
-            validation = run_validation(args.date)
+            validation = run_validation(args.date, "forecast")
 
     print(f"date={args.date}")
     print(f"bootstrap_rows={bootstrap['rows']}")

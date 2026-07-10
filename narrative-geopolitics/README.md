@@ -113,3 +113,20 @@ The public voice should be a calm public analyst:
 - careful with uncertainty in normal prose
 - committed to at least one forecast or review hook per brief
 - readable without becoming thin
+
+## First Value Test
+
+The July 2026 controlled value test compared a day-source-only Hormuz note with
+a system-assisted note using voice continuity, channel conditioning, older
+mechanism sources, and forecast review. The assisted note passed the publication
+rubric, while a thin Europe-Russia diagnostic showed that the full method does
+not yet generalize safely to underdeveloped crisis objects.
+
+Current decision: `narrow`.
+
+- Use the full method for deep crisis objects where continuity changes judgment
+  or falsifiability.
+- Use a lighter source-bounded workflow where evidence and continuity surfaces
+  are thin.
+- See [the public Hormuz brief](public/briefs/hormuz-transit-governance-2026-07-09.md)
+  and [the internal findings](work/experiments/2026-07-value-test/milestone-findings.md).
