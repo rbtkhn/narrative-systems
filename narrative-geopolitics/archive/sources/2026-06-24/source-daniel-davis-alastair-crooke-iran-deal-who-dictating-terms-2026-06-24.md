@@ -1,5 +1,11 @@
 ---
 
+
+
+
+
+
+
 ingest_date: 2026-06-24
 pub_date: 2026-06-24
 kind: transcript
@@ -28,17 +34,19 @@ youtube_id: 3C-LejdlwSI
 source_note: "Operator source-intake 2026-06-24; operator-pasted YouTube transcript; pub_date inferred (Larry Johnson 2pm same-day tease). MOU = deescalation framework not agreement; Iranian 10-point precursors; Trump/Vance IAEA inspection claim vs MOU; Hormuz §5 60-day 'only' then Oman/GCC admin vs Trump no-tolls-ever; frozen funds US-farmers dictate; Art of Deal pressure; IRGC permit throttle; 18M bbl China; peak leverage Sep-Oct; Lebanon Hezbollah gradual withdrawal; Netanyahu Sept elections/genocide-security frame; Beirut strike → Iran hits Israel; Ushakov Anchorage over military victory; Putin cadets Europe war prep; EU3 long-range missiles/Voronezh; Zelensky Belarus signal; Ian Proud tactical-nuke probability; Conflict Forum Substack Lebanon."
 evidence_grade: transcript-bearing
 opening_tier: host-monologue
-editorial_note: Operator-pasted transcript body; not independently verified as verbatim; ASR artifacts retained (Alistister/Crooke, Homos/Hormuz, Zilinsky, etc.). Storm interruptions retained. · source-section pass 2026-06-25 (8 sections)."
+editorial_note: "Operator-pasted transcript body; not independently verified as verbatim; ASR artifacts retained (Alistister/Crooke, Homos/Hormuz, Zilinsky, etc.). Storm interruptions retained.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (8 sections)."
 transcript_wrapper_tier: clean
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
 opening_trim_words_saved: 0
-closing_trim_applied: true
-closing_trim_rule: "daniel-davis-closing-v1"
-closing_trim_chars_saved: 291
-closing_trim_words_saved: 57
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 8
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Alastair Crooke: Iran Deal, Who's Dictating the Terms?
@@ -51,14 +59,14 @@ closing_trim_words_saved: 57
 
 ## Transcript
 
-### Open — MOU Framework Not Agreement
+### Show Open — Europe European Union Middle East
 
 As we have often said, the devil is in the details on this memorandum of understanding between the United States and Iran. And it was great that we got that signed because that started a period of negotiation. But if we don't get things clear in these negotiations and even start off focusing on what the actual terms of the memorandum were, then we're going to find out that we're no closer to an end to this war than we were before.
  And there's always the prospect that this thing could turn back into active combat. to try and help us figure out exactly where we are and what some of these big issues are. We have Alistister Krookback, a former British diplomat and MISX officer with decades of experience in the Middle East and European security affairs.
  He also served as a senior adviser to the European Union, is the founder of the Conflict Forum, which you can find on Substack and we will discuss in this very show here. Uh Mr. Kirk, welcome back to the show as always. >> Thank you so much. Always a pleasure to join you. Well, listen. I I I just kind of want your kind of overview of where we are in thisouou because there was a lot of hope that all right, at least we finally got to the point to where both sides signed the same document, the same language. So, it wasn't dueling
 narratives, but it was one narrative, but now we kind of have to get into the really important work of coming up with con uh outcomes that [clears throat] can be signed into some sort of a end of war treaty. How do you see this the process so far? Uh [snorts] well, the actual document um more or less followed um
 
-### Iranian Ten Points — Who Dictates Terms
+### Segment 2 — Iran Ceasefire Hezbollah
 
 the Iranian 10 points that they'd originally outlined as the um precursors, the prerequisites um to uh some sort of paper emerging.
  I describe this as a deescalation framework rather than an understanding or agreement because there's no agreement in it. it just lays down the possible conditions. I've always said that you know the easiest thing is drawing up the framework um to start you been involved in a number of um if you like uh ceasefire efforts or hoodner efforts deescalation um and that part is the easiest it's holding them together once you've started that is much more difficult because that's when people voices come in and say oh they won't stick to it
@@ -72,7 +80,7 @@ the reneion of energy sanctions on Iran uh the release of uh foreign funds froze
  I I thought I heard some thunder in the background. He did give us a heads up that there was a lightning and a thunderstorm heading in his way. Uh but he has some backup. So, he's going to get on that in a second. Uh but uh let's let's just continue on down here because we have a number of things to cover uh here.
  And let me start with this one here uh because this is a a a
 
-### Trump Hormuz — True Social Claims
+### Segment 3 — Iran Trump Hormuz
 
 true social that President Trump put out just this morning. Uh you see that was at 7:30 this morning. He said Iran has informed the US that despite troublemaking fake news reporting to the contrary, there are quote no tolls, no insurance costs, and no other charges of any kind being sought or received by the Iran on ships traveling in the straight of Hormuz.
  I'm not sure what that quote was supposed to be from because he only had one quote, but I haven't seen that coming from the Iran. But anyway, that's what President Trump says was agreed to by Iran. Then he continues on, if this false information, I if this is false information, negotiations would end immediately.
@@ -87,7 +95,7 @@ overlook uh uh by the United States a failure that even language further down in
 " When President Trump comes in and says, "Hey, uh, I'm going to put this situation here where it will be no tolls of any kind being sought or received by Iran throughout the whole whole forces or the straight of Hormuz." He's implying and has previously said, of course, ever. And then we get to the second part of that where he gets into gets into the releasing of frozen funds.
 Now again, I probably don't have to go back and show you in there that the paragraph talking about the release of frozen funds says absolutely nothing about the United States getting to dictate, as Mike Waltz previously said on a television show in the US, that we will dictate how they will spend their money, where they will spend it, and that
 
-### Frozen Funds — Farmers and Leverage
+### Segment 4 — Iran Trump Irgc
 
 they will only buy food from American farmers.
  And I see we have successfully overcome uh the thunderstorms in Italy. And so I'm very happy to see u the Alistister back with us again. So just just a real quick just I I was just talking about something that President Trump had in truth social this morning where he's saying there will be no tolls ever sought by the Iranian side.
@@ -106,7 +114,7 @@ you know, by coincidence, those happened to be the people that were assassinated
 >> Well, he wasn't wasn't far off. It was 18 million, but they all went to China [laughter] on Iranian bankers. That's the only problem. They didn't end up in Europe um in the Western economic sphere. Um let me just say from the beginning the Iranians have always understood stotood um that you know we're at the point where the now in probably the next uh two weeks or so where the shortages will really start to impact supply lines tankers um sailings and all all these things.
  So peak leverage for the Iranians as they calculate it roughly. I mean this is not being done quite in these terms but they would say that um uh
 
-### Peak Leverage — China Oil and IRGC
+### Segment 5 — Iran Trump Russia
 
 peak leverage doesn't come till uh after the summer um until sort of September October then they'll have maximum leverage over the western economy.
  So I mean this was sort of they've been thinking about this for a long time. Uh and so they've worked out you know exactly the leverage. So this is a little bit early for them in many ways. Um because they don't think that you know they have peak leverage just at this moment. But all of this what I'm suggesting is that you know that all of this sounds is it destined is Trump trying to manage the domestic um um push back that he's getting from the neocons which is you know formidable I mean a huge when he says it you know or when Lindsey Graham says he's just
@@ -132,7 +140,7 @@ program that is for sworn a weapons program and it will make certain measures ab
 have been going there to inspect Busher which is a standard I mean it's just a power station um there's no enrichment taking place there it is uh simply delivering power to industry >> well you know that's all these things here whether we're talking about the release of frozen funds how they would be spent u or or these issues here about the nuclear stuff th those are some of the stuff down the road but there's something a lot more uh emotionally important to both uh Iran and Israel and that is something you've written about
 here in your conflicts forum uh and that is about
 
-### Lebanon — Hezbollah Withdrawal
+### Segment 6 — Israel Lebanon Hezbollah
 
 Lebanon. There's a reason why that was required by the Iranian side before they would sign to be number one of all the 14 points about the uh the ending the war in Lebanon. And you write here uh in this article uh which people can go to conflictsforum.
 com I think it is definitely want to send people there. Despite theou guaranteeing the sovereignty and respect uh sorry conflict forum.substack.com thank you for that Gary. Uh despite theou guaranteeing the sovereignty and respect uh for the territorial integrity of Lebanon, skirmishes in Lebanon will clearly continue.
@@ -161,7 +169,7 @@ acting for it and saying that this whole um you know onant with Iran is a disast
 >> I do. I do. Yeah. A lot of other people do too. So, I'm very doubtful that that's going to happen because a lot of people are against it. Listen, uh that's bottom line is that there's not a lot of prospect that uh uh that I don't think anyone should have any real hope that 60 days is going to keep the straight of hormones open, that everything's going to turn back to normal.
  We're all going to live happily ever after. We'll see how bad it may get. Uh but in the amount of time we have left, I don't want to let you go before we touch on one other really big issue that's not getting much press because of all this stuff in the Middle East, and that is in the
 
-### Russia Ukraine — Escalation Risk
+### Segment 7 — Russia Europe Ukraine
 
 Russia Ukraine war.
  Now, there have been some developments here recently. Uh let me just run through a couple of quick headlines. Um, first of all, Voteir Zalinski has been getting a lot more cocky in his words and his actions. Uh, and he's been saying things like Moscow will burn if Russia doesn't do what he says. And he has made good on that. You see that inset picture there.
@@ -202,7 +210,7 @@ But but really, I mean, the fact that no one says anything and that Europeans ju
  Um there is no reason why now that Russia should observe all the norms as they previously have been doing. >> Uh now that's also very concerning because they may be following in our footsteps which is some bad footsteps. You you say nobody's talking about this not many in public. There has been one though and that was on our show just yesterday and I'd like your view on this because it it really surprised me.
  Uh we had a former British diplomat
 
-### Europe — Long-Range Missiles and Ian Proud
+### Closing — Europe Ukraine Russia
 
 Ian Proud on who served in Moscow for a number of years in the past before he retired uh from the diplomatic service and he kind of surprised me because he said he is now concerned that there's a growing probability I think is the word he used that the the Russians may use a tactical nuclear weapon inside of Ukraine as a pre as a precursor to potentially going into Europe as you mentioned here.
  Uh and he said he was growing concerned that there was a higher probability of that. How do you view that? >> Well, I mean, I ju I just don't think that any of us have uh that sort of inside knowledge about what actually is the the the tactical military decisions being taken uh now, but I think the outline of them is pretty clear.

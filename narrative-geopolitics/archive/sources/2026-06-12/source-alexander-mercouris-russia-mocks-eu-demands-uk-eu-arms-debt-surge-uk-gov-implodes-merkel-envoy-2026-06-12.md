@@ -1,5 +1,6 @@
 ---
 
+
 ingest_date: 2026-06-12
 pub_date: 2026-06-12
 kind: cleaned-transcript
@@ -26,10 +27,9 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: paste-prefix
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 0 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Scoff/Scorf, Zelensky/Zelensky, Sti Caravan, Konstantinovka, etc.). Duran subscribe/shop close retained at tail per paste. Routine Mercouris solo subscribe/platform close trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 0 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Scoff/Scorf, Zelensky/Zelensky, Sti Caravan, Konstantinovka, etc.). Duran subscribe/shop close retained at tail per paste. Routine Mercouris solo subscribe/platform close trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-07-09 (8 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
 mercouris_close_promo_trim_applied: true
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -38,6 +38,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 8
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Russia Mocks EU Demands; UK/EU Plan Arms Spend Debt Surge; UK Gov Implodes; Merkel For Russia Envoy
 
@@ -49,7 +52,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Russia Ukraine
 
 Good day. Today is Friday 12th June 2026 and this is another program which I'm making from Russia from uh Scoff region where I have been attending a conference um discussing various matters related to contemporary events. I made um my own presentation um at this conference yesterday. Um, I understand that it was videotaped.
  Um, I've been promised that I will be provided with a copy of the video and um, once it is available, if it ever does become available, I will pass it on to Alex and ask him for to publish it on Substack on our Substack site, the Duran Substack site, where you will be able to see it and judge the presentation for yourself.
@@ -61,7 +64,7 @@ wipe out the entirety of Iranian civilization. Anyway, he has taken us to the br
 It is located very close to the border with Estonia and um it has as I said uh military connections which go back centuries. It's the sort of place which you would imagine given that it is roughly on the front lines would be exposed to some level of attack from Ukraine, drone strikes or something like that. If one were transported here and one was not aware that there was a war going on um in Ukraine with Russia involved, there would be no sense that this country is actually at war that it were that is immediately visible. One does
 not see large numbers of uh men in uniform certainly not large numbers of armed men. Um security has been tightened and you can see this in many places
 
-### Segment 2 — And Um One Gets Sometimes
+### Segment 2 — Russia One Has
 
 and um one gets sometimes one is asked to show one's passport or identification documents. But in Russia, when anyone who's been traveling in Russia, this has actually always been the case to some extent.
 Perhaps the requests are made somewhat more often and have become more intrusive, but not to any extraordinary degree, and the guards and security people remain polite. economic activity continues as normal. The shops are full. There's no shortage of gasoline. Um, there are very few public signs about the war.
@@ -74,7 +77,7 @@ Here I do detect some differences. There are certainly some people who have very
  But um as I said about Russia's future direction, about how it should develop and the direction in which it should go. Yes, about that. I do get the sense that there are some very important discussions taking place, but that is something I'm going to discuss in more detail perhaps um when I return to London.
  Anyway, that's my general impression of the overall situation here. Um to repeat once more um a superficial impression would be that this is very much still a country at peace. In many
 
-### Segment 3 — Respects It Is A Country
+### Segment 3 — Russia Europe Ukraine
 
 respects it is a country at peace. I said that there are few visible signs of the war. Um, compared again to the monuments, commemorations you see everywhere of the second world war of the great patriotic war as it is always referred to here in Russia.
  I mean the conflict in Ukraine is invisible but beneath the surface discussions do take place but this wavering these doubts about the war that some people are talking about of that I see no sign. Well, on this issue, um, the Russian Foreign Ministry spokesman has now discussed the five-point statement that the European powers and Zelensky um, issued following the meeting which took place a little while ago.
@@ -87,7 +90,7 @@ And they say that the sanctions will remain in place and the assets will still b
  if that proposal for dialogue and negotiations with the Russians had been accepted. This is of course before the special military operation took place. Uh Gabriel made the entirely valid point that all the European leaders apart from Macron um strongly opposed the initiative for negotiations with the Russians. Um there was fierce opposition from Poland, some of the East European countries, the Scandinavians and the Baltic states.
  Um and Merkel also faced staunch opposition from the then prime minister of the Netherlands, Mark Gutter, who is of course now NATO's Secretary General. Now, many of these people who back in the summer
 
-### Segment 4 — Of Were Categorically Rejecting Negotiations
+### Segment 4 — Europe Ukraine Russia
 
 of 2021 were categorically rejecting negotiations with the Russians. Now, admit that negotiations with the Russians are necessary.
 And Gabriel says, "Wouldn't it have been altogether better if Merkel's proposals for negotiations, which by the way in 2021, would certainly have been about Ukraine, but also about the general security architecture in Europe, wouldn't it have been better if Merkel's proposal for negotiations back in the summer of 2021 one had been accepted.
@@ -100,7 +103,7 @@ And Putin believes that Merkel was central to that deception. Sending a person a
 Indeed, Bernham has essentially said as much. So given that Starmer is intensely unpopular here in Britain and given that the Labour Party itself has come to realize that he is deeply unpopular and is going to lead Britain the Labor Party at least to an overwhelming defeat in any election in which he is still leading the Labor Party.
  Well, given all this, given that all this is so, um, Starmmer's position already badly weakened by the Mandlesson scandal is now becoming very, very fragile indeed. And no one that I know expects him to remain prime minister for very long. But well, he's now had to face the public resignation
 
-### Segment 5 — Of His Defense Secretary John
+### Segment 5 — Europe European Union Russia
 
 of his defense secretary, John Healey, and the assistant defense secretary, Mr.
  Khn, about whom I know very little except that he is a former soldier. And both of them have resigned from the government. And both of them are complaining that the reason that they've resigned is because Britain is not spending enough on defense. They want billions more to be spent on defense.
@@ -114,7 +117,7 @@ given that if Britain is pooling debt with the European Union then well it is no
 So without that technology and industrial base which would take at least a decade probably much longer to rebuild. All talk about rearmament is a fantasy. One would have to rebuild shipyards factories. One would have to set up laboratories to design these weapons. One would have to train engineers and skilled workers to make them.
  One would have to source the machine tools,
 
-### Segment 6 — Work Out The Supply Chains
+### Segment 6 — Russia Europe Economy
 
 work out the supply chains. This is an enormous project that no European government seems to want to acknowledge or appears to have any kind of expertise in. If Healey and Khn's were to get their way, Britain would increase its debt. Welfare spending would probably be cut and there would be very few weapons at the end of the process.
  We would end up essentially in the same position that we are in now. The reality is that the Russians can increase weapons production. Their economy is geared to do this thing. They're able to do it. And as I have seen now that I'm here, they're able to do it without their economy experiencing any real stress. There are no none of the signs here that one would associate with an actual war economy what people constantly claim Russia is.
@@ -126,7 +129,7 @@ work out the supply chains. This is an enormous project that no European governm
 Europe is in and the need to rearm to counter all the enormous threats to European security that supposedly exist. one way to deal with the real problem of an actual war that is taking place in Europe, which would be to negotiate with the Russians in a serious way by making realistic proposals, maybe proposals, finally acknowledging that the best way forward for Ukraine would be for it to become neutral and to see its armed forces reduced.
 Well, that sort of thinking of course in Europe does not exist and I don't expect to see it. Anyway, that's uh my points about the situation in the in
 
-### Segment 7 — The World Of Global Diplomacy
+### Segment 7 — Russia Ukraine Say
 
 the world of global diplomacy. Now today I should say that um the war um in Ukraine continues and um there's been more information from the battle fronts and I'm going to wrap up what is going to be a particularly short video today um by briefly touching on it.
  Firstly, our old friend Andre Marodsko says that the Ukrainian army has withdrawn from the village of Sti Caravan. This is a village located to the west of Leman. He said that the Russians have not yet occupied this village which remains in the gray zone but their advanced units have now penetrated west of Sti Caravan. Now, if so, that means that must mean that Leman is indeed about to fall because the Ukrainian forces in Lyman with the Russians located essentially in their rear.
@@ -138,7 +141,7 @@ itself. Well, that is um Marat Khairullin. I consider his reports to be perhaps 
  Um he makes the point that the Russians actually appear to have drone dominance on the front lines. The Ukrainians have indeed been attempting to interfere with Russian logistics on the Novorosia highway. I've already discussed this in several programs and have said that in my opinion the effectiveness of Ukrainian drone attacks on that highway has been overstated and that the logistics of the Russian army have been mostly unaffected and that this is more about trying to squeeze Crimea where an appalling thing was done by the way which is an attack on a museum
 building um which housed
 
-### Segment 8 — A Famous Painting Of The
+### Segment 8 — Russia Ukraine Painting
 
 a famous painting of the Russian army defending uh Sevastapole during the um Crimean War. Um anyway, um that painting by the way has been almost completely destroyed. The Russians say that it had been digitalized, digitalized, in other words, that they have a um very precise electronic copy so that they can recreate it, which is presumably what they're going to do.
  But anyway, um it seems to me that the Ukrainian objective has been to squeeze Crimea and its population rather than really to disrupt the situation of the Russian army in Zaporozhye region where the Russian army for the record appears to be continuing it continuing its advance towards Oraov. So, um, this blogger, Events in Ukraine, is more skeptical about, um, all these claims about Ukraine successfully disrupting Russian logistics.

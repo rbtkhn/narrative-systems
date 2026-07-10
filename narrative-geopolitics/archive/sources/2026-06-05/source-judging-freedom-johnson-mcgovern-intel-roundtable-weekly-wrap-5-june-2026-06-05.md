@@ -1,4 +1,6 @@
 ---
+
+
 ingest_date: 2026-06-05
 pub_date: 2026-06-05
 kind: cleaned-transcript
@@ -23,17 +25,27 @@ evidence_grade: transcript-bearing
 quality_note: ASR normalization pass 2026-06-15; ph-civ replacement SSOT.
 opening_tier: full-scaffold
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: AI-assisted ASR repair (common + series tiers + statecraft entity pass); 26 substitutions; not human-verified verbatim; verify before quotation. Ideological cold open trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 26 substitutions; not human-verified verbatim; verify before quotation. Ideological cold open trimmed in place; SSOT body otherwise preserved.\\\" · source-section pass 2026-07-09 (8 sections)."
 napolitano_cold_open_trim_applied: true
 napolitano_leading_noise_trim_applied: true
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 8
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # INTEL Roundtable w/ Johnson & McGovern : Weekly Wrap 5-June
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Trump Iran White House
 
 Hi everyone, Judge Andrew Npalitaniano here for Judging Freedom.
  Today is Friday, June 5th, 2026. It's the end of the day, the end of the week, our favorite time, our favorite airing of the intelligence community roundt with my two longtime friends and collaborators, Ray McGovern and Larry Johnson. Guys, welcome here and thank you for all the extra time this week. Uh, Larry, triple duty uh for you.
@@ -44,7 +56,7 @@ Larry, let me start with you. Of course, I have to go to Iran and nukes. >> Yep.
 Not but not only that, Robert Barnes then verified that it was true via his White House sources. >> Correct. Robert will be on with us next week. You're right. He did say that. >> And then on top of that, we have seen a dramatic 180Â°ree in Donald Trump's his social uh media posts and what he's saying in public about Iran.
  I mean, you know, three weeks ago he's calling Mustava Kami a homosexual and threatening to obliterate civilization. Now he's saying, "Hey, I look forward to meeting with the guy." And you're going, "Okay, what's going on?" And apparently, according to Robert, it was that warning that was passed to the United States visav
 
-### Segment 2 — Uh The Pakistani Foreign Minister
+### Segment 2 — Trump Iran Nuclear Weapon
 
 uh the Pakistani foreign minister came from the prime minister to the foreign minister that the United States took it seriously.
  So, you know, that's >> we we have we have a a great cut. I'm going to go to Ry first. We have a great cut from the military adviser to the Supreme Leader, pretty critical of the United States. But before we go there, uh Rey, our mutual friend whom we love very much, Colonel Lawrence Wilkerson says that Pakistanis offered a deliverable nuclear weapon to the Iranians.
@@ -55,7 +67,7 @@ This will not happen. Right now, we are in the first stage of negotiations and M
  if he wants to reach an agreement with Iran. This $24 billion is a test of trust that Iran wants to have with Trump. This is a test that America must pass and the path will be opened. This is our own money, not America's money. It >> is true that it is their money and not America's money. But Larry, have they added a demand to a memorandum of understanding leading to a ceasefire or was this always something they were demanding? >> Oh, this was always there.
  And I am going to quote Ray McGovern. Listen to what they say because they mean what they say. >> So it's not comp, you know, this
 
-### Segment 3 — Isn't Trying To Turn Analysis
+### Segment 3 — Netanyahu Trump Iran
 
 isn't trying to turn analysis into algebraic and and calculus equations. Listen, listen to what they say. He's very He's very direct, Ry. There's no question about that. >> Ray, >> pardon. >> I said he's very direct.
  There's no question about that. But he's saying the negotiations are at a standill stand still. The US claims that uh uh the two real estate agents are back in the thick of things. And he says they're at a standstill until America agrees to release the 24 billion. It must be in American banks. >> Well, it takes two to tango.
@@ -66,7 +78,7 @@ isn't trying to turn analysis into algebraic and and calculus equations. Listen,
  Jeff believes, I hope it's not wishful thinking, but I believe he's intellectually honest, that if Trump wants a peace deal and Netanyahu tries to wreck it, Trump will lower the boom on Netanyahu. Larry, yeah, that Trump has the ability to lower the boom. He has the leverage to lower the boom. Now, the question is, uh, does he have the spine, the backbone? That I don't know.
 He's he's resembled more of a jellyfish of late and and has refus
 
-### Segment 4 — Been Very Uh Subservient And
+### Segment 4 — Iran Trump Hormuz
 
 been very uh subservient and responsive to his Zionist owners particularly Mrs. Aden uh and Paul Singer among two this you know look this all I can note is in the last 36 hours we've had a lot of quiet you know in the preceding days like Monday well actually going to last week so the reason this whole you know that report about Iran threatening to detonate a nuke got spun up was because the United States was initiating attacks they they bombed Bandar Abbas a port they blew up
 uh two uh small naval craft, the speedboats, they're killing four sailors. They hit targets on Keshum Island. And so it was out of that that the Iranians were, you know, they were outraged. Uh and then they started hitting back and and but and so the last big dust up we had was I think it was Wednesday, uh at least Wednesday morning in Iran time.
@@ -75,7 +87,7 @@ uh two uh small naval craft, the speedboats, they're killing four sailors. They 
  It was sent as warning shots. We haven't had any other back and forth so far today. Knock on wood. So that that tells me that there is something to the the negotiations that are underway that I think the good general may not have been privy to. But uh he was he was correct in laying out the points that are important for Iran, but this this unnatural quiet I and I hope it continues could signal that they are in actual discussions.
  I'm going to play a clip from the general on Israel, but before we do, Rey, we know before I do, um, we know that President Trump has painted himself into a corner. He can't find an off-ramp. The American public finds this deeply, uh, unpopular, the war. It's about to be the vacation season, and
 
-### Segment 5 — Millions Of Families Will Be
+### Segment 5 — Trump Iran Netanyahu
 
 millions of families will be driving in their cars and paying twice to fill up the cars.
  what they paid last summer and then they're going to come home and vote now he's got to do something. Has Netanyahu also backed himself into a corner. Can he agree to a ceasefire? What will he do if Trump decides to stop the fighting? >> I would suggest that there are different corners that they back themselves into. >> Right. >> For Netanyahu, it's an existential thing.
@@ -86,7 +98,7 @@ millions of families will be driving in their cars and paying twice to fill up t
  Trump must make decisions independently of Israel. He must give what is the rights of the Iranian people and stop the blockade, release our frozen assets. And this can be a new horizon for the future of Iran and America. Therefore, Trump must put aside his personal interests and think about the interests of the American people. If Trump has the courage, many issues will be resolved in the future.
 Yeah, >> he's right, Larry. >> Oh, yeah. Listen, the u Iran has thought this thing through fairly clearly and but we are seeing something historic, judge. Uh never in the history since the creation of of Iran 47 years ago has the Iranians stepped up and said, "If you're going to end this war,
 
-### Segment 6 — It's Got To Stop In
+### Segment 6 — Netanyahu Lebanon Israel
 
 it's got to stop in Lebanon and Palestine as well.
 " We've not had any other country in in history in modern history that stood up and made such a bold direct statement linking their own security to that of the people of Lebanon and the Palestinians. And so that I think that has started to resonate. Uh we saw a little bit of that with the Saudis where the you know the Trump administration was pushing them to sign back on to the Abraham Accord.
@@ -97,7 +109,7 @@ it's got to stop in Lebanon and Palestine as well.
 >> I don't know you very well. I have to tell you, every once in a while, one of the chatters will say, "Can you ask Larry to turn around? Does he have a ponytail?" No, Larry does not have a ponytail. Apparently, you had one at one point, but no. >> Yeah. No, but but you know, my father and I reconciled, but I also I just I didn't surrender, right? >> But but it was an important lesson.
  Hey, you want to be on your own, you want to be independent, then be independent, but you know what? You gota got to get that got to work and got to do a lot of other things. So, >> Israel needs to grow
 
-### Segment 7 — Up I Want To Jump
+### Segment 7 — Russia Economy Ukraine
 
 up. I want to jump to Ukraine, Rey. Are the Russians weary of war, the Russian people? And if they are, is this a problem for President Putin? Um, everyone's weary as they enter the fifth year of this kind of war.
  Uh, the way Putin has played it has been very clever. He's not he's he's damped down the weariness by damping down casualties. Uh the Russian people are living quite comfortably. Most of them have had raises and are living okay. So it's an exaggeration to say that he has under a lot of pressure to end it. Nevertheless, he's going to end it.
@@ -107,7 +119,7 @@ that goes for the Russian economy's death, too. >> I'm going to play a clip now.
  Here is President Putin at the St. Petersburg Economic Forum asked about the letter. Chris, >> so we shouldn't be addressing the authors of the uh of this letter, the ones to be addressed, our combatants, our soldiers at the line of contact. and I'm addressing them and I would like to tell them comrade soldiers and uh seammen and sailors admirals generals officers the country's gazes are fixed upon you the country is proud of you and places its hopes on you keep working brothers >> so I'll take that as a know that you are not going to meet the
 author of the letter. >> So far, I see no point. >> He is so careful in choosing his words. But Larry, whatever happened to the massive response, military
 
-### Segment 8 — Response We Were Expecting Uh
+### Closing — Russia Girls School
 
 response we were expecting uh on account of the Ukrainians attacking the girls school and killing 25 school girls? >> Well, actually they they have been fairly very significant missile strikes and a large number of uh hypersonic missiles not usually used.
  In fact, the other day, uh, a report that they hit an SBU headquarters, killing 30, uh, Ukrainian intelligence officers and killing seven CIA officers. Uh, that was the the report from the scene. Now, it hadn't been validated by the US, but I I think that, and I'll defer to Rey on this, but I'm pretty sure the language that that uh Putin used, keep working brothers, that's an important phrase.

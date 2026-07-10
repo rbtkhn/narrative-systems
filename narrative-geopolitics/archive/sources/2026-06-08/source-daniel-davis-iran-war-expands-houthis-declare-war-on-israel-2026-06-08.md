@@ -1,5 +1,8 @@
 ---
 
+
+
+
 ingest_date: 2026-06-08
 pub_date: 2026-06-08
 kind: cleaned-transcript
@@ -23,9 +26,8 @@ channel_url: "https://www.youtube.com/@DanielDavisDeepDive"
 evidence_grade: transcript-bearing
 quality_note: ASR normalization pass 2026-06-15; ph-civ replacement SSOT.
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: AI-assisted ASR repair (common + series tiers + statecraft entity pass); 16 substitutions; not human-verified verbatim; verify before quotation. Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 16 substitutions; not human-verified verbatim; verify before quotation. Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved.\\\\\\\" · source-section pass 2026-07-09 (9 sections)."
 davis_close_promo_trim_applied: true
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -34,6 +36,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Iran War Expands, Houthis Declare War on Israel
@@ -45,7 +50,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Israel Iran Ceasefire
 
 The ceasefire in the Iran war was broken first by Iran, then by Israel, and then both kind of went back to a ceasefire, only we don't really know for sure where it's going to go. And where is all this going to lead to? What is going to happen next? And then, by the way, the war could also be uh horizontally expanding.
  It's gotten a little bit bigger than it was before. and we're going to try and sort out all the this that's going on to try to figure out what in the heck happened and what is going to happen next. Let's take a look first of all at what did happen over the last few days. Uh a number of strikes happened. You see there on the upper leftand corner um first of all on Sunday Israel struck the outskirts of Beirut after it said Hezbollah attacked Israel.
@@ -56,7 +61,7 @@ Now, of course, Lebanon and and Hezbollah is really the central part of the whol
  They want the war to escalate. So they have been taking actions specifically designed to retal to cause a retaliation by Iran. They knew that if Iran struck them and then they hit Iran back then there would be a chance that the war could uh expand back again. Now it didn't work out the way that they thought exactly.
  At least it hasn't so far. Let me make a very clear point at the beginning here that this ever this this situation right now is very very tenuous as it really has been since the war opened up and since the ceasefire sort of went in at about the 40-day mark. Um and we're at the 90s something
 
-### Segment 2 — Day Mark Today No I'm
+### Segment 2 — Iran Israel Trump
 
 day mark today. No, I'm sorry.
  We're at the 101st day mark today. So, we're actually more in the shaky ceasefire than we were in the the hot phase phase of the war at the beginning. But Trump has been trying to get this off the table because he knows the economic damage this is causing to the United States and the difficulty that's going to cause him politically uh come the midterms etc.
@@ -69,7 +74,7 @@ day mark today. No, I'm sorry.
  That's how diplomacy works. That's how negotiations work. You have intermediaries. You pass notes back and forth and messages and that is going on. So there is some diplomatic activity. But we are so far apart on what each side is willing to accept. That's why Iran is not even wa wasting their time. So they say to meet with us in person because they until they can or unless they can close the gaps there's no point in meeting.
  More on that in just a second. So that's where President Trump was initially telling Iran, okay, you you've done your part and now he was also telling simultaneously the Iran Israeli side, okay,
 
-### Segment 3 — Don't Shoot Your Missiles And
+### Segment 3 — Iran Israel Trump
 
 don't shoot your missiles and let's keep this thing going because I want it to come to an end. And so, President Trump urged Netanyahu and according to that sub headline there, he told Netanyahu not to retaliate as the IDF said it was ready to hit back with determination.
  But of course, as we all know, Iran launched strikes on Iran anyway. And then Tan fired barragees back. So, you had a tit for tat going back on again. Now, this morning, uh, President Trump, first of all, at 5:30 a.m. put put a true socialist says, "Israel and Iran must immediately stop shooting." I never understand why he puts quotes around words like that.
@@ -82,7 +87,7 @@ So, apparently he does have some influence, uh, belatedly so. Mr. Trump in in Mr
  Now the Iranian side says that it signaled it will halt strikes against Israel hours after the attack. But then we continue to look a little bit further about why they said that. And this there comes with a big caveat said Iran's again from New York Times. Iran's revolutionary guard corps signal that Iranian forces had concluded the latest military operation against Israel according to the statement issued by one of its top command forces.
  Uh the statement which was issued Monday carried uh by the IRIB, Iran state broadcaster, described the
 
-### Segment 4 — Iranian Operation As A Response
+### Segment 4 — Israel Iran Lebanon
 
 Iranian operation as a response to Israel's recent military actions in Lebanon, which we had already known, but this is the key part. It threatened to resume attacks if aggression and hostile acts continue, including in southern Lebanon.
 Now that's important uh because they they specify southern Lebanon also because the Israel has been doing a lot of stuff in southern Lebanon against Hezbollah in particular uh but the the the red line trigger seemed to be firing in that particular suburb of Beirut which Israel finally crossed that line and then Israel Iran responded uh accordingly.
@@ -95,7 +100,7 @@ An Iranian official linked with the talks between the US and Iran has sent me a 
 So you see within just a matter of of a few hours this morning, you have President Trump saying a deal is at hand. We are in the final stages and then you have the Iranian side publicly saying there is no negotiation. We are not close to anything because we have no trust in the United States or Israel. And again, I keep saying this over and over and is now manifesting itself again before your eyes.
  If you don't have trust, even among an adversary, even somebody you hate, if you don't have trust, you can't reach a deal. You
 
-### Segment 5 — Can't Even Get Something That
+### Segment 5 — Iran Trump Jcpoa
 
 can't even get something that you want. If a negotiation, a genuine negotiation is you have to be able to give something in order to get something. You also have to have some trust on from the other side that whatever you give, you're going to be good to your word and that they will be able to get the thing that you want to give so that they can give the thing that you want.
  So if you want to accomplish something, if you're in desperate need to get something off the table, then you've got to build trust. And therein is the real problem here, too, because Iran has made a path to that. They say there's a way for you to build trust. There's several things that we need, and we need them upfront. We need uh immediate release of $ 24 billion of our frozen assets.
@@ -106,7 +111,7 @@ after all those things up front because they said there is no trust. You just he
  No, this is much better. >> Yeah, they they they weren't ready then. Of course, that that's absurd on that last part there where uh Kristen Welker was asking him, you promised when you got out of the JCPOA in 2018 that you were going to renegotiate a better deal and she was trying to press him on that. Now, I'm going to show you here subsequently that that started an agitation.
  This was along the the whole the whole interview that was published by NBC was about 39 minutes and it got it gets pretty testy at the end. You'll see here shortly. uh but you could see it was already starting right then when she's pressing him on this is
 
-### Segment 6 — What You Said Before And
+### Segment 6 — Economy Hormuz Trump
 
 what you said before and then you didn't do it so why are you going to do it now and he said well it takes a lot of time to do that then he goes into this a lot of stuff about the Vietnam war taking 19 years and several other things hopefully he's not talking about that here 19 years would be kind of problematic uh
 anyway so the the point being though at this at the front end of that soundbite you heard him say no just just categorically no I'm not going give anything to them up front and then he goes into this long thing. And again, I keep talking about how he's digging his own grave here and making it more difficult by continually going back to Obama giving this 1.
@@ -118,7 +123,7 @@ although they matter too. But if if the very fundamental issues that Iran has ju
  Now imagine if you're the other negotiating partner because why would you do that with the control of the straight of hormuz knowing the significant consequence this is having for the global economy and for the American economy and the pressure you're putting on President Trump domestically. Why would you say you know what okay fine we're tired of this because we're getting hit a lot with your blockade too. It's really causes pain.
  So okay I tell you what we'll trust you one more time. We'll give you all the things you're asking for upfront and just hope that you do what you say on the backside. Even though he's the one that tore up the deal in 2018, even though he's the one that went
 
-### Segment 7 — To War In In But
+### Segment 7 — Iran Trump Hezbollah
 
 to war in 2025, in 2026, but sure, we'll try. No one's going to do that.
  Nobody who has the leverage that they have with Straight Hormuz is going to give that up. So, that's where we are. We are back at square one, back where we were at the beginning uh on the 40th day of the war with the ceasefire looking for an end that there's not there isn't one. There is still no prospect for one because President Trump is is basically putting it off taking it off the table by precluding the one thing that could actually start a genuine negotiation.
@@ -130,7 +135,7 @@ So now then they're their whole they've activated almost their entire axis of re
  Everybody else realizes they're in a stronger position. And I think that the other other elements of this axis of resistance are saying, "Hey, I think maybe Iran's going to come out on top of this. This may be the time to join in with them and do something about it." So the question is going to be what is Iran what is what is Houthie going to do? Because if they close down the Baba Mandab, which is the the other straight on in the Red Sea, if they if they do what they have said here and they said no, no Israeli backed ships are going to go through and if
 they say no, if they define that as any kind of like oil that's coming through, because remember a whole bunch of Saudi oil and some of the other uh Gulf GCC countries oil has been going out through a pipeline into the Red Sea out through the Babala Mandab. I believe that somewhere between 3 and 4 million barrels a day comes out of that.
 
-### Segment 8 — If The Houthies Shut That
+### Segment 8 — Israel Hezbollah Trump
 
 If the Houthies shut that down and don't allow anything to go through there, if we have the same situation straight of Hormuz, now it's not around 12 million barrels a day, but now it could be around 15 million barrels a day of oil that don't come out. We'll see what happens with that. It's a statement so far.
  I haven't seen any physical action so far. But if they shut that off as well now, then the pressure on both the United States and the the whole region is going to accelerate even more and it's going to become more urgent to get this thing over with. So that could really throw a monkey wrench into all of this. So the bottom line to everything is here you have shows just how tenuous all of this fighting is because all this this whole war situation because we've been in a quasi ceasefire which we sometimes violate sometimes the
@@ -141,7 +146,7 @@ Iranian side does uh and you see sometimes the Israeli side does. So there's bee
  And and he doesn't have any kind of an actionable ex uh plan for it. He just has an aspiration. And then you see what we did show you is that the very things that is necessary as a preerequisite he won't do. So he is boxing himself in all over the place while the the oil still stays off the global market. And of course, the only reason why the oil has the oil price has not spiked up through the roof so far is because of a combination of a lot of strategic petroleum reserves and other stories around the world flooding the market to
 try to make up for some of the loss out of the out of the straight. Um, and then actually some some interesting demand destruction where China is using less energy. So, they're not even needed. So, those combination things has kept a lid on it. So it's it's went
 
-### Segment 9 — From Whatever It Is Low
+### Segment 9 — Trump Israel Hezbollah
 
 from whatever it is low 60s up to the current mid 90s I think as it is at the moment but that's obviously is a problem but when those SPRs run out and God help us if also the Baba is add to the problem here because now then you can't hide it once the SPRs run and apparently that could
 happen this month this month some of them are going to be running so low that they'll effectively be out and then you can't hide it anymore and then it won't be a matter of manipulating the markets and making the paper price one thing because there just won't be enough physical oil. You can't print oil.

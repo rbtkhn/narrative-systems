@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-30
 pub_date: 2026-06-30
 kind: transcript
@@ -23,11 +24,22 @@ evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: paste-prefix
 normalization_state: raw_operator_paste
-editorial_note: Operator-pasted YouTube transcript; ASR artifacts retained (Mir Shammer, Hegsith, Posseskian, etc.). Not human-verified verbatim. Ideological cold open trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved.
+editorial_note: "Operator-pasted YouTube transcript; ASR artifacts retained (Mir Shammer, Hegsith, Posseskian, etc.). Not human-verified verbatim. Ideological cold open trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved."
 quality_note: Initial land 2026-06-30 via land_statecraft_source_body.py; operator paste.
 napolitano_cold_open_trim_applied: true
 napolitano_close_promo_trim_applied: true
 napolitano_leading_noise_trim_applied: true
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: preserved_unsectioned
+section_count: 0
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Prof. John Mearsheimer: Making Sense of Iran's Victory

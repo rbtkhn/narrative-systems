@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-29
 pub_date: 2026-06-29
 kind: cleaned-transcript
@@ -29,11 +30,21 @@ napolitano_cold_open_trim_applied: true
 napolitano_close_promo_trim_applied: true
 napolitano_leading_noise_trim_applied: true
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (johnson, channel:judging-freedom)); 8 substitutions; not human-verified verbatim; verify before quotation. · manual ASR spot-fix 2026-06-29; pass-2 residual. Prior provenance: Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio. Ideological cold open trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. Canned sponsor read trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-29 (11 sections). · interview speaker-label pass 2026-06-29 (45 turns; Andrew/Larry >> markers) · source-section pass 2026-06-29 (11 sections; Putin/Ukraine/MOU clause-5/Hormuz/SPR arc)"
+editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (johnson, channel:judging-freedom)); 8 substitutions; not human-verified verbatim; verify before quotation. · manual ASR spot-fix 2026-06-29; pass-2 residual. Prior provenance: Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio. Ideological cold open trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. Canned sponsor read trimmed in place; SSOT body otherwise preserved. · interview speaker-label pass 2026-06-29 (45 turns; Andrew/Larry >> markers) · source-section pass 2026-06-29 (11 sections; Putin/Ukraine/MOU clause-5/Hormuz/SPR arc)"
 manual_asr_spot_fix: 2026-06-29 — Kiev/Kharkov/Donetsk, Peskov/Lavrov/Gerasimov, Al Udeid/CAOC/Ali al-Salem/Isa, Hegseth, Crooke ref, marinetraffic/Qeshm/Khasab; Jesuid 2006 Iraq ref left tentative · pass-2: Hormuz/Strait dupes, hegemony, Bessent, battlespace, Iraq Kurds, petrochemical, Fujairah, waive, Peskov, Ponzi dupes, tour de force
 quality_note: ASR normalization pass 2026-06-29; ph-civ replacement SSOT.
 napolitano_sponsor_trim_applied: true
-transcript_curation: curated_sectioned
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: preserved_unsectioned
+section_count: 0
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Larry Johnson: Is Trump's MoU Unraveling?
@@ -46,8 +57,6 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Putin Warning And Barbarossa Parallel
-
 **Andrew Napolitano:** Hi everyone, Judge Andrew Napolitano here for Judging Freedom. Today is Monday, June 29th, 2026. Larry Johnson will be with us in just a moment. Is Donald Trump's memorandum of understanding unraveling? Larry Johnson, welcome here, my dear friend. Before we get uh to Trump's memorandum of understanding and the Strait of Hormuz moves, why do you think President uh Vladimir Putin felt the need very ostentatiously last week to tell Europe that Russia's ready for war with it?
 
 **Larry Johnson:** Well, because Europe keeps talking about going attacking Russia. And Putin in his speech, it was on June 23rd, to the the graduating classes, think of it as the the West Point, the Naval Academy, Air Force Academy, FBI Academy, and the CIA uh officers all coming together to listen to a speech from the president. And and Putin made it very clear. He drew the parallels with Operation Barbarossa, which was the invasion of the Soviet Union by the Nazis on June 22nd, 1941. And he he basically said that we're in a parallel universe, but uh emphasized that Russia was ready to confront that challenge.
@@ -57,8 +66,6 @@ So they're Russia I think fully the attitude that's being reflected is one that 
 Uh there were reports uh more than a week ago about a week and a half ago actually of uh that the Brit that the Brits sent a cargo of radioactive material into the port of Odessa. Uh the Russians followed it. They didn't take it out right there. They followed it to Kiev and they they they blew up the site at which it was stored and there was report of background radiation went up fairly significantly in the area. the the West is playing with absolute nuclear fire
 
 **Andrew Napolitano:** figuratively and uh and literally. Uh our friend and colleague who was on right uh before you uh Alastair Crooke is of the belief that after Trump's failure uh in Iran, he may pivot to start getting more uh active and aggressive in some way in Ukraine and Russia.
-
-### Honest Brokers — Anchorage Dead And Front Shift
 
 **Andrew Napolitano:** But how can the Russians be expected to view the Americans, whether it's Marco Rubio or these two real estate agents, Witkoff and Kushner, as honest brokers when the United States is actively helping Ukraine fight the war?
 
@@ -70,22 +77,16 @@ And and it it implies that you know that if they just get rid of Putin, boy, eve
 
 **Andrew Napolitano:** He's what Putin is is the brakes on a nuclear bomb essentially. uh because there are enough growing number of Russians and Russian politicians, Russian leaders that are insisting that Russia needs to just decimate Ukraine mercilessly. So this is uh you know if you had to weigh the chance for a global war going to break out starting in in Europe or in the Persian Gulf. You know, my money's on Europe right now.
 
-### Kiev Pressure — Gerasimov And Medvedev Brakes
-
 **Andrew Napolitano:** H do you think there's tremendous pressure on uh President Putin to bring the war to a military resolution which would mean a devastating blow on Kiev?
 
 **Larry Johnson:** No, I don't think there's so much pressure. Yeah, I mean, yes, there is pressure, but let's not ignore that Putin is himself angry over this. I mean, he's he's not he's not sitting back saying, you know, let's uh let's go out and put daisies in the barrel of the rifles of the Ukrainians, you know, he's he's become more impatient and um he's relying upon the general staff. Uh I think people need to understand this that Putin is not the one calling the military shots.
 
 Uh he's not Adolf Hitler in the bunker directing armies where they need to go. uh he defers to uh General Gerasimov as far as you guys figure out what the what you need to win this war. Tell me what you need to do. There are some that keep talking about they need to take the gloves off. But uh you know I think the Russia's biggest problem is it is lousy, terrible at information operations. It it you know they don't market themselves in terms of what they're doing. They keep a lot of it quiet.
 
-### Information Gap — Maria And Russia Marketing
-
 **Andrew Napolitano:** Larry. Now, Larry, now you're talking about another friend of ours, Maria.
 
 **Larry Johnson:** Yes. Well, you know, it's not She's the spokeswoman for the foreign ministry, but it's not her job to come up with uh to tell the story of what Russia is actually doing.
  I mean, I've I've talked to uh a couple of the media types and I said, "For God's sake, put together an interactive map that shows from 2022 to now how you've progressed and you keep moving and you keep and the different territories, you got and they go, "Yeah, yeah, maybe we need to do." It's like there are ways to tell their story and they're they're terrible at it.
-
-### Ukraine Money — Ponzi Pipeline To Congress
 
 **Larry Johnson:** Well, and um in the meantime, who's paying American arms manufacturers for American arms being shipped to Ukraine? Are the Europeans uh funding that?
 
@@ -94,8 +95,6 @@ Uh he's not Adolf Hitler in the bunker directing armies where they need to go. u
 It was like a Ponzi scheme and then once they put it in, buy the property then flip it and they'd get a profit out of it and then those proceeds were presented as oh this is the legitimate proceeds from a real estate deal sent to Israel and then from Israel some of that money made its way into the into the pockets of members of the US Congress. Wow. whose names uh you're not at liberty to mention. Wow.
 
 **Larry Johnson:** All you have to do is say who are the biggest advocates for continued war in Ukraine and there you have your money men.
-
-### MOU Violated — Weekend Hormuz Strike Theater
 
 **Larry Johnson:** Wow. Well, the uh memorandum of understanding it's falling apart, is it not?
 
@@ -115,8 +114,6 @@ The problem is the Europeans, some of those, you know, like the Greek ship owner
 
 So, it's like that's not that's not Iran's problem. That's a stupid European problem.
 
-### Clause Five — Sullivan Derivatives And Iran Alone
-
 **Andrew Napolitano:** Right. Right. Here's someone surprisingly who agrees with you. uh former President Biden's uh national security adviser Jake Sullivan. Watch this. Chris, cut number three.
 
 **Larry Johnson:** If you just look at how they work, the wording of the agreements they do, they are highly detail oriented, not just because they're lawyerly, but because they want to extract benefits from those details. Just one example from the MOU, the provision that says the US would waive sanctions refers to oil. And then there's this little clause that says and derivatives. What are derivatives? the petrochemical sector that is the second largest sector in Iran.
@@ -128,8 +125,6 @@ Now, do I think the US really even understood what it was signing with that? May
 **Andrew Napolitano:** alone. And that's what Iran can say, hey, we're acting according to the MOU. There's nobody else mentioned in here. We're given the right to figure out how to do this safely. We're suspend we have suspended tolls for 60 days. And in there, it says 60 days only. After 60 days, they're going to they're going to uh exact tolls out of ships that want to transfer transit the Persian Gulf.
 
 I mean, you look on on every single issue in this, whether it's the first paragraph that the United States blatantly violated by attacking Iran, by using threats, uh, which were prohibited in in that version down to the fifth paragraph where Iran's got the Iran was given the right to figure out how to get ships through the Persian Gulf. Nobody else.
-
-### Insurance Sonar21 — Marinetraffic And Escort Physics
 
 **Andrew Napolitano:** There's uh another player here and you have written about this in a fascinating series of analyses at Sonar21 your website and that's the insurance industry. I mean can any tanker can any owner of any tanker send one of these behemoths through there without insurance?
 
@@ -143,8 +138,6 @@ You can drill down, look at the Strait of Hormuz, and it's like right now it loo
 
 Um so the point uh point of this is Iran's got control over the Strait of Hormuz. The what the United States is actually doing right now there because there are lots of reports that we're building up forces in in the region. No, we're not. the all the air traffic that the people are seeing it is air traffic starting to take US assets out of the Persian Gulf. The United States uh the the uh Pentagon Hegseth signed off on an order I believe 5 days ago that directing the withdrawal of US forces from the region.
 
-### US Withdrawal — CAOC Shaw And Base Evacuation
-
 **Larry Johnson:** Wow. I mean, does the Pentagon understand that a massive US presence in the Middle East is no longer indicated? Does it make any sense?
 
 **Larry Johnson:** Well, it's not there anyway. So, for example, at Al Udeid Air Force Base in Qatar, uh we used which is the largest US military base in that entire region. It has it's been it has been the launch pad for like when I when I went to Iraq uh back in 2006 uh at the at the direction of Jesuid and picked up the plane there and then flew up into Iraq.
@@ -152,8 +145,6 @@ Um so the point uh point of this is Iran's got control over the Strait of Hormuz
 So there's this uh it's called the combined air operation center CAOC in the military speak with the acronym and that combined air operation center controlled all the air traffic all the air what was moving through the air all the way up into the black sea you know down to down south going going uh east to Pakistan Afghanistan and then over to the Mediterranean uh that combined air operations center had representatives from multiple nations uh and they they they were connected to the radar, this billion-dollar radar that used to be at uh at Al Udeid uh and we could tell immediately if there were launches of missiles from Iran.
 
 Well, that radar is destroyed. The radars are destroyed and the CAOC has now been relocated to I believe South Carolina Shaw Air Force Base.
-
-### Economic Reality — Helium Sulfur And SPR Drain
 
 **Andrew Napolitano:** Wow. How do you see this ending? I mean, was was this memorandum of understanding a legitimate launch point toward uh serious negotiations or just a pause in the fighting? It sounds like it's not a pause in the fighting if the fighters are starting to come home.
 
@@ -168,8 +159,6 @@ And then Trump's got the issue with the strategic petroleum reserve is running e
 They don't they don't just throw it in there and then, you know, like a beer tap open, you know, get light beer on one side and you get the Guinness on the other. No, you have to you have to figure out what do we need to make today? Do we need to supply the diesel? need to supply the air uh the jet uh aviation fuel. And again, if the United States was going to step up and continue these intense air operations uh in in the Persian Gulf, that will further drain that.
 
 So, uh it looks like Trump is they're trying to find a way to ease out the Persian Gulf. But from a de facto standpoint, most of the bases that the US once occupied are not occupied anymore because they were too damn dangerous. Wow.
-
-### Derivatives Quadrillion — Inflation And Close
 
 **Larry Johnson:** Does the White House understand what you just explained?
 

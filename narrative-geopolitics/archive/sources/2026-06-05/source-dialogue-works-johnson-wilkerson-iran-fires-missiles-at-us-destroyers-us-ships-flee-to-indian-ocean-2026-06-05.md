@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-05
 pub_date: 2026-06-05
 transcript_type: ai_assisted_operator_pasted_youtube_transcript
@@ -23,9 +24,19 @@ youtube_id: o6b4KXMS1aw
 source_note: "Cleaned transcript pasted by operator. · ASR pass 2026-06-15."
 opening_tier: host-tease
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 23 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Preserve as raw cleaned transcript; verify military, naval, nuclear, Lebanon, and negotiation claims before promotion beyond analyst tier. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 23 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Preserve as raw cleaned transcript; verify military, naval, nuclear, Lebanon, and negotiation claims before promotion beyond analyst tier. · source-section pass 2026-07-09 (10 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Larry Johnson & Col. Wilkerson: Iran FIRES MISSILES at US Destroyers - US Ships FLEE to Indian Ocean
 
@@ -38,7 +49,7 @@ transcript_curation: curated_sectioned
 
 ## Cleaned Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Trump White House
 
 Hi everybody. Today's Friday, June 5th, 2026, and our dear friends Larry Johnson and Colonel Wilkerson are back with us. Welcome back. >> Hi there. Nice shirt, >> Larry. He's just smashing everything here. >> Yeah, >> all the rules. >> I'm a disruptive influence. >> Yeah. I I want to start Larry with you because for the third time it seems that was it was reported that the two American destroyers try to enter the Persian Gulf without Iran's permission >> and then Iranian Navy said they announced that it targeted vessels with
 suicide drones and anti-hship missiles and forcing them to return back to the sea of Oman. And then we had Sandcom coming and just denying what has happened. Then the Iranian came and published this video. They said that we use these missiles. They don't show you know the location and we don't know what has happened.
@@ -54,7 +65,7 @@ Okay. So why is the United States now standing down? Uh so I I believe well let 
  I mean it will be remarkable. Now this isn't Pakistan doing this on its own. It's doing it at the sort of the behest and support of China and Russia to a lesser extent. So you know this is this is a broad effort to try why well why would China care? China wants to get the straight of Hormuz back open and get everything commerce back online because it is it is also hurting the Chinese economy.
  not as bad as it's hurting the rest of the world, but I think China understands if the rest of the world goes into depression, then all of a sudden they're not buying goods from China. So, you know, China's got a a clear interest in helping get this settled. Um, so, you know, we're we're in an unusual
 
-### Segment 2 — Time But Uh What We're
+### Segment 2 — Israel Iran Nuclear Weapon
 
 time, but uh what we're seeing is a decide, you know, clear shift in how Donald Trump is talking about Iran.
  And now what? Even carrying out military operations, even minor provocations. They've cut back on that so far in the last 24 hours. So, hey, I've laid it out, folks. Draw your own conclusion. I'm not going to tell you what to believe. >> Carl, you made your point before coming to this live.
@@ -73,7 +84,7 @@ Yeah. And let let me just you know let me suggest I can I can conceive how if Mo
 But uh if you say look we're now at an existential point that uh our ability to protect and defend the people of Iran for starters is at risk and the only way to perhaps fully deter the threat presented by Israel is to have a weapon that could be used against Israeli military facilities.
  So, in other words,
 
-### Segment 3 — You Say Okay We're Going
+### Segment 3 — Iran Israel Trump
 
 you say, "Okay, we're going to do this, but we're only it's only going to be used against military targets. It's not going to be used against civilian targets." Uh, that that's one way I think that potent, you know, possibly uh how Mustava went about the decision-m saying, "Okay, we're now going to do this.
 " But it was in it was in the aftermath of the murder of his father, mother, wife, and and child. So, you know, it's not an unnatural reaction to say, "Okay, we now have to do something that uh is uh previously considered wrong, but uh we're going to try to do it in in the right way because we have to protect ourselves." >> Yeah. >> And I'd reinforce that, Non, with the just a simple statement that Kim Jong-un has not shot anybody with his nuclear weapons.
@@ -91,7 +102,7 @@ This this is so important. This is the first time you see Iran coming out and sa
  Whether they did it willingly or not, I I don't know. But all we know is that the threats that were being made, you know, particular of these madmen, these monsters, Bengavir and Smotrich about leveling, flattening Dakia, an entire suburb of Beirut. Uh they've been quiet. And again, this is um you know, this this piece of information that we that Pepe and I dropped um you know, was it intended for manipulation? No, I think I think there is there's a lot going on behind the scenes now that is out of the ordinary.
 And as a result, uh, we're we're starting to see, you know, there there was at least a cessation of the
 
-### Segment 4 — Bombing Attacks On Beirut That
+### Segment 4 — Hezbollah Israel Trump
 
 bombing attacks on Beirut that I mean, that's stopped so far, you know, knock on wood. Um it has uh but this agreement that that Washington put out the other day. I mean this is this is just another example of of a stupid gesture.
  You know that that's happened before over the last you know uh 50 odd years that this war has 51 years that this civil war in Lebanon has been underway. Yeah. If if you want an end to it, you got to sit Hezbollah at the table, too. They got to be part of that negotiation. And if they're not part of that negotiation, you don't have a deal.
@@ -109,7 +120,7 @@ Hezbollah and that and as I you know I pointed out earlier you know 40% of the L
 Okay, these people are not fools. They're they're survivors and they understand that they're up against a, you know, a terrible enemy. So, um, what and that's why I went back and said that until they get Hezbollah at the table, they're not going to have an agreement. Yeah. I particularly laughed at the going to force Hezbollah to abandon territory south of the Latani River and go north. Yeah, that'll happen.
 So, um, actually, and it goes back to Colonel Wilkerson's point, Israel is overstretched. Put it, and I I I say put it in the context of take the population of New York City and put that population in New Jersey. And for
 
-### Segment 5 — For Americans Anyway Uh You
+### Segment 5 — Lebanon Israel Iran
 
 for Americans anyway, uh, you know, you live in Brazil, you don't know what I'm talking about, but but but that's basically the size of Israel.
  Now imagine how the city of New York would react to uh uh news that you know in the last 6 months uh we've had uh 200 of our police officers killed. Good lord that I mean that that would be considered an unbelievable number. I mean it would it'd be shocking. And yet that's what Israel is experiencing. And then we're not talking about the number of wounded. That's far far larger.
@@ -127,7 +138,7 @@ They're going to use the leverage to influence every one of these conflicts. The
 And it's leverage I don't think we realize. >> Yeah. No, just just to reinforce Colonel Wilkerson's point um in the in the recent effort to revolve the Abraham Accords that both the Saudis and Qataris, they all made it clear, hey, we ain't we're not doing any Abraham Accord until the Palestinians have a state.
  Okay, that's it. So, you don't get to use the Abraham Accords as an excuse to disenfranchise the Palestinians. But you know when you come back to the whole issue of Lebanon and Hezbollah you know how how ironic it is that you know when when the civil war started in Lebanon in 75 Hezbollah didn't exist that was the emergence of a mallal which was a tool sort of uh at least at the time of hes al-Assad in Syria and it's only in ' 82 when the Israelis invade Lebanon and make their way all the way to Beirut that Hezbollah
 
-### Segment 6 — Emerges And And Becomes Beco
+### Segment 6 — Iran Hezbollah Lebanon
 
 emerges and and becomes becomes
 an entity. Now again at that point they there was an a natural alliance between Hezbollah and Iran from the standpoint that they were Shia. Uh so but it was not that wasn't part of some you know a big big uh bullshy plot by the uh uh Iranians to you know overthrow the the the Christians uh in in Lebanon. But you know, now here we are, good lord, you know, 47 years later >> or or 40, you know, uh 44 years later and uh Hezbollah is a dominant force.
@@ -145,7 +156,7 @@ wanted to train them to be as good. Really the purpose was to train them to be a
  Um and so if you really wanted to I suppose solve the problem although I'm not sure what kind of solution it is you'd have to invade and occupy Iran and stay there for a long time so that you had a new regime and I just think there's no way the American people are interested in doing that and I'm not even sure I would recommend doing that at this point because the costs are going to be enormous.
  So, you know, we have to accept the fact that that this is a loss. I mean, we have lost in the p we've lost previous wars in in Vietnam, obviously. Unfortunately, this one has much, as we've
 
-### Segment 7 — Been Discussing Much Greater Strategic
+### Segment 7 — Iran Russia Pentagon
 
 been discussing, much greater strategic ramifications than the loss in Vietnam did, actually. >> Yeah. Well, he's not, you know, I'll I'll take back things I said about him being stupid.
  He's not completely stupid. uh he made some actually astute correct observations. Um now he you know but but he he failed to consider one other alternative. >> The straight will be safe. Just negotiate a deal with Iran where you leave him to hell alone. >> Yes. >> You know stop stop trying to destroy the Islamic Republic.
@@ -164,7 +175,7 @@ claiming that we're here to fix the world you know just just to reinforce what L
  And of course, you know, we actually he actually did come to uh America and talk with people about not being uh adverse to US interests, if you will, and so forth. I think it was during Nixon. Um and look what happened there. We turned him into anathema communist to the hilt and he went that route because we didn't give him any other choice.
  So it's a not a it's a recurring theme in American history, particularly postw World War II history. >> Yeah. And
 
-### Segment 8 — Just That One One More
+### Segment 8 — Israel Netanyahu Trump
 
 just that one one more brief anecdote related to that uh OSS officer named Fusselier. I knew his son Burley Fuselier who was a diplomatic security uh agent and actually head of diplomatic security at one point.
  So Burley's father was uh in Vietnam and he was working with a guy named Ho Chi Min and it was a young Hochi Men and but you know Ho Chi Min was talking about his goal was liberating his country from French oppression but later we made it into somehow this was communism trying to take over the world and we had to stop communism and and you know we get 58 59,000 Americans killed and that's the ones that died in combat.
@@ -183,7 +194,7 @@ There'll be no oversight other than DoD. Oh, and guess who else will be overseei
  They let anybody write their legislation for him these days, including BB. Um, but he thinks he's going to get away with murder inside this apparatus. I I don't think that's going to be the case. I think what's going to really take it over eventually are the contractors. And that's just writ large with problems. and that DoD is going to oversee it the way state was overseeing it or trying to oversee it. I'm sorry.
  I don't see that happening. I really don't. There's no reason for DoD to have any real oversight over it because it's large for
 
-### Segment 9 — Them And Large S Is
+### Segment 9 — Israel Russia Iran
 
 them. And large S is what they get and what they live on now. 1.5 trillion being the latest large S, largest defense budget since World War II. And look at what we're doing with it. We don't even know what we're doing with it, Nema.
  We don't even know what we're doing to it. They can't pass an audit. >> This is unconscionable what we're doing with this national security budget. It really is about 2.3 trillion if you look at the whole thing across every category. Homeland Security, Veterans Affairs. We shipped out veterans affairs from DoD to an administration of itself.
@@ -201,7 +212,7 @@ They don't have everything yet. Submarines are really riches when you look at it
 And I think that if he if he were to attack one of the smaller countries or even a larger country uh assets in that country that he knows positively are attacking Russia or aiding attacking Russia. I'm not sure Donald Trump if they invoked Article 5 would do anything about it. >> Yeah. Larry, why is Donald Trump arguing that he wants to meet with the Supreme Leader of Iran and he has he wants what is that? Because the Iranian foreign minister said that what is this? This is so strange.
 >> Yeah. Yeah. This is uh this is he's going to he wants to do he wants to do for Iran what
 
-### Segment 10 — He Did For North Korea
+### Closing — Iran Trump American
 
 he did for North Korea. >> Yeah. >> Meeting with Kim Jong-un. Um, you know, this is uh um again it goes back to, you know, where we started off our conversation earlier that uh Trump is now taking seriously the possibility that Iran does have a functioning nuclear weapon.
 This was all you know what we've seen in the course of uh even last year where they where when Tulsi Gabbard said that the assessment of the intelligence community was Iran didn't have one and I I think it was right that was correct but with the the final blow or what what really sort of ignited then Iran into reversing course was the attack on the 28th of February.

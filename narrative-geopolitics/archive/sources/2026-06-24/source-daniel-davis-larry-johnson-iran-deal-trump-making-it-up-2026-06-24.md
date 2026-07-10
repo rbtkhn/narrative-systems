@@ -1,5 +1,11 @@
 ---
 
+
+
+
+
+
+
 ingest_date: 2026-06-24
 pub_date: 2026-06-24
 kind: transcript
@@ -28,9 +34,8 @@ youtube_id: ETLzoyzPYr0
 source_note: "Operator source-intake 2026-06-24; operator-pasted YouTube transcript; pub_date inferred (Crooke same-day tease; Tucker Carlson interview tomorrow 10am). Trump 19M bbl/oil-gusher lie; MarineTraffic tanker math; mines up to 6mo; Lloyd's insurance; heavy crude/aviation-diesel ~2wk crisis; shut-in restart days–months; Qatar LNG trashed ~1yr; Rubio Lebanon proxy-fish vs MOU §1 all-fronts ceasefire; Hezbollah stopped Israel didn't; Lebanon sovereignty MOU → Iran strike Israel legal frame; US squadron rotation ~1–1.5mo CONUS; Israel lost 2/3 US air defense; Tucker 8 pre-war calls Trump knew costs; Rubio int'l-law Hormuz vs 12nm territorial waters; MOU §5 only 60 days Iran knew no traffic; Jesse Watters surrender vs Johnson five Iranian wins ($12B Saudi/Qatar); futures $70 vs spot ~$106–140; Russia Karaganov/Ushakov Anchorage dead; UK missile-factory strikes by Sep; degenerate-gambler round-3 risk."
 evidence_grade: transcript-bearing
 opening_tier: host-monologue
-editorial_note: Operator-pasted transcript body; not independently verified as verbatim; ASR artifacts retained (Hermus/Hormuz, Zalinski, Barus/Belarus, etc.). · source-section pass 2026-06-25 (8 sections)."
+editorial_note: "Operator-pasted transcript body; not independently verified as verbatim; ASR artifacts retained (Hermus/Hormuz, Zalinski, Barus/Belarus, etc.).\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (7 sections)."
 transcript_wrapper_tier: clean
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -39,6 +44,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 7
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # fmr CIA Analyst Larry Johnson: Iran Deal, Trump's Making it Up As He Goes Along
@@ -51,7 +59,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Open — Trump Oil Gusher Claims
+### Show Open — Iran Hormuz Nuclear Weapon
 
 The oil is gushing. We have won. And Iran had to sign a surrender document. Now, if you may be wondering, no, I I haven't lost my mind, but that is what some people are saying with a straight face about this Iran situation. Uh, not quite congruent with what the reality is on the ground today, though.
  Uh, and we're going to show you what the impact is of that. And how is that going to lead to an end? How are we going to get out of this if we can't even see what's real in front of us? to try and figure this out. We have nobody better today. Back with this good friend of the show, Larry Johnson, former CIA analyst, uh the king at sonar21.
@@ -63,7 +71,7 @@ com and son of the new American Revolution on Substack and of course, uh keen dr
  an Afroax that can do around 750,000 barrels. Uh the Suez Max, it goes up to a million barrels. Uh so I guess there are four. Uh the the VLC, the very large crude carrier that does around 2 million barrels. And then the ultra-large crude carrier, which doesn't go into the Persian Gulf. Okay. So in the Persian Gulf, you're looking at probably the Suez Max and the and the VLCC's.
 Okay, just do the math. He said 19 million barrels. Okay, that's basically 10 ships if they're all the very large cruise carrier. If it's not the the very large cruise carrier, if it's a Suezmax, that means there were 19 different ships. Okay,
 
-### Tanker Math — Mines and Insurance Crisis
+### Segment 2 — Trump Iran Pentagon
 
 go to marine.com. Don't have to take my word for it, folks. You can look it up for yourself.
 There are not 19 ships that have gone out in the last 24 hours uh that are tankers. And the more important point is the ones that are transiting are not coming to the United States. They're not going to Europe. They're going to China and to India and to and Singapore. That's where they're going. So, you know, he's lying.
@@ -77,7 +85,7 @@ They can do one or they can do the other. They can't do both. They can't divide 
 because their storage facilities got full and there were no more empty VLCC's coming in. So, whatever ships are the President Trump talked about went out last night heading to Singapore, China, and etc., those were ones that have just been sitting there for a long time. Now, they're going out.
  There hasn't been a whole bunch of empty ones to come in because first of all, they got to start getting that storage area down or the volume down so that they can start producing again and they got somewhere to put that oil. What can you tell us about the the prospect for the
 
-### Shut-in Oil — Restart Timeline
+### Segment 3 — Lebanon Ceasefire Hezbollah
 
 shut in oil getting turned back on and has anyone even started that process yet? >> Yeah, that's what that is what's really fascinating.
  So most you know most people you know and I kept myself on among the ignorant on this at the outset just till I started reading and researching it. You just assume though okay you like an onoff like your faucet on your kitchen sink turn it on the water flows shut it off the water stops you just you know no big deal. Uh that's not how the uh oil wells work and the liquid natural gas terminal uh in Qatar is trashed essentially.
@@ -88,8 +96,6 @@ Uh so, uh it shows his position, but it's not a big ship. So, but you're not see
  I you know, I had I had a comprehensive PhD comprehensive field in international economics. So I understand a little bit of this and this makes no damn sense. I mean, it absolutely it's like what the hell's going on? It's like going 2 + 3 equals fish and you go, >> okay, >> what's there's a lot of that going around these days actually.
 >> Yeah. >> Uh and in fact there's let's let's just jump right into the next 1 plus two equals fish calculation. And that is uh going back to
 
-### Rubio — Lebanon vs MOU Ceasefire
-
 Secretary of State Marco Rubio who ironically has made an appearance here. Even though this is supposed to be all these negotiations and our chief diplomat is supposed to be leading them, he has been kind of awol or being hidden away, however you want to look at it.
  But he finally surfaced and came in front of a camera and was asked about one of the most contentious points you and I have talked about before, which is that Iran made sure that was literally number one, the paragraph number one of the 14-point agreement, which was that there will be a ceasefire on all fronts to include Lebanon.
  So that has to be an end on one has to be an end on all. We've been talking about the difficulty with them, so you would think Secretary Rubio, all right, we're going to have to get Israel to stop fighting in Lebanon so that we can get the rest of the points done. Instead, he says this, >> are you trying to ease concerns to allies here in the region? >> Well, that that most certainly will come up in these conversations.
@@ -97,7 +103,7 @@ Secretary of State Marco Rubio who ironically has made an appearance here. Even 
  So I do think it's covered by theou. It is an issue that will be gotten to at the appropriate time in these negotiations. So, it's Kazib Hezbollah in Iraq and it's Hamas in Lebanon. They're the ones that are attacking. Um, how do you see it? >> Yeah. It just uh it's a lie. Uh, and >> pardon. >> Yeah.
  Yeah. It's fish. Yeah. No, it absolutely is fish. What What's interesting is that once the ceasefire was announced,
 
-### Hezbollah Stopped — Iran Strike Frame
+### Segment 4 — Israel Iran Lebanon
 
 Hezbollah stopped firing into into Israel. Israel did not stop uh killing in Lebanon, southern Lebanon. Of course, you know, the Israeli presence in southern Lebanon dates back to at least what 1982 u and you know, 7 years into the Lebanese civil war and uh they've throughout that period, you know, they got as far north as Beirut and then they withdrew.
 that really for most of the last 40 years they've kept a belt, you know, it's called a buffer zone inside Lebanon under trying to keep it under their control, but they have not been able to to defeat, you know, their goal was to defeat Hezbollah, force them out of that territory south of the Latani River and then can take control of that.
@@ -119,7 +125,7 @@ Well, what that means for Israel in terms of its potential if it's thinking abou
  He talks about a whole number of different topics here. But one of the things you said which to me was most alarming not just in how the war started but how we might get to an end especially given the issues you just mentioned that there are real consequences to us economically not just the least of which militarily if we should ever restart this war or go back into it.
  Rationally speaking one should never go to that point. We should never do that because it would only harm us. We can't make anything change militarily. But Tucker told us that he had
 
-### Tucker Eight Calls — Pre-War Warnings
+### Segment 5 — Iran Trump Hormuz
 
 talked to President Trump eight times in the in the weeks leading up to the war. The last one was on the 27th of February, the night before the attack. Uh he said he hadn't talked to him since because he didn't want to talk to him.
 He said that Trump was aware of all these things things that you and I have heard and and talked with Joe Kent who said that he told that the President Trump was told that the military we can't accomplish this that it's not that taking out the Ayatollah is not going to cause them to fall apart um and that they're going to close the straight of hormones. We can't. He knew all of that.
@@ -156,7 +162,7 @@ Free." Yeah. You know what? We're not going to charge a thing for 60 days. You k
  And if they step out of line, we're ready. The Air Force has a fresh fleet of new generation drones, FQ44, unmanned and designed to strike deep into enemy territory in contested airspace. And unlike its predecessors, the missiles are stored inside. But for now, we don't need him. Once the Mullers gave Trump their John Hancock, it was a full-on surrender.
 >> A
 
-### Five Iranian Wins — Surrender Spin vs Reality
+### Segment 6 — Iran Trump Ceasefire
 
 full-on surrender document for the Iranian side. I'm going to touch on a few things in there, but like seriously, that's where you want to start. Their strategy is to lie about everything. >> Well, not only that, apparently Jesse Waters doesn't has no understanding of history.
  World War I when you know let's this let's this been here's Donald Trump of German descent the Germans don't feel too comfortable inside the palace at Versailles because back in 1919 I guess it was March of 1919 when they signed the surrender documents for World War I it was basically they got their ass handed to them and I would argue that once again Donald Trump and signing a a document in Versailles he wasn't he wasn't channeling the victorious allies from March of 1919.
@@ -171,7 +177,7 @@ Yeah. And we'll see. We'll see uh with things actually happen whether President 
  Uh there has been an increasing uh confidence and arrogance, one might say, from Vladimir Zalinski in the war with Russia here. And one wonders why he is suddenly so cocky uh because he has been saying, "Hey, Moscow will burn if you guys don't do what we say." And he's making good on that with some drones and some other things getting into St. Petersburg and Moscow.
 Uh he has recently uh given an ultimatum to Barus that they better stop helping Russia and some signaling equipment or he'll go in and he'll do it inside of Ukraine. I'm sorry, inside of Barus. Uh and then kind of in response, we had uh
 
-### Russia Ukraine — Putin Cadets Warning
+### Closing — Russia Europe European Union
 
 Vladimir Putin a couple of days ago address some cadets and uh issue this stark warning.
  The potential for conflict has risen significantly in a number of regions around the world, including in Eurasia. We see that if earlier NATO countries limited themselves to supporting the Kiev regime, which came to power through illegal armed means and a coup d'etat, they are now openly saying in the west that they are preparing for war with us and are increasing their defense budgets.

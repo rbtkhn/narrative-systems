@@ -1,5 +1,6 @@
 ---
 
+
 ingest_date: 2026-06-04
 pub_date: 2026-06-04
 kind: cleaned-transcript
@@ -17,10 +18,9 @@ source_url: https://www.youtube.com/watch?v=6VaTuSpPisE
 source_note: "Operator paste; canonical watch URL preserved (YouTube). Nawfal × Pape — fourth center of world power / escalation-trap branch. · ASR pass 2026-06-15."
 title_slug: pape-professor-pape-iran-has-become-fourth-world-superpower-due-to-trump-war-failures-2026-06-04
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 1 substitutions; not human-verified verbatim; verify before quotation. Nawfal host close promo (Substack/subscribe/next-guest tease) trimmed 2026-06-17. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 1 substitutions; not human-verified verbatim; verify before quotation. Nawfal host close promo (Substack/subscribe/next-guest tease) trimmed 2026-06-17. · source-section pass 2026-07-09 (10 sections)."
 nawfal_close_promo_trim_applied: true
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -29,6 +29,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Robert Pape - fourth center of world power framing (operator transcript)
 
@@ -40,7 +43,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Ceasefire Hormuz
 
 in we've got professor pap back again he came last time he spoke in depth about his perspective in relation to the escalation trap well it seems like what's happening when you look at the current war is things are moving towards his fourth avenue which is that Iran is becoming the fourth power in the world we're going to speak about that we're going to be speaking about the ceasefire deal we're going to be speaking about all of those things with professor Pep Professor Pap, thank you so much for taking your time out to join us. How are
 you? >> Uh, I'm doing great and thank you so much for having me on again. >> We appreciate it's an honor and a privilege. Professor Pap, you came last time and you spoke about the escalation trap and you said, you know, the moving between the third and fourth stage, which is possible kinetic to allowing Iran to become essentially the fourth power.
@@ -57,7 +60,7 @@ becomes the fourth center of world power. Now I want to uh just pause for a seco
 >> So let me just just add for a second before we move on. So, uh, we are not in a position where we, and you just sound like you had other folks on yesterday. We're not in a position where we've rolled back. We're in a position where we're very forwardleaning with our military forces. We're in a position where we have a pretty tight naval blockade.
  And that is something that can then evolve into more offensive movement forward here. And that's what you're talking about with those uh with those islands. So when I said we've moved down this branch, I
 
-### Segment 2 — Didn't Mean To Say We
+### Segment 2 — Iran Trump Lebanon
 
 didn't mean to say we closed off the branch of further escalation. To do that, you would need to uh withdraw say 30% of our forces. Withdraw a carrier strike force group.
 If you started to see movement like that, then you could say that we have uh fully decided on going down a certain branch. That's really not the case. We're really in the thick of this. this was never going to be uh very unlikely to be a quick uh engagement. It's because Iran is just too strong of an actor and it has tools now that it has brought out with uh uh that we are now seeing uh with what it can do with just a small number of drones.
@@ -74,7 +77,7 @@ power so how does it actually uh uh gain power? Well, it gains power by wielding
  There was a report I believe yesterday where there was a bit more of a buildup although largely it's been quite quiet for the last uh I'd say about three or four weeks. Why do you think that that that aspect of it has been quiet in terms of the military aspect? Why is it that you feel like Trump's trying his best not to take that route? >> Uh I think Trump's trying to navigate the diplom the diplomacy with the Gulf States themselves.
  So I think the surprise here that this whole war has been except for the first few days a complete surprise for the Trump administration. It's not they didn't have contingency plans. militaries always have contingency plans, but they weren't
 
-### Segment 3 — Really Expecting This To Play
+### Segment 3 — Iran Nuclear Weapons Nuclear Weapon
 
 really expecting this to play itself out. They weren't expecting Iran to essentially lash back, stiffen this escalation trap that I described, which by the way I published before the war started.
  So this was not coming after the uh after the fact. So if you if you look at this then um going forward this is really then a question of how does the United States also start to work with the allies where it has not been able to defend those allies. See this is not just a matter of of uh you know sort of not good strategic thinking in the front end and then we fix it up and now we're uh in good shape.
@@ -93,7 +96,7 @@ They have this mosaic uh decision-m that they have to use. This is not a situati
 He to his face called him a decline in power. I don't know the last time a uh for the the Chinese leadership is usually more restrained when they're talking in these diplomatic environments. That was really quite stunning to see that because for them that that's that's a real aggressive move.
  It to us Americans that well so what? Okay. But for them that really was out of character and it just shows uh the weakness that uh America is facing. >> Yeah. Totally agree. No doubt. Now, what's interesting is, Professor P, last time we spoke, you kind of hypothesized this possibility that down the line Iran
 
-### Segment 4 — Could Possibly Have A Nuclear
+### Segment 4 — Iran Nuclear Weapon Nuclear Weapons
 
 could possibly have a nuclear bomb.
  And I thought this was kind of stretch. But that being said, obviously I interview a lot of people. There is, for example, former CIA Larry Johnson. There is, for example, Peppa Escobar. They are saying that they have a source that there is a possibility that Iran may have already procured a nuclear weapon.
@@ -112,7 +115,7 @@ Well, we don't we're still running the car, but not going to be able to do that 
 The fact that uh Bahrain and Kuwait here seem to be actually advocating for no response, that tells me something and I'm sure it's telling the Iranians something, which is their coercive leverage is growing. >> And speaking about power politics, what led to the incident in Kuwait and Bahrain was a number of skirmishes on the street of Heramoose.
  I was looking at
 
-### Segment 5 — Them Thinking This Is May
+### Segment 5 — Trump Iran Israel
 
 them thinking this is may escalate to something a lot larger. Especially when I was looking at the US strikes on telecommunications and radars throughout Austral's going to happen. But then Iran came out and said we're going to give whatever response you do to us, sorry, whatever attack you do to us, our response is going to be one and a half times greater.
  How are they effectuating that power? A. And where does that leave Trump? Because this is starting to make him look weaker and weaker. He's getting a lot of there's a lot of conversations and push back about him not just not doing enough especially with the pro-Israel lobby especially with the monarchists on social media. There is this kind of push back coming now like what is going on? We're just being led led astray.
@@ -129,7 +132,7 @@ Is he going to go forward and use more force or is he going to accept Iran as th
 That's not when I date it. [laughter] This war started June 1st, 2025. So this this and that what we call if you look on Wikipedia they call it the 12-day war. Uh well, it's the first 12 days of this war is what that is. And so you had a 12-day uh call it the kinetic phase, a 12-day u uh phase. And then there was a long 8 month period of time when there were no bombs uh falling.
 This was just not the case. And then suddenly it came back. Well, this was the modeling that I gave my class. So literally it was uh May 2025 before we had the 12-day war. My classes end at the University of Chicago around
 
-### Segment 6 — The Nd Of May And
+### Segment 6 — Iran Nuclear Weapons Nuclear Weapon
 
 the 22nd of May and my LA it was May 22nd 2025 when I gave my 90minute presentation of what to expect and essentially what I said is that there would be if there was going to be bombing it would start with the bombing of Natans Bordeaux uh and then uh there would be um uh a period of months and I
 said could be a year or even longer where there would be no kinetic action whatsoever, but there would become increasing fear that Iran's nuclear program was coming back, that it was developing anyway, and that's what would lead to the regime change bombing. So, this is what I told my classes pretty much every May for 20 years, I laid out the sequence of how this would come uh here.
@@ -146,7 +149,7 @@ And I'm not saying that that we're yet there. So, so but the um the key ground o
  So the um this war could well go on for months and it could be the case that that ground element that I just described uh that doesn't have to happen this summer. Where the real pressure will come is when there is intel that suggests Iran is getting close to testing nuclear weapons. That's really when the pressure is going to build in a serious way.
  It's it's not impossible to test nuclear weapons without uh the Americans uh seeing it coming. So that's not quite it's not that. You can bet we have every possible sensor and source uh uh looking for exactly that. And as I'm saying for Iran to consolidate
 
-### Segment 7 — Its Position As The Fourth
+### Segment 7 — Lebanon Israel Iran
 
 its position as the fourth center of world power, testing nuclear weapons would be fully uh fully in that uh in that so that I don't think that's necessarily happening for maybe a year or a year and a half.
  So this this can drag on. I'm saying that long. Now in the intermediate period of time uh the world runs out of 15 20% of the world's oil. That that is a long that's a lot here to absorb and so we don't have the ability to fix that in even a period of several years now 3 five years maybe you could do offshore drilling but that stuff's super expensive so to replace this.
@@ -164,7 +167,7 @@ However, when you just got a little bit further out, that was the group that was
  And in southern Lebanon here, the Israelis have done so much movement of people. This is a major major trauma to that population. And so the population here is is discombobulated more than anything else uh for a significant period of time. So you're not seeing the massive resistance from that population just yet.
  That said here um there is there is going to be plenty here. Uh this not the way I don't think you're going to actually beat Hezbollah this way. I
 
-### Segment 8 — Think That Just As Israel
+### Segment 8 — Trump Iran Israel
 
 think that just as Israel was not able to beat Hamas in Gaza this way, notice Hamas is still there and still feisty and you're not gonna you're not going to go in there thinking you're going to live uh here.
 The same thing is is going to be true here. So this is this is very unlikely going to work to Israel's true military advantage over time. Uh but nonetheless, that's the policy that they're pursuing. So, I hope that helped to clarify why you're getting a mixture of of of reactions by the civilian population in Lebanon.
@@ -182,7 +185,7 @@ out from a possible agreement. What's your thoughts about taking that factor int
  So you don't hear Professor Pave say build the ground war and a ground power anvil. because that was possible with uh Serbia and after 78 days that is what we did and that did get Malloic to surrender Kosovo. So we were able to bring that to a close within 78 days by doing this. It's called in my work hammer in anvil for your listeners.
  I I'm sorry if I'm getting a little bit too much into my books. >> No, [clears throat] it's interesting the models but this is this is what I mean. It's a hammer. Air power is the hammer. Ground power is the anvil. And so that's
 
-### Segment 9 — How You Smash The Enemy
+### Segment 9 — Iran Russia Hammer
 
 how you smash the enemy bad guys. Hammer, anvil. That's what tape is known for in the academic world.
 >> So, but in um in the case of Serbia, you could do that because Serbia is small. Okay. Here, Iran is too big. Uh this is why also we couldn't do hammer and anvil very well against Iraq in 2003. Uh but uh because Iraq was much bigger than Serbia. Well, Iran is three times the size of Iraq.
@@ -201,7 +204,7 @@ so with so so this is exactly when I'm teaching these classes this is what I'm d
  I mentioned about Japan and South Korea. Where do you see for example the American Empire, the American homogyny? Where do you see that? What do you see that entire >> I think the uh so I just um uh so you're going to be seeing new pieces by me in in the coming weeks where I'm going to be talking more about the longer term consequences of this war.
  So so far and notice how people really need
 
-### Segment 10 — To Focus On The Immediiacy
+### Closing — Iran Europe Russia
 
 to focus on the immediiacy and everything we've done is in the immediiacy. Well, what you're seeing is the inverse of the 1991 Gulf War. So the at the in the 1991 Gulf War, that was the military component of the end of the Cold War. So the Cold War was ending. There was some some change.
 But notice that when the Cold War ended, there wasn't a whole lot of of military action until you had just the uh uh the first Gulf War. So the Berlin Wall came down in November uh 1989 and Sodam Hussein invaded Kuwait in August 1990. And for the first 6 months, everybody thought, "Oh, he's going to have it forever.

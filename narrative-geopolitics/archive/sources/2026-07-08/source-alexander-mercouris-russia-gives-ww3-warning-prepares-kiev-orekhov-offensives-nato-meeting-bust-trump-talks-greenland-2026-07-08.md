@@ -1,5 +1,6 @@
 ---
 
+
 ingest_date: 2026-07-08
 pub_date: 2026-07-08
 kind: cleaned-transcript
@@ -8,6 +9,7 @@ host_people:
   - Alexander Mercouris
 guest_people:
   -
+host_slug: alexander-mercouris
 show_title: Mercouris
 channel_name: Alexander Mercouris
 show: Mercouris
@@ -28,19 +30,24 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 2
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Alexander Mercouris: Russia Gives WW3 Warning; Prepares Kiev Orekhov Offensives; NATO Meeting Bust Trump Talks Greenland
 
 ## Transcript
 
-Good day. Today is Wednesday 8th July 2026 and I'm going to start again with a topic that I finished my previous program or started my previous program with and which I had touched on in the program which I had made before which is the the comments by Dimmitri Pescov that the actions of the western powers supporting Ukraine and assisting Ukraine to conduct attacks deep inside Russia meant that the special military operation had ceased to be functional and that what was taking place was in effect an allout war. Now I discussed all this at length
-in my video two days ago. I said that it seemed to me that Peskov, who is Putin's spokesman, is his master's loyal voice. I thought this almost certainly reflected Putin's own opinions and I said that I thought it likely that in time in due course we would see the special military operation upgraded to something else possibly an anti-terrorist operation though if you go by Peskov's words it might be upgraded ed to something even beyond that.
+### Show Open — Peskov Says The Special Military Operation Is Becoming War
+
+Good day. Today is Wednesday 8th July 2026 and I'm going to start again with a topic that I finished my previous program with and which I had touched on in the program I made before, which is the comments by Dmitry Peskov that the actions of the Western powers supporting Ukraine and assisting Ukraine to conduct attacks deep inside Russia meant that the special military operation had ceased to be functional and that what was taking place was in effect an all-out war. Now I discussed all this at length
+in my video two days ago. I said that it seemed to me that Peskov, who is Putin's spokesman, is his master's loyal voice. I thought this almost certainly reflected Putin's own opinions and I said that I thought it likely that in time, in due course, we would see the special military operation upgraded to something else, possibly an anti-terrorist operation, though if you go by Peskov's words it might be upgraded to something even beyond that.
  Well, there was a lot of push back from all sorts of people about my words. Um, a number of people said that I was over interpreting what Pescov said. And by the way, I should say that over interpretation is a trap which commentators like me can and do fall into. I have certainly done it in the past.
  But anyway, I explained in my program yesterday why I still stuck to my original view that Peskov's words made in an interview to the Kremlin's favorite journalist, Pavl Zarubin, almost certainly did hint at a change of policy and needed to be taken seriously. Well, Pescov has now given an another interview and he has said exactly the same thing.
 And the um news media outlet to which he has given this interview is um a Swiss journal, the Velvar. And this is what he said. They, and he means the European countries and the United States. And I stress the United States because he makes that absolutely clear in the interview. They are sending weapons.
  They are supplying with ammunition the Kiev regime. They are supplying the Kiev regime with military advisers. They are supplying the Kiev regime with satellite surveillance results. So they actually give their satellites in a total disposal to the Kiev regime. They target the weapons, Ukrainian weapons with their satellites.
  They are using their artificial intelligence AI in order to facilitate the military activities of the Kiev regime. If that's not direct involvement, what is it? And then he continued, so having Russia on one side and having the Kiev regime plus a number of Europe European countries and plus the United States that is supplying millions of tons of weapons to Ukraine.
-What is it? It is not a special military operation anymore. It is a war, a fullcale war. So that is what Pescov said. He's now said it twice in as many days. I think that we must take these words seriously. An upgrade of the special military operation is coming. Now, Peskov said a lot of a lot of other very interesting things over the course of this interview.
+What is it? It is not a special military operation anymore. It is a war, a full-scale war. So that is what Peskov said. He's now said it twice in as many days. I think that we must take these words seriously. An upgrade of the special military operation is coming. Now, Peskov said a lot of other very interesting things over the course of this interview.
  As I said to repeat again, I've always felt him to be his master's loyal voice. His master is of course Vladimir Putin. I have no reason to doubt that what Peskov is saying in this interview to Devela as previously to Pavl Zarubin represents Putin's opinions and what is now evolving Kremlin policy. So, Peskov said other things too.
  He said that it was the West that forced the Russians to start the special military operation. He said that negotiations basically are at a deadlock. Russia does prefer negotiations as the way forward, but for the moment they aren't moving forward. He said that the Russians therefore are obliged to pursue a military victory in Ukraine which they will achieve.
 And then he went on to say the most interesting thing of all. He said that a final settlement of the conflict in Ukraine is only possible if there has been an agreement between Russia and the West about a new security architecture in Europe. In other words, new structures which I suspect by now from a Russian perspective won't just supersede NATO and the EU, but which will straightforwardly replace them.
@@ -54,11 +61,13 @@ Nonetheless, the Americans and the Russians, according to Peskov, are able to ta
 That doesn't mean obviously that any peace settlement will be agreed. As to the Europeans, Pescov made it absolutely clear that he does not expect that the current generation of European leaders are in any way capable of coming to terms with Russia about anything substantial. He said that perhaps a future generation of European leaders might be willing to do that but the current generation will not.
  Lastly, just to finish, he also set out what he said are the four rules that European countries should follow if they do want to have at least civil relations with the Russians. He said this, it's very simple. Number one, Russia is not a source of danger for Europe. Number two, listen to Russia's concerns.
  Number three, if you neglect Russia's concerns, you will have problems. Number four, try to renew a dialogue with the Russians as soon as possible. They are open, flexible, and ready. It is as simple as that. Anyway, that was Peskov. As I said, his master's loyal voice. To repeat again, I have no reason to think that anything that Peskoff says does not accurately reflect the opinions of Vladimir Putin.
- Anyway, that's Peskov. Now, in Anchora, the NATO countries are still in the process of having their meeting. And I'm going to say in advance that I don't expect anything new to come of it. There will no doubt continue to be promises of further support for Ukraine and for President Zalinski specifically.
+### Segment 2 — NATO Summit, Turkey, And Greenland
+
+Anyway, that's Peskov. Now, in Ankara, the NATO countries are still in the process of having their meeting. And I'm going to say in advance that I don't expect anything new to come of it. There will no doubt continue to be promises of further support for Ukraine and for President Zalinski specifically.
  Just to say he of course is there, but he's not been invited to the top table and he's not been allowed to make any speech. The Europeans know that if he were to do so, more likely than not, all he would end up doing is infuriating Donald Trump. President Trump, for his part, has made it pretty clear that he doesn't think much of NATO, that he doesn't really see what the point of going to this NATO summit meeting even is.
  that he basically went to the NATO summit because he has a high regard for President Erdogan of Turkey on whose country Trump has now cancelled all US sanctions and has given an indication that he's now prepared to greenlight Turkeykey's purchases of F-35 fifth generation fighter jets. something, by the way, which has upset Prime Minister Netanyahu of Israel.
 Anyway, Trump has said all of those things, very uncomplentary things about NATO. And he's also said that the United States needs and wants Greenland after all. and he's all but hinted that the Greenland demand is going to be revived by the United States before very long. My friend and colleague Alex Christophoru and I in several programs on the Juran suggested that one likely response of President Trump's to the failure in the conflict with Iran was to restart the whole issue of Greenland over again.
-And well, it could be that in Anchora, President Trump took the first step in that direction. I would not be in the slightest surprised if over the next few months, in the leadup to the midterms, President Trump focused constantly and relentlessly on the issue of Greenland all over again. Now, President Trump did have a few things to say about the conflict in Ukraine.
+And well, it could be that in Ankara, President Trump took the first step in that direction. I would not be in the slightest surprised if over the next few months, in the leadup to the midterms, President Trump focused constantly and relentlessly on the issue of Greenland all over again. Now, President Trump did have a few things to say about the conflict in Ukraine.
 In theory, his words were neutral. He said that sometimes he's more sympathetic to Zilinski, sometimes he's more sympathetic to Putin. He wants to offer what he calls his mediation services to um assist in the settlement of the conflict. This is what he always comes back and says. And he also said that having spoken to Putin and having spoken to Zalinski, he feels that both men do indeed want peace and that he believes peace is much closer in the conflict in Ukraine than many people realize.
  Now, Trump has of course said all those very same things many times in the past. He spent most of the first half of 2025 endlessly repeating that claim. And of course, it wasn't true then. And I don't believe that it is true now. At the moment, and briefly, there is no sign that the Americans, the Russians, or the Ukrainians are going to get back together anytime soon to resume talks.
 Putin and the Russians remain as unyielding as always, whilst Zalinski himself remains incapable of any substantive compromise. Anyway, that's basically all I expect to say about the NATO summit. No doubt we will get a final statement tomorrow and no doubt some decisions have been made. But Trump's various comments about NATO orbit trash the organization and tell us that this American president feels no loyalty whatsoever to it.

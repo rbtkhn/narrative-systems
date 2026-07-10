@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-12
 pub_date: 2026-06-12
 kind: cleaned-transcript
@@ -28,11 +29,20 @@ source_note: "Operator-pasted transcript; host self-dates Friday 12 June 2026. H
 evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: paste-asr
-opening_trim_applied: false
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 7 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (11 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 7 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (11 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 11
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Larry Johnson & Col. Wilkerson: Iran Just Fired at U.S.-Guided Ships: Trump REVEALS Final Decision
 
@@ -45,7 +55,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Ceasefire Lebanon
 
 Hi everybody. Today's Friday, June 12th, 2026, and our dear friend Colonel Wilkerson and Larry Johnson are here with us. Welcome back. >> Hi there. >> And appreciate the appreciate the short choice today. >> It's totally the opposite. By the way, you're red. >> You got team red, team blue. You guys choose. Larry, you remember last night we were talking about what's going on in the Middle East and you said that maybe they attack Iran. That could be the case.
  We were talking about the possibilities. One of them was the negotiations or something, some sort of deal. One of them was the attack, new attacks coming. Right now, it seems the tone is a little bit more positive that than it was last night. what we've learned from the Iranian media mess just remembering what has happened last night they tried to you know to somehow force some tankers oil tankers or commercial vessels through this rad formos but they were attacked by Iranians so nothing has happened last night total closure of this formos then
@@ -63,7 +73,7 @@ uh if they to ordered a standown. It appears they ordered a standown because we 
  You get the word out and you stop. We've seen in the past that they don't understand. We don't seem to understand either what ceasefire means. And BB Netanyahu has proven that he doesn't understand what it means. In fact, he exploits ceasefires in devious ways to do more damage than he was doing before the ceasefire occurred.
  So, how do you do what was just suggested? And I don't have the points in front of me. So, but you told me what the first one is. I if Israel is not going to stop what it's doing in Lebanon, I think that's uh non sequator for Iran, I I I don't see that you can proceed down that list, whatever it says,
 
-### Segment 2 — To Any Other Opportunity If
+### Segment 2 — Iran Trump Israel
 
 to any other opportunity if you're not going to have a ceasefire or at least one that appears to be holding and to be applicable to Lebanon.
  And it's pretty clear to me that Netanyahu in political trouble, if he does do that, is not going to do that. So, how do you move from that point unless you just ignore it? >> I don't think Iran will >> I think you're muted. Yeah. >> The second point, Larry, is about the US commitment to non interference in Iranian internal affairs and respect its sovereignty.
@@ -81,7 +91,7 @@ against Iranian security forces. So, um, this is I'm sure this is Iran's point. 
  So this is well this is our verbal commitment that we're going to try to do this but it's not enforcable. >> Exactly. >> And and it's quite reversible uh if Trump get comes under enough pressure. And don't don't discount that Israel will be trying to carry out some false flag operations to try to make it appear that Iran has violated this agreement in order to justify a reignition of of uh of of the attacks on Iran. Yeah.
  I look I I I don't think we're out of the woods on the I wish we were, but you know, one one of the other uh sort of data points to look at is and and it's not publicly available, but I understand that the uh oil executives uh the ma the major oil companies uh they they told Trump, "Hey, uh you're going to
 
-### Segment 3 — Have Major Fuel Disruption If
+### Segment 3 — Iran Israel Trump
 
 have major fuel disruption if you don't get this this uh situation with the with the straight of Hormuz and the Persian Gulf sorted out.
 Um and you know it's uh you know if it goes on for another 30 45 days um you know we're going to have a you're going to have really dramatic price hikes that not just here in the states around the world and and it's it's going to further disrupt the economy and uh this this is going to be you know devastating for Republican hopes for midterms.
@@ -99,7 +109,7 @@ form. I don't know. Uh I just I find it very difficult to believe that political
 States that's been an enabler of Israel. It's other countries, India and even China." >> Yeah. Even Turkey >> and Russia and Russia. >> Yeah, >> Turkey, Larry. Turkey is so important. >> Carl, go ahead. I think combination of Iran and Turkey would put tremendous pressure on Israel militarily and economically if they do that.
 >> Yeah. You know, I'm reaching in and grabbing a diplomatic repost, if you will. I'm playing diplomat and I'm saying if I were facing this situation right now, I'd have a really serious talk with Phoebe and probably his successors, likely successors, and I would say, "Let's test this. Let's see what happens if you withdraw from Lebanon, completely withdraw from Lebanon under an agreement I will affect with both the Lebanese government and
 
-### Segment 4 — Hezbollah That They Not Attack
+### Segment 4 — Israel Lebanon Trump
 
 Hezbollah that they not attack you if you do that and see what happens. In other words,
 implement a genuine ceasefire with no immediate potential for resumption of hostilities by Israel because they're gone. Now, I don't think for a second Netanyahu would fall for that. I don't think the people replacing him, and I think he is going to be replaced, would fall for that. But if you brought the requisite pressure to bear, you could probably accomplish it.
@@ -118,7 +128,7 @@ It seems that they're still fearing that they maybe the government may do someth
  Uh maybe there's some sanity happening. Maybe there's some people around the edges that realize I would like to think some of them are in the Pentagon, but I don't know that who are beginning to realize how poisonous this is and trying to push a little bit on it, see what they can get out of it.
  Um, it wouldn't surprise me that there are people in both the defense establishment and the intelligence establishment who are not happy at all and who see this as an extremely dangerous progress we're making and the tighter we get with Israel and the more intimate we get with Israel and that's the reason I hope this rebounds against this Senate provision um is not harm not not only harmful to our national security in interest, it's disastrous if it's allowed to develop any further and any deeper and become essentially a snake in the midst of our
 
-### Segment 5 — National Security And That's What
+### Segment 5 — Iran Trump Israel
 
 national security. And that's what it's been, I think, to a certain extent from time to time. But I go back to I think I don't know if it was apocryphal or it was real, but I remember Powell relating to me the story about when Reagan picked up the phone and called Bean, I think it was, and told him to get Chirona out of Lebanon and put the phone down and looked at I think Cap and said something to the effect of, "I think he listened to me.
 " >> He was stunned. And we haven't had that. We don't have that. And we need some of that. >> Yeah. And the question is, is Donald Trump capable of delivering that? I don't see Donald Trump being right. Well, we're seeing a more and more incoherent president, I think, to the extent that if you watch him carefully, and I don't pretend to have watched him every minute, but he seems to be uh in a different world from time to time and not connected with reality, which is something you could say about his whole presidencies, but at the same time, you
@@ -135,7 +145,7 @@ And how do you deal with that? How do you deal with that and come out of it with
  And in our case, all you have to do if your eye is not on some nefarious domestic development, and I don't discount that, but all you have to do is delay until you're done. That's part of our system, >> right? >> Turn it over to your successor, whomever it might be. >> Larry, the only possibility opportunity in my opinion that this sort of this memorandum of understanding may make for the two sides.
  It's going to be some sort of offramp to just leave the region for Donald Trump >> and just leaving the region without committing anything to Iranian side. This is I think the whole point could be that. Well, yeah, there's but the US is not going to leave quietly because there there's too much uh too much money at stake for investments and you
 
-### Segment 6 — Know Dubai In Particular Uh
+### Segment 6 — Israel Iran Palestinian
 
 know Dubai in particular uh to a lesser extent Qatar but also Saudi Arabia and Kuwait.
 So this is um you know they're going to have to figure a way to bridge that that the US will cease being involved militarily but will remain heavily involved economically because right now I don't see I don't see any way to disengage of you know there there are too many too many wealthy people with you know financial stakes in the in the you know too many wealthy people in the United States with financial stakes there in the Gulf countries.
@@ -154,7 +164,7 @@ concerned about what's going on in the United States that's why these sort of Zi
  And we're talking about with Lockheed alone, but certainly with the big six, a hell of a lot of slop like maybe about$1 or2 trillion dollars over the next decade. That's a hell of a lot of pot money to steal. >> And I don't put it past them at all to be looking at that prospect, too. and Lockheed salivating over it because they'll take their share too.
  Thank you very much.
 
-### Segment 7 — And I Just Not Let
+### Segment 7 — Israel Turkey Trump
 
 >> And I just not let me I just got this flash out of uh uh Scott Scott Besson's doing everything the secretary of treasury doing everything in his power to sabotage this deal. He just put out he said any tolls paid to the Persian Gulf Strait authority will be offset by funds extracted from their account.
  So, in other words, United States says, "We're going to take your Iranian assets and whatever fees you collect, we're we're going to we're going to recapture that." So, you know, Iran's not Iran's not going to put up with this for a minute. And, you know, so this is uh I think we're going to be looking at an extended war here.
@@ -173,7 +183,7 @@ And if that pipeline is shifted, if it actually goes ahead the way I'm hearing i
 Um, I would frankly I would have put 50/50 chances on Erdogan himself making a decision to announce a a departure from NATO. And then I got to thinking about it and saying, "No, he's going to wait and he's going to see just how bad the disintegration is before he does that.
 " But he's checking his six and his flanks and he's looking around and he's saying, "But I don't want to disturb my relationship with the empire across the Atlantic
 
-### Segment 8 — Because That's Really The Only
+### Segment 8 — Ukraine Turkey Europe
 
 because that's really the only choice I have other than folding myself into this inexorable development of Russia, China, India. Maybe ultimately he will go that way. I I don't think neutrality as neutrality is a real option for him anymore.
  I don't think he thinks that anyway. I don't know about Fidan or the foreign minister. Um I don't know him that well. Uh so where I've always I've always said where always I mean I was saying this to Powell in 2002 2003 where Turkey goes so goes our future in many respects not just because of their incredibly geostrategic location but also because of the size and capabilities of their army and the fact that um they tilt the balance if you Um, you could even say they tilt the balance between Asia and the West.
@@ -191,7 +201,7 @@ You know, it it's not really that important anymore. It'll wind itself down. The
 tan. Yeah. I mean, I I'm not saying that that's a great quality. I'm just saying that that's their position. You know, maybe it's all warp and woof of their position. They know where they are. They know their resolution. They know that they've got the uh stick tuitiveness or whatever.
  Um, but they're the ones you listen to them for contradiction of what Trump says or what anybody else says and you understand that you're probably hearing the truth about
 
-### Segment 9 — That Particular Situation Anyway I
+### Segment 9 — Iran Israel Trump
 
 that particular situation anyway. >> I think for me they didn't like so far everything I followed their way it was. >> Yeah. I I think that's probably a Persian characteristic.
  I've always thought that. But I also think they have nothing to win from cheating or lying. >> Well, what's the point of that? Making >> the truth shall set you free. >> Is that going to help them? >> Yeah, exactly. >> Yeah. >> Here is what Financial Financial Times reported, Larry, that Iran's missile cities shocked the United States and Israel during the war.
@@ -210,7 +220,7 @@ Jim Kelly was headed over to Beijing as I recall and he got to Hawaii to refuel 
 Yeah. I think with the things, you know, with the situation right now we're we're witnessing, they're somehow putting pressure on Iran the way that Iran sees that there is no way to put an end to the war permanently. So there have they have two options stay in the fight this sort of tit for tat the United States attacking Israel attacking or do something about it.
  I don't I don't see that solution would be together with the United States. Maybe with China, with Russia, with the region, but the United States is not going to be part of this because there's so much influence. The Trump administration is so much influenced by Israelis. It's impossible.
 
-### Segment 10 — I'm Afraid You're Right
+### Segment 10 — Nuclear Weapon Nuclear Weapons Israel
 
 >> I'm afraid you're right.
  I'm afraid you're right. And it's not just Trump himself. It's the legislature, too. Um, when you got people like Cotton and Graham and others who are just diehard Zionists themselves, it's very difficult to have two aspects of a three tiered government. Now, I'm not going to put the Supreme Court in there, but if there were any legal decisions to be made, I'd probably put them in there if they if they referred to Israel.
@@ -228,7 +238,7 @@ They scare me. They scare me. They scare me because they have the nature. And wh
 That's an insurance policy for when you're going down, you take them out. >> There are two sort of bombs, atomic bombs and hydrogen bombs. Yeah, >> I was making it atomic just divides the atom and but breaks the atom but the hydrogen just combines two atoms and it's going to be much >> just look look at the difference between what you're usually looking at when you look at Alamogora the test or you're looking at Hiroshima and Nagasaki and look at Bikini At which was the new kind the thermonuclear uh devastatingly different. I think if I
 remember right that was a thousand times Bikini Ato was a thousand times more powerful than Nagasaki and Hiroshima. A thousand times. Yeah. >> So what do you need with that? You want to commit Harry Kerry in your region?
 
-### Segment 11 — Exactly I I Think Before
+### Closing — Nuclear Weapon Nuclear Weapons Pentagon
 
 >> Exactly. I I think before wrapping up, let me play a message from Margaret Thatcher to Iranians. Here is what she said there.
 Oh, >> Winston Churchill said in the 30s, "If you give in to aggression, there will be no end to the humiliation you will have to suffer." Some people suggest there should be negotiations. What is there to negotiate about? You don't negotiate with someone whose marches into another country, devastates it, killing whoever he stands in his way. You get him out.

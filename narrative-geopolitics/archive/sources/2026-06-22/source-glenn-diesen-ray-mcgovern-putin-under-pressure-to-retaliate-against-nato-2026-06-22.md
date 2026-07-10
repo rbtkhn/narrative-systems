@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-22
 pub_date: 2026-06-22
 kind: cleaned-transcript
@@ -28,9 +29,19 @@ evidence_grade: transcript-bearing
 transcript_wrapper_tier: paste-prefix
 capture_status: full-operator-paste
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (mcgovern, diesen, channel:glenn-diesen)); 1 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (mcgovern, diesen, channel:glenn-diesen)); 1 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (9 sections)."
 quality_note: "ASR normalization pass 2026-06-23; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Ray McGovern: Putin Under Pressure to Retaliate Against NATO
 
@@ -41,7 +52,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Russia Ukraine Welcome
 
 Welcome back. We are joined again by Ray McGovern, a CIA analyst for 27 years who chaired a national intelligence estimates and prepared the CIA's daily briefs for the president. So, yeah, thank you for coming back on. >> You're most welcome, Glenn. Glad to be with you. >> So, well, you and I, we we did some communication back and forth and also have talked to other people on this topic as well, which is the the pressure that President Putin is currently under.
 Um again, I'm not sure from where, the public, the military, security services. Essentially, a lot of pressure to retaliate more forcefully. Not just against Ukraine, but also possibly against its Western backers who appear to have uh well, crossed that line between a proxy war and a direct war. I was wondering how you are assessing the information or the the situation.
@@ -55,7 +66,7 @@ So, uh this came to the fore at a little noticed meeting. Perhaps you did becaus
 We don't have it employed yet at the front, but it's coming. And please, just be patient. We're working on this. We know it's Starlink, but we have Please." Next one says, "You know, they have night vision goggles, and they have a lot of other special stuff that we don't have. So, so Putin turns to Belousov and says, 'Hey, what is this?'" And Belousov says, "Look, they're on their way.
 We know about this. We're developing it." And then Putin says to this group of non-commissioned officers, "Look, this is the guy I made secretary of defense or minister of defense minister because he knows all this stuff. He's worked in the military industries, and if anybody can get this done, he can get it done, and he's going to get it done, okay? And
 
-### Segment 2 — So Anyhow It Was So
+### Segment 2 — Russia Trump Here
 
 so, anyhow, it was so frightening, you know, that as they eased up, they So, what's my take here? My take is that drones are a real problem.
 They have slowed down the the Russian offense, but the inexorable movement towards Kramatorsk and the others, I guess what's it, Konstantinovka is right now being occupied by by the Russians. It's just a matter of time before the Russians develop those kinds of countermeasures that Putin referred to and Belousov as well.
@@ -69,7 +80,7 @@ from." So, this army says, "You know, this is a combination of Russophobia and n
  So, okay, now, uh is uh Latvia a a NATO country? Yeah, well, yes, it is there. Well, is there a NATO treaty that would compel the other members to come to its defense and make war? Yes, it Oh, yeah, but it doesn't doesn't doesn't mean anything. Uh okay, Putin. Doesn't mean anything. No, you mean because NATO's falling up Yeah, because NATO Well, well, uh what are the chances that uh uh that Donald Trump uh might invoke Article 5 if we hit Riga or if we hit one of those bases in Oh, wait.
  10%? What do you say? 15%? 20%? Too high. Much too high. You You want me to risk everything we've achieved since since 2000? Everything we've achieved in Russia uh by depending on an unpredictable president not to invoke Article 5 when we don't need that kind of thing? Forget about it. We're going to We're going to completely uh just kind of a trip a trip a trip if the if the Latvians do let if the Ukrainians do
 
-### Segment 3 — Fire Missiles Or Or Drones
+### Segment 3 — Trump Europe Russia
 
 fire missiles or or drones from Latvia, we'll deal with that. It won't be automatic.
  That SRV thing was a warning, okay? And we can retaliate and maybe we will, but not just now. We're winning, for God's sake, we have a little patience. Now, on the political side, there's also some heat that you can see. Finally, over the last couple of months, we've learned what the agreements were reached, the the Anchorage agreements, okay? And they have to do with Trump giving up the idea of an immediate ceasefire.
@@ -84,7 +95,7 @@ And in that case, he came through. He persuaded Zelensky, as was admitted by Zel
 And there was one other point here that I wanted to make and uh and it'll probably come to my mind a little bit later, but I've been talking too long as it is, Glenn, so feel free to stop me when I become too Irish and uh too extraverted. >> No, well, I I think that probably the the Russians got some they got less faith in Trump's diplomacy after Iran because there as well you saw the first initiative for the ceasefire which was on the US side when they accepted the 10-point plan of the Iranians, but then walked it back right away and uh overall
 the the their trust in his diplomacy has has diminished, but but but about the risks though, I mean you mentioned that 10-15% chance of ending up in a direct war with NATO, and that is a big risk, but if the alternative was status quo, I would see it. The
 
-### Segment 4 — The Problem Though Is Status
+### Segment 4 — Russia Ukraine Europe
 
 the problem though is status quo is not available.
  The the escalations only continue. And well, essentially my thought though when I watched this massive attack on Moscow was that someone would have to pay a very big price for this, but that someone will likely be Ukraine, and it does seem a bit unfair because uh the Ukrainians well, a majority of Ukrainians, they did not want the regime change that NATO instigated in 2014.
@@ -99,7 +110,7 @@ Um See what What else, Glenn? You had more interesting question that I didn't re
  So, a lot of this is showmanship, a lot of this is Hollywood. But you you know, your point is quite valid. Uh most people phrase it the way you did. How much can Putin withstand in all this? Well, my notion really uh derives from my appreciation of Putin as the um Well, he's atypical of all the Soviet and Russian leaders that I've watched over six decades now, okay? He's unique.
  Uh he's not going to be provoked, okay? When he has the upper hand, he recognizes it. Uh he's willing and not bashful about letting these sergeants complain about these drones that Ukraine and the West are using and hurting their advance. Yeah, he holds that open and it's a videographed
 
-### Segment 5 — And So Forth In Other
+### Segment 5 — Russia Ukraine Europe
 
 and so forth. In other words, I see a confidence in Putin that believes that the notion that he feels he has to trim his sails uh to uh to those who say, "Aren't you tired? We got to go faster.
 " The other thing is that, as you know, because you've been in Russia probably more recently than I, uh life goes on there. I mean, life hardly recognizes the special military operation. And that, of course, was the deliberate objective of Putin, not to get a big war going with conscription and all that kind of stuff. So, the last thing I was saying that is there is retaliation.
@@ -114,7 +125,7 @@ Uh we were disappointed by what Trump thought he could promise. We know that som
  As a matter of fact, they told him on the whole of phone. Well, they got the missiles ready." I don't know about that, but even if they did, the calm reaction under these provocations, and let's face it, they are provocations, persuade me that this is Cool Hand Luke. This is a guy who's not going to be provoked. He's got a winning hand.
  Uh the US has discredited itself in Iran and elsewhere. Um they're running out of missiles and stuff and and the Ukraine the Ukrainians, uh sure, they get 90 billion dollars worth of weapons. Where are they going to come from? Uh oh, well, the US has not got a lot of them that
 
-### Segment 6 — They Need Uh And Oh
+### Segment 6 — Europe Russia Ukraine
 
 they need. Uh and oh, and they got that the Europeans are going to have to pay for them and so where's that 90 million dollars going to go? 90 billion, sorry.
  Well, they'll probably only a lot of it go right into the pockets of the notoriously corrupt Ukrainians. So, uh uh chalk me up to being more relaxed than the others. Uh, it depends on one's view of Putin, what kinds of pressures he's under, and I may be completely wrong, but I think he's pretty much in charge, and Lavrov and Ushakov are able to say these things, and um, but Belousov, the defense minister, is able to, yeah, those drones are a real problem, but we're working on it.
@@ -129,7 +140,7 @@ Why are they saying all that? And why is it that the that the Ukrainians insist 
  Now, it could come to, you know, I was thinking today or yesterday was the anniversary the 85th anniversary of the Nazi attack on the Soviet Union. And uh it's a big deal. You You may have been in Russia. I was there for the 75th, right? 2016. I was in Yalta. Uh we we were the first American delegation to to come to Crimea uh since the um since the the coup in Kiev uh in February of 2014.
  We were an unofficial delegation of citizens. But we uh we had quite an experience there
 
-### Segment 7 — And And I I Was
+### Segment 7 — Russia American Enough
 
 and and I I was lucky enough to be uh asked to speak at the main ceremony in Yalta to mark uh to mark the 75th anniversary of the of of what Putin has called the day where one gets a lump in one's throat, okay? And so they asked me to to speak.
  We were Americans, right? And uh and here here I looked there most people were older than I was, right? And uh they were widows. They were widowers. They were children and grandchildren of the 27 million that got killed during the years following that particular day. And uh my colleagues said very you you talk and the only thing that could occur to me was to uh try to empathize with what happened in a way that would be uh appropriate and I I chose a poem from Nikolai uh Nekrasov.
@@ -144,7 +155,7 @@ J.D. Vance yesterday in Switzerland says, "I'm part of the millennials. I'm part
 Why does life almost come to a halt on June 22nd? And why does one feel a lump in the throat? Then he goes through the whole World War I, World War II, and World War II and how the the Soviets were able to prevail. Now, the other side of course is that a lot of people think they would not have been able to prevail without a lot of Western help.
 And that is true. And let me just put just a little more color in here. Uh I was celebrating the the meeting on the Elbe where Russian forces and uh mer- in Moscow, gosh, it must be 10 years ago. And uh and uh it was really very very poignant uh uh What was I
 
-### Segment 8 — Going To Say Uh Oh
+### Segment 8 — Ukraine Russia Europe
 
 going to say? Uh Oh, yeah. Yeah. I recited the same poem.
 There's no better poem than that. And then this great big 6-foot-4 general I I could still tell the what he was, okay? Uh comes up to me doesn't say a word after I'm finished saying this poem and he says to me "Studebaker!" "Studebaker!" "Studebaker!" And then he gives me a terrific big Russian bear hug, right? I'll bet that J. D.
@@ -158,7 +169,7 @@ And his mother had to give Vitya over to kind of a hospice where they had some c
  And part of the reason is he's not going to do anything so so dangerous to risk an outbreak of another major war. I hope I'm right on that. I think it's a big deal. I hope he stays around for a while. >> Well, listen, let me just ask one one last question. We we almost touched on it earlier on, which is uh uh the issue of the problems now between Poland and Ukraine.
  I mean, Poland on one hand's been one uh one of the key sponsors in this war. They're not just the key logistics centers, but they also sent a lot of their own troops as volunteers and again, they've been well, well cheering this war on uh since the beginning, but but at the same time, of course, the Poles are quite critical about having Ukraine in the European Union, for example, because of some agricultural
 
-### Segment 9 — Disputes And All A Lot
+### Closing — Russia Europe Ukraine
 
 disputes and all a lot of issues.
  However, we haven't seen anything like this before. That is in in Europe, at least, as well as the US since 2014. We had to pretend as if the regime change, you know, had nothing to do with any fascist elements. But now with Zelensky essentially re-bearing, you know, fascist from World War II, giving them for the full honor of the government, it has also created some annoyance among the the Poles because, you know, they slaughtered 100,000 Polish civilians as well.

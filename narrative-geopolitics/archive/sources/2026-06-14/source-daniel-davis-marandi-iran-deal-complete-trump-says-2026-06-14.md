@@ -1,5 +1,6 @@
 ---
 
+
 ingest_date: '2026-06-15'
 pub_date: '2026-06-14'
 kind: cleaned-transcript
@@ -26,10 +27,9 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: paste-prefix
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 13 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Marandi/Marandi, Mir/Mehr, Formos/Hormus, Marandi, etc.). Subscribe/Heat close at tail. Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 13 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Marandi/Marandi, Mir/Mehr, Formos/Hormus, Marandi, etc.). Subscribe/Heat close at tail. Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-07-09 (9 sections)."
 quality_note: ASR normalization pass 2026-06-15; ph-civ replacement SSOT.
 davis_close_promo_trim_applied: true
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -38,6 +38,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Breaking: IRAN DEAL COMPLETE Trump Says / Lt Col Daniel Davis
@@ -50,7 +53,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Lebanon Trump
 
 Hey everybody, welcome to the Daniel Davis deep dive on the side of the road show edition here. I'm actually in Puerto Rico, my wife's home country, uh, and was literally driving across the countryside when Gary let me know that according to President Trump, we have a deal that's going to be signed on the 19th of June, uh, which is coming up very shortly.
  A lot of things have to happen in between now and then, but he's claiming that everything is done. There's a deal in place, etc. What he didn't say in this release here is any terms that it includes and that is where everything in the world matters. And just to let you know, uh the first question that I had in what is what are the Iranian sides saying? And we're going to have incredible Gary was able to work this out and make it happen.
@@ -62,7 +65,7 @@ And look, let's just look at a few of them because they're big. These are huge. 
 Now, that's going to be one of those that's subject to interpretation. Does that mean leaving the entire region, all these 20 bases that we had? Are we declaring that we're going to leave those or is it going to be like oh no I only meant the ones that are like you know within 25 miles or something so there'll be three I who knows and one would hope that these are some of the details that have been worked out and by the way let me just kind of point out that when you have a negotiated deal to recall it took two plus years or
 somewhere around two years to
 
-### Segment 2 — Negotiate The Jcpoa Between The
+### Segment 2 — Iran Hormuz Nuclear Weapons
 
 negotiate the JCPOA between the United States and Iran and they were not in the middle of a war and to now they'd be going so far exclusive ly through an intermediary, text messages, emails, etc. Uh where almost none of the hard issues could be resolved.
  And ordinarily, you do all that stuff first at the nug level that we call it. Then you get the minister level and then they get a little bit closer and then finally you get it to the sovereign level where the leaders finally make the last few agreements and then they sign something. This has bypassed all of that and we don't even know what the details are that have been agreed to even within what's being released here.
@@ -75,7 +78,7 @@ Everybody on the American side has said, "Oh, hell no. There's no way we are goi
  All of the difficult things are coming subsequent like in the phase two. So there is nothing about the nuclear program. Uh that's about what they're going to do, what they're going to have reprocessing to 60% material, etc. None of that's even in this phase. It's all that a during this 60-day additional ceasefire, that's when we're going to get into a final agreement.
  So, we'll see what's going to happen with that. Uh number nine, uh reiteration of Iran's commitment under NPT treaty to not to produce nuclear weapons. Okay, interesting.
 
-### Segment 3 — That's Number Nine And Like
+### Segment 3 — Iran Trump Nuclear Weapons
 
 That's number nine and like not number one or two. Uh but that's the easiest one on the list of all because Iran has never said anything besides that.
  So, they give literally nothing to repeat what they have already said. Number 10, during the final negotiation period, US has a commitment not to add forces to the region and not to impose new sanctions. Number 11, the release of 24 billion dollars of Iran's uh blocked funds during the 60-day final negotiation period. Half of this amount must be made available to Iran before the start of negotiations.
@@ -87,7 +90,7 @@ That's number nine and like not number one or two. Uh but that's the easiest one
  Uh that their navy had to go, that their air force had to go. uh there there's for protection for I think the the uh the proxies you know all the stuff and of course no nuclear weapons etc. Um, you know, and then he had this famous the only thing we're going to accept is complete surrender. Total surrender. That's all we're going to accept.
  And of course that went away then and then he changed it to a bunch of times and then 39 times prior to this he said we have a deal. Okay, this is number 40. Either it's also fake or he has given in on nearly everything because just let's be again it's so important to be crystal crystal clear on the context here. straight was open and there was no loss of anything and all of our bases were open and untouched on the 27th of February
 
-### Segment 4 — Before We Took This War
+### Segment 4 — Iran Trump Netanyahu
 
 before we took this war to Iran.
  And now then here coming out, we're going to have a situation to where Iran, at least according to that version of the text, we'll see if that's official or not, they have control of the strait. Uh that they're they're still going to have their uh proxy forces in the region. They're still going to control that. Um, and then that number one, the fire war in Lebanon has to come to an end.
@@ -100,7 +103,7 @@ I hope I'm here. >> Thank you. >> Uh, no, no, it's my pleasure. Uh what has happ
  So we but but if Netanyahu does not abide by the commitments the trade of formals is not going to be open. So Netanyahu has put himself in a terrible situation by carrying out this act of murder alongside the genocide that's been ongoing. By carrying out this act of murder in Beirut, he has forced Trump to concede key um um concessions.
 And now he either obeys Trump and has to end the occupation and end the slaughter and lose. or he disobys Trump and
 
-### Segment 5 — Humiliates Trump And Perpetuates The
+### Segment 5 — Trump Iran Netanyahu
 
 humiliates Trump and perpetuates the crisis, the economic and energy crisis because Iran is not going to open the Strait of Hormuz carries out commitments. >> Gary, you can put those 14 points up there.
  First of all, just let me ask if you're aware, is this the accurate, the genuine text that President Trump is going to sign, the same one that's apparently coming out of uh mayor news agency. Is this accurate? Because the number one point and immediate ceasefire of war on all fronts. >> This is this is my cell phone. I really can't see anything. It's too small.
@@ -112,7 +115,7 @@ humiliates Trump and perpetuates the crisis, the economic and energy crisis beca
  So the Zionists should be outraged that with what Netanyahu has done. But again, it doesn't mean that this deal is going to be implemented. We don't know. It will depend on Trump and Netanyahu. But Netanya in particular, but it Netanyahu is is in a terrible position because if he, as I said, if he obeys Trump and carries out his commitments, catastrophic defeat.
 If he disobys Trump and refuses to carry out his commitments, he humiliates Trump and Iran won't Iran will not carry out its obligations because >> and and that that's said there's two I know you're running short on time. There's two big important things I want to ask and one is on the issue of there because Israel knowing how things
 
-### Segment 6 — Are Viewed In Iran Struck
+### Segment 6 — Iran Trump Israel
 
 are viewed in Iran struck Hezbollah in in northern Beirut specifically and gave uh evacuation orders to 29 additional uh communities in southern Lebanon which completely seems to violate everything like their
 plan is to continue going on and uh my understanding from I think something you'd said and something other Iranian leaders had xed out sent out on X is that there There's going to be a retaliation. They were going to retaliate, which you mentioned again ago. Now that apparently you're saying that Iran is going to not retaliate for that one, but if there is any more, is that restraint going to stay in place? >> No. No.
@@ -124,7 +127,7 @@ If the Israeli regime uh we've already we've already struck the Israeli regime a
  But they will yes Iran will be receiving uh I think $12 billion up front. It's its own money. It's it's money that was stolen and confiscated. But ultimately in this period all of Iran's assets have to be returned which is roughly 24 25 billion. >> And what about this clause in there that 300 billion of reconstruction costs i.e. reparations uh has to come from somewhere or does it matter where and is that a non-negotiable part? Uh I don't know the details of that.
  All but I what I do know is that Iran will continue to uh be in control of the Strait of Hormuz and it will uh be taking it will be taking fees from ships uh you know whether it won't be a toll because apparently that's internationally that's according to international law problem. So it'll be a fee
 
-### Segment 7 — For Insurance And Security And
+### Segment 7 — Trump Iran American
 
 for insurance and security and for environmental protection, but it will be the same thing under a different name.
 >> As far as you know, President Trump has agreed to that. He signed a document or will sign. >> Yes. But we don't trust Trump. We don't trust uh the Trump regime. And uh I don't think anyone on this planet does. I don't think the American people do. So, uh, we're not we don't we're not raising our expectations, but if he does not implement, we win.
@@ -137,7 +140,7 @@ for insurance and security and for environmental protection, but it will be the 
  I looked right before we came on. I still have seen nothing on any terms released by the administration, by any Western source, Washington Post, New York Times. We keep scouring them all. So far, no terms at all has been announced. Just this really self aggrandizing full uh truth social that President Trump put out talk about how I'm the greatest thing ever.
  I did this, I'm amazing,
 
-### Segment 8 — Etc But No Terms So
+### Segment 8 — Iran Nuclear Weapon Trump
 
 etc. But no terms. So there's nothing for anybody to evaluate whether this is a good deal for the United States or not. Danny. Yeah. Well, I do have the original terms that Trump had gone into this war from February 28th that we could play. >> Now, let's compare what that list was with what he went in saying we were going to accomplish.
 >> We are going to destroy their missiles and raise their missile industry to the ground. It will be totally again obliterated. We are going to annihilate their navy. We are going to ensure that the region's terrorist proxies can no longer destabilize the region or the world and attack our forces and no longer use their IEDs or roadside bombs as they are sometimes called to so gravely wound and kill thousands and thousands of people including many Americans.
@@ -149,7 +152,7 @@ happen tomorrow when the sun comes up and now then people start asking the hard 
  Number one, this is the immediate opening of the Straits of Hormuz and of course the lifting of the naval blockade that we've had on Iran along with it. The number two thing that it means is that Iran will never have a nuclear weapon and not just pursue a nuclear weapon but procure or try to buy a nuclear weapon as well.
 That's built into this agreement. And then the third thing is and this only happens to be clear if Iran delivers on their promise. And so there's an approach here where we
 
-### Segment 9 — Verify And Where There Are
+### Closing — Iran Middle East Lebanon
 
 verify and where there are real benefits so long as Iran meets their end of the obligation. But if the Iranians comply with his deal, it is going to fundamentally transform the Middle East for the next 50 years.
  It's going to end the war. It's going to make the Middle East more investable. It's going to mean a lot of prosperity, lower energy prices for the American people. This region of the world has been a basket case for my entire life and longer than that. >> Okay, Gary, that's probably enough on that, too.

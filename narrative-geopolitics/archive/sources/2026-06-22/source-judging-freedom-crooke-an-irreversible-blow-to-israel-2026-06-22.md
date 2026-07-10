@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-22
 pub_date: 2026-06-22
 kind: cleaned-transcript
@@ -28,10 +29,20 @@ napolitano_close_promo_trim_applied: true
 napolitano_leading_noise_trim_applied: true
 opening_tier: host-tease
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (crooke, channel:judging-freedom)); 18 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Ideological cold open trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (crooke, channel:judging-freedom)); 18 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Ideological cold open trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-07-09 (9 sections)."
 manual_asr_spot_fix: 2026-06-22 — Alastair Crooke, Pezeshkian, al-Sharaa; Bogie (tentative ASR); Tripoli/Homs; statement-about; pass-2: Israel-has-failed, power-game, dismantle, Taoura-ridge (tentative); pass-3: issue-is, toe-the-line
 quality_note: "ASR normalization pass 2026-06-22; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Alastair Crooke: An Irreversible Blow to Israel
 
@@ -42,7 +53,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Hormuz Trump
 
 Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
  Today is Monday, June 22nd, 2026. Alastair Crooke joins us now. Alastair, a pleasure, my dear friend. Can we start with basics? Is the Strait of Hormuz open or is it closed? >> [laughter] >> You know, I have to give you the same old script so often give you. Well, both are true. >> [laughter] >> What I What I mean by that is um it's not completely closed, but it is very restricted in this passage through it.
@@ -53,7 +64,7 @@ Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
  So yes, there was a little bit of threatening, there was a little bit of whining, but at the end of the day the talks continued and we made great progress. >> made great progress. I would think that President Trump violated one of the great protocols of all time that in the middle of negotiation he threatened to kill the other side.
 He threatened to bomb >> Pardon? Yes, absolutely. This was a decapitation strike promised the entire negotiating team again. I mean, a war crime effectively promised us. And what Vice President the Vice President is saying is not really very true or accurate because I mean, what are the threats that Iran has made? I mean, they have made uh threats which are consistent with a military conflict saying that if you
 
-### Segment 2 — Hit Our Infrastructure We Will
+### Segment 2 — Iran Israel Netanyahu
 
 hit our infrastructure, we will strike at other infrastructure in the region.
  If your forces attack us, we will hit back. That is not of the same order of of threats as saying, you know, we are going to obliterate you as he just said today, if you don't you don't do it or your team will not even make it back to Tehran. They will be gone. I mean, these are I I mean, there's there's not really it's not really a comparison.
@@ -64,7 +75,7 @@ hit our infrastructure, we will strike at other infrastructure in the region.
  Don't even raise the question that we can just go on as we were and that we can count on America will get America back into the war, and we will be flying wingtip wing to wingtip with the Americans um into Iran. That's a fantasy. Everyone, you know, who is involved in the leadership know this is not going to happen. America is not going to fly wingtip to wingtip ever again with Iran in it with Israel into Iran.
  So, that's So, they that is that has got through. But, then there's the well, so what? What do we do now? And this is this is a a deeper question. And it goes to the also to a wider perspective because we
 
-### Segment 3 — Have All These Wars And
+### Segment 3 — Iran Israel Lebanon
 
 have all these wars and they are proving to be unwinnable wars. We are trapped in a series of conflict whether it is in Lebanon or in Gaza or in the West Bank or in Syria, we are trapped in the series of conflict and we don't have manpower to sustain it.
  So, what are we going to do? There isn't a plan. And this is what's going to be, you know, what ultimately the election is going to be fought on. Israel has to look at what's next. And it's interesting that certain Israelis are saying, "Well, look and and listen to what Trump is saying because his various comments, you know, that we write off as silly such as Iran could be part of the Abraham Accords and that I'm going to turn um Lebanon over to al-Sharaa to look after because you I mean, you Israelis can't manage it. You're just too heavy-handed.
@@ -75,7 +86,7 @@ I'm not saying this. This is what high-level senior Israelis who've been connect
  America perhaps is not going to give us any longer, you know, a blank check on what we do. Most of, you know, we cannot wage war without American facilitation. Everything depends on the United States. So, if they start withdrawing people, if they start withdrawing the CENTCOM officers from the Department of Defense in Tel Aviv, these things, I mean, you know, we need to rethink what is our strategy.
  It has >> [clears throat] >> begun. And it hasn't begun. It's It's there. It's got to come at some point, but I I
 
-### Segment 4 — Think The Election Is Going
+### Segment 4 — Iran Israel Middle East
 
 think the election is going to get in the way of really thinking about uh And of course, it's connected to how America thinks about that, too. And you know, clearly um there is a sort of sense of uh examination, reexamination in the US going on.
  And the two are um interconnected in in in many ways, but I think um so anyone hoping for a change of policy uh in Israel, I think will be frustrated. It's not going to come because they are in denial. And they cannot actually yet look reality in the eye and say, "Okay, we get it. Now we need to think where we go now.
@@ -86,7 +97,7 @@ But I I wouldn't advise people to hold their breath and think that they're going
  It is about bringing about redemption in the Messianic age. And with that, the the the for them, I mean, Iran is the block to redemption, to a Messianic age, to a glorious future. So, it has, you know, other dimensions it have to work through. Someone's got to work through this eschatological dimension, the Messianic dimension, and try and help the Israelis to find a new interpretation of their Talmudic in this area to to to come to terms with us.
  But I don't think this is something that will happen
 
-### Segment 5 — Quickly So For Now We
+### Segment 5 — Lebanon Hezbollah Iran
 
 quickly. So, for now we will find, I think, Israel acting as spoiler to the agreement, irritating Trump and the Washington enormously. But that's their nature. It's in their nature. It's in their eschatological vision of the world. They can't just simply move on from that.
  And we have to understand that. And I do think, to give it credit, Iranians have um some understanding of this. I mean, they are not pressing for unrealistic, im- impossible outcomes. They're not saying total withdrawal from Lebanon now. Everyone out. Because they know it that, you know, it's just not possible at that point.
@@ -97,10 +108,12 @@ He's very cleverly sort of got his five points of strategic points. And then he 
  The Hezbollah will kill us. Um and with their drones and things they are. So, you know, I think one's got to have a certain nuance in this about how um you know, Iran is going to try and manage this. Hezbollah is going to manage this. Uh and they are fighting also a great disadvantage in that the government uh are of Joseph Aoun and Salam are trying to create a circumstances in which um the sort of Christian radical Sunni elements um become a little sort of um government on its own, a state on its own, and that that that Hezbollah will be disarmed, its
 political rights removed, its social um structures removed, its financial structures moved. They're trying to go through They've fallen in totally with the Israeli position, and they're trying, if you like, to destroy, you know, uh this element which is 40% of Lebanon, uh probably
 
-### Segment 6 — A Little More Um And
+### Segment 6 — Middle East Little North
 
 a little more. Um and they're trying to sort of uh completely dismantle it uh as a political force so they can live in their little bubble in the north um of going back to the old days of the Maronites and the uh and the radical um
 uh rather a radical hardline Sunni structure that runs from the north right through down through Tripoli and Homs and has always been you know much closer to the sort of Wahhabi view of the world than it has been to Middle Eastern the Middle Eastern norm on Sunnism. It's a very different character.
+
+### Segment 7 — Iran Netanyahu Lebanon
 
 >> What what will happen to the agreement to the negotiations if Israel keeps killing people in Lebanon? >> Oh well, I okay, you know, then then the negotiations will stop.
 I mean that's yeah. I mean you know, there's a lot of tension in Iran about having negotiations at all. Serious tension in in Iran. Popular sentiment is is is showing just say skeptical about the intent of Pezeshkian and Araghchi and this is why the supreme leader issued the statement just a few days ago saying that he did not actually ultimately fully accept or agree the negotiations at all.
@@ -110,7 +123,7 @@ I mean that's yeah. I mean you know, there's a lot of tension in Iran about havi
 Do you think he's still reporting to Prime Minister Netanyahu during these negotiations, perhaps as we speak, or is he going to allow uh the two Zionist negotiators, Witkoff and Kushner, do that for him? >> I I I imagine he will be talking to Netanyahu during this period because, of course, I mean, he's a politician and his [clears throat] eye is on the future.
 And
 
-### Segment 7 — I Mean The Future In
+### Segment 8 — Israel Trump Iran
 
 I mean, the future in politics, and particularly in American politics, is about money. And um I think, you know, already people are starting to uh solicit contributions, um, including from uh the pro-Israeli groups, um, uh in order to fight coming elections, even if they're somewhat far off.
  Um, but so I think uh he will be talking to Netanyahu. It would make well strategic sense for him. >> Here is the uh threat uh that you spoke of uh earlier. So, that's Trey Yingst, my friend and former colleague at Fox News, who interviewed the president. Uh who said to Trey, "You close it," meaning Hormuz, "and you won't have a country. You won't even make it back to your effing country.
@@ -121,7 +134,7 @@ I mean, the future in politics, and particularly in American politics, is about 
  I mean, you know, there are firing within a ceasefire taking place, maybe both in Hormuz and certainly in Lebanon, because I don't think Israel will be able to restrain themselves from making attack on Hezbollah. They've cooked up this narrative that this is huge tunnel under the Taoura ridge, which is the one running along by Beaufort Castle, and they're desperate to get it because they think that the Hezbollah command center and lots of missiles lying underneath this.
  And so they're saying, "Well, we can't go." We all know what this is. It's Netanyahu wants a trophy before the election. "We got the tunnel. We got the missile city. It was a great triumph." I It All I understand is they're nowhere near it and when they try and approach it, they are eliminated. The Israelis are killed.
 
-### Segment 8 — So I Don't Think It
+### Closing — Ukraine Europe Russia
 
 So, I don't think it I mean, I may be wrong in the future, but I don't see any sign that the Look, Hezbollah are on the move. I I mean, the Hezbollah are going at this quite you know, in a tough way. So, I don't think there's any chance of them giving that up area up about Beaufort Castle. >> Wow. Uh before we go uh totally on another topic, were you surprised at the resignation uh this morning of British Prime Minister Sir Keir Starmer? >> Yes, I was so surprised it's taken this long to happen.
 Well, it's taken so long we were all expecting it long ago and he sort of held on and sort of prevaricated and he's held on. But, I'm sadly sadly to say and it's his sad I mean, Europe is in such a mess. Um you know, particularly they just are still obsessed with the war in Ukraine with Russia and the whole of their meetings which had little attention were very serious.

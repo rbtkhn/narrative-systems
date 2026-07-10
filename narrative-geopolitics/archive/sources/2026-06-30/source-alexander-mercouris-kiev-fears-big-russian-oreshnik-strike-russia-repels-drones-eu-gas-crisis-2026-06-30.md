@@ -1,6 +1,7 @@
 ---
 
 
+
 ingest_date: 2026-06-30
 pub_date: 2026-06-30
 kind: cleaned-transcript
@@ -26,7 +27,7 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: paste-prefix
 normalization_state: raw_operator_paste
-editorial_note: "Operator-pasted YouTube transcript; ASR artifacts retained (Oreshnik/Orchnic, Geran/Garan, Rasvet/Rasfet, Kharkov/Kharker, etc.). Not human-verified verbatim."
+editorial_note: "Operator-pasted YouTube transcript; ASR artifacts retained (Oreshnik/Orchnic, Geran/Garan, Rasvet/Rasfet, Kharkov/Kharker, etc.). Not human-verified verbatim. · source-section pass 2026-07-09 (4 sections)."
 quality_note: "Initial land 2026-06-30 via land_statecraft_source_body.py; operator paste."
 opening_trim_applied: false
 opening_trim_rule: ""
@@ -36,6 +37,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 4
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Kiev Fears Big Russian Oreshnik Strike Coming; Russia Repels Ukraine Drones; EU Gas Storage Crisis
 
@@ -44,6 +48,8 @@ closing_trim_words_saved: 0
 **URL:** https://www.youtube.com/watch?v=H8W9R4qjUaE
 
 ## Transcript
+
+### Show Open — Russia Ukraine Middle East
 
 Good day. Today is Tuesday, 30th June, 2026. And I make this program as the two conflicts, the one in Ukraine and the one in the Middle East continues.
  I will turn to the topic of the conflict in the Middle East between the United States and Iran towards the end of this program. But mostly and initially I'm going to discuss the situation in the conflict in Ukraine. And yesterday I discussed the exceptionally extraordinary number of meetings that the president of Russia Vladimir Putin attended and the extent of the information that he gave over the course of those meetings and his detailed discussion of the situation on the front lines and on Russia's energy situation and in the sphere of diplomacy.
@@ -63,6 +69,8 @@ These might not necessarily be western governments, but they might include gover
 such an attack is going to take place over the next few hours, I would treat this as a clear signal that we are about to see a further big escalation of the Russian offensive on the front lines. I doubt that the Russians would want to attack, carry out that kind of attack on Kiev itself in isolation from events on the front lines.
 But having said that, information from the front lines might indeed support the conclusion that an attack of that kind is indeed coming. Now, having said that, the Russians have actually been very busy in the sky, and perhaps it's worth discussing briefly some of the things that have been taking place.
  um as part of the ongoing Russian attack in the sky. Um and the Russians have in particular, as many people have been pointing out, conducting mass drone strikes against gas filling stations um right across eastern Ukraine. There's been a systematic campaign by the Russians using Garand drones to attack and destroy gas stations, making it impossible for um cars and vehicles to refuel um as they use roads across eastern Ukraine.
+
+### Segment 2 — Russia Ukraine Iran
 
 And there's been a number of comments about how the Russians in conducting this offensive appear to be making it increasingly difficult for road traffic to access two particular cities in eastern Ukraine. One is Zaparoia city which is of course on the Neper and which is on the east bank of the Neper but which still it seems to me would have some access by road from the west.
  Um the other however is the city of Kharkov which is located much closer to Russia's borders and quite a significant distance from the Neper and there's been various charts and maps which appear to show that gas filling stations along the main roads to Kharker from the west have been particularly heavily targeted, making logistic movements and road movements from western Ukraine to the city of Kharkov much much more difficult and ensuring that if road traffic does actually arrive in Kharkov, it might not be able to turn back because it will have used up all its
@@ -97,6 +105,8 @@ But the Russians will no doubt develop their own counterjamming jamming techniqu
  So anyway, whatever. Um, we're seeing increasing effectiveness of Russian drones that these are tactical drones. Even though they're drones, they're being used to disrupt and defeat Ukrainian logistics behind the front lines and to prevent the supplies to the cities. And we are also getting the first indications that the Russians might be planning to extend their range of their optical drones and perhaps they're doing this with the Rasvet system.
  Now, if all of the things that I've speculated about on this program turn out to be right, then we are going to see another shift in the war in the sky. By high summer, late July, August, we're going to see the Russians hammer Ukraine with drones to an extent and a degree that we have never seen up to now. And might that be, by the way, also why the Russians are not launching huge attacks with 1,000 Gan drones a night.
 It's because there's been changes in the Giran drones which require adjustments in the production rates so that these drones start to live receive maybe their raspet jammers or whatever it is and that that might be a further reason why we have had an apparent pause in the big strategic strikes against Kiev even as the attacks on the gas stations and the fuel complex in eastern Ukraine has been escalating.
+
+### Segment 3 — Russia Ukraine Ceasefire
 
 Now, I've discussed all of this in some detail. Now, um I should say that there's also been some rather interesting news about the shooting down of the third Mig 29 that was apparently shot down in the sky and it allegedly was shot down by the Russians using an air-to-air missile launched by a Suhoy 35 fighter jet.
 Reports say that this missile traveled a distance of 190 kilometers, which some say is a record for an air-to-air missile to cover. I'm not an expert on these matters, but again, um, if that has indeed happened, then that would imply that the Russians were tracking this MIG 29 from distance from a distance far beyond the range of the Su Hoy 35's own radar, which might suggest suggest that Russian Awax aircraft are once again active over the Ukrainian skies.
@@ -135,6 +145,8 @@ Um the two settlements um are called RVO and Le No. And I should say that if so 
 Anyway, that's one area. And well, if we go to the northern front lines, there's also now been many reports about the Russians being very active um in the area of the city of Sunumi. The Russians claim that they are in the process of capturing more villages and territory um around Sunumi. The Russian forces appear to have entered the forested area immediately to the north of the city of Sumi.
  And by the way, Scott have calibrated says that he's actually also received direct information from someone in the city of Sunumi. Also saying that the city is now being heavily bombed, that Russian drones are very active over the city of Sunumi, and that there are increasing questions within the city about why an organized evacuation of the civilians in Sunumi is not taking place. Well, we'll see.
  As I said already, for Zilinski, the loss of the city of Sunumi will probably be the biggest blow of all. Not only, as I said, is it a regional capital and indisputably the largest town the Russians will have captured since Marupole. But it is on the main road to Kiev. And as I've said in many programs, the nightmare that haunts Zalinski, in my opinion, is the nightmare of the Russians returning in force to Kiev itself.
+
+### Segment 4 — Russia Europe Iran
 
 Anyway, that's my overall summary of the situation in the war. Lots of things developing and evolving. As I said, we must wait this big strike that's coming. But the military situation for Ukraine continues to deteriorate. And well, for the record, if you want a further rundown of the true situation in Ukraine, the actual situation that Ukraine is facing, then it might be a good idea to turn to Sonar 21, Larry Johnson's indispensable blog Substack site, and he's actually provided did a summary, a written summary of the situation in Ukraine and
 on the front lines. Now, there is something else happening which is very extraordinary and it's extraordinary that it is gaining so little attention. The Russians, Gasprom in particular, have been warning throughout the year that the Europeans are taking a very casual line with their gas with their gas supply situation.

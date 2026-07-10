@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 ingest_date: 2026-06-24
 pub_date: 2026-06-24
 kind: transcript
@@ -27,9 +33,19 @@ youtube_id: VaXq6HQAaMM
 source_note: "Operator source-intake 2026-06-24; operator-pasted YouTube transcript. Katz won't withdraw Lebanon even if US demands; Channel 13 Trump limits IDF Lebanon/Gaza freedom of action; NYT defensive-only southern Lebanon orders; Bennett opposition vs American pressure; JD Vance regional ceasefire as US desire; phased Israeli Lebanon exit = Iran deal red line; US acceptance Iran influence southern Lebanon; Gaza uninhabitable thesis; Palestine resolution prerequisite; Arab security diversification / Better Order Project; Araghchi regional security quote; US Gulf bases phased out; Francesca Albanese sanctions; Parsi deportation attempt / Meta censorship; Neuer lobbying; NY Mamani primary sweep; journalist fighter-IDF claims."
 evidence_grade: transcript-bearing
 opening_tier: host-monologue
-editorial_note: Operator-pasted transcript body; not independently verified as verbatim; ASR artifacts retained (Tita/Trita, Natali/Naftali Bennett, Hezbalah/Hezbollah, etc.). · source-section pass 2026-06-25 (9 sections)."
+editorial_note: "Operator-pasted transcript body; not independently verified as verbatim; ASR artifacts retained (Tita/Trita, Natali/Naftali Bennett, Hezbalah/Hezbollah, etc.).\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (9 sections)."
 transcript_wrapper_tier: clean
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # BREAKING: ISRAEL "WILL NOT WITHDRAW FROM LEBANON" – w/ Trita Parsi
@@ -42,12 +58,12 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Open — Lebanon Withdrawal Reports
+### Show Open — Israel Lebanon Ceasefire
 
 Trita, how are you? >> I'm doing well. How are you? >> Good. Um, mainly positive developments from what I'm seeing. Um, just a lot of resistance on the Israeli side. Defense Minister Kat said today even if there is an American demand, we will not withdraw from Lebanon. Um, I don't know whether to take that seriously, whether I should be concerned about Israel because they said the same thing about a ceasefire, they abided by it.
  And then we saw reports in the last two days that there there's discussions about Israel withdrawing out of some of the territory within Lebanon. Um so maybe we can start there.
 
-### Israeli Rhetoric — Bennett and Ben-Gvir
+### Segment 2 — Israel Iran Lebanon
 
 What do you make of the developments in Lebanon? What do you make of the rhetoric in Israel? I'll add a bit more context. You've got uh the uh opposition leader to Netanyahu talking about how Napali Bennett criticizing Netanyahu about um you know listening to Trump and stopping the war against Hezbalah.
  So that's the opposition leader which some people consider slightly more moderate. And of course you got Ben Gir saying you don't negotiate with Iran, you bomb them, you bomb them again, then you bomb them again. Same for his you don't negotiate, you bomb them. So a lot of mixed messages on what to expect when it comes to Israel. Yeah, look, the Israelis are not going to happily agree to this.
@@ -58,7 +74,7 @@ But I don't think it was just empty rhetoric. I think there are things happening
 And then the question is if they take over, will Naftali Bennett restart the war with Iran? Will he restart the war in Lebanon? Right now, they can talk tough because they're in opposition and they don't have to face the American pressure. Once they're in power, I suspect that they will be speaking very differently.
 >> Agree. A lot of it is it's difficult to discern what Natali Bennett is saying that he means that he'll actually deliver a run if he does take office versus what he's saying to gain political points.
 
-### Channel 13 — IDF Restrictions
+### Segment 3 — Israel Lebanon Netanyahu
 
 I do want to reference the channel 13 report that came out on two days ago. It says exactly what you've just said.
  The political leadership has issued new guidelines limiting IDF operations in Lebanon allowing freedom of action within the yellow line and against immediate threats while restricting operations in more distant areas such as Beirut entire Israeli officials said the message from Washington was that Israel's previous operational freedom is quote is over.
@@ -68,7 +84,7 @@ During a meeting led by a zamir earlier today military officials recommending pr
  And Nafali Bennett went off at those uh reports. Uh he's uh saying that Netanyahu was lying. Uh let me see if I can find it here quickly. But he's saying Netanyahu is lying and that he's saying how Israeli soldiers now if they see his members running or using binoculars and monitoring them, they can't act on those uh they can't act on those, you know, warning signs and they don't have the freedom of action.
  It's a long statement he made um where he spoke to soldiers and they don't have the same freedom of action. Now that's all positive, but he did say something. You said Israel won't go down without kicking and screaming.
 
-### Kicking and Screaming — Donors and Influence
+### Segment 4 — Israel Lebanon Hezbollah
 
 Can you elaborate what that kicking and screaming is? Because we can't just suddenly ignore all the influence they have in the US.
 We can't ignore the donors that Trump has been listening to. And those are the same people that managed to do what I thought was was no way going to happen and what you warned me about a year ago and that is a war with Iran that happened this year. >> Yeah. So I think you're absolutely right.
@@ -85,7 +101,7 @@ We can't ignore the donors that Trump has been listening to. And those are the s
 the news outlet in Alazer talking about his another journalist being killed so I my team posted about it and then the IDF quote tweeted me and said Mario this is a Hamas member and he was meant to be an Alazer journalist go to the next media so this is him you can see him there and then they mention his uh number his bala Sorry, Hezbollah number, not Hamas.
  No, sorry. Hamas in Gaza. So my question to you is more broad.
 
-### Journalist IDF Claims — Fact vs Accusation
+### Segment 5 — Israel Hezbollah International Law
 
 Have you looked into this the u the so the claims by Israel that these journalists are members of Hamas? Is there any truth to that where it applies to some journalists? Have you guys at the Quincy Institute ever done a deep dive into this? because it is something that everyone including myself are very vocal about.
  But I've never looked at the other side whether the claims by Israel that a lot of those are members of Hamas orbah are true. So I'm not sure if you can answer that question. >> I no I'm not aware of that specific story. Um and we know for certain and that a lot of times when uh Israel has killed journalists and then made that accusation that accusation has been false. uh in other cases.
@@ -98,13 +114,13 @@ everyone is Hamas, everyone is Hezbollah. Uh and and in the cases of someone who
 they've made uh including how the BBC revealed that they had um um uh corrupted some of the evidence. They had themselves put guns etc in place. The time stamp on the video shows that certain things were actually not present when they were first filmed and then later on the Israelis had put in there underneath these hospitals etc.
  means that you have to take what they say with a tremendous grain of salt. Uh which unfortunately mainstream media in the west doesn't tend to do. >>
 
-### Gaza Uninhabitable — Greater Israel Objective
+### Segment 6 — Israel Gaza Your
 
 Do you think um you're in in the belief that Israel did what they did in Gaza? I just want to move away a bit and get your thoughts on this. They did what they did in Gaza, that massive destruction intentionally to make it uninhabitable.
  Is that the objective, the explicit objective in your view? Uh it's very difficult to conclude that there was a different objective, particularly mindful of the fact that at the same time, you had Israeli officials and very in significant uh people of power within Israel saying that they're going to reconquer Israel, Gaza. They were putting up the Israeli flags there uh and saying that this is going to be beach resorts, etc.
 , etc., that they should never have left and this should be part of greater Israel is so you know under those circumstances when they're on the one hand saying it and on the other hand simultaneously doing it what else are you supposed to conclude >>
 
-### Palestine — Iran Win and Arab Coalition
+### Segment 7 — Palestinian Iran Israel
 
 now that Iran won this war do you think that could have an impact on Gaza as it as it's having on Lebanon because you have the foreign ministers of Qatar Egypt and Pakistan I think they were in Cairo on the first day of the Swiss negotiations and they put out a statement saying there won't be peace in
 the region unless the Palestine issue is resolved. Um do you agree with that statement that there won't be peace in the region if that issue is not resolved and second do you think Iran's win changes the calculus there? >> I think it can. Uh first of all absolutely I don't think we will see any real peace in the region until there is a resolution to that issue and that's obviously not going to be easy in any way, shape or form.
@@ -122,7 +138,7 @@ to do on the Iranian side. Yeah. And the Iranians have a lot of leverage, but is
 >> Interesting. Yeah, good point. I there's a lot that's going to change with that new security infrastructure being created. Uh what's his name? Galibah was talking about it today in parliament. The Iranian where is it? The security of the region must be provided by the countries of the region themselves.
  No country in the region will find it find its security in the security of others. We consider the
 
-### Gulf Bases — Phased US Withdrawal
+### Segment 8 — Iran Israel Trump
 
 withdrawal of foreign military forces from the region as strategic goal. Experience has shown that the base of foreign forces in West Asia, the bases in in West Asia, so they talking about American bases in the Gulf have not only failed to create lasting security, but have also been a source of instability.
  We we've talked about this a few times in the last few weeks. That's expected. This is more of a long-term goal of the Iranians and I think one they may be able to achieve because the Americans were talking about removing the bases in the region for a long time. That was before they got destroyed. That was before they it became obvious how expensive it is to defend them.
@@ -138,7 +154,7 @@ Perhaps the political will be mustered to be able to achieve this. What I have w
  It's interesting how fast some countries have matured in the last 2 three months. >> Yeah. How fast things are moving. That's the wildest part. Um, another question. Um, I want to ask you about how what Israel is doing when it comes to people opposing them because you I want to go back to your point about them going down kicking and screaming.
  Um, there is a a an activist a legal activist
 
-### Meta Censorship — Francesca and Apac Backlash
+### Closing — Israel United Nations Palestinian
 
 Hillary Newer, not sure if you know him. So, he went on a stage at the 2026 International Policy Summit. he started blasting blasting the reporter Francesca Albanese uh who's supported the Palestinian cause in the United Nations and gone against Israel. Um and she talks about how the US is controlled by the Jewish lobby and talks about all the Israeli atrocities.
  And then he starts to brag about I won't play the clip, but he starts to brag about how they he successfully lobbyed the US government to sanction her and close her bank accounts for her criticism of Israel and even target her husband as well. And I think her husband was either had to resign or his bank account was closed. And I'll read out a quote here.

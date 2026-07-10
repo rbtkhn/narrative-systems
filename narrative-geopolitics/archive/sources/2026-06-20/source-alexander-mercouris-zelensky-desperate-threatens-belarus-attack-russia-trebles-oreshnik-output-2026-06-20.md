@@ -1,6 +1,7 @@
 ---
 
 
+
 ingest_date: 2026-06-20
 pub_date: 2026-06-20
 kind: cleaned-transcript
@@ -28,8 +29,7 @@ transcript_wrapper_tier: clean
 mercouris_close_promo_trim_applied: true
 normalization_state: ai_assisted_proper_noun_cleanup
 quality_note: "ASR normalization pass 2026-06-22; ph-civ replacement SSOT."
-editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (mercouris, channel:alexander-mercouris)); 5 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (mercouris, channel:alexander-mercouris)); 69 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio. Routine Mercouris solo subscribe/platform close trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (10 sections)."
-transcript_curation: curated_sectioned
+editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (mercouris, channel:alexander-mercouris)); 5 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (mercouris, channel:alexander-mercouris)); 69 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio. Routine Mercouris solo subscribe/platform close trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-07-09 (11 sections)."
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -38,6 +38,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 11
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Zelensky Desperate; Threatens Belarus Attack; Russia Trebles Oreshnik Output; Plans Big Kiev Strikes
 
@@ -47,7 +50,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Russia Ukraine Economy
 
 Good day. Today is Saturday 20th June 2026. Now, in my program yesterday, I discussed the latest military developments on the Ukrainian battlefields and spoke about the deteriorating situation for Ukraine, the rapidly deteriorating situation for Ukraine on the front lines.
  And well, perhaps unsurprisingly in light of that, a few hours later, at least a few hours after I made my program, uh, a very remarkable set of statements was made by the president of Ukraine, Vladimir Zelensky, and these amounted to threats against Belleris, which is of course a country that closely neighbors Ukraine and which for the record for most of the period since the Soviet collapse has had good relations with Ukraine.
@@ -62,7 +65,7 @@ Now, this has never happened because, as I've discussed in many programs, the at
 But it is true that every summer at the peak of the holiday season um gasoline shortages do arise in Russia. There's one that took place in 2011, for example, which is quite well known again because in Russia, the refineries are only just producing enough gasoline for domestic consumption. And well, the theory is that if you knock out the refineries or interrupt Russian oil imports of gasoline, which I am guessing is what Russia mostly imports from Belleris, but Russia also imports refined petrol, gasoline from other countries
 routinely every summer as well. Well, that might aggravate the shortage of gasoline in the summer, which Zelensky and the Ukrainians are trying to make worse. Well, that's one reason why Zelensky might threaten the um exports by Bellarus of
 
-### Segment 2 — Whatever Oil Products It Is
+### Segment 2 — Russia Ukraine Europe
 
 whatever oil products it is that Ukraine is exporting to Russia. But the other the other point that he's making about the posts that send signals to Russian drones.
 Well, that has been actually quite extensively discussed and it may indeed be happening. Russia does not yet have a system comparable to Starlink. It is creating one Rasvet. It has launched satellites uh that will make up the array. In a recent discussion, a discussion he had about a couple of days ago about the status of the Rasvet system, Putin said that it had been fully developed and was now mature and that all that was missing was enlarging.
@@ -77,7 +80,7 @@ It does have oil refineries but the extent to which it can supply refined fuel t
  Um, they provide um Ukrainian drones with guidance and assistance and all of those sort of things. quite possibly they allow these drones to overfly their own territories or well at least that's the Russian allegation and well compared to the level you of assistance Ukraine is receiving from third parties the assistance in terms of drone signals that Bellerus is providing to Russia must be in general quite slight and well I think overall that that is probably true though of course Zelensky will say that Bellerus is assisting in the aggression against Ukraine and Ukraine's
 European allies are simply helping Ukraine to defend itself. Regardless, I don't think that this is a remotely plausible or credible grounds, the existence of these posts for Ukraine to launch a military campaign against
 
-### Segment 3 — Belleris Now Here Is What
+### Segment 3 — Ukraine Europe Russia
 
 Belleris. Now, here is what I think is happening. The situation on the front lines is deteriorating, and I'm going to come back to that fairly shortly.
  Um, Ukraine is getting less assistance from the United States. There's now apparently an article in the New York Times, I haven't read it, in which apparently President Trump speaks of his dislike or his lack of liking for Ukraine. Um, the recent G7 meeting was a case in point. Trump didn't want to meet with Zelensky.
@@ -94,7 +97,7 @@ Against this backdrop, news from the front recedes into the background. This is 
 Perhaps you should have said Ukrainian deep strikes will not determine the outcome of the conflict. Its fate will be sealed on the battlefield. The army that crumbles first, losing its ability to hold ground, will lose the war. Now that is absolutely correct. It is what I have been saying all along. In fact, that crumbling is not only happening but is happening faster and the army in question which is crumbling is the Ukrainian.
  But I'm going to discuss that in a little more detail later in this program. So, Zelensky knows that he's not getting
 
-### Segment 4 — The Assistance That He Was
+### Segment 4 — Russia Ukraine Nuclear Power
 
 the assistance that he was in the US. He knows that he's going to need more funding from the Europeans. He knows also that some people in Europe are reaching out and want to start discussions with the Russians and I will talk about that also later in this program.
  and he knows that the situation on the front lines especially in Donbass but also perhaps in northeastern Ukraine and in Zaporozhye region is getting worse. So in my opinion, he is behaving very much as he does when he senses that his back is up against the wall and as he has done in the past. He looks for ways to flip the situation to regain the advantage by taking an aggressive step in some direction.
@@ -109,7 +112,7 @@ Various counterattacks have been attempted by the Ukrainians at many points on t
 region, in western Hers region, the area which the Ukrainians control, and in southern Zaporozhye region, have been seen by some as possibly indicating that the Russians are taking preparatory steps against the Ukrainian buildup in these places. I think it is possible that someone in Ukraine, presumably Zelensky himself, has indeed considered this possibility.
  Though I would say that when the Ukrainians did attempt a crossriver operation in this very same region in the autumn and winter of 2023,
 
-### Segment 5 — It Turned Into A Total
+### Segment 5 — Russia Ukraine Europe
 
 2024, it turned into a total disaster with the Ukrainian force being blockaded by the Russians in a village. called Kinki and with the Ukrainians suffering a disastrous defeat amidst very severe losses.
 But perhaps Zelensky is again thinking of something like that. However, over the last few days, there's been a different explanation going the rounds for these Russian attacks um on the west bank of the Dnieper River. Um there's been various commentaries about a Russian buildup in Hers region and of the Russians strengthening bridges and roads in this very region strengthening their logistics and some are suggesting that it is actually the Russians who are thinking about a crossriver attack into eastern Hersong region.
@@ -121,12 +124,14 @@ Now, I have to say that if Zelensky is thinking about this, well, he would proba
  the Russians would undoubtedly intervene in Bellerus and if there was an attack on Belleris then of course Bellerus would indeed join the war against Ukraine and I cannot myself see how that would work out ultimately to Zelensky's benefit but Zelensky is nothing if not a gambler some of his g some of his gamles in the past have from his point of view come off rather well.
  And it may be it may be that this is something that he is now indeed seriously considering and he's given himself the pretext to do it because he's now talking about these posts that guide the Russian drones. And well, it's the kind of thing, as I said, I would personally expect Zelensky to think about and even to do. So anyway, that's that's something I would say.
 
+### Segment 6 — Russia Ukraine Might
+
 Now, there is a further reason why Zelensky might actually be rather concerned about the situation. When Sergey Polayif talked about the fact that the war will not be decided by drone strikes, by deep drone strikes, and I should stress again, he means Ukrainian drone strikes, but by the crumbling of armies. It's important to remember that the Russians do continue to conduct missile and drone strikes deep into Ukraine and these are very powerful.
  There have been more big Russian missile and drone strikes against Ukraine over the last 24 hours. A major warehouse in Kharkf region, for example, was destroyed. Actually, it wasn't destroyed by a missile strike. It was destroyed by a heavy bomb dropped by a Suoy 34 fighter jet, which is interesting because it shows that the Russians are now able to approach a big city like Kharkov and drop well guide long range guided bombs against that city without being too concerned that the aircraft that dropped them might be shot down by Ukrainian air defenses. The
 Ukrainian air defense system does seem to be in very, very bad shape. But anyway, the Russians are conducting strikes. This is a destruction of a major warehouse. The Russians say that it was a warehouse in which the Ukrainians stockpile their long range drones, the ones that they use to attack deep inside Russia.
  And the Russians have also been conducting
 
-### Segment 6 — A Systematic Campaign To Destroy
+### Segment 7 — Russia Ukraine Missiles
 
 a systematic campaign to destroy gasoline stations um in the rear of the conflict line. And again, they've been using missiles and drones to do it in order to disrupt Ukrainian logistics. But of course, it is attacks on Kiev itself, on the decision-making centers, which the Russians have recently said they will now undertake.
 That perhaps causes Zelensky further concern. And of course the system, the military system the Russians have which is probably worrying him most is the archnik u the archnik system which the Russians have been field testing as Putin disclosed in Ukraine and which they might be intending to use to strike at command bunkers in Kiev itself.
@@ -142,7 +147,7 @@ Now here something very interesting and very unexplained has happened because re
 And this has come, this information has come from a letter um which appears to originate with the progress weapons factory in the town of Muturinsk in Russia's Tambbor region. Now I've seen a copy of this letter on the internet which is of course in Russian. There is various discussions as to what this letter exactly says.
 One interpretation of this letter is that the factory is saying that they cannot produce the GU503 gyroscope in quantity
 
-### Segment 7 — Because It Is Obsolete And
+### Segment 8 — Russia Ukraine Obsolete
 
 because it is obsolete and putting it back in production would be prohibitively expensive um since it has been out of production for a long time. My own reading of the letter is slightly different.
 I think that what the factory is saying is that testing apparatus, apparatus needed to test and calibrate the gyroscope before it is installed in the missile has been out of production for a very long time and um uses components and parts which are difficult to replicate. today and that doing that especially given the small quantities involved would be extremely expensive but ultimately it doesn't make very much difference.
@@ -158,7 +163,7 @@ But it's a further reasonable guess that Zelensky himself has been informed abou
 Now, all of this is coming just as the vice chair, vice president of Russia's security council, Dimmitri Midv, has published a further message. Now he's done this shortly after that meeting that somewhat mysterious meeting of the security council which heard a report on a foreign policy issue from Lavro that I discussed yesterday.
  Midv participated in that meeting of the security council and came out of it and wrote this. Given the enemy's massive attacks against our cities, the intensity of which is growing and will apparently keep growing, keep growing, it's time to say it loud and clear that we
 
-### Segment 8 — Are Not And Cannot Be
+### Segment 9 — Europe Russia European Union
 
 are not and cannot be bound by any more rules when it comes to dealing with Kiev.
  The only thing that must be unacceptable to us is the premeditated target of civilians. Let me stress the word premeditated mean meaning knowingly intended otherwise it's no holds bart however um and um he then uses a very very rude word to refer to Zelensky and the Europeans and he says that you know let them whine and he goes on to say let's not worry too much about the hey conventions I hope that the Russians, the Russian military pay no attention to that.
@@ -173,7 +178,7 @@ We've now learned that these contacts have indeed taken place and that the perso
 And there is speculation that one of the reasons Costa did this is because he is maneuvering to have himself appointed as the EU's representative chief negotiator with the Russians. Anyway, it seems that the Russians were not impressed. They asked him who exactly had authorized him to contact them and they were apparently very unimpressed with the information that he was giving the points that he was making and the contacts didn't go very far.
 Now when the major European leaders Meltz Mron and the others found out about this, they weren't happy at all. And at the European count European Council meeting which has just taken place, they told Costa to stop and told him that for the moment until
 
-### Segment 9 — The European Union Has Collectively
+### Segment 10 — Russia Europe European Union
 
 the European Union has collectively decided its position, negotiations ations with the Russians of any kind should not be taking place.
 Now I have to say that is all impossible. There will never be a moment in my opinion when the Europeans are able to agree with each other a single negotiating strategy with the Russians. The new prime minister of Bulgaria, Mr. Rudv is now saying that he's going to veto any further EU sanctions against Russia unless they actually are formulated in a way that might lead to a settlement of the conflict in Ukraine.
@@ -189,7 +194,7 @@ He's made some rather interesting claims. He says that it turns out that the mas
  But anyway, those I have spoken to all speak of superficial damage, of nobody being killed, of none of the mass panic that many people are talking about. And well, on the question of the refinery, um here is what Simplicius the thinker says. The actual damage to the refinery itself turned out to be disappointing as only a few oil storage tanks were actually destroyed.
  I wouldn't say destroyed myself. I'd say damaged and he provided satellite photos which say as much. Um, again, I've been here so many times over these kind of claims. The refinery has not been destroyed. It will be brought back into production. And the people I've been
 
-### Segment 10 — In Touch With In Moscow
+### Segment 11 — Russia Ukraine Talking
 
 in touch with in Moscow all tell me that the critical shortages of gasoline that people are talking about in the west are simply not known to them. So anyway, there it is.
 I'm not going to say more. You can go to Simplicius the thinker on Substack and he will describe it in more detail than I'm proposing to do in this program. I will discuss however a little bit in a little bit more detail Sergey Pollet's article. Now again bear in mind Serge Polletif is Russian. He gets published in the Russian media.

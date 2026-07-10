@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-16
 pub_date: 2026-06-16
 kind: cleaned-transcript
@@ -28,9 +29,19 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: clean
 normalization_state: raw_operator_paste
-editorial_note: "Verbatim operator paste; promo close retained; caption wrapper no-op; Dialogue Works opening no-op. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "Verbatim operator paste; promo close retained; caption wrapper no-op; Dialogue Works opening no-op. · source-section pass 2026-07-09 (9 sections)."
 quality_note: "Initial land 2026-06-16; wire-verify J16-HM1–HM6 scored 2026-06-17."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # John Helmer: Russia Just REACTED to Iran-US MoU – Iran Insists on Ending War on All Fronts
 
@@ -41,7 +52,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Trump Russia Iran
 
 Hi everybody. Today's Tuesday, June 16, 2026 and our dear friend, our brother John Helmer is here with us. Welcome back, John. >> Thank you for having me, Nema. It's good to be back again. >> John, everybody's talking about MOU, memorandum of understanding and what's going on. thing it's gonna be a it's gonna we have to start with what's going on between Iran and the United States but before getting there maybe which is one part that is important from your point of view because you see what's going on in Russia basically you understand the
 internal policy the foreign policy and their perception of what's going on between Iran and the United States what is their understanding of >> well the We have to say at the outset for for all of us that the best way to understand both war and and and and diplomatic agreements and texts of MUS when done at the presidential level is is to understand them in domestic politics political terms.
@@ -56,7 +67,7 @@ What Putin did according to Ushikov was compliment Trump on his physical vigor, 
  no skepticism, but lots of optimism that now that Trump has quotes solved that war, he can come back to negotiating um the Ukraine war terms. Remember that that faction, the Demetria faction, uh, supports the notion that there's an Anchorage formula, an agreement between Trump and Putin spelled out in Anchorage, Alaska, August of last year, for the US to guarantee Russia's security in Europe.
  Putin and Dmitri are committed to believing that's possible. And they say and repeatedly every few hours Dimmitri tweets it that um the only obstacle to the Anchorage formula security are the are the British and the Europeans which are blocking um the uh reaching peace terms
 
-### Segment 2 — With Um With Moscow That's
+### Segment 2 — Russia Iran Trump
 
 with um with Moscow. That's their line.
  Um on the other hand there's the as I said military security service intelligence services line which say nothing Trump signs nothing Trump says nothing the US claims to be doing can be trusted and so what we've seen officially now is uh foreign minister Lavrov's high level of skepticism combined with hope that the terms of theou can be implemented but he is very conditional and very skeptical.
@@ -72,7 +83,7 @@ no talk as we >> correct >> as time goes by. What what is there some sort of mes
 uh not a policy maker his background's diplom Madaki was once Russia's ambassador to the United States. They talk by telephone. Okay? And there's no doubt you'd call that negotiations. On the other hand, the sort of formal negotiations, which is in the public uh glare, in the public spotlight, terms are being discussed, term sheets, are being discussed, and what's on them and what's not on them.
  who will negotiate them, what will be the state, all of the things
 
-### Segment 3 — That Iran And The Americans
+### Segment 3 — Trump Israel Iran
 
 that Iran and the Americans have just gone through with the mediation of the Pakistanis, the gutteries and so on. All of that um is going on but not at the formal level. Now, as I said, for factional reasons, Putin invites Vitkov and Kushner to come back.
 Lavrov says, "Let's see if they can explain why nothing has materialized since u the so-called anchorage formula was agreed last August." But there's another point. Trump was asked a few hours ago, as some of our audience will know, uh he's in France for a G7 summit meeting and then for some bilateral meetings.
@@ -87,7 +98,7 @@ First of all, Trump thinks, and he's not wrong, that there's a direct correlatio
  Trump's uh approval rating has improved by roughly um two or three points over the last two weeks as two things have happened. The perception is that he's making peace and solving this war. The effect on Americans, especially anyone who goes to the petrol station, the gas station, and fills up is that Trump is promising to lower the price of oil. Now, that's the first part.
  And the second parts, the succession, depending on how the midterms go, will be the outcome of who wins the Republican nomination. Will it be Trump or a Trump Jr. the a donastic succession Donald Trump Jr. is rising in the polls or will it be JD Vance the vice president? Now, if you see that
 
-### Segment 4 — That Trump Thinks And The
+### Segment 4 — Israel Trump Lebanon
 
 that Trump thinks and the polls show that oil price coming down is a key to driving theou then that's why you see Trump advertising three tweets yesterday within hours of each other couple today repeated in his remarks in in France
 he's only concerned with two emphases One, no nuclear weapon. Two, oil price comes down. No toll. Hormones straight under my control. Blah blah blah. Those are the messages he's firing at his domestic audience. That's what he wants hisou to to say. On the other hand, what you've seen is that JD Vance has briefed in greater detail on television on CBS.
@@ -104,7 +115,7 @@ over the Latani River, the southern Lebanon. Um, it's not clear to me. Is it cle
 That's unclear to me. >> It it seems that they're preparing their strategy. Their understanding is that the Israel after all in you know within the 60 days they have to withdraw from Lebanon. That's the understanding on the part of Iranians. I don't know. We don't have an official sort of statement by the Iranian government.
  That's why as you mentioned we don't have it from the United States. We don't have it from Iranians. Israel couldn't get it from the Trump administration. There's some sort of a speculations on this 14point plan. One of them
 
-### Segment 5 — Was The Saudi Arabia The
+### Segment 5 — Iran Lebanon Israel
 
 was the Saudi Arabia, the media, Al Arabia of Saudi Arabia published a list of you know those conditions that were mentioned.
  We had access reporting on the 12 points of the MOU and but when it comes to the Lebanon I think there is something it it basically in the version of axis it mentions Iran the United States and their allies will seize hostilities including in Lebanon. Iran reiterates its commitment not to develop or acquire nuclear weapons.
@@ -120,7 +131,7 @@ Now, will all the sides agree to let the Lebanon situation freeze while the Isra
  the fund that basically it's about GCC countries giving that to Iran. >> We have moments ago we had Reuters reporting that what is in this report that half of this money half of this $300 billion. >> Yes. >> You know for the Iranian reconstruction program has already been committed is Reuters reported that. >> Yes.
  I don't know what does that mean and it means that they have already given that to Iranians or >> um let's do this uh on the one hand the US and Trump in particular are trying to say they will provide no cash to Iran. Trump's a little
 
-### Segment 6 — Vague But On The Question
+### Segment 6 — Israel Trump Iran
 
 vague, but on the question of lifting oil sanctions against Iran, lifting sanctions against Iranian trade in the rest to the rest of the world. He's vague on that.
 Therefore, it's likely that theou terms on lifting sanctions um can be agreed to by the United States. what Trump insists in in order to show that his agreement isn't Obama's agreement. He keeps repeating it. He said it half a dozen times repetitively with Macron yesterday and with Alani and uh and MBZ uh in his bilaterals with them.
@@ -136,7 +147,7 @@ and when he comes up with the Syrian version um whether Trump has failed to reme
  Axius is not to be taken as if it's a newspaper. It's an Israeli mouthpiece with an Israeli by line and it continues to be favored by Trump to show that he's doing what the Israelis want. The idea that Syria will take care of Hezbollah means Trump favors continuous murder in Lebanon, the destruction of Hezbollah. That's what it means.
  but he doesn't want it to interfere with his solution to the Iran war. So, it's a way of saying, "I want a secret war in the southern Lebanon. I want a secret war to Hezbollah. I want continued killing all the way up to Beirut, but not by air. Syria doesn't have an air force left." Why? Because the Israelis, with US
 
-### Segment 7 — Permission Bombed Them And Destroyed
+### Segment 7 — Iran Israel Ceasefire
 
 permission, bombed them and destroyed them. So, no more air attacks on Beirut.
 Plenty of assassination attacks. That's what it means. I don't know if how is that going to be perceived by Iranians. And because when you talk about a ceasefire, you have to stop everything. It's not about you. You >> Well, well, hang on a minute. Ceasefire. You're right. Uh but uh these assassination attacks will be termed interrab terrorism.
@@ -153,7 +164,7 @@ Uh they're desperate to restore their economies, their airlines, their airports,
  We've been buying all our lifetimes. Our fathers bought protection from the Americans. Our grandfathers bought protection from the British and had things gone differently. They'd all have bought protection from the Germans. That's the way they think. So now they think we will buy protection from Iran.
  That's why Hamati was in gutter to work out how funds can be released. Now I've seen Israeli reports. I've seen Russian reports that Gata has begun to release Iranian cash that's been frozen in gutter. while the Americans look the other way um as the guttery bank banks and institutions release funds the Americans were
 
-### Segment 8 — Insisting Should Stay Frozen
+### Segment 8 — Russia Europe Trump
 
 insisting should stay frozen.
  So what we can see, pardon me, is a process in which the Arabs work with US approval to begin releasing sanctioned or frozen Iranian funds as part of the down payment of as part of theou to start with. So it's to to say that important point. Yes, you're right, Nema. The GCC plays a crucial role.
@@ -170,7 +181,7 @@ The military, the intelligence services in Lavrov say that's impossible. The Eur
  That was a double whammy against Germany. Germany, the real power, the the shadow Hitler in Europe, is now more under US control than it was before. That the the French and the British likewise, the Italians, the Greeks, the Danes, you name it. From Trump's point of view and from a geopolitical point of view, Europe is now more dependent on the United States than it's been in years.
  First, second, Trump is getting paid for that. It's a protection racket he's now making money at. He's quite right. Biden gave it away. Now he's making a profit. And look at how they
 
-### Segment 9 — Crawl To Him Starama Marron
+### Closing — Russia Europe Trump
 
 crawl to him. Starama, Marron, and the rest. They're going to put on a display. Mron will crawl with with uh Trump to his vanity, putting on a display at Versailles the way Starmmer put on a display at Buckingham Palace.
  Um I don't need to exaggerate. >> Trump has succeeded with Europe. So since he succeeded in making money and uh and geopolitical terms with Europe, he will reinforce the war, the permanent war against Russia because Russia represents the only alternative power in Europe to that control in terms of energy, in terms of military capacity.

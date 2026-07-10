@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-07-08
 pub_date: 2026-07-08
 kind: cleaned-transcript
@@ -9,6 +10,7 @@ guest_people:
   - Stanislav Krapivnik
 show_title: Daniel Davis Deep Dive
 channel_name: Daniel Davis Deep Dive
+host_slug: daniel-davis
 show: Daniel Davis Deep Dive
 host: Lt. Col. Daniel Davis
 guest: "Stanislav Krapivnik"
@@ -27,17 +29,19 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 1
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # LIVE From Russia Stanislav Krapivnik - Latest on the War w/Ukraine
 
 ## Transcript
 
-LIVE From Russia Stanislav Krapivnnik - Latest on the War w/Ukraine - YouTube
+### Show Open — Daniel Davis Frames Ukraine As Coequal With The Iran Crisis
 
-Transcripts:
-President Trump is in Anchora today at the NATO summit and all kinds of things about uh continental security and Atlantic security is obviously on the agenda. But one of the things that are primarily right up front aside from what has happened overnight in Iran and what may happen overnight tonight, look at our previous show on that.
+President Trump is in Ankara today at the NATO summit and all kinds of things about continental security and Atlantic security is obviously on the agenda. But one of the things that is primarily right up front, aside from what has happened overnight in Iran and what may happen overnight tonight, look at our previous show on that.
  I don't want to double tap on that. But the other thing that is really central to all that's going on and and in many ways could be even more important than what's happening in the Middle East and that is what is happening in the Russia Ukraine war. And President Trump uh had a had a photo op and a Q&A period with the media today with Belair Zalinsky and he had something really interesting to say.
- Uh and we're going to get into that in just a second. we have somebody to to kind of parse into what's going on here that has a really unique perspective. Suslav Pivnik uh who is a former US Army officer but is also living in Russia right now. So he has got a really good unique perspective to be able to see how things look from the US side and the western side and how things work from the Russian side and what their thought process is.
+ Uh and we're going to get into that in just a second. We have somebody to parse what's going on here that has a really unique perspective. Stanislav Krapivnik, who is a former US Army officer but is also living in Russia right now. So he has got a really good unique perspective to be able to see how things look from the US side and the Western side and how things work from the Russian side and what their thought process is.
  So we're really uh eager to have you on. First of all, just welcome back to the show, Staz. >> Thanks. Thanks a lot. Yeah. And and uh just for the audience, I got back uh exactly a week ago from uh the Donbos uh driving up and down the Donbos uh and coming back up. So I've driven the the north to south length of Russia, most of it.
  Anyways, so >> Okay. So in fact, even before we get to to what Zalinsky uh has just said and what President Trump said as a result of that, uh I wonder if you can kind of give us a on the ground perspective. as as you know neutral as you can obviously you're in Russia so that's you can't be as unbiased all the way but as as much as you can what is the truth of the claims because there are two separate narratives one is that the western side has turned the corner that there is no that Russia is now in a stalemate that they're not moving forward they're not
 gaining territory anymore and then the other one that the Russians said no we just took uh the one of the main towns down in the center They're moving towards Slavians and chromatators. They've taken territory in Zaporosia and in Kupansk and in Sunumi etc. and even near Kark. That's two two different areas. They can't both be true.

@@ -1,5 +1,11 @@
 ---
 
+
+
+
+
+
+
 ingest_date: 2026-06-16
 pub_date: 2026-06-16
 kind: cleaned-transcript
@@ -26,10 +32,9 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: clean
 normalization_state: raw_operator_paste
-editorial_note: Verbatim operator paste; promo close retained; caption wrapper no-op. Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "Verbatim operator paste; promo close retained; caption wrapper no-op. Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (10 sections)."
 quality_note: Initial land 2026-06-16; wire-verify receipts 2026-06-16.
 davis_close_promo_trim_applied: true
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -38,6 +43,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Col Douglas Macgregor: Trump Seeks 'Get out of Jail ' Card Since US Lost in Iran
@@ -50,7 +58,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Israel Trump
 
 President Trump says he is going to release the terms of the deal, the memorandum of understanding with Iran if he has to stand in front of a podium and read it himself. And believe me, there is a lot of people that want to hear what is really in that because what has been leaked today is very upsetting to a lot of people, especially in Israel and those in America who are big supporters of Israel.
  We're gonna dive into all that today and try to figure out what is really going on and will there even be a deal signed on Friday. We're going to discuss all that uh with our good friend, Colonel Douglas McGregor, defense and foreign policy analyst, former adviser to Secretary of Defense, and highly decorated combat veteran. Uh Doug, as always, welcome to the show.
@@ -68,7 +76,7 @@ President Trump's deal. uh as long as he can end the nuclear program and the dis
 He's looking for a piece of paper that confers that ability on him. The problem is that, and we've talked, I think about this before, for Mr. Netanyahu, and frankly for the Israelis, the fight with Hezbollah is existential. You know, they know that with Hezbollah, there can be no outcome other than Hezbollah's destruction or Israel's capitulation.
 And the Israelis are not going to capitulate to Hezbollah. What the Israelis have tried to do in the past
 
-### Segment 2 — And What They're Doing Now
+### Segment 2 — Israel Trump Hezbollah
 
 and what they're doing now is to separate Iran from Hezbollah. That has not happened and that has not worked. And I see no evidence that that will happen now. In fact, what we see happening with Iran is it's emerging as the celebrity leader of the Islamic world, much to the chagrin of all the Sunni uh Muslim princes and elites all over the Middle East, North Africa, and elsewhere. So Iran is is in the driver's
 seat. It's not going to abandon Hezbollah. The other thing is you still have the Greater Israel project. And when you expect Mr. Netanyahu to step forward and say we will stop doing what we're doing in Gaza, what we're doing in Lebanon, what we're doing in Syria, along with everything we plan to do everywhere else in Egypt and Jordan and Saudi Arabia. He's not going to do that.
@@ -87,7 +95,7 @@ Can he diverge from Israel's interests? In other words, can he move in a new and
 And right now, you've got Jewish militias operating independently, settlers, Israeli citizens. Uh, they are loosely affiliated with pro potentially elements of the Israeli Defense Force. But my point is it's no longer a unitary state as it was at the beginning. So that's a problem. And then finally, how do you [clears throat] how do you solve anything unless you accept that some form of a Palestinian state has to exist? That's impossible.
  The Israelis have made it impossible. uh there can be no is Palestinian state and the Israelis are not going to integrate themselves
 
-### Segment 3 — Or Assimilate Themselves Into The
+### Segment 3 — Israel Trump Middle East
 
 or assimilate themselves into the rest of the Middle East. They've refused to do that in the past. They absolutely will not do it now. And frankly, I don't see how they can. How can you tell everyone who is your neighbor that they are subhuman, that they are animals, that they are unworthy of life, and then expect to be welcomed with open arms in the aftermath of some sort of new agreement uh that's signed by the
 president of the United States and whoever else. I I don't see it happening. And you know, finally, you've got this Sykes Pico background from the standpoint of the people in the Middle East right now. They're looking at the Sykes Pico agreement and they're saying that's over.
@@ -105,7 +113,7 @@ Trump and everything until we get to here. You've also had uh Rebecca Hinrix who
  I mean, when I say permanent is probably stronger than ever. I'm sure that uh everybody from Paul Singer to Miriam add to Larry Ellis, all of them who are deeply committed Israel firsters are going to oppose this. Uh, and you know, I I don't know what you tell President Trump at this point. President Trump obviously thinks it's not in his political interest or in the interest of the American people that we be permanently embroiled in this mess.
  At least that's my perception. And so he wants this framework document and I think they sense the possibility that the Israelis have pushed this too far and that at some point people are going to say, "Well, we've had enough and we're leaving." And frankly, how can we avoid it? I mean, if we've learned one thing,
 
-### Segment 4 — We've Learned That In This
+### Segment 4 — Trump Israel Lebanon
 
 we've learned that in this new warfare environment, the new technology of intelligence, surveillance, reconnaissance, and the multitude of precisiong guided weapon systems, unmanned missiles, cruise missiles, so
 forth. We can't protect our allies. And that's sinking in not only in the Persian Gulf, but it's sinking in in Europe and Northeast Asia and elsewhere. So all of the conditions that were conducive to this sort of massive investment in US military hegemony by garrisoning states all along the periphery of Eurasia is over.
@@ -124,7 +132,7 @@ I think a lot of other people have figured this out. We've learned a lot of impo
  Just I don't know how you square that one issue, but there's a lot of other issues in two. And in fact, apparently the Wall Street Journal is now also reporting on some of the leak terms. So apparently some of the things we've been talking about are in fact in the US version. Trump still has not yet read them out there.
  We'll get to that as soon as it does. But let's take a look at what else has been talked about here because one of the things that has Mark Tissson who's a uh you know has been a huge supporter of this continued war and has been really happy for to kill however many Iranians is necessary. He puts out this morning here that the United States undertake, this is what he says is one of the terms, the United States undertakes together with its regional partners to create
 
-### Segment 5 — A Comprehensive Agree Plan By
+### Segment 5 — Iran Trump Israel
 
 a comprehensive agree plan by both parties for the rehabilitation and economic development
 of the Islamic Republic of Iran while ensuring financing of at least $300 billion. Now, that's any way you want to square that one. That is uh reparations that only the losing side pays. Uh and in fact here this is the the terms here where he's at that point he's putting put out there. But let's just see wherever that money JD Vance was interviewed yesterday and he tried to sidestep this and said oh well you know it'll come from somebody else.
@@ -143,7 +151,7 @@ and the Iranians have been saying this has to be up front or there's no deal and
  And what Trump, you know, started to do in his first uh term was to change that money flow. Then he abandoned it. Then he came on again. And initially he talked a great game, but he didn't he didn't do it. He failed in Ukraine. He's failed in Minneapolis. He's failed in so many places.
  Perhaps now at this point he's recognized, you know, I'm [clears throat and cough] I'm pushing up the wrong hill and it's time to get off this particular hill and get onto a more level path into the future. I don't know. I I don't know where he is right now, but he kind of conveys that impression to me. And do do you think that he has the wherewithal just emotionally to carry the day anymore with this especially with all these folks that we just mentioned here? And there's a whole there's a lot longer list of
 
-### Segment 6 — Those People Who Are Upset
+### Segment 6 — Iran Trump Israel
 
 those people who are upset about
 a lot of those things. And one more issue which I will get to right after this. But the question is can he bring his side into compliance to convince them? you've talked about so many times on our show in the past about how one of his biggest superpowers is his ability to spin anything and get people to believe something, but are we getting to the edge of that superpower? Can he actually convince these people to get on board with him if he goes down thisou path? >> Who controls our media, the mainstream media? And how meaningful is that today?
@@ -162,7 +170,7 @@ you know, the short time that I was with him, there's one thing I would say abou
 off as impossible at all. It all depends on him. [clears throat] Can he stay the course and and can he hold you know support together to make it work. Uh I think he can do it but you know it depends on things over which neither he nor I have a great deal of control right now. You know, Doug, that that kind of brings you back to something that when especially when you look at this whole paniply of headwinds that are against it, both inside his inner circle, uh, the Iranian side, the Israeli side, and this whole issue with
 Lebanon, that if that can hold it hostage, then the whole thing can be blown up. Even if he agreed
 
-### Segment 7 — To Everything And Took The
+### Segment 7 — Trump Russia Israel
 
 to everything and took the political heat at home, it still seems to me, and I'd like your view on this, that the most effective way that he can control is to say, "Okay, you guys don't want to agree to this stuff.
  Okay, then you're on your own. I'm just the whole walk away thing. I will come back if you try to do the nuclear program again. If you dig the dust up out of the earth, whatever he's been saying, he can say that and then just walk away because then I don't have to give any sanctions. I don't have to give up any frozen funds.
@@ -181,7 +189,7 @@ Uh this is, you know, we have a bond market that that's very fragile. you turn o
  How much? I can't tell you, but I think he gets it. I think he understands this is the past, not the future. And I think he understands that's also true in the Middle East. You can only fight the future so long. and eventually if you continue to fight it, you will be destroyed by it. >> Now, let me ask you this question on on this the Russia Ukraine war itself.
 Obviously, President Trump comes into office and says, "Yep, I'm going to have this done. We're going to knock it out in one day and then it was 100 days and I infinitum and now here's
 
-### Segment 8 — Months Later Um He's Basically
+### Segment 8 — Trump Europe Russia
 
 17 months later." Um, he's basically saying, "Yeah, I'm washing my hands of it. Not doing anything." uh the day before he left for the G7 and didn't get much press here because so many other things were going on, but Vladimir Putin initiated a phone call and they talked for about an hour and Putin was bringing up ways he thought he could try try and
 bring about an end to this. I think that he did that ahead was ostensively to wish Trump happy birthday, but uh it was ahead of the G7. Uh and then you can see the headlines from today. Doesn't seem that that released a lot uh because it says Trump signals swift return to sanctions on Russian oil as G7 refocuses on Ukraine.
@@ -199,7 +207,7 @@ there is extreme discontent with what's being done to those societies by this ma
  Alisa Vital has given a couple of really excellent speeches. Whether or not she ever emerges to lead that country, I don't know, and we'll see. But she has pointed the way and she is the beginning of the change not just in Germany but I think across Europe where she is saying look as soon as we have power in Berlin we're going to Russia and we're going to work out new arrangements. We want to import energy.
 We want to end the de-industrialization of Germany. We want to put people back to work. And we're going to tackle this ugly, difficult issue of rounding up millions of people that don't belong in this country who should never have been admitted and sending them
 
-### Segment 9 — Home These Are The Things
+### Segment 9 — Ukraine Russia Europe
 
 home. These are the things that she's saying because they've got to restore the rule of law in Germany.
  Now, you and I lived in Germany. I've spent almost eight years of my life living off and on in Germany. That's a country where until 2015, even earlier than that, uh, you never had to worry about the rule of law. I mean, you had policemen that could never be bribed. They wouldn't even think about it. There was no corruption, and the enforcement of the law was immediate, uniform, uh, just, and, effective.
@@ -218,7 +226,7 @@ But, uh, I don't think they're going to send Ukrainians to die pointlessly in ea
 in the clearly in the hundreds of thousands of dead and who knows how many more wounded. There has to come an expiration point where it won't matter how much money or how many weapons you send over there. Doesn't there come a point where the Ukraine side will just have necessity collapse? Well, there's so much money to bankroll Zalinski and his inner circle to pay off people uh in Marada and keep the secret police uh flush with cash and the various oligarchs happy that quite frankly the people of Ukraine don't matter in
 Ukraine. That's that's the issue. Putin is struggling right now with a great deal of pressure, not just from the Russian populace that wants an end to this, and they certainly do, but from his inner circle to take action. We'll
 
-### Segment 10 — See What Happens Recently We've
+### Closing — Russia Ukraine Europe
 
 see what happens. Recently, we've had some dramatic strikes that you've reported on by the Russians against Ukraine.
  And we have a continuous advance on along the Russian front. Uh, Pocros has fallen. uh Zabar Russia is is in range. Uh essentially Novarusia, which we talked about years ago, is becoming a reality. The question is, how do you end this if you're a Russian? And I think the reality is setting in that if the Europeans are not going to come to their senses, you're going to have to cross the river and go into Kief.

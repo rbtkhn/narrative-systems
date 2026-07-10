@@ -1,4 +1,5 @@
 ---
+
 ingest_date: '2026-06-25'
 pub_date: '2026-06-25'
 kind: cleaned-transcript
@@ -33,8 +34,7 @@ napolitano_cold_open_trim_applied: true
 napolitano_close_promo_trim_applied: true
 napolitano_leading_noise_trim_applied: true
 opening_tier: host-tease
-editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (blumenthal, channel:judging-freedom)); 21 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted YouTube transcript preserved as archive SSOT. ASR artifacts retained. Not human-verified verbatim. Ideological cold open trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-25 (8 sections). · source-section even-chunk pass 2026-06-26 (6 sections; open/close merged)."
-transcript_curation: curated_sectioned
+editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (blumenthal, channel:judging-freedom)); 21 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted YouTube transcript preserved as archive SSOT. ASR artifacts retained. Not human-verified verbatim. Ideological cold open trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. · source-section even-chunk pass 2026-06-26 (6 sections; open/close merged). · source-section pass 2026-07-09 (6 sections)."
 verify_receipt: 2026-06-28
 verify_matrix_ref: statecraft/notes/wire/2026-06-25-news-verify-matrix.md
 verify:
@@ -47,6 +47,17 @@ verify:
   - claim: Vance restrainer / MOU domestic sell register (batch context)
     verdict: partial
     note: J25-3 — **panic** thesis tier-4; not wire-scored
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 6
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Max Blumenthal : Is Israel in Panic?
 
@@ -58,7 +69,7 @@ verify:
 
 ## Transcript
 
-### Israel Panic — Quinnipiac and US Support
+### Show Open — Israel Iran Netanyahu
 
 Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
  Today is Thursday, June 25th, 2026. Max Blumenthal joins us now. Max, thanks very much for your time. Is Israel in panic over the memorandum of understanding signed by the United States and Iran? Israel's in panic over the MOU. Israel's in panic over the Democratic congressional primaries.
@@ -67,14 +78,14 @@ Israel's in panic over a new Quinnipiac poll showing that 48% of Americans think
 And it might look absurd to the rest of us, but it suggests uh Israel's moving into a more dangerous posture as its back is increasingly against the wall following the failure of the war it instigated against Iran. >> How uh is um Netanyahu being perceived these days? And how is he uh dealing with the panic? He's got to be terribly terribly panicked because of the consequences to him when his government collapses.
 >>
 
-### Netanyahu Perception — Successor Bench
+### Segment 2 — Israel Lebanon Netanyahu
 
 Well, if you if you want to know how he's perceived in the United States, uh his approval rating is at 20% according to that new Quinnipic poll. His disapproval rating is 48%. And the rest of Americans who responded to that poll had never heard of him. I mean, this is a foreign leader of a very small state.
  He's probably one of the most well-known foreign leaders in a country where many Americans can't even name that many foreign countries. So, it's pretty significant when his appro disapproval rating is that high. In Israel, his disapproval rating is extremely high. >> It might even be higher. That doesn't mean that he is necessarily, you know, immediately imperiled because there are no other clear successors, but he's at it his weakest point in Israel.
  And without a a war, he is in real danger. He was the Netanyahu coalition was going to fall before October 7th and now I think he's back in the place he was before October 7th with the MOU and Israel as Israel continues to take losses in southern Lebanon but he can't leave southern Lebanon or have the military leave because now it's the principal lever for jamming up the MOU and unraveling it.
 So even if he did leave office voluntarily or involuntarily, he's going to be replaced by someone maybe with a nicer personality, maybe with a more amiable spirit, but the policies will be nearly the same. Isn't that so?
 
-### Zionism Structure — Colonial Dream Failed
+### Segment 3 — Israel Netanyahu Iran
 
 Well, I've been saying that I think Netanyahu, while he's he's blamed for the position that Israel's in, actually uh managed to buy Israel a lot of time.
 He toppled the uh Biden administration. He basically helped destroy Kla Harris and he's destroying Donald Trump and he could destroy any further administration because he has been able to connect uh so deeply through the Israel lobby and through Israel's cutouts in the US which he helped develop going back to the 1980s and 90s as the main hosborist or propagandist for Israel.
@@ -89,7 +100,7 @@ Israeli chief of staff said in um I think it was the early 50s that you know we 
  But they did that after October 7th and they mobilized the whole of their society, the reservists, everyone to carry out this genocide and yet they still are in a state of vulnerability in which at any moment Iran could rain down ballistic missiles and the supposedly impenetrable Iron Dome and the Arrow system and all of the THAAD missiles that the US brought to bear reposition from Asia and Ukraine.
 did not stop them. And so there is this constant sense of insecurity in Israel which really erodess the very purpose of Zionism while at the same time if you are where I am as a Jew we are living through a golden age here in the United States. So Zionism has failed. >>
 
-### Hezbollah FPV — Southern Lebanon Front
+### Segment 4 — Israel Hezbollah Lebanon
 
 What kind of shape is Hezbollah in today? Hezbollah has proven to be extremely resilient and it has flipped the script on Israel with its FPV drones which they have declared are revenge for the pager attacks.
  You know, the pager attack was psychologically one of one of the one of the biggest blows Hezbollah has ever suffered. And now they have taken this cheap technology and are using it to hammer Israeli positions across southern Lebanon. And Israel has no answer to that. Uh, Israel also predicted that after assassinating Hassan Nasallah, who was really the spiritual leader of Hezbollah as its general secretary and its key tactician, someone who is also providing advice and was very influential uh within Iran.
@@ -99,7 +110,7 @@ He showed uh Israel trying to move D9 excavators into civilian areas. He actuall
  Because once they return home and they're willing to come back to the rubble and rebuild, they're not afraid. These are very courageous people who have a real spirit of resilience and resistance of their own. Once they come back, uh, Israel fails because its objective is to create a buffer zone by rendering the Shia community of Lebanon and the south homeless.
  And yeah, it it doesn't look like their objectives will be realized under these conditions.
 
-### NYC Primaries — AIPAC Defeats
+### Segment 5 — Israel New York
 
 How do you I'm switching gears, Max. How do you read the um recent New York City primaries uh in which serious serious serious progressives uh defeated mainstream liberal Democrats, including the defeat of an incumbent congressman, Dan Goldman, who was Jewish, by a progressive who also is Jewish.
 >> Well, this goes back to the the top of this conversation just about how unpopular Israel is in the United States and how it's actually become an issue in major elections. And it's an issue in these areas in New York. Uh you have uh in Brooklyn and Queens, these areas that are filled with highly educated, younger, mostly white people uh that have traditionally been black and Latino areas.
@@ -113,7 +124,7 @@ Wow. >> And that so this is uh particular to New York City. I don't I wouldn't n
  then the whole idea of Israel as a sanctuary for Jews begins to melt away and has no purpose any further. So they have to perpetuate this lie and they're doing so based on the victory of a handful of candidates who campaigned against Apac. Uh it's not it's you know and and candidates by the way whose staff were heavily Jewish who won a large number of Jewish voters.
  And so you're starting to see the contradictions of Zionism explode in broad daylight. >>
 
-### Randy Fine — Republican Fissures and Vance
+### Closing — Israel Iran American
 
 Here is um the prince of the American Zionists in the United States House of Representatives whom I know you know Chris got number 12. It's >> more like the quasimoto of Zionists. >> Look, I I think the vice president owes the American people an apology.
  I mean, making an offensive statement that Israel only exists because the United States created it is disrespectful to millions of Americans, many of whom have had relatives who died in the Holocaust. Israel was created through the blood, sweat, and tears of the Jews in the aftermath of the greatest tragedy in the history of the world.

@@ -1,5 +1,8 @@
 ---
 
+
+
+
 ingest_date: 2026-06-07
 pub_date: 2026-06-07
 transcript_type: ai_assisted_operator_pasted_youtube_transcript
@@ -15,9 +18,8 @@ source_url: "https://www.youtube.com/watch?v=nXVR821uPJw"
 source_note: "Operator-pasted YouTube transcript for Alex Mercouris hub capture. Transcript self-dates Sunday 7 June 2026; archive date aligned to spoken date. · ASR pass 2026-06-15."
 normalization_state: ai_assisted_proper_noun_cleanup
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
-editorial_note: AI-assisted ASR repair (common + series tiers + statecraft entity pass); 0 substitutions; not human-verified verbatim; verify before quotation. Routine Mercouris solo subscribe/platform close trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 0 substitutions; not human-verified verbatim; verify before quotation. Routine Mercouris solo subscribe/platform close trimmed in place; SSOT body otherwise preserved.\\\\\\\" · source-section pass 2026-07-09 (7 sections)."
 mercouris_close_promo_trim_applied: true
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -26,12 +28,15 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 7
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Russia Spurns Desperate Zelensky's Secret Talks Offer; Lyman Konstantinovka About To Fall West Panic
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Russia Program Towards
 
 Good day. Today is Sunday, 7th June, 2026. And as you can see, I'm making this program from my old position in my uh library. And again, I'm dressed in simpler travel clothes because I will be literally the moment I finish this program off on my travels towards Russia and ultimately towards the city of Scoff.
  And this inevitably is going to be a very short video indeed because it is made on the eve of that journey. There's been a lot to sort out just before I go. So, this has to be a very brief update for this. Apologies, but more um complete videos um when I am finally back in Russia and able to make them properly. So what is in fact happening? What is the important news? Well, I would suggest that the important news um in the world, not just in the international media, not in the world of diplomacy is actually the news from the Ukrainian battlefields.
@@ -39,7 +44,7 @@ We have had more video footage from both Leman and Konstantinovka. the footage f
 The Ukrainians recaptured it during their Harkov offensive of September 2022. The Russians have gradually invested Leman um over the last few months. Um, General Gerasimov, the overall Russian commander, said about a week ago that the Russians control around 85% of Leman. And footage from a drone, apparently a Ukrainian drone, appears to show a Russian soldier, walking through Leman, through parts of Leman that had been assumed to be under Ukrainian control, looking entirely unconcerned and unworried, suggesting that there were
 no Ukrainian troops anywhere close to where he was. And that does, it seems, support Gerimov's claim that much of Leman, perhaps as much as 85% of Leman, is indeed under Russian control. And there are reports that from
 
-### Segment 2 — Other Sources That Appear To
+### Segment 2 — Russia Fact Town
 
 other sources that appear to say the same thing. And there is in fact an accumulating belief that the whole town of Leman is indeed about to fall.
  That this may take place at some point within the next few days that we be could be getting early confirmation from Leman of the collapse of Ukrainian resistance in the town. Now Leman is important. It too is on the high ground. It is also a part of the high ground which also includes the important town of Siato Gossk which is located nearby and which the Russians have also reached but have not so far apparently entered or captured.
@@ -48,7 +53,7 @@ other sources that appear to say the same thing. And there is in fact an accumul
 And well, the Russian army is much bigger. The Ukrainian army compared to its size in 2022 appears to be significantly smaller. The entire balance of military power on the battlefields has shifted decisively in Russian favor. This is something that in the West the Western media doesn't acknowledge, but it is a fact.
  And over the course of this summer and autumn, as the Russian offensive continues, it will become increasingly clear. So, Leman looks like it is coming close to falling.
 
-### Segment 3 — There Has Also Been Reports
+### Segment 3 — Russia Ceasefire Europe
 
 There has also been reports from Konstantinovka, extensive reports from Konstantinovka. These all cumulatively appear to confirm that the northwest regions of Konstantinovka have now also slipped under Russian control.
  That doesn't mean that the Russians um have absolute control of every every millimeter of territory in this part of Konstantinovka or indeed any part of Konstantinovka. It's likely that there are Ukrainian stragglers, both individuals and small groups, hiding in various buildings all over Konstantinovka, which is quite a big place.
@@ -58,15 +63,13 @@ Konstantinovka itself is part of the bigger Slavian Katausk Dujka connibation th
 There has been less news today about the situation in Zaporozhye region except that Marat Khairullin, the man whom I consider to be the most talented war reporter on either side in the war. He is by the way Russian. Marat Khairullin is speaking of group of forces east trundling from towards Oraov and ultimately the city of Zaporozhye from the east in a kind of irresistible force.
  And it does
 
-### Segment 4 — Seem To Me As If
-
 seem to me as if this is very much what we are seeing. None of this none of this is being talked about in the media in the west. These are the realities. Putin says that one of the reasons the Russians are able to advance in this way is because the Ukrainian army is in a dire condition.
  The losses have become unsustainable. The army has reduced in size by around 100,000 men. Putin believes that this is the reason why the Russians are able to advance in the way that they are. I think he's right about this. I think that over the next few weeks this will become impossible in the west to deny. But for the moment the west remains in denial and I suspect they remain in denial at the very top governmental level as well because our old friends Kier Stalmer and I Emanuel Macron both likely to leave office very soon in Star's case possibly even within
 the next few weeks if his rival Andy Bernham wins the Mafield bi-election in the Greater Manchester area. Um anyway, in the final days of their respective holds on power, what do they do? They again embrace the Zelensky curse. They meet up with their dear friend Vladimir Zelensky. They talk apparently about some kind of diplomatic outreach to the Russians.
  The Daily Telegraph talks about a plot underway to try to force the Russians into a ceasefire. In other words, into capitulation. It's interesting that the Daily Telegraph uses the word plot. Everything apparently is being based on the drone offensive and the various the Ukrainian drone offensive and the stories I suspect untrue stories about massive Russian losses and all of that.
  Anyway, that narrative is out there. It continues to apply. It continues to be repeated endlessly. And I suspect we're going to hear a great deal about this, whether the Europeans actually do manage to get a chief negotiator to go along to Russia to start to negotiate with Putin is another matter.
 
-### Segment 5 — I Discussed In My Program
+### Segment 4 — Russia Ceasefire Program
 
 I discussed in my program yesterday quite how hardline and uncompromising he has now become.
  And well, I've studied further Putin's comments at the St. Petersburg Economic Forum and I don't think that there is any doubt now whatsoever that Putin and the Russians continue to be committed to the recapture or to the capture rather of Zaporozhye and Hassan regions as well as Donbass. if there were any concessions in terms of a possible ceasefire along the conflict line in those two regions in return for a Ukrainian pull back from Donbass.
@@ -75,7 +78,7 @@ what this comment means means I don't think anybody has any serious doubt that i
 The Soviet Union as the workers state had an almost sacred reference for work. And you often used to see during the Soviet era um the Russians, the Soviets referred to work in well these sort of terms. So I remember that when the Communist Party central committee used to meet at the end of each day prior to its next meeting on the following day the announcer announcing that the meeting for the day had ended would finish by saying that the central committee would soon continue its work.
 And those who follow
 
-### Segment 6 — Russian Cinema As I Have
+### Segment 5 — Russia Nuclear Power Ukraine
 
 Russian cinema, as I have done, will also be familiar, for example, with the last words in a television series, a very famous Soviet television series, 17 moments of spring, about a Soviet spy working behind the lines in Germany during the Second World War.
  The spy is given the option of returning to the Soviet Union or going back to Berlin to continue spying there. That's in the last episode of this very famous Soviet miniseries. And he chooses, as the narrator says, to go back to work, in other words, to return to Berlin. So it's in a sense Putin telling the soldiers that they have a sacred duty to complete the mission to recapture Donbass and to achieve the objectives of the special military operation in Ukraine.
@@ -84,7 +87,7 @@ Russian cinema, as I have done, will also be familiar, for example, with the las
 The Ukrainians will also continue with theirs until the Russians sort out their air defenses, which they will. And in any event, and up to that time, the damage the Ukrainians do is overstated. That's my view. I have seen no reason at all to change it. Lastly on the Ukraine topic, let me also very quickly say that a Ukrainian MP, Mr.
  Gonchareno has now identified the businessman who
 
-### Segment 7 — Met Both Putin And Zelensky
+### Segment 6 — Russia Ukraine Putin
 
 met both Putin and Zelensky over the last few weeks and appears to have acted as an intermediary or tried to act as an intermediary between the two as Roman Abramovich the 1990s oligarch who was one of the two business people that I mentioned yesterday as the most likely to be fulfilling this sort of role.
  Now, it's been pointed out to me in a private email by a very reliable source that in fact contacts between business people have been taking place between Russia and Ukraine for a very long time and in fact are continuously ongoing. It still seems to me as if this particular contact was different in the sense that Abraovic was not meeting with Ukrainian business people.
@@ -93,7 +96,7 @@ That by def definition guarantees that the Russians will see him will treat him 
 But as I said in my program yesterday, I think this is a massive misjudgment and completely fails to understand the actual balance of political and economic power in Russia today, which has moved very far from the oligarchs of the 90s, people like Abraovich. just to say. So anyway, that is my overall summary about the Ukraine situation.
  Um, we are probably going to see several weeks now of Russian advances and the Russians pressing hard first on but then probably on Zaporozhye and on the Slavansk connibation. Zelensky knows this. He may not be
 
-### Segment 8 — Able To Talk About This
+### Segment 7 — Russia Middle East Ukraine
 
 able to talk about this with his Western allies because he doesn't want to make them know how precarious Ukraine's situation has become.
 But the fact that he has tried to get some kind of back channel with Putin going using Abraovic as an intermediary shows that Zelensky is indeed becoming increasingly worried about the overall situation. Bear in mind that Zelensky has never at any point in the war since the collapse of the Istanbul negotiations in April 2022 shown any interest in direct negotiations with the Russians.

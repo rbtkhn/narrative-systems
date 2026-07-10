@@ -1,5 +1,6 @@
 ---
 
+
 ingest_date: 2026-06-13
 pub_date: 2026-06-13
 kind: cleaned-transcript
@@ -26,10 +27,9 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: paste-prefix
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 0 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Scoff/Scorf, Zelensky/Zelensky, Konstantinovka/Konstantinovka, Rasvet, straight kamuz/Hormuz, Arashnik, etc.). Duran subscribe/shop close retained at tail per paste. Routine Mercouris solo subscribe/platform close trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 0 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Scoff/Scorf, Zelensky/Zelensky, Konstantinovka/Konstantinovka, Rasvet, straight kamuz/Hormuz, Arashnik, etc.). Duran subscribe/shop close retained at tail per paste. Routine Mercouris solo subscribe/platform close trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-07-09 (8 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
 mercouris_close_promo_trim_applied: true
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -38,6 +38,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 8
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Putin Meets Military Warns West Says Russia Has Drone Dominance Seeks Victory; US Plans China Trap
 
@@ -49,7 +52,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Russia Ukraine Trump
 
 Good day. Today is Saturday, 13th June, 2026. And as you can see, I'm still in Scoff in Russia, where I've had a rather quieter day than on other days, but there's still been an awful lot to discuss, some of which I will touch on later in this over the course of this program. Anyway, in the meantime, the news from the various wars continues and I will turn later in this program, I will discuss later in this program the situation between the United States and Iran which according to some reports is becoming stranger and stranger all the
 time. But let me first of all begin with the conflict between Russia and the West and the situation in Ukraine because over the last 24 hours we've had a very important meeting of between President Putin of Russia and a group of Russian soldiers. They met with him in the Kremlin on the occasion of Russia Day, the um national holiday of Russia which took place on the 12th on Friday the 12th of June.
@@ -61,7 +64,7 @@ Last year it was all about diplomacy, negotiations, meeting with Donald Trump in
  Now, I've said in previous programs that in my opinion, the negotiations from Putin's perspective and from those of the Russian leadership last year did serve a useful purpose even if they did not result in an actual settlement of the war. and that is that they led to a general but of course far from complete disengagement by the United States in its role in the war.
 the enormous flow
 
-### Segment 2 — Of American Weapons That Poured
+### Segment 2 — Ukraine Russia Europe
 
 of American weapons that poured into Ukraine between 2022 and 2024 has mostly come to a stop. And by the way, the flow that flow of weapons publicly began during President Trump's first term and as we now know had begun at a quiet level even under Barack Obama even though President Obama had actually given an instruction that there should be no transfers of weapons by the United States to Ukraine.
  We know that in reality that prohibition on weapons transfers to Ukraine was never implemented even whilst Obama was president. So there was this enormous flow of weapons to Ukraine and that has largely stopped and the United States and President Trump have largely though again to stress not completely disengaged themselves from the war and from the negotiation process.
@@ -73,7 +76,7 @@ The entire discussion with these officers, these Russian officers was basically 
 These laboratories and these scientists and engineers given significant funding but basically left to get on with it by themselves without excessive political or administrative oversight. The laboratories then coming up with their own individual solutions. the Russian military ministry of defense, then testing the various solutions on the front lines, deciding which of the solutions offered was the most effective and then in cooperation with the industrial complex, scaling up production to the to enormous levels.
 And we had discussions about all sorts of things about FPV goggles, about the necessary about the various types of drones that the Russians are working on and should produce about um anti- drone technologies about the development of electronic warfare systems to be used by the soldiers themselves. on the front lines
 
-### Segment 3 — About Communications Equipment Replacing The
+### Segment 3 — Russia Ukraine Communications
 
 about communications equipment, replacing the heavy communications packs, perhaps left over from the Soviet Union with far more advanced and much lighter packs that the soldiers themselves can use, can use more easily
 on the front lines. And perhaps most interesting of all, at least for me, about the state of the Rasvet, Russia's equivalent to the Starlink system, one theme that came through very much from the soldiers, the frontline soldiers, was of the advantage all of them seem to feel Ukraine had from the Starlink system.
@@ -87,7 +90,7 @@ And I think that Putin himself anticipates that the Rasvet system will be in ope
  I don't believe that Putin himself was engaged in some kind of elaborate deception here. But of course, there's also the other possibility that he's wrong. That he thinks that the Rasvet system is more advanced than it really is, more advanced in its development than it really is. But again, I have to say that I personally think that unlikely.
 The speed of development of the Rasvet, it must be said, has been extraordinary. If I understood Putin correctly, development began as recently as 2023.
 
-### Segment 4 — And Yet The Russians It
+### Segment 4 — Russia Ukraine Europe
 
 And yet the Russians, it seems, have mostly, at least according to Putin, brought the system to fruition. Anyway, that was one thing that Putin said about the technological situation on the battle fronts.
  He also spoke about anti- drone technology, about the distribution of more effective jammers for the soldiers, jammers to jam the Ukrainian FPV drones. There were obviously all sorts of tricks and weapons in development about which Putin did not want to speak about in public. But he did make a one I thought very interesting point.
@@ -99,7 +102,7 @@ According to him, Russia has in effect been fighting a war singlehanded against 
  The universal view here in Russia is that if it had just been to a fight between Russia and Ukraine, the war would have ended long long ago. Rather it is a conflict between Russia and the entire collective west. The Russians of course refer to the west as the collective west and Russia for all the difficulty is prevailing in that struggle against the entire collective west.
  something which astonishes Russians even as at the same time it creates immense psychological pressure on them. Something which I have also noticed by the way whilst I am here the feeling that in effect the whole of Europe and not just the United States has combined against them for yet another time. Anyway, Putin went on to say that it was already clear that the West would fail to achieve its strategic victory over Russia, that Russia would indeed prevail in the war, that it will achieve the liberation of its territories. Now, he
 
-### Segment 5 — Didn't Say Which Territories But
+### Segment 5 — Russia Economy Ukraine
 
 didn't say which territories, but it's clear to me that he meant more than just Donbass. Just saying. And at the same time when he spoke about the liberation of the territories, it was also absolutely clear to me that he was talking about the territories being liberated by the Russian army, not handed back to Russia, as Putin would say, as a result of some negotiating negotiation process.
 Putin also talked about the strategic attacks that Ukraine is carrying out across Russia with his long range drones. And Putin said that Russia is strengthening its air defenses and that this would and he seemed to be confident that this would bring the problem of Ukrainian drones under control again. He did he did speak about the fact that these long range drones do some damage, but he said that whatever damage is done is quickly repaired.
@@ -111,7 +114,7 @@ He said that he hoped that this would deter the Ukrainians from conducting attac
 and a great deal of that sort of thing. The overall message from Putin's meeting with the soldiers was an implacable one. Not only will the war continue as far as Putin is concerned until victory, there also seems to be the sentiment of the soldiers. One of them referenced Putin's words at the St.
  Petersburg Economic Forum, his comment after receiving and debating Zelensky's insulent
 
-### Segment 6 — Letter Putin's Comment To The
+### Segment 6 — Ukraine Russia Europe
 
 letter. Putin's comment to the soldiers work brothers. And the soldier in question assured Putin that the soldiers on the front line are indeed working as he asked them to and are pressing home their their battle and are determined as he put it to end the war victoriously.
 So overall a very implacable Putin talking in a very implacable way. He repeated again his criticisms of European duplicity over the Maidan coup as he calls it February 2014 and over the long negotiating period after the signing of Minsk 2 and the fact that Minsk 2 was simply an exercise in buying UK time for Ukraine so that it could rearm and he spoke scathingly of Angela Merkel's part in that so that again any German like Sigma Gabri Gabrielle the former vice chancellor who imagines that Putin is going to welcome Merkel as
@@ -123,7 +126,7 @@ longer to hold their positions, of the complete dominance of the Russian drones 
 them to a grizzly fate. So I have no reason to doubt this account of the battle by events in Ukraine. It corresponds actually for once very closely to what the Russians are saying only this time it comes from Ukrainian sources instead. Anybody who doubts that the situation in Konstantinovka for the Ukrainians is indeed critical.
 Well, I would invite them to go to events in Ukraine. this Substack blog and read the account of the battle of Konstantinovka that they will find there. And well, what is happening in Konstantinovka in my opinion repeats itself right across
 
-### Segment 7 — The Front Lines I See
+### Segment 7 — Iran Ukraine Russia
 
 the front lines. I see that Ukraine's Cassandra, the prophetus who repeatedly warns of disaster, but whose warnings are never heeded.
 Maria Bezugllayia to give her her name. I notice that she's now back talking again about the dire situation for the Ukrainian military in Konstantinovka. And to repeat again, I believe that as soon as Konstantinovka falls, we're going to see an acceleration of the crisis for the Ukrainian forces still trying to defend in the rest of Donbass in places like Kramatorsk and Slovyansk.
@@ -136,7 +139,7 @@ Now, I noticed that various commentators have ridiculed Trump's claims about the
 and to some extent India. And the reason the tankers have been able to pass through the straight of Hormuz is not through any cunning intelligence provided by the United States or advice to stick close to the Omani coastline or American success in shooting down Iranian drones. It is through the United States government providing to the ship owners the $2 million they need.
  They each need to pay the Iranians the transit fee so that they can transit safely through the Gulf, the straight of Hormuz. Now again, I don't know for a
 
-### Segment 8 — Fact That This Is So
+### Segment 8 — Oil Prices Iran American
 
 fact that this is so, but it wouldn't surprise me. But let's just for a moment assume that it is so. And by the way, and for the record, I suspect it is. Then what this means is that the United States government is paying Iran money so that oil can be shipped to China.
 If this is true, then I think the American people ought to know. If it is not true, then the United States government should say so. Anyway, that's all I'm going to say about that. I've heard something else and this is information or rather if you prefer speculation that I've heard here in scoff and this is that the United States government has indeed been heavily manipulating the financial markets in order to try to keep the price of oil low or lower than it should be at this point in the cycle given that the oil

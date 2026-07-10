@@ -1,5 +1,6 @@
 ---
 
+
 ingest_date: 2026-06-23
 pub_date: 2026-06-22
 kind: cleaned-transcript
@@ -28,9 +29,8 @@ caption_wrapper_normalize_applied: true
 transcript_wrapper_tier: paste-prefix
 mercouris_close_promo_trim_applied: true
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (mercouris, channel:alexander-mercouris)); 8 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio. Caption/paste wrapper residue normalized in place; SSOT substance preserved. Routine Mercouris solo subscribe/platform close trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (mercouris, channel:alexander-mercouris)); 8 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio. Caption/paste wrapper residue normalized in place; SSOT substance preserved. Routine Mercouris solo subscribe/platform close trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-07-09 (9 sections)."
 quality_note: "ASR normalization pass 2026-06-23; ph-civ replacement SSOT."
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -39,6 +39,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Starmer Finally Quits; BBC Admits Kiev Faces Donbas Crisis Losing Konstantinovka; Neocons Iran Rage
 
@@ -48,7 +51,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Ukraine Economy Russia
 
 Good day. Today is Monday, 22nd June, 2026. And before I proceed with this program, let me remind you again to take the like button and to check your subscription to this channel. Now, today, Monday, 22nd June, 2026, also happens to be happens to be the anniversary of the German attack on the Soviet Union in Operation Barbarossa back in 1941.
 And not coincidentally at all, it is also the day when the Prime Minister of Great Britain, um, Sir Keir Starmer, has announced that he is leaving the government. One is almost tempted to draw parallels between the extraordinary tragedy of the one event and the insignificance of the other. I do not like to say harsh things about people when they're down.
@@ -63,7 +66,7 @@ If there is a contest, then Keir Starmer tells us that he will remain Prime Mini
 of July, or possibly longer still, throughout the summer. Now, in other countries, in the United States, where transitions, political transitions, are usual, and where the system is built around them, that perhaps does not seem so surprising or so controversial. But in Britain, in the British system, it needs to be said again that it is actually a departure from the constitutional norm.
 In Britain, the government cannot work effectively unless there is a Prime Minister with authority who is fully engaged and able to conduct the government effectively. Unless that happens, basically everything stops. And the usual British practice until the last few decades, indeed properly speaking, until the last decade, is that as soon as it becomes
 
-### Segment 2 — Clear That The Prime Minister
+### Segment 2 — Ukraine Prime Minister
 
 clear that the Prime Minister is no longer able to conduct the government, that Prime Minister immediately leaves office and someone takes his place who is able to conduct the government and has the
 necessary authority to do this. Now, what makes this situation extraordinarily difficult and very strange is that in Britain today, such a person exists. In recent years, when a Prime Minister has been forced to step down and we've had a party election to determine a successor, it's usually been the case that that has happened because there is no consensus as to who that successor should be.
@@ -80,9 +83,9 @@ administer rather than govern Britain. And I would suggest that this situation w
 policy on any serious issue has been taken away from him. We have gone in Britain from a country with a very strong political system controlled by Parliament which is in turn elected by the people and with politicians responsible to Parliament and through Parliament to the people to a system where we are in fact governed by faceless functionaries.
 I have had
 
-### Segment 3 — Many Issues With Dominic Cummings
-
 many issues with Dominic Cummings in the past. We come from completely different political traditions. But it seems to me that the events of the last year or so actually not just of the last week basically confirm his analysis. Well, this is all I'm going to say about Starmer's departure only to repeat again that as a utterly failed Prime Minister I'm glad to see him go.
+
+### Segment 3 — Russia Ukraine Serious
 
 I'm now going to turn to bigger more serious matters. And well, the biggest matter certainly involving Britain or so it seems to me continues to be the war in Ukraine. And today for the first time that I have noticed the BBC has finally admitted that there is a military crisis for Ukraine in a town that, well, to say it simply, they've almost said nothing about before and that town is, of course, Kostyantynivka.
 Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas. And then we read, "Russian troops have infiltrated the strategic city of Kostyantynivka in eastern Ukraine and are now trying to surround it." Bear in mind this article is written today, is published today.
@@ -97,7 +100,7 @@ I'll quote the passage. This is denied by Kiev and Brigadier General Oleksandr B
 And then the BBC, which clearly has some doubts, says that the situation on the ground may not be as critical as Moscow says, but it does appear far more serious than Ukrainian officials are ready to publicly admit. A Ukrainian officer from a unit that operates inside Konstantinovka told the BBC. And the officer in question is [snorts] careful to keep his identity secret, but he says we still have clean-up and assault groups inside the city, but the Russians managed to accumulate more and more soldiers there.
 Now, the most reliable sites, uh military sites, Ukrainian and Russian, are now describing a situation where the reality about Konstantinovka is that the town is 95% under Russian control at the very least. My
 
-### Segment 4 — Own View Is That It
+### Segment 4 — Russia Ukraine Own
 
 own view is that it is even that overstates the level of Ukrainian control. There has been a whole cascade today of comments about the situation from the Russian Defense Ministry on its Telegram channel and website.
 And there's been lots of pictures of Russian soldiers raising their flags in various parts of Konstantinovka. Um the whole picture that the Russian Defense Ministry is giving is of a town that is essentially under Russian control with the Russians carrying out mopping-up operations as they round up whatever remnants of Ukrainian units or left-behind Ukrainian soldiers that still are in the town.
@@ -114,7 +117,7 @@ But even if Pushilin, as he sometimes does, is moving ahead of things, well, wha
 There are some reports that the Ukrainians are trying to remove from Kramatorsk as well some of the industrial facilities, the machines and things of that kind. Um they're trying to evacuate them deeper into Ukraine. I can't believe that this can be done to any very great extent, certainly not with the Russian drones and um aircraft operating over the skies.
  But anyway, it does look as if the Ukrainians are at least trying to do something of this to some degree, suggesting that the Ukrainians themselves understand that the fall of Sloviansk and Kramatorsk is coming. And there've
 
-### Segment 5 — Also Been Russian Attacks On
+### Segment 5 — Russia Ukraine Russian
 
 also been Russian attacks on Zaporizhzhia and these are becoming increasingly heavy. And they do suggest to me a proximate Russian plan eventually to capture that important industrial city in Ukraine.
 Anyway, alongside all of that, the Ukrainians have continued to conduct their own drone and missile strikes. As has been a repeated pattern in this conflict, they have conducted severe strikes against well, they they hit um the ports and entry terminals of the various bridges leading to Crimea from the Russian mainland.
@@ -130,7 +133,7 @@ But to repeat again, if one is talking about Russia in its entirety, Moscow, St.
 They do not disrupt the sense of normalcy that the Kremlin has successfully created. They do not prevent the growth of living standards, which I witnessed for myself when I was in Russia. And they do not impact materially on the course of the war. So, to suggest that the capture of a key town like Kostantinovka, and in fairness to the BBC, it appears to acknowledge that Kostantinovka is indeed a key town, to suggest that the capture of Kostantinovka is somehow intended to distract from the real war, which is the war in the sky,
 which the Ukrainians are supposedly winning with their drone attacks, is, as I have said, to set reality on its head. The fact that this article has appeared in the BBC, in my opinion, is the first tell-tale signal that even in Britain we are going to finally see, over the next few days and weeks, the crumbling of the narrative that has been so insistently pushed by the Western media, by certain Western governments, that the Ukrainians have regained the
 
-### Segment 6 — Initiative And Are Winning The
+### Segment 6 — Russia Europe Ukraine
 
 initiative and are winning the war.
 I have said that as resistance in Donbas collapses, that narrative is going to be impossible to sustain. And this article in the BBC confirms that. And we see how even the BBC is now starting to have doubts about this narrative. I go back to that paragraph. The situation on the ground may not be as critical as Moscow says.
@@ -147,7 +150,7 @@ He said that the Russians saw nothing good about Starmer. They don't, however, e
 That is why there is nothing for us to remember him for. Many are asking if things could improve after him. Well, it's unlikely that a politician will emerge on the on the British political scene whose position on our bilateral relations will differ from that of Starmer." So, that was Peskov. And that is what Peskov is saying.
 The Russians had no time for Starmer. I'm sure that is no surprise to anyone. And they have no expectations of Prime Minister Burnham, who is to come. And judging from Peskov's words, the Russians have no expectations of a possible Prime Minister Nigel Farage, either. The Russians are completely realistic and absolutely right, in
 
-### Segment 7 — My Opinion About The Extreme
+### Segment 7 — Russia Fact Serious
 
 my opinion, about the extreme unlikelihood, impossibility, in fact, of any serious improvement in relations between Britain and Russia at any proximate time.
  My friend, Ian Proud, has argued about the urgent need for this in his latest article, and he is, of course, completely right. But looking at the political system in Britain today, I have to say this with a heavy heart. I don't think there's any prospect of any improvement between in relations between Britain and Russia happening or of any attempt by the British to start a serious dialogue with the Russians, whoever becomes Prime Minister in the next few weeks, months, or even years.
@@ -163,7 +166,7 @@ I'm not sure how sophisticated these particular gyroscopes are. I would have tho
 And as I assumed it does appear to have a lineage going back to certain decisions that the Russians made in 2002 after the United States pulled out of the anti-ballistic missile treaty. The Russians at that time launched developments on a group of different systems which however in order to reduce cost would share components and design concepts with each other.
 And this is particularly important because in 2002 um budget funds for more ambitious programs individual programs covering each part of the military industrial system did not exist. So, there was a need to share components and ideas between systems. And this work was apparently successful so that when in 2022 it came about that the Russians were faced with embedded Ukrainian defenses in places like the Azovstal factory in deep bunkers and such things and the Russians needed to
 
-### Segment 8 — Develop A Weapon System To
+### Segment 8 — Iran Russia Trump
 
 develop a weapon system to counter
 these deep bunkers. A lot of the equipment the components the gyroscopes, the rocket fuels, the launcher systems, those kind of things were already there ready for adaptation and could be brought together basically off-the-shelf. And now I get to extend this to my own guess. I suspect that there are there has had to be important work done on the control mechanisms of the Areschnik um the guidance systems and that kind of thing and the systems needed to improve its accuracy.
@@ -181,7 +184,7 @@ means that the situation with energy flows and diesel remains extremely fragile 
 And there's been criticisms very very strong criticisms of President Trump himself in the Israeli media and perhaps more interesting of all President Trump appears to have had a very extended meeting with Senator Lindsey Graham. Now according to some reports this meeting went on for four and a half hours. Now on the surface relations between Senator Graham and President Trump remain cordial.
 President Trump continues to back Senator Graham for re-election in South Carolina and Senator Graham for
 
-### Segment 9 — His Part Is Not Publicly
+### Segment 9 — Iran Rare Earth Trump
 
 his part is not publicly critical of President Trump's stance with respect to Iran. But from my own experience, I would say that a meeting that lasts 4 and 1/2 hours almost certainly is going to be a contentious one.
 If parties are on good terms and agree on most or all things, then they don't need to meet and speak for 4 and 1/2 hours. And well, we could see this with some of the very defensive posts on Truth Social that President Trump is publishing and also with the further threats he is now making about Iran. He understands that as far as the neocons and the Israelis and the deep state and the permanent government of the United States are concerned, the conflict with Iran up to now has been a defeat.

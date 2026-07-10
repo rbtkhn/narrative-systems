@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 ingest_date: 2026-06-20
 pub_date: 2026-06-20
 kind: transcript
@@ -27,7 +33,7 @@ source_note: Operator-pasted YouTube transcript; Dialogue Works host self-dates 
 evidence_grade: transcript-bearing
 opening_tier: host-guest-interview
 capture_note: Operator paste; full interview body preserved from user-supplied YouTube transcript.
-editorial_note: Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio. News-verify header pass 2026-06-20. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio. News-verify header pass 2026-06-20.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (10 sections)."
 transcript_wrapper_tier: clean
 verify_receipt: 2026-06-20
 verify:
@@ -43,7 +49,17 @@ verify:
   - claim: Pentagon leak — US military efforts = withdraw personnel/planes from region
     verdict: unclear
     note: transcript/host carry only · cross-ref J20-16 · verify:wire-unclear
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Larry Johnson: Iran Closes Hormuz AND Ends Israel's Combat Ops - US Rushes to Talks!
 
@@ -53,7 +69,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Israel Ceasefire
 
 Hi everybody. Today's Saturday, June 20th, 2026 and our dear friend Larry Johnson is here with us. Welcome back, Larry. >> Hi there. How are you? I am a good shirt choice. >> Yeah, >> we got really We got the blues today. We got the blues. Yeah, Larry, let's start with the two negotiation, two delegations are headed toward Switzerland both on the part of Iranians.
  When you look at the list of the Iranian delegation, the same people by the way, basically the same people, the head of Iranian parliament, we have the head of Iranian central bank. We have the foreign minister of Iran and deputy foreign ministers, deputy foreign minister. And then and then we have one of the members of the security council in Iran.
@@ -68,7 +84,7 @@ They're going as well. >> Yeah. And Katari, we have we have Katar members of the
  One 13 soldiers 13 13 soldiers were injured last night and four the night before. Four casualties four killed the night before. Right. >> Yeah. >> Yeah. No, they're they're taking they're they're suffering larger casualties now, I believe, than they did in 2006 during that attempt. So, um it'll be uh ultimatues got too too painful and they withdrew and I think they're headed on to that same uh trajectory right now.
 >> Yeah. Larry, there is something serious going on in the United States when it comes I I talked today with you know with many people from different sort of ideas from the right, left, center but the situation is somehow you look at JD Vance he's compared in his recent podcast he
 
-### Segment 2 — Compared Israel To France And
+### Segment 2 — Israel Trump Pentagon
 
 compared Israel to France and the United Kingdom he said their ally like France and the United Kingdom them.
  But is there is is that the understanding on the part of Israelis? Do they really feel they're like France to the United States? Uh well, I think a better way to look at it is um Israel fancied itself as having the very special relationship with the United States and that it was, you know, we were romantic partners almost.
@@ -83,7 +99,7 @@ Uh, but there is a I think there's a I'm not sure it's growing, but there certai
  Now, a lot of people getting very fed up with that. Randy Fine tweeted that everybody but JD Vance about 2020. Did you saw >> Did you see that? >> Yeah. Yeah. >> I saw it and see what is going on with this guy. >> Larry, who's supporting who's supporting JD Vance in the Trump administration? We I think I believe there were many people like JD Vance and Joe Kent because before you remember before Joe Kent resigning from the Trump administration we didn't know anything about it >> and no but how who support >> he was he wasn't much Joe Kemp wasn't
 much of a public figure I mean I knew about him I knew knew his past um well you got Elbridge KBY at uh the the Department of war at the Pentagon. Uh he's like the deputy secretary
 
-### Segment 3 — Of Defense Um I Think
+### Segment 3 — Trump Iran Israel
 
 of defense. Um I think he supports JD Vance. Uh you've got uh I think Robert F. Kennedy Jr. as well supports uh JD. So he's not without some support.
  Um Trump, you know, I I I think Trump's increasingly losing touch with reality. He there's parts of him that can stay in tune and other parts of him not. And just, you know, watching him today get into a pissing match with uh Georgia Maloney, the prime minister of Italy, it was just absurd. Uh, you know, he's bea behaving like some teenage girl who has her feelings hurt and lashes out.
@@ -97,7 +113,7 @@ Um th this you know I think I think they will come out um it depends it depends 
  You know, right now it's closing in on uh 11, you know, 23 20 hours. So, it'll be midnight in a bit in Switzerland. Um so you know by the time we talk tomorrow they will have had uh discussions. Uh JD Vance um you know he'll get there he'll arrive about uh 6 6 a.m. in the morning. So you know he'll sleep on the plane going over I would presume and then get up and go to work.
 So they could, you know, if nothing else, we'll find out if they can come to an agreement on how they're going to conduct the the negotiations. Will they continue to do it through an intermediary? Will they do it in person? uh there are uh you know the the fact that Pakistan sending such a high level delegation means at least from Pakistan standpoint they're taking it seriously and uh hopefully I Pepe and I will have some more information about that uh
 
-### Segment 4 — In In The Next Uh
+### Segment 4 — Iran Israel Pentagon
 
 in in the next uh few hours.
 >> Two two points with this meeting that is going to happen. One of them is the Iranian on the part of Iranians. I I'm sure that you've seen the statement of the Iranian supreme leader. He said that he's not optimistic about what's going on. But he gave the permission to the Iranian president. But their people in Iran, they're not they don't want they say there is no positive outcome for the negotiation deal.
@@ -109,11 +125,13 @@ uh, from the region. So, that's underway. Then so as long as that's happening th
 >> Yeah. And I add just and let me say also the same the same for the ships the the Navy the carrier t carrier strike group you know they're they're pulling back Diego Garcia they're drawing down so you're getting a draw down of person US personnel and assets across the region >> today Iran has closed the rate of formos again because they wanted to put pressure on the United States in your opinion is it going to be better for Iran to put pressure on the United States than the United States on Israel because you mentioned me Iran may attack
 Israel. Do you think that's a necessity for Iran to attack Israel directly or closing the straight of foremost would put pressure, you know, sufficiently to bring them to some sort of sanity?
 
+### Segment 5 — Hormuz Iran Straight
+
 Well, I I think it's it's a myth that the straight of Hormuz was quote open because uh the the in London insurance companies >> that the maritime insurers, they haven't they haven't certified that the straight of Hormuz is safe to travel through.
 >> So, um the only ships to my knowledge that have really been going through the straight of Hormuz are Iranian ships. uh if there have been any others maybe there have been but not that many u so you know because that that's one problem that is until the mines are cleared up out of the Persian Gulf uh th those ships aren't going to move so while it is in theory open the in practical reality it it's been very very limited movement of ships I think it's only been like seven ships a day uh that have been going through and my understanding is
 they're all Iranian >> that are taking product to China. >> Yeah. I I I don't know what how about the how about
 
-### Segment 5 — The Gcc Countries Are They
+### Segment 6 — Israel Iran Netanyahu
 
 the GCC countries? Are they going to be able to use the straight of hormones? >> Well, uh they you got to have a ship. So they don't have their own navies is my understanding. They're using foreign ships.
  So until those foreign ships have permission, have the insurance to sell, they're not going to be taking anything out of the the Gulf States unless it's an Iranian ship that goes there to pick it up. Does that make sense? >> Yeah. >> Yeah. >> Yeah. So that's I mean that's what I'm trying to get across here that you keep oh it's open it's closed it's open it's closed well you know to say it's open implies that there's a lot of activity there isn't uh and you know and by vice versa to say it's closed means what no traffic now
@@ -127,7 +145,7 @@ Is that going to change in your opinion? No, no, no, no. Not not easily. So, um,
 And that's why they're in the southern part of Lebanon, in the southern part of Syria, in Gaza, they're talking about 70%. This is this is a legal issue in my opinion. and they can address that easily. The international community come can can come together and talk about it. >> Oh yeah, the international community is not going to do anything.
  Hell, they haven't done anything over, you know, 40 now 40 uh 51 years. You know, civil war started back in 1975. Supposedly ended in 1990, but it's essentially, you know, the status quo has been there ever since. you know, of this division and with um you know, and now once again the is Israel's come back in
 
-### Segment 6 — To Bomb And Kill And
+### Segment 7 — Israel Gaza Lebanon
 
 to bomb and kill and strife.
  You don't even see the government of of Lebanon standing up for itself, declaring war on Israel. How dare you attack us? >> Yeah. the I think GCC countries as an outcome of this war they're learning something that was not available for them before or maybe they were not forced to to understand that >> which is the new reality I don't know how is that going to be beneficial for Gaza for the West Bank because right now everybody's talking about Lebanon talking about the war which we know today we've learned that they're bombing in Gaza. Israel is bombing Gaza city and
@@ -141,7 +159,7 @@ negotiations uh and I would say actually Oman as well to uh you know they've don
  She's she's now two years old or or or three and you know you know how two and three year olds are they? >> Yeah. Two and a half. >> Yeah. Two and a Yeah. grabs one thing, got it, looks at that and goes and grabs another thing and you know uh not a long attention span. I don't I'm not sure he's got a long attention span for this.
 He he he keeps say send saying crazy things. again. He came out today uh with a a a truth I won't call it a a tweet uh but he he truths on truth social and uh you know warning that Iran's never going to collect a red dime whatsoever and then not now ever. Well, you know
 
-### Segment 7 — He He Says That But
+### Segment 8 — Trump Iran Israel
 
 he he says that but that's just not true.
  And what amuses me are these people said, "Oh, well, the United States and Europe, they'll go back in there and reopen the straight." >> Yeah, good luck with that. They couldn't do it during the war and now all of a sudden they got they're going to claim they got a stronger military presence. It's, you know, it'll it'll just get it'll bring Europe into the war in an unnecessary way.
@@ -156,7 +174,7 @@ Uh so, it's it's not it's not working. it, you know, Trump has split and divided
  But the the actions he's now taken this week signal just the opposite that he's pulling out that uh he's no longer interested in uh staying in there to fight seeing that it will be a drag on the election. And they may have very well calculated that uh the truth of the matter is the Zionist Jews are a very very very very small minority of voters in the in the overall scheme of things and that yes there are some well-placed Zionists who have a lot of money and appear to have some social influence but um you know I think they calculated that there was more to be
 gained by distancing themselves from that from that Zionist crowd. >> These Zionist Jews, something like 10% of the Jews in the United States because most of
 
-### Segment 8 — The Jews That I Talk
+### Segment 9 — Trump Iran Israel
 
 the Jews that I talk with basically are against Israel. >> None of them is in favor of Israel. That's why I don't I don't have any sort of understanding of how much of these people supporting Israel.
  How many of these people what is the percentage of that that support Israel? >> Yeah, I I'm not sure what that number is. All I know is the overall number of uh Jews in the United States is around 10 million out of, you know, 35 million. So that's, you know, that's really not a significant number. I mean, you can make a make the case that their influence is disproportionate to their numbers.
@@ -170,7 +188,7 @@ you need twothirds to convict. you might very well find the twothirds of the Sen
  Uh or if u but you know that that needs to be done for if nothing else from from the sake of uh of Iran to know that they've got a a real deal that this not just dependent upon the the the whims of Donald Trump. How how does he feel today? Is he just going to wake up some morning grumpy and pissed off and decide to walk away. So, um you know, they'd be much better if they said we got a deal that the US Congress is certified.
  So, at least, you know, we got public support for that deal. That that's what we don't have right now. Larry, the three countries that were invited to G7 summit, Brazil, UAE, and Egypt, what was the meaning of that for you? >> Oh, I I think they trying to break up break up bricks. Yeah,
 
-### Segment 9 — That's The Key And I'm
+### Closing — Israel Iran Gaza
 
 that's the key. And I'm surprised, you know, they didn't try to invite India, but I think India was maybe of a mind, you know, she wasn't going to go.
 I think I don't know if I'm right, but is the UAE and Egypt the case of these two countries is related to the West Asia and what's going on in West Asia or is something beyond that? >> What do you mean? because of ongoing war they want to they know Egypt is so important by the way when it comes to Gaza when it comes to Lebanon for the United States they're somehow partner or >> some sort of ally to the United States and when it comes to you know the situation in the Middle East but UAE is the other partner of Israel it's so

@@ -1,5 +1,11 @@
 ---
 
+
+
+
+
+
+
 ingest_date: 2026-06-12
 pub_date: 2026-06-11
 kind: cleaned-transcript
@@ -26,7 +32,7 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: paste-prefix
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: AI-assisted ASR repair (common + series tiers + statecraft entity pass); 0 substitutions; not human-verified verbatim; verify before quotation. Tail re-ingested from operator YouTube paste 2026-06-17; close promo trimmed post-ingest. Routine Mercouris solo subscribe/platform close trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 0 substitutions; not human-verified verbatim; verify before quotation. Tail re-ingested from operator YouTube paste 2026-06-17; close promo trimmed post-ingest. Routine Mercouris solo subscribe/platform close trimmed in place; SSOT body otherwise preserved.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (9 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT. Tail re-ingest 2026-06-17."
 mercouris_close_promo_trim_applied: true
 verify_receipt: 2026-06-24
@@ -41,7 +47,6 @@ verify:
   - claim: Conference-source battlefield / drone-component reads
     verdict: unclear
     note: attributed not wire-primary; Ukraine adjacent only
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -50,6 +55,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Iran US War Resumes; Russia Brushes Off EU Sanctions, Complains To China Over Drones
 
@@ -59,7 +67,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Hormuz Trump
 
 Good day. Today is 11th June 2026 and as you can see I'm still in Russia attending the conference. In fact, I'm going to be submitting a paper to the conference tomorrow and making a presentation. And as a result, inevitably my programs will continue to be shorter than usual. Well, over the last 24 hours, we've had more attacks by the United States against Iran, more missile strikes.
  Um, we're still waiting to see, as of the time of making of this program, what Iran is going to do in response. Um, in the meantime, the United States has struck a tanker, an Indian tanker close to the shore of Aman. The Indian government has complained to the United States. It's most unlikely, I would guess, that they're going to get much in the way of an apology from the Americans.
@@ -72,7 +80,7 @@ There have been suggestions made in the past over the course of this crisis that
  But to say it straightforwardly, I also think that those sort of reports might not be that difficult to arrange if that was indeed what the United States was seeking to do. I noticed that oil industry executives continue to speak about rapidly depleting oil reserves. They don't seem to be particularly impressed by this claim.
 And frankly, I'm not. Anyway, I'm not going to say more because I'm not there and I'm not able to observe what is actually taking place on the straight of Hormuz. But if there is going to be another attack on Iran by the United States following upon the attacks which have already happened, then I believe that the Iranians will respond and they might start to respond against um Persian Gulf oil facilities, which
 
-### Segment 2 — Of Course They've Already Recently
+### Segment 2 — Iran Nuclear Weapons Nuclear Weapon
 
 of course they've already recently attacked.
  And ultimately, if we find ourselves in an allout war situation, well, all bets are off and we might see escalations all the way up to possible attacks on desalination plants. Meanwhile, I understand, and again, I'm not on the on the ground, so I can't say this for certain, but I understand that the heavy fighting continues in southern Lebanon, south of the Leani.
@@ -85,7 +93,7 @@ Apparently, there was no actual plan and no suggestion that any decision to do t
  I still believe that we are very very far indeed from any situation where the United States uses nuclear weapons. And to be straightforward about it, I don't think it's going to happen. I think the military will strongly object against a suggestion of that kind. And I am sorry to say that in light of the very many strange stories that Seymour Hersh has been publishing in recent years, specifically about the Ukraine situation.
  I no longer think that he is a reliable narrator about discussions that might be taking place in Washington on this issue. However, given the very difficult situation in which President Trump finds himself in and the absence of any obvious solutions and given certain, shall
 
-### Segment 3 — We Say Aspects Of His
+### Segment 3 — Russia Ukraine Trump
 
 we say, aspects of his personality, if it were to turn out that President Trump did indeed speak aloud on discussing this possibility, then I have to say that I would not be surprised.
  I still don't believe anything like this is actually going to happen. Well, that's where we are with the Persian Gulf situation. Now, in the other conflict that is raging, we have had further news. um this time from Readovka about um the situation this time in Leman, a town north of Slavansk, which General Gerasimov, the chief of the Russian general staff, claimed some weeks ago that the Russians now control 85% of.
@@ -98,7 +106,7 @@ and we are on the brink of seeing the fall of Leman, then this will mean that th
  So according to Readovka a critical situation for the Ukrainians in Leman. Now, Readovka also reports um certain comments by a well-known Ukrainian commentator who is apparently saying that um Konstantinovka itself is about to be abandoned by the Ukrainians. Now I am not myself fully familiar with all of this but anyway this is what the commentator Konstantyn Mashovets according to Rybar is saying as for the future tactical prospects for the defense of Konstantinovka they judging by everything look let's say very unfavorable for the Ukrainian
 armed forces is
 
-### Segment 4 — And According To Readovka Mashovets
+### Segment 4 — Russia Ukraine Europe
 
 and according to Readovka, Mashovets also said that after establishing full control of Konstantinovka, the Russian army will continue its offensive in the direction of Druzhkivka and will eliminate the operational salient that the Ukrainian army has formed on the approaches to Chasiv Yar.
  In other words, the Ukrainians will pull back their forces which have lie which lie between Konstantinovka and Chasiv Yar bringing the entire territory between Chasiv Yar and Konstantinovka and of course Konstantinovka itself fully under Russian control. Now, when that happens and assuming that the Russians complete the capture of the small town of Ray Alexandroka, which is, as I've said many times, located on a hill east of Kramatorsk, then the Russians will be in control of a very large belt of territory east of Kramatorsk.
@@ -111,7 +119,7 @@ And as Simplicius says, given the the information about the accuracy of the fab 
 many times. We've just had it happen with the Ukrainian launch of what they say is a cheap air defense missile to replace the Patriot. There is no possibility that Ukraine can produce missiles remotely analogous to the Patriot missile. Um, as I've discussed, the Russians have been scathing about this particular missile.
  They say that it is far too slow to be effective. Besides, it's impossible to see how the Ukrainians could successfully
 
-### Segment 5 — Build In Quantity Missiles Like
+### Segment 5 — Europe Russia Ukraine
 
 build in quantity missiles like this on their own territory, given that any industrial facilities to build these missiles would be immediately attacked by the Russians. And this again looks to me, I have to say, like another operation to get the West to fund a weapon system that is simply not proving that simply won't prove effective and which like the flam flamingo missile is basically being developed more for its
 psychological and performative ative quality than because it is in any way really effective and a real counter to Ukraine's escalating problems. Now, having said this, at this conference which I am attending, I have received a significant amount of information about the situation with Ukrainian drones.
@@ -125,7 +133,7 @@ or if China was not prepared to do that to supply the technology to the European
  And again, according to this source, the Chinese responded in their usual classic way. They were extremely polite. They said they would take the issue under consideration. That all sorts of important matters, however, needed to be discussed and thought out. And well, at some point perhaps China might communicate a decision to the Europeans.
 In other words, China ever so
 
-### Segment 6 — Carefully Ever So Gracefully Slammed
+### Segment 6 — Russia Europe Trump
 
 carefully, ever so gracefully slammed the door in their collective face. And well that of course is consistent with everything I know about this strange trip or rather trips by the Europeans to China. Um, it's been pointed out to me that the British Prime Minister K Starmmer came to China with an enormous delegation and came away basically empty-handed, just as Donald Trump did from his recent visit to Beijing.
 The Chinese are perfectly well aware of what the West is up to and they see no reason at all to help the West get out of its various problems if so that it can in future be in a better place to turn on the Chinese. Now again I was told over the course of this conference that it is universally known and understood in China.
@@ -138,7 +146,7 @@ So when I said that the delegates to the St. Petersburg International Economic F
 The Kremlin does not want any direct criticism of the United States or of Donald Trump. Now there is a lot of speculation as to why this is taking why this it's not exactly an instruction or an order but this guidance which of course the media will follow. why exactly this is happening.
  Um, the source speculated that it might be because the Russians still hope that at some point in the future they can do a bilateral deal with the Americans on perhaps trade
 
-### Segment 7 — And Economic Issues Or Conceivably
+### Segment 7 — Russia Ukraine Europe
 
 and economic issues or conceivably on the security architecture of Europe. I don't think anybody any longer thinks that there's going to be any negotiations or discussions between the Russians and the Americans on the subject of Ukraine.
 I doubt that any of this any of these stated reasons is true. I think that by now though there are no doubt some people like perhaps Kiriel Dimmitrif the head of Russia's direct investment fund and some business leaders in Russia who still want to believe that at some future time when the war in Ukraine is over provided the Russians don't say any rude things about Donald Trump, some great overarching wonderful deal between the Russians and the Americans will happen.
@@ -151,7 +159,7 @@ And well, the Russians know that. And they also know in terms of the intelligenc
  So obviously from the Russian point of view, it would be much better if the Americans weren't providing any assistance to the Ukrainians at all. But realistically, that is not going to happen. Doing something like that might expose Trump to dangerous risks from some of his earthwile neocon allies. So why not settle for the situation at the moment when the United States is not supplying air defense missiles or tanks or armored vehicles or artillery or long range missiles? Why not simply settle for that and carry on winning the war? Um, it's not
 the whole cake, but it is half a cake. It is half a cake that makes a difference. It means that fewer Russian soldiers die and territory is captured faster than
 
-### Segment 8 — It Might Otherwise Have Been
+### Segment 8 — Russia Trump Ukraine
 
 it might otherwise have been. and why infuriates Donald Trump and provoke him into reversing this policy and equipping the Ukrainians again to the best of the extent that the US can by publishing hit pieces in the Russian media about him.
  So that I think is probably the calculation being made in the Kremlin at this time. Maybe the Russians also say to themselves, "Well, when Ukraine collapses, let's try and maintain some kind of civil dialogue with the Americans because we will need the Americans at that point to place some restraint on the Europeans and we might as well give the Americans a kind of offramp by letting them continue to supply intelligence and that those sort of things to the Ukrainians.
@@ -165,7 +173,7 @@ There were memorials referencing the Second World War constantly to be seen. The
  As I discussed in my programs yesterday, I noticed that all the service stations were stocked with goods. There was no shortages of goods to be seen anywhere. No shortages of gasoline. And when I arrived in Scoff itself, and bear in mind this is a regional capital in shall we say not one of the richest regions in Russia.
  Nonetheless, signs of prosperity of factories being opened, of a factory involved in
 
-### Segment 9 — Electronic Products Being Opened In
+### Segment 9 — Russia Ukraine Trump
 
 electronic products being opened in a town not far from Scorf. Um, evidence of building taking place everywhere that was all around. It's perhaps not quite a boom situation. Interest rates are still too high for that, but there has clearly been a major economic upswing across Russia over the last few years, as I've discussed in my two previous programs.
 And that has inevitably consolidated support for the Russian government and for the country's leader Vladimir Putin. And well, here I want to reiterate again the situation with drones that I have already seen. I've spoken about how this is an area with strong connections to the Russian military. I've not seen any evidence of drones, Ukrainian drones, and I've not got any sense at all that people here in this region are going to be intimidated or put off by Ukrainian drones.

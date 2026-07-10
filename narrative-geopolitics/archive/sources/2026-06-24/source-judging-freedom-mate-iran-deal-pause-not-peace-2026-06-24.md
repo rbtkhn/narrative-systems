@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 ingest_date: 2026-06-24
 pub_date: 2026-06-24
 kind: transcript
@@ -27,12 +33,22 @@ youtube_id: yUMgg-xaeQs
 source_note: Operator source-intake 2026-06-24; operator-pasted YouTube transcript. Host self-dates Wednesday 24 June 2026. Goldman vs Lander NYC-12 primary (AIPAC/pro-genocide defeat); Poetica coffee shop civil-rights probe; Mamdani dark-money/AIPAC denunciation; MOU as performative pause not peace; Lebanon/Netanyahu IDF stay; Pakistan PM spoiler warning; Channel 13 US restrain-Israel message; Waltz Hezbollah-as-cancer; Syria fight-Hezbollah proposal; Marandi patience cite; Vance restrainer lane; oil-sanctions waiver; reflecting-pool CNN montage.
 evidence_grade: transcript-bearing
 opening_tier: host-tease
-editorial_note: Operator-pasted transcript body; not independently verified as verbatim; ASR artifacts retained (Npalitano, Morandi/Miranda, etc.). Ideological cold open trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-25 (9 sections)."
+editorial_note: "Operator-pasted transcript body; not independently verified as verbatim; ASR artifacts retained (Npalitano, Morandi/Miranda, etc.). Ideological cold open trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (8 sections)."
 transcript_wrapper_tier: clean
 napolitano_cold_open_trim_applied: true
 napolitano_close_promo_trim_applied: true
 napolitano_leading_noise_trim_applied: true
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 8
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Aaron Maté : Iran Deal a Pause Not Peace
@@ -45,12 +61,12 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Goldman Primary Defeat
+### Show Open — Israel Trump Ukraine
 
 >> >> Hi everyone, Judge Andrew Npalitano here for Judging Freedom.
  Today is Wednesday, June 24th, 2026.
 
-### Poetica — Coffee Shop and Civil Rights Probe
+### Segment 2 — Israel Ukraine Trump
 
 Aaron Mate, my dear friend, joins us now. Aaron, a pleasure. Um, you have some really fascinating observations about why the Iran deal is a pause and not real peace. And I wanted to get to that. But before I do, um, and before we get to Israel's, uh, continued slaughter in Lebanon, you and I, uh, living and working in New York City, have followed this congressional race, this primary, uh, involving Dan Goldman, uh, liberal Democratic congressman who last night uh, lost renomination uh, in the
 Democratic primary uh, at the hands, uh, of a, uh, prog progressive who spoke very loudly and clearly about the genocide uh in Israel. Uh what happened and what happened when Congressman Goldman walked into a coffee shop and was recognized? Dan Goldman, who's the heir to the Levi Strauss fortune, uh, who rose to prominence in the Democratic party in 2019 when he served as the, uh, House impeachment lawyer for the Democrats when they targeted Trump for pausing weapons to Ukraine, a weapon ship into Ukraine while pressuring Ukraine to open
@@ -62,7 +78,7 @@ and this close to Israel. I mean, Dan Goldman refused to condemn Israel for bloc
 And so he learned that lesson. Uh, you know, just before the election, there was an incident, as you mentioned, where a Brooklyn coffee shop uh found out that Dan Goldman had been in their store and they posted a tweet about it saying that his money is no good there and and that they gave him a refund because he supports genocide.
  And what happened there? The Trump administration launched a civil rights investigation >> of that coffee shop. >> All right, Chris, make that a full screen. I want to read it.
 
-### NY Primaries — Mamdani and Anti-Apac Wave
+### Segment 3 — Israel Palestinian Ceasefire
 
 This is what the coffee shop uh posted. So, this was in addressed to him, though publicly posted. We see that you stopped by our shop today for a coffee.
  Do you see how it doesn't taste like genocide juice? Or are you still having a hard time telling the difference? You see, here at Poetica, the name of the shop, we don't serve racists, fascists, homophobes, genocide enablers, or anyone in between. Too bad we didn't recognize you right away or it would have we would have turned you away. We issued you a refund.
@@ -83,7 +99,7 @@ So New York City is making things very interesting and so much of it is based on
 and set for deportation by the Trump administration for being Palestinian. Um, Espat as a member of Congress did nothing to support him, was totally silent about Mahmud Khalil. So, this is in part what motivated Chevalier to run against him. A very powerful Democrat and last night she won. >> Wow.
  Uh,
 
-### Iran MOU — Lebanon and Trump Leverage
+### Segment 4 — Israel Lebanon Trump
 
 let's go to the memorandum of understanding between Iran and the United States and your understanding of it. Will the Israelis help their buddy Donald Trump in the midterms uh by ceasing all the killing in Lebanon and by leaving? Or are they going to stay there and continue to kill? >> I think it's up to Trump. If Trump really wanted to, he could tell Israel to get out.
  So far, he's told them to pull back inside the uh around 6% of Lebanese territory that Israel is occupying. But for Iran and Hezbollah, that won't be enough. So eventually the rubber will have to meet the road. I do think that I mean from what I've heard inside Lebanon things have gotten quieter in recent days. Israel has scaled back its attacks.
@@ -92,7 +108,7 @@ let's go to the memorandum of understanding between Iran and the United States a
  So Netanya will do everything he can to be a spoiler and ultimately it will come down as it always does to whether the US wants to actually use the huge leverage that it has over Israel. >> Here's uh Netanyahu yesterday basically saying the IDF is staying and they have a lot of freedom of movement. Chris number 15. >> My directive together with the Minister of Defenses to the IDF is clear and has not changed.
  Our soldiers in southern Lebanon have full freedom of action to thwart any direct or emerging threat against them or against the residents of the north. The IDF has no restrictions in this regard. I stand behind them. The entire nation stands behind them and I firmly insist that we will remain in the security zone in southern Lebanon for as long as necessary to protect the residents of the north and all the citizens of the country.
 
-### Netanyahu — Pakistan Mediator Warning
+### Segment 5 — Israel Lebanon Trump
 
 In response to that, here's what the prime minister of Pakistan said. Why do we care about the prime minister of Pakistan? Because he and his team are the mediators in the negotiations involving JD Vance and the Iranian foreign minister and parliament speaker. So here's the Pakistani prime minister warning about Netanyahu. Chris number 18.
  We say this as a flashing sign of warning that there is no dirt of spoilers around the globe who are most unhappy and deeply dejected and disappointed out of this wonderful you know armistice truths which will lead to longlasting peace and prosper. parity they are out to scuttle this deal create confusions create doubts and my brother Masudashan myself and our brotherly and friendly countries are completely resolved that we will be like an iron wall against those spoilers >> wall against those spoilers we know who he was talking about without mentioning
@@ -103,7 +119,7 @@ Israel channel 13 ran a quote the other day from a senior Israeli official who s
  So the the Trump administration officially sees a major segment of Lebanese society as a cancer and Israel wants to root out that quote unquote cancer with weapons. So Trump shares the Israeli view of Leb of Hezbollah because it resists Israeli aggression as something to be wiped out. But yet Iran has drawn a red line and said that Israeli occupation of Lebanon is unacceptable and has to end.
  So this this memorandum of understanding that he's reached which calls for the termination of hostilities on all fronts including Lebanon for now it sort of puts a pause on things or at least creates the opportunity for a pause on things but it still kicks the can down the road for Trump and he'll have to make a decision as to what he wants to do because if he won't restrain Israel and Lebanon that he won't have a peace deal with Iran.
 
-### Performative Pause — Syria and Hezbollah
+### Segment 6 — Syria Israel Hezbollah
 
 Professor Muhammad Morandi who was on with us earlier today uh cautioned that there is a limit to the Iranian patience uh with respect to all the killing uh in Lebanon and that at some point if Trump doesn't can't won't restrain Netanyahu the Iranians will deem this a violation of theou and they'll begin sending ballistic missiles toward uh Israel.
 And let me also note, this is from Colonel McGregor, the former chief admiral of the Israeli Navy said, "The Navy's decimated. I'm not supposed to say it, but I'm retired and I can. And the Israeli sensors have kept the the public from knowing this." I didn't even know the Israelis had a Navy, but they did.
@@ -111,7 +127,7 @@ And let me also note, this is from Colonel McGregor, the former chief admiral of
  Syria now ruled by a former al-Qaeda offshoot. And the new Syrian government led by Akmed Alshara has plightly turned that down. Uh because even though Hezbollah even though the new Syrian government might want to settle an old an old score with Hezbollah because they fought on opposing sides of the Syria dirty war, Hezbollah intervened in Syria to protect the government from the al-Qaeda insurgency that uh Alshara led.
  Uh even though they have, you know, a long-standing feud, Syria's in no position to open a brand new front in neighboring Lebanon. It the country is just too weak and it's trying to rebuild from a devastating war. So that's
 
-### Morandi Warning — Israeli Navy and Missiles
+### Segment 7 — Israel Trump Iran
 
 Trump's big idea is get Syria to go fight do the to go fight on Israel and the US's behalf.
  And uh Syria's not going to do that. So eventually Trump will have to make a decision as to what he's going to do. And Professor Mandi's message from his contacts with Iranian officials that Iran does not have a lot of patience. I think I hope people in Washington are listening. How long do you think the status quo under theou will last? >> Well, it's a good question.
@@ -122,7 +138,7 @@ Again, you know, I don't want to extrapolate too much because these districts th
  If you look at polls, the Democratic party is not with Israel anymore at all. So in that respect, I do think this has national implications. And again, in a city where the two Democratic leaders, Chuck Schumer and Hakee Jeff are based and represent, they have to be listening to this. I mean, this is a huge defeat for them. and Chuck Schumer who recently uh marched in that uh Israel Day parade along with uh Israeli leaders who openly espoused genocidal policies.
  Uh he has to be paying attention to this because where he is at is not where the base of his party is anymore. >>
 
-### Reflecting Pool — Domestic Politics Humor
+### Closing — Trump Reflecting Pool
 
 Before we go, just for a little bit of humor, here's a CNN montage on the reflecting pool. >> This will last for at least 50 years and you'll never have a leak. It's very strong. You couldn't if you had a knife.
 I don't want to give anybody ideas. If you had a knife, you can't even cut it. So strong. So powerful. It's a powerful rubber. >> Are the contractors who did the initial work with the reflecting pool, are they to blame for the current condition or is it >> vandalism? Vandal, you know, we haveund we have a I think 290 300 foot slit right through it.
@@ -131,7 +147,5 @@ I don't want to give anybody ideas. If you had a knife, you can't even cut it. S
  They'll show it to you or see see uh the secretary, but I saw it. They cut it. They cut it very violently. >> Construction company is owned by a guy named John Cafaro. Chris has a picture of him. Mr. Rick Faroh. Oh, we don't have the picture. All right. Mr. Rick Cafaroh, who dwarfs the former governor of New Jersey in size, pleaded guilty to bribing a member of Congress, James Trafficant, and then testified against Congressman Trafficant in his federal bribery trial. And Mr.
  Cafaro, of course, got the pool renovation job without public bidding because he doesn't qualify for public bidding because he's a felon. There he is. I'm just reminded of what Trump said, I think, about Mexican migrants when he first started running for president back in 2015 where he said they're not sending their best.
  And I think that can apply to Trump circle as well. He's not sending his best to do >> nicely nicely and very charitably put, Mr. Mate. Thank you.
-
-### Close — Farewell
 
 Thank you, Aaron. The pleasure to chat with you as always. All the best. We'll see you next week. >> Thank you, Judge. >> Okay. And uh

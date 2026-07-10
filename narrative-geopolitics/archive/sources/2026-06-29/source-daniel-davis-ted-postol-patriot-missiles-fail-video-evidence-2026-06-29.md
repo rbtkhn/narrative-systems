@@ -1,5 +1,6 @@
 ---
 
+
 ingest_date: 2026-06-29
 pub_date: 2026-06-29
 kind: cleaned-transcript
@@ -31,11 +32,10 @@ opening_tier: host-monologue
 capture_note: Operator paste; full interview body preserved from user-supplied YouTube transcript (subscribe promo close included).
 transcript_wrapper_tier: clean
 davis_close_promo_trim_applied: true
-editorial_note: "Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved. · manual ASR spot-fix 2026-06-29 — Raytheon/Lockheed/Arrow/Azerbaijan/ATACMS. · source-section pass 2026-06-29 (12 sections; 1991 APS/Tel Aviv video/salvo/THAAD arc) · source-section pass 2026-06-29 (13 sections). · interview speaker-label pass 2026-06-29 (101 turns; Daniel/Ted >> markers) · source-section pass 2026-06-29 (13 sections; PAC radar/slide-7 split; Tel Aviv/THAAD arc) · source-section pass 2026-06-29 (12 sections). · source-section pass 2026-06-29 (12 sections; pack-2 merge; PAC radar/slide-7 split)"
+editorial_note: "Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved. · manual ASR spot-fix 2026-06-29 — Raytheon/Lockheed/Arrow/Azerbaijan/ATACMS. · interview speaker-label pass 2026-06-29 (101 turns; Daniel/Ted >> markers) · source-section pass 2026-06-29 (12 sections; pack-2 merge; PAC radar/slide-7 split)"
 manual_asr_spot_fix: 2026-06-29 — Raytheon/Lockheed/Arrow/Azerbaijan/ATACMS
 normalization_state: ai_assisted_proper_noun_cleanup
 quality_note: ASR normalization pass 2026-06-29; section curation SSOT.
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -44,6 +44,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: preserved_unsectioned
+section_count: 0
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Patriot Missiles Fail Miserably, Here's the Video Evidence / MIT Prof Ted Postol
@@ -57,8 +60,6 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Three Pillars And Ninety Percent Claim
-
 **Ted Postol:** Modern warfare today is really designed around three primary things. There is the drone warfare, both offensive and defense. There is the offensive missiles and there is the defensive missiles. And if you don't have capabilities in all three of these, you are going to be in a real world of hurt when it comes to modern warfare. We saw that in the Azerbaijan Armenia war in 2020. We are seeing it continuously in the Russia Ukraine war. We're even seeing it in the Middle East war both with with uh Israel and Hamas, Israel and Hezbollah and especially even the United States throughout the region. It is now a really important part.
 
 We're going to look today at one of those elements of that and that is the air defense missiles. If you can knock down more of your enemy's missiles than they can knock down and you can put more missiles in the air, then you have a good chance of accomplishing your military objectives. But if you can't if you can't defend against either drones or incoming missiles to a sufficient degree, you are going to be in a world of hurt. And that is where we are right now.
@@ -68,8 +69,6 @@ The United States tells everybody and Israel tells everybody that the US is knoc
 But now here we have today Ted Postol back with us uh former MIT professor uh at Massachusetts Institute of Technology uh who is going to lay out the actual evidence that we have. We're going to set up first of all by kind of setting his uh credibility and his and his reputation by showing that he did a similar study in the Desert Storm war back in 1991. And he's going to use that same uh examination capabilities and that same framework to look at the current Gulf War. And you're going to be a little bit surprised by the actual information that we share with you today. Ted Post will take it away.
 
 **Daniel Davis:** Hi. Well, thanks very much. I think your introduction really uh covered things very well. So, thanks very much for that. The um [clears throat] what I want to talk about today is the overwhelming I mean it's unambiguous evidence that the performance of the Patriot Pack 3, the more modernized version of the Patriot Interceptor [snorts] uh is uh close to uh two or 3% intercept rate. It's not 90%. It's not even close.
-
-### Gulf War 1991 — Ninety Six Percent And Decision Maker Deception
 
 **Daniel Davis:** Incidentally, we had uh an experience similar to this during the Gulf War of 1991. in during the Gulf War of 1991, uh the Army Air Defense Artillery and the um the the contractor who built Patriot, the Raytheon Company, were telling the American public that the intercept rate of Patriot in the Gulf War of 1991 was near 96%.
 
@@ -84,8 +83,6 @@ So um this is an important lesson for anybody who uh is concerned about obtainin
 So um it also should be a lesson to those who are inside the government and there are good people inside the government that just because you're told something uh doesn't mean it's it's true and just because you find it in a classified document or in fact in an intelligence document um it doesn't mean uh that you're getting accurate information. the the the bureaucracy has real problems policing itself and there is no real system for refereeing uh documents although and u I saw that all the time when I was in the Pentagon I scratched my head I was less knowledgeable then I say how could they come up with this this is this can't be right so um these are important points to keep in mind because disastrous national mistakes mistakes can be made by people who the average American outside of the government assumes they know what they're doing when in fact um they don't.
 
 So that's an important lesson.
-
-### Lewis Postol Paper — APS Panel Pack Two Objection And Video
 
 **Daniel Davis:** Gary, could you um put on the first slide, slide number two? This slide just summarizes briefly what I've already said. The important point in this slide besides the chronology of um uh described uh in this slide is that um my colleague George Lewis and I uh uh published a paper in 1993 that uh was a detailed technical assessment that showed that Patriot in the Gulf War of 1991 had failed to intercept even a single Iraqi Scud warhead. And that's an important finding because the president and the secretary of defense were misled into believing its intercept rate was 96%.
 
@@ -103,8 +100,6 @@ In other words, the video data showed a a completely different uh intercept rate
 
 Well, uh, I I'm saying the video evidence for PAC two and PAC three because there are PAC twos being used. I can show I I'm going to show you a video clip uh shortly where a pack two is used and I can explain to you how we know it's a PAC two versus a pack three.
 
-### PAC Radar Slides — KA Band And Cross Range Geometry
-
 **Daniel Davis:** Actually, let's uh let's just jump to that right now. Uh Gary, could you go to slide six? The slide six just shows you uh the two main interceptors that are now being used by the Patriot missile defense system. The top, [cough and clears throat] excuse me, the top interceptor is the PAC 2 interceptor. It basically uh has about the u same length was about the same length of the pack 3. The PAC 3 is much lighter. The PAC 3 is um is 1/3 to 1/4 the weight.
 
 The this is the missile shown below. and um and um it has a number of improvements that were very important uh in order to address the the [clears throat] PAC 2's uh shortfalls in the Gulf War of 1991. If we go to slide eight, let's see a Okay, there you go. This shows you a diagram of the the uh of the pack two uh a pack three, I'm sorry. And the PAC 3 has a number of innovations in it that are extremely important.
@@ -118,8 +113,6 @@ It gets a much acc much more accurate estimate of where the target is in angle t
 That's the nose cone, the nose uh uh edge. This reflects almost no radar. So you might know roughly where the um the angle from which the target is coming, the the incoming missile, but you don't know where the front end is. And if you don't know where the front end is, then you don't know how to adjust hitting the target. If you want to make sure you hit the warhead, you must hit the warhead in this kind of situation. You if you hit the body of the missile, then what happens is the warhead breaks off and goes onto the ground and hardly changes its trajectory.
 
 It may tumble over, but it doesn't much matter. the warhead will come to the ground and basically um hit where it was very likely to hit within the uncertainties that it would otherwise have had. So, so this is a key problem that's fundamental to the radar guidance. You cannot tell exactly where the front end is. This is why you always must attack headon. You must attack the target head on because what you're trying to do is literally hit the warhead front on and cause it to detonate.
-
-### PAC Slide Seven — Gulf War Crossing Speed And Aircraft Role
 
 **Daniel Davis:** So it's basically you're trying to hit a bullet with a bullet.
 
@@ -151,11 +144,7 @@ You're going to fly under the wing or you're going to or you're going to see the
 
 So, um anyway, let me just uh uh tell you about a one feature that you of uh of um
 
-### Drone Economics — Inventory Question And Tel Aviv Setup
-
 **Ted Postol:** and I'm sorry, Ted, real quick before you leave that topic. Uh do you have any sense for how many PC twos we have in our inventory? And I'm talking missile interceptor missiles. I don't know but I can tell you for sure that there there are well it looks like there's pack twos have been used in the defense of Tel Aviv. I'll show you a video from Tel Aviv. This is video one uh that um that I'll show for Gary and um and um so so let's let's go uh to slide four and then we'll go back to video one. Okay.
-
-### Frame Physics — Sky And Ground Detonation Signatures
 
 **Ted Postol:** All right. Um slide four shows you what happens when you have a detonation of a high explosive in the sky. shows you what a video camera can see. All right. And incidentally, this was argued adnauseium by the US Army and Raytheon that you couldn't get any data from video. So the US Army and Raytheon made a false argument for years. They held on to this for years. uh even after the American Physical Society published their finding that we were correct in every in in every uh interpretation of the video we made. So here's um nine video frames.
 
@@ -179,8 +168,6 @@ And so the potential confusion can occur if the Patriot Pack 2 explodes in the s
 
 **Ted Postol:** No, it's not a problem. It's not a problem from the analyst's point of view. Because if you want to determine whether or not the explosion of the Patriot Pac 2 resulted in the destruction of the warhead of the incoming missile incoming missile warhead, then uh the miss you'll see the the the the missile going on and I have a beautiful video illustrating that o over Tel Aviv during the 2026 Gulf War.
 
-### Tel Aviv Video One — PAC Two Misses And Ground Hit
-
 **Ted Postol:** Why don't we uh take take a shot at this, Gary? This is a real time. So things are going to happen very fast. You see I I designated the the spots where it happened. But now we're going to see in the second view of the attack and I'm going to have slow motion. There's the first patriot miss. Now there's a second Patriot miss. Now you know we know it's a miss because you're going to see that the bright the the bright ball that is the ongoing warhead continues onto the ground. And then we'll see the warhead hit the ground. and you see 5,000 degree explosion.
 
 So, what this shows you is that the video data contains all the information you need to analyze these events if you know what you're looking for.
@@ -202,8 +189,6 @@ So, because
 So, um, so there it was more it was easier uh for the press to misunderstand what they were seeing.
 
 **Ted Postol:** Yeah.
-
-### Salvo Video Two — One Intercept In Mass Incoming
 
 **Ted Postol:** So, okay. So, let's go to uh um a a much more uh elaborate video, the video two. And in this case, we see all these missiles coming in. You don't see any evidence of an intercept. It turns out there is an intercept. And I'll show it to you shortly. But among all these missiles coming in, there was one intercept. This is just more video. No intercepts in this. So I we won't worry about that. So you can see this place is getting smashed. How can you have a 90% intercept rate if intercepts can be seen?
 
@@ -242,8 +227,6 @@ Where's the 90% of where are all these fireballs in the sky and nothing coming o
 **Daniel Davis:** Unless Unless they hit the warhead, you're not going to see any fireball from
 
 **Ted Postol:** unless they hit the front end of that incoming missile. You cannot see there's no intercept. Okay. So, can you go back to the beginning of this particular sequence, Gary? Not the one where Yeah, there you go. Okay.
-
-### Countermeasures — Submunitions Spirals And Scoring Method
 
 **Ted Postol:** Here's another sequence I can show you. Lots of things happen here when you look at it uh in real time, but now we're seeing it in slow motion. We missed a bright spot, but that's okay. Now, you see an explosion on the ground. So something was not intercepted there. Uh we see uh another warhead coming and this is you see a whole bunch of submunitions being dispersed. Then a bright flash. In this particular case, you had a warhead that had submunitions on it that also had a big unitary piece. So this thing not only dropped a bunch hundreds of submunitions, which which we could see.
 
@@ -289,8 +272,6 @@ What you're looking at is just nothing happening except two or 3% of the time it
 
 **Daniel Davis:** right. So, you know, where's the data? I mentioned this in the last uh uh discussion I had. Um, you know, I've now been talking to people. I have some loyal servants of their governments in both Europe and the United States who I've been talking to soldiers who believe their job is to defend the country not lie lie for the politicians and what I have been told is very disturbing.
 
-### Contractor Data Gap — Congress And Trillion Dollar Patriot
-
 **Daniel Davis:** what I have been told by all of these people unanimously from different institutions as well as um different countries that they have no data at all on Patriots performance other than slides from the contractors that say that claim a 90% intercept rate. Now, if the Congress is serious, and I have my concerns about the Congress being serious, so if there's any staffer here, please call me. I'll I'll I'll promise you I'll take your phone call. I'll be very polite.
 
 If there's anybody in the Congress, staffer or otherwise, who sees [snorts] this talk, call me and I'll give you all you need to know about to show that the Patriot is only two or 3% at best, not 90%. And I'll give you questions that you can ask of the contractors. For example, I told all of these people, none of whom have the horsepower, unfortunately, to to You know, you need a four-star general who is unfortunately these days are more important more involved in uh politics than than their job as a military officer.
@@ -304,8 +285,6 @@ The contractors are stealing from the American people and they're also increasin
 But if we get into a real war against an adversary like Russia, like China, possibly even like North Korea who definitely has quite a large number of missiles or if we get back into a fight with Iran and they go after different targets outside of this current range, we could be in a huge world of hurt and and have almost if if not completely defenseless something close to it.
 
 **Daniel Davis:** Absolutely. And if we get in if the if if if these uh if this mismanagement by NATO uh eventually results in pushing the Russians into starting to attack Western Europe, which I pray will not happen. I want I'm praying for this every day. But if the Russians start attacking Western Europe with ballistic missiles, going to have no help at all. You're gonna have no defense at all from the ballistic missiles. None. Zero. So the Western Europeans who are screaming like they want to have a war with Russia ought to think more than thrice, [laughter] you know, before they get into a war uh with Russia where ballistic missiles are falling on Western Europe.
-
-### THAAD And ATACMS — Europe Risk And Close
 
 **Ted Postol:** And by the way, let me since Gary brought that up. Uh he's talking about THADs there. Is there do you have any data to show whether there's any difference in THAAD interception vas pack 3 interception? No, we don't have data on THAAD, but we we know that THAAD cannot uh be intercepting things because if the if the warheads can maneuver at high altitude, absolutely THAAD can never intercept them because THAAD has to know the intercept location for it, you know, for an interceptor to be launched. It takes uh hundreds of seconds for the interceptor to get to that intercept point.
 

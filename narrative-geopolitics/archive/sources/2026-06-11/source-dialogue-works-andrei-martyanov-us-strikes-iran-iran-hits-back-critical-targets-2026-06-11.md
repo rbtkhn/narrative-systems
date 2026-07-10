@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-12
 pub_date: 2026-06-11
 kind: cleaned-transcript
@@ -29,7 +30,7 @@ evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: clean
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 6 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 6 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (10 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
 verify_receipt: 2026-06-24
 verify_matrix_ref: statecraft/notes/wire/2026-06-11-news-verify-matrix.md
@@ -49,7 +50,17 @@ verify:
   - claim: Third consecutive US strike night
     verdict: supported
     note: J11-10 - carry J10-1 Jun 10-11 ladder
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Andrei Martyanov: US Strikes Iran – Iran Hits Back at CRITICAL Targets IMMEDIATELY
 
@@ -60,7 +71,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Trump Netanyahu
 
 Hi everybody. Today's Thursday, June 11th, 2026 and our dear friend Andrei Martyanov is here with us. Welcome back, Andre. >> My pleasure. Andre, the latest news is Donald Trump today said he's going to attack Iran again because yes, last night as you know, we had an attack, American attacker or in Iranian, you know, on Iranian islands and cities in the southern part of Iran and one of them in Karach close to the to the capital of Iran, Tehran.
  And that was not a significant attack in Karach. It seems that it was done by some sort of drones. But the attacks in the southern part of Iran were basically they tried to hit the targets with the use of fighter jets. They used tomahawk missiles. two Tomahawk missiles were intercepted that they were trying to attack you know the prochemical plant in Aselu which is close to the to the Persian Gulf and but they hit some targets in Bandaras and Sir the Sik island in the Persian Gulf that's all what has happened last night
@@ -73,7 +84,7 @@ and then the Iranian attack on Kuwait Bahrain and Jordan and the hit in Jordan w
 all US legacy media and this type of the media they lie that's what they do but there is a certain kernel of trust that essentially Um the only way Netanyahu is not going behind bars uh he should be actually charged with the crimes against humanity and genocide. um is to continue some kind of the hostilities in the Persian Gulf and uh United States is definitely not capable of providing this uh punch which they hold the foundation of the US way of war if you wish you know hurl everything you have at the you know shenan you know
 some kind of the you know third rate crab hole and they and then you know invade so he continues to make those statements he continues to make those statements to manipulate uh market uh and again futures primarily the spot prices this spot prices and so uh he's in a dead end it's over he's cornered and he's not even the rat which can buy back you know when cornered uh United States have been paraded essentially for what
 
-### Segment 2 — It Is Militarily It's A
+### Segment 2 — Israel Iran Nuclear Weapons
 
 it is militarily it's a paper tiger you know so the only thing they can do is to whatever the
 remnants of the stand of weaponry to use period and uh Jordan or what have you, you know, they can say whatever they want to say. But yes, evidently um and uh that's my video coming up today. And you know, essentially uh when you have Ben Hodgees who all of all people, okay, he has a hilarious YouTube channel.
@@ -88,7 +99,7 @@ and comment on the delirium of the you know asylum patient and that's who Trump 
 you know posture for Israel the way it was before the war started. Those red lines are gone. They're not there anymore. >> Oh, wait. I mean, United Yeah, listen. I'm on record. I said it many times. United States is not a sovereign country. It's the country which is run by Israeli lobby.
  And uh it's it's lost it sovereignty. It lost its people uh honor, integrity. It completely debased itself in the moral sense because it supported the genocide uh against uh Palestinians. And that that's what it
 
-### Segment 3 — Is Simple As That And
+### Segment 3 — Israel Trump Nuclear Weapons
 
 is. Simple as that. And uh how again I I am on record again United States doesn't have US Congress. It has Knesset 2.0.
 So how else can it be explained? This is the complete debasement of the country the nation and many of them those people they still believe in this MAGA thing by Trump and worship him as an idol when the guy essentially nothing more than showman. I spoke about it. I I love internet. In 2018, uh I voted for Trump in 2016.
@@ -103,7 +114,7 @@ That's the only thing the only thing that has is obviously their nuclear weapons
 finally reach the critical mass of  running the country that at this stage it absolutely meaningless. So it's not about World Cup. Hey the way they treat it listen this guy from Somalia he the first African referee of the international repute. You know what? He's definitely no terrorist. He is a one of the best referees now in in uh uh football around the world.
  They It's just it mind boggles your mind, you know. So, and yeah, it's it's complete decomposition of the old structures be that United Nations, FIFA, what have you. I mean this is decomposing literally and it stinks to heaven as any decomposing corpse does. you know this is the end of the western civilization as we speak and in this case discussing the symptoms it's interesting I agree with you I do it my myself all the time but it's like uh constantly trying to interpret
 
-### Segment 4 — The Thoughts Of The Complete
+### Segment 4 — Trump Europe Complete
 
 the thoughts of the complete you know again asylum patient and we
 have the guy who is mentally inadequate and he's the president of the United States and look at the administration you you're living in the United States and you as you've mentioned you voted for Donald Trump and and you see the outcome of this administration and the way you know nobody knows who's running the show in Washington with ongoing negotiations we have two fronts of negotiation if there is there is no negotiations but let's assume >> no there is none >> Pakistan already stated we are we're done with you know uh So uh but yeah the
@@ -118,7 +129,7 @@ voting for you know Democrats and so what do you have where is this silent major
  You cannot vote anything to do anything there at all. And so here we are. This is the stinking corpse of the western civilization. And uh that's it. It's final diagnosis. >> Yeah. Andre, one of the difficulties that the Donald Trump Donald Trump is facing right now is the arm production. He said that we have to replace those arms that were used during the war and as soon as possible.
  It seems that he's putting a lot of pressure on the military-industrial complex and there he's asking about, you know, he's said he's investing a lot of money in that project, but how fast can they produce those arms? because it's so crucial if he decides to stay in this fight which it seems this is the destiny of this war they're going
 
-### Segment 5 — To Continue As Wall Street
+### Segment 5 — Iran Ukraine Economy
 
 to continue as Wall Street Journal today reported that the United States going to continue with these sort of attacks on Iran over and over each and every night till Iran >> I mean it has no option
 >> strategically United States is a classic strategic dead end which that is the euphemism for the defeat military defeat United States cannot it never could. United States military is not educated or designed to conduct serious combined arms operations. The last time they did anything like this of any value was actually in Korea, okay? 1950s.
@@ -134,7 +145,7 @@ to continue as Wall Street Journal today reported that the United States going t
 that's the level of the uh US military they are officers the ROC doesn't produce produce professional or officers anymore. Uh officer uh uh uh candidate schools also do not produce this militarymies theade academic level is extremely low. So when you look at this and yeah there you go that's the first serious enemy.
  This is not a boss level obviously but that's Iran is a serious enemy and here we have the situation and military-industrial complex. It never was about uh combat efficiency and combat effectiveness. The primarily purpose primary purpose of the American military-industrial complex is to make money for their shareholders for their capitalizations of their companies and that is why they continue because they don't have anything new continue to produce all those iterations of
 
-### Segment 6 — The Good Old Junk Which
+### Segment 6 — Israel Pentagon Russia
 
 the good old junk which cannot shoot down any modern weapon. Old ones too.
 You look at the Patriot Pack 3 or it's a joke. Okay, it's a joke literally. You have Ben Hes admitting it. Yeah, it's pain. I quote him. It's painful as much as it's painful to admit. Yeah, you have nothing. And they go also there are all those white elephants, you know. And when you look attentively even at the media which describe this, you know, they do this masturbation, what do they say? Oh, it's all this the $1.
@@ -148,7 +159,7 @@ it was answering to Douglas fate and discretance from uh you know the uh America
  And this was the case for decades. It's just that now they beginning to talk about it. Hello guys, you have been at its service since the day one, you know, at least this generation of people. And so, uh, this is so they will formalize it. Of course, they will formalize it. But then again, as I already stated, the United States doesn't even produce good equipment anymore. It never did.
  There were some excellent you know uh as I already stated they were very advanced for its time you know the computer things and you know radio communications always good you know they
 
-### Segment 7 — Were Very Advanced In Radio
+### Segment 7 — Iran Israel Middle East
 
 were very advanced in radio electronics especially in the 70s 80s 90s you know and then it stopped and there is a reason why it stopped and so well if Israel wants to bet on American military would show they already did it before they own it you know So now you have Thomas Massie talking about USS Liberty who uh sabotaged this uh uh essentially
 investigation. Oh, the father of John McCain, the Admiral McCain. Okay, so um there you go. Everything you need to know. Andre the next level the farce news in Iran reported that the next targets of Iranian army would be all those assets in the region linked to Elon Musk. They're talking about the SpaceX and this those satellites ground satellites where >> they have stations they have in Gatar, Israel, Jordan, UAE, Oman.
@@ -163,7 +174,7 @@ people who do not understand what happened. They lose completely the focus of th
  I mean, you not do not go there with whatever 400,000 troops you have. You you want to get, you know, again, Vietnam will look like, good lord, easy, you know. So, and um that's the Saudis, they will sell you out again. As you know, the Arabs will uh and this is no, I mean, there are many honorable people among Arabs. Make no mistake, I'm not making this weapon generalization, but they are political elites. They are prostitutes.
  So they will sell you out the moment you turn away, you know. So that's what they do. They will stab you in the back. And in this case, whatever Saudi Arabia uh tries to arrange for itself. Obviously, it has only Saudi
 
-### Segment 8 — Arabia's Interests In It But
+### Segment 8 — Iran Ukraine Russia
 
 Arabia's interests in it. But they are afraid now. They are very afraid.
  And this is another major achievement of Iran which they were afraid of Iran before. Now they are terrified because Iran can turn this Saudi dream based on also slave labor and you know all kinds of the uh you know what reserves oil reserves it can turn it uh into the nightmare really fast and that's what the deterrent uh effect and obviously a military influence on the the geopolitics is Iran has it now and everybody saw how US defense quote quote unquote uh those areas it can't it's just yeah it can shoot down couple of drones here and there you know it's but
@@ -176,7 +187,7 @@ basically and so as I already stated that's the result this is the composition t
 in the uh diplomatic service in the United States know what they say somebody who knows how to do the visas do consular job which monkey can do it you know if you trained it long enough other than that understanding the countries uh understanding the cultures you know uh first it's dangerous for the American mind for uh I mean elites you know uh Americans as the folks are very decent people actually you know for the most part and uh so um as the result you have this high on own supply and as I already stated look at the US military
 when you just kind of remove all this propaganda and so you good lord I mean it's um a lot of expensive toys which do not work. >> I think Andre the whole concept this sort of behavior on the part of the United States is coming from those
 
-### Segment 9 — Long You Know Heritage That
+### Segment 9 — Pentagon Economy Heritage
 
 long you know heritage that that that heritage of a slavery.
  You look at the way that the United States sees other countries is some they're slaves of the United States because of the dominance of dollar they had they have been and that's why they brought some sort of delusion that these are slaves we can control all of them because of the power of dollar and because of the power of their military and right now everything is just falling down falling apart >> and militarily >> they don't accept it the problem is they don't accept it they don't >> they can't I can't uh again listen as I already stated we reached uh the
@@ -191,7 +202,7 @@ get them well that's not definitely not engineering which is very hard you know 
  You know that's the you know you have Zuper Zuckerberg. This is the level of the what we got. And as Buzz Uldren, I love what Buzz Aldrin stated. Uh he stated it about 10 years ago. And he said, "You know what? When we flew to the moon, we thought that by 2010 we will be flying to Mars. What we got? We got Facebook." >> And they call it tech companies. Okay.
 The only thing they know that, oh yeah, let's develop another chip. Uh
 
-### Segment 10 — Yeah No Matter How You
+### Closing — Ukraine Israel Russia
 
 yeah, no matter how you develop it, we are at that plateau. And so what you have Yeah. You have people like Musk and those snake oil peddlers, you know, by so what can I say? And Apple uh iPhones. Yeah. The I don't know my Samsung. Uh you know what? Uh I the the first question I ask uh when uh I buy new phone is uh how much I can afford iPhone believe me but uh I mean why would you buy Mercedes which is garbage today you know what overpriced
 over engineered so but yeah you cannot explain it to people because they have been brainwashed by the totally uh it's a consumption That's why you have the actually psychotic episodes and serious mental illnesses because of the consumerism. This is what we got. And guess what? Where do you go further? How much do you need in your life? Well, some people do it again.

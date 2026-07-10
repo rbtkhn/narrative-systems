@@ -1,5 +1,11 @@
 ---
 
+
+
+
+
+
+
 ingest_date: 2026-06-16
 pub_date: 2026-06-16
 kind: cleaned-transcript
@@ -25,10 +31,9 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: paste-prefix
 normalization_state: raw_operator_paste
-editorial_note: Operator-pasted transcript body; promo close retained; ASR artifacts retained (Morandi/Mori, Hinrix, Levvin, Thiessen, horm, etc.). Not human-verified verbatim. Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "Operator-pasted transcript body; promo close retained; ASR artifacts retained (Morandi/Mori, Hinrix, Levvin, Thiessen, horm, etc.). Not human-verified verbatim. Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (10 sections)."
 quality_note: Initial land 2026-06-16.
 davis_close_promo_trim_applied: true
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -37,6 +42,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # IRAN DEAL DRAMA & DOUBT /Lt Col Daniel Davis
@@ -49,7 +57,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Trump Iran Nuclear Weapon
 
 We are getting closer and closer to that ever elusive signing day for this memorandum of understanding between the United States and Iran set for Friday in Switzerland I believe is where it said or Geneva I'm sorry set for Geneva. Will we get there though? That's one of my biggest concerns that see there's a lot of headwinds against this which we've been talking about.
  Uh but so far it's all been kind of based on what we think is coming out. So far, the only thing I've been able to tell you is the only terms of thisou, which everything depends on has been what we got from some leaked Iranian sources. Well, today there is a leaked American sources and and we'll see how serious it is. But I can show, as I'm going to show you here, a lot of important people in Washington think it is very much real.
@@ -63,7 +71,7 @@ The statements by the Iranian side of what they said they agreed to and the Unit
  It's completely fabricated the exact opposite. I mean I cannot reemphasize enough just how opposite the reality is from what he keeps saying. problem is for us to uh to try to put things together is if he says it so many times even he believes it then the issue that the concern is that he can convince himself of anything that isn't true and he can say it with conviction as though it is.
  Now, let me show you what some of his supporters. Now, I'm going to show you here what uh Jesse Waters from Fox News last night said on his show. And and one wonders, is he really saying what he thinks is in the terms or is he giving voice to what
 
-### Segment 2 — He's Trying To Convince President
+### Segment 2 — Iran Ceasefire Trump
 
 he's trying to convince President Trump the terms need to be? You make the call. >> The Iranians have signed in principle to agree for the complete destruction and removal of the uranium.
  Right now, they can't get it. They have no access to it. It's buried a skyscrapers length deep underground. All three sites are inaccessible and the United States is the only country with the technical expertise to be able to remove it. So, we're going to remove it along with the IAEA and we're going to destroy it and we're going to bring it out of the country.
@@ -78,7 +86,7 @@ okay that that that is even the anything related to the nuclear program to inclu
 Hence, we're having to have this agreement at all. Hence, we had to have the ceasefire because we couldn't do those things. So, to claim that here's what's in the deal, that's that's just fantasy. That's just uh Jesse Waters mark saying things that he wants to be true and projecting and hopefully he's hoping President Trump listens to that and changes the deal.
  But the problem is he can't change the deal. Not only not because the Iranian side won't agree to it, but because we don't have the leverage to. We can't say, "Listen, uh, you're not going to have any sanctions relief until phase two when the Iranian side have said unambiguously and as repetitively as you can that because we have no trust in the US because of what you did in 2018, what you did in 2025, what you did in 2026 to start this war, you lied to us and
 
-### Segment 3 — You Withdrew And You Unilaterally
+### Segment 3 — Israel Trump Iran
 
 you withdrew and you unilaterally changed the terms of the deal that we had already agreed to or we
 were negotiating and you went to war with this airgo. We will not take one step until we have something in our hand to validate that you will actually do anything that you're saying. This is one of the big consequences of our actions in the past that we think that we're so strong and powerful that there are no limits on our power and that we don't have to be a person of our word.
@@ -94,7 +102,7 @@ were negotiating and you went to war with this airgo. We will not take one step 
  Now this is this is a point that should be made right here very clearly. We should be crystal clear on this now right now when we're in this problem. We are in this problem because we did not recognize the limits of power. We said we want the we being the United States and Israel said this is an outcome that we want.
  We want to destroy the regime. We want to have regime change. We want to take their oil whatever President Trump had in mind. Uh we want to destroy
 
-### Segment 4 — All These Things Their Missile
+### Segment 4 — Israel Trump White House
 
 all these things their missile capability their proxies of course their nuclear program and then we want to be able to call the shots. That's what we wanted. That was our desire. Fine.
  I I think that those were bad desires but whatever people can have whatever desires they want to. Then the question is, and we'll have to set morality aside because morality would say just because you're stronger doesn't mean you can go and seize by force of arms to take what you want. I don't set that aside.
@@ -108,7 +116,7 @@ Israel will not be able to adhere to a suicide pack. Now it's even worse than th
  Okay, then we should do what? Go back to fighting. Do you think that we didn't think about that? Obviously, you didn't because see, he still cannot or will not come to the grip and all and I've used him as a proxy here, forgive the pun, for all these other folks here in Washington DC and in Israel that still hold to those things.
  He's just echoing what so many others are saying. they still cannot come to grasp that that that our military power cannot accomplish this. So he's saying this deal which reflects reality is something that we shouldn't do. We should just get rid of it and we should go back to doing something else because we don't
 
-### Segment 5 — Want To Accept This I
+### Segment 5 — Iran Lebanon Trump
 
 want to accept this. I get it.
 You don't want to accept it. But there's not an alternative even keeping morality off the table. Even if you're a wicked evil person and you have military power, if you cannot coersse the other side because of their defensive capacity and just their culture and the way it is and their very size with the resources you have to apply, they're insufficient to accomplish that objective.
@@ -125,7 +133,7 @@ You don't want to accept it. But there's not an alternative even keeping moralit
  This is what's been leaked out uh from the western side. The signing of thisou an immediate and permanent end to the war on all fronts, including Lebanon. And that is one of the key. That's why both Rebecca Hinrix and Mark Levvin were especially going crazy because you know they prioritize Israeli interest above that of the United States.
  And by saying that we have to get this off of Lebanon. We're going to be talking about this with Doug McGregor this afternoon
 
-### Segment 6 — By The Way At Noon
+### Segment 6 — Israel Hezbollah Trump
 
 by the way at noon. Do not miss that show folks. Do not miss that one. Uh because he's going to be talking about a lot of stuff about Netanyahu in particular. But you can just imagine without even looking at anything that uh for Iran and Israel to be in the midst of a conflict with troops on the ground in southern Lebanon and with the battle plan that's not even close to being finished in Beirut uh just asking them to stop and
 walk away is just uh almost impossible to imagine inside of the uh u inside of Israel. And so it's something they're going to have to try to figure out. But um here's the thing here. Uh let me show you here. This is President Trump talking about the issue with uh Israel. But Gary, play that one here.
@@ -139,7 +147,7 @@ there's no way that they're going to do that I mean that number one they don't h
  So, as we're in phase two, as we're, you know, as we're getting to the process of trying to get to phase two to negotiate that stuff, we have to lift our blockade so all the Iranian oil can come out. Of course, that the Iranian side will also drop its side and that means all the Arab oil will come out that's that they've been blocking in there.
  So that's good on the one hand, but this requires us to say everything that we've been doing, uh, all this, remember, we've shown you this a few times. President Trump at the beginning said that the IRGC had to surrender or face certain death and that we were going to get rid
 
-### Segment 7 — Of You Know There Was
+### Segment 7 — Iran Israel Trump
 
 of, you know, there was going to be regime change and he said we had regime change. We won this war.
  Remember all that stuff at the beginning and now here we are saying and as a result, if we even get to phase two, we're going to withdraw from the area. That that is why so many people say this is a surrender document because it is. You can put whatever title you want on it. You can spend the name however you want to.
@@ -156,7 +164,7 @@ Who cares whether it's coming from the Arabs, from the Qataris or whatever. They
  And now then if there's going to be requirements because obviously they were hit profoundly. I think uh the last tally I saw was somewhere around 20,000 targets by the combined uh allied forces and that's that's I think some of them happened from some of the GCC countries. Uh I believe the UAE actually participated in some of this as well as Israel and the United States.
  So 20,000 targets were hit in Iran.
 
-### Segment 8 — So Obviously They Have Been
+### Segment 8 — Iran Nuclear Weapon United Nations
 
 So obviously they have been just devastated on the surface especially with their economy. So they're saying hey we're not going to end this unless we get some reparations. And so you can call it investment. You can call it whatever you want, but that's a requirement for the deal.
  If they don't get that, then there's no deal. Now, you may recall when we had Professor Morandi on right after this announcement that President Trump that there had been anou agreed to, he still listed off again a number of things that have to happen. And one of which was the exchange of money.
@@ -170,7 +178,7 @@ Their their value and their respect around the world will just go through the ro
  That cost isn't finished. Let me go back. Uh there's still more to share. Uh here's another blue one here. The Islamic Republic of Iran reiterates that it will never produce a nuclear weapon. Yeah, you think that they've only said that their whole since 2003 forward. All the way through this period. All during the the 2025 period when negotiations that we used as cover for an attack all during negotiations for this period which we used as cover to attack and ever since that time they have still said they are not seeking a nuclear weapon. So uh
 that's like saying uh listen I I need you to declare that you're holding a yellow highlighter. Uh okay I declare I'm holding a yellow highlighter cost literally nothing. So I have that mar listed as a blue. one of the two major things that Iran is is required to do. And yet it's not even that's not even a thing because they already they've already done that.
 
-### Segment 9 — So That Literally Cost Them
+### Segment 9 — Iran Hormuz Treasury
 
 So that literally cost them nothing. They can declare it whatever they want to all day long. That's one of the few ones on here. But here's a couple of other bigger ones. Here's one uh this is in uh grace. This is what both sides are expected to do. Number nine, the Islamic Republic of Iran and the United States uh agree that pending a final agreement, they will maintain the status quo, which means until uh even after it's signed, uh a final agreement, that means, you know, after the 60-day period, when they get to the final stuff, Iran will
 maintain the status quo in its nuclear program, and the United States will not impose any new sanctions on Iran or strengthen its forces in the region. So, we're not going to send any more troops. Uh and they're not going to change the status quo. yet. So that's gray, but it's actually I I could have put that as yellow because that requires the United States not to put any new sanctions on Iran and for Iran, they can continue doing what they want.
@@ -183,7 +191,7 @@ So that is a major thing that would come up front. Then here's the last one. I'm
 the Iranian side said their deal said that the US uh or that they would still retain control of the straight of Hormuz that was one of the the top points in that one this one didn't say anything about control of the straight of Hormuz so that remains remains to be seen here. That's a that's a one of the few really major differences between the Iranian 14 point that was leaked and the US 11 point that was released.
  Um that's something else that President Trump has to has to explain. But just a couple of finding parts here. Uh listen um nothing in this at all about the proxies. Nothing in this uh about any kind of withdrawal from any other areas for the Iranian side. So taken all together, this is like 90% uh in the direction of what the
 
-### Segment 10 — Iranians Want And And And
+### Segment 10 — Iran Trump Israel
 
 Iranians want and and 10% and even that 10% is is just kind of pathetic of having the Iranians side agree to what they already said.
  Again, the whole issue of the straight of horm uh we'll have to see how that's going to work out here. But let me just tell you, let me be just uh another crystal clear situation here. If the the terms that President Trump will read to the press, as he said a minute ago, if they are not synonymous, identical letter for letter, what the Iranian side says, this is what we've signed, then there's going to be a problem.

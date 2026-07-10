@@ -1,6 +1,7 @@
 ---
 
 
+
 ingest_date: '2026-06-25'
 pub_date: '2026-06-25'
 kind: cleaned-transcript
@@ -25,8 +26,7 @@ evidence_grade: transcript-bearing
 normalization_state: ai_assisted_proper_noun_cleanup
 quality_note: "ASR normalization pass 2026-06-25; ph-civ replacement SSOT."
 transcript_wrapper_tier: clean
-editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (mercouris, channel:alexander-mercouris)); 34 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-25 (11 sections). · source-section even-chunk pass 2026-06-26 (14 sections; Khairullin/Donbass split; Lukashenko Minsk split; close merged). · even-chunk tighten 2026-06-26 (17 sections)."
-transcript_curation: curated_sectioned
+editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (mercouris, channel:alexander-mercouris)); 34 substitutions; not human-verified verbatim; verify before quotation. · source-section even-chunk pass 2026-06-26 (14 sections; Khairullin/Donbass split; Lukashenko Minsk split; close merged). · even-chunk tighten 2026-06-26 (17 sections). · source-section pass 2026-07-09 (15 sections)."
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -35,6 +35,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 15
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Lukashenko NO To Zelensky Belarus Stands With Russia; Russian Troops Enter Sumy; EU NO To Kiev Entry
 
@@ -45,7 +48,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Zelensky Belarus Threats
+### Show Open — Russia Ukraine Europe
 
 Good day. Today is Thursday 25th June 2026 and before I proceed with this program, let me remind you to tick the like button and to check your subscription to this channel. Now, a few days ago, the president of Ukraine, Vladimir Zelensky, made a whole succession of extraordinary threats against Belarus.
  He said that Belarus must stop supplying oil and oil products to Russia to supplement um the fuel that Russia itself produces and to maintain as Zelensky says the supply of fuel to the Russian military. He also demanded that um Belarus take steps to shut down all of the various relay poles that the Russians use in order to communicate with drones that um conduct operations for the Russians in western Ukraine and which are based on the territory of Belarus.
@@ -62,7 +65,7 @@ it appears however as of today that this idea of an attack on Belarus has been c
  If that tele phone call has taken place, which by the way is very likely, um there's been no readout provided by the Russians. Um there's also however been further reports that a summit meeting between Lukashenko and Putin is being planned. And today the Russians provided information about a meeting of the Russian Security Council and the meeting took place today.
  And again, we have very little information about what was discussed, but the Russian Security Council again met by video link with Putin chairing the meeting in the Kremlin. And well, the Kremlin has provided us with some of Putin's introduc introductory words and the readers follows.
 
-### Russian Security Council — Neighbors and Stability
+### Segment 2 — Russia Ukraine Two
 
 We have two questions today.
  Our concerns internal security and stability. The other concerns the development of our relations with our closest neighbors. I propose we begin with domestic matters. We have two speakers. FSB director um Alexander Bhnikov and internal affairs minister Vladimir Koloc. So that is an interesting discussion. um the fact that Bhortnikov who heads the FSB which is Russia's counter intelligence and by the way counterterrorism um agency and Kolse who is in charge of the Russian police suggests that it was partly intended to deal with internal security and
@@ -70,15 +73,13 @@ stability issues as Putin says may be to counter the operations within Russia of
 And well to my mind that does hint that the discussion in the Russian security council was about Belarus and about the need to protect Belarus which the Russians speak about as one of their closest perhaps their closest neighbors. Anyway, that's information from the Russian side. But today we have also had a deluge of information from the president of Belarus himself from President Lukashenko.
 And firstly it turns out that Zelensky sent envoys to meet Lukashenko in Minsk. And Lukashenko has told us what he said to them. He said this.
 
-### Lukashenko Minsk — Zelensky Warning and War Escalation
-
 Zelensky's representatives were here at this very spot, which is to say in Minsk just recently. I told them bluntly, folks, tell your president that if he can if he thinks he can talk to us in such a manner and embroil us in a war, he understand he needs to understand that the warfare will change drastically.
 It will be a completely different type of war. By the way, they replied, Zelensky understands it and so do they. Anyway, that is what Lukashenko said about his meetings with Zelensky's representatives. So Zelensky sent representatives to Minsk and Lukashenko told them that if there is an attack on Belarus, Belarus will not only defend itself but will become a party to the war on Russia's side.
 And if that happens, it will be a total disaster for Ukraine. Not just because the front line will massively extend with the Russian army once again taking positions within a short day's drive from Kiev to the north, but also because the Russian army will be positioned to the west of Kiev itself, strategically placed to cut Ukrainian supply lines to Kiev itself.
 self supply lines from the west. But he talks about the war changing drastically, which I take to mean that the Russians will no longer consider after an attack on Belarus that they're conducting a special military operation in Ukraine. They will, pursuant to their alliance with Belarus, treat an attack on Ukraine as in effect an act of outright war involving Russia itself.
  And at that point, the war will be upgraded from a special military operation, which legally is what it is at the moment from a Russian point of view into a full-scale war with all of the consequences for Ukraine that would follow from that about which I will say more later.
 
-### Lukashenko Minsk — Vorobyov Alliance and Peace Stance
+### Segment 3 — Russia Ukraine Europe
 
 Now, the other interesting thing about these comments from Lucas Shanka is that they were said over the course of a meeting with a senior Russian official.
  And this Russian official was none other than Andre Var Vorio, the governor of Moscow region, who's clearly been rushed to Minsk as a representative of Putin himself. And Lucas Shanka is quoted by the TAS news agency as telling Vorof the following. In any situation, we will stand with Russia side by side. Var then replied, we graly appreciate this.
@@ -88,9 +89,9 @@ On that topic, Lukashenko actually said more things. He talked about Belarus's p
  We are positioned at on the front edge of our motherland and by motherland Lukashenko means the entire territory of the eastern Slavs of the Russians, the Ukrainians and the Bellarussians. We are positioned on the front edge of our motherland and we are fully aware of it. Ukraine today is merely a baring bargaining chip in a larger geopolitical game.
  So anyway, the point is Lukashenko through Zelensky's emissaries, his representatives said to Zelensky, "We are not going to back down in the face of your threats. If you decide to act on your threats, it is war between us. We do not want war. We are not looking for war. But if there is a war, we will defend ourselves. The Russians will come on side and the war will escalate in a way that will be essentially mean essentially the rapid and complete end of Ukraine.
 though that would be a catastrophe because of course there would be a very real risk in that case of a wider war involving all of Europe. And Lukashenko in other words effectively told Zelensky to get lost. And it seems that Zelensky has absorbed the message because today he has said, and we only have his word for it, that the relay stations on Belarus's territory, the Russian relay stations, which were the Russians were using to control the drones, their drones have now been switched off, which presumably should be taken to mean that an attack
-by Ukraine on Belarus will not happen. 
+by Ukraine on Belarus will not happen.
 
-### Lukashenko Minsk — Relay Stations and Attack Deception
+### Segment 4 — Russia Europe Nuclear Weapons
 
 I do not believe, by the way, that the relay stations have been switched off. There is no other evidence to support that claim and the strong words that come from Lukashenko appear to suggest otherwise. I think it is very likely that over the next few days a further meeting between Putin and Lukashenko will indeed take place.
  And I also believe that it is very likely that after all this these threats and counter threats more Russian forces will be deployed on the territory of Belarus where of course there are already some Russian forces some of which have are equipped as we know with nuclear weapons and by the way with oresnik missiles but anyway it's likely we're going to see more Russian ground forces enter Belarus, in which case the deployment of Russian forces in Belarus, which presumably it was Zelensky's intention to prevent, is more likely now to be accelerated.
@@ -98,7 +99,7 @@ Anyway, there we are. That is the series of diplomatic moves that have been made
 I don't think that myself. If however that is Zelensky's game then I predict that all of the things that Lukashenko has said will indeed happen and then we will indeed be in a massive crisis in Europe greater than the one that we are in or in already and well it could be incredibly dangerous for everyone in Europe.
  Europe, but it would almost certainly in that case be terminal for Ukraine. Anyway, that's what has happened with the Zelensky Belarus situation up to now.
 
-### Lavrov and Medvedev — Negotiations Stop
+### Segment 5 — Russia Europe Ukraine
 
 Meanwhile, other Russian officials have been speaking and speaking following the meetings, the meetings that have been taking place in Moscow and following Putin's meeting that took place two days ago with the Russian military cadetses in which he warned them that there is now a serious possibility of war between Russia and the entire collective west.
  and Lavough in particular has made two speeches. one of the Russian diplomatic diplomatic academy which um trains Russian diplomats for service in the foreign ministry and the other to the Primacov um group which is a Russian think tank considering questions of foreign policy named after Yvenei Priakov who was for a time Russia's foreign minister as as well as um Russia's prime minister and who also had an interesting though never fully discussed but very long career apparently as a very senior Soviet intelligence officer
@@ -111,7 +112,7 @@ Petersburg legal forum the same legal forum by the way which I addressed which I
  Medved talking about regime change. All of them, Putin, Lavrov, Medved, apparently agreeing that negotiations between Russia and the United States are at a stop and are unlikely to resume. Lavough reiterating that neither the Americans nor the Europeans can really act as mediators given their open support for Ukraine. So going back to what Putin's foreign policy aid Ushakov said a few days ago.
 The way forward from this point onward is military victory. A military victory on the battlefields. That is what Russia today is waiting for. Now this now brings me to the situation on the front lines. And here I would say that we have had an unusual event in that
 
-### Marat Khairullin — Substack Intro and Crimea Drones
+### Segment 6 — Russia Ukraine Marat
 
 Marat Khairullin whom I have consistently considered the best reporter of the war, best war reporter of the war from both sides of the war.
  And that is high praise because both the Russians and the Ukrainians have produced outstanding war reporters. Anyway, Marat Khairullin has now provided a lengthy summary of the present stage in the war, the present situation in the war. And he has done so in the form of a video of which by the way is a um simultaneous translation is also provided.
@@ -123,9 +124,9 @@ He touched on more briefly the Ukrainian drone attacks on Crimea, which are doin
  Now elsewhere um Khairullin says that the drones are not doing significant damage and certainly they're not going to do enough damage to force the Russians to alter their plans on the battlefields or to change the direction of the war. And about this, I have no doubt that he's right. I've discussed this in many programs.
  He did not discuss the attack on the refinery in near Moscow. There's been an extraordinary claim originating with the with the usual anonymous sources in Reuters that it will take six months to repair the refinery. I have been told by what I consider to be a much more reliable source that the refinery will resume operation. Maybe not full operation, but will resume operation next week.
  just to say um the idea that it will take the Russians 6 months to repair bomb damage to a refinery is every bit as fantastic as all of the many other things we have heard about the Russians not being able to produce artillery b barrels or the recent story that I've now discussed at such fantastic length about the Russians not being able to make gyroscopes for their missiles.
- Anyway, Khairullin gives all of this very short shrift. He says that this drone offensive is mostly intended to divert attention from the situation in on the battle fronts which the western media is avoiding discussing and about that I have no doubt that he is right. 
+ Anyway, Khairullin gives all of this very short shrift. He says that this drone offensive is mostly intended to divert attention from the situation in on the battle fronts which the western media is avoiding discussing and about that I have no doubt that he is right.
 
-### Marat Khairullin — Trump Narrative and Media Diversion
+### Segment 7 — Russia Trump Ukraine
 
 He also says that the drone offensive is intended to impress one individual in the west most of all and that is the president of the United States Donald Trump.
  And I was very interested to see Khairullin say that because of course I have said exactly the same thing. what the Europeans and the Europe Ukrainians and the supporters of Ukraine in the United States, including those supporters of Ukraine in the CIA, who are involved in managing this drone offensive against Russia. What they all want to do is to persuade Donald Trump that by backing Ukraine, he is backing a winner.
@@ -134,7 +135,7 @@ this effect in the Daily Telegraph yesterday, by the way. Um, another article al
  I've already discussed my own impressions of Russia and I've discussed how wrong all that is. But anyway, suffice to say that Khairullin's assessment here about the purpose and the effect of the Ukrainian drone offensive to divert attention from the situation on the front lines, to sew discord in Russia itself, and to impress Donald Trump is essentially identical to my own.
  So unsurprisingly that makes me inclined to favor it. Um obviously one must be careful of confirmation bias. But when an authority as experienced as Khairullin talks in this way, mirroring things that I have said, well, that gives me renewed confidence in the accuracy of what I'm saying.
 
-### Marat Khairullin — Donbass Fortified Line and Urban Sprawl
+### Segment 8 — Russia Khairullin Front
 
 Anyway, put all that aside, Khairullin then does discuss that where I think he is an acknowledged expert, which is the actual situation on the front lines.
  And of course he was overwhelmingly f focused on one area which is Donbass and the line of fortified towns which um in Donets's region which are still under Ukrainian control or which until recently have been Leman Slavansks Dujifka Konstantinovka Nfka. And interestingly, he treated Leman as one of the fortified towns that make up this front line.
@@ -147,17 +148,19 @@ And the Russians don't hold all of the high ground around the the river valley, 
  And he said that the Russians are already folding the flanks, the flanks of this fortified line. They have already captured Leman, mostly captured Leman, which he described as a rather large place, and they have mostly captured Konstantinovka. and he said that if we're talking about urban fighting, fighting inside towns, the Russians have now perfected street fighting tactics to such a degree that they're able to capture towns fairly quickly once they are able to battle inside them.
  He said this has been true in Konstantinovka, but it has been even more true of Leman. The serious attempt by the Russians to break into Leman and to capture Leman only began a few weeks ago when Konstantinovka itself, it was clear, was about to fall. At that point, the Russian army entered Leman in force and it was at that point almost immediately that the Ukrainian defense broke down.
 
-### Marat Khairullin — Fall Timeline and Odessa Demands
+### Segment 9 — Russia Khairullin Certainly
 
 And Khairullin said that he expects certainly the whole of Donbass, all of these fortified towns to fall under Russian control relatively quickly, certainly by the end of this year. And here I think he speaks with great authority. He said that the Ukrainians are now very very short of reserves. And in light of this he doesn't expect the fighting in these places to be very prolonged or very intense.
  And he says that once Donbass falls exactly as I have been saying, Putin is likely to up his demands. And Khairullin didn't say what he thought Putin's demands might be, but Khairullin also pointed out about pointed to the enormously greater strength of the Russian military today as compared with the Russian military. that started the special military operation in February 2022.
+
+### Segment 10 — Russia Ukraine Khairullin
 
 According to Khairullin, and he is somebody who is in a position to know, at the time of the special military operation, Russia had the equivalent of 100 divisions in its army. A force that was relative what was raw that had no experience of actual combat and which was still operating mostly with equipment left over from the time of the Soviet Union.
 Today, the Russian army has grown to a force of 225 divisions or their equivalent. It is far better equipped than it used to be in February 2022. And of course it is by now the most battleh hardened and experienced army probably anywhere in the world. So, Khairullin's point is that when Putin after the fall of Dombas comes forward with new demands, possibly for example for the transfer of Adessa to Russian control, he can make those demands in the certain knowledge that he has the military power behind his demands to
 make those demands real to make them effective. If Adessa is not handed to Russia, Russia can take it and with it the whole of Ukraine's Black Sea coast. Khairullin didn't say that the Black Sea coast and Adessa would be Russia's objective in that case, but every clue points in that direction. And well, I think he's right.
  And I'm going to say something else. I think he knows more than he is saying. He does undoubtedly have strong connections with the Russian military. I think that the Russian military have been told that their ultimate objective is Adessa. And I think the fact that Khairullin brought up the subject of Adessa, well, let's say that it was not just chance.
 
-### Sumy Breakthrough — Frontline Entry and Evacuation Block
+### Segment 11 — Russia Ukraine Trump
 
 So that was what Khairullin said. Now interestingly there have been other events elsewhere on the front lines that Khairullin didn't talk about. He didn't talk about the situation in Zaporozhye region where by the way there have been more developments but those I will discuss on another program. He also did not discuss the very interesting and very complicated situation in northeastern Ukraine in Kharkov and Sumy region.
 And I said in my program yesterday that it looked as if group of forces north has now broken through the last main defense line north of the city of Sumy. They're able to enter a forested area um which lies immediately north of Sumy. uh build up their forces there to critical size protected by the trees from the Ukrainian drones and then begin their attack on Sumy at leisure.
@@ -167,9 +170,9 @@ Well, the answer to that is very simple. Sumy is a regional capital. It is a cit
  And that of course would contradict and perhaps even discredit their narrative of success. The narrative that the Europeans have also adopted the narrative that is intended to impress Donald Trump. One of the problems you have if you create narratives which have no connection to reality is that as the realities close in on you, you find it more and more difficult to adjust to those realities because of course doing so undermines the credibility of the narrative that you are creating.
 Logically, given the Russian breakthroughs in Sumy region, it now makes perfect sense for the Ukrainians to withdraw their forces from Sumy or at least their civilians rather, not their forces, their civilians from Sumy. But they can't do it for the moment without undermining this entire narrative of success that they have fostered.
 I am certain that the Ukrainians will make no step with respect to evacuations from Sumy. Certainly not before the NATO summit meeting which is due to take place in Turkey which Zelensky himself is certain to attend and where Zelensky will want to impress the various NATO states first and foremost Donald Trump with his narrative of success.
-So an evacuation which perhaps logically ought to be taking place now is being delayed dangerously in order to suit the needs of the political calendar. Well anyway there it is that is the military situation overall. 
+So an evacuation which perhaps logically ought to be taking place now is being delayed dangerously in order to suit the needs of the political calendar. Well anyway there it is that is the military situation overall.
 
-### Sumy Front — Kinburn Stunt and Kiev Battle Prep
+### Segment 12 — Russia Ukrainians Planted
 
 Elsewhere, the the Ukrainians continued to carry out their various stunts. They planted a flag on a part of the Gilbert Kinburn split uh spit on the Black Sea.
 This is on the east bank of the Dnieper. U you see they produced provided pictures of the flag. Um, it was quite obviously planted where it was by a drone, which has happened quite often in this war by now. Um, nobody should take anything like that seriously. Maybe at some point the Ukrainians will attempt some kind of operation on the Kin Burn spit.
@@ -179,7 +182,7 @@ This is on the east bank of the Dnieper. U you see they produced provided pictur
  Surprising interchange given that the two of us have such diametrically opposite views about pretty much everything. But the soldier, I remember, did speak about a steadily deteriorating situation for the Ukrainians. And he also spoke about a Ukrainian understanding, at least an understanding amongst the men of the Azov Brigade that before long at some point there would be a battle for Kiev and that they were already psychologically preparing for it.
  So anyway, maybe we are now moving closer and closer to that point. Now, in the meantime, Zelensky himself continues to tilt at windmills, by which I mean he continues to pursue unattainable objectives.
 
-### EU Membership — Ukraine Bargaining Chip
+### Segment 13 — Ukraine Europe Russia
 
 Apparently, at the last EU Council meeting, the one that took place a short time ago, the one where the Europeans made further decisions about imposing more sanctions on Russia and those sort of things.
 Apparently, Usilla Von Lion and the European Commission faced very strong push back from several European countries. Reading the report in the Financial Times, I got the sense that it was the majority of the European countries in the EU against Ursula's attempts to fast track Ukrainian membership. Apparently, the European states said that Ukraine is far from ready for EU membership.
@@ -191,7 +194,7 @@ To have gone through all of that, to have gone through what is in effect a disas
 probably mostly they are in denial about it. Anyway, that that is of course one thing. Um, it's always surprised me that so many people in Ukraine believe this story, but the reality is, as Lucas Shanka said in those quotes of his that I touched on at the beginning, that for the West, Ukraine has always been a bargaining chip and nothing other than that in a much bigger geopolitical game.
  The Ukrainians never understood that. And well, we see that they have paid a terrible price as a result. Well, that is my overall summary of the war. I'm going to finish with one further thing.
 
-### Voronezh Strike — Dirty Dagger Missile
+### Segment 14 — Russia Ukraine Ago
 
 A few days ago, there was a attack, a strike on Verones. I don't know anybody in Veron in Russia. Um, but I am fortunate in that a member of the Juran community does.
  She contacted friends in Varunes. They confirmed to her that there had been indeed a missile strike by Ukraine on the city of Veron. The strike did indeed target an electronics factory, but damage was also done to residential buildings. And according to this person's friend, several people were badly injured. Now, there is an an intrigue about this attack because the initial reports suggested that the missiles used were British supplied storm shadows.
@@ -201,7 +204,7 @@ why this missile was able to penetrate the Russian air defense system which as i
 And in that six weeks window, they can do a certain amount of damage. And that might explain why this missile was able to penetrate deep well able to penetrate and strike Veron. Now it's said that this missile has a range of 450 kilm which if true suggests to me that it probably doesn't have the range to reach Moscow or St.
 Petersburg, let alone the great industrial cities on the on the vulgar or on the or in the eurals which form the spine of Russia's industrial base. Anyway, we will no doubt find out more about this missile strike on Veron than I know up to this time. But anyway, that speculation exists and it does seem to me a plausible one.
 
-### Persian Gulf — MOU as Minsk Agreement
+### Segment 15 — Iran Russia Economy
 
 Now, I do want to say a little bit more about the situation in the Persian Gulf. For the moment, it seems the negotiations between the Americans and the Iranians are at a standstill. It's absolutely clear to me and it has been absolutely clear right from the outset that the United States was never going to fulfill any of the various pres provisions of the memorandum of understanding.
 They would say instead that it was the Iranians who were not fulfilling those provisions and that it was the Iranians who were in breach of the memorandum of understanding and they would use that as an excuse not to fulfill their own promises. And already it seems to me that that is exactly what is happening.

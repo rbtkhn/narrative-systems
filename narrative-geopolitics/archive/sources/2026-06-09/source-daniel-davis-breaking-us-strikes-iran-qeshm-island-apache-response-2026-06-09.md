@@ -1,5 +1,6 @@
 ---
 
+
 ingest_date: 2026-06-10
 pub_date: 2026-06-09
 kind: cleaned-transcript
@@ -26,9 +27,8 @@ evidence_grade: transcript-bearing
 opening_tier: host-breaking
 transcript_wrapper_tier: clean
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 0 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Horoskan, Kashim, Sentcom, Shahed/Shahi, Ghalibbah, etc.). Subscribe/like close stripped at tail. Developing-story seam — cross-ref same-day Apache bench (Pape/Nawfal, Aguilar, Davis×Marandi). · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 0 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Horoskan, Kashim, Sentcom, Shahed/Shahi, Ghalibbah, etc.). Subscribe/like close stripped at tail. Developing-story seam — cross-ref same-day Apache bench (Pape/Nawfal, Aguilar, Davis×Marandi). · source-section pass 2026-07-09 (8 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -37,6 +37,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 8
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # BREAKING: US Strikes IRAN Qeshm Island / Lt Col Daniel Davis
 
@@ -47,7 +50,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Hormuz Pentagon
 
 We have breaking news. According to the Central Command and now starting to be many other media outlets, the United States has once again attacked Iranian territory. According to the Central Command, uh the forces began launching self-defense strikes against Iran at 5:00 p.m. Eastern time today at the commander-in-chief's direction in response to yesterday's downing of a US Army Apache helicopter.
  The mission is proportional response to unjustified Iranian aggression. Now listen, this is this is a breaking situation right now. We've got a lot of uh potentially conflicting information. Some uh some things are unclear, some are not. There is a couple of responses here. I want to see what the Iranian side is saying. This is from the Iranian side forest news agency if I can sorry if I can bring that up on the screen here so you can see it.
@@ -62,7 +65,7 @@ Very important. Both are safe and uninjured. So he says, "Nevertheless, the Unit
  It doesn't have to go literally straight, but it it's not navigable. It's not maneuverable in the sense that it can autonomously or even remote control be able to navigate and move etc. Not designed to hit a moving target. It's designed to hit a ground target. And so the idea that these this that a drone that drone in particular is going to be able to hit an A864 which is one of our most sophisticated helicopters.
  So one can wonder how is it that they didn't even know that there was another aircraft in the re in the area. That's another part that just doesn't quite add up. But that this this
 
-### Segment 2 — Enemy Aircraft That Can't Maneuver
+### Segment 2 — Iran Trump Ukraine
 
 enemy aircraft that can't maneuver was able to apparently sneak up on an A64 and then hit it. But then even that doesn't pass a common sense test. An a Shahi drone has a large warhead on its nose. That's the whole point of it.
  It's a it's a suicide drone. And you've seen many examples of those that we've shown you over the years, but because that's they were used in the Russia Ukraine war and have been used extensively here by Iran. They have a large explosive warhead in the front. And so if it had hit a helicopter, I promise you the p the pilots would not be safe and unharmed.
@@ -75,8 +78,6 @@ And then when the sun came up and I even said this at the time I said we'll see 
 not Yeah, this is one of them here. Uh, so this is actually from earlier in the war and and you can see that is a Shahed drone in the in the top of it. So you can see what kind of explosive power that has. Now, just imagine if that hits anywhere, anywhere on that helicopter, nobody's going to survive that. Nobody.
 It's going to rip this the helicopter to pieces. Nobody can eject. Nobody can get out the door, etc. And this isn't like a a fighter jet, by the way, folks. It's not like that you can hit the eject button and you have the seats pop out like you do in a fighter. Um I as I understand you actually have to go out the door here and that's going to be really hard um if you've been hit with with a something of a shock like that.
 We'll see how that's going to work out too. But u let's take a look at like I said some of the uh the claims about what's happened here. Um now it became clear after President Trump signed that uh situation or signed that uh true social where he talked about he's going to respond. We had, as it turned out, uh, Professor Marandi on the show at the time and, uh, you may recall, if you saw that show earlier today, we asked him what would
-
-### Segment 3 — Happen If That Was The
 
 happen if that was the case.
 He said that Iran would unquestionably retaliate and and based on their recent history, uh, they have not been, if you get, it's not a tit fortat situation. It's not a, okay, if we get hit with this one thing, then we're going to hit something similar on the other side. He said they're going to double it.
@@ -92,7 +93,7 @@ He said that Iran would unquestionably retaliate and and based on their recent h
  But what is President Trump trying to accomplish here in that he said, thanks for bringing that up, Gary, that the timing was very good on that. He told Jonathan Carl of ABC News that this is uh because I have to respond very strongly. But Gary, if you can put that one back up there because then there's some other really curious things in his response I want to get to there.
 Um he said, "I have always throughout my life wanted to respond in a strong manner and we have a deal that was very good and probably will still be." What are you talking about? is is President Trump in his mind. Does he actually think I'm going to show them how strong I am? So, they hit a helicopter allegedly and so I'm going to go and
 
-### Segment 4 — Hit Five Bases And We
+### Segment 3 — Iran Trump White House
 
 hit five bases and we don't know what's been hit there.
  I think it's it's in it's already in dark there. So, we'll have to wait for the sun to come up to find out what kind of battle damage there has been. And I'm sure that there'll be satellite imagery and other things as time goes on. But whatever was hit, that's that's going to be something that's bigger from the Iranian side. Does President Trump think after everything that we've seen after everything that they have been doing even in the last week or so about how they have responded when somebody hits them or their proxies and their allies
@@ -107,7 +108,7 @@ this big fiasco on the ground and uh the two of these big birds were burned on t
  the the MOA, this just so people are clear on that, that's not the end of the war, but it would be set into effect a longerterm ceasefire with the expectation and the intent to reach negotiated settlement on the bigger issues to end the war outright, which would start by opening the straight of Hormuz.
  US blockade would come off, the Iranian blockade would come off that was at in your hand. All you have to do is agree to the memorandum. But and this is according to uh to professor Marandi who himself is is
 
-### Segment 5 — Aware Of Of What These
+### Segment 4 — Iran Israel Hezbollah
 
 aware of of what these negotiations are going back and forth right now and from some administration sources I have. So I have it from two completely separate sources saying the same thing that there is largely an agreement that was already done at the memorandum level to start the process of getting the war over and the first big victory is opening in the
 straight of Hormuz. Now, if you were sitting on the cusp of that, knowing the damage this is causing at home right now and the compounding problems that this could cause later on, especially with this fertilizers and other kinds of issues now where in harvest time, we're probably already going to start experiencing some of the problems with that.
@@ -122,7 +123,7 @@ That was one of the other things I wanted to point out there because some of the
 Lebanon even in the southern part but definitely not in the northern part as professor Marandi detailed out earlier for us today. In fact, he he told us I asked him point blank at the end. I said, "Is there a scenario whereby even if nobody else attacks Iran and Israel doesn't go back into Beirut specifically, if they keep doing these other things, because remember they had attacked earlier today into uh I think it was um uh one of the the cities on the Tyrie on the on the coast on the Lebanese coast." And I said, "If they
 keep doing that and keep killing people, nine people were killed in that strike there, would Iran take action?" And he said, "Eventually, I think
 
-### Segment 6 — They Would He Goes I
+### Segment 5 — Iran Israel Fertilizer
 
 they would." He goes, "I don't think that they're going to be passive with that because uh saving their their uh their brethren there, their people in in Lebanon is as important to them as protecting their own people.
 " Now, what is Israel going to do about this? And now that we've seen that this is opened back up, is Israel now going to exploit this opportunity and go back to striking even in Beirut? So keep an eye on that because if Israel takes advantage of this then that's going to open up the door to one a new concern of mine is was this coordinated between the US and Israel all along and did we forget about trying to have an end to this? We just wanted to spark it up and then claim that it was Iran because if we can count on Iran with a retaliation just like uh
@@ -137,7 +138,7 @@ We we have cloudy information and imperfect knowledge and and inadequate informa
  So there is no good thing about doing this for us. It is all negative and it's all bad. What we should do is to and it's it may be too late already to do this. What we should have done is to not retaliate for the helicopter, but now that we have I don't know how it's going to how President Trump's going to get out of it because he made that statement to Jonathan Carl that Gary showed us a second ago to where he's saying I want to look tough.
  I've always been to tough about tough. Okay, I don't give a damn about looking tough in this position. I don't need someone to look tough as the president of the United States. I need someone to act wisely. I need someone to show actual leadership that knows that to be strong
 
-### Segment 7 — Means Sometimes Keep Your Mouth
+### Segment 6 — Iran Israel Trump
 
 means sometimes keep your mouth shut.
  Sometimes keep your weapons in your pocket. It means not taking action if doing so may satisfy an emotional need in the moment for you, but could harm the interest of the very people you were elected to lead and protect. That is what he should be doing now. now. But now then that decision may be taken out of his hands.
@@ -154,7 +155,7 @@ You talk about wanting to look tough. I mean now then the same issue is on for u
  They're now going to be elevated in the Iranian decision-making process because it's looking like they were right that if you try to go down a peaceful negotiation, if you try to reach some kind of a deal that it'll just encourage the US and Israel more as we see Israel continues to do in Lebanon.
  And now here we have done again. And so now then these people, these hardliners uh especially Resai I think his name is who's the uh supreme leader uh senior military adviser who's been on the interviewed a number
 
-### Segment 8 — Of Times We've Shown Here
+### Segment 7 — Iran Trump Irgc
 
 of times we've shown here he's probably going to say hey we need to do something much bigger because you can see where the logic on their side is going to say hey how about this instead of just tit for tat instead of just saying all right you took out five bases we're going to hit 20 or we're going to fire 50, a 100 missiles, not just two or
 three, not just a handful, not just something commensurate with what happened, but we're going to try and reestablish deterrence. I know that this this conversation has been going on in Iran for a while, and some have been thinking that who knows if we have not unleashed the powers outside of our control and that may be not what happens next.
@@ -169,7 +170,7 @@ So, we'll see what happens with that. But, if they already had target lists alre
  We hit some military sites on there, but we didn't hit any of the oil infrastructure. Keep an eye on that. That's a barometer. When you see any oil infrastructure hit on Car Island, if we ever go after that, then it's game on and and and gloves off. All right. So, what do we have here? This is from uh the Iran's Revolutionary Guard says it will soon deliver a heavy response.
  So folks, uh, just get buckled up because this is not going anywhere anytime soon. It's almost certainly going to expand. Uh, we may well be staring at the resumption of full-scale combat operations. Um, it's just hard for me to imagine how this doesn't turn into that. We we dodged a bullet uh last weekend when we had the the the Israeli side first
 
-### Segment 9 — Attacked Targets In Beirut
+### Closing — Iran Trump Israel
 
 attacked targets in Beirut.
 Iran responded with missiles against Israel. Israel fired back missiles against Iran. Uh both sides said all right that will will not turn it in. So it didn't explode then. This one I think is going to explode. It's it's pretty hard to imagine that Iran unlike that when it's like each side fired off something and then they all said, "All right, we're good to go.

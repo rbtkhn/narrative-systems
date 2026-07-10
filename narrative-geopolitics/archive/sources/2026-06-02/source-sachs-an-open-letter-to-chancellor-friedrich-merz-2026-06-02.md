@@ -1,4 +1,6 @@
 ---
+
+
 ingest_date: 2026-06-04
 pub_date: 2026-06-02
 kind: article
@@ -18,6 +20,17 @@ channel_slug: jeffrey-sachs
 source_url: "https://mondevudailleurs.com/2026/06/02/an-open-letter-to-chancellor-friedrich-merz/"
 source_note: "Public June 2, 2026 republication of Jeffrey Sachs's open letter provides stable date/title authority for this statecraft article surface. Sachs's own newspaper-articles shelf carries the same piece with an earlier May 28, 2026 posting seam."
 quality_note: "Source-bearing article front door only; do not treat as transcript-bearing until a fuller primary-source capture is landed. · source-section: out of scope (article recovery stub; no transcript body)."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: preserved_unsectioned
+section_count: 0
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # An Open Letter to Chancellor Friedrich Merz
 

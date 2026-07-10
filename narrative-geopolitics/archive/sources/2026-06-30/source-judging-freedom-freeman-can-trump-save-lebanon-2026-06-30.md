@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-30
 pub_date: 2026-06-30
 kind: transcript
@@ -23,12 +24,23 @@ evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: paste-prefix
 normalization_state: raw_operator_paste
-editorial_note: Operator-pasted YouTube transcript; ASR artifacts retained (Npalitano, Chaz Freeman, Mccron, etc.). Not human-verified verbatim. Ideological cold open trimmed in place; SSOT body otherwise preserved. Canned sponsor read trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved.
+editorial_note: "Operator-pasted YouTube transcript; ASR artifacts retained (Npalitano, Chaz Freeman, Mccron, etc.). Not human-verified verbatim. Ideological cold open trimmed in place; SSOT body otherwise preserved. Canned sponsor read trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-07-09 (3 sections)."
 quality_note: Initial land 2026-06-30 via land_statecraft_source_body.py; operator paste.
 napolitano_cold_open_trim_applied: true
 napolitano_sponsor_trim_applied: true
 napolitano_close_promo_trim_applied: true
 napolitano_leading_noise_trim_applied: true
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 3
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # AMB. Chas Freeman: Can Trump Save Lebanon?
@@ -41,8 +53,12 @@ napolitano_leading_noise_trim_applied: true
 
 ## Transcript
 
+### Show Open — Netanyahu Lebanon Trump
+
 Hi everyone, Judge Andrew Npalitano here for Judging Freedom.
  Today is Tuesday, June 30th, 2026. Ambassador Chaz Freeman will be with us in just a moment. Can Trump restrain Netanyahu in Lebanon?
+
+### Segment 2 — Israel Russia Ukraine
 
 >> Ambassador Freeman, welcome here, my dear friend.
  Before we get to uh Trump uh and Hezbollah and Netanyahu and Lebanon, what is your take on the uptick in drone attacks by Ukraine in Moscow? Is this military advance or propaganda? >> I think it's basically propaganda. It's u a show uh put on to boost morale to cement the support of the European west Europeans to Ukraine.
@@ -74,6 +90,8 @@ uh its prospects are poor if it follows the advice of Mr. Smotrich. >> How um di
  Um and um the the uh political scene is is greatly divided. A lot of what's going on in Israel we don't know because of censorship uh and the bias of our press uh to always report the best about Israel. the the uh we don't know how many people have immigrated although we know it's a large number. We don't know what the damage of the uh Iran attack Iranian attacks on Israel were.
  They were considerable but we don't have the information because it's illegal under military censorship to report it in Israel. uh and the western press no longer investigates situations like that with the exception of a few people like Max Blumenthal and Aaron Mate whom you have on your your show and who who are vigorously pursuing investigative journalism. So, we don't know.
  Um, but um, you know, I mean, if you ask me u um, if if if I were an insurance company and you asked me to write a life insurance policy on Israel, at this point, I I don't think I'd do that. Um, a lot a lot of things are going wrong for the country.
+
+### Closing — Iran International Law Hormuz
 
 >> Let's go to the memorandum of understanding.
  Isn't it true that the straight of Hormuz as we speak is under the control of the Iranians? Yes. And uh theou actually acknowledges that. It says that for 60 days Iran will not charge tolls as it manages traffic in the straight of Hormuz. So um the the the there is a sort of a a ridiculous um statement that somehow Iran interpreted theou uh incorrectly to affirm its control but theou is very clear on that really and it and the fact is that Iran is in control of the state of hormones.

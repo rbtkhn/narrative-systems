@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-09
 pub_date: 2026-06-09
 kind: cleaned-transcript
@@ -28,9 +29,19 @@ evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: clean
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 24 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 24 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (10 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Col. Larry Wilkerson: Israel's Grand Strategy Is Coming Apart – Here's Why It Matters
 
@@ -43,7 +54,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Israel Iran Lebanon
 
 Hi everybody. Today's Tuesday, June 9th, 2026 and our dear friend Carl Wilkerson is here with us. Welcome back, Lar. >> Good to be with you, Neon. >> I want to start with what JD Vance said last night. We know the the attacks Iran Israel attack in Lebanon, Iranian response to Israeli attack. But before getting there, I want to put I want to play out what JD Vance said about the situation between the United States and Iran.
 >> Are you about Israel spying on the United States and freelancing in Lebanon? >> Well, look, I I think obviously the Israelis and I, excuse me, the Israelis in the United States, we have a lot of shared interests, but we also have some situations where our interests diverge. And I think what the president has been very clear here is that while Israel obviously has some objectives that it has, the United States's main objective in Iran is to ensure that Iran does not have a nuclear weapon.
@@ -60,7 +71,7 @@ That's essentially what he's admitting to. Then the second thing I would remark 
  He's still killing people in Gaza. He's still killing people in the West Bank in East Jerusalem. Got a wary eye cast over Syria. And he's attacking Iran again. So, he's not doing anything that the United States president claims he has ultimate power over him to make him do. And he's not doing it because the people who oppose him in this upcoming election and may well beat him are taking him to task for paying any attention to the American president.
  And increasingly I think Trump's reputation in Israel because of these phone calls and such is falling off too. Not
 
-### Segment 2 — Necessarily Because He Told Netanyahu
+### Segment 2 — Nuclear Weapon Israel Trump
 
 necessarily because he told Netanyahu to get screwed, but because they see the premier, the Netanyahu in this case, but ultimately the Napali Bend or whoever actually taking orders from Trump.
  And that hasn't sat well with him at all. 80ome percent of the Jewish residents of Israel are still very much in favor of everything that BB has done to this point in each of the places he's doing it. And oh, by the way, in Gaza, it's really become treacherous. It's become treacherous from so many different aspects. People making tons of money.
@@ -78,7 +89,7 @@ Obfuscate state the same thing over and over again. Say that diplomacy is ex is 
  That's what I see as base policy now for the Trump administration. Let this go on at a low simmer, as low as you can keep it. Try to keep BB Netanyahu in check. Hope he's defeated. Hope he goes to jail. and then start a new sheet of m music if you will that's the same thing without BB trying to deal with laid or NALI Bennett or whoever happens to take his place but I don't think they have a strategy I do not think they have a strategy other than rope a dope you know you know what that means from gashes glaze fighting days you bounce off the ropes all the time
 that's what Trump is doing at
 
-### Segment 3 — Jd Vance Is A Spokesperson
+### Segment 3 — Israel Netanyahu Iran
 
 JD Vance is a spokesperson in that regard and he almost screwed up as he started by saying it was his personal position. Nope. United States's position. [snorts] >> Larry, can I add number four nuclear bomb in the region which would be the new equation of the region that Israel there is no red line for the axis of resistance to attack Israel? Name I'm I'm talking about Iran and Yemen.
  Well, that comes out of the second one in this guy's estimation, the the new leverage Iran has because of being a part of the McKender landmass and having Russia and China behind it and being connected being connected. I I saw two more railroads. I didn't even know I didn't know there were three railroads. There's three railroads. I knew about two of them, but there are three railroads that actually come through that area and now debouch in Iran.
@@ -95,7 +106,7 @@ who were black like Charles Taylor. And so we looked around, we being uh who was
  We'll come to our senses to a certain extent. But there will be other reasons too as they were with Yugoslavia, former Yugoslavia. But we'll put these people before the bar. I doubt anybody like Netanyahu will. I I think Netanyahu will do a Chiron on us. Chiron left office and died. And one of the reasons he died was he was actually I think afflicted with a form of cancer that was pretty viral.
  Um but he also died conveniently. Let's put it that way. Um, and I think Netanyahu will die conveniently, too. And maybe Mrs. Netanyahu, too. And I will be first to stand on their grave and clap. We have two, you know, two leaders nameing the president of the United States and Benjamin Naniel. when they started the war, they had
 
-### Segment 4 — Some Sort Of You Know
+### Segment 4 — Israel Trump American
 
 some sort of, you know, overlap in their sort of objectives because they wanted to do something in Iran.
  They wanted to do regime change on whatever they had in their mind. >> They were locked. They thought they were both of them thought they were going to overthrow the regime in Iran and turn Iran into at at best a bantistan nation with all kinds of little lethos and other things scattered across it. You know, little Kurd, little Azeri, a little this, a little that all over the place.
@@ -112,7 +123,7 @@ that's impregnable before anything changes. I don't think they're all that confi
 The more they tell us that they are just short of a victory in diplomacy, the more the American people are going to realize they're lying through their teeth. This has not got a good outcome. Not for us. And I haven't even talked about Ukraine. >> If we assume Larry, the grand strategy of Israel is the greater Israel.
  Let's assume that which is in my opinion it is the the ultimate goal of Israel is the
 
-### Segment 5 — Greater Israel Then Where Is
+### Segment 5 — Israel West Bank Gaza
 
 greater Israel. Then where is Israel today comparing to what it was before this war started? >> Embattled. Embattled on multiple fronts, none of which it has total control over. embattled on the international stage even worse than it is embattled in these wars because the international stage is turning 60 to 70% against them.
  Even the Europeans are now finally talking about sanctions on West Bank settlers and things like that. seriously talking about it and I think in peril of its life certainly in peril of its life as a Jewish enclave in the Levant which is what they've turned into their sole purpose in life willing to protect with nuclear weapons and I don't think the world cares for that at all.
@@ -130,7 +141,7 @@ Our planes are taking all the available space at their own airports because we d
  Um but yeah, we're all going to have to nestle down in Israel eventually in order to keep conducting these wars. And that's going to put his cheek in jail. There's not enough apron space. There's not enough maintenance space. There's not enough airport space, taxiways, runways, and so forth for that.
  Uh, but that's what we'll wind up doing. And god forbid, that's what probably we deserve is to all be cheek and jou with one another when Iran puts the coup d'et on us. And that's something I wonder about Nemo because
 
-### Segment 6 — Ultimately The Defender Now With
+### Segment 6 — Iran Israel Palestinian
 
 ultimately the defender now with viability and strategic prowess of the Palestinians and battled as they are particularly in Gaza and the West Bank is Iran.
 Secondarily the Houthis but mainly Iran. Iran with backing now as the theory purports and I think is right. China and Russia to an extent. China, majorly Russia as it is able to without taking its eye off Ukraine, but still formidable. So when are they going to announce the same policy with regard to persecution and murder, brutal murder of the Gazins in Gaza as they are now doing for the Lebanese in Lebanon, ostensibly for Hezbollah, part of the axis of resistance.
@@ -146,7 +157,7 @@ Just combine them. Let's don't do this deal where we just put 224 into the NDAA.
 think, try powerfully to change that and are prevented from doing it basically by Trump. The question is if the United States stays in the region the way that it is they're staying right now they're there right now what would be the outcome for Israel just about the attack that Iranian attack on Israel just few missiles went to Israel and they hit >> the targets by the way talking about it let me just bring up the photo the satellite images that show >> here is the satellite image that shows that the p the accurate hit by of a hanger at Ramad David air base David air base by Iranian missiles two days ago.
  Larry and this is the way it is right now. And the United can do for Israel. How much how
 
-### Segment 7 — Much Longer Will It Take
+### Segment 7 — Iran Israel Ukraine
 
 much longer will it take if some of the photographs I've seen and they're not longtime photographs. They're very recent photographs last 96 hours. If the photographs I've seen of all the apron space, the ramp space, even space that's been created beside the ramps that will take the weight of an F-35, for example, if all of that is occupied, both Israeli and the US, if there's no more airport space left in Israel, it's a small country after all, very small.
  What the size of New Jersey? Um, how long is it before the Iranian missiles start striking US material, US aircraft, US facilities in Israel? I don't think very long. So, we're looking at a new dimension there, too. Uh, because I don't think the Iranians would be uh frightened of doing that. If if the beast is going to sit down with the little beast, then uh then he's going to take the risk.
@@ -163,7 +174,7 @@ The initial hours they said it was Iran, then Iran said, "Oh, we we didn't hit S
 indefensible against. No matter what missile structure you have, the drones are going to kill you. Um, and the Iranians are in possession of some of these drones. In fact, the Iranians were the original creator. I think if I remember right, the trail goes from Ukraine to the general market to Iran. Iran reverse engineering and Iran setting up a new uh methodology for using these drones. They're relatively cheap.
 They're 35 $40,000 a piece and yet they do more damage than a Hellfire missile
 
-### Segment 8 — Or A Tomahawk And They
+### Segment 8 — Iran Trump Israel
 
 or a tomahawk and they are almost at present time anyway indefensible against because of the technology that's used in them. Um you can't interfere with the drone itself. You can't interfere with the mechanism whatever it might be that's controlling its flight.
  And it's smart enough to get within vicinity of the target and know if there is something opposing it that might be deadly to change its trajectory and come in from a different direction. Really sophisticated cheap drone. That may be what's being used right now. Could be being used in false flag by Israel because I understand they got one and reverse engineered it.
@@ -181,7 +192,7 @@ blockade the complexity in the bubble man that by the way by in the Red Sea And 
  The market goes for it every single time. So these prices are not reflective of the reality. And now you even see uh major figures like Exxon uh top executives warning that the inventory levels the world oil inventory levels which have been basically keeping supply going. There was a lot of oil out there in the system uh and there were of course the strategic oil reserves of various countries including the United States which have been drawn down heavily.
  I think
 
-### Segment 9 — Japan's Is Drawn Down As
+### Segment 9 — Trump Ukraine Israel
 
 Japan's is drawn down as far as it's ever been. And what the uh what the energy experts are warning is that we're going to hit a point in the next 2 or 3 weeks where the inventory is really gone. And that's the point at which they're anticipating uh oil price shocks. Some people say $150, some people say $200 uh a barrel. And we're definitely talking in in any case about gas prices in the United States potentially hitting $6 a gallon.
 >> This is the main reason that Donald Trump is under tremendous pressure in my opinion. >> Yes. I I've had conversations with people in the oil industry, too. Um, and they say roughly what Kagan was saying, just wait. And the explanation is all that oil that flowed before the straight was debatable has gone. It's been offloaded.
@@ -199,7 +210,7 @@ that needed to be run. first female secretary of labor in our history, for examp
 I don't mean that in a conservative liberal sense, but I mean it has a wing of its entire establishment that's called Israel. Someone has got to come in with the coahjonies, with the courage, with the brains, with the electricity politically of an FDR and set this ship right or the ship's going to found her.
 I don't see anyone in sight. I don't
 
-### Segment 10 — See Anyone In Sight No
+### Closing — Israel Palestinian Iran
 
 see anyone in sight. No one making noises like they might be capable of doing that. So, where do we go? There is a historical precedent for where we go down the tubes. Larry, I know that it's not fair to ask this question. It comes from, you know, you know, maybe you need to ask speculate and definitely you need to speculate on that.
  But what is the Israel? What would be Israel the moment Nadneo decides to step down? >> Worse. I think worse. I think you'd have leaders who would defy the United States, knowing full well they could get away with it and use every bit of leverage Israel has to finish off the targets that it can finish off, mainly being Gaza.

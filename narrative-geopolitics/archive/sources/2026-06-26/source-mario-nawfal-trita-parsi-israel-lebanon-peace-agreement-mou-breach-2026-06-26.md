@@ -1,4 +1,5 @@
 ---
+
 ingest_date: '2026-06-26'
 pub_date: '2026-06-26'
 kind: cleaned-transcript
@@ -25,8 +26,18 @@ normalization_state: ai_assisted_proper_noun_cleanup
 quality_note: "ASR normalization pass 2026-06-26; ph-civ replacement SSOT."
 transcript_wrapper_tier: raw
 opening_tier: host-monologue
-editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (parsi, parsi,nawfal, channel:mario-nawfal)); 11 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (parsi, parsi,nawfal, channel:mario-nawfal)); 11 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (9 sections)."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # BREAKING: ISRAEL AND LEBANON SIGN PEACE AGREEMENT, BREACHING IRANIAN MOU - w/ Trita Parsi
 
@@ -37,7 +48,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Netanyahu Readout and MOU Article 1
+### Show Open — Israel Lebanon Hezbollah
 
 on something breaks while we're talking. >> Yeah, but well I I want to break it to you. Don't No, no. I'll check your laptop. All right. So, um maybe you heard about it. Lebanon and Israel just signed a deal. >> Okay. What is the content of it? >> No clue. >> Okay. We'll be interested. >> What do you think exactly what I have? >> Depends on what's in it.
 >> No, exactly. I have a deal. No content. Please comment. >> Let me So Netanyahu just put out a statement. I'll read out this statement. It's about the deal. Um, nothing out of Lebanon yet. Um, and I'll tell you about in a second. No statement about from Hezbollah either. Um, quote, I want to announce a major achievement for the state of Israel.
@@ -49,7 +60,7 @@ on something breaks while we're talking. >> Yeah, but well I I want to break it 
  Channel 12 says, Israeli official said, quote, "We will leave the territory we captured only if Hezbala no longer constitutes a factor anywhere in the country." Um, yeah, it doesn't look that good because it it means Israel stays in the territory. I don't know. Actually, I don't know how to interpret it. The fact that civilians cannot return.
  I thought if it'd be some deal that allows civilians to return, but Israeli military remains there and the Lebanese forces and the Lebanese armed forces and the Israeli military preventah. That would have been a good deal. But when even the people can't return, that's concerning. >> Yeah.
 
-### Deal Text Gap — Bifurcated US Foreign Policy
+### Segment 2 — Hezbollah Israel Netanyahu
 
 So, again, um, want to be careful not to comment too much until I've seen the actual text. This is just a read out from one party which of course has its own interest and wants to who's also very pressed politically at home and wants to exaggerate whatever is >> you want me to give you the >> I'll give you an aljad statement as well to give you the other side quickly >> just so you have the a bit more context alid says the breakthrough enabling the signing of the Israeli Lebanese declaration of principle came after meeting between senior Lebanese army
 officers and MP Hassan Fidala the meeting was frank and helped narrow the gaps between the sides. The expected declaration is expected to pave the way for a meeting between Hezbollah representatives and the Lebanese president. Um so it seems Hezbollah might have okayed it based on that statement from Aljid Alid.
@@ -58,7 +69,7 @@ officers and MP Hassan Fidala the meeting was frank and helped narrow the gaps b
  on the one hand uh the MOU negotiation that has a complete regional um dimension and on the other hand pursuing these negotiations with an entity the Lebanese government that is completely opposed to Hezbollah and you know there's even been rumors that the Lebanese government was encouraging Shah in in Syria to intervene militarily against Hezbollah which would be quite an um you know interesting development that the Lebanese government was actually hoping that the former head of al-Qaeda would come to their aid militarily to take on Hezbollah. So I
 think you know the
 
-### Lebanon Government — Hezbollah vs Occupation
+### Segment 3 — Israel Iran Netanyahu
 
 Lebanese government right now and its standing is uh one that we should take a close look at here because they may very well also been acting in a way to help undermine the MOU because their objective seems to be more focused on getting rid of Hezbollah than to get rid of Israel's military presence and occupation of Lebanon.
  Again, this is Netanyahu's presentation of it. You know, the text may actually be much more nuanced. it may not be as contradictory of the MOU, but if it is what he said it is, then I think this is going to create a challenge for the MOU >> and deliberately so because the way he's talking about it is exactly making sure that the Iranians uh don't have any influence there and that they're not the ones that are being able to help determine what the actual parameters of this is because their parameters have been that Israel needs to leave Lebanese
@@ -66,7 +77,7 @@ territory. >> Yeah. It's interesting. It's it's even Aljad is reporting that Isr
  We've seen that with the Iran MOU. We had different uh kind of different information from both sides. Anything on your side? Any information you got? >> No, this so this is completely new to me. Um and again would be very important to see the actual text um of this. And you know when the Israelis are so quick in getting their interpretation out, it tells you something.
  It tells you partly that this is very important for Netanyahu politically because he is getting hammered in Israel right now over the Lebanese issue. He's already essentially lost the Iran issue. He's about to lose the Lebanese issue if the MOU were to go forward. So I think he has an interest in getting his perspective or his interpretation out as quickly as possible and whether that one is then entirely accurate or not I think is a question mark.
 
-### Al-Shara Rumors — Syria Border Buildup
+### Segment 4 — Lebanon Hezbollah Syria
 
 >> You mentioned something that is is is I'm just trying to make sense of it. The whole alsh going into Lebanon now I didn't know the Lebanese government has been advocating for it. So I'm going to ask you to comment. >> I be very careful. There's been rumors about that. You know we've seen that Trump himself publicly. Yeah. Public.
 But there's rumors about that the Lebanese government as well did so and the idea may have come from the Lebanese government from the outset. >> That would be reality completely done if that's if >> the reality is that is unfortunate not implausible but it tells you how strong the divisions are in Lebanon right now.
@@ -77,7 +88,7 @@ So, that one got me worried. I'm like, is there something happening behind the s
  I'm not sure whether this is has anything to do with Syria entering Lebanon and fighting Hezbollah or the drug trade on the border. Apparently Syria is cracking down on the drug trade happening on the border or one of my guests told me there is pro-Assad forces inside Lebanon and they're in is the buildup is to ensure that none of these forces enter Syria against Alshara.
  I don't know what to make of this. Um the most concerning though are Trump's comments about Turkey. I'm not sure if that's related to the whole Syrian situation. >> Yeah. No, you know,
 
-### Regional Architecture — Riyadh Security Meeting
+### Segment 5 — Iran Israel Turkey
 
 at the same time, I think um we're moving very fast in this effort by regional states to actually create their own regional security architecture.
  Whether it's successful or not remains to be seen, but there's going to be a meeting in Saudi Arabia, which is very crucial because the Saudis are putting their weight behind this >> and also uh they're going to bring in several different states plus Iran, mostly GCC states and and Iraq to start talking about it. Yeah.
@@ -86,13 +97,11 @@ to see that countries like Turkey, who's part of NATO, etc., um has a strong rol
  They've always had one um would also then extend it to Lebanon as a counter to Iran because the US side as a way of pleasing the Israelis. The problem of course is that the Israelis are now starting to talk about Turkey in manners that is very similar to how they talked about the Iranians back in the early 1990s when that rivalry really um took off.
  Uh in fact in some ways even harsher and faster than what the rhetoric rhetorical change and policy change on on Iran. Uh
 
-### Turkey Threat — Israeli Minister Quotes
-
 >> let me read it. Israeli minister the Israeli minister of science technology quote I have no doubt that the Iranian regime will eventually fail fall once we move beyond the Iranian regime there then there's the Ottoman Empire's ambition which will seek to expand and spread its influence there is no doubt that Turkey with its ambitions to expand beyond its borders and to lead the region according to its own vision poses
 a real future threat to the citizens of the state of Israel Israel's always prepares for every threat and there is no doubt that Turkeykey's becoming a front that could indeed become a threat in the future. >> They've had similar statements against Egypt, not as Stark necessarily, but recently saying that the war with Egypt, I think, is inevitable in the next 15 or so years.
  You have Naftali Bennett saying that Erdogan is the most dangerous person in the Middle East. And this all happened because they were thinking that Iran already had been defeated. So, they're already in search of who the next enemy was. Um, and this is exactly what happened in the early 1990s. Uh, prior to that, Iran and Israel actually had an alliance, a very strong alliance behind the scenes, even though everyone knew about it.
 
-### Israel-Iran Reversal — Periphery Doctrine Since 1991
+### Segment 6 — Israel Iran Turkey
 
 But he even continued, at least the facto in the 1980s when the Islamic Republic came into existence and Ayati was the supreme leader and you know the very very strong anti-Israel rhetoric that the Iranians used at the time. But behind the scenes, the Israelis were doing everything they could to usher in a dialogue between the US and Iran and convince the US to stop supporting Iraq and instead reestablish its relations with Tehran.
  You know the Iran contrast scandal which was not an isolated incident. But then by 1991, suddenly the Israelis changed. And the reason for it was the two key interests and security imperatives that had pushed Iran and Israel closer together even after the revolution was Saddam Hussein's Iraq and the Soviet Union.
@@ -110,7 +119,7 @@ Never really materialized, but it was because of this previous geopolitical conf
  You don't have any of that or someone as uh as an Ahmed figure that would lend itself of explaining this. The Turks have never denied Israel's right to exist or said that they shouldn't exist or anything of these nature. Again, they have an embassy there. So I think the Israeli reaction is much much more about the fact that the Israelis themselves are looking for military domination and hegemony in the region and in that conquest and in that uh endeavor any country that can challenge and stand in the way for the Israelis is a problem.
 And then you create whatever narrative you want in order to depict that country as a threat or as a problem whether it is grounded in reality or not.
 
-### Anti-Abraham Accords — Pan-Islamic Axis
+### Segment 7 — Israel Turkey Syria
 
 >> Yeah, we're talking about that. Think about it. We're talking about that axis uh being forming as a kind of a defense pact between Saudi, Pakistan, Turkey, Qatar and Egypt.
  There's a statement that you just referenced activist Amyad K just told Jewish Jew Jewish news syndicate 15 years from now Israel will have a war with Egypt. So that's today. You've got the statement about Turkey that we just talked about. We obviously know the statements coming out of Israel towards Pakistan, but that's not happening with Saudi.
@@ -120,14 +129,14 @@ And then you create whatever narrative you want in order to depict that country 
  The Egyptians potentially could of course they have plenty of challenges and problems themselves. But um uh they could they have the capacity to go in the direction of being much more self-reliant and not dependent on the US. But if you're very very dependent on the United States, you're also much less of a threat to the Israelis because it at least in the past it would prevent such a state from being able to adopt too strong of a hostile position or challenge to the Israelis.
 >> By the way, let me say something else. the what in my view this kind of public meltdown in Israel over the MOU and the shifts in the region is actually very legitimate and justifying because where things are going right now is quite the opposite of what the Israelis thought it would be once they started this war.
 
-### Oman Bloomberg — Fees and Pre-War Status Quo
+### Segment 8 — Israel Iran Turkey
 
 Israel appears to be emerging as the biggest loser in this war. You may end up in a scenario if the administration is successful with the MOU and the deal and they get a transformative deal in which you will see the decontainment of Iran and the recontainment of Israel in which Israel become the odd man out in the region pushed in the direction of the isolation that it faced prior to 1991 in which it's after 1991 that Israel normalized relations with a large number of states all thanks to uh uh the Oslo process.
 um that was started then of course it it didn't materialize until a couple years later but it's in that period that Israel kind of breaks out of that isolation. I'm not saying it's going to go all the way back there but I think the trend will be the reversal of what it has sought and what it thought it would get in which you know you had several states normalize relations with it despite the Israelis giving absolutely nothing to the Palestinians and on the contrary expanding settlements engaging in what they did
 after October 7th. But this may have come to an end as a result of this MU again if it is materialized. So I think it's quite understandable that there is this kind of public meltdown and panic in Israel. >> Yeah, that kind of links to my question. Why are they being so hostile right now towards Turkey and Egypt when Iran hasn't fallen? Because you said they were expecting Iran to fall and that's why they're already planning for Egypt Turkey. Well, Iran didn't fall.
  The MOU is weakening Israel. Israel is getting more and more isolated. Trump and JD Vance are distancing the US from Israel and criticizing Israel and kind of talking the the Iranian talking points like the ball ballistic missile program. Um and now we have today Oman by the way announced that they will start charging fees of the straight of Homo.
 
-### Moshaba Risk — Funeral, Assassination, and Close
+### Closing — Iran Israel Hormuz
 
 I completely missed that. Did you see that? >> Every time I go on your show there's like all the breaking news happens. >> No, I'm just really good. I'm just really good with that. It said um uh let me see. I saved it. Um okay, I didn't save it. I'm sure I saw it. Oman did announce >> I saw something a couple of days ago and then the Omanis reversed themselves.
  So >> yeah, I saw that one, but this was this was more significant there. Uh according to Bloomberg, sorry, it's a report from Bloomberg. Oman has told European officials that ship ships transiting the Strait of Hormuz may eventually face fees for navigation or depolution services, saying there is no return to the pre-war status quo.

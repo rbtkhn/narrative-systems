@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-12
 pub_date: 2026-06-11
 kind: cleaned-transcript
@@ -24,9 +25,8 @@ evidence_grade: transcript-bearing
 opening_tier: heavy-banter
 transcript_wrapper_tier: clean
 nawfal_close_promo_trim_applied: true
-opening_trim_applied: true
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 30 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Kag/Car/Kharg, Harmmoose, etc.). Nawfal closing lineup/Tucker promo trimmed at tail. Opening rapport/production banter trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 30 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Kag/Car/Kharg, Harmmoose, etc.). Nawfal closing lineup/Tucker promo trimmed at tail. Opening rapport/production banter trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-07-09 (10 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
 verify_receipt: 2026-06-24
 verify_matrix_ref: statecraft/notes/wire/2026-06-11-news-verify-matrix.md
@@ -43,7 +43,17 @@ verify:
   - claim: Pakistan channel pre-cancel (NYT cite in-body)
     verdict: partial
     note: J11-9 - pair Marandi Pakistan pause; not IRNA-primary
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # BREAKING: EXPLOSIONS NOW IN IRAN – w/ Green Beret Lt. Col. Anthony Aguilar
 
@@ -55,7 +65,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Trump Laundry
 
 >> Well, you know, if the if the pilot uh, you know, the F-35 is a one-seater, so hopefully he didn't have that much laundry to do on this latest flight.
  Um, I hope not. So just for people that are not following clo this closely, there is a one of the aircraft carriers, the American aircraft carriers announced repairs because of a laundry fire and then we got footage a few weeks afterwards and it seemed pretty extensive um for over 30 hours. >> It burned for over a laundry fire in an aircraft carrier that has a lot of facilities to make sure such fires are contained from what I understand.
@@ -69,7 +79,7 @@ transcript_curation: curated_sectioned
  In fact, I think that's that's pretty uh astute considering when we look at what we've seen throughout history, World War I, World War II, where where you have an uh an actual declaration of ending of hostilities before an armistice, before a treaty. We saw this in World War I. We saw this in World War II in the final hours of, you know, as as the Allied forces sat in the that train car in, you know, before they before the treaty in Versailles up to the last minute of the 11th day of the 11th month of the 11th hour, both sides were exchanging fire
 trying to get that one inch before the the chalk line was snapped on who owns what, right? So, >> yeah, >> I I do I I do not disagree. In fact, I I agree with you entirely that if there is a deal and it's as close. So, we got to it's somewhere in the middle, right? Trump says, "Hey, all we're waiting
 
-### Segment 2 — For Is The Is The
+### Segment 2 — Iran Trump Irgc
 
 for is the is the ink to dry.
  This thing's done deal, baby." And Ton is saying, "Wait a minute." Like, we we do have some text. We are reading through it. Little optimistic to be saying we're there. So, it's somewhere in the middle, right? So, if that is true, which indications are that it is, could we see some final um back and forth for that last little bit of of uh leverage? We're not necessarily talking about land being taken like we did in World War I or World War II, but we're talking about influence. So, I agree with you.
@@ -85,7 +95,7 @@ And then Trump did add new conditions, which we heard about, we've spoken about,
 now in a time where where the memes write themselves. We're we're playing Uno, right? The Trump's trying to throw in the old switcheroo card here. Um and he's done it time and time again. So optimistic optimistic Tony wants to think that there is a deal. I'll tell you on Capitol Hill today, no energy or indication of such.
  In fact, on on Capitol Hill today amongst
 
-### Segment 3 — Republicans Democrats House And The
+### Segment 3 — Trump Iran Europe
 
 Republicans, Democrats, House, and the Senate, everybody in session, floor votes going forward for the NDAA is a lot of what's going to happen. So, not a lot of uh indications that that's the case. Now, if Donald Trump is is having those negotiations and his the feedback from uh from his interlocutors, whoever that may be that he sends to to Europe, because now Donald Trump is saying that it's going to be signed in Europe.
  So, um if that's what Donald Trump is receiving, uh I I hope that's the case. We we should not be fighting endless war. It's coming down to that point of like, you know, the old uh George Bush when he came on, he said, "Fool me once, shame on me. Fool me twice, shame on or fool me once, shame on you.
@@ -100,7 +110,7 @@ as you and I have discussed over the last few days that when you look at the con
  So that was a stupid crazy general wanted to cause just one last bit of damage to the other side before the imminent end to the war. And we may see something similar to that. We may see an American campaign tonight, tomorrow. Just I don't expect it. I think we'll see small skirmishes, but we might see some, you know, Trump did say earlier today, let's not forget, guys, I don't want to just completely dismiss what he said earlier today just because he's now talking about a deal, even though I think this is him pressuring Iran to accept the deal.
 That's my guess. He says to Fox News, "There will be more bombing tonight. It'll be bigger and bigger
 
-### Segment 4 — And More Powerful Don't Forget
+### Segment 4 — Trump Iran Ceasefire
 
 and more powerful. Don't forget, we've knocked out all their anti-aircraft. They have nothing. I mean, they may get lucky with shoulder weapon or something, but that's for the for the most part, you know, they have no defense. They're finished.
 But the papers, the media refuses to write it. Blah blah blah. We could take soldiers. I don't want to have boots on the ground, but if I wanted to, we could put small a small group of soldiers on the ground and take over the whole place. And then he's asked about whether he'll bomb their bridges and power plants.
@@ -115,7 +125,7 @@ There's nothing that's changed the dynamic of what's being brought to the table.
  So, I think there's going to be strikes. I think the pretense to that is that, hey, I gave them enough time. They had a great deal. It was the perfect deal. It was a deal to end it, and they took too much time. I'm done playing and now we're doing this. So, um, >> yeah, >> I I think that's what we see coming tonight.
  We wouldn't >> It's possible. >> We wouldn't be flying the F-35 out there. Remember, because the F-35 is a multi-roll fighter, meaning
 
-### Segment 5 — It Doesn't Just Fly Out
+### Segment 5 — Trump Iran Israel
 
 it doesn't just fly out to do a mission in terms of striking. It's also a multi-roll, multi-platform reconnaissance, meaning it's collecting signals reconnaissance, imagery reconnaissance, uh, scanning, sending like like sending live footage back to the headquarters to figure out, you know, it's it's out there doing a doing a scan.
 I think there strikes still coming. No one no one in in the capital today seemed to be uh elated that this is coming to an end. In fact, there seemed to be a sense of um not necessarily alarm but concern from both even Republicans that yeah, this this needs to end. This needs to end and even Republicans are now coming to the point of of of trying to do more to make this end.
@@ -130,7 +140,7 @@ Um, but no, based on what could happen now, yeah, could be a bluff and we could 
 that and and could of the reasons be great greater a greater conflict. Both be true. Both hypotheses can can be true. So when you look at the you know we we've talked about it before that every nation exercises four elements of national power. Diplomacy, information, the military and the economy or economic power.
  In this case, in this conflict right now, Donald Trump doesn't have a lot of maneuver space in the economic realm because the the thing that's kind of influencing the economy is the thing that Iran does control. We know that in the military space, same kind of thing. We're working here to where uh
 
-### Segment 6 — To Go To Go Too
+### Segment 6 — Trump Iran Israel
 
 to go to go too big militarily is a cost that the United States, the the average American isn't willing to digest.
  It's not palatable the average American. The president even said it. And something that was interesting that I want to bring up now in that last uh uh text or or message from Trump was how many dead did he say? 30. >> I think he said 13. I must have misspoke. I think he said 13. >> 13. Okay. >> Okay.
@@ -143,7 +153,7 @@ theirs to it's it's theirs for the taking. If they don't want it, it's on them. 
  And I was like man that just am I in the same day? Did I just go into a time machine? This is moments apart here. So, um I I I don't think that the the deal is going to be reached by tonight and I think that Donald Trump is going to use that as the pretense to where I gave him a sweetheart deal. They took too long. With a deal this good, you shouldn't even question it. Just sign.
  And they won't. They're not serious. I think we see more strikes coming in the next 12 hours. >> A Um, I'll tell you what Israel said. This is nice to this is satisfying to see because I um I've been in the belief that this war would be Israel bit off more than it could trick Trump into this war and he's um I want to say turn on them, but he's um he doesn't trust the the donors or whoever, you know, pushed him into this war and made him believe it's a good idea and that will lead to a change in US
 
-### Segment 7 — Policy Towards Israel It's
+### Segment 7 — Trump Netanyahu Israel
 
 policy towards Israel. It's not a
 massive change. I'm not too I'm not naive, but I think it would lead to some change. And we're seeing that. We saw the classification of Israel as a counter intelligence threat. Let's put the section 226 or 224. I forgot what it's called. Let's put that aside. That's a whole other kettle of fish we'll talk about in a bit.
@@ -160,7 +170,7 @@ Yikes. We know that's not going to be part of the deal, and an end to Iran's sup
  you know, my my grandkids are going to look at, you know, all caps on Truth Social. That's going to be the the next war movie, you know, because it's just like it's driving this conflict. And when you look at the uh thisou, if if there's any belief or or if there's any um putting forward that that everything that you just read that that Netanyahu expects is going to be in anything that Iran would agree to, well, then we know that's a lie.
  We know that's just made up. I mean, Iran is not going to agree to to any of those terms, much less all of them altogether. That's a not only is that a maximalist term, that's a fantasy to think that that Iran would ever agree to that. Uh so it it's um it's kind of one of these situations to where, you know,
 
-### Segment 8 — Are Are Trump And Bb
+### Segment 8 — Iran Trump Netanyahu
 
 are are Trump and BB still BFFs? Yes.
  Uh but they've given each other's bracelets back for the summer. They're like, "Hey, we're we're BFFs still, but we're going to take a break this summer because you pissed me off." So, theou that we're trying to create, Israel's not even a part of it, but they're going to have their two cents.
@@ -175,7 +185,7 @@ Another another uh great observation in terms of I I I agree with the with the u
  That's that's the the idea of a nation state. So when you look at that in terms of where they're now looking at let's we don't want to go all the way under a side and say we're now team Iran, but they're hedging their bets on this is going to end eventually. And when it does, regardless of how it ends one way or another, Iran is still there and we're still here and we're a pond away and we got to stay and we got to live here.
  So the they're looking at things through that pragmatic lens.
 
-### Segment 9 — And Another Uh Great Observation
+### Segment 9 — Trump Iran Israel
 
 And another uh great observation that yeah, why we we know why Oman had had been spared in these last exchanges because they they kissed the ring and bent the knee. Um with with the UAE making some back, you know, some some um backstage deals, some some uh back channel deals, they've kind of secured that that same kind of uh hey, don't don't hit us.
  We're trying to we're trying to you know we're trying to stay as neutral as we can realizing that the position we're in. So I think we're going to see more Gulf nations kind of start to take that approach especially as we see >> already I think they're already taking the approach many of them >> more and more are >> yeah yes which is uh yeah it makes it makes the negotiation position for the US all the less weak little by little the longer like as I said this before the the longer this conflict goes on either as a as a stalemate or a a cold
@@ -188,7 +198,7 @@ at be miles apart, it's possible. And if they are, well, we're going to see we'r
 What >> what has Iran lost that would then say now man we got to give this up? >> I just don't see what's been changed in the dynamic to where there's now this sweetheart deal where there hasn't been over the last 103 days. >> Yeah, that's one um that's a point my one of my guests maybe it was you that made made yesterday is like what how do you make sense of these strikes over two days? What could they change that a month didn't change? um 40 days didn't change.
  So yeah, it's a very good question. Um a final question to you is you're in Washington DC. We've talked about it last time trying to bring attention to section 224 which is the one that melts the Israeli and US militaries. Gives Israel access to a lot of intel
 
-### Segment 10 — Um A Lot Of Ip
+### Closing — Israel Lot Technology
 
 um a lot of IP technology, American technology. It's unprecedented access to the US military.
  It's like a back door into the US military. Um, how how's uh how's the first couple of days there? >> So, uh, I' I've I've learned quite a bit now in terms of uh kind of the uh the the intricacies of how we got to where we are. So, House version, Senate version, House version had section 224. Roana submitted an amendment that was shot down.

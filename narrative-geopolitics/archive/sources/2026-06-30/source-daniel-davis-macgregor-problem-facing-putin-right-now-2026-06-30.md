@@ -1,5 +1,6 @@
 ---
 
+
 ingest_date: 2026-06-30
 pub_date: 2026-06-30
 kind: transcript
@@ -29,7 +30,7 @@ source_note: "Operator source-intake 2026-06-30; operator-pasted YouTube transcr
 evidence_grade: transcript-bearing
 opening_tier: host-monologue
 capture_note: "Operator paste; full interview body preserved from user-supplied YouTube transcript."
-editorial_note: "Operator-pasted YouTube transcript; ASR artifacts retained (McGregor, Zalinsky, Coupons/Kupiansk, Pescov/Peskov, etc.). Not human-verified verbatim."
+editorial_note: "Operator-pasted YouTube transcript; ASR artifacts retained (McGregor, Zalinsky, Coupons/Kupiansk, Pescov/Peskov, etc.). Not human-verified verbatim. · source-section pass 2026-07-09 (3 sections)."
 quality_note: "Initial land 2026-06-30 via land_statecraft_source_body.py; operator paste."
 transcript_wrapper_tier: paste-prefix
 normalization_state: raw_operator_paste
@@ -37,10 +38,13 @@ opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
 opening_trim_words_saved: 0
-closing_trim_applied: true
-closing_trim_rule: "daniel-davis-closing-v1"
-closing_trim_chars_saved: 204
-closing_trim_words_saved: 41
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 3
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Col Douglas Macgregor: The Problem Facing Putin Right Now
 
@@ -51,6 +55,8 @@ closing_trim_words_saved: 41
 **URL:** https://www.youtube.com/watch?v=RAbvkZjfMHk
 
 ## Transcript
+
+### Show Open — Russia Ukraine Europe
 
 Vladimir Putin took time out of his schedule today to actually have a conversation, not just to answer questions, but to give an actual very detailed description of the battlefront as he sees it in the Ukraine war. There's been a lot of news here of late that Zalinsky has offered some new terms that he wants to limit the fighting only to the four oblasts that are that are part of what the the Russians said a couple years ago they want instead of the I think there's about seven or eight different ones where there's some
 fighting going on now. and kind of have a sort of semi ceasefire. President Putin first of all just dismissed that, but then he went into some detail about how he sees each of the areas of the battlefield, the key ones, especially. The question is, is he just giving a good spin on things or are things really going as well for the Russians as he seems to think on the battlefront? There is literally nobody better we can try to have to assess the truth of this.
@@ -107,6 +113,8 @@ Okay. Well, that's Putin, is it not? And that very deliberative uh approach and 
 answer because I'm not somebody like that and I'm not in that position. So I don't have an easy answer for it. The point is they continue to find people that will do it. And if you wave enough money in somebody's face and you arrange to have that money sent somewhere potentially back to somebody's family or to some, you know, numbered bank account, that may be enough.
  I I don't know.
 
+### Segment 2 — Russia Ukraine Ceasefire
+
 >> Well, yeah, I'm not one of them either. I I just it's puzzles me. But u Okay. Well, let's move on to the bigger because the biggest area not not just Sunumi, not Kyansk as important as they are, although the Sunumi is pretty important because of its location and that would be near the Russian army to to Kiev.
  So that put more pressure but really the the anchor of the entire eastern front is in the Slavian promistors elomeration and that Putin gave a lot of interest to that one. The third army of the south grouping is moving toward the city of Slavansk at good pace. It entered the settlement of Nikolai about 8 to 9 kilometers remain to Slavansk itself.
  The offensive is proceeding successfully in 15 sectors. Every day our troops are advancing in this direction. >> Now, what do you make, Gary, if you could put that map up as well, the the Slavian chromator map. Uh what do you make of of the fact that Putin is going through and given this very detailed and by the way, I don't know if you noticed, but he doesn't he's not given from any kind of uh notes or anything else.
@@ -137,6 +145,8 @@ Silinski and his friends? How many people leave the country? Uh, you know, come 
 And for their sake, that's one of the reasons why I do wish this could get over uh by whatever means as soon as possible. Well, if it were possible to resurrect Ulissiz Srant and put him in Russian uniform, uh, I would recommend that Putin look into that because that would be Grant's answer, you know, unconditional surrender.
  Stop the nonsense or we're going to crush you. That's how we won the Civil War. People don't realize that, but the last year the Civil War was terrible. Very, very brutal. Had to be. And it wasn't because you Grant wanted it to be that way. He didn't particularly hate Southerners and he was a slave owner.
  Nobody knows this stuff. But he knew the war had to end. >> You know, that's what he understood. So maybe it's time to channel US Grant in Moscow. >> Well, we may find out pretty soon. We'll see what happens next.
+
+### Closing — Israel Iran Lebanon
 
 Uh before I let you go today though uh I want to just kind of touch on one of the one development in the uh US Iran USIsrael Iran war uh and that is President Trump's attempt to get a settlement.
  He said on true social yesterday that Iran had asked for a meeting in Qatar. So he's since Steve Whit and and Jared Kushner over there. The Iranians said yeah actually I did not request it to a meeting and we don't have a meeting planned with you. We're going to Qar to talk about getting our money released but whatever.

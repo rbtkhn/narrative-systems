@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-18
 pub_date: 2026-06-18
 kind: cleaned-transcript
@@ -30,7 +31,7 @@ opening_tier: host-monologue
 transcript_wrapper_tier: clean
 caption_wrapper_normalize_applied: true
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 10 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 10 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (10 sections)."
 quality_note: "ASR normalization pass 2026-06-18; ph-civ replacement SSOT."
 verify_receipt: 2026-06-20
 verify:
@@ -49,7 +50,17 @@ verify:
   - claim: US operational pressure on Israel to scale back Lebanon offensive
     verdict: partial
     note: CNN Jun 1 heated Trump-Netanyahu call; Maariv five-position withdrawal demand not implemented; IDF 18 Jun entrenchment map
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Larry Johnson: "ENOUGH!" - Vice President JD Vance SLAMS Netanyahu's Government in Heated Rant
 
@@ -60,7 +71,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Israel Trump Netanyahu
 
 Hi everybody. Today's Thursday, June 18, 2026, and our dear friend Larry Johnson is here with us. Welcome back, Larry. >> Man, every day, boy, you're gonna >> Exactly. >> You're just going to have to rent me a room at at your place. And >> you may come to Brazil. >> Yeah. >> Do it together. >> That'll be That'll be easier.
 >> Yeah. You're you're going to enjoy it. By the way, in Florida, it's too hot right now, I assume. >> Well, yeah. Yeah. I mean, it's uh the seasons are reversed, you know, since you're down there south south of the Ecuador. >> Yeah. Larry, let's talk about the repercussions of the MOU. Last night, we were talking about the content, and here is the repercussions coming out in the United States and in Iran as well.
@@ -76,7 +87,7 @@ And, you know, Trump, I think, is finally getting, you know, fed up with it. and
  So, as those start to leave, that's going to also drive home the message to Israel that, you know, you're on your own. We're not, you know, if you want to continue starting a fight, go ahead, start a fight. But we're not with you. >> Larry, your understanding of because it's not JD Vance. It's about Donald Trump himself as well.
  He came out said you're going to go after Hezbollah. You're not going to bomb the building, the whole building, the whole apartment building, you know, killing everybody just to get one of two commanders
 
-### Segment 2 — Or Forces Of Hezbollah Right
+### Segment 2 — Israel Trump Hezbollah
 
 or forces of Hezbollah, >> right? >> Where where were they before? Are they getting more reports or Donald Trump somehow was isolated before? Did they know what what's going on or he's changing his sort of rhetoric? >> No, no.
  I mean, they they knew what was going on before. They've just decided to distance themselves from Israel. It's real simple. And the the Israelis, frankly, I think are shocked by this. They didn't expect this. They go, "Hey, we thought we were buddies." Nope. Not not anymore. Uh, you know, that that party's over. >> Yeah. It's not about Israel, Larry.
@@ -92,7 +103,7 @@ Secretary of State of the United States, I would say Anthony Blinken and Hillary
 >> It was relentless. It was a constant push. You know, I remember um >> what would he say to you? >> What >> what would he say to you? He he would basically say um we need we need to uh you need to support us in attacking Iran. And back then this was you know 2009 to the end of uh 2012. We had more capacity than Israel did on several fronts uh to uh do that.
  Um, and so there was a a constant argument, uh, that we would
 
-### Segment 3 — Have And And You Know
+### Segment 3 — Israel Iran Trump
 
 have and and you know, I remember one day, um, I was on the phone for hours with A-hood, with BB, with others, you know, and they would say things like, you know, our planes are on the tarmac. And I'd say, well, good luck. I mean, great. Um, why are you doing this? >> Where else would planes be other than in the tarmac ready to take off? Yes.
  Um, although they'd be in the hanger, but they were on the tarmac. Um, and you know, you would you would say things. >> So, you're saying you were they were you were you were being played >> all the time. All the time. I mean, >> by an ally that receives an enormous amount of aid. >> Well, of course.
@@ -107,7 +118,7 @@ through and have a coherent thought? No, it's just it's just simplistic nonsense
 And you know, and I'm thinking that's got to be a bogus report. number one, because to do that, the Kurds would have to have a logistics chain. And I mean, we're talking a lot. If they if they're going to invade Iran with any kind of force at all, you've got to have a way to get them resupplied with food, with water, with ammunition, and you need to have a medical evacuation plan that's able to work.
  If this is large scale, there's no way in hell they've got that. Absolutely no. And they can they launch a raid and attack a a town or village on the border of Iran? Sure. And but to try to actually come in and occupy territory uh in Iran and keep it, they'll be wiped out
 
-### Segment 4 — Within A Day Or Two
+### Segment 4 — Trump Israel Don'T
 
 within a day or two. They simply cannot.
  they don't have the ability to sustain themselves because it require, you know, it requires a lot of logistics behind it. That's what these people don't understand. You know, most people just, you know, they're the ones who think that the chicken that they eat at, you know, they go buy a chicken at the their local grocery store and they think that's how the chicken actually exists.
@@ -118,13 +129,15 @@ the military assets to do this and if we continue down this course of action, we
  I'm saying don't assume that they're thinking that way because they're not. They're doing just the opposite. You know, they don't think there's any consequences to be had here. That's what's that's what's sort of truly shocking about all of this. >> Yeah. >> Um Fox News, by the way, is playing totally in the hand of the Israelis right now.
 They're somehow managing. >> Yeah. Yeah. Are you surprised by that? >> No, at all. But they were supporting Donald Trump. I mean that good god it's been that way for you know 26 years. So that's like that's like being surprised and god I was looking at my male dog and he was licking his balls. Yeah that's what male dogs do. Okay.
 
+### Segment 5 — Iran Israel Russia
+
 Do you think Israel would go, you know, would go to some are they going to do something stupid in your opinion? Because two things I think recently we've learned from Laura Lumer and Napali Bennett in Israel. >> They were both of them were talking about 911 is coming to the United States.
  Is Islam is going to do some sort of operation in in the United States that that can you know totally change the whole situation with what's going on in the West Asia. A false flag something like that. >> Okay. And why would quote Islam do that in the United States? >> I don't know. The way why are they on the border of Iran in the northern in Iraqi Kurdistan? The new group is ISIS was formed by the British by French.
 They are at the border of Iran in Iraqi Kurdistan, right? >> They just two weeks ago they they came to power. They said we are here. We are we we want to in invade Iran. The same people can do something. >> Yeah. Good. Let let them invade. How do they do Do you understand what it takes to sustain an invasion? I I mean, you know, that means you're moving forward in what? Walking or in vehicles? If they're in vehicles, they got to have gasoline or diesel to be refueled to keep going.
  Where are those fuel tanks coming from? Do they have they already prepositioned and assembled those vehicles? There's no way that they could do that without Iran knowing about it because Iran's got the Russian and Chinese intelligence showing them that. So that, you know, that didn't happen. This is this is just, you know, more misinformation from the West to try to, you know, distract, frighten, whatever.
  But uh the Kurds do not have do do the Kurds have the ability to launch attacks across the border into Iranian territory? Yes. But only what you it would be called a raid. Just a temporary go in kill some people, set some things on fire, and then run away. What we're talking about is do they have the ability to go in with a with a say 5,000 men and occupy an area and defend
 
-### Segment 5 — It And Prevent Iran From
+### Segment 6 — Israel Iran Lebanon
 
 it and prevent Iran from controlling that area.
  No, they do not have that ability. Uh they're being trained by the CIA. That that right away tells you that they don't have that ability. CIA has a has a very good track record of [ __ ] these things up. the perception on the part of Iranians. Larry, before coming to this live, I told you that Iranian supreme leader, he just issued an anal a statement today saying that he didn't feel good about.
@@ -140,7 +153,7 @@ uh and if they're not, we are going to immediately suspend uh spend aid and reca
 straight open and get oil flowing that it's going to be a real problem. I I don't think he was exaggerating that. I think he was being absolutely honest about it. Then do you think the president has that sort of power? >> What sort of what sort of power? >> The call that you mentioned calling Benjamin Edna on Israel is you're going to do this unless I'm going to do that and I'm going to punish you this way.
 Mhm. >> Is that in the power of the president of the United States
 
-### Segment 6 — With The Current Sit Conditions
+### Segment 7 — Israel Trump Iran
 
 with the current sit conditions that we are we know what's going on in the United States and how Congress is supporting by the way the Israeli agenda. >> Well, I think Trump does have it in his power to do some of that and then there's also the possibility that he'd get push back from senators that they would might even, you know, try to impeach him.
  Uh but again I I don't think that Donald Trump Well, he said it yesterday. We don't have to imagine. He said we're out of oil in 4 weeks. >> Yeah. >> So that's that's that's why he's doing this. He got they got someone got to him, got the message, and said, "Okay, we've been lying to you. We've been uh convincing you that everything's okay.
@@ -156,7 +169,7 @@ I see the move of the Trump administration as so as though it's so for them it s
  Then you got to raise the question, did are the were any of the wells damaged? And the oil terminals where the oil is pumped into these ships, were those damaged? Have they been repair repaired? Uh and then on on top of that you'll get um uh you know the ships themselves are mechanical condition having been sitting doing nothing for 3 months just at anchor.
 Are the ship's engines still good? Can they
 
-### Segment 7 — Function So It Just One
+### Segment 8 — Iran Ukraine Economy
 
 function? So it just one complication after another just means that although Trump signed this, oh yeah, we got to get the oil flowing. It ain't going to flow. And so there are going to be some real problems facing them. During the press conference that JD Vance had, he was asked about the 2028 presidential election and the reporter asked him, "You said you're not going to be part of that.
 " He was just where did I say that? It was like this >> and it seems that he's serious. I think his point of attacking Benjamin those those people in the in the Nadio administration is that you're not going to ruin my 2028. I'm here to do it because he knows that if something if they get the United States involved in this endless war, it's not the two years is nothing in my opinion with the war in the Middle East.
@@ -172,7 +185,7 @@ So, you know, this um we've we've seen so much misinformation about Iran over th
 Yeah, the reason I mentioned that is today JD Van said GCC countries want to invest in Iran. And I think the whole program is that because of the reality of what has happened in the Strait of Hermos. They want to get closer. They want to get more involved with Iranian economy. make more ties with the Iranian economy in order to diminish the threat or any sort of war if something happens because they know Israel is not going to change its behavior.
  Sooner
 
-### Segment 8 — Or Later They're Going To
+### Segment 9 — Iran Europe Israel
 
 or later they're going to fire at each other, Iran and Israel. So they want to make some sort of deal with Iranians to somehow ensure them that they're not going to be part of the fight on behalf of Israel or facilitating the Israeli attack on Iran. Uh so go ahead. >> Well, I just said we've seen we've seen evidence that uh Qatar at least has been working quietly behind the scenes.
  In fact, there's some report it was claimed that um initially that Iran destroyed the natural gas facility at uh what what is it Raz Leafon uh in in Qatar. But in fact, they may not have because they coordinated and cut a deal with Qatar in advance. So if that's true, uh that that adds a whole uh new dimension to things.
@@ -187,7 +200,7 @@ um that the actions and that's one of the reasons they moved this signing ceremo
 Lori, do you see Europe doing or because Donald Trump was at G7 summit and talking with various European officials or leaders or may all of them together because they were together and >> was there any sort of discussion about how Europe can may play some sort of role in what's going on in the West Asia or they he simply doesn't care about you? There there have been some comments and again I'm not sure if they were sparked by Trump.
  Uh the French reportedly said that they had deploy a mind sweeper to help clear up mines and um you know get things back to normal. Uh I I don't see though a widespread endorsement in the European community
 
-### Segment 9 — Of The Iranian Uh Government
+### Closing — Iran Israel Lebanon
 
 of the Iranian uh government. I think they still want to classify the government as a regime, something that needs to be dispensed of eventually.
 But Europe, we know in thisou it says Iran going to do that. If there is some sort of demining operation, it's going to be Iranian side doing that and nobody's allowed to go there. >> Mhm. >> So that's that's out of discussion for >> Yeah. So yeah, we'll see right now. So, it is uh like uh 2:00 in the morning uh almo

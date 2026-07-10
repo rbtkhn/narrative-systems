@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-13
 pub_date: 2026-06-13
 kind: cleaned-transcript
@@ -30,7 +31,6 @@ source_note: "Operator-pasted transcript; Glenn Diesen panel on restoring Russia
 evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: paste-asr
-opening_trim_applied: false
 verify_receipt: 2026-06-14
 verify:
   - claim: Aug 2024 Ukrainian cross-border incursion into Kursk Oblast
@@ -76,9 +76,19 @@ verify_tokens:
   - "verify:prc-lane-absent"
   - "verify:rome-lane-absent"
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 1 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (11 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 1 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (11 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 11
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # John Mearsheimer & Sergey Karaganov: Nuclear Strike on Europe to Restore Deterrence
 
@@ -90,7 +100,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Russia Europe Nuclear Weapons
 
 Welcome back to the program. Today we are joined by Professor John Mearsheimer from the University of Chicago and Professor Sergey Karagenov, head of the council for foreign and defense policy and also a former adviser to Gorbachov Yelin as well as President Putin. So uh thank you both for coming back on the program.
  Uh the topic today though is uh Russia restoring its deterrence as this is becoming a key theme and um well over the past four years we know that NATO has incrementally increased its involvement in the war. So from sending tanks, artillery, high mars, F-16s, which back in the day Biden warned would mean World War II, then longrange missiles, drones, and then the next step or the new step now appears to have been attacks from NATO territory.
@@ -109,7 +119,7 @@ I I I think that we have to uh think how to we could live through this period of
  I think everybody came to realize that uh a nuclear war uh would be uh catastrophic and therefore both sides had to be extremely careful careful in terms of how they dealt with each other. Uh lots of red lines were drawn. We all understood those red lines and we didn't cross them. Uh for example, when the Soviets went into Hungary in 56 and then in Czechoslovakia in ' 68, the west did nothing and for good strategic reasons.
 Uh and by the last decade or two of the cold war, I think we had worked out all the rules of the road
 
-### Segment 2 — And We Had Understood We
+### Segment 2 — Russia Nuclear Weapons Nuclear Weapon
 
 and we had understood, we came to understand where the red lines were, what we could do and what we couldn't do. Then the cold war ends and of course Russia once again becomes a great power in my opinion roughly around 2017 and then the Ukraine war breaks out in February of 2022.
 And I must say I have been amazed uh at the extent to which people in the west seem to have forgotten that we live in a very dangerous world because of the presence of nuclear weapons. And those red lines that were established in the cold war in many important ways seem to have disappeared uh to my amazement.
@@ -129,7 +139,7 @@ So I'm actually quite surprised at what's happened between uh western thinking i
 I mean we are old or 45 and uh uh if Russia uses uh god forbids uh nuclear weapons uh in Europe after of course uh certain steps later escalation which we are already taking now as you know at last I mean uh placing nuclear warheads uh from the uh from uh stoages uh uh to their missiles and uh uh to other delivery vehicles uh if uh we use them.
 We would win the war. But that would be a terrible moral disaster. And that is the only reason I believe uh that uh that President Putin or a President Bush uh is uh hesitating because I mean uh from a a point of view person like myself and we are doing all kind of scenarios winning a war in Europe uh with uh uh
 
-### Segment 3 — Is Is Easy But It
+### Segment 3 — Russia Nuclear Weapons Nuclear Weapon
 
 is is easy, but it is a terrible moral sin and also it opens up the door box because then everybody would start to uh use all kind of weapons of mass destruction.
  And we have already uh opened a lot of Pandora uh boxes uh during last years when countries openly attack each other and even as I've said are calling to for elimination of leaders uh of other countries and openly openly threatening them. that that was impossible not only during the cold war that was impossible even during the tribal tanks.
@@ -150,7 +160,7 @@ So I read you to have a much more limited view on how Russia could use nuclear w
  What What's your sense of what I'm saying? Uh well, I mean I um uh I agree. However, uh let me uh well I'm thinking uh in very practical ter practical terms though I hate uh the uh the idea that I have again returned uh to the days of my youth when I was uh in the along with you. But we were at the time not friendly in uh in in all in in all the these uh theories and the scenarios.
 As I've said uh uh if uh God forbids uh this war continues uh because it is an by and uh uh by the west for all kind of reasons and uh Russia uh would um come to the conclusion that it is uh senseless uh to spend lives of our best man. we
 
-### Segment 4 — Should Uh Escalate Uh And
+### Segment 4 — Russia Europe Nuclear Weapons
 
 should uh escalate uh and uh the uh if there is of course I mean there are several letters already some of the letters have been already passed we have several so now we have 25 letters and uh much much less than in previous uh words but uh uh first of course uh there would
 the uh uh attacks uh on uh valable uh uh military or and symbolic targets in Europe and I don't want that. Uh then if uh there is a response uh the response would be limited nuclear strike uh then uh Russia would win. Nobody would would dare to attack Russian soil but uh we would uh then uh feel ourselves sinners and that is the main reason the main reason why I think myself people like myself and I think President Putin are refraining from using nuclear weapons.
@@ -169,7 +179,7 @@ And they would also change their behavior in the sense that they would now under
  Uh but again uh and uh all the more that uh of course we know that and in Hiroshima uh less people were killed than in uh uh or Cologne. that we have uh brought into our minds and our souls the fear of these weapons as the fear of hell. We should not we should use this fear of hell to restore the fear of hell because our at least European uh partners are have lost the fear of hell.
 uh but I'm not um I'm not uh uh especially frightened by a possibility of a nuclear escalation between Russia and the United States uh if uh we uh have to use nuclear weapons in Europe. But God forbids. >> Yeah, I I think you're correct. I mean, you can never say with absolute certainty, but I think you're correct that if Russia were to
 
-### Segment 5 — Use A Limited Number Of
+### Segment 5 — Russia Nuclear Weapons Nuclear Weapon
 
 use a limited number of nuclear weapons on European targets, the United States would not use nuclear weapons uh to retaliate against Russia.
  And certainly the Europeans wouldn't either. I mean, we're talking about the French and the British here. They're not going to use their nuclear weapons against Russia. But this raises a really big question in my mind. This is my second question for you. Uh what about the Germans? Germany does not have nuclear weapons uh of its own.
@@ -190,7 +200,7 @@ So, we're not going to see a nuclear strike tomorrow, but it's uh but but let's 
  If you believe that his basic argument is correct, then the question is why not just use a handful of nuclear weapons? uh and reestablish deterrence. Well, if if Russia Well, I guess I have a twofold question then. That is how much more NATO escalation do you think Russia could tolerate and uh if they kind of reached the end of the line now where where where they can't accept it anymore, you know, it only has the option of deterring either using conventional weapons or nuclear weapons.
 But as you suggest, conventional weapon weapons would probably be a very
 
-### Segment 6 — Brief Stepping Stone Towards The
+### Segment 6 — Russia Nuclear Weapons Nuclear Weapon
 
 brief stepping stone towards the nuclear option. So if we're reaching the end of the line here, I mean, how how are you seeing the situation? It just it seems we're getting very close to a disaster. You would think there would be more discussion among European or Western politicians altogether where exactly this is heading, but uh I see nothing of the sort.
 My great hope, Glenn, is that more and more attention is paid to Sergey's argument and more and more people in the West therefore come to understand that increasing uh the air offensive with drones and missiles against Russia is a prescription for disaster. uh let's hope there's a learning curve that goes up in the west and that his message and it's not only his message there are other people in Russia who are uh making the same argument let's hope that that argument begins to get traction here in the west and we don't
@@ -209,7 +219,7 @@ No, I I don't because there's no plausible story that they can tell about what t
  Uh I I think that in the process of re-establishing or establishing deterrence with the west, the Russians will end up scaring uh the Germans greatly. If the Russians do what Sergey says uh might very well happen, uh this will really spook the Germans and the Germans will have powerful incentives to get a nuclear deterrent of their own.
  And then the question is you want to ask yourself where that leads. And if you listen to what Sergey said, it's a positively frightening uh scenario. So I think that, you know, we're headed for big trouble. As you and I have said on this show many times before, uh we're eventually going to get a frozen conflict in all likelihood in Ukraine, but uh we're not going to
 
-### Segment 7 — Live Happily Ever After Once
+### Segment 7 — Europe Russia Ukraine
 
 live happily ever after once you get that frozen conflict.
  the potential for the Ukraine war starting all over again will be significant. And furthermore, there just all sorts of other ways uh that you can get a conflict in Eastern Europe. Uh and you know, we just talked about the whole nuclear issue visa v Germany, which is something we haven't talked much about in the past, you and I, but is a ver is a very real threat moving forward.
@@ -230,7 +240,7 @@ So, if the Germans don't have the American security umbrella over their head and
 is there is there pressure in in the Kremlin in terms of changing its strategy because I get the impression that many Russians are now wanting a tougher hand to put a quick quicker end to this war. Oh well. Uh first about uh I I'll react to our previous discussion. I have all uh uh Stalin uh was a great leader but a bloody dictator uh but also he made very a few geopolitical mistakes.
  Uh one of uh those mistakes was uh uh that he uh stopped uh the among if I remember plan uh to the dismember Germany. Uh Germany should never again become a threat to the world and and uh Europe. If it becomes then it should be punished. But of
 
-### Segment 8 — Course I Admire German Culture
+### Segment 8 — Europe Russia Nuclear Weapons
 
 course I admire German culture. I have many friends uh uh in Germany who are now forbidden to uh deal with me.
  Uh that is one uh question. Uh the answer now as to uh the question of how long should we tolerate uh attacks on our cities uh killings of our civilians. Uh the uh question is uh very simple. uh we do not want uh to go uh very fast faster after the escalation but we have started to move. uh when I uh not only because of Russian war uh with the west now with Europe in Ukraine uh put uh the issue of restoring the validity of nuclear deterrence on the table several years ago.
@@ -250,7 +260,7 @@ So it's not about only realism, it's about uh moralism. But don't you run the da
 everything is uh the world order is collapsing when everybody when uh all moral limits are collapsing our all habits are uh taken uh of distance are taken away that's why I'm thinking about uh the necessity to restore or at least of nuclear deterrence. And I insist that Germans or or or else uh should be restored to uh the deadly fear of being eliminated because they have been source of most of worst things in human history.
  again um I like Germany I have many German friends I know German culture and I don't want I mean Germany to be be eliminated but Germany becoming again a romanist power uh is Germany and some other European countries are becoming romantist we uh in the second
 
-### Segment 9 — World War We Fought Uh
+### Segment 9 — Europe Russia Ukraine
 
 world war we fought uh with uh most of Europe except for uh Britain which was uh helped by the United States uh formerly Yugoslavia uh and uh Greece uh we all remember that and I don't want Europe uh to return uh that to this vicious place in human history though
 I'm culturally European and uh u bet by Zach um Gert are my writers along with uh TTOS Pushkin. However, uh that is not a question uh of uh simple balance of powers. It is a question of where humanity is moving. Uh we already have crossed several thresholds and also we see that the modern civilization um is uh undermining uh the sense of the human in the human.
@@ -270,7 +280,7 @@ from Europe partially from the United States but from also other countries. We b
 I I want to go back to uh your view of the Germans which is reflected in your view of the Europeans in general but I want to focus on your view of the Germans in good part because I think German Russian relations are going to be very important in the years ahead and I think what you're saying about Germany is very important.
  Uh but let me talk about that subject by telling you how I think most people in the west today think about Russia. As you know, Sergey and Glenn, I argued that the principal cause of the Ukraine
 
-### Segment 10 — War Was Nato Expansion Coupled
+### Segment 10 — Russia Europe Ukraine
 
 war was NATO expansion coupled with EU expansion and the color revolutions. Right? And I believe the West is principally responsible for the Ukraine war.
  But as you know, most people in the west believe Russia is responsible. And when you ask them why, their basic argument in many cases, this is especially true in Eastern Europe, is that it's in the blood. The Russians are naturally aggressive. It's in their genes. We call this in the social science world here in the United States an essential essentialist argument, right? The the Russians are just natural aggressors.
@@ -290,7 +300,7 @@ took many more lands and then we need who would have needed for uh a viable coun
 to concentrate we try to concentrate on Europe. I am by the way the founder of Institute of Europe in Russia. I mean in in Soviet Union but when I got into that quma I understood that it is a blind LA for Russia Russia. We have uh got a lot positive from Europe. uh but Europe is now uh uh is uh the provider of the of problems.
  However, they have great people, they have great nations, uh they have great culture and some of Europe will recuperate from its uh uh present sickness. Uh so I'm I think that we should simply push them aside especially the northwestern Europe and uh build up a society uh for the future world where countries like as I've said India, Indonesia uh Persia, uh
 
-### Segment 11 — China Russia And The United
+### Closing — Europe Russia Ukraine
 
 China, Russia and the United States uh should play play role.
 >> I don't deny for one second that it's in Russia's interest to have good relations and and and improve its relations with countries like India, China and so forth and so on. Uh but you cannot in my opinion push aside Europe. It's right next door geographically to Russia. And furthermore, the Ukraine war is not going to have a peaceful ending.

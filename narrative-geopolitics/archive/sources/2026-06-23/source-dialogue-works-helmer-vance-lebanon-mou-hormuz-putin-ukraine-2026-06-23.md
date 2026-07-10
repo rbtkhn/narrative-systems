@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 ingest_date: '2026-06-23'
 pub_date: '2026-06-23'
 kind: transcript
@@ -25,7 +31,7 @@ source_note: Operator source-intake 2026-06-23; operator-pasted YouTube transcri
 evidence_grade: transcript-bearing
 opening_tier: host-tease
 capture_note: Operator paste; full interview body preserved from user-supplied YouTube transcript.
-editorial_note: Operator-pasted transcript; ASR artifacts retained (Nemo, JD W, Mandi, etc.); not human-verified verbatim against audio. Routine closing Substack/link promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-25 (8 sections)."
+editorial_note: "Operator-pasted transcript; ASR artifacts retained (Nemo, JD W, Mandi, etc.); not human-verified verbatim against audio. Routine closing Substack/link promo trimmed in place; SSOT body otherwise preserved.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (10 sections)."
 quality_note: Fresh intake 2026-06-23.
 transcript_wrapper_tier: clean
 
@@ -72,7 +78,17 @@ verify:
     verdict: partial
     note: Truth Social vs gCaptain partial-flow
 dialogue_works_close_substack_trim_applied: true
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # John Helmer: Vance DESTROYS Netanyahu's Cabinet in FIERY Rant - Putin's Shaking Move
 
@@ -84,11 +100,11 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — MOU Round Two
+### Show Open — John Back
 
 Hi everybody. Today's Tuesday, June 23rd, 2026, and our dear friend, our brother John Helmer, is here with us. Welcome back, John. >> Thank you. Good to be back, Nemo. >> John,
 
-### Vance Lebanon — Deconfliction Mechanism
+### Segment 2 — Lebanon Iran Israel
 
 finally, we had the second round of negotiations between Iran and the United States over the issues mentioned in the MOU, the document they have signed.
  Donald Trump in the United States and Iranian President Peshkan. And when it comes the basic to to the basic you know to to the main problems between the two sides is the case of Lebanon which was extent extensively negotiated and discussed in the meeting in they had and looking at this way that JD W looking at the way that JD Vance is somehow reshaping the foreign policy maybe because many people are so much pessimist about what's going on in Washington.
@@ -96,7 +112,7 @@ finally, we had the second round of negotiations between Iran and the United Sta
 progress, too. I mean, look, we want a regional ceasefire, right? We want Hezbollah to stop firing at our friends in Israel. We want Israelis to be able to live in peace. We also want to make sure that, you know, when when things happen, they don't spiral into a broader escalation.
  And so, we've been, I think, very good at setting up what we're calling a
 
-### Helmer — Vance Corruption Frame
+### Segment 3 — Israel Hezbollah Lebanon
 
 deconliction mechanism. But what it really is is to say that when things happen, the sides are actually talking to one another. Sometimes, you know, you got a bit of a chicken and egg problem that you've got a junior guy who fires a drone that didn't have approval from the high command.
  Okay, of course, Israel has to respond to that. But then sometimes that response, we could actually have a better and more peaceful situation if Israel responds in the context of a conversation that's ongoing between Hezbollah, Lebanon, Israel, and other partners in the region. There really hasn't been a mechanism to have those discussions until basically around 400 p.m.
@@ -112,7 +128,7 @@ Just John, two points before. Just two hours ago. Yeah. Two hours ago, we had a 
  when uh in the most recent rounds of polls and if you asked you go outside your house or apartment you asked your friends the very very few pe American voters certainly nobody who's keen on the Republican party considers the war in the Middle East to be important important it's not an important issue what are the important issues first corruption in politics the role of money in politics is now a dominant public issue among US voters.
 We talk about a lot. We'll come back to it because Jared Kushner's presence in Switzerland and what Trump what sorry
 
-### Israel Tether — Netanyahu Government
+### Segment 4 — Lebanon Hezbollah Iran
 
 Vance had to say about him is utterly corrupt. Okay, first thing. The second is inflation affordability of health care whether if you're risk of dying you you'll die because there's no hospital care.
 hospital care inflation and the expansion of the federal budget. Those are the key issues. Uh more than twothirds of uh US voters have those on their minds. So that's what um Vance was talking to. That's the important part for his political future for the Republican party against the Democrats. He's talking at affordability of healthcare, inflation, the federal budget deficit.
@@ -127,7 +143,7 @@ things are tied tied together, you see. So when Vance says uh we'll have a decon
  So, um I think one should come out of the Swiss talk results with a with a uh a very hefty dose of domestic political realism. Americans don't care if genocide occurs in the Middle East to the Palestinians, to the Lebanese, or to the Iranians. They care if the what what happens to them in their pockets first. Second, Vance is live talking at them.
 By the way, he also said he consulted several times during the Swiss talks with the Israelis. He talked more with them than with uh that's to say the
 
-### Hormuz — Frozen Assets and Sanctions
+### Segment 5 — Iran Lebanon Middle East
 
 Netanyahu government than than with uh everybody back in the United States. But he knows what he's doing in the United States. So uh we have to be realistic here and we have to be aware that Vance thinks the US empire so to speak is gaining in the Middle East and he's not making any concessions on the key issues for Iran.
  Now what Iran has also accepted that's uh Muhammad Bakalib the head of the delegation and foreign minister Abbasi the foreign minister and second in the delegation they've accepted this scheme of continuing to talk talking shops continuing now there have been a number of serious concessions they seem to have made not only on Lebanon Not they appear to have made because Vance said it that IAA, International Atomic Energy Administration or agency inspectors will come into Iran before the technical talks on nuclear issues are even begun
@@ -137,7 +153,7 @@ or have certainly not reached any agreement. IAEA inspectors are spies for the W
  That's another major concession and pushed into a talking shop. Uh there are others but maybe I stop for a minute and you'll come back to me with more questions. >> Yeah, John from Iranian side today Iranian foreign minister said none of those damaged Iranian nuclear facilities will be IA is not allowed to go to any of them.
  But this was a particular it was a specific question on the part of the press because they wanted to know if they go there where where they would go. It said none of those damaged >> you know nuclear sites would be IA is not allowed to go there. But the point is here what they said from the Iranian foreign ministry. They said it's impossible to get there before achieving the case of you know the situation with Lebanon the case of Iranian
 
-### Putin Ukraine — War With West
+### Segment 6 — Iran Russia Hormuz
 
 frozen assets and we have the sanction the regime of sanctions is not IAN security council primary and secondary which are
 all dependent primary and secondary sanctions are dependent on the Congress in the United States. We are far away from there. I think that's why you're not we're not going to see IA inspectors anytime soon in Iran. If they go, they may go to some sites like the Busher nuclear power plant which is under the control of, you know, they have some sort of participation of Russians there as well together with Iranians.
@@ -151,6 +167,8 @@ achieved to date remembering as we've tried to say the straight of toll is a for
 war won't assume that the reparations will be paid. Well, all that's been said is that a this multi-billion dollar, let's call it $300 billion plus development fund for Iran is still on the table, but still to be discussed. No commitment there. That's remember what Trump has said. That's no American money.
  That's Arab money, which means Kuwaiti, Bahrain, uh, Gata, uh, UAE and Saudi Arabia. But principally Saudi Arabia, UAE, and Gata are paying reparations through a development fund in Iran. Well, that could be talked about for the next hundred years unless there's a clear agreement. The money goes on the table without without Jared Kushner taking his commission or his or Donald Trump is bribe.
  So uh what I'm glad to hear from you that uh uh foreign minister Arachi has has clarified about the IAEA inspectors will also be clarified on the issue of do if we don't have a home straight toll what do we have for reparations for Iran? Um and finally, there's no commitment here that the US will withdraw it from its bases in the Middle East from especially from the Gulf.
+
+### Segment 7 — Iran Israel Trump
 
 This is a fundamental part, isn't it, of Iran's future security from permanent war from the American and Israeli side. If the US is uh able to rebuild its radar network uh improve its radar network, if the Arab states, the shaits will fund all that. If US forces stay in their bases, what has been achieved here? The US has not been driven out of the region.
  In fact, the the Arab side of the region fearing Iran even more than it did before is likely the US side things to buy more and more US protection. So these are all as I said schemes of continuing to talk without the appearance of a significant achievement concessions to Iran's conditions. They may play very well politically at home in the US, though US voters are doubtful. But Mr.
@@ -166,7 +184,7 @@ um whether the real deterrent for um occupation of Lebanon by Israeli forces and
  Now, if >> John John sorry for interrupting you because we made a statement, you made a statement. I confirmed that that the American people don't care about what's going on in the Middle East, which we know many people care about what's going on in Palestine, >> what's going on to the Palestinian people, but you particularly are talking about those people who voted for Donald Trump.
 >> Yes. >> Yeah, that's the point. >> Yeah. Go ahead. A and even more clearly the so-called MAGA constituency wants to see um toughness on the part of the US. There's a certain degree of support for Jewish uh objectives, Israeli and Zionist objectives in the Mara constituency. Vance is trying to offset that with
 
-### US Midterms — Catholic Voters
+### Segment 8 — Iran Netanyahu Trump
 
 an appeal to the Roman Catholic voters who way outnumber Jewish voters but do not outspend Jewish voters in the support of presidential races.
 Right? So what Vance has been doing is to emphasize his Roman Catholicism. He has a book about it out. He has defended the the Pope Leo I 13th's positions on what's a moral and just war versus what's uh unlawful criminal internationally objectionable behavior and genocide is one of those though Vance hasn't gone that far yet.
@@ -181,6 +199,8 @@ I've got to prevent desertion from the Republican party and let's see how we go 
  And safe from being removed by the 25th Medical Disability Amendment. He's safe from that. So between November and the Republican party convention in 2028, uh what's Vance's fundamental strategy here? Attrition. War of attrition against Iran. He's got to reverse the attrition clock that Iran has been using against him. Keep talking endlessly. Keep talking.
 That's what he's said in Switzerland. That's what he needs now.
 
+### Segment 9 — Russia Trump Ukraine
+
 >> Yeah. John, moments ago, Russian President Vladimir Putin said Russia is ready for peace negotiations with Ukraine based on the stumble agreements. And he he added that everything the KF regime does is an attempt to gain an advantage for itself at the start. Yeah.
 of peace negotiations. The realities on the battlefield look completely different. Our units our units are moving forward every day. Let's a little bit looking at the battleground in Ukraine. What is your understanding and the position of the Russian president? >> Uh there's nothing new in what President Putin has just said.
  Um it's true that there is a slow advance westward uh on in all the five directions the five armies on the front. Uh what remains is that uh Detsk region is not fully occupied is not fully under Russian control. Uh Lugansk region more or less yes. uh Harrison and Zapparroia regions. No, significant uh areas in those regions which are legally part of the Russian Federation now are not under Russian control.
@@ -191,7 +211,7 @@ That's the most important point. So he can say one thing today and another thing
 Now in the last few hours, President Putin has authorized his spokesman Yuri Ushakov of former Russian ambassador US to say the Anchorage formula isn't working anymore. We can't rely on the United States, that means Trump, to deliver uh such a security guarantee. What's left out remains to be decided. the putin line, let's call it Usherov, Dmitri Pescov, the spokesman, uh Kir Dmitri of the special negotiator with the Americans and uh the domestic policy ministers, finance minister and the central bank governor, they all want a
 shorter war and they want uh uh improved relations with the United States and they were never in favor of the war to begin with. um the faction against that, the military services, the general staff, the defense ministry, the foreign ministry like Sergey
 
-### Close — Farewell
+### Segment 10 — Russia Ukraine Iran
 
 Lavrov represents and the intelligence services all think that the US and Europe are combining to uh make a permanent war against Russia and if the U if the Ukrainian battlefield uh can't be won decisively, they will continue on other fronts.
  So the problem with Istanbul and this is a you just pointed out that President Putin referred to Istanbul. Istanbul back in 2022 had no restrictions on drone warfare. None at all. So the problem of security for Russia in Europe becomes not only Ukraine as a platform for drone warfare and the escalation of drone warfare from the Ukraine into Russia against Crimea against the roads and railroads and bus routes and schools of the new Russian regions.

@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-12
 pub_date: 2026-06-12
 kind: cleaned-transcript
@@ -24,14 +25,23 @@ source_note: Operator-pasted transcript; host self-dates Friday 12 June 2026 int
 evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: paste-asr
-opening_trim_applied: false
 napolitano_leading_noise_trim_applied: true
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 1 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Napolitano, Hakesith/Hegseth, Carg/Kharg, hormones/Hormuz, Ta Psy/Parsi, etc.). Ideological cold open and closing Monday lineup promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 1 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Napolitano, Hakesith/Hegseth, Carg/Kharg, hormones/Hormuz, Ta Psy/Parsi, etc.). Ideological cold open and closing Monday lineup promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-07-09 (9 sections)."
 quality_note: ASR normalization pass 2026-06-15; ph-civ replacement SSOT.
 napolitano_cold_open_trim_applied: true
 napolitano_close_promo_trim_applied: true
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # INTEL Roundtable w/ Johnson & McGovern - Weekly Wrap 12-June
@@ -46,7 +56,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Trump Iran Here
 
 Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
  Today is Friday, June 12th, 2026. It's the end of the week, the end of the day. Our favorite gathering uh of guests, both of whom do double and sometimes triple duty. our wrap-up of the week's events, the intelligence community roundt becoming a very very popular uh program here. Thanks to all of you and thanks of course to my guests Larry Johnson and Ray McGovern.
@@ -58,7 +68,7 @@ points, major points of agreement. They want to make a deal and we are very will
  We were very close to a deal. I think it's close to over. Yeah. I I mean, I view it as very close to over. It's looking very good that we're going to make a deal with Iran and it's going to be a good deal. This process should go very quickly. We're going to end that war very quickly. They want to make a deal so badly.
  We think we're close to a deal and that's okay. >> We're in the final throws of what will be a very, very good deal. >> Today makes 39 times uh
 
-### Segment 2 — That He Has Said Something
+### Segment 2 — Russia Trump Strategic Petroleum Reserve
 
 that he has said something like that. >> So, how is this perceived internationally and in the intelligence community? Ray. Well, I think Larry used the right word. Bizarre. Unpredictable is an understatement.
 Um, well, the intelligence community is pretty much u not in in play here as far as I can tell. Uh, I don't know where he's getting his information. Mostly from Rubio and from the the people who are assembling to do that wonderful cage match there on his birthday on the Sunday. Lar Larry was asked to participate in the fight, but he wisely declined.
@@ -70,7 +80,7 @@ things to the to the extent they can for the nons until they're forced to do tha
  The problem is our refineries the oil refineries aren't set up to handle that. first set up for the heavy crude like what's coming out of Venezuela. Uh so the diesel that is used and consumed in the United States that comes from the heavy crude we're we're net importers of that. So we we've got this supply of light crude and instead of keeping it in the strategic petroleum reserve we've been it's been sent out to Europe and other places in a way to to manipulate the market to try to suppress prices.
  So, you know, there's going to there's going to be a big price shock from oil and GA gasoline in the United States and probably by July 4th and
 
-### Segment 3 — After So There's There's Some
+### Segment 3 — Trump Israel Iran
 
 after. So, there's there's some real strong economic headwinds facing us. >> What What is the strategic oil reserve used for? Emergencies. >> Yes. Yeah.
  It's it's that uh it's that break in case of fire uh supply. But, uh this time we've decided to to to use it all up again. It's it's it's entirely political purpose. Keep the price of GA the price of gasoline down domestically because people were getting quite upset with it. You know, the uh it was 254 before the start of the war.
@@ -81,7 +91,7 @@ after. So, there's there's some real strong economic headwinds facing us. >> Wha
  So Trump can glorify glorify himself and others and saying we're winning. We're just really close to an agreement with Iran. Nobody believes it. And those who would say, "Well, wait a sec, Mr. Trump." Well, either they have no access to Mr. Trump, or else they're too afraid to say it. Larry, if other members of the intelligence, the military, whatever you want to call them, I called it generically national security community agree with Kent, what are they supposed to do? >> Uh, well, they can again protest to their boss, which guarantees you're not
 going to get uh promoted. Uh, and at the at the very senior level, they're not going to they're not going to take that risk because they they lose out on a big fat pension. uh or they can leak to the press which is has happened in the past. Um and and that's risky now because they are u you know and it started under Barack Obama and
 
-### Segment 4 — It's Continued Under Donald Trump
+### Segment 4 — Trump Iran Israel
 
 it's continued under Donald Trump becoming very very aggressive in trying to pinpoint anybody who leaks because you know this is not this kind of leak is not exposing sources and methods. It's exposing
 stupidity uh and and and treachery and and lies. So, this is uh you know, we're we're in a we're in a real I would consider it a dangerous situation because you know, this isn't the first time you've seen the manipulation of intelligence or the suppression of intelligence, >> right? >> But, uh the the stakes on this are very high.
@@ -93,7 +103,7 @@ Uh Rey, I'm going to play a clip from Pete Hegseth and then ask you if this is a
  I mean, Israel's, you know, two words, Jonathan Pard uh that it Israel's been spying on uh the United States and and US personnel in the intelligence community and in the polit and the administrations for quite some time. And let's not forget very likely that Jeffrey Epstein as part of an intel operation was collecting blackmail material that may very well implicate Donald Trump.
  So that you know this isn't new. What actually this story I'm told was supposed to come out two or three days before it it finally was released. uh and the the heart of it is Israel was really trying to figure out what the United States was going to do with uh Pakistan that because the Pakistan was in
 
-### Segment 5 — The Lead Of Negotiating Bringing
+### Segment 5 — Israel Trump Iran
 
 the lead of negotiating bringing the United States and Iran trying to bring him together and the you know Israel was then going to do everything in his power to block it which uh you know partly I explains Trump's bizarre flip of uh you know what
 what he was saying and how he was behaving between Sunday, this last Sunday and then uh Tuesday because one minute he's talking about consiliation and telling is Israel and Iran to go to their separate corners and not to continue and then the next moment he say he's going to bomb the out of them. So uh and that's a quote that's not me embellishing.
@@ -105,7 +115,7 @@ what he was saying and how he was behaving between Sunday, this last Sunday and 
  In fact, and that's one reason why why Trump's feels so hemmed in, he can't do a thing without the Israelis knowing about it. >> Yeah. >> Larry, is Donald Trump geopolitically impotent? Um, what do you mean? So, with respect to uh influencing other >> to his ability to move and and maneuver allies and enemies. >> Yeah.
  Well, it's it's the old boy who cried wolf phenomena. You can he he has lost credibility. I I'm not sure anybody believes anything he says. that you know you you keep exaggerating or in his case confabulating saying things that are not true but claiming that they are or actually
 
-### Segment 6 — Believing They Are Uh And
+### Segment 6 — Iran Trump Nuclear Weapon
 
 believing they are. Uh and you know foreign leaders they've got to be looking at themselves and what's wrong with this guy.
  uh because um as you know as the CNN piece highlighted he's now 30 39 times oh boy we got a peace agreement ready to go and yet you know when you dig through the specifics of what Iran's position is it's impossible to believe that they are actually close to signing uh signing an agreement um and and then this gets important when you say okay uh we're not going to attack and then you attack you know the what the United States did with uh the start of this war on the 28th of February because they they were engaged in negotiations and giving off the the the the
@@ -117,7 +127,7 @@ This is big. I mean, 22 specialists examining him at Walter Reed. What's that al
 Larry, here is and Ray, here's one of the best summaries of all of this that I have seen from uh my friend, our friend and my former colleague Tucker Carlson. Chris, cut number 13. As of right now, Iran controls the street of Hormuz. It did not when this war began. Now it does. And so, what do we learn from this? Well, we learn that President Trump is not a great diplomat.
  He's overselling this. Like, it's an all you can eat buffet in Atlantic City. Oh, it's going to be the best. And so, it's tempting to kind of lay
 
-### Segment 7 — All Of The Blame At
+### Segment 7 — Trump Iran Ukraine
 
 all of the blame at Trump's feet. And on one level, it is all his fault. He decided to do this. Whatever pressures he faced, it was his decision. And he has oversold America's position in this.
  and he is in some very real way not good at this. But that would be to minimize the profound nature of this moment. What we're really learning is not simply that Trump is a spotty commander-in-chief and certainly no diplomat and obviously not a dealmaker. If you announce a deal 38 times and it doesn't materialize, you're not a dealmaker.
@@ -129,7 +139,7 @@ What we're beginning to understand, unfortunately, for the rest of us, are not j
  So Trump is between a well he's he's really in a very very difficult dilemma. He's going to BS his way out of this thing divided attention by this box this this match here on on on Sunday. And you know he's really kind of not all that well. And so we have to kind of wonder you know who's really directing this thing? Who does he turn to? And that's Rubio.
  And Rubio is sick in a different kind of way. and he's the fly in the ointment together with Pete Hex who will salute and do whatever the president >> Larry uh we learned last night uh talk about Trump being unwell
 
-### Segment 8 — And Uh Dismissive Of The
+### Segment 8 — Iran Trump Middle East
 
 and uh dismissive of the first amendment that the government is attempting to deport our friend Parsy. >> Yeah.
  uh an academic who runs a uh think tank uh a brilliant explainer uh of what Tucker Carlson was just uh talking about. Man, where are we going if somebody can be kicked out of the country? He's here legally. He's not an American citizen. Somebody has a permanent uh residence lawfully granted by a prior administration. No allegations of fraud.
@@ -141,7 +151,7 @@ and uh dismissive of the first amendment that the government is attempting to de
 treat change when Iran became attacked in such a blatant way and he speaks truth without any inhibitions now and for speaking truth he's put in the the category of somebody subverting the United States and the state department has said look anybody who supports in any way even if it's telling the truth Iran well we're going to work against him uh it it's really very sad because the midterms are coming up and one wonders why Trump and Rubio and Hegseth and all these people would do these things now. Why would they why would
 they allow the Strait of Hormuz to be blocked? Why do they want gasoline to be twice it it's I think and I think this is operative here. They have other plans for the midterms. In other words, the midterms after 250 years midterms are not going to be
 
-### Segment 9 — Midterms And That's What All
+### Closing — Russia Danger Unless
 
 midterms. And that's what all this is leading to.
  And all of us have been reigned in. I've got warnings from YouTube myself just for saying the truth. So this is the danger here. It's a it's a present danger. And unless we speak out and stay together in solidarity with people like Ta Psy and Scott Ritter, who I hope they let back into the United States when he gets back from Russia.

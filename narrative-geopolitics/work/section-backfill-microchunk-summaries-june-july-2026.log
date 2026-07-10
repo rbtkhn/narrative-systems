@@ -1,0 +1,235 @@
+RUN chunk-000.txt
+SUMMARY total=5 trimmed=1 normalized=1 unchanged=3
+RUN chunk-001.txt
+SUMMARY total=5 trimmed=0 normalized=3 unchanged=1
+RUN chunk-002.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=4
+RUN chunk-003.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=1
+RUN chunk-004.txt
+SUMMARY missing
+RUN chunk-005.txt
+SUMMARY missing
+RUN chunk-004.txt
+RUN chunk-006.txt
+SUMMARY missing
+RUN chunk-007.txt
+SUMMARY total=5 trimmed=4 normalized=0 unchanged=0
+RUN chunk-008.txt
+SUMMARY total=5 trimmed=4 normalized=0 unchanged=0
+RUN chunk-009.txt
+SUMMARY total=5 trimmed=5 normalized=0 unchanged=0
+RUN chunk-010.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=1
+RUN chunk-011.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=4
+RUN chunk-012.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=3
+RUN chunk-013.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=4
+RUN chunk-014.txt
+SUMMARY total=5 trimmed=0 normalized=4 unchanged=1
+RUN chunk-015.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-016.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-017.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=4
+RUN chunk-018.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=4
+RUN chunk-019.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-020.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=4
+RUN chunk-021.txt
+SUMMARY total=5 trimmed=0 normalized=4 unchanged=1
+RUN chunk-022.txt
+SUMMARY total=5 trimmed=0 normalized=3 unchanged=2
+RUN chunk-023.txt
+SUMMARY total=5 trimmed=0 normalized=2 unchanged=3
+RUN chunk-024.txt
+SUMMARY total=5 trimmed=0 normalized=2 unchanged=2
+RUN chunk-025.txt
+SUMMARY total=5 trimmed=0 normalized=3 unchanged=2
+RUN chunk-026.txt
+SUMMARY total=5 trimmed=0 normalized=4 unchanged=1
+RUN chunk-027.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=1
+RUN chunk-028.txt
+SUMMARY total=5 trimmed=0 normalized=3 unchanged=2
+RUN chunk-029.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-030.txt
+SUMMARY total=5 trimmed=0 normalized=4 unchanged=1
+RUN chunk-031.txt
+SUMMARY total=5 trimmed=0 normalized=5 unchanged=0
+RUN chunk-032.txt
+SUMMARY total=5 trimmed=0 normalized=5 unchanged=0
+RUN chunk-033.txt
+SUMMARY total=5 trimmed=0 normalized=3 unchanged=2
+RUN chunk-034.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-035.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-036.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-037.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-038.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-039.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=4
+RUN chunk-040.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=4
+RUN chunk-041.txt
+SUMMARY total=2 trimmed=0 normalized=0 unchanged=2
+RUN chunk-004.txt
+SUMMARY total=5 trimmed=4 normalized=0 unchanged=1
+RUN chunk-005.txt
+SUMMARY total=5 trimmed=2 normalized=2 unchanged=1
+RUN chunk-006.txt
+SUMMARY total=5 trimmed=4 normalized=0 unchanged=0
+RUN chunk-007.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=3
+RUN chunk-008.txt
+SUMMARY total=5 trimmed=0 normalized=4 unchanged=0
+RUN chunk-009.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=4
+RUN chunk-010.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=1
+RUN chunk-011.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=4
+RUN chunk-012.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=3
+RUN chunk-013.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=4
+RUN chunk-014.txt
+SUMMARY total=5 trimmed=0 normalized=4 unchanged=1
+RUN chunk-015.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-016.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-017.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=4
+RUN chunk-018.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=4
+RUN chunk-019.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-020.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=4
+RUN chunk-021.txt
+SUMMARY total=5 trimmed=0 normalized=4 unchanged=1
+RUN chunk-005.txt
+SUMMARY missing
+RUN chunk-006.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=3
+RUN chunk-022.txt
+SUMMARY total=5 trimmed=0 normalized=3 unchanged=2
+RUN chunk-007.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=3
+RUN chunk-023.txt
+SUMMARY total=5 trimmed=0 normalized=2 unchanged=3
+RUN chunk-008.txt
+SUMMARY total=5 trimmed=0 normalized=4 unchanged=0
+RUN chunk-024.txt
+SUMMARY total=5 trimmed=0 normalized=2 unchanged=2
+RUN chunk-025.txt
+SUMMARY total=5 trimmed=0 normalized=3 unchanged=2
+RUN chunk-009.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=4
+RUN chunk-010.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=1
+RUN chunk-026.txt
+SUMMARY total=5 trimmed=0 normalized=4 unchanged=1
+RUN chunk-027.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=1
+RUN chunk-011.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=4
+RUN chunk-012.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=3
+RUN chunk-028.txt
+SUMMARY total=5 trimmed=0 normalized=3 unchanged=2
+RUN chunk-013.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=4
+RUN chunk-029.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-014.txt
+SUMMARY total=5 trimmed=0 normalized=4 unchanged=1
+RUN chunk-030.txt
+SUMMARY total=5 trimmed=0 normalized=4 unchanged=1
+RUN chunk-015.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-031.txt
+SUMMARY total=5 trimmed=0 normalized=5 unchanged=0
+RUN chunk-016.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-032.txt
+SUMMARY total=5 trimmed=0 normalized=5 unchanged=0
+RUN chunk-017.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=4
+RUN chunk-033.txt
+SUMMARY total=5 trimmed=0 normalized=3 unchanged=2
+RUN chunk-018.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=4
+RUN chunk-034.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-019.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-035.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-020.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=4
+RUN chunk-036.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-021.txt
+SUMMARY total=5 trimmed=0 normalized=4 unchanged=1
+RUN chunk-037.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-022.txt
+SUMMARY total=5 trimmed=0 normalized=3 unchanged=2
+RUN chunk-038.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-023.txt
+SUMMARY total=5 trimmed=0 normalized=2 unchanged=3
+RUN chunk-039.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=4
+RUN chunk-024.txt
+SUMMARY total=5 trimmed=0 normalized=2 unchanged=2
+RUN chunk-040.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=4
+RUN chunk-041.txt
+SUMMARY total=2 trimmed=0 normalized=0 unchanged=2
+RUN chunk-025.txt
+SUMMARY total=5 trimmed=0 normalized=3 unchanged=2
+RUN chunk-026.txt
+SUMMARY total=5 trimmed=0 normalized=4 unchanged=1
+RUN chunk-027.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=1
+RUN chunk-028.txt
+SUMMARY total=5 trimmed=0 normalized=3 unchanged=2
+RUN chunk-029.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-030.txt
+SUMMARY total=5 trimmed=0 normalized=4 unchanged=1
+RUN chunk-031.txt
+SUMMARY total=5 trimmed=0 normalized=5 unchanged=0
+RUN chunk-032.txt
+SUMMARY total=5 trimmed=0 normalized=5 unchanged=0
+RUN chunk-033.txt
+SUMMARY total=5 trimmed=0 normalized=3 unchanged=2
+RUN chunk-034.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-035.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-036.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-037.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-038.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=5
+RUN chunk-039.txt
+SUMMARY total=5 trimmed=0 normalized=1 unchanged=4
+RUN chunk-040.txt
+SUMMARY total=5 trimmed=0 normalized=0 unchanged=4
+RUN chunk-041.txt
+SUMMARY total=2 trimmed=0 normalized=0 unchanged=2

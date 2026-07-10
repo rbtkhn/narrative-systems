@@ -1,4 +1,5 @@
 ---
+
 ingest_date: '2026-06-15'
 pub_date: '2026-06-14'
 kind: cleaned-transcript
@@ -29,8 +30,18 @@ opening_tier: host-tease
 transcript_wrapper_tier: paste-prefix
 normalization_state: ai_assisted_proper_noun_cleanup
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 5 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 5 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (10 sections)."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Anthony Aguilar: BREAKING: Iran SUSPENDS All Flights in Western Region – Attack on Israel Imminent
 
@@ -41,7 +52,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Israel Iran Lebanon
 
 Hi everybody. Today's Sunday, June 14, 2026 and our dear friend, our brother Anthony Aguilar is here with us. Welcome back Tony. >> Thank you. It's a pleasure to be here as always and thanks for having me on. >> Tony, I want to start with what the madness of today. What has happened? You remember last time Israel attacked Beirut in Dah again.
  Today they attacked Beirut in Dah. And the outcome the same thing. Last time they attacked they were supposed to assassinate some Hezbollah forces which failed totally failed. Today the same thing. They have failed to assassinate Hezbollah forces or commanders but they killed civilians ordinary people. Again, at least one or two killed or four of them were injured by the attack.
@@ -59,7 +70,7 @@ and from the head of Iranian National Security Council what he said that we're g
 objective just through different means like the straighter hummus. Um does does anyone think that that if the United States were to get everything it wanted regarding the straight of her or that Iran would get everything it wanted with regarding the straight of her that that would be a negotiation? No.
  the the only way one waring side gets everything it wants is if there's a a military victory that draws to complete capitulation of the other party. That hasn't happened. So there is no realism in thinking that either side is going to get everything they want. So, in each of those instances, sanctions, frozen assets, the strait of Kmus, uh even discussion of a of a nuclear program or or lack thereof, all of
 
-### Segment 2 — Those Things There's There's The
+### Segment 2 — Israel Iran Lebanon
 
 those things, there's there's the ability to discuss around the fringes to get to some type of uh uh agreement. But
 when it comes to the issue of Lebanon, not because it's it's Israel, but because it is Israel attacking Lebanon and that Israel has given every indication that they're never going to leave Lebanon unless they are forced to do so by either military force or diplomatic pressure. Diplomatic pressure, it doesn't matter where it comes from.
@@ -77,7 +88,7 @@ They did this. we cannot sit back and do nothing and we have to do something and
  It it it's a it's a shock to me that they've that they've demonstrated this much restraint thus far. Uh but um you know I think will they strike northern Israel? Yes. Is it possible that there could be some strategic targets in Tel Aviv where we could see strikes in Tel Aviv as well? Um potentially. Yeah. He said just moments ago what Donald Trump said to Wall Street Journal that he plans to soon announce that the United States has reach a deal with Iran through Tehran.
  You know by by the way
 
-### Segment 3 — Is Is Emphasized In This
+### Segment 3 — Israel Trump Lebanon
 
 is is emphasized in this uh talk with in this report of Wall Street Journal that Iran has not yet confirmed the acceptance of the agreement but Donald Trump wants to announce it. I don't know what does that mean so far but BB at we have the second phone call today with BB and again BB trying to explain what's going on what why did Israel try to attack dah and what was the meaning of that but after all Donald Trump says BB is okay in this in this report on Wall Street Journal that BB is okay with the deal between Iran and the United States
 so if he's okay with the deal. What does he need to attack dah? First question. Second question, he said today he said Israel is not going to withdraw from Lebanon which is part of the deal. Israel has to withdraw totally from Lebanon. These are huge issues for the for for the Trump administration. Do you see any sort of you know move or any sort of leverage at this particular moment that Donald Trump would be able to convince Benjamin Ednau to withdraw from Lebanon while he's attacking Lebanon today he was attacking
@@ -94,7 +105,7 @@ We're out. Whatever else happens, that's between y'all. and you know, we'll we'l
  They're they don't mean they don't want this to end. And then by Friday lunchtime, everything's good again. Oh, we're back on track. We're going to sign a deal. And then by Friday evening, uh we're going to close this thing up by Saturday. We're definitely going to sign it Sunday. And here we are Sunday and we are nowhere closer to this thing being signed than we were Thursday.
  And in fact, I would argue that based on what we've seen this morning with the with the with the strikes yet again in southern Beirut that we're now even further away from this memorandum
 
-### Segment 4 — Of Understanding Being Being Agreed
+### Segment 4 — Israel Iran Lebanon
 
 of understanding being being agreed upon and signed because now the intent of Israel to continue strikes in southern Lebanon last week is an is an indicator of okay, that's concerning.
  But they've done it again. So now they've established a clear pattern and um the United States is going to have to decide are we just going to continue into this uh escalation deescalation tit fortat war until one or other side is capitulated militarily to where there's just a total surrender which isn't going to happen. uh or are we going to pick the side of diplomacy uh and make a deal which involves having to uh put put Israel in, you know, kind of in their place.
@@ -112,7 +123,7 @@ It's just not true. So when you look at this uh where we stand now now it's goin
  So there there won't be and therefore Donald Trump's efforts should not be taken as serious or genuine. And if you, you know, between now and Friday, if we were to see some concrete evidence of things to where, um, you know, across the board for everybody in play, between now and Friday, okay, by this date and by this time, Iran must uh release or or or uh um uh uncontrol militarily aspects of the Strait of Hormuz, and we need to see some some flow of of of of cargo go without impediment.
  And the United States is going to uh release frozen funds, not through a cutout, not through a fake process, but actually genuine and official. And Israel is going to um p begin like actually leaving
 
-### Segment 5 — Lebanon Like Show Me Evidence
+### Segment 5 — Israel Iran Lebanon
 
 Lebanon. like show me evidence that Israeli forces are actually leaving. Not not not establishing a buffer zone or not just they stop shooting for a while, but they're actually leaving.
  And that's that's a first step. Let's say that happens by Tuesday. And then by Thursday, you have uh the Strait of Hormuz is free flowing. uh the the the Iranian and Omani administrative control is transparent to the rest of the world other than some uh some upkeep fees. Um more certain sanctions have been lifted uh and Iran or excuse me, Israel has completely withdrawn uh from Lebanon.
@@ -131,7 +142,7 @@ uh is breaking the deal. And if you're Iran, you say, well, an inherent and intr
 He faces prosecution and he doesn't want that. So, um what a perfect way to keep yourself out of prison. uh than than to continue war on all fronts uh or find every opportunity to start a war on a new front. Uh and if it's not if it's not Lebanon, it's going to be, you know, moving further into Syria.
  And if it's not Syria, it's going to be it's going to be attempts to to start a war with Turkey. We've already seen that. I mean, in the midst of current ongoing conflict, Israel is already signaling, at least in in in in principle,
 
-### Segment 6 — That Turkey Would Be Next
+### Segment 6 — Trump Israel Iran
 
 that Turkey would be next. There there's never an intent for Israel to end war.
  They're a terrorist state bent on chaos and war. Uh, and as long as the administration within Israel and the current um in the current powers that be are are in power, there will be no end to war and conflict. Um, and therefore with this particular conflict, with the war that we've started, you know, this was something that I think going all the way back to the 28th of February, uh, that, uh, whatever lie was sold to the administration, uh, uh, that this war would be, uh, quick, decisive, victory to Donald Trump, this war would be over. Uh, whoever believed that is an
@@ -149,7 +160,7 @@ pass in and out. So this lifting of the US blockade, okay, great. That doesn't c
 He wants to show up to the G7 summit with some type of victory in this. Um and he's not going to have it. The the truth is the truth is the agreement's not signed. The truth is the Strait of Hormuz has always been opened. It has been controlled in terms of what can go in and out but it's open. That's like saying if you have to if you have to cross the cana the US Canadian border uh and you have to show them you have to show your passport or or they decide who gets to come in and out that the border is closed. That's not true.
 There there's border control that dictates who and what can go through and when but it's not closed. So the Strait of Hormuz wasn't closed. it was it's controlled and
 
-### Segment 7 — Donald Trump Just Can't Get
+### Segment 7 — Israel Iran Trump
 
 Donald Trump just can't get over the fact that it's not controlled by him or the United States that it's controlled by Iran and that's a fact.
  So, um you know the the releasing of you know Donald Trump can proclaim to the US Navy all he wants release the the the outer uh the you know the outer cordon the the outer blockade. Okay, sure. Got it. that does not impact the actual functioning of the Strait of Hormuz until Iran is ready. And Iran's not ready.
@@ -167,7 +178,7 @@ addict with with endless funds. Um, so yeah, the military-industrial complex is 
  No. War peace in the Middle East would be horrible for the military-industrial complex. So, this is now beyond Donald Trump's authority and decision. This is beyond what Donald Trump thinks that he can control. And um as much as the um and here's the thing, here's how we could get to a a peace agreement or the the facade of peace, right? Is that if Iran chooses to do nothing, if Iran chooses to say, "Okay, all is great.
 Hormuz, we'll figure it out. Uranium, we'll
 
-### Segment 8 — Figure It Out Have Some
+### Segment 8 — Iran Lebanon Israel
 
 figure it out. Have some funds released to us. We'll figure all this out." uh the attacks in in Lebanon, they're limited. You know, we can that's not really the starting of the war. Iran could go along with this narrative. Iran could go along with this narrative and there could be this fabricated peace um and and most of the world would be none the wiser.
 How do I know that would work? Because it's exactly what we did in Gaza. We we we abandoned Palestinians again with this whole idea of a peace agreement of the bord of peace. And yet since the ceasefire which has never been, it's the ceasefire that never ceased or the ceasefire that never began in Gaza is a lie.
@@ -186,7 +197,7 @@ Is it signed? No. Now, we're talking about next Friday. Do we get to next Friday
 The Knicks already won." Like, what are you talking about? What are you talking about? But somebody tells Donald Trump, "Hey, uh, the Knicks are really popular right now." And so Donald Trump is like tonight like, "Oh, the NBA finals. Oh, I I hope the Knicks win tomorrow night." And the rest of the world is like, "The finals are over.
  The Knicks already won." But you're still going to have people that would say, "Hey,
 
-### Segment 9 — I'm Going To Watch The
+### Segment 9 — Iran Lebanon Israel
 
 I'm going to watch the Knicks Spurs game tonight." And rational people are like, "The series is over. It's already been done. It's won." Well, no. Donald Trump said that there's a game tonight, so I'm going to watch it. And they're going to even buy tickets on their Trump phone, and they show up to the game, and there's no game, and their Trump phone doesn't work, but they're still going to believe it.
  So, uh, we are we are now entering a whole new world of absurdity to where I mean, just what I would say to the American people and anyone in the world, we don't even have to reach back into the annals of ancient history. Let's just reach back to Friday. Can we just reach back to two days ago when the weekend started? Friday when this thing's over, it's signed.
@@ -203,7 +214,7 @@ River. Do not step foot or send a bullet or a bomb or even a bad look north of t
  And so if you're Iran, you're saying, "Okay, we had this deal. We were willing to give some of our leverage for this. You spat in our face and stomped all over that. So now now you're going to have to give us more. Now you're going to have to give us more. You You've shown us that you won't even give this.
  So now I trust you even less. So now you're going to have to give me this before I trust you even this much. So yeah, it's a logical step in Iran's approach to Okay. Okay. Check it out. We said
 
-### Segment 10 — Don't Do It They Did
+### Closing — Israel Iran Lebanon
 
 don't do it. They did it. We said if they did, we would strike. United States. Now you're scared this will derail the whole thing.
  Okay, that's a legitimate concern. So here's our counter offer. Our counter offer, you get two options. Pick your own adventure. We strike back and we hit hard. Or the deal is now new deal. Get out of Lebanon completely. All of it. Get out all the way right now. Get out. That's the New Deal. So the United States bargaining position in just the last 12 hours has gone has has changed yet again to a level of weakness in the position.

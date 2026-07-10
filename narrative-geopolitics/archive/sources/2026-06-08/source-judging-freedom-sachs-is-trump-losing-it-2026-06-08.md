@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 ingest_date: 2026-06-09
 pub_date: 2026-06-08
 kind: cleaned-transcript
@@ -23,11 +29,21 @@ evidence_grade: transcript-bearing
 quality_note: ASR normalization pass 2026-06-15; ph-civ replacement SSOT.
 opening_tier: host-tease
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: AI-assisted ASR repair (common + series tiers + statecraft entity pass); 22 substitutions; not human-verified verbatim; verify before quotation. Ideological cold open trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 22 substitutions; not human-verified verbatim; verify before quotation. Ideological cold open trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (8 sections)."
 napolitano_cold_open_trim_applied: true
 napolitano_leading_noise_trim_applied: true
 napolitano_close_promo_trim_applied: true
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 8
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Prof. Jeffrey Sachs: Is Trump Losing It?
@@ -39,7 +55,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Israel Trump Iran
 
 Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
  Today is Monday, June 8, 2026. Professor Jeffrey Sachs joins us now. Professor Sachs, always a pleasure, no matter what we're uh talking about. Before we um address the decision-making of Donald Trump and its outward appearances, why do you think Iran is willing to risk another phase of all-out war with the US and Israel rather than comply with Trump's more outlandish demands? >> I think uh Iran does not find uh Trump's demands credible.
@@ -49,7 +65,7 @@ square one before this whole debacle unfolded starting on February 28th. When it
  Stop the attacks in Lebanon." Of course Netanyahu's uh whole theory has been that with American backing Israel can destroy any foe. It's not true. It's very costly for the United States and um Trump was also uh correct when he said a few days ago to Netanyahu, "Everybody hates you." And uh everybody hates Israel now.
  And that's objectively true as well. So, what we may be glimpsing is the beginning of the end of Israel's impunity. I certainly hope so. I It would mean that the United States is recapturing its own foreign policy. This would be the right thing to happen. >> Well, in the past
 
-### Segment 2 — Week Uh Netanyahu Has Uh
+### Segment 2 — Trump Israel Netanyahu
 
 week uh Netanyahu has uh thumbed his nose uh at Trump, and metaphorically speaking, ratcheted up the slaughter in uh Lebanon in the Beirut suburbs.
 His principal opponent, Naftali Bennett, his former chief of staff and also a a former, albeit brief, uh prime minister has attacked him from the right >> Of course. >> even considering compliance with Trump. Where is this going? >> Well, there has been ingrained now for decades uh in Israeli impunity that they could do what they want because they control the United States.
@@ -59,7 +75,7 @@ It may still be true, although the last few days have had Trump go out of his wa
 " Well, then Trump uh was rather proud of that being reported. That was not a leak. That was a a signal. Uh then Trump said very explicitly, "I told Netanyahu not to fire back." Uh and then when they did fire back, I told them to stop. And now it is at least paused for the moment. This is not the language of somebody who is likely to join in the shooting spree.
  Although, with Trump, of course, we all know that everything is a bit unpredictable. Then, it's reported just now uh that when Trump was challenged on this, he said explicitly he doesn't call the shots, I call the shots. So, this is also very very explicit. It's not the way that uh any of
 
-### Segment 3 — This Is Normally Discussed I
+### Segment 3 — Israel Netanyahu Trump
 
 this is normally discussed. I think another fact that was quite telling is that as we discussed already uh last week the survey uh that the Pew Research uh survey uh institution carried out all over the world shows that Israel let us say its behavior
 is despised all over the world. Netanyahu is despised all over the world. So, when when Trump said you are hated and uh Israel is now hated because of you he may literally have been referring to the briefing based on the Pew data, or he may have been intuiting it, but it's factually the case.
@@ -69,7 +85,7 @@ So, in this sense, I think American politics at least is uh raising its head uh 
 >> And then there's this, which is Prime Minister Netanyahu yesterday in the Knesset, Chris, number seven. >> A Prime Minister in Israel must have one specific, essential ability. Just one single ability. And if he lacks this fundamental quality, then he simply cannot be here in this position. He needs to be able to say one word to the President of the United States, and that word is no.
 No. >> Bye-bye, Bibi. >> I guess the word no is the same in Hebrew as it is in English, or maybe he was just uh emphasizing. >> No, no, look. >> for domestic political consumption, or
 
-### Segment 4 — Does He Believe That He
+### Segment 4 — Israel Lebanon Palestine
 
 does he believe that he can say no to the President of the United States, notwithstanding the consequences? >> He's on his way out.
 I Of course, he can't say no in some fundamental way. Let him try. It would just uh absolutely catapult the current debacle into a catastrophe for Israel. Uh but he is an unpopular figure at home. He is despised here in the United States. He's despised around the world. Uh he has a warrant for his arrest from the International Criminal Court.
@@ -79,7 +95,7 @@ And the question is how many people are killed beforehand. >> Oh. >> Things chan
  It can demand to control parts of Lebanon. It can demand to overthrow the governments in the region. And for a long time, it got away with that. But, it has been a failed venture. It has led to this worldwide uh profound profound uh disapproval of what Israel's doing. It's weighing heavily on American politics.
  And Trump is clearly feeling the domestic politics as well as the sub- Maybe he's feeling the substance of it, but at least he's feeling the domestic politics of it. He's got an election coming up. So, he's the one that's
 
-### Segment 5 — Saying That He Can Say
+### Segment 5 — Israel American Trump
 
 saying that he can say no to the Israeli prime minister. And this is something that American president should have done a long time ago.
 If Trump carries through on this, he's right. Let's see. >> Over the weekend, several former former Shin Bet, the Israeli domestic surveillance/law enforcement FBI/NSA type organization, uh warned of coming political violence in Israel. >> Oh, by the way, one other thing just about these groups that we should touch on.
@@ -90,7 +106,7 @@ Now, that means they're spying on Trump himself because he talks to them. >> Of 
 And that's true of just about every country of the world. And that's what's changing our politics right now. That yes, of course, terrible things are done without the American people approving them or knowing them. But usually when there's strong public opposition with a lag there is somehow a change of the American politics.
  The Vietnam wars the classic example in my lifetime of a horrible war that gradually was shut down on the US side because the public was just exhausted by this horrible mistake over many many years. And I think the
 
-### Segment 6 — Same Is Happening With Israel
+### Segment 6 — Israel Palestinian Netanyahu
 
 same is happening with Israel now. And I said it by the way to the Israeli media the first days after the October 7th, 2023 attack by Hamas and then Israel launching this murderous assault on Gaza.
 Watch out. This could be suicidal what you're doing. And I'm sorry to say that word and it leads into your other question. You get too far ahead of yourselves with this arrogance, with the impudence, with the violence, with the vulgarity, with the criminality. It really can come back to haunt you very very badly.
@@ -101,7 +117,7 @@ Watch out. This could be suicidal what you're doing. And I'm sorry to say that w
  And the mindset is absolutely extremist. And it has been given full vent by real fascists in this government, Smotrich and Ben-Gvir at the top, even more than Netanyahu. And so, it's it will stop. Actually, the world will stop this. Maybe Donald Trump will stop this because the American people are totally, completely disgusted by this.
  And when Trump says no, it's actually going to be no. But then, the question that you asked, what kind of
 
-### Segment 7 — Reaction Could Occur In Israel
+### Segment 7 — Israel Palestinian Netanyahu
 
 reaction could occur in Israel? Could it be violence internally? Absolutely. These people are armed. Uh there are a lot of zealots around. Who knows what will happen in the in the shorter term. I hope that it doesn't go to the point where Israel destroys its own society.
  This is the risk that I've seen all along. What I hope is that reality sets in and that some people are able to stand up and survive in that context and say, "You have to stop the wars. You have to go back to your borders, which are the 4th of June 1967. There's going to be a state of Palestine next door because there are as many Palestinian Arabs as there are Israeli Jews, 8 million of each.
@@ -111,7 +127,7 @@ reaction could occur in Israel? Could it be violence internally? Absolutely. The
 You play right into their hands with this crap. You know that these elections are rigged. Your network knows that they're rigged. You know that I won an election in a landslide and I got 94% bad press. >> But Mr. President, you never presented >> that? Because you have no credibility. >> But you've never presented evidence that it was rigged.
  Let's keep talking about I want to
 
-### Segment 8 — Talk About Todd You Have
+### Closing — American Iran Talk
 
 talk about Todd >> You have more evidence. There's more evidence than ever presented. >> Let's talk about >> in this country were like a third world country. Your elections are crooked and you're crooked and Meet the Press is crooked and so is ABC and CBS and CNN. >> But Mr. President, >> You're one-sided crooked network.
  So, let's call it quits cuz I've had enough. Thank you, darling. Have a good time. >> Mr. President, let's please I traveled all the way to Wisconsin. >> I've sat in the rain with you. >> I know. I traveled all the way to Wisconsin >> on and off in the rain and I've given you enough time.

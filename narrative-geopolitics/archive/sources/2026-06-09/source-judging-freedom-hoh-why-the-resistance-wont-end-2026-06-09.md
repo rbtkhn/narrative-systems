@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-09
 pub_date: 2026-06-09
 kind: cleaned-transcript
@@ -28,9 +29,19 @@ evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: clean
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 12 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 12 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (9 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # CPT. Matt Hoh : Why the Resistance Won't End
 
@@ -41,10 +52,12 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Israel Iran Ceasefire
 
 Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
  Today is Tuesday, June 9th, 2026. Matt Ho will be with us on why the resistance won't end.
+
+### Segment 2 — Israel Before Few
 
 >> Matt Ho, welcome here, my dear friend. Uh before we get to why the resistance won't end and before I ask you a few questions about Israel uh because this issue is uh important to you and because you are a veteran of the military, I want to play a little bit of what Congressman Thomas Massie said on the floor of the House of Representatives yesterday, which was the anniversary of the Israeli attack on the USS Liberty.
  Chris, >> they launched four torpedoes. One of them hit the hall of the USS Liberty and killed 25 people instantly. It blew a 40 foot by 40 foot hole in the side of this ship. They were intent on sinking it, but they were also intent on not having a single survivor. According to eyewitness accounts, the Israelis machine gunned the lifeboats that they put down.
@@ -55,7 +68,7 @@ Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
 So, this uh this continues to sting and to hurt, I'm sure, all uh veterans. And of course, Congressman Massie speech went on and on and on. There's even a part in there about uh LBJ himself getting on the phone and speaking to the captain of one of the ships who couldn't believe that McNamera was telling him not to rescue their fellow soldiers.
 Your thoughts on this? >> Right. Right. I mean, LBJ supposedly said, uh, I don't want to turn your planes around to the admiral in command of the Mediterranean fleet. I don't want
 
-### Segment 2 — To Embarrass An Ally Uh
+### Segment 3 — Iran Israel Ceasefire
 
 to embarrass an ally. Uh, you know, I I spent 10 years in a Marine Corps judge. I never heard one thing ever about the Liberty.
  Uh, there were three Marines aboard the Liberty along with the sailors. Uh, two were killed. Uh, Staff Sergeant Bryce Lockwood survived. He received a silver star for his actions. He saved lives that day. Uh but if you read Bryce's, you know, Stfarn Lockwood's Silver Star citation, there is no mention of Israel in it. It's an unnamed enemy attacked the ship.
@@ -66,7 +79,7 @@ Marines and sailors. >> Wow. Uh, moving over to um Iran and before I ask you abo
  And that's what Iran is doing. Iran has been winning this war, and they continue to win it. And now, I don't know if you saw the breaking news in the last hour, President Trump put out a true social message saying that the Iranians had shot down an Apache helicopter over the streets of Hammuz. Uh the pilots uh you know, fortunately are okay.
  But uh you know, the willingness of the Iranians to dictate not just the terms of a potential deal, but the terms of a ceasefire. uh you know this is not this is not the rules that the Americans believe should the Iranians should be playing by. Uh, you know, this is the American way of war for decades, a fantasy. Uh, fighting down, beating down on local resistances, local insurgencies, uh, having an upper hand in terms of just being able to dominate uh, the air to dominate the
 
-### Segment 3 — Electromatic Spectrum Etc
+### Segment 4 — Iran Ceasefire Israel
 
 electromatic spectrum, etc.
 , etc., and now up against a country that prepared for a war. Actually, up against a country, I should say. Uh, first time the United States has done that in what, 50 some odd years. Uh the United States is finding that the Iranians aren't playing by the rules as the Americans would like them to. So when the Americans engage in military action during this quote ceasefire unquote, the Iranians don't respond the way they're supposed to.
@@ -78,7 +91,7 @@ electromatic spectrum, etc.
  You know, I mean, you read that and you see a man who has to respond because it's just just a political reality. I can't allow a helicopter to get shot down and not respond. So, what we'll probably see from the Americans is a proportionate response. They'll probably bomb uh the Navy base that where they they'll tie it in somehow to this helicopter getting shot down and it'll be a proportionate response as opposed to anything that would require the Iranians or would allow the Iranians or prompt the Iranians to respond with some type of of
 heavier retaliation. Uh the Americans here trying to manage the Iranian actions and this is what we saw
 
-### Segment 4 — Hap We Saw Occur During
+### Segment 5 — Iran Ceasefire Netanyahu
 
 hap we saw occur during the fiveweek air campaign. The Iranians dominated uh the war. Uh they seized the initiative of the war within the first few days. They controlled that initiative. They controlled the tempo.
  They effectively set the rules for the war. Uh if you attack the these infrastructure, we will respond in kind. By the end of the war, they were said by the end of the campaign they were saying, uh if you attack our infrastructure, we'll retaliate four times greater than how you attacked us. I mean, setting the initiative, setting the tempo, setting the rules, controlling the initiative, and we've seen that in the ceasefire as well.
@@ -89,7 +102,7 @@ Lebanon as uh the provocation to restart the war with Iran. Uh so Donald Trump h
  He didn't spell it, but that must have been what he meant. With a deal possible in two or three days. He's been saying a deal is coming in two or three days since April. that >> judge. I heard this morning he has said it 37 times. >> Wow. >> I mean that's every other day essentially. Right. >> I'm going to play a Yes. Right.
  I'm going to play a clip from Prime Minister Netanyahu in the Knesset on Sunday night and then I'm going to ask you if
 
-### Segment 5 — Netanyahu Can Defy Trump And
+### Segment 6 — Israel Trump Netanyahu
 
 Netanyahu can defy Trump and if Trump can defy Netanyahu. Watch this. Number seven, Chris. A prime minister in Israel must have one specific essential ability, just one single ability. And if he lacks this fundamental quality, then he simply cannot be here in this position.
 He needs to be able to say one word to the president of the United States, and that word is no. >> No. >> Can he say no to Donald Trump? Can Donald Trump say no to him? or is this going to produce a treatise like John Schneider's book? It >> I'll say this, this is all our our fault, America's fault here.
@@ -100,7 +113,7 @@ threat to the United States. Um, and you could see uh just uh American members o
  you know, it's only, you know, America's greatest ally in their opinion and in their proclamations, spying uh continuously on the United States, putting bugs in our Secret Service vehicles, just I can just tell you from experience that uh you know, when I go back 20 some odd years, every counter intelligence brief I received uh you know would have been like say when 2002 and 2005, 2008, 2009, you know, in Washington DC when I would receive those briefings, they always listed Israel as a top intelligence threat. They would list the Israelis and
 the Chinese and maybe one or two others, but the Israelis were always 20 years ago a top intelligence threat to the United
 
-### Segment 6 — States And So Here You
+### Segment 7 — Israel Lebanon Syria
 
 States. And so here you have America's greatest ally uh spying on the United States and you have American members of Congress who are scared to death to even acknowledge that they have heard about it, let alone do anything.
 So answer the question there. Yeah, >> in discussing this yesterday, this very same story with Jeff Saxs, he's of the view, I think you'll agree that the news is not that Israel is doing that because we all knew it. The news is that the New York Times published it because somebody in the intelligence community had had enough and wanted it out there.
@@ -111,7 +124,7 @@ of that attack this story comes out in the New York Times I mean you just see de
 >> Why will the resistance to Israel not end? Uh because when you deconstruct this judge, when you when you when you put down on paper what this is about and you chase trace back on a timeline, it just simply comes back to occupation. It simply comes back to this idea that the Israelis uh you know beginning uh you know more than 100 years ago but but but mostly in the 1940s uh you know following uh the establishment of Israel the Israeli state uh stole people's land.
  They took people's homes and the same was then done done in Lebanon. The same was done done in parts of Syria. The same was done uh in the Sinai to
 
-### Segment 7 — The Egyptians The Same Was
+### Segment 8 — Middle East Palestinian Israel
 
 the Egyptians. The same was was done to Jordanians. Uh you know I mean the Palestinians in 1948 lost 500 villages and 750,000 people were forcibly uh evicted from their homes. Uh it's called the Nagba, the catastrophe.
  uh I mean so what you have then is that is a a position uh this this idea of resistance to occupation that also understands that this is all basically under a larger imperial project a larger domination of the Middle East by the United States before that it was the Brits and the French but now it's the United States following World War II and so until you get back to that very basic core core fundamental reason for why people are fighting the Israelis, why people are fighting the Americans, you will never have any resolution until you
@@ -122,7 +135,7 @@ acknowledge that yes, this is about uh foreign powers uh taking people's homes, 
  uh that these wars that are carrying on right now in the Middle East are the same wars as the wars in Syria and Yemen and Libya and those were the same wars as Iraq and Afghanistan and Iraq and Afghanistan was the same were the same wars as Vietnam and so on and so forth that we are part of this continuous line of history and that the United States is an empire and this is what empires do and for reasons of identity, people not wanting to be a part of something like that.
  Because of the way our education system works, because of the propaganda that our Hollywood and our news media pump out continuously, people can live in a bubble. They can have a narrative where they
 
-### Segment 8 — Believe That They Have They
+### Closing — Part Mean Too
 
 believe that they have they are part of the team that have the white hats on. Uh you know, I mean, and there are many many other reasons too, but you know, a lot of it is just fear of being ostracized, fear of being outside of the group.
  Again, the golden handcuffs are a huge part of it, but also too, this is your career. This is your identity. And now you're going to leave that. Uh, and then you see what happens to people that do speak out, people who do blow the whistle. I mean, Joe Kent is, unless things have changed, is under the threat of investigation and lawsuits and trial and all those sorts of things because he spoke out.

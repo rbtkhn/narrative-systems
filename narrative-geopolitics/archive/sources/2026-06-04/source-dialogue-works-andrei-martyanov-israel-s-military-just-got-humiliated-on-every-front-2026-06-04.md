@@ -1,4 +1,6 @@
 ---
+
+
 ingest_date: 2026-06-04
 pub_date: 2026-06-04
 transcript_type: ai_assisted_operator_pasted_youtube_transcript
@@ -18,9 +20,19 @@ source_note: "Cleaned transcript pasted by operator. · ASR pass 2026-06-15."
 dialogue_works_close_substack_trim_applied: true
 opening_tier: host-tease
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 7 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Routine closing Substack/link promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 7 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Routine closing Substack/link promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-07-09 (10 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Andrei Martyanov: Israel's Military JUST Got HUMILIATED on EVERY Front
 
@@ -33,7 +45,7 @@ transcript_curation: curated_sectioned
 
 ## Cleaned Transcript
 
-### Show Open — Introduction
+### Show Open — Europe Russia Nuclear Power
 
 Hi everybody. Today's Thursday, June 4th, 2026 and our dear friend Andre Martyanov, our brother is here with us. Welcome back, Andre. >> My pleasure. >> Andre, I want to start with what's going on in Russia because we have this sort of chaos. It the war in the Middle East, the war in Ukraine, but what's going on is so important.
  what's going on right now in St. Petersburg which is the alternative to what the west has created for such a long time and right now the shift from the west to the east and you see and all of these countries global south are there and they're talking to each other what is the importance of what's going on in St.
@@ -48,7 +60,7 @@ There might be contacts but again these are not negotiations. There's nothing to
  I mean look at who uh those people in Washington are. Will you sit at the same table with Rubio? I mean, no respectable uh diplomat will do it, you know. So, and let alone with this shyers from New York real estate mafia like Kushner and what what have you both probably Mossad agents together with whatever is president who is definitely not in his own mind.
  So yeah, what's what's to talk about with who? There are no competent people. There are no people who understand there essentially tragedy which unfolding in the United States. And so yeah, there's nothing to talk about and you do not talk to side which is weak militarily. You one of
 
-### Segment 2 — The Main Things Which They're
+### Segment 2 — Iran Trump Ukraine
 
 the main things which they're trying to cover up how weak how what a paper tiger military United States is.
 And so that's it. Andre, the reason I asked that because Donald Trump started the war against Iran while he was, you remember, he said he's going to put an end to the war in Ukraine 24 hours. >> Yeah, sure. >> He didn't do anything. He didn't do anything. He was providing Ukraine with weapons. He was selling.
@@ -63,7 +75,7 @@ talking to prime minister of Pakistan president of Pakistan I mean on the open l
 Trump. He's playing with those uh again it's a circus. It's it's embarrassment. He humiliates himself. He humiliates the United States. United States military has been humiliated already so much that it nobody takes it seriously other than you know what killing civilians. That's what they're good at primarily.
  So and uh when you look at this Iran clearly won the war. So now what we again what is happening is pretty much what is happening the same way in um special military operation
 
-### Segment 3 — Which Are By Two Events
+### Segment 3 — Iran Pentagon Netanyahu
 
 which are by two events are actually interconnected is that uh because uh it is now the arrangement phase that's what many people do not understand Iran already won militarily this war they uh not only endured they actually empowered the country after it's like you know this famous moment I love it in the fifth element when the spaceship shoots at
 this you know uh evil planet and instead of you know what destroying it it just grows and grows and grow. This is exactly but this time Iran obviously not evil. Iran represents a uh and is supported by overwhelming majority of people in the world and so um what can I say uh they are not good in Washington DC period in any sense militarily, politically, diplomatically, economically so and as a result we have this uh situation with the child president you know who now absolutely dependent on the and beholden to Israel
@@ -79,7 +91,7 @@ case. And so, uh, they have to redesign United States military otherwise it will
  Not that the Pentagon generals are much more competent, but the point is United States have to review completely its defensive doctrine because it's either stops being the expeditionary power because that's the only thing it is. It's imperial power. Period. It designed to put down uprisings by the third rate powers. Okay? To fight real war, it cannot do.
 It never could. it the only bright spot was
 
-### Segment 4 — Obviously When The World War
+### Segment 4 — Russia Rare Earth Trump
 
 obviously when the World War II which United States deservedly so you know got some credit for it but it would have been completely different if there would have been no Soviet Union and the Red Army there you go so Pacific campaign absolutely US Navy you know what covered itself you know the ba in glory and rightly so you know but even there so what can I say that's a very serious strategic issue which needs to be discussed and it's going to be long discussion but is uh for example uh
 Pentagon ready to talk about it no it's all about money it was always about money bottom line and you know what uh comfortable warm senior cures in the on the boards of the uh those you know returns and all kinds of other things which of course what are dealing primarily with the shareholders they need to provide bottom line they need to provide dividends to shareholders how good those weapons are not good.
@@ -94,7 +106,7 @@ involved in this. So United States in this case makes the right step objectively
  uh you will need several years on some positions you will need many years like five six years others two three years at least and what it gets you it doesn't get you any kind of the technological advantage because basically these are legacy systems well yeah they can stick the longer uh basically longer range uh PRSM whatever the name of this thingy it can fly longer but there is no it's All legacy system including the tomahawks including jasums these are all all systems designed for the war completely different war against the
 countries which do not have first they don't have air defense and they cannot respond I mean this is not the case and as was demonstrated by Russia somebody was really in the right place at the
 
-### Segment 5 — Right Time When They Showed
+### Segment 5 — Russia Israel Iran
 
 right time when they showed what what happens when zircon arise hyper real hyper sonic weapons arrive.
  Uh there is no comparison you know. So and uh these technologies actually will be uh propagating the uh the proliferate within the uh military cluster of the those countries in the uh what is called you know Eurasian land mass. So and if United States thinks that it can change something by having oh 3,000 tomahawks I have a bridge to sell you.
@@ -111,7 +123,7 @@ How many missiles? air defense missiles of already I mean crappy air defense com
  not understanding that United States simply has no resources period to do anything about it. And we're talking about not only industrial resources, military resources, military industrial resources, operational resources. What they thought that they can fly 15 without uh Yeah. I mean, people laugh openly at this, you know what uh wrong creative pilot who shot down.
  It's just who who believes that? I mean, it's unbelievable. Andre, what is your understanding of what is going on between Hezbollah and Israel? Because the Israeli ambassador to the UN came out and said he was simply crying out saying that these drones are hitting us. They're so precise. They get to the
 
-### Segment 6 — Target So We Don't Have
+### Segment 6 — Israel Hezbollah Lebanon
 
 target. >> So, we don't have the solution.
  You know, the way you remember when they were attacking Gaza, they were destroying everything. And right now they're crying about these drones while they're attacking Lebanon in the southern part of they destroyed many villages cities in the southern part of Lebanon. So what has happened then Israel because of this sort of desperation they cannot you know they have no solution for the drones and even rockets are getting to the northern part of Israel.
@@ -126,7 +138,7 @@ toe-to-toe, you know, exchanging blows, they're not good. And their v visuals wh
 " He's he's a war criminal. They are war criminal. The Israeli government is war criminal government. It's the we are looking at the Jewish Nazism, Jewish fascism and that's what they are doing. They are ethnically cleansing and actually genociding people. So there you go. Israel has no right to remain the country because it is essentially uh well Nazi Germany of the equivalent of Nazi Germany in the Middle East.
  That's who they are. So that was the plan. Then Israel all of a sudden announced that we're going to hit Dah. You have to leave. You have to evacuate this city. Many people you a lot of people living in that city Dah in the southern part of Beirut.
 
-### Segment 7 — So Then Iran Came In
+### Segment 7 — Israel Trump Nuclear Weapons
 
 So then Iran came in and said if you attack Da we're going to hit the same way the northern part of Israel.
  You have to evacuate. Then that phone then we had that phone call that you've mentioned between Benjamin Net and Donald Trump. So it seems that Donald Trump is in a situation that he has no solution for that and there is no way out for him. >> It never was. >> Yeah. uh you had this little country small country which controls the United States and through the all kinds of the institutions such as Apac or the bunch of the 57 million so-called Christian they are not Christian they have nothing to do with the Christianity there's
@@ -142,7 +154,7 @@ This is that's Mr. Trump. So there you go. And the other problem is that in Beno
 >> Yeah. This is tragic for GCC countries and the leadership is so much detached from the reality of what's going on in >> well I mean that's how they lived for thousand years and they will continue to live this the Arab street matters only in so far as uh those elites uh so-called which are totally corrupted by the United States and Israel remain in power they are fine you know they don't care about their you know people they don't care the Arabs live that dirt poor and so the only thing they were able to is to you know uh basically uh create
 this uh Disneyland in uh let's say uh which is plastic shopping mall in Dubai and United Arab Emirates or in Saudi Arabia you know like building those buildings which are most of them are actually and so um yeah this is what they do the rest of it well yeah
 
-### Segment 8 — They Use Slave Labor They
+### Segment 8 — Israel Pentagon Europe
 
 they use slave labor they fine with this. The only you know the dream of those people there is to get some f find fine job in some bank uh you know branch and do nothing the whole day and earn money.
 This is that's what it is and it cannot be changed because you need to have thousands of years of the reconditioning if you wish. you cannot recondition them. And so in this case, yeah, Israelis understood it very correctly because obviously in many respects those uh especially European Jews, they haven't been Israeli Jews.
@@ -158,7 +170,7 @@ It is Israel 2.0. United States doesn't have Congress it has Knessa 2.0ed zero. 
  So in this case it's nothing new. It's not really big deal in the sense that it already have been happening for decades. Now we just simply say somebody comes out and says okay let's not play this kabuki theater let's call it what it is you know and it has been for many years there you go and again as I already stated I am on record that essentially it has been happening for many years and uh another matter that obviously so what's going to happen okay they will give another F-35s they might give them some other C uh C4 ISR systems they can
 uh it's nothing really. So it's that's the way it was. Again, look at the Israeli uh defense force IDF. How much of truly Israeli high-end weaponry does have there most of it is American. Uh or for example in naval sense it's German built or France built you know. So from the uh submarines to surface uh fleet whatever they have uh many
 
-### Segment 9 — People Forget How They Stole
+### Segment 9 — Israel Turkey Nuclear Weapons
 
 people forget how they stole essentially uh basically the uh missile boats in 1970s from France.
  So yeah, it's just >> so the military-industrial complex of Israel basically is producing tanks, >> systems, surveillance systems, something like that. >> Yeah, they produce armor, they produce small weapons, much of it based on the Soviet weapons. And so they produce all kinds of mines, they produce some of the electronics, obviously.
@@ -174,7 +186,7 @@ essentially conditions we saw many times Iranian air defense tracks it passively
 people and you can basically you can sometimes get them by flattery outright flattery they will buy they love it that's why for example um United States is now uh in essentially is reminiscent very much in they love flattery one of the reasons being there are so many neocons in uh American government and so uh that's the reality and American boys and girls will die for Israel and they will continue will continue dying.
 >> How long does it take, Andre, for the United States to put Israel the way it was before the war started? Is
 
-### Segment 10 — It Possible To Put Israel
+### Segment 10 — Israel Ukraine Trump
 
 it possible to put Israel the way it was? Because we had Robert Kagan in his recent interview just yesterday. He said that Israel before this war started, Israel were was dominant in the region. They had each and every leverage.
  Iran was collapsing right now because of what has happened so far with this Strait of Hormuz. Israel is just has been weakened and they're going to be know it's a disaster for Israel but we understand how these guys are exaggerating some >> yeah Kagan is uh yeah he is one of the ideologues of American decline his neon he's also his family his wifey this uh psycho beach you know Victoria Nuland she was one of the main drivers behind the well United States accumulation in uh Ukraine and special military operation now they are hiding it. So

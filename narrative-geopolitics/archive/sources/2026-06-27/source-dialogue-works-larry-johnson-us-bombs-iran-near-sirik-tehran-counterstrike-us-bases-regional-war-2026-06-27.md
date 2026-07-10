@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-28
 pub_date: 2026-06-27
 kind: cleaned-transcript
@@ -30,10 +31,20 @@ opening_tier: host-tease
 capture_note: Operator paste; full interview body preserved from user-supplied YouTube transcript.
 transcript_wrapper_tier: clean
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "Manual ASR spot-fix 2026-06-28 (23 substitution groups); AI-assisted source-clean · not human-verified verbatim; verify before quotation. · source-section pass 2026-06-28 (14 sections). · source-section pass 2026-06-28 (24 sections). · source-section pass 2026-06-28 (23 sections). · source-section pass 2026-06-28 (25 sections). · interview speaker-label pass 2026-06-28 (143 turns; Nima/Larry >> markers) · paragraph reflow pass 2026-06-28. · source-section re-section pass 2026-06-28 (25 sections; §10 MOU sliver merged §9; §21 tanker block split incl. Europe/NATO)"
+editorial_note: "Manual ASR spot-fix 2026-06-28 (23 substitution groups); AI-assisted source-clean · not human-verified verbatim; verify before quotation. · interview speaker-label pass 2026-06-28 (143 turns; Nima/Larry >> markers) · paragraph reflow pass 2026-06-28. · source-section re-section pass 2026-06-28 (25 sections; §10 MOU sliver merged §9; §21 tanker block split incl. Europe/NATO)"
 quality_note: "ASR normalization pass 2026-06-28; ph-civ replacement SSOT."
 manual_asr_spot_fix: "2026-06-28 — Sirik; CENTCOM; Al Udeid; Ben Gurion; Bandar Lengeh; Nabatieh; Muwaffaq Salti; MOU/uhou; Marandi (prior pass); tentative: Pezeshkian; David Pyne; Suleiman"
-transcript_curation: curated_sectioned
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: preserved_unsectioned
+section_count: 0
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Larry Johnson: U.S. Bombs Iran Near Sirik – Tehran's Counterstrike on US Bases Trigger Regional War
 
@@ -43,15 +54,11 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Sirik Strikes And Hormuz Context
-
 **Nima Alkhorshid:** Hi everybody. Today is Saturday, June 27, 2026, and our dear friend Larry Johnson is here with us to discuss what's going on right now in the Middle East. The war is happening last night on tonight again on Iranian soil. The same area, by the way, is the Sirik area.
 
 And right now from the latest news it shows it shows that the yeah Tahui village in the telecommunication telecommunications towers were attacked were hit by the American air strike and we had it last night we had it right now we we're having it and CENTCOM just mentioned that it it's this is a response to what Iran did today attacking one of these commercial ships in the Strait of Hormuz. And I talked with Marandi today about last night. He said two radars were hit. Those two radars were not that much significant. Somehow Iran was
 
 **Larry Johnson:** Yeah.
-
-### Military Theater — Last Night Vs Tonight Escalation
 
 **Larry Johnson:** I mean, let's just last night's attacks were what I call military political theater. They nothing strategic was hit by either side. Uh it was sort of a you know the United the United States going through uh a routine to show the American people see how tough we're being but in reality it it was a nothing burger which is I think why Iran didn't really retaliate hard after that but um so I mean it was initially pumped up you know in the United States all the press major strike oh we're you Oh my god, we're kicking their ass kind of stuff.
 
@@ -63,13 +70,9 @@ Have a nice day.
 
 **Larry Johnson:** and last time last night we had some reports about land but later on we've learned that nothing was hit in the island last night but tonight it seems that they hit some targets in the island.
 
-### Bahrain Trigger — Fifth Fleet And Aviation Fuel
-
 **Larry Johnson:** Well, you know, the US is not responding um because of the ship. It's responding because of what Iran did on Bahrain. I'm told that they really hit Bahrain, the fifth the former fifth fleet headquarters real hard. That's what I think that's why the US is reacting. And you know, I anticipate Iran's going to react to that reaction.
 
 And so this is this is going to escalate. uh the if if the information I've received from my uh new friend in the uh energy business is accurate, then if if Iran is Iran may be push inciting this a little bit in order to draw the United States in force it to use more civil aviation fuel because that's going to create a shortage and the United States is going to run short. uh they will not they won't uh cause the military to be sacrifi you know to go short so they'll sacrifice civilian aviation which is then going to have negative effect on the economy and you know so Iran gets to do damage to the US economy in an indirect way
-
-### No Hotline — IRGC Confirmed Escalation By Monday
 
 **Nima Alkhorshid:** the communication line that JD Vance was talking about it there is no communication Larry there is no direct communication that that they call it a hotline of communications behind between Iran and the United that doesn't exist.
 
@@ -78,8 +81,6 @@ It was confirmed by IRGC. That's why you see these sort of attacks happening and
 **Larry Johnson:** Uh yeah. Yeah. No, I think it's I think it's going to escalate u you know so we'll we'll see where it goes by Monday.
 
 **Nima Alkhorshid:** Yeah. Who's giving them the basis for, you know, to attack Iran? Are they Are these fighters just coming from Jordan? Coming from Israel, coming from I don't know.
-
-### Strike Origins — Jordan Kuwait Bahrain And UAE Logic
 
 **Larry Johnson:** I I think I think they're probably coming out of Al Udeid — no, not Al Udeid — out of Jordan would be my guess. Possibly Saudi Arabia, but I doubt that. It could be United Arab Emirates. I we just I don't know. uh Iran's going to know and we'll know by Iran's reaction where they came from.
 
@@ -96,8 +97,6 @@ It was confirmed by IRGC. That's why you see these sort of attacks happening and
 
 **Nima Alkhorshid:** Yeah. But again, all I'm saying is it depends on where the planes were launched from. If they're launched from the UAE, then you're going to see Iran hit the the UAE.
 
-### Rubio GCC — UKMTO Routes And MOU Terms
-
 **Nima Alkhorshid:** The whole I think it's it's the outcome of the Marco Rubio's visit to the to the west to to Middle East. He came and he tried to manipulate the region and he put pressure on Omani government.
  Then Omani you saw that report on the part of Omani government. They say oh maybe they can pass through the Strait of Hormuz without having any sort of difficulties and they were trying to use it. Today, two of the tankers were forced by RGC to use the designated routes and not
 
@@ -108,11 +107,7 @@ you can travel this route. So that's this this is the Brits trying to further in
 
 **Nima Alkhorshid:** Yeah. The problem Larry is again is they're not respecting part of the MOU was the Strait of Hormuz and it said that during the first 30 days they have to define a new mechanism for the straight of which in fact Iran and Oman are doing that.
 
-### US Breaking MOU — Trump GCC Condemnation
-
 **Larry Johnson:** Look they stopped the the United States has been breaking the MOU almost every day. uh the the insults by hurled by Trump, the trip of Marco Rubio to meet with the GCC and then the condemnation of Iran that came out of that. All of that is in contra in, you know, counter to the MOU and that's why the United States is doing it. Just basically saying, you know, screw you. You can't tell us what to do. Okay, maybe not. But there there's a price to be paid for that then and we're starting to see what that price is.
-
-### Lebanon Complicates — MOU First Clause Violation
 
 **Nima Alkhorshid:** I don't know if Larry the case of Lebanon is complicating the whole thing. What has happened in Lebanon again is a total you know violation of MOU and the United States is cooperating on on one side saying signing with Iranians then going bringing the government in Lebanon together with Israelis to sign an agreement which is in total totally different from what was mentioned in the
 MOU in the first clause of the MOU.
@@ -121,8 +116,6 @@ MOU in the first clause of the MOU.
  They're not respecting anything. Well,
 
 **Nima Alkhorshid:** did did he did he issue a statement to that effect? Yeah, the assembly of expert. Yeah, they have issued it.
-
-### Assembly Of Experts — 62 Of 86 And MOU Breakdown
 
 **Larry Johnson:** Well, the assembly the assembly of experts issued that, right?
 
@@ -142,8 +135,6 @@ Basically they're talking about it seems that there is a communication between t
 
 **Nima Alkhorshid:** Yeah. So, you know, it looks like the MOU is going to break down. Now, I think Iran Iran will be able to continue to do okay. Uh but remember one of the other countries that's pressing for the MOU and wants to see it implemented is China because China you know I think China's worried about some of the uh economic uh impacts upon its its country if uh this this thing continues.
 
-### Hormuz Toll Debate — Sanctions Skepticism
-
 **Nima Alkhorshid:** Yeah. You see the flag of Hezbollah in the crowd and they're just waving the flag of Hezbollah.
  I think it's so the red lines Larry so far to my understanding on the part of the supreme leader of Iran. One of them is the negotiations with the United States considering this Strait of Hormuz. He said there is no way to back down on the Strait of Hormuz. Even what is the discussions right now in Iran? They're talking about the toll system.
  You know they say why do we need a some sort of fee system because we're not part of the international waters that association that organization we are not a signature to that international law and international waters. So why do we need to abide by those laws?
@@ -151,15 +142,11 @@ Basically they're talking about it seems that there is a communication between t
 **Larry Johnson:** Well they don't I mean you're not you're not a signatory.
  So that's why Iran doesn't neither is the United States. So the United States can't holler that you're breaking a law that the United States doesn't even recognize. I mean that's that's absurd.
 
-### Ben Gurion Puzzle — Tehran Inflation Split
-
 **Nima Alkhorshid:** Their argument is this Larry. Those people who are not agreeing with these negotiations. First of all, this trade for Hormuz is under total control of Iran and we're going to decide about the new mechanism. Second, there would be no negotiations on the sanctions because they don't believe that the United States, the government in the United States would be able to lift the sanctions on Iran. So there is no point to go that far continuing any sort of negotiation. This is the argument under par. Is that is that realistic?
 
 **Larry Johnson:** Well, no. Well, look, uh Iran's got other it has to take other other countries interests into account. You know, China's got some major economic interests in tied up in the Persian Gulf. So, China has been providing Iran with significant support. So, you know, there's got to be some sort of, if you will, quit proquo from Iran. Iran just sitting and say, "Yeah, we we take your help, but screw you. We're going to do whatever we want." That wouldn't be very smart. I think that'd be stupid.
 
 Uh, so um that has to be taken into account. the um you know I think it is it is entire fully within Iran's rights to insist that the protocol that they negotiated with Oman be enforced. Now why Oman violated that protocol regarding the PS is beyond me but you know here we are. So now it's a the situation of Iran enforcing uh the rules and the United States encouraging ships to break the rules and then as a result you get this back and forth. So uh I think as long as Iran continues to retaliate every time the United States bombs Iran the United States hits him back and hits them harder.
-
-### David Pyne — Modest Response Alternative
 
 **Larry Johnson:** You know, I really, for the life of me, I don't know why Iran hasn't taken out Ben Gurion airport with all the KC135s, 28, 50, and a huge number of aerial refueling aircraft apart there. I Why they haven't blown the hell out of that is beyond me.
 
@@ -170,8 +157,6 @@ Uh, so um that has to be taken into account. the um you know I think it is it is
 **Nima Alkhorshid:** Yeah. Larry, the the problem in right now in Iran, I talked today with Marandi, the government is trying to control the inflation. The inflation is because their their basic concern is that. But the people the other side believes that we don't need right now to take care of inflation.
 
 We are in in an active war with the United States. So the priority would be putting an end to the war the way by fighting the United States not negotiating with the United States and the region is not prepared for that. I don't see being prepared or Saudi Arabia want to be part of this fight that the Trump administration is trying to do.
-
-### F-35 Depletion — MOU Outcomes And Lebanon
 
 **Nima Alkhorshid:** Today I talk with David Pyne. You know that you know him. I talk I know David.
 
@@ -185,8 +170,6 @@ We are in in an active war with the United States. So the priority would be putt
 
 **Larry Johnson:** Instead of attacking Iran on Iranian soil, they have to do something else. Maybe something political, maybe something, you know, some announcement, something. We are condemning the Iranian attack on, you know, Singaporean flag tanker that was attacked by Iran, for example.
  And he says that what the the Trump administration is doing literally is dragging the the United States into the war again.
-
-### Lebanon Loophole — Sovereignty And Israel Agreement
 
 **Nima Alkhorshid:** Yes. No, that's true. And you understand that if the United States starts, you know, right now they've got an order in place that's ordering the withdrawal of a lot of these aircraft, uh, the F-35s. And just as an aside, there was uh Air Force testified last week, I believe, before Congress that the combat rate readiness of the F-35 aircraft is between 25 and 30%.
 
@@ -204,15 +187,11 @@ What is the point for you know they're talking about so far what we've learned t
 
 **Larry Johnson:** So, and with that then they're going to get uh they're getting the unfrozen assets via Saudi Arabian Qatar. Uh you know they they Iran chose to make Lebanon an issue for Iran. And I had this uh discussion last night with Suleiman because right now the government of Lebanon made a decision to fi sign an agreement with the government of Israel.
 
-### MOU Loophole — Nabatieh Strikes Yellow Line
-
 **Larry Johnson:** Well, if if the government of Lebanon is not asking Iran for help, Iran can't just go in and interfere and get in the middle of the Lebanese conflict. Now, it's going to continue to support Hezbollah, but it can't just because what Israel is doing inside Lebanon, as long as it's doing it with Lebanese government permission, it's it's none of Iran's business. The problem is they what Israel couldn't achieve on the battlefield they're trying to achieve by these negotiations when they're talking about the yellow line is staying you know in that area
 
 **Nima Alkhorshid:** it's not it's not going to work but that you know yeah that's what they're doing u and the the United States I think he's got too cute by half throwing this gambit to get the Lebanese government to say oh yeah we're we recogn iz Israel and Hezbollah's got to get the hell out. And Hezbollah is going, "Okay, make us. We're not leaving. It's our home. It's our land." And uh Israel is not in a place where they can actually make it happen. So now it's a matter of what kind of retaliation will Iran do?
 
 And uh the uh at this point I think they they will have a measured response to these attacks today and the attacks will be focused on wherever those aircraft originated wherever they flew from that base will get attacked.
-
-### Fuel Attrition — Aviation Crisis Two Weeks
 
 **Nima Alkhorshid:** Yeah. My the reason that I said why do they need to say in MOU because the agreement between the government in Lebanon and Israeli government is totally contradicting the first clause of the MOU.
 
@@ -245,8 +224,6 @@ or not.
 
 **Larry Johnson:** Yeah. Well, they're going to try. Again,
 
-### Lebanon Horror — US Role And Erdogan Talk
-
 **Larry Johnson:** everything if they try to run air strikes, tomahawk missiles, cruise missiles into the interior of Iran, that means they're going to have to fly from Al Udeid uh you know, thousand miles. They're going to be burning up a lot of fuel. And this will be again let me emphasize that when this war started you had a 20% drop in the supply of oil. And to compensate for that the US and other countries began drawing down on their reserves. Even though they're drawing on their reserves, they weren't making a lot more, you know, of that of a barrel of oil.
 
 Let's say 25 to 30% is used to make aviation fuel or diesel fuel. You can't make them both. You got to make one or the other. What happened to the demand for aviation fuel? It went up because the of the war uh with Iran. get all these planes flying, KC135s, all the F-35s, the F-15s, the F-16s, the A10 Warhawks, the helicop, you know, all of this. So that that's, you know, chewing away at the, you know, the demand. That means less and less supply. The United States could potentially run out of fuel in two weeks.
@@ -258,8 +235,6 @@ And so if if they choose to escalate in this, that can accelerate that process t
 **Larry Johnson:** Because the continuation of the war, they have to again to send a lot of weapons, missiles to the region. They have by the way they're they have the missiles, they have everything there. But in a long run, these sort of fights is going to escalate. It's not going to stay with the same intensity that we're witnessing right now.
  It's going to escalate more and more.
 
-### Greater Israel — Iranian Internal Split
-
 **Nima Alkhorshid:** But I mean, look, um, but what's going on in Lebanon is horrible.
 
 **Larry Johnson:** The United States is playing an active role in creating that horror. Uh, and it's not going to end anytime soon. It's been I mean, dude, it's been going on longer than you've been alive. You know, it started back in 1975 and you still got this situation where the the leader of Lebanon doesn't give a good godamn about his own people, you know, cares only about himself and his got his French passport and his escape uh escape ticket to get back to France that things get really rough. And meanwhile, they're not stopping the killing uh of the Lebanese people.
@@ -269,8 +244,6 @@ Many leaders in the region are talking about the concept of greater Israel. Erdo
 **Larry Johnson:** Well, that's true. But okay, what's Erdogan doing about it? Is he cutting off the loyal to Israel? No.
 
 **Nima Alkhorshid:** So, he can just shut up. Who cares what he says? I mean, just flapping his gums, making, you know, felling up some hot air. I I I look at the action. If he acts, if he says, "Okay, this is it. We can no longer tolerate this. We're going to um cut off the flow of oil to Israel. You know, they can get it elsewhere. We're not going to be complicit." If he did that, I'd say, "Hey, pay attention to Erdogan." But right now he's just, you know, he's just trash talking. It means nothing yet.
-
-### Israel Overstretch — Gaza West Bank Four Fronts
 
 **Larry Johnson:** The concept on the part of Iranian is that we have to make Lebanon the graveyard of Israel, greater Israel. You know, the concept of greater Israel,
 
@@ -296,8 +269,6 @@ Israel said the Israeli Minister of Energy said that all of Gaza, Gaza Strip is 
 
 **Larry Johnson:** Yeah, eventually they'll suffer enough casualties at the hands of Hezbollah. They'll pull out as as they have in the past. So it's you know that's not that's not new. Uh so it's just it changes these time is the amount of time they spend in Lebanon until they decide, okay, we've had enough suffering. Let's go.
 
-### Retaliation Map — Drones Al Udeid CAOC And Project Freedom
-
 **Nima Alkhorshid:** Yeah. The Iranian media is just reporting on the damage that was done so far. Says that the boats Yeah. They said that they're going to report on the attacks tonight. It seems that the attack is going to happen in the coming hours.
 
 **Larry Johnson:** Sure.
@@ -311,8 +282,6 @@ The project freedom, the main concept was sending a lot of these tankers and shi
 **Larry Johnson:** right? And this is the same strategy that is happening today without having that war without having the American presence in the straight of Hormuz.
 
 **Nima Alkhorshid:** They try to facilitate that with American Navy. Right now American Navy is not there. They're using these commercial vessels, tankers and all of that in order to achieve that. You know, it's it's my my understanding is that they're going to hit these tankers as long as they see they're going to they want to try to pass through this route without permission and we're going to have these attacks.
-
-### VLCC Interdiction — Japan Pressure Escalatory Cycle
 
 **Larry Johnson:** But you mean they're going to Iran's going to hit the oil tankers that are floating.
 
@@ -336,15 +305,11 @@ That may mean the United States will say, "Okay, we got to step it up. They're g
 
 **Larry Johnson:** how
 
-### Legalistic Retaliation — Jordan Kuwait UAE Rules
-
 **Nima Alkhorshid:** take out all the air tankers of Ben Gurion for starter do that and continue to bomb any remaining radar sites and communication sites sites at any of the other US bases in the area that are being used to launch attacks against uh Iran.
 
 You see, I see I can see Iran deciding to be very legalistic about this and that if the United States used our assets that came out of uh Jordan, Kuwait, and UAE, then it would only hit it it would retaliate against Jordan, Kuwait, and the UAE. uh if it wanted to go beyond, you know, then that level, the next level would be, you know, they're going to hit civilian targets uh in in Jordan, not just not just military targets.
 
 So, you know, that that's going to, you know, that would be foolish, I think, to do from just a strategic standpoint, but you have to take it into account that could be done.
-
-### JASSM Bandar Lengeh — Strike Route Over UAE
 
 **Nima Alkhorshid:** Here is no reports, Larry. It seems that two Bandar Lengeh and two two other areas were hit by four US you know missiles or maybe all of these attacks coming from I have never heard of any drone attack on the part of the United States. They're basically using fighter jets. Yeah.
 
@@ -361,8 +326,6 @@ And if they're using the Saudi Arabia airspace, they're going to find sooner or 
 
 **Nima Alkhorshid:** no, but Iran knows and the Chinese and Russians are helping out too with intelligence.
 
-### Europe NATO — CENTCOM British Involvement
-
 **Nima Alkhorshid:** Larry, do you do you think that Europe as as right now what's going on? You mentioned how the United Kingdom was somehow spreading misinformation about the Strait of Hormuz and everything is just doing this and that the new routes close to the Omani are they
 participating in this sort of you know operations
 
@@ -376,8 +339,6 @@ bases in Europe And it seems they use all of the American assets in Europe, not
 **Nima Alkhorshid:** Yeah.
 
 **Larry Johnson:** Oh, their jet their jets aren't very good anyway. So, you know, it's no no bother for them to not use them.
-
-### Close — Europe Ukraine Congress Trump Rubio
 
 **Nima Alkhorshid:** What's so amazing to me that MOU is a failed sort of contract between Iran and the United States. The case of Ukraine and Russia is just collapsing and Donald Trump is telling us that Zelensky is doing great right now,
 

@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 ingest_date: 2026-06-19
 pub_date: 2026-06-19
 kind: transcript
@@ -29,9 +35,19 @@ source_note: Operator-pasted YouTube transcript; no spoken self-date — pub_dat
 evidence_grade: transcript-bearing
 opening_tier: host-tease
 capture_note: Operator paste; full interview body preserved from user-supplied YouTube transcript.
-editorial_note: Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (9 sections)."
 transcript_wrapper_tier: clean
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Alastair Crooke: A New Middle East Is Born & NATO Attacks Moscow
@@ -43,7 +59,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Israel Lebanon
 
 Welcome back. We have the great pleasure today of being joined by Alistair Crooke, one of the great diplomats of uh Britain and Europe, uh who are, you know, sadly in short supply these days. That is the good diplomat. Um there's a lot I wanted to ask you about today from uh what's happening in Iran to of course the the massive uh strike on Moscow.
  Uh not so well the western involvement is not very subtle. Uh but to to start off with Iran it's uh again we have this memorandum of understanding from what I understand it's been signed already uh but we don't know there's a lot of secrecy around this and uh you know this uh has many complications will it be um will it be upheld by the Americans uh to to what extent does shape the region we see the US Israeli relationship is also impacted by this.
@@ -58,7 +74,7 @@ in which he said that although he was opposed to the framework agreement um hims
 path of the JCPOA that it is going to be um the that Iran is not simply going to allow you know precedence to be sort of um established and then duly expanded and expanded and expanded until the whole meaning of the framework has got he say he's basically saying we're not going to allow you them to sort of um give some sort of precedent which will allow something to happen.
  The other element of course is Lebanon and Lebanon is crucial and they Iran has substantially changed its position because Iran did not in the past in terms of the
 
-### Segment 2 — Um Axis Of Resistance Intervene
+### Segment 2 — Israel Lebanon Trump
 
 um axis of resistance intervene directly against Israel until this last period. This was the first time they've gone directly and threatened to bomb heavily northern Israel.
  if there was if Israel went ahead with its um threat to flattened dah the suburb of Beirut and he completely they said we will go in we run the south and attack the northern that's the part ready from the borders right through to the Galilee and that was of course Trump then waved in and the attacks were stopped Um so um that is the other part.
@@ -74,7 +90,7 @@ with its um policies throughout the region. And then Trump then said things that
  He would be more sophisticated in managing Hezbollah and the Lebanon situation." In other words, he was saying, you know, maybe maybe an ex ISIS um leader could do better than you Netanyahu, a new Israel in Lebanon, which was I mean an unparallel sort of slap and to to to the to to the Israel.
  So they are
 
-### Segment 3 — Shocked By This But They
+### Segment 3 — Israel Trump Iran
 
 shocked by this, but they also say, and this is in in the Hebrew press today, it's in Mari. Um it it's um uh and you can see it on our Substack because it'll be out later today, I think. Um the the the sort of the comments um but it's also clear that um the Israelis um understand this is the Middle East has changed.
  It's a new era. Um there is no way that they are going to destroy Iran. It's not going to have a regime change. Um there's no way that they can do it without the United States. The United States provides everything. They cannot attack Iran without uh US facilitation uh riding all of these things. Impossible. They understand that they know that it's over and it is a huge psychological defeat of the whole project and equally um the sense that this greater Israel project by which they are assuming they can bring about greater Israel by force of
@@ -89,7 +105,7 @@ How do they get to that point? and um and the the midterms are coming up. Now th
 Firstly because I think um you know that the the the the election process for the Senate is a rotational. It's not all at once. It's one part and then another part goes up for election like that. So actually the I mean listeners may be not exactly right but there are about 20 Republican seats that are in contention uh at the moment. the Republican seats.
 That is, you know, um, in the House, this is, I mean, yeah, this could swing the the midterms for sure, but also it's not irretrievable, at least in the
 
-### Segment 4 — View I Think Of Um
+### Segment 4 — Israel Trump Netanyahu
 
 view, I think, of um, of Trump and his team, you know, 20 seats, not all of them will will swish. And also it's not clear there does seem to be a sense in which the the sort of the solid base of MAGA hasn't defected from Trump because of the personal loyalty more than anything else.
  Not because they like, you know, like the war in Iran or anything else, but as a personal sense of loyalty to him, which has these emotional overtones that is very hard to define exactly. that he does have a considerable hold o over people and in many respects because of this debate which you know prominent people are pointing out that you know is America in control of its own foreign policy or have we um if you like delegating our foreign policy to a foreign power um is gripping um the MAGA base um in the aftermath of what what what happened um
@@ -102,7 +118,7 @@ it's not just Ben Gavia they're saying you know they must pay they've got to suf
 situation. Who knows what they will do? But this would be um one I mean very clearly they understand this is the thing that brought events to a head and brought about the framework and that's where um they might well uh well move. Well, my first thought when I'm when I saw they had this remarkable statements by Trump was that they well they fell short of action that is uh is it's just uh in the language but on the other hand this language matters this is uh this as you said this is ringing through the media in Israel this is putting shock
 waves but also in the United States all the America firsters the um well the the people who thinks like Tucker Carlson that they shouldn't put Israel first but America first they must surely feel vindicated you know they have wind in their sales at the moment so it it does change um yeah >> it changes it changes it changes so much in that way I mean it has you know something has broken um if you like a paradigm has been blown up and it was just in this piece of paper which as you say is
 
-### Segment 5 — Not A Commitment To Anything
+### Segment 5 — Iran Israel Trump
 
 not a commitment to anything
 particularly. It's just a framework for for for starting, you know, a different process. But the the the that paradigm has been blown up because Trump visibly cited and said and because of language, you know, it talks about the sovereignty and the rights of sovereignty of Iran and of by implication of Lebanon too.
@@ -117,7 +133,7 @@ about you know Iran could be part of the Abraham accords and and and uh and he s
 issue. So this is going to be be rad. >> Well, building on what you said, uh I also thought his remarks about Iran's ballistic missiles were interesting cuz in the past uh there was consensus around the idea that you know these terrorist uh uh should not be allowed to have ballistic missiles uh you know this ballistic missile program to threaten its neighbors.
  Again this was a key component of uh the US demands as well. This had to be dismantled. I saw now a speech by Trump where he was making the point that well you know the Saudis have ballistic missiles of course well the Iranians have to have as well suddenly you know it as you said it it it marks a shift they're not terrorists who are illegitimate who hold you know ballistic missiles they
 
-### Segment 6 — Are A State But With
+### Segment 6 — Russia Ukraine Europe
 
 are a state but with basic national interest and they will have to defend themselves like everyone else I mean treating them like a normal power I
 it is a huge step it would you know, especially in this this day and age day when you have a when they the first objective is always to delegitim delegitimize the opponents. I mean, we we delegitimize, you know, Putin, she like when whenever we're going to go to war, we make sure that we dele delegitimize them.
@@ -132,7 +148,7 @@ Maybe I'm pessimistic, but this is >> this is madness here. I think this is uh w
 meeting and I think what we're seeing therefore is a major effort by Europe uh to change the narrative. Macron has said, you know, at the beginning and he he believes that, you know, Trump thought that um Russia is a big state would would crush Ukraine easily and that it would be done quickly.
  This is Macron saying Russia would would crush Ukraine and therefore, you know, there was not really much to do about it because it was going to happen. And then um that task and we see that Russia is still hasn't crushed Ukraine and Ukraine and the point of these missiles and the point of um pushing Zalinski to the sort
 
-### Segment 7 — Of Front Of Stage At
+### Segment 7 — Europe Russia Ukraine
 
 of front of stage at these two meetings was to say to Trump, look, it's all changed.
 They're not on the back foot, they're on the front foot. They are winning now. It's not true. Of course, we know it's not true. It was a huge effort to get together that amount of missiles and you know over all these attacks on refineries have done little strategic damage to Russia. The economy is not in in in any sort of freeall.
@@ -147,7 +163,7 @@ and attacking uh Russia um uh behind it. Now I I'm hesely skeptical of these sto
  I mean you you you can see I mean look at Europe the UK you know it can't even provide a naval vessel at the moment. it can't provide. It's got it's got something like 40 tanks that are serviceable. I mean, you know, the European defense structures are in terrible state. Really terrible state. You don't change that in three years.
 And anyway, much of this
 
-### Segment 8 — Money Is Just You Know
+### Segment 8 — Europe Russia Israel
 
 money is just, you know, one of these bulldog boondoggles. you know the money is going to existing European defense contractors and their share prices is going up and a lot of people are going to make a lot of money sort of going in and out insider trading on who's going to get you know the defense money.
  So it's rather like you know what's been happening in Washington I think where you know the oil features um with you know just before Trump makes an announcement then you know there's the big you know sale of purchase of oil creatures and then he makes the announcement ah please and then there are I think there's an element of this taking place in in in in European context too.
@@ -161,7 +177,7 @@ was Al Harour or whatever it was you know to pull pull pull America into their w
  I mean know we all play with spar I think so I agree with you you know uh what's happened there what happened in the G7 at the European meeting and no one seems to sort of be aware or or or you know all all the talk in Europe is how disgraceful it was that Costa Costa's chief of staff actually spoke to someone in Moscow without telling Bondo I I mean he is actually the president of the council and in case the Europeans have forgotten it is the member states that decide foreign policy not the commission and not the foreign uh uh high representative but it it's wars back to
 them they just go
 
-### Segment 9 — On Anyway Yeah But What
+### Closing — Russia Europe Iran
 
 on anyway >> yeah but what you said before though I agree I think this is the goal by the Europeans that is to have Ukraine standing in front of them and the Americans standing behind this is how they will seek to weaken Russia over the next years and decades. But uh >> still but still I mean I think you know maybe you ought to get someone on the program who can answer this and I mean you know even in Israel now people are saying you know there was no discussion about you know an attack on Iran. There
 was no one you know uh from the Mossad or military aman or military intelligence or anyone that you know came when all of this was being discussed and said but what happens if Iran survives and emerges stronger nobody said anything and if they did think it they kept their mouth shut and I think the the same question should be asked to Europeans what do you conceive a war on Russia would look like would Would it be grounds? Would it be simply a nuclear war? Would it be how would you run it? I mean, are you going to mass

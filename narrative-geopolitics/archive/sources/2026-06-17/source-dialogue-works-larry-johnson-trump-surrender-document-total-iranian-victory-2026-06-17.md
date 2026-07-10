@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-17
 pub_date: 2026-06-17
 kind: cleaned-transcript
@@ -29,10 +30,20 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: paste-prefix
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 13 substitutions; not human-verified verbatim; verify before quotation. Routine closing lineup/next-guest promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 13 substitutions; not human-verified verbatim; verify before quotation. Routine closing lineup/next-guest promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-07-09 (11 sections)."
 quality_note: "ASR normalization pass 2026-06-18; ph-civ replacement SSOT."
 dialogue_works_close_substack_trim_applied: true
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 11
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Trump Surrender Document Released, Total Iranian Victory!!! w/ FMR CIA Larry Johnson
 
@@ -43,7 +54,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Trump Iran Lebanon
 
 So [clears throat] we are live. We now have the entire document released by Iran by the United States of America. The memorandum of understanding very minor differences between the two versions. And it's complete and total surrender by the United States of America. Complete surrender by Trump. This document is probably worse than the versions we got earlier.
  This is unequivocally Trump seeding to all of Iran's demands, but in a very detailed manner. I'm in shock after reading this. I expected it to be a lot more vague. I expected it to be a scenario where me and Larry discussed this many times where both sides could come out and claim a win. But as you guys know, I conduct many shows and one of the shows I do on X is where I have a people from Mara on there.
@@ -60,7 +71,7 @@ Did you pick that up? >> Yes, I did, Larry. And another >> That is huge. Huge. >
 You know, and some in in Iran may have criticized said, "Well, why are you letting ships go through two months for free?" Well, the reality is not that many ships are going to go through in in the two months for free because until the mines are cleared out of the Persian Gulf, the insurance companies are not going to allow nonIranian flag ships to sell because or or they'll withdraw the insurance from the ships and the ships take their own chances.
  Uh and
 
-### Segment 2 — We Know From The Department
+### Segment 2 — Iran Trump Israel
 
 we know from the Department of Defense or Department of War under Hegseth, they briefed Congress back in April and they said it's going to take up to six months to clear the mines out of that straight. So in other words, even though the straight is in theory open for business, in reality, it could still be shut simply because they don't have a guarantee that all of the mines are gone.
  And and then on top of that, once they get rid of the mines, then those ships have to get loaded with oil if they're empty or if they're if they're still full from before and haven't gotten out, you know, they got to set sail. And then when they set sail at, you know, minimum, they're going to be a month, more likely close to two months traveling to the destination where they're going to offload the oil.
@@ -78,7 +89,7 @@ he brings a different angle that we didn't even discuss all all these hours so L
  But yeah, so it's uh so Pakistan, was that Pakistan? Who else did you say? >> China. >> Wow. To Israel. >> Yeah. >> And what was the Israeli response? >> Because they they they they basically they picked up intelligence. So they've moved the signing ceremony to a thing called Bergentock. >> Yeah. >> In in in Switzerland.
  I guess the there's a property there that's owned by I think the Qatari uh uh emir um because they they picked up intelligence that
 
-### Segment 3 — Israel Is Going To Try
+### Segment 3 — Israel Trump Iran
 
 Israel is going to try to assassinate Galibbath and Arra. So when China learned of that and and with Pakistan they they they put Israel on notice. We know what you're thinking about doing it.
  Don't do it or else you're going to be dealing with us. >> Wow. That's huge news, Larry. >> Yeah. No. So, this is Look, I you know, I admit, you know, I I didn't think this thing would happen. I saw too many Oh, you and I both. We saw too many. >> Yeah. >> And and the fact that they were kept putting out different versions and that didn't agree.
@@ -88,6 +99,8 @@ He said, "Mr. President, we got, you know, like that movie Apollo 13 where they 
  So you got you have a an imam, you know, standing there, you know, with, you know, the turban and the beard and the cloak. >> And in the middle, you got an IRGC general and then another cleric on the end. And the first cleric, he says, read, they're all reading theou. First cleric goes, this deal is exactly what we agreed to with Obama in 2015.
 And and the and the general says, "Except we get many more pallets of cash." And the third cleric says, "We should we should lose to this great negotiator more often." So it's just >> so much winning. So much winning, Larry. There's just too much winning going on. >> Yeah, th this is uh this is actually uh you know, quite remarkable.
 
+### Segment 4 — Trump Iran One
+
 You know, one of the things that I thought was really important that what Trump said, look, we've been very critical of Trump on this show, we've been very critical of him since he started this war and even before he started the war in Venezuela. And um but one of the things I I listened to which I thought was really important and just before that in terms of the energy thing, we had uh one of your other friends Chris Masterson on the show, Martinson on the show, >> Chris, >> and he was saying the exact same thing.
 He broke it down. He said this about and I'm giving a rough number now cuz I can't remember something like he said sulan right now they've got 347 uh million barrels of reserves left we've been depleted to that amount most analysts say you can't go below 300 for xyz reason and we use as a net 1 and a half million barrels which means within 30 days we're going to be below below that 300 million threshold and this aligns with what you just said there as well Larry um >> well in fact let's let's correct record uh because I I was on a show earlier
 today with called Capital Cosm with Danny, his name's Danny, and he looked it up real time. The current amount is 349 million barrels. So that's down from what what Chris had. >> Exactly. I think >> and that was and that 349 figure is current as of June 5th. So, you know, here we are almost uh two weeks later.
@@ -96,7 +109,7 @@ Mhm. >> I guarantee that may that may be actually down to about 320 now or lower
  Um I missed that because I post a lot. I must have missed that one. But one thing he did say, Larry, which I thought again, you need to give him credit in the sense of I guess he's understanding the situation. So, what he said was, and I did have it queued up, but um essentially what he said was he said um let me let me bring it up. He I think it's a really important thing to uh show everyone.
 Here we go. for the explain though what the difference is between giving Iran US dollars and unfreezing US dollars for >> well the unfreezing that's an easy one to answer uh we have taken a lot of their money and we have their money we have taken their money it's not our money it's their money and we froze it at a certain point in time I guess we're going to have to give it back you know if we didn't give it back nobody
 
-### Segment 4 — Would Never Invest In The
+### Segment 5 — Israel Lebanon Trump
 
 would never invest in the dollar again.
  If you took their money, because I thought about it, you know, I'm not the most perfect person. I said to Scott, Scott, why do we keep their money? What the hell are we giving it back to them? But, you know, people from lots of nations, some nations we don't agree with. They have their money. the dollars become very strong under me and they don't want to have a little conflict with somebody and end up having the United States just take their money.
@@ -114,7 +127,7 @@ They will encourage uh the uh Hezbollah to not, I repeat, not attack inside Isra
 happy about what's going on and so how will and I know you're saying he's going to leave he's got this threat by the Pakistanis and the Chinese but I mean how can he how can he do that >> well he he's going to have to do it militarily he'll be forced to because Israel Israel without the support of the United States cannot sustain these kinds of operations period and Trump Trump's got a lot of leverage and I don't think you know Trump now actually will have a legitimate shot at a Nobel Peace Prize. Um if if he pulls
 this off, it will probably be a joint prize given to say Pezeshkian and and Trump. But um I I think Trump's vanity on that is so great he's not going to pass up that opportunity. >> That's hilarious. Pakistan going to nominate him again. So, um, >> well, actually, you know, you know who I think should get the nomination? BB Netanyahu.
 
-### Segment 5 — Because Think About It If
+### Segment 6 — Iran Israel Trump
 
 Because think about it, if BB Netanyahu had not attacked Dahu, that suburb and and angered Israel to the point that it was going to launch a massive retaliatory strike and Trump had to beg and plead, please don't do it. Please. Uh because of that uh Trump made concessions that brought this agreement about.
  So who do we got to thank for that? BB. >> Yeah, BB. Uh possibly maybe possibly creating her own goal there. We'll have to wait and see about the Israelis because I just again that when you look at the Israelis, I just it's just I don't know. Let's see what happens. I still I'm not confident that they're going to up uphold this deal.
@@ -133,7 +146,7 @@ the limited or blocked funds and assets [snorts] uh for use upon implementation 
  Right, Larry? >> Yeah, man. He meant I think and he's not stupid. I think he now realizes, oh boy, did I step in it there? >> He did indeed. Larry, Larry, I wanted to play this clip for you. Uh this was another statement made by Trump and then he made a subsequent statement uh about this later as well.
  Uh this is what he had to say about nuclear energy. >> Other adjoining
 
-### Segment 6 — State We've Been Pretty Tough
+### Segment 7 — Iran Trump Hormuz
 
 state we've been pretty tough on that. You know it's also it is a little hard though when you say that somebody wants it other people have it other adjoining states have it and you're not letting them have it for purposes of electricity and things like that. It's always a little tough.
  if you have to use a little common sense, please. We've been pretty tough. >> So, here he's talking about Larry, the possibility of allowing Iran, we discussed this previously, Iran to have nuclear enriched uranium. So, he's saying, and he said in other statements as well, that he's open to Iran having nuclearenriched uranium.
@@ -151,7 +164,7 @@ They're melting under the extreme pressure. That's hilarious. Like, it's up to t
 JCPOA with the the difference being uh the they're not going to have to wait for sanctions to be lifted. They'll have sanctions lifted. There won't be a 10-year time limit. It may be indeterminate time. U but historians may mark this as a similar historic event that has literally changed the future and fate of the Middle East um away from uh perpetual wars.
  This is um you know the Trump Trump basically pulling on or Israel's chain and said, "You got to stop. You can't keep doing this or we're not going to back you."
 
-### Segment 7 — And I Think In The
+### Segment 8 — Trump Iran Syria
 
 And I think in the we'll see what happens Friday if the KC135s that are stacked up at Bengurian airport, if they start flying, taking off and flying back to the United States.
  If they start drawing down the KC135s, the war that war is overi or at least United States isn't going to be attacking Iran anymore because those those air assets are essential for th those kinds of combat activities. >> No doubt. And it could only have been Trump who could do this because of his loyal MAGA base. Because even now amidst the anger, annoyance, Trump doing this, his basis, his MAGA base is known as Israel first base is still supporting him.
@@ -169,7 +182,7 @@ they're they're basically fusing the frozen assets with the 300 billion and this
 >> True. >> So um there's going to be a lot of reassessment going on that uh that will basically call into question can we even trust the United States anymore? Well, Ahmed Shar Golani was an interesting figure and what I mean by that is obviously I'm vehemently against I was vely against this rebellion in Syria.
  But that being said, it's um he's definitely the US's man and Israel's man, but he also was Turkeykey's and Saudis man because Turkey and Saudi were also very for the rebellion.
 
-### Segment 8 — They Financed It Quite A
+### Segment 9 — Israel Palestinian Turkey
 
 They financed it quite a bit and they were very instrumental in it. I remember I was in Turkey when key figures were talking about this invasion. And so the reason the reason I say that is >> you could say he's US's man, which he is, but quite clearly you could have a scenario if the US was to leave, he could still be there under the control of Turkey and Saudi as well.
 >> Yeah. No, that's true. Um, it is uh he's not he's not a power player. I mean he does he doesn't have a big army and limited resources. Um he has been seen as a tool of the west and again with this with this shakeup going on these guys are they're they're big believers in self-preservation I think they're start looking around saying you know what uh get getting into this you know we don't want to get married to the United States anymore we want to start seeing other people.
@@ -186,7 +199,7 @@ You know, P the the pack three missile that goes with the Patriot, they're they'
 and and then the pods that you attach for, you know, cameras and and and holding hellfire missiles and such, that adds about another 30 million to it. So those are 60 million a pop. They've lost they've lost close to $2 billion worth of predators >> in just three months. That that's a lot of money >> indeed.
  Another question uh quickly is Larry what's the uh historical significance of Trump signing this deal in Versailles when you look about when you look at 1918
 
-### Segment 9 — And The Complete Complete Surrender
+### Segment 10 — Israel Trump Iran
 
 and the complete complete surrender in the signing of Versailles as well. >> Well the irony is certainly apparent. Uh I don't think I don't think the Trump people actually thought thought that through.
  Obviously [laughter] not. >> They obviously didn't. Yeah. >> I mean, really. Oh, Versailles, man. This is a great place. What about the history? What What history? What What happened last year? That's their idea of history. [laughter] >> That's so funny and so true cuz Yeah, they'll be like, >> I I I did I did not until you mentioned I didn't realize he did the signing at Versailles. It was like, oh my god.
@@ -203,7 +216,7 @@ weighed it up and thought, look, I've done enough for them or whatever it may be
  I know I sound like a cuckoo, but I think that even though this has been signed, I still think that something's going to happen from Israel that's going to try and derail this entire thing logically. >> Oh, no, no, I agree. Israel is not going to try not going to give up that easily. But I I think anything they do from here on, you know, here on out uh based upon the first the first part of thisou, Iran's got cart blanch to go bomb the hell out of them >> because >> and if that starts and and you know if it goes if the war escalates back and
 forth again between Israel's got limited
 
-### Segment 10 — Capability To Sustain That Kind
+### Closing — Trump Jcpoa Israel
 
 capability to sustain that kind of war. They don't have the tanker fleet to sustain it and with without US support. And in this ca this occasion, you know what? Jordan may even deny Israel the chance to overfly it. Say, "No, you're not you're not flying over our territory.
 " >> Because um when I look at um what this document, the document has the most complicated things already in there. I know it sounds strange, but the straight haramoose issue is really complicated. The sanction issue is really comp the real complan. So the as you mentioned the real complicated stuff's already dealt with in this document.

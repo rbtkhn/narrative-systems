@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 ingest_date: 2026-06-16
 pub_date: 2026-06-15
 kind: cleaned-transcript
@@ -22,12 +28,22 @@ channel_url: "https://www.youtube.com/@judgingfreedom"
 source_note: Operator-pasted transcript; host self-dates Monday 15 June 2026. Iran MOU/agreement-to-agree week; Trump birthday-Netanyahu timing; Hormuz fees; Geneva/Pakistan; Crooke draft cross-ref; Lavrov Witkoff/Kushner/Alaska; Iran FM US responsibility for Israel; Tulsi biolabs/Fauci; ideological cold open, sponsor block, and closing lineup tail preserved in body.
 evidence_grade: transcript-bearing
 opening_tier: host-tease
-editorial_note: Operator-pasted body; not independently verified as verbatim; ASR/name variants preserved (Npalitano, Alistister, Witoff, Lev, Fouchy, etc.). Ideological cold open trimmed in place; SSOT body otherwise preserved. Canned sponsor read trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "Operator-pasted body; not independently verified as verbatim; ASR/name variants preserved (Npalitano, Alistister, Witoff, Lev, Fouchy, etc.). Ideological cold open trimmed in place; SSOT body otherwise preserved. Canned sponsor read trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (9 sections)."
 napolitano_cold_open_trim_applied: true
 napolitano_sponsor_trim_applied: true
 napolitano_close_promo_trim_applied: true
 napolitano_leading_noise_trim_applied: true
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Ray McGovern: Will Russia Escalate?
@@ -41,10 +57,12 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Ceasefire Russia Iran
 
 Hi everyone, Judge Andrew Npalitano here for Judging Freedom.
  Today is Monday, June 15, 2026. Ray McGovern will be here with us in just a moment. What are the Russians up to? And do we really have a ceasefire plan in place with Iran?
+
+### Segment 2 — Israel Iran Trump
 
 Ray McGovern, welcome here, my dear friend. A lot to uh talk about. Before we get to what the CIA is telling the Ukrainians and what the Russians are, uh likely to do.
  Can there possibly be a US Iran meaningful ceasefire while the Israelis are still slaughtering people in Lebanon? Was the Israelis have already said no. U whether Trump crossed the Rubicon over the weekend remains to be seen. Now, something that hasn't been mentioned very often is that yesterday was Trump's birthday. He wanted to have a really special birthday.
@@ -54,7 +72,7 @@ And who screwed that up? Benjamin Netanyahu. You have to put yourself in the fra
  Larry uh Johnson says that uh Israel versus Iran alone without the United States milit active military there fighting with it, Israel would last about six days. Do you agree? >> No. I say five days. >> This is all guesswork of course. >> Yeah. >> But you know without without tomahawks without any any defense that works against hypersonic missiles of which Iran possesses thousands most people believe uh Israel has no defense.
  So, uh, it all depends again on whether Trump is so in need of some resolution so that the economy doesn't go voom and the world economy doesn't go voom and he gets that straight open. Can he face down Netanyahu? Well, his his record is not very good on that. And
 
-### Segment 2 — The Israelis Have Already Given
+### Segment 3 — Trump Nuclear Weapon Iran
 
 the Israelis have already given forewarning.
  Look, we're not bound by this thing. we defend ourselves and all the people in the US government are saying, "Oh, of course, uh, Israel has a right to defend itself." So, uh, we'll we'll have to see what happens the next 60. I agree with Alistister who says this is a good step. This is deescalatory step, >> right? Next is really up for grabs as Larry and Alistister both said.
@@ -64,7 +82,7 @@ have been steadfastly committed to since 2003 or so. But now with a new ayatolla
 missiles that won't quit they don't need and nuclear weapons are prescribed by religious edict called a fatwa done by the current supreme leader's father. Whether he would reverse that or not, most people think he would. I don't think he needs to. Uh but all that will play out in what I'm trying to say here is in phase two, it need not be so difficult because there's nothing to prevent the Iranians to saying, "Look, we promised never to do so voce what we always said we aren't doing and would never do." Most Americans don't know all
 of that. And so Trump can stroke his breast and say we got them to promise cross their hearts hopes to die never to develop a nuclear weapon. And that will play well in the media such as it is in
 
-### Segment 3 — The United States And What
+### Segment 4 — Iran Israel Lebanon
 
 the United States. >> And what happens when Netanyahu resumes slaughtering uh civilians in Lebanon and the Iranians retaliate against the Israelis? But what happens is that the US talks to Iran again. So please don't retaliate.
 Please don't retaliate. We have some more here. We're g give you give me all the billions that we stole from you several years ago and we'll we'll lift some sanctions now. In other words, Trump is in a bind. He's he's got a he's the deandur as the international relations people say. He's asking for stuff from Iran.
@@ -74,7 +92,7 @@ Please don't retaliate. We have some more here. We're g give you give me all the
  Uh he could make an argument to them. Look, the world economy is falling apart. I've I've restrained the Iranian Iranians from getting a nuclear weapon. Uh you know, I'm going to work on this thing, but for God's sake, uh we don't we don't need Israel stirring up trouble again in Lebanon. Now um the Iranians for some strange reason feel really strongly about that and Lebanon is the key.
  If the Israelis hold off on Lebanon, we have the prospect of some real improvement improvement in the world economy as well as an improvement other area. So yeah, can you hold tight, Mrs. Adlesen? Can you just give me give me 60 days to see what we can work out? Ah, thanks very much. I don't know if that's where it will go, but yeah, that's the way I see it going.
 
-### Segment 4 — Uh On The Uh Straight
+### Segment 5 — Iran Trump Hormuz
 
 >> Uh on the uh straight of Hormuz, this is from the for the Iranian foreign policy official spokesperson. According to the memorandum of understanding, Iran and Oman will be responsible for managing passage through the straight of Hormuz. Iran is not seeking to impose tolls. However, in return for navigation services, environmental protection insuranceances, and other maritime services, Iran will collect the necessary fees.
  So, there'll be tolls, but they won't be called tolls. Yeah, I don't know if there's a distinction between now and 60 days from now. I think that's what Alistister hinted that for now uh the the Iranians and the Omanis will control these these ships but not necessarily impose uh whatever fees or whatever you call them. I'm not sure on that.
@@ -84,7 +102,7 @@ Please don't retaliate. We have some more here. We're g give you give me all the
  It's just a quick hop skip and a jump to Geneva, but he probably doesn't want photographs of himself with the Iranian leaders. So, he'll he'll let JD Vance do that, >> I would guess. But don't ask me to predict what Trump might do to advertise this great uh memorandum of understanding. Let's remember that it's not a deal, right? It's memo saying this got we're going to have a deal if all these >> it's to use the vernacular it's an agreement to agree.
 >> Yeah. >> Uh switching over uh to Russia because of your expertise on not only the language but the culture. How much longer do you think uh Russian
 
-### Segment 5 — Oligarchs Kremlin Elites And Colleagues
+### Segment 6 — Ukraine Russia Europe
 
 oligarchs, Kremlin elites, and colleagues of President Putin and the average folks can endure what is now a war in its fifth year? Uh probably forever. I don't uh I don't see the the signs that many of my colleagues see that Putin is under great pressure.
  Now he's got Whitov and Kushner coming. soon. According to Ushakov, Putin's right-hand person on Ukraine, uh what uh Lavro said today at a press conference is that we're going to quiz these people about why you're not living up to the agreements of Alaska, the spirit of Anchorage. Why are you letting the Europeans sort of demolish that or or dissipate it? We talked to three blind M. He didn't say three blind mice.
@@ -95,7 +113,7 @@ the three ambassadors from France, Germany, and Britain last week, says Lav, the
 >> Yeah. He says, "Look, uh, after Alaska, they all came to Washington and instead of agreeing to the proposals that we undertook in Anchorage, they sabotaged them. >> What are we going to do? These people are encouraable." So, uh, I expect I I'm surprised that Putin would receive WhitF and Kushner getting after crossing.
  But >> I uh I need to
 
-### Segment 6 — Go Back To Excuse Me
+### Segment 7 — Netanyahu Iran Ukraine
 
 go back to Excuse me for interrupting Ray because of some news we just got. I need to go back to um Iran. Uh Chris, this is a sound on tape that we have or I'm I'm reading it. Okay. So, this is a a statement from the Iranian foreign ministry uh spokesman. I I'm going to guess I haven't seen it.
  It's in Farsy with English translation. Here we go. >> What matters to us, what is important to us is America's commitment to the promises and agreements made according to this memorandum of understanding. The people of our region will never accept that the Zionist regime takes any action without prior or subsequent coordination and cooperation with America.
@@ -106,7 +124,7 @@ Therefore, America is committed, obligated, and responsible for fulfilling the c
  Chris, >> today I'm releasing new evidence of longstanding US government funding of more than 120 bolabs in over 30 countries. Now, these biolabs include labs in places like Ukraine, which could be at risk of compromise due to the ongoing Russia Ukraine war. Many of these US government funded biolabs are currently or have previously engaged in research using hazardous and highly contagious pathogens and in some cases included dangerous gain of function research.
  Politicians and so-called health professionals like Dr. Fouchy lied repeatedly to the American
 
-### Segment 7 — People About The Existence Of
+### Segment 8 — American Treasury Ukraine
 
 people about the existence of US funded and supported biolabs. Not only did they lie, they threatened those who attempted to expose the truth. Now, OD and I will continue working closely with partners across the US government to identify exactly where these labs are and what pathogens they contain to end dangerous gain of function research that threatens the health and well-being of the American people and people around the world.
 >> Your thoughts on this, Rey? Not not not the politics, but the the science? Yeah, there is a political edge to this of course, but I'm going to take the benign explanation. Uh Tulsi has certain convictions. One is nuclear war and she showed herself capable of doing her own little video on Hiroshima and Nagasaki just about a year ago if memory serves.
@@ -116,7 +134,7 @@ people about the existence of US funded and supported biolabs. Not only did they
  Okay, here's what it says. This report does not address the relative merits of the two most likely coid9 origins hypotheses. Whoa. Well, oh here. In March, the intelligence committee updated its analysis on these core questions and we split. It was the national intelligence director. That's me, Averil Haynes, and four other undisclosed agencies.
  As I say, four, yeah, four other undisclosed agency. What could they be? Well, let's see. I looked at the listing of intelligence agency. I I would suggest is probably the space force uh the coast guard treasury and and and the state department which all of whom have no no expertise in this. So she's it's the it's the national council which she heads
 
-### Segment 8 — Up And The You Said
+### Closing — Nuclear Weapon Trump Iran
 
 up and the you said who's against what was department of energy and the FBI. Okay.
  Well, we couldn't figure out who was right or who was wrong. What's the significance of all this? The significance as I see it is Tulsi wants to go out distinguishing herself from this very corrupt lawyer who who who masterminded this thing to uh exonerate Fouchi for being responsible for the gain of function research at Wuhan which was responsible in turn for COVID 19.

@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-29
 pub_date: 2026-06-27
 kind: cleaned-transcript
@@ -32,6 +33,17 @@ transcript_wrapper_tier: clean
 normalization_state: ai_assisted_proper_noun_cleanup
 editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (aguilar, alkhorshid, channel:dialogue-works)); 54 substitutions; not human-verified verbatim; verify before quotation."
 quality_note: "ASR normalization pass 2026-06-29; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: preserved_unsectioned
+section_count: 0
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # BREAKING: IRAN STRIKE KUWAIT & BAHRAIN, RUSSIA STRIKES KHARKOV AND KIEV w/LT Col Anthony Aguilar
 

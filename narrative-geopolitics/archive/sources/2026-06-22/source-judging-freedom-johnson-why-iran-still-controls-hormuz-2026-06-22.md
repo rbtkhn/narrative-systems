@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-22
 pub_date: 2026-06-22
 kind: cleaned-transcript
@@ -28,9 +29,19 @@ napolitano_close_promo_trim_applied: true
 napolitano_leading_noise_trim_applied: true
 opening_tier: full-scaffold
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (johnson, channel:judging-freedom)); 12 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Ideological cold open trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (johnson, channel:judging-freedom)); 12 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Ideological cold open trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-07-09 (8 sections)."
 quality_note: "ASR normalization pass 2026-06-22; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 8
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Larry Johnson: Why Iran Still Controls Hormuz
 
@@ -41,7 +52,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Hormuz Israel Trump
 
 Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
  Today is Monday, June 22nd, 2026. Larry Johnson will be here with us in just a moment on why Iran still controls the straight of Hormuz. But first, this today's headlines aren't just bleak. They're an indictment of a government that has abandoned the Constitution. You are witnessing the direct result of the Federal Reserve's relentless war on the value of your dollar.
@@ -54,7 +65,7 @@ So uh the reason they have to plan this is for example since u you know it's sev
  the the latter a threat to assassinate the negotiators with his own vice president in uh Switzerland. Well, uh, if if it's one thing to talk, as Donald Trump does in in, you know, great quantity, but let's look at what the United States actually was unable to accomplish when it had was still engaged in military action and hadn't agreed to a ceasefire, at least in in in the in the straight of Hormuz in the Persian Gulf.
  the the for every time the United States would hit
 
-### Segment 2 — Uh Iranian Positions At Kempsha
+### Segment 2 — Iran Trump Strategic Petroleum Reserve
 
 uh Iranian positions at Kempsha Island, at Bandar Abbas, that port at Syrsky, another port a little farther down the coast. Uh yeah, they they'd caused damage to Iran and then Iran would turn around and just smack the the nonsense out of our head. They they inflicted significant damage on US military installations as well as uh aircraft and so bases in Kuwait the Ali Salam airfield there uh they hit the Prince Saud air base in Saudi Arabia that uh took out some plc 135s in particular. Uh then
 they hit Bahrain which has you know completely devastated that is any base that the United States could even hope to reopen and and cause significant damage maybe you know some reports at least 12 uh F-35s were were damaged or destroyed at the air base in Jordan the Moaf Alti. So, uh, you know, when when we did that, it didn't force Iran to back off at all.
@@ -64,7 +75,7 @@ that because he he was briefed. Apparently there was a meeting uh oil executives
 it's out of that that they make you you got a choice you make either diesel or you met make the kerosene jet fuel. You don't make both. So, you have to make a choice. Make one or the other. And uh that's what's running short. You know that they wonder if we can make it till uh you know uh 30-day supply.
  So when that goes then you make a you have to figure out are you going to supply jet fuel for combat aircraft as well as jetliners that carry civil aviation or uh or are you going to provide diesel fuel which the diesel is at the heart
 
-### Segment 3 — Of The Of Most Economies
+### Segment 3 — Trump Strategic Petroleum Reserve Hormuz
 
 of the of most economies ours in particular in the United States the you know the the trucks uh that carry you know to haul the food to the grocery stores the tractors that are in the fields with farmers.
  Uh so this is this is serious. This is why, you know, Donald Trump, it was sort of a I'm told was a come to Jesus moment >> and and and and the people really don't appreciate how fragile the system is right now because they look at we talk about draining the strategic petroleum reserve. Well, the strategic petroleum reserve consists of four sites.
@@ -75,7 +86,7 @@ of the of most economies ours in particular in the United States the you know th
 unstable. So, and each one the amount the the instability point varies from cavern to cavern to cavern of these different these different uh storage sites. So, what what they're looking at is you don't really have uh 340 million. You actually have 200 million and then within that 200 million it that's divided between the mid distillates that we're talking about that go to make diesel or jet fuel.
  Uh so the they're saying that this is going to be an unavoidable collision where where the market reality comes into play because and this goes back to the straight of Hormuz there's not enough oil coming out the the main sites for this for this heavy heavier crude for jet
 
-### Segment 4 — Fuel Diesel Uh Persian Gulf
+### Segment 4 — Gas Prices Hormuz Trump
 
 fuel diesel uh Persian Gulf, Russia uh I think uh Canada uh Mexico and uh Venez Venezuela.
  So, uh, the the problem is there is not a surplus of that and particularly getting anything out of the Persian Gulf. We're not talking weeks, we're talking months of delay. >> So, yesterday in Northwest New Jersey, um, regular and super $5.99 a gallon. Does that surprise you that it's up that high? >> Uh, no. It's going to go higher.
@@ -87,7 +98,7 @@ fuel diesel uh Persian Gulf, Russia uh I think uh Canada uh Mexico and uh Venez 
 >> Yes. Yes. Yeah. And that I mean Moner is basically uh he and uh Khan who is the for the prime minister currently in jail when they when they were both uh their conflict arose because Khan refused to seed to or defer to Maner and so Moner just had him put in prison. So, but yesterday JD Vance comes out.
  You see the Qatari foreign minister and so JD Vance is standing to the right of Prime Minister Sharif. Uh the Qatari foreign minister comes out. Remember Qatar is where the United States has the largest military base in the region. uh al- Luded the Qatari firm minister comes up warmly embraces
 
-### Segment 5 — You Know Kisses Cheek To
+### Segment 5 — Iran Turkey Trump
 
 you know kisses cheek to cheek with sharif and you see chie van starts to reach you know like hey let's shake hands the Qatari foreign minister ignores him just looks at him and then looks away goes over embraces maner and then comes to stand and JD
 Vance is looking and again tries to engage with the guy and theqatari foreign minister crosses his hands he's have None of JD. This was when when Q cutter, who has been, remember they just gifted Donald Trump an airplane, a 400 million dollar beast. Uh when they're when they they visually disrespected JD Vance >> they're mad at they're mad at the United States.
@@ -100,7 +111,7 @@ Vance is looking and again tries to engage with the guy and theqatari foreign mi
 
 >> Why uh does Iran still control
 
-### Segment 6 — Hormuz How Does Iran Still
+### Segment 6 — Lebanon Hormuz Hezbollah
 
 Hormuz? How does Iran still control Hormuz, Larry? >> They can threaten.
  They can threaten to hit any ship that comes through without permission uh with with a drone, with a underwater drone, with a torpedo, uh short-range ballistic missile, and and these capabilities extend hundred, you know, more than 100 miles into the interior of Iran. So, they've got the ability to shut it down.
@@ -113,7 +124,7 @@ Hormuz? How does Iran still control Hormuz, Larry? >> They can threaten.
  And people say to me, "Wait a minute, but there's Lebanon and there's Hezbollah." I don't accept this artificial distinction. Lebanon is a country. There are Hezbollah members in the Lebanese government, ministers on behalf of Hezbollah. It has a revolving door policy. >> I guess the uh this faction in the Netanyahu coalition will pressure the prime minister to keep killing in Lebanon no matter what Donald Trump says.
  Well, it's not just Ben-Gvir and and Bezal Schmotrich. By God, it's Napali Bennett, you know, the opposite. He's supposedly the lefty, the moderate, you know, he he was uh
 
-### Segment 7 — Interviewed By Piers Morgan Just
+### Segment 7 — Israel Hezbollah Lebanon
 
 interviewed by Piers Morgan just about a week ago and was, you know, he was talking about he was going to be tougher than BB Netanyahu and that he'd be the worst nightmare for Iran.
  You had this other uh Israeli politician Leed uh he was talking about, hey, you know, you got to kill a few civilians just like you Americans did in World War II. You know, you killed all these Japanese civilians and that's just, you know, when you're making an offlet, got to break some eggs. That was his attitude. >> Wow. >> And and I mean, he was just upfront about it.
@@ -125,7 +136,7 @@ That's exactly what we are doing. I guess he doesn't want to admit the Greater I
 So yeah, spare me. spare me about how at threat uh Israel is. That's not the case. I mean the numbers the numbers are what the numbers are. And when you present that people start arguing, oh you can't use a you know please let's look at the reality. It is the reality is Hezbollah has been attacking almost exclusively military targets in Israel because they see that that's who they have to fight.
  And uh they they're not out, you know, the the old days of suicide bombers on buses. That may have been done 40 years ago, but they haven't been doing that over the last 20 years. >> Is Hormuz open as we speak? Uh
 
-### Segment 8 — To Quote Bill Clinton Sort
+### Closing — Iran Hormuz Israel
 
 to quote Bill Clinton, sort of paraphrasing him, depends on the meaning of open. So uh can can Iran now safely have oil loaded tankers with Iranian flags sell out of uh the straight of Hormuz? Yes, without being without facing a US blockade.
  Trump did uphold that part of the bargain. Uh, can a nonis Iranian flagship sell out of the Strait of Hormuz? No. And for some of the reasons I listed earlier, but in addition to that, for right now, Iran said, "No, you're we're not letting anything else out until until the United States complies with theou." >> Well, Larry, thank you very much, my dear friend.

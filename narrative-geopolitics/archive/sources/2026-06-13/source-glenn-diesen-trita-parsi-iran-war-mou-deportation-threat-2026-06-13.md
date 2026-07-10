@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-13
 pub_date: 2026-06-13
 kind: cleaned-transcript
@@ -28,11 +29,20 @@ source_note: "Operator-pasted transcript; host dates Saturday 13 June 2026. Depo
 evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: paste-asr
-opening_trim_applied: false
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 0 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 0 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (10 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Trita Parsi: Iran War Ends Today? Threats of Deporting Trita Parsi
 
@@ -45,7 +55,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Trump Israel
 
 Welcome back. We are joined today by Trita Parcy, the executive vice president of the Quincy Institute for Responsible Statecraft.
  Uh he's also an award-winning author with the Washingtonian magazine for five years named one of the top influential voices on foreign policy in Washington DC. I have >> six I have I haven't updated my bio yet but it's six years in a row. >> Six years in a row. Well done. So again I would advise everyone to look at the Substack and uh the yeah the link is in the description.
@@ -62,7 +72,7 @@ but these days you know one one one uses only these labels one says you know one
  I mean, it doesn't really matter if you think, you know, who you're pro or or not or what you think about Iran. You know, you need a if you like Iran or hate Iran, you need an honest analysis of the war because yes, but you know, this war was a disaster for US strategic interest. So this absolutely >> this idea that if you just you know if you support the US then you force a war it doesn't really make much sense if you do an analysis of the of how this war would likely work out and the conclusion is that uh yeah it would be disastrous
 but uh do you get the impression that the discourse has kind of the quality has dropped uh significantly? Well, uh I would go one step further. Uh it has qualitatively uh
 
-### Segment 2 — Deteriorated Remarkably But It Has
+### Segment 2 — Russia Iran Europe
 
 deteriorated remarkably, but it has done so outside of the US as well. And I think that is one of the big differences.
  I was here in 2003 and it was very clear. I mean the Bush administration at the time called Ro was essentially saying that if you're against the war, you're unpatriotic. So it was very much uh at this level perhaps not as low as it has become now but you didn't have that on the European side. You still could have a rational conversation on the European side about the causes of the war, about the context, about trying to understand Saddam Hussein's motivations and calculations.
@@ -78,7 +88,7 @@ pro-Russian and anti- Ukrainian. And uh that's kind of where the discourse shuts
 then they fill it up with any content they want. It's a very it's >> manipulative >> and ultimately terribly terribly counterproductive. Just look at how Europe is fairing right now. Uh look at how the United States is fairing right now. I had conversations with the administration before the war. I argued ferociously that they are completely misreading Iran.
  They're thinking that Iran is much weaker than it is. Um, and beyond that, they think that the Iranians fear war more than they fear surrender. And as a result, Trump's approach was to just amass more military towards the region and think that eventually the Iranians would um surrender. And as a result, he would never actually have
 
-### Segment 3 — To Actualize His Bluff Of
+### Segment 3 — Iran Russia Europe
 
 to actualize his bluff of attacking.
  And I was trying to make it clear to them that they don't understand, they will never surrender. They fear surrender far more than they fear war. They think they can survive war, perhaps even come out looking good from a war, but they can never survive a surrender. And as a result, the entire fundamentals of your approach is erroneous.
@@ -94,7 +104,7 @@ like this, that's when you really need to clamp down on the debate because if th
 >> Yeah. Well, before the attack on Iran in February, I was making the point that the Iran is quite powerful, but this is this was, you know, considered to be a pro-Iranian argument. I said that they have a significant support among their own population that is the government. This is was also considered to be a statement of support and also I made the point that this is an existential threat for Iran which is also dismissed because you know they said oh we just want to help protesters and but uh but you know
 if if you could accept this what I consider to be realities you could predict how the Iranians will behave that is if it's an existential threat they will absorb a lot of pain and they will be able to fight and again they have a they are quite powerful and um you know the once you kill a leader it's not as if you know people will
 
-### Segment 4 — Rush To The Street And
+### Segment 4 — Iran Syria Hormuz
 
 rush to the street and topple the government.
 All all of this was very flawed and uh and also if they would have recognized this was an existential threat to Iran, it would have been predictable that they would have gone up that escalation ladder unlike in June. So they would have done it in February uh that is to shut down the stra well strike all the US bases in the region.
@@ -110,7 +120,7 @@ opinions to be included in the process. >> Yeah. Well, it's also then uh um when
  How do you think you're going to achieve what you set out to achieve? Because if you look at our track records over the past uh 30 years now, it hasn't been great. I mean, 20 years in Afghanistan to replace the Taliban with the Taliban, all this money and lives wasted in Iraq only to essentially, yeah, make it into closer to a Iranian ally, you know, the attack on Libya which essentially brought back slavery and attack on Syria which has now made us allied with ISIS through Galani.
  I mean this is not a great track record if uh you know it's just yeah I I wish there would be more yeah substantial arguments or discussions in terms of strategy what exactly do we want to achieve and how can this be achieved and um yeah we don't seem to do that um >> yeah yeah >> but and by the way
 
-### Segment 5 — Your Your Comment About The
+### Segment 5 — Iran Europe Nuclear Weapons
 
 your your comment about the immoral aspect of moralism is really well taken for a reason I've always been more attracted to realism because it takes that dimension out of it.
  It it assumes that all actors at the end of the day are pursuing some definition of their own self-interest. And by trying to understand how they define their self-interest, you have a better way of predicting what their next steps will be. And if you can do that, you will have a better way of dealing with them, deceiving them if you need. But you need to understand how they see the world in order to be able to do so.
@@ -126,7 +136,7 @@ favorite Iraqi Americans on TV left and right, begging for the United States to 
  And by having Iran Americans oppose the war, we would take that argument away from the neocons. And that's part of the reason why the neocons came after us and many different things that we did that were countering their uh agenda. And I have to say for 20 or so years, we were very successful. It was very clear that the Iranian-American community, the majority of it favored diplomacy.
  An overwhelming majority favored the JCPOA, strongly opposed the Iranian government and its
 
-### Segment 6 — Repression But Nevertheless Wanted To
+### Segment 6 — Iran Ukraine Israel
 
 repression, but nevertheless wanted to pursue a peaceful fa path between the US and Iran, lifting sanctions, etc. But it's not until just in the last year that the neocons managed to pull off something that I have to say frankly I was surprised by which was to in a variety of ways over course of time they had worked very hard and they had cultivated alliances with these monarchist Iranians to really uh get them to become extremely pro-Israel
 and then ultimately pro-war and in some ways at least in the early phases of this become the face of that war with some of them dancing and singing in the streets celebrating the start of the war. That was a key thing that we had frankly managed to prevent for 20 years. Um and uh plenty of studies need to be made on better understanding exactly how was that how was that flipped.
@@ -141,7 +151,7 @@ clear uh there is something on the table it is back in the Iranian court uh the 
  So his authority has not been fully established. He's also suffering from several different problems physical given the attack that he was enduring. So he may not have had the full ability to even try to assert his authority. His father ended up taking several years to be able to grow into that position. But also, this is one of the most important decisions Ivonne has made in the last couple of decades.
  Having to do that in your first couple of weeks is clearly not going to be easy, which I think is part of the reason why it appears, and I want to be careful because you hear a lot of different things. And even if I
 
-### Segment 7 — Believe I Have Pretty Decent
+### Segment 7 — Iran Lebanon Hormuz
 
 believe I have pretty decent sources in Iran, one has to be very careful knowing that we still don't know exactly what's happening.
  But what I'm hearing though is that part of the issue is that he wants to make sure that there is as close of a full consensus within their system as possible. That is extremely difficult to achieve because you do have certain very hardline elements that will never agree to any type of a deal with the United States. I think right now there is an effort to try at a minimum minimize those.
@@ -158,7 +168,7 @@ That is uh it would make less sense to walk away. I thought, you know, good way 
  So the Iranians believe that that exchange it is imbalanced in favor of the United States and that as a result there should also be some release of their frozen funds at the outset of this memorandum in order to really show balance things out but also really show the US's commitment to this. They're asking for 12 billion upfront and then 12 billion at the end of the MOU.
  Six out of the 12 billion incidentally was already supposed to have been released by the Biden administration who made a deal with the Iranians in September or actually in August 2022. That was part of the prisoner exchange. It wasn't September 2022, part of the prisoner exchange. But that prisoner exchange uh or that release of the funds never actually ended up happening because the Masini protests started in Iran and the Biden administration decided to renegade on that deal having already secured the release of several
 
-### Segment 8 — Americans From Iranian Priso
+### Segment 8 — Iran Hormuz Trump
 
 Americans from Iranian prisons.
 Uh so the Iranians believe that those first six billion have already been promised. So it's they're not going to renegotiate over that. Now, there's been efforts by others to say, look, let me also explain why the US has been very critical of this. The US side doesn't want to do that because they don't want to be compared to the Obama administration.
@@ -176,7 +186,7 @@ in it's not international waters it's Iranian and Omanian so in other words this
  Uh the US does so as well when it comes to the South China Sea. Uh the Chinese have signed on to it. The Americans have not. But nevertheless, um Trump can say that it's open. The Iranians can say that it's open. That in and of itself does not clarify if there's administrative fee issue uh that is being um charged. it doesn't say anything about who is controlling it.
  So sometimes that ambiguity as you said is absolutely needed in order to make sure that both sides can say that well it's
 
-### Segment 9 — Open Uh And Trump Can
+### Segment 9 — Israel Iran Lebanon
 
 open uh and Trump can go out and say no I've opened the straight of Hormuz and not go into the details of who's controlling it and whether there's fees etc.
  Um I don't find it likely at all that the Iranians will give up the Strait of Hormuz altogether. I think they have been very clear that they will try to make sure that whatever comes afterwards is different from what the preexisting status of the strait was. But that does not necessarily mean um that there's only one type of an alternative scenario in the straight.
@@ -194,7 +204,7 @@ Um, and as a result, we've seen that they're going to do everything they can to 
  And that is partly because if the Israelis are allowed to just restart the war, what's the point of the MOU? Because if they can restart the war in Lebanon, that has a spillover capacity to spill over into Iran. We've already seen that happen twice. But also, I think it's starting to become clear the Iranians are now going back to having some form of forward defense, meaning that Lebanon is part of their first line of defense against Israel.
 It's a deterrent, but it's also retalitary capability. It did function as that since 2006. Because the Israelis did not manage to defeat Hezbollah, they never
 
-### Segment 10 — Managed To Expand The War
+### Closing — Iran Lebanon Israel
 
 managed to expand the war into Iran, which was the plan at the time. That forward defense has taken a huge hit because of the fall of the Assad regime and the and the setbacks that Hezbollah has suffered.
  But now you have statements from Iranian leaders saying very clearly they're not going to go back to having their deterrence be on their own soil. their deterrence is going to be outside of the UR and that is I think a very clear reference that they're going to rebuild their forward defense and the first and most important element of that is Lebanon.

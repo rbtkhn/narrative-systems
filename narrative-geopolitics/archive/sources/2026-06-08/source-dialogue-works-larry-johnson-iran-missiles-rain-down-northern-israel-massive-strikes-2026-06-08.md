@@ -1,4 +1,7 @@
 ---
+
+
+
 ingest_date: 2026-06-08
 pub_date: 2026-06-08
 kind: cleaned-transcript
@@ -26,10 +29,20 @@ youtube_id: -jfbieXSiH0
 source_note: "Operator-pasted transcript; host self-dates Monday 8 June 2026. verify:wire-supported Iran missiles northern Israel after Beirut strike 7 Jun (Al Bawaba/Ch12 relay/AJ); Israel retaliatory strikes Iran 8 Jun (kore.co.il IDF/Israeli press); Pakistan Naqvi mediation 7 Jun (Al Jazeera); verify:wire-unclear Pepe Escobar Pakistan-source Islamabad Accords nuke-warning — single-source not wire-corroborated; verify:wire-partial missile-count volleys (20/11) — developing desk not independently tallied; verify:wire-out-of-scope Johnson Larijani third-party gate doctrine empty-building Yemen-response thesis. · ASR pass 2026-06-15."
 evidence_grade: transcript-bearing
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: AI-assisted ASR repair (common + series tiers + statecraft entity pass); 19 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 19 substitutions; not human-verified verbatim; verify before quotation.\\\\\\\" · source-section pass 2026-07-09 (9 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
 opening_tier: host-tease
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Larry Johnson: Iran Missiles Rain Down on Northern Israel – Massive Strikes!
 
@@ -40,7 +53,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Israel Trump
 
 Hi everybody. Today's Monday, June 8, 2026. And our dear friend, our dear dear friend. >> Yeah, you're just saying that to butter me up. Okay. >> Welcome back, Lori. >> Hey, I didn't go anywhere. Okay. I'm Yes, I am back with you. You know, I've been want You've been staying busy, too. You're you're too busy these days.
 >> Yeah, too bad. Too bad you can't get paid for it, right? >> Larry, I want to start with what has happened yesterday and we had the attack in DIY. Finally, Israel attack. It was an empty building as they mentioned after the attack. It see I don't know if they knew that the building is empty but the attack has happened.
@@ -56,7 +69,7 @@ In fact, he's almost like consiliatory. So, he's he's keen on getting a deal. Th
  You know, you'll be uh we're coming after you. So, uh this was a deliberate effort by BB Netanyahu. I think he ordered the strike in order to knowing that Iran would respond, that Israel would get hit and then Israel would use that as a justification to bring the United States into it and that would kill the deal. Didn't happen. Uh Trump basically said, "No, you know, you stay out.
 " Tried to talk him out of doing
 
-### Segment 2 — Any Kind Of Retaliation And
+### Segment 2 — Israel Iran Trump
 
 any kind of retaliation. And then I guess the last thing he said was uh well uh if you do it, you're doing it without us. You're on your own. So here's you know the Israelis I think actually had never thought that that Trump would leave him hanging and Trump left them hanging.
  And so, uh, they responded with, uh, you know, Iran fired that first volley, five waves, four missiles per per wave. So, a total of 20 missiles, hitting a variety of targets in Israel. But it wasn't, you know, it was more designed to say, "Hey, we told you not to do it, so here, you know, we're we're smacking you upside the head a little bit, but we're not really punishing you.
@@ -71,7 +84,7 @@ And the phone call between Donald Trump and Benjamin Nadio, Donald Trump came ou
  He's the main reason of this disastrous war and you're not able, you're not capable of convincing him not to attack or to come down. >> Well, it's not a matter of convincing. It's a matter of Trump deciding to withhold aid and to cut off aid and to cut off military cooperation and withdraw per personnel and he's not so far he's not been willing to do that but uh this deal with Pakistan hangs in the balance.
  Uh Trump really wants that deal. there is uh and it's it's it's
 
-### Segment 3 — Genuine And The Pakistanis The
+### Segment 3 — Israel Iran Lebanon
 
 genuine and the Pakistanis the last the last information I had the Pakistanis were optimistic that it was going to go through. Now that said uh I I still think that there are some Iranian demands that the United States will be unwilling to meet which will prevent this thing from being implemented.
 But uh it leaves the United States in a very difficult situation uh because Iran's got this uh you know strategic initiative right now. >> Israel says that they're not going to accept the new equation in the region. The new equation is what you've just mentioned with the case of Jani Sadani the head of Iran and the council of experts in Iran.
@@ -86,7 +99,7 @@ the Russians. >> Yeah. The other important point, Larry, in the new announcement
  They've made it now clear, Hezbollah, we got your back. We're here. That's why we have Benjamin Netanyahu Indian in Israel which is we know there are people in Israel who are who are agreeing on the policies in Gaza in Lebanon but they want to kill him. They want just to remove him from power because they know this guy is not going to leave his position until he's alive.
 >> Yeah. >> He's gonna stay there until the last moment. That's why, you know, the fight is important. What's what's happening in Israel is important
 
-### Segment 4 — As Well To Bring It
+### Segment 4 — Iran Israel Trump
 
 as well to bring it to the equation. >> Yeah. Well, uh, BB, he in recent photos, he doesn't look good either, you know. Um, and I Trump Trump looks terrible. Doesn't, you know, he's got a flush face.
  His face is the color of my coffee cup. Um, and then you know yelling and you know Netanyahu as well. He he he's got cancer and uh you know that's usually eats away at you and you know who knows if he'll be alive by the end of this year. But it but if he goes that doesn't change Israel's policy because this policy about destroying the Palestinians and even taking territory in Lebanon that remains I think a majority of Israelis are still backing that.
@@ -100,7 +113,7 @@ Uh so uh a security organization for the Persian Gulf that excludes the United S
  But that wasn't the case. Looking at the Iranian media today, >> there is no information. There is nothing there considering the attacks on Saudi Arabia. >> Yeah. >> They said late firstly they said it was Iran. Then they said no it wasn't Iran it was Yemen attacking them. But after all, you see when Yemen is not talking about it because Yemen, you know Yemen, you know Yemen when they attack somewhere, they say we hit that target in Israel in the northern part of Israel, in the southern part of so honest in the way they're behaving.
 >> Yeah. No, there's >> no point of >> Yeah. Yeah. Remember this entire the the the the missile strikes in the last, you know, it's been last 24 hours. All of this has been done for one reason. destroy the peace process that Pakistan is
 
-### Segment 5 — Working On Pakistan Believes It's
+### Segment 5 — Iran Israel Hezbollah
 
 working on. Pakistan believes it's close to having an agreement that'll be called the Islamabad Accord.
  And now the the Israelis and their in particular Netanyahu in desperation are trying to destroy that, derail that. And one way to derail it is to get the United States involved in a war and get the Saudis involved because remember Saudi Arabia now has they they have like a defense treaty with uh Pakistan and Pakistan's deployed some of its military forces already to Saudi Arabia.
@@ -115,7 +128,7 @@ I think the second round of missiles you know in the first round as you've menti
 would they use a nuke? But uh I think right now they're Iran is somewhat they're they haven't gone full full force. They're deferring to uh you know the negotiations trying to respect the negotiations and the requests of the Pakistanis and indirectly the Chinese. >> Did you watch what my interview with Professor Marandi? I asked him about your report and Pepe's report. Yeah.
 >> And he he said what he mentioned that is I think this so serious that Iran had the capabilities to build nuclear bombs for almost 16 years more than 16 years. >> That's true. Yeah. I fully
 
-### Segment 6 — Fully Agree With Him On
+### Segment 6 — Israel Iran Trump
 
 fully agree with him on that. And as he said, you know, Pepe and I are just we were just reporting what the Pakistani source said.
  Now, was the Pakistani source lying? Well, maybe. But then you add in how has Donald Trump been acting since we got that information. Has he been acting with aggression towards Iran or has he been seen more consiliatory towards Iran? he's been more consiliatory, which I that again for me that reinforces uh that there there's there's something to this about Trump thinking he's got an agreement that's close.
@@ -130,7 +143,7 @@ And you know, Israel's its attempt to again gain control over Lebanon, that's th
 then they thought that they they're going to bring everything down. They lost the they lost the access or the connection between Iran and Hezbollah. But it seems that that connection still exists. The connection is still is there. But the problem with those, you know, the coalition of Israel and the United States and GCC countries and those bases, they have been diminished unbelievably in my opinion.
 >> Well, yeah. >> There is no repair for that for Israel. >> Yeah. the the um the de facto destruction or removal of the United States from the Gulf countries. And I say it's de facto because the bases that were hit take the in Bahrain the fifth former headquarters of the fifth fleet of the US Navy. Uh even though some of the
 
-### Segment 7 — Buildings Are Still Intact It
+### Segment 7 — Iran Israel Trump
 
 buildings are still intact, it is not a functional headquarters anymore.
  They've had to relocate. I I I don't know if they've relocated to Oman or to Florida, but they're they're certainly no longer in Bahrain and they won't be going back to Bahrain. That's the other key thing. So, u with with it showing that the the United States can no longer provide protection to these Gulf Gulf em, you know, leaders.
@@ -146,7 +159,7 @@ This is new. For God's sake, folks, recognize what's going on. >> No. Do you see
 So, uh, and we can't, uh, we can't ignore the fact that there's going to be, uh, if if Iran is serious about this new, uh, declaration, then Israel is going to either have to stop its attacks, its offenses, both air air attacks and ground attacks in southern Lebanon, or Israel itself is going to continue to be targeted, and then it's going to have to decide side is going to retaliate tried to go tit fortat with uh with Iran. I I don't think they can.
 That that was the lesson from the the 12-day war last June. Israel does not have the capacity to go tit fortat with Iran in a ballistic missile war of attrition. >> The other dimension of the war is what IA is trying
 
-### Segment 8 — To Do As We Had
+### Segment 8 — Iran Europe Russia
 
 to do. As we had a report on Press TV, they have obtained a copy of new anti-Iran draft resolution prepared for the IAA board of governors meeting in June 2026.
  this month they're going to meet and the text is harshly criticize Iran's nuclear program repeats claims of non compliance and demands greater access while threatening further escalation including possible UN security council referral what do they want to do about it I I don't know I don't see IAA being and the security council I know that in that security agreement between Iran and Russia, they're going to veto everything that comes to the Security Council against Iran.
@@ -160,7 +173,7 @@ I wouldn't be surprised at all if Iran announces tomorrow or in two hours that t
 you saw that headline you go Huh? What? Yeah. Feel like feel like Scooby-Doo. >> It's it's it's just I I think Iran is getting there is the because before before all this madness happened and we had the argument that you can get something by negotiations. Even with what you've said, Larry, if they come to some sort of, you know, deal, it's going to be a deal.
  It's going to be some sort of ceasefire between the two sides. It's not going to be something substantial. It's not going to be an agreement. It's not going to be something, you know, to make some sort of responsibility for both sides for a long run in a long run or
 
-### Segment 9 — A Shortrun Sort Of Policies
+### Closing — Iran Trump Russia
 
 a shortrun sort of policies.
  It seems that the United States wants to get of the region. That's why they're negotiating with this sort of messaging. But and then they wanted to get out of it. That's all they don't want to make any commitment for themselves. >> Well, this, you know, Trump's going for the legacy thing. So, if he gets to declare um, you know, it'll be another another uh piece on his resume where he wants to get nominated for a Nobel Peace Prize, but that that he secures an agreement with Iran that will be guaranteed Iran will not ever build a nuclear weapon.

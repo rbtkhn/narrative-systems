@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-15
 pub_date: 2026-06-15
 kind: cleaned-transcript
@@ -33,9 +34,19 @@ napolitano_sponsor_trim_applied: true
 napolitano_close_promo_trim_applied: true
 napolitano_leading_noise_trim_applied: true
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 17 substitutions; not human-verified verbatim; verify before quotation. ASR corrected: $242B → $25B staged-release pool (triangulated Diesen/Parsi same-day batch; verify against published MOU text). Prior provenance: Operator-pasted transcript body; ideological cold open, My Patriot Supply sponsor, and closing lineup promo trimmed in place. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 17 substitutions; not human-verified verbatim; verify before quotation. ASR corrected: $242B → $25B staged-release pool (triangulated Diesen/Parsi same-day batch; verify against published MOU text). Prior provenance: Operator-pasted transcript body; ideological cold open, My Patriot Supply sponsor, and closing lineup promo trimmed in place. · source-section pass 2026-07-09 (7 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 7
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Prof. Jeffrey Sachs: Netanyahu vs. Trump
 
@@ -46,7 +57,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Trump Netanyahu White House
 
 Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
  Today is Monday, June 15, 2026. Professor Jeffrey Sachs will be with us in just a moment on Netanyahu versus Trump. >> Professor Saxs, welcome here. Uh, I do want to talk to you about Netanyahu versus Trump. And I don't mean to surprise this on you, but the New York Times, uh, just reports, this will probably be on the front page tomorrow, that President Trump considered suspending the writ of habius corpus shortly after he was elected or inaugurated uh, in January of 25.
@@ -57,7 +68,7 @@ Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
 >> Those uh nicities would be the document they took an oath to preserve, protect, and defend called the Constitution. >> Well, we don't hear too much reference to that now, do we? After all, uh what we've had is rule by executive decree. Uh typically the courts get around after some weeks or months or a year or two of knocking things down.
  Uh Americans paid $140 billion billion dollar that the households will never get back. Some businesses may get a
 
-### Segment 2 — Windfall Uh That's For The
+### Segment 2 — Iran Nuclear Weapon Trump
 
 windfall. Uh that's for the tariffs that Trump imposed for which he had no legal authority to impose those tariffs. Now because those tariffs are being rebated, they're being rebated to the companies that passed along the tariff costs to households.
  The households aren't getting the money back in, I suppose, in many or most cases. So, we've ended up with complete abuse of power and then a kind of boondoggle and the American people paid the price for this. >> You know, you can't make this up. Whether you bought a MercedesBenz for $100,000 and paid $115,000 or whether you bought a toaster for $25 at Walmart and paid $30, you got to fight to get that money back.
@@ -67,7 +78,7 @@ MercedesBenz is going to get it back and Walmart is going to get it back. But yo
  What is on the table right now is reopening the Strait of Hormuz uh which was open before the US and Israel went to war against Iran on February 28th. Uh and now it may be open again thanks to uh this agreement. In other words, returning to the status quo ante as we say before there ever was a war. The nuclear issues in which uh Iran will not get a nuclear weapon because they've said for 25 years we don't want one.
  Uh we already had that treaty as you're pointing out agreed 11 years ago and Trump ripped it up uh 3 years after it uh was agreed in 2018. And this has been no end of grief of taking an agreement that would prevent Iran from getting a nuclear weapon, ripping it
 
-### Segment 3 — Up Uh And Then Getting
+### Segment 3 — Trump Israel Netanyahu
 
 up uh and then getting into war over this and then going back maybe uh to the terms of of that agreement.
  So what we can say certainly is this war never should have happened. Second, it was based on absolutely delusional premises that this would be a one-day operation. Kill the leadership and Trump would choose the next leader. This was absolutely as one of the observers at the time as Trump was proclaiming this thought absolutely farcical, which it was, but it's not just farcical.
@@ -78,7 +89,7 @@ So, uh, President Trump is in France. Uh, it's late in the day where as it is wh
  Chris is trying to get uh the actual video of him saying that. What What did Iran get uh besides the cessation of violence and the movement away of the United States Navy? Did they get any of the billions that the US has stolen from their uh bank accounts in America? One thing to emphasize which I think every person watching these events of the last few days knows is that we've not had a definitive account of what has been signed.
  Second, what has been signed is
 
-### Segment 4 — Absolutely Provisional Certain Things Happen
+### Segment 4 — Iran Treasury Russia
 
 absolutely provisional. Certain things happen at the beginning. Certain things are supposed to happen within the first 30 days. Uh other things are supposed to happen within the following 30 days. uh other things yet are supposed to happen 30 days after that and there is supposed to be some kind of final resolution on the uh main topic if you will uh of the nuclear uh portfolio uh 60 days from now.
  So they're supposed to enter into negotiations shortly upon the signing of this document. What did Iran get? It seems that uh there is some promise, some language that Iran will get some of its own money back. This is you can't make this stuff up. The United States government uh as a business seizes the money of countries it doesn't like. It did that with Russia.
@@ -88,7 +99,7 @@ absolutely provisional. Certain things happen at the beginning. Certain things a
  The US still has the power, not the law, not the right, but the power to cause grave economic harm. And the US caused a utter economic collapse in Venezuela. The United States has caused a catastrophic economic collapse in Cuba. And the United States has caused a real economic collapse, a pretty uh calamitous disaster in Iran.
  and our own Treasury Secretary, who I regard as a kind of mob enforcer, not a Treasury Secretary, told us in January in very explicit and joyful terms how
 
-### Segment 5 — The Us Went Out To
+### Segment 5 — Israel Iran Lebanon
 
 the US went out to break the Iranian currency, the Iranian banking system, and the Iranian economy last year, so-called maximum pressure. And he called it economic statecraftraft.
 >> I call it gangsterism. But in any event, Iran is responding to that even more, I would say, than it is responding to the American military. with the military, Iran retaliates and it has a credible deterrent because it can fire missiles into US military bases to Israel when Israel attacks Iran or Iran's allies and so forth.
@@ -98,7 +109,7 @@ the US went out to break the Iranian currency, the Iranian banking system, and t
  Israel is enexing the West Bank before our eyes and Israel invaded Lebanon. It's not a pretty picture. Israel is a rogue state. Uh three of the top people in the government right now, the prime minister and two ministers uh have been have arrest warrants out for them by the International Criminal Court. That's our ally supposedly until at least the last few days.
  I'm hoping I'm hoping that uh Trump will do what he says, which is first he told Netanyahu something very serious and uh very real. He said, "Everybody hates you." Which is pretty much true. And he said, "And everybody hates Israel." which is demonstrabably true according to the Pew uh opinion surveys done all over the world and released last month which showed that Israel is despised for what it's doing not because of anti-semitism that's absurd but because of what Israel is doing acting
 
-### Segment 6 — Like A Rogue State That
+### Segment 6 — Israel Netanyahu Trump
 
 like a rogue state that can kill anyone go to war anywhere
 assassinate leaders and think that this is somehow normal. By the way, Netanyahu's lead opponent right now, Natali Bennett, who was a prime minister before, is quoted tonight as tonight my time in Europe uh as saying that the day there's a change of government in Israel is the day that the regime change war against Iran starts again.
@@ -109,8 +120,6 @@ assassinate leaders and think that this is somehow normal. By the way, Netanyahu
 He is the president of the United States and I am the prime minister of Israel. Many times we see eye to eye and there are also cases where we see less eye to eye. I am responsible for Israel's security interests. I stand up for them and I want to tell you how to stand up for them.
  You have to stand up for them not with belligerance. You have to do it wisely. And that requires a lot of experience, a lot of wisdom and a deep familiarity with the American arena. It requires a great deal of experience. >> I think I am doing this in the best possible way and when necessary I stand firmly for our security interest. >>
 
-### Segment 7 — What Will He Do To
-
 What will he do to wreck this deal if there is a legitimate deal between Iran and uh the US? He knows he can't fight Iran alone.
  According to Larry Johnson, he wouldn't survive a week. >> I think that's right. Uh the United States has been complicit in every Israeli war, in every Israeli uh invasion of Lebanon, uh in the overthrow of the Syrian government, which was an initiative together with uh Israel, uh in the US case led by the CIA ordered by President Obama already back in 2012.
  Uh so everything that Israel has done uh depends on the United States. Uh and it depends on the United States in three ways. It depends on the United States militarily. Uh it depends on the United States financially and it depends on the United States diplomatically because uh the US has run diplomatic cover for Israel all along.
@@ -119,7 +128,7 @@ What will he do to wreck this deal if there is a legitimate deal between Iran an
  He went along with Netanyahu in an absolutely delusional war against Iran that all the previous presidents knew not to get into. But Trump bought it, did it, it was a disaster. He's extricating himself, but he's realized perhaps in recent days Netanyahu is crazy as he called him. I won't use the full expression because it's not uh something that anybody should say, much less a president of the United States.
 But in any event, if Trump retakes American foreign policy, then Israel does not have any options. It will stop no matter what the uh blustering uh and strutting and claims of the opposition or Netanyahu side uh might make. They cannot continue their bloody-minded approach. last uh subject matter, Professor Saxs, which is akin to the first um when the New York Times reported uh that the Mossad spies on the White House Mara Lago and they identified the various individuals, the story, as you so
 
-### Segment 8 — Correctly Pointed Out The Story
+### Closing — Israel White House Netanyahu
 
 correctly pointed out, the story was
 the story, the fact that somebody went to the Times and verified it and the Times printed. The story was not the spying. We all knew about the spying. We called up uh Sheriff David Hathaway, who's the sheriff of Santa Cruz County, California, but for 30 years was uh in senior management at the Drug Enforcement Administration.

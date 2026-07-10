@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-16
 pub_date: 2026-06-16
 kind: cleaned-transcript
@@ -29,9 +30,19 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: clean
 normalization_state: raw_operator_paste
-editorial_note: "Verbatim operator paste; promo close retained; caption wrapper no-op; Dialogue Works opening no-op. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "Verbatim operator paste; promo close retained; caption wrapper no-op; Dialogue Works opening no-op. · source-section pass 2026-07-09 (9 sections)."
 quality_note: "Initial land 2026-06-16; wire-verify receipts 2026-06-16."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Larry Johnson: BREAKING: $150 Billion of Iran's $300B Reparations Is ALREADY Spent!
 
@@ -42,7 +53,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Nuclear Weapon Lebanon
 
 Hi everybody. Today's Tuesday, June 16, 2026, and our dear friend Larry Johnson is here with us. Welcome back, Larry. >> Howdy. A nice shirt. Okay, good. I was saying you you know you you didn't give Miranda the shirt treatment, you know, but that's right. Our special relation. >> You have to force him to wear that the same shirt that you gave to him.
  You remember that shirt you gifted him? >> Yeah. Did he wear it? No. >> Yeah. >> Oh, he did wear it. Oh, good. Just once. Yeah, just once. >> Good on him. >> We can force him again to >> I'm glad I'm glad we can. It's better to talk and laugh about shirts than about the world blowing up. >> Yeah. Yeah. Exactly.
@@ -58,7 +69,7 @@ And only after it performs what is written below that is no nuclear weapon no fu
  So is it because there are still issues to be discussed and debate they're still debating and discussing trying to work out a compromise or is it that yeah it is finished and he was afraid that if they released it before Friday that the backlash from the Zionists the neoconservatives uh will be so great that it could possibly derail the signing of an agreement.
  So I think it
 
-### Segment 2 — May Be More The Latter
+### Segment 2 — Trump Israel Iran
 
 may be more the latter. >> I think your point is is quite you know right because today we've learned it from two sources from Israel channel 12 and later on one of the Israeli reporters confirmed that Israel asked the United States to give a copy of MOU but the Trump administration rejected that. They said we're not going to.
  And so it seems that they don't know what's in it. the government. I don't know what. >> Stop. Stop. That's what I have no doubt. That's what Israel's saying. >> Do you believe them? >> No. >> Or do you do you believe that they actually have spies? >> Yeah. >> Inside the Trump administration. >> Yeah. That are passing on. So, Israel, they know exactly what's in it.
@@ -72,7 +83,7 @@ No, and see how the prices come down. Well, in 17 days it's likely going to skyr
 >> Yeah. The blockade is gone. >> Yeah. >> But they're still controlling the straight of Hormuz. >> Yeah. >> And today I talked with Professor Man. He said for 60 days there would be no charge no fee or toll in this rate of formos but as axis reported today there is a new mechanism for the rate of formos they said that is mentioned axis reported that is part ofou that Iran going to be in charge of the straight of formos together with Oman and they're going to charge you know whoever wants to use the straight of formos
 resort a resort fee. You know, now if you go to Vegas and you know, they used to almost pay you to go to Vegas to gamble. Now that the corporations are involved, by God, you're going to pay for your hotel room rate and you're going to have to pay for breakfast and they charge you a resort fee, which sometimes could be like if if a room's 200 bucks, you got
 
-### Segment 3 — Another Bucks To Pay Per
+### Segment 3 — Israel Iran Trump
 
 another 50 bucks to pay per day.
 So, you know, you stay 10 days, all of a sudden you're up, you know, $500. So, yeah, that that's what Iran Iran's doing the same thing to the ships that want to come in and out of the straight of Hormuz. You pay each time. >> I think the problem is that as CNN reported, I don't know if you saw the article on CNN, the US Intel assess Iran can shut down this trade of form at will.
@@ -88,7 +99,7 @@ You know, the US would say, "Okay, we're pulling our KC135s out." Well, Iran doe
  So, uh, no, I'm not happy with the way Israel has handled themselves with Lebanon and with Hezbollah. They should have been able to do the job faster. It It just goes on forever. And when that happens, it throws a negative light on the big deal. And that's the deal with Iran. >> Yeah. I I think he's putting out many facts. By the way, >> somebody say, "Is that Donald Trump? Let's let's get a urine test quick.
  Make sure he hasn't been replaced by some alien, you know, a a doppelganger, a Trump doppelganger's come in. He's now he's now admitting that yes, it Israel is engaged with genocide. It is killing innocents just to try to kill one person." And you know, we'll see how long Trump the more
 
-### Segment 4 — He Says That The More
+### Segment 4 — Israel Iran Trump
 
 he says that, the more it just drives the neoconservatives crazy.
  And uh you know, the put the the Ben Shapiro and the um you know, Mark Leven into uh head exploding territory. We'll hear what sounds like. Oh my god, in Washington DC night they're reporting explosions. Then a few minutes later, uh, never mind. Those those were the heads of prominent neoonservatives and Zionist newsmen who were covering the president and they have disagreed and their heads exploded as a result.
@@ -104,7 +115,7 @@ acknowledged but operate. So those are the two sort of human. You got state depa
  Uh the the Supreme Leader has not reauthorized the weapons program that was suspended in 2003. and the intelligence community continues to monitor for any decision by current or new Iranian leadership to pursue one. So, and the CIA assessment remains the same. So, that's why I'm saying this uh for Ratcliff to come out now and claim that oh now CIA now has a completely different point of view.
  Well, wait a second. How did you
 
-### Segment 5 — How Did That Of What
+### Segment 5 — Lebanon Israel Trump
 
 how did that of what is the specific intelligence you've seen in the last 12 months that has caused you to do a complete of vaultas you know turnaround reverse course >> yeah it seems JD Vance is coming to the scene again I don't know what is the meaning of that not only he made three four interviews recently in the last two days And today he was on Megan Kelly's show.
 And here is what he said, Lori, about Lebanon on her show. >> It is a regional peace deal. It's going to include the Gulf. It's going to include Israel. It's going to include Lebanon. The idea is this is a true regional peace deal because again, sorry, forgive me for interrupting. >> No, no, no.
@@ -119,7 +130,7 @@ So, you know, for at least eight years and uh so the the the leadership um you k
 a death sentence for himself. >> Yeah. >> Yeah. I saying, "Hey, thanks for the invitation." No, no, boy. I'm really busy here. Got to hop, too. Larry, today Donald Trump had two meetings with the head of Qatar, Amir, the Amir of Qatar, Shamim, and later on with MBZ, the head of UAE. >> Both of these two meetings were concentrated were focused on how to resolve the issue in in the West Asia with ongoing war.
  Both of them were supporting the deal. They said, "We are here for the deal. We are we we we we are prepared to invest." Basically, that $300 billion that they're talking about coming from these countries, GCC countries. And here is what Sheh Tamim of Katar said >> couple of months or weeks. I
 
-### Segment 6 — Think That Wasn't Our We
+### Segment 6 — Iran Israel Trump
 
 think that wasn't our we were not interested in you know what are the opportunities economical opportunities in Iran.
  Our interest both of us was to first of all to find a deal to stop this war. This is our main uh target but looking at the economy and the opportunity. I'm sure they're going to be huge opportunities and you know as long as I said this is a very important momentum to keep uh working like that to reach let's say the final deal.
@@ -134,7 +145,7 @@ get back in two months. I don't know how optimistic is that. Yeah, it may be I I
 We're not going to with Lebanon. >> That's not going to change. We're not part of MOU. We're not We were not part of the negotiations. >> Well, and we'll find out if uh Iran means what it says. You know, it I I think based upon what Iran has previously said about uh protecting the Lebanese people and li wanting to stop Israel's attacks that if Israel doesn't stop and Iran doesn't retaliate quickly and decisively that you know this will keep go the killing will continue and Iran will have discredited itself.
 You know, that's where the credibility is so critical. Don't don't make promises you can't fulfill. And if you do make the promise, then by God, keep it. >> How is that going to influence the Trump administration and the response from because
 
-### Segment 7 — That Is Because Today Jay
+### Segment 7 — Israel Lebanon Iran
 
 that is because today Jay Vance was somehow bragging about how influential they have been on putting pressure on Iran not to respond to Israeli attack last time.
 >> Yeah. Well, that is u this again will bring the pressure to bear on Israel. uh you know Trump come back to him and say hey I warned you know so I I think what would be effective I don't think Trump will do this but would be effective is Trump would come back on and say okay I warned you not to do this you've done it again so effective immediately we're withdrawing all US tanker fleets and combat aircraft from Israel have a good day and then start that process moving at At which point I think Israel would come
@@ -151,7 +162,7 @@ I I think it that Iran will continue to hold its fire. We'll see how many, you k
 >> If if they achieve something with Iran, Larry, how is that going to boost JD Van's position for 2028? And how is that going to be helpful for the Trump administration later on for JD Vance because it's going to be a success for the administration? I I would say because withdrawing from Lebanon is a huge task.
  It's not going to be something easy. Uh many people may find
 
-### Segment 8 — It Delusional Even Thinking Of
+### Segment 8 — Iran Trump Israel
 
 it delusional even thinking of it. >> But if they achieve it, what does that mean for the administration? If the if this stops the war and restarts economic growth around the world, then Donald Trump will take all the credit for it. It is Donald Trump's idea. This is his baby.
 If it turns into a disaster, this was Trump will say this was this was uh JD Vance's proposal and I listened to him. I made the mistake. I listened to him. It's all on him. He'll blame JD Vance. That's the way it works. He gets the credit for everything that goes right and Vance gets credit for everything that goes wrong.
@@ -167,7 +178,7 @@ Israel. >> GCC countries are getting closer to Iran somehow. They or they have n
 So, I I think whoever is elected is going to be uh farther to the right of uh all the good folks that are on uh you know cross uh cross cross talk or that uh with YouTube and the social media accounts. Um so I you know we'll have to uh the the way this message handling is going to go uh in the next few days uh is uh Trump is trying to keep the conservatives at bay is while keeping the me you know the actual substance of the message secret.
 Now that will he be able to pull
 
-### Segment 9 — That Off With With The
+### Closing — Iran Israel Netanyahu
 
 that off with with the Senate with Congress? I don't know. Um, it was um I guess it wasn't you. Someone else played me the video of um Mark Leven uh talking about the Constitution. That wasn't you, was it? >> No, it wasn't me. >> Yeah, he's talking about >> I don't blame Mark Leven's videos.
 >> Well, yeah, that's that's a good healthy choice for you. >> It's so It's so toxic. Yeah. But um he was saying that any agreement that Trump signs with u say in this case Iran has to be treated as a as a treaty and therefore has to be brought before the Senate and debated and the Senate has to approve twothirds.

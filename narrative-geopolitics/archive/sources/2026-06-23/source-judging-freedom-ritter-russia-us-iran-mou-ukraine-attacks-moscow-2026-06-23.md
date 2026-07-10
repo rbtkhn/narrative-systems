@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 ingest_date: '2026-06-23'
 pub_date: '2026-06-23'
 kind: transcript
@@ -23,7 +29,7 @@ evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: paste-prefix
 normalization_state: raw_operator_paste
-editorial_note: Operator-pasted transcript body; ideological cold open and closing lineup promo may be trimmed by post-land normalizers. ASR artifacts retained. Not human-verified verbatim. Ideological cold open trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-25 (10 sections)."
+editorial_note: "Operator-pasted transcript body; ideological cold open and closing lineup promo may be trimmed by post-land normalizers. ASR artifacts retained. Not human-verified verbatim. Ideological cold open trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (9 sections)."
 quality_note: Fresh intake 2026-06-23.
 napolitano_cold_open_trim_applied: true
 napolitano_close_promo_trim_applied: true
@@ -65,7 +71,17 @@ verify:
   - claim: AGM-188 prototypes not scheduled before Oct 2026 (Ritter)
     verdict: unclear
     note: J23-41 not corroborated in batch pass — escalate defense procurement primary
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Scott Ritter: Russia and US/Iran MoU; Ukraine Attacks Moscow
@@ -78,12 +94,12 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Russia Trip Impressions
+### Show Open — Good Scott
 
 >> >> Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
  Today is Tuesday, June 23rd, 2026. Our good friend and world traveler, Scott Ritter, joins us now. Scott, a pleasure, my dear man. It's good to see you. Welcome back to the United States. I am glad you're well, and we're anxious to hear about your trip.
 
-### Donbas Front — Drones and Morale
+### Segment 2 — Russia Ukraine Economy
 
 I want to start with your general impressions from your time in Russia and the environments, your interactions with Russian leaders, thinkers, elites, and ordinary folks.
 >> Well, the first thing I would say is that um >> [clears throat] >> if you're getting your impression of Russia from Western mainstream media, from uh social media, um you're getting the wrong impression. The uh I mean, I'm familiar with what's been being bandied about in mainstream media and uh been following uh social media.
@@ -92,7 +108,7 @@ lose faith, and that uh there's a chance if we just keep on putting the pressure
 Uh the notion that these uh targets that were struck represented strategic targets of immense value to Russia, and that the Russian economy uh took a heavy hit is absurd in the extreme. The notion that the people of Russia are broken by these uh ongoing attacks is likewise absurd in the extreme.
  Uh Uh you know, on the same day that Russia was that Moscow was attacked, the streets of Moscow were full of people just living their life as they as they do. Um I was also
 
-### Europe Collapse — Then What Trap
+### Segment 3 — Russia Europe Ukraine
 
 I spent a considerable amount of time in the uh Donbas, in Lugansk and Donetsk and Zaporizhzhia. Um very different situation, and it's very serious situation.
  Um the Ukrainian drones are a ever-present threat. Uh I myself was attacked twice. Um You know, it it it it it's just part of the new reality of war, but let's not be mistaken. Uh, the drone pressure being put on Russia by Ukraine is because that's the only vector of pressure that Ukraine has left. They are losing badly on the battlefield.
@@ -104,7 +120,7 @@ I spent a considerable amount of time in the uh Donbas, in Lugansk and Donetsk a
  Russia is on a trajectory of victory. The Ukrainians are not turning the table. They are not having a meaningful impact on Russia or the Russians. And that the Russian leadership is um you know, they are very pragmatic and very wise. They understand that they're trying to be lured into a trap by the West. That if they take these actions that everybody wants them to take to strike Europe, to you know, to to escalate, that this is exactly what the Ukrainians and the West want because as things stand, that you know, Europe is
 crumbling. Uh
 
-### Storm Shadow — British Red Line
+### Segment 4 — Russia Europe That'S
 
 Keir Starmer's out. Merz is not long to follow. He's gone. That's the German Chancellor. And Macron is politically dead. These are the big three in Europe that support uh Zelensky. Their economies, respective economies, are collapsing. Their societies are dissolving.
  Why would Russia do anything that could serve as a rallying point to sustain that which is collapsing? Russia's winning against Europe without doing anything. This is all propaganda. Yes, there are things going boom. Yes, there is temporary disadvantages for the Russians, temporary discomfort for the Russians.
@@ -112,7 +128,7 @@ Keir Starmer's out. Merz is not long to follow. He's gone. That's the German Cha
 >> What uh European nations are known to be assisting the Ukrainians uh in attacking inside Russia, Russian assets and Russian people. >> Well, we know for a fact that you know that England has been called out with the Storm Shadow missiles that were used. Um at least that's the initial assessment of some people that say they may have been an early batch of a new American air-launched cruise missile, the AGM-188.
 Uh But uh there's no evidence that that has actually been delivered. In fact, the first prototypes weren't scheduled to be delivered until October of this year. So, they'd have to be way ahead of schedule in order to reach that operational capability.
 
-### Rabid Dog — To Kill a Mockingbird Panel
+### Segment 5 — Russia Europe Ukraine
 
 Most likely it was Storm Shadow that Keir Starmer signed off on.
  I want to remind people this is the back in September 2024, Keir Starmer was coming to Joe Biden with a red briefcase with the paperwork to get the United States to sign off on using Storm Shadow in such a fashion. In a phone call from Anatoly Antonov, he was then the ambassador, a warning what the consequences would be prompted the Biden administration to back down.
@@ -131,13 +147,11 @@ This is a a big problem. But again, the people that say, "Well, then Putin needs
  He believed in the rule of law, just like these men do. Believe in the rule of law. And law is important. And we don't have civilized society without the rule of law. But what the hell good does law do you when a rabid dog is running loose in the streets? And in To Kill a Mockingbird, they turned to Atticus Finch to kill the dog, not because of his legal pedigree, but because during World War I, he was the best shot in the unit and killed more Germans than anybody else.
  And when a rabid dog's running in the street, the only solution is to shoot the dog. And I said,
 
-### SMO Endgame — Donetsk This Summer
-
 Europe is the equivalent of a rabid dog, and eventually it's going to need to be shot. Um that caused alarm amongst everybody in the audience. Um and I thought I would be kicked out of Russia, but apparently when they translated it, it was sent up to higher levels, um I received an invitation to attend the plenary session, and I got a second row seat, which is a very honorable place.
  So, some people were apparently happy with uh what I was saying. But, that's what I meant. And Europe is behaving irresponsibly, but as I've pointed out, my name isn't Vladimir Putin, and I don't have the weight of uh of Russia on my shoulders. I'm a military man, and I see a rabid dog in the street, and I want to shoot the dog.
 But, the question that has to ask be asked is, then what? After you shoot the dog, then what? And if you're going to attack Europe, then what? >>
 
-### Brakestop — Long-Range Missile Tests
+### Segment 6 — Russia Europe Ukraine
 
 What are the prospects for a conclusion to the uh special military operation? >> The Russia's going to win. 100%. The question is, how that victory will be achieved.
  Um will it be achieved by continuing the special military operation as it's going now? Um you know, we're we're we're very close to to seeing the collapse of the Ukrainian I know there's going to be people in the audience saying, "Scott, you've been saying this for years." Yeah, I have, and I've been right for years.
@@ -150,7 +164,7 @@ What are the prospects for a conclusion to the uh special military operation? >>
 uh region. Um, you know, Sumy may fall, Kharkiv may fall, um, but the Ukrainians can't sustain this uh this resistance. They're putting up a hell of a fight. Every Russian I spoke to said that they uh you know, they're Ukrainians are are hard fighters. Uh but they're Ukrainians are losing and they're they're losing fairly badly.
 >> Before we transition over to uh Israel uh and Iran, here's one of the last things that uh Keir Starmer signed off on while he was still uh Prime Minister.
 
-### Israel Host — MOU and Economy
+### Segment 7 — Russia Ukraine Europe
 
 Britain tests long-range missiles to help Ukraine bomb Moscow. Experimental systems each carrying a 250 kg warhead could potentially reach the Russian capital from Kyiv.
 What can you tell us about this? Well, there's Maverick. It's good to hear him. >> Well, Maverick is uh excited by I think someone is mowing the lawn across the street. So, sorry about that. Um, they you know, this is an ongoing European project because the Germans are doing the same thing. They're building uh the United States is doing the same thing.
@@ -161,7 +175,7 @@ What can you tell us about this? Well, there's Maverick. It's good to hear him. 
 
 >>
 
-### Hormuz Planning — Hegseth Cheerleaders
+### Segment 8 — Israel Iran Hormuz
 
 Switching over to uh Iran and the memorandum of understanding, is Israel turning on its last and best ally? >> Turning on the Oh, you mean the United States? >> Yes. >> The United States has never been their ally.
  Israel's never viewed the United States as an ally. Uh Israel has just been the number United States is the number one espionage target of Israel and has been for decades. Uh the Israelis view the United States as a as as the way that a parasite views a host. Um you know, you you need to keep the host alive, you need to keep the host strong as long as necessary while you suck the life out of the host.
@@ -176,7 +190,7 @@ won't exist if uh the Strait of Hormuz is not kicked open for a long period of t
  And uh it would take us months, if not years, to assemble those forces. And by the time we brought them to bear, um you know, we'd have to fight through a, you know, line after line of Iranian missiles. It's a war that um we're not certain of the outcome. Meaning, we can't guarantee you that we're going to win this thing. So, Trump pulled back and you know, he claimed that he had mercy in his eyes and didn't want to kill the Iranians.
 But the bottom line is he pulled back because he knew they were going to get involved in a a cycle of escalation that we could not manage successfully. Now, if he knew that then, why did he think What what changed in his mind? This is This is the the inanity of it.
 
-### Lavrov — Agreement Incapable
+### Closing — Iran Trump Israel
 
 The difference is Pete Hegseth.
  Back then, um you know, you had a chairman of the Joint Chiefs of Staff, uh Lloyd Austin, and you had uh I mean, Secretary of Defense, Lloyd Austin, and Chairman of the Joint Chiefs of Staff, uh I think Mark Milley, who um you know, were honest and said, "We we can't do this. This is not We can't guarantee the outcome.

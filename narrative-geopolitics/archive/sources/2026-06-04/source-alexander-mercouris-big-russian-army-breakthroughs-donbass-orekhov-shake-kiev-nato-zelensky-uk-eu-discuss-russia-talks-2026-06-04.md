@@ -1,5 +1,6 @@
 ---
 
+
 ingest_date: 2026-06-04
 pub_date: 2026-06-04
 kind: cleaned-transcript
@@ -27,9 +28,8 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: paste-prefix
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass + manual Konstantinovka/Readovka tail); not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass + manual Konstantinovka/Readovka tail); not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (9 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -38,12 +38,15 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Big Russian Army Breakthroughs Donbass Orekhov Shake Kiev NATO; Zelensky UK/EU Discuss Russia Talks
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Russia Ukraine Before
 
 Good day. Today is Thursday 4th June 2026 and before I proceed with this program, let me remind you again to tick the like button and to check your subscription to this channel. Now today um unlike my practice over the last few weeks, I am going to begin with a military update about the situation in Ukraine because news is now starting to pour in at a increasingly rapid pace from the front lines.
  All of which confirms that the pace of the Russian offensive in Ukraine, the offensive which began in April is now accelerating and that the situation for the Ukrainians is going from difficult to to critical. Before I discuss this further, let me again repeat a point which I've made in many programs.
@@ -58,7 +61,7 @@ Now this is the last important position that the Ukrainians still held along the
 itself. Now, um these reports have come together with Ukrainian video footage of drone attacks by the Ukrainians on Russian soldiers in the village of Mallaya Toka which lies to the southwest of southeast rather of itself. Now the Russian defense ministry um announced the Russian army's capture of Malai of Mallaya Toka from my recollection um several months ago but there were various claims in on the part of various mapping projects that the Ukrainians had recaptured it and to my knowledge the Ukrainians for their part never never
 admitted that the Russians had captured it at all. Well, again, there's been much uncertainty and confusion about this. It's never been clear to me um that the Ukrainians ever did recapture Mallayia Doc Machka. Um, but it's fair to say that most mappers and commentators assumed that they had. But now the Ukrainians have released video
 
-### Segment 2 — Footage Showing Ukrainian Fpv Drone
+### Segment 2 — Russia Ukraine Ukrainian
 
 footage showing Ukrainian FPV drone attacks on Russian soldiers in Malaya Tmachka.
 So it's up to you to decide which is true. Either the Russians captured Mallaya Tokmachka some months ago and had been there all along and um the um Ukrainian claims to have recaptured the village were wrong. or the Russians did recapt did capture Mallaya Toka, but the Ukrainians pushed them out, but the Russians have broken into the village again.
@@ -76,7 +79,7 @@ engines, the various other heavy industrial goods which Zaporozhye produces. I'v
 And that the officers of the Ukrainian forces defending Konstantinovka have been withdrawn as well. And well, there were lots of reports yesterday and early this morning that the entire town is about to fall. That actually, I suspect, is probably an overstatement. There are certainly Ukrainian troops in the northern areas of Konstantinovka clinging on and they might cling on for a while but certainly it looks as if the situation in Konstantinovka is becoming well critical and this very important town of around 70,000 people before the
 war that This area, this town is
 
-### Segment 3 — Also Now Falling And Falling
+### Segment 3 — Russia Ukraine Falling
 
 also now falling and falling fast, opening the way for the Russians to encircle the Slavian Katausk connibation from the south. Anyway, that's one set of news from Donbass. But I understand that there is now video footage which shows Russian soldiers in the western part of the village of Ray Alexandroka which is located to the east of Kramatorsk and which is on a hill overlooking Kramatorsk itself and the surrounding supply roads.
  And there is also there are also reports that the Russians have begun an attack and are clearing various other villages in a fortified area also immediately to the east of Kramatorsk. And well, Russian troops in western Ray Alexandraka suggest that this important village is indeed soon going to fall and it looks as if these other villages are likely to fall soon after and that will indeed bring the Russian army right up to the eastern outskirts of Kramatorsk itself.
@@ -92,7 +95,7 @@ Donbass is the pivotal center of the war. It was where the war began, where the 
  almost certainly rejecting all proposals for a retreat from those two cities. Something which of course he has consistently done ever since it was first seriously proposed at the USRussian summit in Anchorage in August last year. So Readovka says that with the Russians close to surrounding Slavansk and Kramatorsk with the Russians on the boundaries of these two towns with the Russians able to shell these two towns with medium-range artillery.
 what Zelensky and whoever is commanding the Ukrainian army by that time, be it General Syrsky who is the current commander or General Budanov who might replace him. What they're what either of them is likely to do is to
 
-### Segment 4 — Concentrate As Many Forces As
+### Segment 4 — Russia Concentrate Forces
 
 concentrate as many forces as they can to try to defend Slavansk and Katausk and to prevent the Russians from achieving a foothold in either of these two towns.
  Now, on this point, I have received over the last few days a commentary from um a member of the Duran community who is um reminded me of what has become an accepted Russian tactic for the capture of towns in Donbass, certainly since the summer of last year. This is not to send large breakthrough forces to storm into a town, but rather to infiltrate a town with small groups of troops to establish positions in the town, the town that is being stormed.
@@ -108,7 +111,7 @@ That I simply don't know. Um I would be very very wary about basing any assumpti
 This is a place that is not part of the Slavian clerosk connibation but which is still used by the Ukrainians as a major logistic center. Anyway, the Russians appear to be gradually working towards outflanking this town from the west. Um, the Russians continue to expand the territory that they control in the Kupiansk area in northern Kharkov region in Sumy region.
 Again, there's no official explanation
 
-### Segment 5 — Of What The Russians Are
+### Segment 5 — Russia Russians Except
 
 of what the Russians are doing there except that they're supposedly creating a buffer zone. As I said, to me, it looks more like a forward area for a possible future advance on Kiev. But again, that is my view. But anyway, lots of things are also happening in other places on the front lines.
 But that seems to me the overall military situation at the moment. Now, you will not find any discussion of any of this in the media in the West. I've noticed that the media in the west has essentially stopped providing any updates about movements on the ground obviously because they contradict the overall narrative that the Russian offensive is at a standstill.
@@ -125,7 +128,7 @@ But the Novarosia, the parts of the Novarosia highway that have been the major t
 I am going to allow for the possibility again that this might have been a mistake. a targeting error. I know that the overwhelming majority of people in Russia almost certainly would fiercely dispute this, but I'm going to allow for that possibility, except of course yet again that the Ukrainians have not provided convincing evidence or persuasive evidence that this was the case.
 Certainly, I haven't seen
 
-### Segment 6 — Any Commentaries About This Attack
+### Segment 6 — Russia Nuclear Weapons Nuclear Weapon
 
 any commentaries about this attack on this coach in the Western media at all. Probably they have appeared in some places and I've just missed them. But certainly this incident isn't getting the attention that it does. So yes, the Western media is covering this Ukrainian drone offensive, but it is doing so, let us put it like this, in an extremely selective way, giving the impression that it is a lot more successful than it really is and giving well, shall we say, avoiding as far as possible
 admission s that along with its relative lack of success, it is causing civilian losses, civilian deaths, including amongst miners. Now, I received a rather interesting email about this Ukrainian drone offensive, which might provide some explanations for the attacks that have happened in northeastern Russia and for the movements of Ukrainian drones in the Baltic Sea area.
@@ -142,7 +145,7 @@ He has said that if Ukraine really does want to end the fighting as Zelensky say
  If there ever was a Russian concession in Anchorage in August 2025 during the summit meeting between Putin and Trump um whereby the Russians would agree to a freeze of the conflict in Zaporozhye in return for a Ukrainian withdrawal from Donbass. My sense is that that concession has now fallen by the wayside. Just saying. But anyway, Aryabkov said that, but he said something else as well.
  He said that Russia would not hesitate to use nuclear weapons to defend its territory if
 
-### Segment 7 — That Was Directly Threatened He
+### Segment 7 — Russia Ukraine Nuclear Weapons
 
 that was directly threatened, he implied by NATO. And though he made it was fairly clear that he was talking about Khalenrad where some people in the west including very foolishly the Lithuanian foreign minister have recently been making statements about a possible western attack, a NATO attack on Khaledrad.
  Just saying. Um well anyway, it seemed to me was also saying that this willingness to use nuclear weapons applied to other Russian territory also including Crimea, Dombas, Hong and Zaporozhye. here if the attack came from NATO. Now I must assume that Ariabkov who strikes me as a very careful diplomat who would not speak out of line.
@@ -159,7 +162,7 @@ period of Russia's alliance with the Assad government. So, it does seem as if he
 Now, Bloomberg presents this as due to Ukrainian success on the battlefields, but as I've said already, that success when examined closely turns out to be basically a mirage. Um, it seems to me far more likely that the talk about beginning negotiations coming from those four is the product of gradual alarm, not yet panic that in fact the situation in Zaporier and Dombas is turning turning out very badly.
  And um that also, as I discussed in my program yesterday, no doubt partly explains Zelensky's instructions to Budanov to end the war by
 
-### Segment 8 — November There's Going To Be
+### Segment 8 — Russia Energy Markets Middle East
 
 November. There's going to be a big renewed push, as I said in my program yesterday, to try to get the conflict frozen, the conflict in Ukraine frozen um by um by November at the latest.
 Now, I also said in my program yesterday that the meeting between Zelensky and Senator Richard Blumenal looked to me like a further attempt to pile on the the pressure on the Russians to get them to agree to a settlement freeze before the crash in Zaporosier and Don. Bass which is now coming and to do so by react activating the bro bone crushing sanctions bill that Senator Blumenal and um Senator Lindsey Graham cobbled together in the early summer of last year.
@@ -176,7 +179,7 @@ He said that the global oil market hasn't yet fully felt the effects of the ener
 though it will do so within the next three three months. A physical oil shortage could occur this year if the Middle East crisis persists as oil production in the Persian Gulf countries will not increase. If the conflict drags on, Gulf countries production will not increase. Of course, there will be a shortage.
 Around 12 million barrels of oil are not entering the global market every day. It creates a large deficit already on the market as about as about 12 million barrels are not entering supply. The Russian government
 
-### Segment 9 — Is Closely Monitoring The Situation
+### Segment 9 — Russia Oil Prices Hormuz
 
 is closely monitoring the situation on the fuel market together with the federal anti- monopoly service and the energy min ministry.
 The current crisis is unprecedented. Obviously given what is happening in global markets. This is a truly unprecedented crisis. It has never happened before. Not even in the 20th century. Russia is maximizing the utilization of its oil export infrastructure with oil production set to increase in the future and return to previous levels.

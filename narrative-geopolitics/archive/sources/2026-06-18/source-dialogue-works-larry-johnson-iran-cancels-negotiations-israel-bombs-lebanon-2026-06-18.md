@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-18
 pub_date: 2026-06-18
 kind: cleaned-transcript
@@ -30,7 +31,7 @@ opening_tier: host-monologue
 transcript_wrapper_tier: clean
 caption_wrapper_normalize_applied: true
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 19 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 19 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (10 sections)."
 quality_note: "ASR normalization pass 2026-06-18; ph-civ replacement SSOT."
 verify_receipt: 2026-06-19
 verify:
@@ -40,7 +41,17 @@ verify:
   - claim: Iran will not travel to Switzerland for MOU-related talks
     verdict: partial
     note: White House 19 Jun — Vance delegation prepared, talks not finalized; Swiss FM 18 Jun Burgenstock plan still cited (Al Jazeera)
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # BREAKING: IRAN CANCELS NEGOTIATIONS AS ISRAEL BOMBS LEBANON — w/ Fmr. CIA Larry Johnson
 
@@ -51,7 +62,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Israel Hezbollah Trump
 
 So, Larry, what's your what's your preferred grilling technique? >> Um, a komado a komado grill or the Big Green Egg, a ceramic grill. You sear the steak for 2 minutes on each side and then you close it down and depending up on what kind of uh temperature you want in the middle. You leave it on for 8 minutes, 10 minutes, 14 minutes.
  And then best steak you've ever eaten. See, Larry, we could do we could do this even when there is no war. So, we're fine. We're we'll keep chatting. Well, uh today was was not not a quiet day, that's for sure. So, just about an hour ago, there's been some reports from a few outlets that the Iranians >> unconfirmed are walked have walked out from the are going to go to Switzerland for the signing ceremony and the negotiations because Israel keeps bombing Lebanon.
@@ -64,7 +75,7 @@ So, Larry, what's your what's your preferred grilling technique? >> Um, a komado
  So they they compromised all sorts of intelligence assets in the process. And lo and behold, here's Hezbollah back stronger than ever, more effective with drones, inflicting more casualties on Israel on a daily basis. Now, Israel can't sustain that. And the United States uh it's already US is US is withdrawing from the area.
  I don't know if you know that yet or not, but >> from the region, >> right? So um in terms of being postured militarily to carry out any more attacks against Iran, the the the process of reversing the flow has started. So like on
 
-### Segment 2 — February Or In The Days
+### Segment 2 — Trump Israel Iran
 
 February 26 or in the days the days prior to the 28th of uh February when the war was launched, the uh central command uh they canceled exercises.
  They set up crisis action teams or joint operations centers um jocks also called jocks or talks and that was set up at central command headquarters at McDill Air Force Base. It was set up out at the forward base uh at out in say aloud in uh Qatar set up in uh at the Pentagon National Military Command Center.
@@ -77,7 +88,7 @@ They got to bring all those home. And so that's what they're in the process doin
  I'm not sure how long it will last um and what happens after Trump leaves office but one of my guests said don't get too excited. Trump is the most one of the most Zionist uh presidents the US has had in a while him and Biden. So he's what he believes is happening is what Trump and Vance are doing is that this is them admitting defeat.
  This is them selling the MOU. This is them telling the world like, "Hey, we have no choice but to sign this deal." But this they are not turning on Israel. And the two So it's important to draw a line between giving up to to Iran and just waving the white flag with making statements like this that align with Iran and oppose what Israel is
 
-### Segment 3 — Saying Versus Turning On Isr
+### Segment 3 — Israel Iran Trump
 
 saying versus turning on Israel.
  and he's in the camp, you know, he he's, you know, he's not binary, but he does believe this is more likely that the the administration is just accepting defeat, they lost the war rather than turning on Israel. >> I I don't understand the difference. What is what is once you accept the defeat, that means everything that Israel had wanted to achieve is not achieved.
@@ -90,7 +101,7 @@ from now. So there are no KC135s, there are no F-35s to speak of. So we don't an
  So, so they're they're really they're a minority group. They may Yes, they're powerful in terms of money. They're to power powerful in terms of got a number of very uh you know the head corporations and other things and news outlets, but but you still just depending upon them serving them isn't going to guarantee you an election win.
 In fact, it may very well in increase the chances of you losing an election. And I think I think they've done they know what's coming economically. This Trump got briefed. He was warned there is an economic catastrophe coming and
 
-### Segment 4 — He Said It Himself We're
+### Segment 4 — Trump Iran Hezbollah
 
 he said it himself. We're going to be out of oil in four weeks mid mid July. So you know that's what that we heard that Pepe heard that before Trump said it.
  I mean, you know, Pepe and I were talking yesterday, well before that, he said that and that that was what he was being told by his sources and man, lo and behold, Trump comes out and confirms it. >> So, they they know there's something brewing that because this this clearly this scared Trump to the point he did complete 180.
@@ -103,7 +114,7 @@ He said, "Hey, I sort of disagreed, but you know, this is the president." Now, w
 Pezeshkian and Pesan is the one that signed it and put his photo. Galibbuff and Peshan put a statement just a few minutes ago. I read it. Nothing too significant but kind of supporting the supreme leader. That was about 30 minutes ago. They put a very similar statement both together. So there was no split or anything. Yeah.
 >> But it was just interesting. >> Well, and it's your point is but please finish. It's an important point that that stereotype of like he says something everyone abides. No one has a say. That statement says otherwise.
 
-### Segment 5 — Yeah Yeah I Mean It
+### Segment 5 — Iran Israel Lebanon
 
 >> Yeah. Yeah. I mean it shows that gee these uh these are pretty rational people and uh the the as we as we talked yesterday when you step back and look at that memorandum of understanding the the the five areas that uh Iran had identified as redlined are each addressed in there and addressed in a
 way where while it's not definitive that it's got to be done by dates you know the specific date and time, but the sanctions relief, unfrozen assets, lifting the blockade, you I mean that's already been done. That was underway. Uh and then recognizing authority over uh the straight of Hormuz that that's conceded in the document.
@@ -113,11 +124,13 @@ that that really has not been admitted in public. Um and and that >> more than w
 >> The one in Bahrain. Yeah. >> Yeah. something beyond top secret and that the fact that it was hit and destroyed just left the the US side shocked. So that that's you know there there's that element to it. Um the and you're seeing though the political reaction in in in the in the states is there the the the Israeli lobby is still very very powerful and you've got Republicans and Democrats critical of this decision which I find sort of it's revealing.
  I I wouldn't call it amusing but it is revealing. But on the other hand, uh the there among the populace, among the the public, there's no appetite for further war, particularly a war against uh Iran. >> What do you make of the CNN article of Netanyahu lobbying um to shape theou, the final, the final agreement, sorry, including by pressuring Trump through allies and intermediaries in Washington.
 
+### Segment 6 — Will Change Theou
+
 all these different pundits and uh members of Congress. Um how far do you think that pressure will go and do you think will have an impact? >> Well, that you know that train has left the station change theou is already signed. >> No, sorry to change the final agreement. I misspoke. >> Oh, so you mean when they sit down to negotiate >> 60 days? Yeah.
  Yeah. Well, >> so they've given up. That was my sense when Senator Graham Lindsey Graham put out a post yesterday. I don't know if we talked about it yesterday. He put out a post. No, I think he put it this morning. He he was praising theou. When I read that, I'm like, okay, there's no way Lindsey Graham suddenly changed.
 >> Good on you. Good on you. >> So, when I when I read that, my my my assumption is that it seems that they're they're, you know, they've they've kind of given
 
-### Segment 6 — Up On Trying To Impact
+### Segment 7 — Iran United Nations Pentagon
 
 up on trying to impact the ammo. You were trying to continue the war. That ship has sailed as you said, but what they're trying to do is now the next step is try to sabotage the end agreement and then maybe in a future administration in two three years try to get back to war, drag the US into war.
 But the strategy of trying to get the war now and sabotage the MOU given up on that. >> Yeah. Well, the Yeah, the MOU is in place. So now the further discussions are uh getting you getting sanction relief, getting all the sanctions removed. uh some can be done by executive order, some have to be done through process at the United Nations.
@@ -130,7 +143,7 @@ um getting to get the negotiations on the uh remaining nuclear um you know the e
 Most of them are going to China. So China will benefit from this right away. Um and Iran will get paid in yuan and then build up that yuan and it is also have a tiein to gold. Um, so it's then the ships themselves are in not great shape. They've been sitting there at, you know, just at anchor for almost four months.
  Uh, so there there's some issues
 
-### Segment 7 — With That And We're Assuming
+### Segment 8 — Israel Trump Iran
 
 with that. And we're assuming, we don't know that all of the oil pipeline infrastructure, the pumping stations, the terminals, that they're all in good working order, that they were not damaged with explosives or bombs. If they are damaged, again, you're looking at weeks, if not months, to get, you know, repair, get them open so that they can uh fill up ships.
  So, >> Trump's Trump's hopes that this would get everything moving quickly. I I think he's going to be quite disappointed by it. And which raises the spectre that you could see a dramatic spike in in gasoline prices and oil prices in in July into August. um it probably wouldn't be until September, October at the earliest that you'd start to see them settle down again.
@@ -143,7 +156,7 @@ Um in that regard as well, the Wall Street Journal recorded uh reported um there
  I don't know if they've done that or not, but that's, you know, that's one thing I would, >> if I was in Iran's shoes, I would do. Yeah, I think they aren't. You don't know if the Iranians did that, but I think has is not attacking northern Israel. Um, and al reported that Nabir Buri, the ally of Hezbollah, the head of Amal, he said, so which is a kind he's become the unofficial spokesperson for Hisbala in a way.
  And he says, quote, I confirm the commitment of Hzbalah to a ceasefire as long as Israel fully and
 
-### Segment 8 — Comprehensively Abides By It So
+### Segment 9 — Israel Lebanon Hezbollah
 
 comprehensively abides by it. So Hisbala has made their position clear. Before their position where was we will only seize fire if Israel pulls out. Now they say we will see fire even if Israel doesn't pull out to give the negotiations time to come up with a plan for the Israelis to pull out.
 >> Um and there's another report here about Israel trying to convince Trump to stay in southern Lebanon. uh Reuters, a senior Israeli official close to Netanyahu says Israel's holding stubborn negot coming up with a with um with a strategy of having pilot zones in southern Lebanon um that which the Lebanese government agreed with.
@@ -157,7 +170,7 @@ So, another story here about the US military pulling out. Under the new straight
 >> Yeah, >> there's nothing that Iran didn't get, >> right? There's nothing >> soon we'll have there's an agreement a handshake agreement between Trump and Mushtav that Trump will rename the United States to the Islamic Republic of the United States of America. The Islamic Republic of America. That's it.
  Well, well, that's uh
 
-### Segment 9 — That's All The Updates Uh
+### Closing — Trump Iran Israel
 
 that's all the updates. Uh there's nothing else I missed. That's all the updates for the day. So, all eyes are um uh let me see if there's anything on the re Oh, JD Vance is talking about the $300 billion fund to rebuild um to rebuild Iran. So, yeah, if um anyone in Iran um anyone in the IRGC um it's an incredible day for the country, massive win for the country and it's going to be an uphill battle for Israel to try to change turn things around again.
  A multi multi-year uphill battle. So, we'll see. Yeah. Yeah. This is uh um you know, tomorrow we we'll see if the meeting comes off tomorrow. Based upon what's coming out of Iran right now, though, it sounds like it won't. >> Yeah, >> I have a feeling they'll go. I have a feeling they'll go. I think the Israelis don't want them to go.

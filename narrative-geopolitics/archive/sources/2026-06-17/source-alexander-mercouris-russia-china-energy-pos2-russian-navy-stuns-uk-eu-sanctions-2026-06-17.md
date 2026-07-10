@@ -1,6 +1,12 @@
 ---
 
 
+
+
+
+
+
+
 ingest_date: 2026-06-17
 pub_date: 2026-06-17
 kind: transcript
@@ -24,9 +30,8 @@ source_note: Operator-pasted transcript; Mercouris solo 17 Jun 2026 (London, pos
 evidence_grade: transcript-bearing
 opening_tier: host-monologue
 capture_note: Operator paste; full solo program body preserved from user-supplied YouTube transcript.
-editorial_note: Operator-pasted transcript; ASR artifacts retained; host notes fatigue/travel; not human-verified verbatim against audio. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "Operator-pasted transcript; ASR artifacts retained; host notes fatigue/travel; not human-verified verbatim against audio.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (7 sections)."
 transcript_wrapper_tier: clean
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -35,6 +40,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 7
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Russia China Deepen Energy Ties Agree PoS2 Terms; Russian Navy Stuns UK; EU Wants More Oil Sanctions
@@ -45,7 +53,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Russia Trump Iran
 
 Good day. Today is Wednesday, 17th June, 2026. Now, as you can tell from the background to this program, I am now back in London after a very intense and absolutely interesting and in fact in many ways very wonderful trip to Russia.
 
@@ -55,9 +63,9 @@ My next fully normal video will be the one I make when I'm properly rested tomor
 
 happen to a position where President Trump appears to have agreed a memorandum of understanding with the Iranians which basically puts the war on hold for a further 60 days. And this pause in the war, this extension of the ceasefire while substantive negotiations is due to take place um appears to be likely to begin from this Friday when according to some reports the US Vice President JD Vance is due to sign
 
-### Segment 2 — The Memorandum Of Understand
-
 the memorandum of understanding.
+
+### Segment 2 — Iran Ceasefire Netanyahu
 
 standing in some sort of official ceremony. I say all of this with extraordinary degrees of um uncertainty because so little about this whole situation is clear. As of now, the terms of the memorandum of understanding have not been made public. In Israel, the prime minister there, Prime Minister Netanyahu, is apparently complaining that even he up to now has not been provided with the complete text of these terms.
 
@@ -65,15 +73,17 @@ And one gets the sense that this ceasefire agreement is deeply controversial and
 
 They're not, as far as I can see, fully clear as to precisely what those concessions are exactly, but they say entirely correctly that Iran has in effect agreed to the very thing it said it would never agree to at the start of the war, which was a temporary ceasefire in the conflict between itself and the United States.
 
+### Segment 3 — Iran Ceasefire Hormuz
+
 Um, Iran's position throughout March was that it would never agree to a ceasefire, that it would insist on a complete and total end of the conflict between Iran and the United States in its entirety, fully negotiated and agreed to the last detail before the fighting. ended. And that is obviously not the situation we have now because key substantive matters like the issue of Iran's enrichment program have not in fact been negotiated or discussed at all.
 
 And what the Iranian hardliners are in effect saying is that by agreeing to a ceasefire and agreeing to the
 
-### Segment 3 — State Of Hormuz Being In
-
 state of Hormuz being in effect reopened in return for promises for refunding of frozen assets and the lifting of the American blockade and other things which the United States is no longer going to keep the Iranians have in effect negotiated their leverage away.
 
 They have removed their leverage because with the reopening of the straight of Hormuz, the Iranians no longer have that position which they previously did of being in a position to demand concessions from the United States in return for action that would reduce or relieve the critical situation. in the global economy. And if you go to the Iranian media and you see the various discussions that take play take place there, you can see that this is a widely and forcefully argued position.
+
+### Segment 4 — Iran Middle East Hezbollah
 
 I am not saying that the officials, the the Iranian um politicians who argue it speak for the majority within Iran or even for a significant minority of the people of Iran. But interestingly, this debate is taking place in Iran and it is unfolding in exactly the way that I said. Now, of course, this criticism, this agreement by the hardliners, if you want to call them that, in Iran, is mirrored exactly, but to a much greater, more forceful degree by the criticism of the Israelis and of their friends and allies in the
 
@@ -81,21 +91,19 @@ West, as has been regularly the case since the start of this conflict, at least 
 
 Anyway, David Blair put it like this. Trump's extraordinary deal is a survival plan for Iran. The 14 point agreement abandons hopes
 
-### Segment 4 — Of Regime Change Protects Hezbollah
-
 of regime change, protects Hezbollah, and secures Iran's economic future. And he does the last by essentially ending the American sea blockade of Iran by making provisions that would enable Iran to resume unhindered its export of oil and of energy products.
 
 something which the United States over many years has sought to suppress and it abandons long-term plans by the United States to force Iran to agree to end its nuclear enrichment program to destroy its ballistic missiles and end its ballistic missiles. program to agree to cease support for Hezbollah and other militias, pro-ranian militias across the Middle East.
 
 It abandons all those longstanding demands that the United States and Israel has been making basically since Donald Trump walked out of Barack Obama's JCPOA back I think it was in 2017. It abandons all of that and by doing so leaves the present government in full control of Iran, secured and more confident and looking at a change of the balance of power in the Middle East decisively in its in its favor.
 
+### Segment 5 — Iran Russia Oil Prices
+
 Now, it seems to me that both critics of this agreement, both those within Iran who complain about it being an agreement by Iran to give up leverage and those in the West who complain that the United States by entering into this agreement is in effect strengthening ing the government of Iran and is taking regime change off the table are substantively correct.
 
 Except ultimately it is the critics in the West who make the most powerful and the most convincing case. If the conflict had continued in the way that it were it had before with the straight of hormuse closed, we would indeed have seen eventually a significant increase perhaps a surge in oil prices.
 
 We would no doubt have seen deep recession crisis in the west. But it is highly likely that we would
-
-### Segment 5 — Have Seen A Major Escalation
 
 have seen a major escalation of the war even as relations between Iran and its friends including the Chinese and the Russians would have deteriorated with those countries becoming increasingly concerned that Iran was was was moving was becoming increasingly reckless and getting out of control.
 
@@ -109,19 +117,17 @@ The United States went to war seeking regime change in Iran, seeking to break Ir
 
 There is still great uncertainty as to what is going to happen in Lebanon. It is entirely possible that the
 
-### Segment 6 — Conflict Can And Will Resume
-
 conflict can and will resume there. In which case it is also possible that this could throw the entire situation with this franch with this ceasefire into jeopardy. In which case, just to say if the global community perceives that this is because of Israeli as opposed to Iranian intrigence, the balance of global sympathy and global support will shift towards Iran even further.
 
 In the meantime, the president of the United States has been giving every sign of being massively relieved that this adventure he launched himself into on the 28th of February, an adventure seeking regime change in Iran is over. He has spoken grandly about how he has managed to end his 10th war which is one way of putting it I suppose though the war actually strictly speaking is not ended since we do not yet have a final agreement just to say and he has been in an abol mood as he has gone to the latest G7 meeting
+
+### Segment 6 — Trump Europe Russia
 
 having a few days ago spoken to the Russian president Vladimir Putin. Now over the course of that meeting Putin was careful to warn Trump of two things. firstly that the Europeans and the Ukrainians, Zalinski and the Europeans would try to persuade him that Ukraine holds the initiative on the battle fronts when in reality the reverse is true.
 
 And in fact there have been many articles and many commentaries in the west that continue to insist this. I have read an article in Sky News, for example, that makes the usual extraordinary claims about how Ukraine is gaining the initiative on the battle fronts and how the Russian economy is supposedly in tatters. It actually uses the words in tatters to describe the existing situation within the Russian economy and well that is exactly how it turned out.
 
 Um, it Putin also warned that the Ukra the Ukrainians
-
-### Segment 7 — And The Europeans Would Also
 
 and the Europeans would also again attempt to get Trump involved once more in the situation in Ukraine. They would try to get him to recommmit to Ukraine in some form. They would try and maneuver a meeting between Trump and Zalinski, even though Trump had kept the possibility of a meeting with Zalinski off his G7 agenda and they would try to maneuver Trump back into endorsement of the European approach.
 
@@ -133,8 +139,6 @@ Russia. Um, it's all very similar to the extraordinary unedifying performance th
 
 a meeting which in the end lasted only 15 minutes but which the media in Europe hailed as a breakthrough a diplomatic breakthrough by Zalinski supposedly winning for Zalinski Trump's future respect
 
-### Segment 8 — And Support This Despite The
-
 and support this despite the fact that the meeting in fact as I said lasted all of 15 minutes and indeed we saw exactly the same thing at the G7 summit.
 
 Trump went to the G7 meeting obviously not wanting to meet Silinski but again the Europeans so arranged it that he did. The meeting lasted, from what I could see, just a few minutes. Trump really didn't want to meet Zilinski, and you could see that he was not engaged in meeting with Zilinski to any serious degree. But surprise, surprise, the media in Europe again are focusing on the fact that the meeting between Zilinski and Trump did indeed take place.
@@ -142,5 +146,7 @@ Trump went to the G7 meeting obviously not wanting to meet Silinski but again th
 And alongside that, the Europeans have also used the G7 meeting to do again what they have done and with a great deal of success, it must be said in the past, which is to try to pin Trump down. So there was another joint statement from the G7, which the Americans were party to again calling for a swift end to the war.
 
 a statement which of course the Europeans and the Ukrainians are interpreting as meaning that the Russians should essentially capitulate in the way that the Europeans want. Chancellor Meltz of Germany, who is of course fully on side with Macron and Starmmer in this matter, came out and said that um the fact that the Americans are talking about ending the war as swiftly as possible is proof that the Americans and the Europeans are indeed fully on side with each each other.
+
+### Segment 7 — Russia Europe
 
 And of course, the other thing, the thing which the Russians have taken particular heed of is that the Europeans have also secured a joint statement which appears to commit the United States to action to tighten and restrict Russian energy sales. Now, the last is, it should be said, a completely hopeless undertaking.

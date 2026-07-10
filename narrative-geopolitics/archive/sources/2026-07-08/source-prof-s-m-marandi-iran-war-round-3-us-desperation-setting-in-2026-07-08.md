@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-07-08
 pub_date: 2026-07-08
 kind: cleaned-transcript
@@ -9,6 +10,7 @@ guest_people:
   - Seyed Mohammad Marandi
 show_title: Neutrality Studies
 channel_name: Neutrality Studies
+host_slug: neutrality-studies
 show: Neutrality Studies
 host: Pascal Lottaz
 guest: "Seyed Mohammad Marandi"
@@ -27,23 +29,27 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 2
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Prof. S. M. Marandi: Iran War Round 3? US Desperation Setting In
 
 ## Transcript
 
-Iran War Round 3? US Desperation Setting In | Prof. S. M. Marandi - YouTube
+### Show Open — Lottaz And Marandi Reenter The MOU Breakdown
 
-Transcripts:
 Welcome back everybody to neutrality studies today again for an update with professor Muhammad Mandi professor at the University of Tehran say Muhammad welcome >> thank you very much for inviting me it's always good seeing you >> always good having you back and maybe before we start should I rather call you say or rather Mohammad which one of the two do you prefer >> both are good >> okay say in that case um can you give us an update of what's happening I mean just last night there were new strikes, new attacks, I mean, from uh both sides.
 As far as I understand, the Americans are not living up at all to their promises of also unfreezing Iranian funds. Uh Iran has blocked three tankers as far as the Americans keep telling us, and they've been striking and doing hu actually quite big strikes, the biggest ones, I would say, since the uh the memorandum.
- What What's the situation right now like? Well, there's no surprise, I'm sure, that the Americans are violating theou that Iran and the United States agreed upon. Uh they're violating uh different articles. U in Lebanon, for example, they are supposed to force the Israeli regime based upon their own commitment uh to end the uh slaughter and to end the occupation and to end the war.
- And uh just the day before yesterday, they murdered a the Israeli regime, a uh a young woman who was the principal of a school, her husband and their maid, and they're constantly bombing uh the country. So that's one violation. And among the other violations, uh is of course not releasing Iranian assets that were stolen, which were was supposed to be handed over to Iran already.
- But uh the one that you're alluding to uh is the fact that the United States in violation of theou which says very clearly that during the period when theou is uh valid the Iranians will manage the straight of hormones and ships that pass through have to do so under the supervision of the Iranians. Uh and what the Americans went and did was that they opened up their own corridor which is in clear violation of uh theou and so the Iranians have been warning ships for many days now that this is not acceptable and they have to move back
+### Segment 2 — Marandi On Why Washington Is Violating The Agreement
+
+ What What's the situation right now like? Well, there's no surprise, I'm sure, that the Americans are violating the MOU that Iran and the United States agreed upon. They're violating different articles. In Lebanon, for example, they are supposed to force the Israeli regime based upon their own commitment to end the slaughter and to end the occupation and to end the war.
+ And just the day before yesterday, the Israeli regime murdered a young woman who was the principal of a school, her husband, and their maid, and they're constantly bombing the country. So that's one violation. And among the other violations is of course not releasing Iranian assets that were stolen, which were supposed to be handed over to Iran already.
+ But the one that you're alluding to is the fact that the United States, in violation of the MOU, which says very clearly that during the period when the MOU is valid the Iranians will manage the Strait of Hormuz and ships that pass through have to do so under the supervision of the Iranians, opened up their own corridor which is in clear violation of the MOU, and so the Iranians have been warning ships for many days now that this is not acceptable and they have to move back
 and forth under Iranian supervision. the Americans have been forcing some of these ships to uh ignore Iran. And so Iran was forced to ultimately uh punish uh these ships that you you spoke of. And so uh since they were in violation, the Iranians struck them and then the Americans uh again violated theou by bombing Iran and Iran early this morning retaliated by striking US bases in Kuwait and Bah.
 Um, what is this in your estimation going to do to the entire process? I mean, not that the Americans were in any way, shape or form very uh truthful to what they promised in theou, but is this is this now the beginning of the the final unraveling of the whole thing? Or is it just is it to interpret as the Americans just lashing out again at the fact that there's apparently nothing they can do to stop Iran? is unclear.
  Uh from the very beginning, the Iranians were skeptical. Uh we have never had an experience with the United States over the past uh 47 years where they actually carried out their obligations in an agreement with Iran. And so the Iranians were not expecting anything. That's why the Iranians uh uh construct the constructed the detail the the the agreement with uh important details uh that give Iran leverage.
- In other words, the Iranians uh when the Americans refuse to abide by their commitments or try to cheat Iran, the Iranians have leverage within the framework of the deal to put pressure on the United States. That is what helps keep the Americans uh >> at bay pretending to at least or or dragging their feet to at least has been lifted by the and the reason is that uh they if they impose the siege Iran will also uh impose a ban on ships moving through the straight of Hormones.
+In other words, the Iranians, when the Americans refuse to abide by their commitments or try to cheat Iran, the Iranians have leverage within the framework of the deal to put pressure on the United States. That is what helps keep the Americans at bay, pretending to at least, or dragging their feet to at least comply. And the reason is that if they impose the siege, Iran will also impose a ban on ships moving through the Strait of Hormuz.
 That's why that's the only reason why the Americans have lifted the siege and um if the Americans refrain from carrying out their commitments as we are seeing by uh not handing over Iranian assets by trying to undermine Iran's authority over the strait of Hormos by allowing the Israeli regime to carry out slaughter then the Iranians will be able to uh slow down the uh the pace in which ships pass through this trade.
 And that of course puts pressure on Trump and the US economy. So um at the moment with the US is in violation and it's not in American interest. If you recall Trump himself uh in when he was trying to justify why he signed theou he said that our energy reserves are very low and there are only four weeks left.
 So based on that assessment and that admission by Trump, you would imagine that he would uh be very keen on fulfilling his side of the bargain. But then again, if you look at things objectively, you have the Israeli regime, you have the Zionist Labia in the United States, and they do not want this deal to be implemented.
@@ -52,7 +58,7 @@ So based on that assessment and that admission by Trump, you would imagine that 
  You're like, let let's go through more or less depending on whether the Americans behave according to theou, which in my view is at this point a kind of a yard stick for Iran, right? You it's it's a way to a measuring tape in order to to assess whether the the US is living up to its commitments or not. And if they don't, then you just go go back to punishing the US with what where it actually hurts.
  Is is is that what's going on? >> Exactly. That was very well put. If the United States abides by its commitments in accordance with the agreement, then the straight of foremost is normalized. And uh if the United States refuses to abide by its commitments, depending on uh the degree to which it refuses to do so, then the Iranians will be able to limit the number of ships that pass through the strait.
  Of course, Iran also has uh another form of leverage, and that is the nuclear program. The Iranians have said that if the United States does not abide by its commitments, we're never going to get to uh negotiations over a final deal with regards to the Iranian nuclear program and the broader sanctions regime. So, if Trump wants a deal uh over the nuclear program, he has to abide by his commitments.
- If Trump wants uh the the flow of energy and other resources to pass to go through the straight of hormones like it was 5 months ago, then he's going to have to abide by his commitments. Otherwise, he's going to drag uh down his economy and the global economy with it. Hey, just a very quick note. The best way to support this channel is by signing up for my free Substack.
+If Trump wants the flow of energy and other resources to pass through the Strait of Hormuz like it was 5 months ago, then he's going to have to abide by his commitments. Otherwise, he's going to drag down his economy and the global economy with it. Hey, just a very quick note. The best way to support this channel is by signing up for my free Substack.
  You can also help with a paid subscription there or you can get some of our new merch on neutralitystudies.com. Links below. See you there. The question to me about the nuclear um the nuclear agreement that Trump says he wants is like does he mean that? I mean it from everything that happened since 2018, it seems to me that that was always a convenient talking point, but that they actually don't care.
  I mean this is something to dangle in front of the Iranians in order to make them jump over over hoops. But actually, I mean, it seems to me that that really doesn't hurt them very much. Whereas the straight of Amusa actually really honestly does and you're now Iran is now in the in the position where it can condition the United States.
  It conditioned them during the war by saying like if you hurt us, we'll hurt you back and it will hurt for real until they got it. And now it seems that Iran is is working on doing that again, saying like, well, if you don't live up to your promises, we're gonna hurt you again like Pablo with his dogs, right? So, but the nuclear deal, do you believe the the Americans actually want it? >> Oh, yes, absolutely.

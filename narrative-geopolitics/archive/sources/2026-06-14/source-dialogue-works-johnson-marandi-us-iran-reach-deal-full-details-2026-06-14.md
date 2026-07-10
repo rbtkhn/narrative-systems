@@ -1,4 +1,5 @@
 ---
+
 ingest_date: '2026-06-15'
 pub_date: '2026-06-14'
 kind: cleaned-transcript
@@ -30,9 +31,19 @@ evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: paste-prefix
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 28 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 28 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (9 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Larry Johnson & Mohammad Marandi: BREAKING: US and Iran Reach Deal – Full Details Inside
 
@@ -43,7 +54,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Israel Trump
 
 Hi everybody. Today's Sunday, June 14, 2026. And our dear friend Larry Johnson is here with us. And Professor Marandi in a moment, he he's going to join us because we were waiting for him. He didn't join, but he's going to join us as we talk. Larry, let me start with what is going on right now between Iran and the United States.
  We had the Israeli attack on Dahi in Beirut. Again, again, they couldn't achieve the objective. They couldn't, you know, kill assassinate that those Hezbollah commanders because they wanted to assassinate some people there, >> right? >> Then Iran said they're going to attack. They're going to retaliate. The retaliation didn't come and just moments before coming to this live, we've learned that Iran is the United States and Iran has reached some sort of deal and they're going to sign it on Friday.
@@ -58,7 +69,7 @@ That's called a blockade. So, um I I I think what we have is we've got the the p
 Those, as I understood it, were Iran's five red lines. Those had to be given. No, I I don't see Iran making concessions on those. Well, so then you get into the details of okay, when when are those things actually executed as we saw with the JCPOA, Iran was supposed to get sanction relief and effectively did not.
  And you know, the other thing that's sort of hovering over this u agreement is the fact that you got United Nations sanctions that haven't even been addressed yet. And you got indications from France and the UK that they're doing all they can to sabotage this deal as well. >> Yeah. Here is what was reported by May News again the new that same news agency that before you remember that 14point plan that
 
-### Segment 2 — I Sent You The Other
+### Segment 2 — Iran Israel Lebanon
 
 I sent you the other day and they just announced it. This is official.
 This is official. Let me send it over to you. You can look at it. right now and I'm going to read it here for our audience here and this is the new this is the 14 point plan MU memorandum of understanding to be signed on Friday >> right >> it's yeah it doesn't take all of these descriptions but it mentions the point the important points 14point plan one of them the first the permanent and immediate halt of war on all fronts including including Lebanon today as we talk.
@@ -73,7 +84,7 @@ States is substantial if they decide to attack Iran. >> Yeah. Yeah. No, the Well
  You know the the left one and the right one. You see in the right one that it was destroyed. >> Yep. It's gone. Um so uh and then uh you had the attack on Moafak Salti air base in Jordan. Again, significant damage. Now Russian and uh Iranian channels were reporting the destruction and damage of up to 12 F-35s. Uh so um uh it uh now they could be exaggerating, but what's interesting is the United States is not coming out with this battle damage assessment at all.
  U you know, it looks like they're covering it up. So uh you know, we we'll see. Friday. Uh Friday is uh uh you know a long ways away, five days away. >> But when you talk when you're talking they're limited in the refueling tankers, it seems like because if they go to attack Iran, they have to bring something like 20
 
-### Segment 3 — Fighter Jets To Attack Iran
+### Segment 3 — Iran Hormuz Trump
 
 30 fighter jets to attack Iran or they're going to go with 10, 15, something like that.
  And you have to have at least for 10 15 you have to at least six or seven refueling tankers. Is that right? >> Um I think a refueling tanker can handle up to six aircraft. >> The KC135. So uh five five tankers would allow you to handle 30 aircraft. Um and to you know again to reach the Persian Gulf from there they've got to go at least two two air refuelings uh because the plane the the F-35s have about a 500 mile combat radius and then so u you know they would actually just to get out to the edge of the Persian Gulf they need two
@@ -89,7 +100,7 @@ You know what's strange? Donald Trump in his tweet he said that the blockade is 
  Uh complete lifting of the naval blockade. I know that the um the one uh Iranian channel called Powerful Iran uh it said that uh the United States is okay. Yeah, we're going to u we're going to lift the blockade, but we're going to continue to intercept any Iranian ship carrying weapons from China. >> [clears throat] >> Yeah, it seems on Friday, Larry, we're going to have JD Vance together with Alib, the head of Iranian parliament.
 These two will sign the deal in Geneva. This is what has been said just moments ago. And the second point, Larry, getting to the second point that the United States is
 
-### Segment 4 — Not Going To Interfere In
+### Segment 4 — Iran Israel Trump
 
 not going to interfere in the Iranian internal affairs. I think that basically is talking about the way that the United States and Israel were preparing for this war and the Israeli media is extensively reporting on the way the plan was prepared before the attack.
  It was all about the United States and Israel attacking Iran and using the Kurdish terrorists in Iraqi Kurdistan to come in and to do the regime change. You know, some making some sort of chaos by using these people. And here is Professor Marandi is joining us here. Welcome, Professor Marandi. >> Hi, Nema. Hi, Larry. How are you doing? >> There's there's a familiar face.
@@ -106,7 +117,7 @@ not going to interfere in the Iranian internal affairs. I think that basically i
  So, I may I may be part Yeah, I'm out of fear of Nema and out of my friendship to Larry, I'm on the show. But it's it's really Nema's, you know, Nema's threats that forced me to come on at 3:00 a.m. >> God bless you. >> So, thank you. And you too and Nema. So, uh the gap between the two sides continued [clears throat] after after the on Wednesday sent they sent a delegation informing the Iranians that those demands were withdrawn.
  So, we went back to where we were a couple of weeks ago, but the gaps remain. Now what Trump said yes the day before yesterday I guess I don't know it's 4 3:00
 
-### Segment 5 — Am Here So I I
+### Segment 5 — Iran Netanyahu Trump
 
 am here so I I don't know but you know when earlier not you know yesterday or the day before depending on which calendar we're looking at >> yeah because it's here it's Monday now um contrary to what Trump said there there wasn't an agreement contrary to what the Pakistani prime minister said with all due respect there was not an agreement that there was not a final
 text. So, uh, and they were stalemate and yesterday, meaning your today, um, I spoke with a couple of people who were involved and they were saying it's unclear what will happen. This is like 12 hours ago, 10 hours ago. Then Netanyahu makes the biggest and most stupid mistake possible. He goes and attacks Beirut at a time when we were in in in stalemate and Iran had demands and the Americans were not accepting them and Iran was not going to back down.
@@ -122,7 +133,7 @@ I agree that's uh the Iranians are not uh uh at all counting on you know smooth 
  They'll blame the United States and the Israeli regime. The Iranian people will see that we've negotiated a good deal. Some people are still unhappy. They're saying we should like I don't know continue with the war or or but I think that this agreement for now is better than striking the Israeli regime because if the Israeli regime if they now that they're committed to end the killing and to uh end the occupation that I think is preferable.
 We don't want any because they're they're massacring women and children every day, >> day and night. They're just
 
-### Segment 6 — Slaughtering People Across Lebanon This
+### Segment 6 — Iran Israel Trump
 
 slaughtering people across Lebanon. This is this is another Gaza being repeated. And so >> if Iran can force the the the Netanyahu regime and the Zionist regime from prevent it from continuing the this genocide in Lebanon, that is a huge defeat. It's much better.
  So much greater than lobbying lobbying uh missiles and striking targets in Israel. Although I'm sure people across the world would want would would be very happy to see Iran fire those missiles. But if Iran could get something much bigger instead, I think that's even a bigger achievement. And what it would be even what is the best of all perhaps is to see this clash between Trump and Netanyahu because either way Iran's adversaries the pe the world's adversaries they lose. Both of them lose.
@@ -139,7 +150,7 @@ I think Lori, you you can come in with the case of Trump. I think that what do w
  He said, "The deal with the Islamic Republic of Iran is now complete. Congratulation to all. I hereby fully authorize the tollfree opening of the Strait of Hormuz and sim simultaneously here with authorized the immediate removal of the United States naval blockade. This is what he tweeted. Go ahead, professor. I'm sorry for interrupting.
 Yeah. Again, since it's like uh 3:00 a.m. 3:12 now, I I have unlike I mean, I don't have I
 
-### Segment 7 — Didn't Have People To Call
+### Segment 7 — Iran Trump Netanyahu
 
 didn't have people to call before we uh came online. So, my information is based on one phone conversation with someone who's well informed, but I was in a rush because I had to join you and so I didn't ask him too many questions.
  But um what I know is that um the gap between Iran and the United States which existed till yesterday my time and today your time and it ended what did I say two and a half hours ago. Sorry I'm sleepy but ended. So the negotiations ended two and a half hours ago. So all that talk that we had a deal yesterday or in my time the day before yesterday is all nonsense.
@@ -154,7 +165,7 @@ So I think Iran's success and I and I know that the you the general staff I was 
 Yeah, here here is professor man. What is so important to be mentioned is that the blockade would be immediately lifted in this document. But when it comes to the Strait of Hormuz there is nothing of that is happening in the document. It seems that the Strait of Hormuz Iran would decide about it on Friday when they finally signed the agreement.
  Is that the case? >> Yes. And it will, of course, Iran will be looking to see if the siege is truly lifted and if the israeli regime uh discontinues the uh the the the genocide in in Lebanon. >> Yeah. Yeah. >> And by the way, I hope I'm coherent, but it's, you know, it's 3:18 a.m. So, if uh I hope tomorrow when you don't tell, you don't contacted
 
-### Segment 8 — Me Contact Me And Say
+### Segment 8 — Iran Netanyahu Trump
 
 me contact me and say you I said a lot of nonsense, but >> yeah.
 >> Okay. The Israeli media here is by the way I 24 says that why the is this agreement is a strategic disaster. The Americans give the Iranians plenty and get nothing in return. The most absurd thing is that this war ends with sanctions relief for oil sales, something that didn't exist before the war.
@@ -170,7 +181,7 @@ So So I think and then these these troops will have to stay in the Arabian Penin
 Uh but that will mean that the laws have if there's going to be a comprehensive deal that means the the House and the Senate will have to remove sanctions. Again, this is not something that I believe is going to happen. Uh if if if the world is lucky in my opinion, if the world is lucky, Netanyahu will be forced to obey Trump and he'll back off in Lebanon and he'll try to compensate by doing horrible things to the people in the West Bank or so. I don't know.
  These are monsters. But he will if if if he will this is like the best case scenario. He ends the slaughter. He ends the occupation and uh the the negotiation and then of course the the the siege is lifted. The trade Strait of Hormuz is open and then there are negotiations and this lasts for for two months. that I think is the best gate and then the two sides will start during these two months
 
-### Segment 9 — They'll Start Negotiating And They'll
+### Closing — Iran Europe Ukraine
 
 they'll start negotiating and they'll see that there's a big big problems because the Iranians are not going to accept sanctions relief for
 concessions over the nuclear program they'll go and say the UN sanctions gone US laws have to be removed so maybe there will be some provisional deals bits and pieces again this is like for me the best case scenario where the United States lifts sanctions that are not linked to the the house and the senate that are not in law and the UN sanctions are removed.

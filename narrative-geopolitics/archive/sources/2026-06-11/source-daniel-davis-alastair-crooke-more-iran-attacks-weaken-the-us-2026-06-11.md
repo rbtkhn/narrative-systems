@@ -1,5 +1,11 @@
 ---
 
+
+
+
+
+
+
 ingest_date: 2026-06-11
 pub_date: 2026-06-11
 kind: cleaned-transcript
@@ -26,7 +32,7 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: paste-prefix
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: AI-assisted ASR repair (common + series tiers + statecraft entity pass); 38 substitutions; not human-verified verbatim; verify before quotation. Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 38 substitutions; not human-verified verbatim; verify before quotation. Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (10 sections)."
 quality_note: ASR normalization pass 2026-06-15; ph-civ replacement SSOT.
 davis_close_promo_trim_applied: true
 verify_receipt: 2026-06-24
@@ -44,7 +50,6 @@ verify:
   - claim: GCC / energy-infra tit-for-tat escalation window
     verdict: supported
     note: J10-1 J10-2 carry - infra category supported; intent tier-4
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -53,6 +58,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Alastair Crooke: More Iran Attacks WEAKEN the US
@@ -65,7 +73,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Ceasefire Lebanon
 
 President Trump told me that he is getting close to ordering new strikes against Iranian power plants and bridges because he says the Iranians are tapping the United States along when it comes to the negotiating process. >> And no, that was not Trey Yinx from a month ago. That was Trey Inks from about an hour ago as he has just got off the phone according to what he said with President Trump and he's now saying that we're maybe ready to go right back into war even aside from all the things that happened last night. All of which we'll
 talk about here in a moment. Uh and we have with us the remarkable Alistister Crook who is a former British diplomat and MI6 officer with decades of experience in the Middle East and European security affairs. Also served as a senior adviser to the European Union. He is the founder of the conflicts forum which you can find on Substack and you're going to find in this episode here. Uh Mr.
@@ -79,7 +87,7 @@ very clear moving to um escatillatory um deterrence. So in other words, they are
  This is a very new thing. This is new. This is really important because um until now um if something happened throughout this period of the years for from 24 onwards if you like um a ceasefire was established in Lebanon. a ceasefire was established by the United States envoy um talking in Lebanon um and said there was now a ceasefire and immediately then um Israel um breached that ceasefire and continued to breach it, assassinating people um attacking houses um destroying villages and that goes on today and so far until now Iran has not directly intervened in
 this war in this direct way and they have now said very plainly um that if there is an attack in Lebanon our ally our resistance ally um and the other allies in this then uh
 
-### Segment 2 — We Will Attack Directly Into
+### Segment 2 — Iran Israel Ceasefire
 
 we will attack directly into Israel before they didn't attack directly into Israel there were attacks but they were not directed into Israel.
  So, we've had this tit for tat as you described in these last few days partly because um Israel was so um appalled at the idea of Iran linking what they do in Lebanon to whether there's a ceasefire and an agreement with uh the United States or not that they deliberately um if you like undermined it by attacking into uh into Beirut and then the Iranians duly fired missiles back measured not the upper end of their missiles but fired missiles back um into into Israel to underline that this is the new equation ceasefire for all or ceasefire for no one. And so
@@ -94,7 +102,7 @@ So that he's in a deeper deeper trap now as a consequence of what Iran has done.
 And the central the central point of this um is in the approach to Hezbollah. It is no longer presented as a regional ally but as a part of Iran's own national security equation. Therefore, according to the article, Iran will not return to the pre-war situation. Not in homos, not in the face of the American presence in the region, not in its relations with the axis of resistance.
  I mean, you've just heard it. I mean, this is an
 
-### Segment 3 — Extraordinary Extraordinarily Robust
+### Segment 3 — Iran Trump Middle East
 
 extraordinary extraordinarily robust statement. I'm you know I it remains to be seen whether all of this is achieved of course but this is not a surrender document. This is a defiance document. This is a document of defiance by Iran saying that they believe that they are in a position um to dictate the future um geopolitical shape of the Middle East.
 >> Well, we will have to see. >> Yeah. Yeah. Well, let me ask you this question since you know the the Iranian side. You you studied for for quite a number of years. Uh does that would seem to imply as I'm just listening here that they would probably recognize the normity of what they're what they're saying.
@@ -108,7 +116,7 @@ United States and and bound by um all sorts of sanctions and regulations and thi
  it's a moral value. And the second thing uh element really to this was the sort of sense that actually um the Americans can do far less militarily than they claim to be able to do. And so um they've got the measure of things. they have new air defense systems in and I feel think they feel they have um uh the the the measure of it.
  So yes, it is back to the battle front and Trump has just confirmed that that you
 
-### Segment 4 — Know He Doesn't Have Now
+### Segment 4 — Iran Trump Ceasefire
 
 know he doesn't have now any options because you know he wants a quick victory and the Iranians are not going to give him a quick victory on Hobos nor on the uranium issue. I see, you know, reports that there are in in the American press, you know, that the the negotiations, the nuclear negotiations are progressing and this has been agreed and this is under discussion. I think that's all nonsense.
 I don't think the the the Iranians say and have said so consistently. I don't know why people don't listen, but they say there is no negotiation on the nuclear issue and there won't be until America's come up front with release of our frozen assets and with alleviation o of the blockade of Homos.
@@ -123,7 +131,7 @@ I don't think the the the Iranians say and have said so consistently. I don't kn
 Um but what I understand and from you know both sides is that actually now the United States um calculus on its military power is much changed uh in recent weeks and this has been reflected even in the New York Times. Um the Pentagon has understood that there are new air defense systems in place and that they are um uh capable of uh locking on radar targeting radar on US planes and the number of drones that have been brought down is enormous now.
 I think it's nearly a third of the US total um stock original stock has been brought down by Iran. So first of all, you know, it's not so clear. By the way, uh when we look at what happened with those, you know, the Israeli attacks um into um uh into Iran, um following the um American demand that they stop it um
 
-### Segment 5 — And They Went Ahead With
+### Segment 5 — Iran Russia Pentagon
 
 and they went ahead with it.
  I think about 12 um attacks or something like that. None of them were through um uh penetrating Iranian airspace. They were all standoff um attacks um from Iraq airspace. They didn't dare to go into Iranian airspace. So, it's not quite so clear as it may have been. Now, if they want to put boots on the ground, as I expect General Keane is very enthusiastic about and wants to do that, well, let's see what happens.
@@ -138,7 +146,7 @@ and they went ahead with it.
 United States. But the US is going on. is breaking every legal rule going um saying that it can do this, it can do that because they don't respect rules. But it is actually and I take no pleasure in this but I'm saying it actually is contributing to what they call the so-called decline. And um incidentally this was uh uh something that came up.
  There was a very important um uh piece that was uh um spoken actually was it came up in in the St. Petersburg forum. Um it was a speech um by someone called Andre Andre Bresnikov. He's a former SVR that's a KGB officer, former head of it, very serious senior person. And he said that as a consequence o of what's
 
-### Segment 6 — Happened In Iran And Generally
+### Segment 6 — Russia Iran Economy
 
 happened in Iran and generally with the United States, he said Russia has entered into a new prolonged global confrontation with the West.
  According to him, this represents a fundamental shift in the nature of warfare and will define Russian policy in society for the foreseeable future. He said this may last 20 to 30 years. Instead, it is a war of attrition focused on undermining critical systems including infrastructure, command networks, technology, space assets, biological and information domain.
@@ -153,7 +161,7 @@ problem of profitability. So they're desperate to get new resources in which is 
  Energy in China costs one sixth of the price it does in the United States. So they've moved their data centers uh to the Gulf States, um to UAE, to Bahrain. huge data centers are being moved there because there's cheap um energy supplies uh available there and Iran and other states see this as you know this is um going to be that what is being proposed is you know this is if you like the Gulf becoming an economic pre protect protectorate of the United States in AI uh dominating their AI on behalf of the United States, but using it against Iran and against
 Russia and China. And that's
 
-### Segment 7 — Why Iran Is Saying Too
+### Segment 7 — Iran Israel Russia
 
 why Iran is saying too, listen, if you want to be if you want to coexist in the Gulf with Iran, you know, get rid of those data centers. What do you need, you know, to spend 30 billion on data centers? This is just a part of this uh structure that the United States is building where they hope that everyone will have to come to silicon for their AI for their computing needs and everything.
  America may not have the petro dollar any longer, but it would have the AI rent and income as a monopoly and that that will be secure the future prosperity of the United States. Well, the question of whether this is going to work or not isn't is a different one. But the principle for Iran and China and Russia is you know the United States can't simply you know move if you like that structure of control and monopoly um to the Gulf alongside Iran because it's inimicable to Iran and Iran sees it as inimicable and they're saying you have to join the
@@ -167,7 +175,7 @@ Asian economic structures you have to be part of Asia. If you're going to surviv
 >> Well, let's let's take a look at a couple of those headwinds because you've been you've written a couple things uh on your conflicts forum which I think uh tail right into what you're talking about here. love. Some of these things here I think are going to be new to our audience because they're not in the mainstream media.
  They're not even being talked about here. But there are some pretty big headwinds even inside Israel itself. I want to look to two things because you published
 
-### Segment 8 — A Couple Things Recently One
+### Segment 8 — Israel Netanyahu Iran
 
 a couple things recently. One on what's happening with uh with Netanyahu himself and then secondly in the political order in Iran, Israel, which could un un discombobulate what the Israeli military plans are as well.
  So I'd like you to speak to those two things. Let's look first at the Netanyahu part. You write in this one, Netanyahu failed to uh ignite reignite the war. At least this is up to this point, a new and dangerous strategic equation now limits Israeli power. And in this uh you post this here by this Ben Caspit person says in appearance yesterday in front of a camera, Netanyahu looked like a deflated balloon.
@@ -183,7 +191,7 @@ How do you address it? Well, one of the answers is to go back to the old Benoria
  We are a reservist army. We are a Clauswitzian army that believes that um war is just an extension of politics. And so you know the debate is going on and really what is being posed here is you know was this whole strategy a mistake? Do we need to rethink the whole idea o of of Zionism of special rights for one population group over territories shared with other populations? Do we have to rethink the structures? So this is a real I mean existential crisis that's been has commenced.
  It hasn't come to culmination. It hasn't produced it. But if you look at the polls, Netanyahu for the first time, I've always been the person saying,
 
-### Segment 9 — Look Don't Think That Netanyahu
+### Segment 9 — Israel Netanyahu Fertilizer
 
 "Look, don't think that Netanyahu is just going to be removed and replaced, he's a survivor. I've seen it. I've known it for a long time. He just somehow he slips through.
  He's like a slippery snake. He gets on and he stays in power. But this time, it really looks a crisis. I'm not sure that he will will survive this. The polls show um that he won't survive it. Um the court case suggests he won't survive the court case. Um and there's still no pardon that has been given to him by the president. So it's a real crisis.
@@ -199,7 +207,7 @@ How do you address it? Well, one of the answers is to go back to the old Benoria
  So I mean it could become very very unpleasant. I mean I can't say that it will but there is a very good chance of that happening but this is what Israelis are saying about it. um senior only, you know, respectable, you know, people who are commentators and with experience in Israel. That's what they're saying that it could devolve into anarchy and into infighting.
  And I hope that explains why. Because if the machine comes apart, who's going to be the prime minister? Who's going to deal all of these? He's put all of his people into Shinbet and to Mossad, the security and intelligence services
 
-### Segment 10 — And Other Places Um To
+### Closing — Iran Russia Israel
 
 and other places um to be able to control the country even if he loses the the election.
  Is that going to be accepted? Will that be contested? Will people fight it? I mean, that's questions that we don't know the answers to at this stage. But this is why it's such a fraugh moment. And so circling back to where we began this with the with the view that the long view that the Iranians are taking when they see these kinds of things and obviously this is open source information.

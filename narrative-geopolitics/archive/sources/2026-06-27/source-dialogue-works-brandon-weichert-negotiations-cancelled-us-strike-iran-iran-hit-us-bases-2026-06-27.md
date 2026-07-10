@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-29
 pub_date: 2026-06-27
 kind: transcript
@@ -28,8 +29,19 @@ source_note: "Operator source-intake 2026-06-29; operator-pasted YouTube transcr
 evidence_grade: transcript-bearing
 opening_tier: breaking-live
 capture_note: Operator paste; full breaking-news interview body preserved from user-supplied YouTube transcript.
-editorial_note: Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio.
+editorial_note: "Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio."
 transcript_wrapper_tier: clean
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: preserved_unsectioned
+section_count: 0
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # BREAKING: NEGOTIATIONS CANCELLED AFTER U.S STRIKE IRAN, IRAN HIT U.S BASES w/ BRANDON WEICHERT

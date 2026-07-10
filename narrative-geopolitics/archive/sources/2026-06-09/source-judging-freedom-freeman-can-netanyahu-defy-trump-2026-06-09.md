@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 ingest_date: 2026-06-09
 pub_date: 2026-06-09
 kind: cleaned-transcript
@@ -26,9 +32,19 @@ transcript_wrapper_tier: clean
 napolitano_cold_open_trim_applied: true
 napolitano_leading_noise_trim_applied: true
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: AI-assisted ASR repair (common + series tiers + statecraft entity pass); 22 substitutions; not human-verified verbatim; verify before quotation. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 22 substitutions; not human-verified verbatim; verify before quotation. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (9 sections)."
 napolitano_close_promo_trim_applied: true
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # AMB. Chas Freeman: Can Netanyahu Defy Trump?
@@ -39,9 +55,11 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Israel Iran Netanyahu
 
 Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
+
+### Segment 2 — Iran Israel Hezbollah
 
 Today is Tuesday, June 9th, 2026. Ambassador Chas Freeman joins us now. Ambassador Freeman, a pleasure, my dear friend, as always. I want to talk to you about whether Netanyahu can actually Prime Minister Netanyahu can actually defy President Trump and get away with it. But before we got get there, why do you suppose the Iranians are willing to risk war on themselves to get Israel to stop attacking Lebanon? >> Well, I think there's been a complete rearrangement of Iranian strategic thinking and and by the way, also on the
 part of Hezbollah. Um the Iranians have adopted Israeli standards. That means under international law, of course, a country that is struck is entitled to reprisal, but that reprisal should be proportionate. Israel has always insisted on disproportionate responses. Iran has now adopted that doctrine for itself.
@@ -50,7 +68,7 @@ Uh so, we are in a war of attrition. Iran has decided that it will behave like I
 Uh that's not a ceasefire, although it's called that. Um that agreed de-escalation is fraying and we're seeing escalation on escalation by both sides. Uh so, uh >> [clears throat] >> Israel just attacked Tyre, uh the Sur, the city of the ancient city on the Mediterranean in Lebanon. Uh and uh you can be damn sure that uh Iran is going to conduct a reprisal, and it will be disproportionate, and it has said so.
 Uh so, in the meantime, Hezbollah has also adopted the idea of a war of attrition that
 
-### Segment 2 — The Key Uh To Long
+### Segment 3 — Israel Hormuz Netanyahu
 
 the key uh to long-term survival is inflicting pain on Israel and Israelis. Uh and it has reconfigured its command control system uh and communication system uh to facilitate that just that change. Uh so it is no longer tit-for-tat.
  Uh we are in uh a long-term uh exchange of fire situation. This is the future in West Asia if Israel does not reach an accommodation with its neighbors. Uh the United States is on its own. And Israel is on its own. Now we have J.D. Vance, the Vice President, saying explicitly that we will do what is in the best interest of the United States regardless of what Israel thinks.
@@ -59,7 +77,7 @@ Uh Netanyahu long ago figured out that in the land of the marshmallows the skewe
  Yes. Who controls the Strait of Hormuz as we speak? Is the US still imposing what it calls a blockade some 600 nautical miles away? >> Well, Iran controls the strait. It's going to continue to control the strait in partnership with Oman and possibly others uh as some sort of new security architecture is worked out for the Persian Gulf and the and the Strait of Hormuz.
  Um the United States Navy uh is still attempting to stop uh ships from the Persian Gulf uh from uh if they unless they're uh from approved sources uh to get out of of of the region and deliver oil. So, the world is looking at this and saying, "Hey, you know, Iran is prepared to let us travel through the Strait of Hormuz for a modest administrative fee um
 
-### Segment 3 — And Uh The Us Navy
+### Segment 4 — Hezbollah Israel Lebanon
 
 and uh the US Navy will not let us through.
 What is this? >> Well, are uh negotiations still going on between the US and [clears throat] Iran via Pakistan? Or did the Iranian uh threat to terminate the negotiations while Israel is still uh invading Lebanon carry the day? >> I don't think there are is anything that can be called a negotiation in progress.
@@ -69,7 +87,7 @@ Uh others other intelligence services although nominally uh branding Hezbollah a
 Uh and you know, Israel just bombed Tyre as I mentioned uh after informing 250,000 people there that they had to uh evacuate because it was going to level the city. Israel's trying to turn southern Lebanon into a version of Gaza. Uh and uh it doesn't seem to be at all uh inclined to follow Donald Trump's directions.
 So, he's Go ahead. >> He hears Trump last night and uh I I think this is at uh Newark or LaGuardia wherever he uh was when he was flying back to DC
 
-### Segment 4 — After The Knicks Game Uh
+### Segment 5 — Iran Israel Netanyahu
 
 after the Knicks game uh at which New Yorkers let them know uh what they think of him which wasn't pleasing to him at all. But nevertheless, here he is talking uh about uh Netanyahu last night.
  Chris number 10. >> Mr. President, what do you think of Prime Minister Netanyahu? Did you talk to him? >> We had a very good conversation and he was hit and he hit back. And I can't blame him for that. But he was hit. He hit back. And now they've called it quits. So, they're going to just leave each other alone for another week or something.
@@ -78,7 +96,7 @@ It's uh it's been going on for a long time. You could say about 3,000 years if y
  Uh that is a uh uh a a peculiar um uh Zionist formulation. Um has no basis at all. In fact, um the uh uh Ira- Iran uh historically uh so Iran the Iranian emperor um historically saved the Jews from annihilation rather than confronting them. Anyway, 47 years, I don't know where that comes from either. Uh uh the uh uh the the Iranian Israeli uh uh contest is part of a broader effort by Israel to continue its expansion in West Asia.
  And that's been [clears throat] going on since even before Israel was established as a state 78 years ago. Uh and so um the problem here is not the Iranian attitude. The problem is the Israeli attitude. In that 78-year period, they have never once offered their neighbors or the
 
-### Segment 5 — Palestinians A Formula For Peaceful
+### Segment 6 — Israel Trump Palestinian
 
 Palestinians a formula for peaceful coexistence.
 Quite the contrary, they insist on constantly encroaching on their rights and taking their land. So uh I'm not sure what Donald Trump is talking about, our president. I find it a bit frightening that he is so ignorant of of realities on the ground. And I must say I I attribute that in large measure to his preference for having only cronies and sycophants involved with him on matters of great importance to the United States like this.
@@ -88,7 +106,7 @@ They actually, of course, believe that. >> Well, I don't I'm not sure they did t
 Just one single ability. And if he lacks this fundamental quality, then he simply cannot be here in this position. He needs to be able to say one word to the President of the United States, and that word is no. No. I guess no is the same in Hebrew as in English or maybe he was just >> No, he's he was quoting in English.
 Uh I don't know what it is in Hebrew, but it's not no. Anyway, um he clearly said no to the president. Um so it's up to the president to decide how to react. President says the war is going to be over in 2 weeks. Does that
 
-### Segment 6 — Mean He's Going To Pull
+### Segment 7 — Israel Netanyahu Trump
 
 mean he's going to pull the plug on Israel? You know, by the way, uh the Israeli attack on Iran in response to Iran's reprisal for Israel's attack on Dahiyeh, the southern suburb of Beirut, had to have involved American forces.
 Um you can't get to uh to Tehran without refueling, and that refueling is supplied by the US Air Force. So, there's a game of charade going on here. Uh in public, we're at odds. Uh in private, we seem to be still uh aiding and abetting Israeli aggression. >> Do you uh believe the so-called back-and-forth and animosity that the White House leaked where the president used uh four-letter words angrily towards Prime Minister Netanyahu? You think this is a charade? >> I think it may have happened.
@@ -97,7 +115,7 @@ Um you can't get to uh to Tehran without refueling, and that refueling is suppli
 Uh we'll watch him for a minute or two right now. >> They launched four torpedoes. One of them hit the hull of the USS Liberty and killed 25 people instantly. It blew a 40-ft by 40-ft hole in the side of this ship. They were intent on sinking it, but they were also intent on not having a single survivor.
  According to eyewitness accounts, the Israelis machine-gunned the lifeboats that they put down. They machine-gunned the firefighters who were on the deck. They were bringing the wounded and the dead to the mess hall to triage them.
 
-### Segment 7 — They Had One Doctor Who
+### Segment 8 — Israel Nuclear Weapons Nuclear Weapon
 
 They had one doctor who was trying to help them all, put a few stitches in. It was harrowing.
 And it's amazing. The If not for that crew, they would that boat would have sunk that day. But it still wasn't over. Helicopters showed up, combat helicopters. And the USS Liberty, even though their signals were being jammed by the Israelis, got a signal out. And there were ships that tried to respond. The USS Saratoga, the USS America, sent planes, both of them sent planes to help the USS Liberty.
@@ -106,7 +124,7 @@ And something happened that's never happened before. A ship under attack, the pl
 that time had an arms embargo on Israel uh ever since Israel had attacked Egypt and with French and British help tried to seize the Suez Canal. Uh and uh Johnson agreed to lift the uh the arms embargo in return for political and financial support. And he was beholden to the Zionist lobby from the very beginning.
  This happened on his watch. We are told that the aircraft that took off uh to uh relieve the USS Liberty from the blatant uh effort by Israel to destroy it, uh returned back because they carried nuclear weapons. That is some perhaps an apocryphal story. I don't know whether to believe it or not, but clearly Secretary
 
-### Segment 8 — Of Defense Mcnamara Received An
+### Closing — Trump Netanyahu Blackmail
 
 of Defense McNamara received an order uh to cover this all up, and it was covered up.
  And I understand from the survivors of the Liberty that they were all told to button their lips and say nothing on pain of court-martial or worse. So, um uh this was a one of the greatest disgraces in American history, and I'm commend Congressman Massie for his courage uh after his defeat in an election uh by the same forces that covered this up.

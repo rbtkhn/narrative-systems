@@ -1,6 +1,7 @@
 ---
 
 
+
 ingest_date: 2026-06-30
 pub_date: 2026-06-30
 kind: cleaned-transcript
@@ -26,7 +27,7 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: paste-prefix
 normalization_state: raw_operator_paste
-editorial_note: Operator-pasted YouTube transcript; ASR artifacts retained (Hummus/Homos/Hormuz, theou, bemend, etc.). Not human-verified verbatim.
+editorial_note: "Operator-pasted YouTube transcript; ASR artifacts retained (Hummus/Homos/Hormuz, theou, bemend, etc.). Not human-verified verbatim. · source-section pass 2026-07-09 (3 sections)."
 quality_note: Initial land 2026-06-30 via land_statecraft_source_body.py; operator paste.
 opening_trim_applied: false
 opening_trim_rule: ""
@@ -36,6 +37,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 3
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # TRUMP SAYS TALKS ON, IRAN SAYS NO — WHO'S CONTROLLING ESCALATION? – w/ Prof. Robert Pape
@@ -48,6 +52,8 @@ closing_trim_words_saved: 0
 **Transcript:** Operator-pasted YouTube transcript.
 
 ## Transcript
+
+### Show Open — Iran Trump Israel
 
 You are great, Mario. >> A pleasure to speak to you again. Um, you've been referenced a few times in my interviews. Um, whenever things escalate, um, people bring up the escalation trap and how we're falling into that trap. And there's multiple fronts in which we're escalating. We've got the straight of the back and forth, the obvious one.
  And we've got proxy escalations as well. I'm not sure if you've covered that on your Substack yet, but we've got an escalation on the Lebanese front, the Syrian front, the Iraqi front, and especially in the last few days, the Yemeni front with the Saudi and Emirati backed uh militias. >> Oh, actually I knew about the other so in this later this week, uh I have plans so um to do more uh but I knew about the first couple, but I didn't know about what's happening in Yemen, Houthi.
@@ -105,6 +111,8 @@ And and it's probably not going to be true. And sure enough, he's kind of wiggli
  So, it's not just they lose some money, Mario. They lose their jobs if they get lose enough money on betting against Trump's words. So, this is um this is uh what is happening in detail with the coercive strategy. I think Iran's seeing this pretty clearly. They're just uh following what I would say is realism 101. It's not that complicated.
  Uh they don't need to bomb hit those ships every day, but they need to hit them every so often. unless the um administration follows the four corners of theou and I think that's really what they're demanding at least over the next 60 days and any little thing that's out of that is not going to be acceptable by Iran.
 
+### Segment 2 — Iran Trump Israel
+
 The question is, will we cowttow to every single thing in theou? >> What has surprised you most because you've been studying this for 20 years and and uh gamifying this for 20 years. What surprised you most in terms of the outcomes of this war and where we are today? >> The biggest surprise to be very honest is how well the modeling has done uh stage by stage.
  You have to remember so when you model that when I model this we hadn't even started bombing for so this starts this model that I'm talking to you about and my students know the students from class who have had me in strategy for the last 20 years I see them now quite a bit when I go around and travel um and they're coming up and telling me uh how much they remember those days because it was I would always end my big lecture class with the bombing of Iran a simulated bombing of Iran on and what to expect in the stages. And stage one was we would bomb
 Fordo that is America would bomb Fordo. You could have Israel try to bomb uh uh Natans, but Israel didn't have the payload. There's a lot of operational reasons why only the United States could bomb Ford. And but once we bombed Fordo for whatever reason we did that uh we would disable it as an industrial centuge factory but not be able to find the 60% enriched uranium and then the m then I said and what this would mean is we would get scared over the next year or so and I said that this would be the trigger in about a year or two to go
@@ -136,6 +144,8 @@ mean by strategic ambiguity is it's all just a bluff. It's not really going to h
  And a good question for uh President Trump by a journalist would be if you saw Iran testing, would you send in the Marines? Just directly ask him and let him say I can't say or whatever. But these are the actual scenarios that we should be pressing the president on. But it's hard because you know the the everybody wants does the current news which is important but there's core underlying scenarios here.
  Are there who's going to control hormuz with fees or not? Um and then number two is Iran really going to have uh the ability to test within a couple weeks or not? And that is what this has always been about or the first the latter and now Ormuz the second. >> And and you've mentioned Israel as well and we haven't talked enough about Israel.
  I was uh in a conversation with former Prime Minister Bennett, Nafali Bennett earlier today and his I was going through his policy to understand how different he is to Netanyahu. Very very little difference especially when it comes to Iran. If anything, he's in some ways more hawkish towards Iran. Um, so even if Trump decides to walk away, you've got Israel as another wild card.
+
+### Closing — Israel Lebanon Iran
 
 >> Yes, but it's I think a wild card means it is um 5050 which way Israel will go. I don't think that's right, Mario. It's it's I think it's directional. And what I think is it's um coming from number one. Uh so or three places really. Of course, the the the hawkish side in uh in Israel has always wanted the expansion for decades.
  So, that part number number one. Number two, October 7 has moved the public uh in that direction. The left basically disappeared or virtually disappeared after October 7. And you see that in the 70 to 80% of the Israeli public uh in the most recent opinion polls over the last few months that all say they want to go full boore into uh into Lebanon.

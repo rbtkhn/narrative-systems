@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-19
 pub_date: 2026-06-19
 kind: cleaned-transcript
@@ -31,9 +32,19 @@ opening_tier: host-tease
 capture_note: Operator paste; full interview body preserved from user-supplied YouTube transcript.
 transcript_wrapper_tier: clean
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (krainer, diesen, channel:glenn-diesen)); 1 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (krainer, diesen, channel:glenn-diesen)); 1 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (9 sections)."
 quality_note: "ASR normalization pass 2026-06-22; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Alex Krainer: The Decline of the West & War Against Russia
 
@@ -44,7 +55,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Russia Iran Ukraine
 
 Welcome back. We are joined today by Alex Krainer, an author, market analyst, and also a former hedge fund manager to yeah get some perspective on the political and economic changes in the world. So, thank you for coming back on the program. >> Always a pleasure to join you, Glenn. Thank you for the invite. So um I was thinking today though that it's it's quite easy to get consumed by all of these uh you know day-to-day events as so much is happening in the world at uh yeah break neck speed.
  Uh so we see the US Iran memorandum of understanding which I would argue represents a humiliating defeat for the United States. Uh quite a yeah change in US history I would say. they haven't really seen this before which can transform not just the region but uh the world will will also be impacted. Uh we see the NATO participating increasingly directly in attacks on Russian territory which will well in my opinion or expectation uh in the not too distant future unleash a response which would have the unforeseeable and
@@ -57,7 +68,7 @@ And the mainstream media said nothing about it. They're ignoring it. the royal h
 chamber of US Congress calling for World War II and his government has committed to sending 150,000 drones to Ukraine without even bothering to hide much that they they will be used for strikes against Russia. Um, of course, I I shouldn't single out Great Britain even though they've been they have been they are they are probably if we're if we're going to use the Lord of the Ring uh metaphor, they are the mortar of of the whole uh western western uh colonialist empire.
 uh but all of these all of all of the the rot has afflicted much of the world but particularly west because okay let's if we if we just talk about the the gang rapes which may seem like it has nothing to do with the war in Iran and the and the and the and theou and but it's it's all interconnected the the same problems of the UK with these gang rapes also register in places like France in Belgium and Germany and Sweden and and Norway and Iceland and Ireland and the
 
-### Segment 2 — The Syndrome Is Practically Identical
+### Segment 2 — Iran Russia Trump
 
 the syndrome is practically identical. You have gangs of
 migrants uh committing rapes uh at industrial scale and you have exactly the same response from the governments to these rapes accusing anybody who who says anything of of hate crime. uh responding more and more in in more and more draconian ways ways to suppress this supposed hate crime. Um punishing victims, uh being extremely lenient to perpetrators, uh protecting them, uh providing them anonymity, and it goes on and on.
@@ -73,7 +84,7 @@ Reagan was bombing Libya in 1987. Gaddafi survived. Gaddafi's government survive
 They were taken out at the end of at the beginning of 2025. Uh same goes for Iran. Same goes for Russia. Same goes for any nation that won't submit to the Western colonialist empire. And then the Chinese are aware that ultimately they are the on the target list as well. So the world has no choice but to take this fight all the way to the end.
 And so Trump himself may have had enough. In fact, he probably had enough. And I think that it'll be difficult for them to push Trump to war against Iran once more. even though they are, you know, there there are now um there's now information in the information universe that in fact the the reason why Trump accepted this humiliating defeat of an MOU is because they just want
 
-### Segment 3 — To Delay It Like With
+### Segment 3 — Blackmail Europe Trump
 
 to delay it like with the Minsk agreements until until the next Harah, right? That that's quite possible, but it's probably not going to be Trump. is going to be
 somebody else because the continuity of the system of governance goes uh it it transcends any one administration. So right now we have reasons for limited optimism but the conflict is not going to end. Well I I agree this has been going on for quite some time. Um but it has to be said that in the 1990s uh and well then onwards the the liberal hedgemony it it seemed stable that is it had a stable concentration of power which was uncontested and also the liberal democratic um u well not values necessarily but the
@@ -89,7 +100,7 @@ it's something's happening within society so I'm just if you would assess the su
  So money is going to be uh becoming progressively more and more worthless. Uh it's going to exacerbate uh the cost of living crisis throughout the western world. uh no throughout the world period probably. Um and that's going to lead to social uprisings and we don't know what's going to happen because we've never been in this situation before.
  You know, in the in the past always uh the ruling establishments had the monopoly on um on the media and they had it they had it relatively easy to control the narratives. Uh right now this is not the case anymore because we have the internet, we have the social media, we have uh these types of conversations, podcasts, uh you know, in there's there's so many people producing superb quality uh content which is then galvanizing the public and then it's pushing other people to,
 
-### Segment 4 — You Know Investigate Every Little
+### Segment 4 — Russia International Law Europe
 
 you know, investigate every little every
 little aspect of of the crisis we're in. And we can see that the uh people in power are desperate to redirect this anger towards an external enemy. So the day the day before Rupert Law's um inquiry was published, uh we had British SAS uh commandos board a Russian tanker in the English Channel, which was completely illegal.
@@ -104,7 +115,7 @@ staging a revolution at home, you orchestrate large-scale slaughter of them uh o
 the legitimacy of the system. And once the legitimacy of the system collapses, you're moving to um almost inevitably to revolution or a civil war. And we had, you know, the King's College professor David Betts who has written and spoken about this extensively who said that the a civil war is now inevitable not just in the UK but in much of Western Europe and that all the conditions for a civil war as you know as based on historical precedents are not only satisfied, but he said that the continent was explosively configured for a break out
 of a civil war. And uh about a year ago he was saying that this would happen within 5 years. So that would say that would mean that now it's within four years. That's very close. So for the people in power, it's uh do we risk guillotines or do we do anything that we can to provoke a war against Russia and then to mobilize the whole society so that all the men go and fight the Russians
 
-### Segment 5 — And Hopefully Never Come Bac
+### Segment 5 — Russia Ukraine Iran
 
 and hopefully never come back.
  So that's where we are and the uh the foundation of all this is the economic crisis because the inflation is going to continue galloping. People are going to have more and more difficulty making ends meet. The discontent is going to escalate and it's going to be spilling out into the streets. And with this with this inquiry that came out two days ago, Glenn, there's no more denying it that the ruling establishment is the enemy.
@@ -119,7 +130,7 @@ retaliate I just find it the survival instinct I mean it's we're getting close t
  They want they're desperate for Russia to respond because they're they're, you know, they're losing legitimacy at home. And if if they could get a war against Russia going, it doesn't matter whether they would would win it or not. they they they know that they won't win it, but it would have the rallying around the flag effect, you know, because right now without a war, look where look what the British royalty is.
  Um they had three days to say something about the industrial scale rape of English girls on English on British territory and they said nothing at all. And imagine if now suddenly Russia strikes at the United Kingdom, then there would be a lot of people who would be
 
-### Segment 6 — Like For King And Country
+### Segment 6 — Russia Ukraine Trump
 
 like for king and country and they would be ready to go to war. And so the the ruling establishment is desperate to get this to get this war going.
  And Vladimir Putin knows not to give them this gift because it would be it would be the the most beautiful Christmas gift that they could wish for. And so they no longer even bother to deny their involvement. you you know you you know back in 2022 and 2023 everybody was really careful because oh you know we can't give them these weapons because you know then you know Ukrainians could strike deep into Russia and we would be seen as complicit and that would put put us at risk of war against Russia and so forth.
@@ -135,7 +146,7 @@ Um the war the escalation to World War II is being instigated by by our own lead
 to choose security partnership, which would you choose? You would choose uh they would go with Russia or ideally they wouldn't have to be part of any block, but it was leaning towards Russia. But of course, once one topples puts these extremist elements into place and um yeah, and then the Russians then respond.
  Uh it's uh yeah, you you can then build on this, build
 
-### Segment 7 — Up The Ukrainian Army Make
+### Segment 7 — Iran Economy Russia
 
 up the Ukrainian army, make sure you sabotage every single pathway to peace, arm them to the teeth, and then uh what was, I would say, unthinkable 20 years ago, uh is now, you know, this massive war between them. So why why why wouldn't you be able to get Europeans as well to European men to line up to fight and die for? So Exactly. Yeah. Exactly.
 Yeah. No, but um yeah, I wanted to ask Yeah. One one last question on not not on Russia, but how Yeah. Well, not unrelated, but uh how do you see Iran playing into this? Uh I I'm um it's hard to believe that a permanent surrender has been uh accepted by the Americans. Do you see this simply as regrouping or do you think it's just that they have come to terms that you can't defeat Iran here? So, you know, are they accepting reality or how how are you assessing this memorandum of understanding? >> Uh, I I think there there's no question
@@ -150,7 +161,7 @@ They survived the war. They prevailed. They won with with the help of the Russia
 Fortunately today, I think that the the the the struggle is overt enough and critical enough that the Chinese and the Russians understand all this and that they will help Iran in every way they can to make sure that the Iranian economy breathes, that it develops, that that people live okay in order to to prevent um the fall of of the Iranian government into the hands of of the of the western colonialist empire.
 But the you know the stakeholders of this colonialist empire they're fight this this struggle is existential from for them too. They don't know how to do anything else other than, you know, colonizing parts of the world,
 
-### Segment 8 — Turning Their Wealth Into Financial
+### Segment 8 — Iran Israel Ukraine
 
 turning their wealth into financial flows towards their big giant banks on on Wall Street and in the city of London and in Paris and uh and manipulating the political systems of all the western countries into fighting these wars.
  So that's not going to stop. Um I'm I'm optimistic that uh Iran will prevail that Iranian government is going to survive this that most probably uh Trump administration has lost taste for war and they might you know do this. What I see is that they're they're probably going to to um sabotage the implementation of any deal.
@@ -166,7 +177,7 @@ they continue to implement them. So, uh, the the Iranians are going to still fin
 be in NATO especially in the East. So, you're going to have a civil war, which there was. And then he was making the point, at this point, the Russians will reluctantly intervene on the behalf of Donbas and the Ukrainians in the east. They do not want to, but they see no other possibility.
  Again, exactly what happened. Yet, you have that fact and this is supported by, you know, a huge amount of political, military, intelligence leaders across the West. How does that affect the narrative?
 
-### Segment 9 — Nothing It's Everyone Chants The
+### Segment 9 — Ukraine Russia Europe
 
 Nothing. It's everyone chants the same thing. This was completely unprovoked. Mr. Putin woke up one day. He just wanted to restore the Soviet Union.
  I mean, we really live in a postreity world. There's real reality facts. They literally have zero impact on narratives anymore. I mean, all and all of this is sold as this are this is in our interest. This is what we have to fight and die for. I mean, and of course, just the cherry on top is how this is all about helping Ukrainians who are screwed over by NATO every every turn, ignored at every turn over the past, well, not just 12 years, but the past, I would say, 22 years.

@@ -2,7 +2,7 @@
   "manifest_id": "narrative-geopolitics-pape-source-import-v1",
   "source_basis": "strategy-codex/statecraft/voices/pape/pape-index.md",
   "imported_at": "2026-07-08",
-  "source_count": 999,
+  "source_count": 1007,
   "boundary": {
     "archive": "source truth",
     "voices": "voice continuity and routing",
@@ -14038,6 +14038,118 @@
         "barnes"
       ],
       "host_slug": "mario-nawfal",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Alexander Mercouris: US Iran War Resumes Full Force; MoU Collapses; NATO Absurd Summit; Zaluzhny Ukraine Losing Attrition",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-09/source-alexander-mercouris-us-iran-war-resumes-full-force-mou-collapses-nato-absurd-summit-zaluzhny-ukraine-losing-attrition-2026-07-09.md",
+      "voice_index_path": "../../archive/sources/2026-07-09/source-alexander-mercouris-us-iran-war-resumes-full-force-mou-collapses-nato-absurd-summit-zaluzhny-ukraine-losing-attrition-2026-07-09.md",
+      "upstream_path": "operator-paste://2026-07-09/alexander-mercouris-us-iran-war-resumes-full-force-mou-collapses-nato-absurd-summit-zaluzhny-ukraine-losing-attrition",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Seyed M. Marandi: BREAKING: U.S. Renews Bombing of Iran as MILLIONS Flood Mashhad",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-09/source-seyed-m-marandi-breaking-u-s-renews-bombing-of-iran-as-millions-flood-mashhad-2026-07-09.md",
+      "voice_index_path": "../../archive/sources/2026-07-09/source-seyed-m-marandi-breaking-u-s-renews-bombing-of-iran-as-millions-flood-mashhad-2026-07-09.md",
+      "upstream_path": "operator-paste://2026-07-09/seyed-m-marandi-breaking-u-s-renews-bombing-of-iran-as-millions-flood-mashhad",
+      "source_class": "regional-red-line spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Navy Combat Vet: The Coming European War w/Russia Steve Jermy & Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-09/source-navy-combat-vet-the-coming-european-war-w-russia-steve-jermy-lt-col-daniel-davis-2026-07-09.md",
+      "voice_index_path": "../../archive/sources/2026-07-09/source-navy-combat-vet-the-coming-european-war-w-russia-steve-jermy-lt-col-daniel-davis-2026-07-09.md",
+      "upstream_path": "operator-paste://2026-07-09/navy-combat-vet-the-coming-european-war-w-russia-steve-jermy-lt-col-daniel-davis",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "jermy"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Daniel Davis: Trump Says the Ceasefire Is Over With Iran & Escalates the War With Russia",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-09/source-daniel-davis-trump-says-the-ceasefire-is-over-with-iran-escalates-the-war-with-russia-2026-07-09.md",
+      "voice_index_path": "../../archive/sources/2026-07-09/source-daniel-davis-trump-says-the-ceasefire-is-over-with-iran-escalates-the-war-with-russia-2026-07-09.md",
+      "upstream_path": "operator-paste://2026-07-09/daniel-davis-trump-says-the-ceasefire-is-over-with-iran-escalates-the-war-with-russia",
+      "source_class": "practical-room spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Andrei Martyanov: IRAN BOMBSHELL: Hypersonic Missile Hit U.S. Targets in 6 Minutes - Trump WARNED!",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-09/source-andrei-martyanov-iran-bombshell-hypersonic-missile-hit-u-s-targets-in-6-minutes-trump-warned-2026-07-09.md",
+      "voice_index_path": "../../archive/sources/2026-07-09/source-andrei-martyanov-iran-bombshell-hypersonic-missile-hit-u-s-targets-in-6-minutes-trump-warned-2026-07-09.md",
+      "upstream_path": "operator-paste://2026-07-09/andrei-martyanov-iran-bombshell-hypersonic-missile-hit-u-s-targets-in-6-minutes-trump-warned",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "martyanov"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "BREAKING: BAHRAIN & KUWAIT JUST STRUCK IRAN - w/ Col. Macgregor",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-09/source-breaking-bahrain-kuwait-just-struck-iran-w-col-macgregor-2026-07-09.md",
+      "voice_index_path": "../../archive/sources/2026-07-09/source-breaking-bahrain-kuwait-just-struck-iran-w-col-macgregor-2026-07-09.md",
+      "upstream_path": "operator-paste://2026-07-09/breaking-bahrain-kuwait-just-struck-iran-w-col-macgregor",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "macgregor"
+      ],
+      "host_slug": "mario-nawfal",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Jeffrey Sachs: Disastrous NATO Summit: Toward Nuclear War with Russia",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-09/source-jeffrey-sachs-disastrous-nato-summit-toward-nuclear-war-with-russia-2026-07-09.md",
+      "voice_index_path": "../../archive/sources/2026-07-09/source-jeffrey-sachs-disastrous-nato-summit-toward-nuclear-war-with-russia-2026-07-09.md",
+      "upstream_path": "operator-paste://2026-07-09/jeffrey-sachs-disastrous-nato-summit-toward-nuclear-war-with-russia",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "sachs"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "U.S PLAN GROUND INVASION w/ Col Anthony Aguilar",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-09/source-u-s-plan-ground-invasion-w-col-anthony-aguilar-2026-07-09.md",
+      "voice_index_path": "../../archive/sources/2026-07-09/source-u-s-plan-ground-invasion-w-col-anthony-aguilar-2026-07-09.md",
+      "upstream_path": "operator-paste://2026-07-09/u-s-plan-ground-invasion-w-col-anthony-aguilar",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "aguilar"
+      ],
+      "host_slug": "moral-resistance",
       "import_status": "imported"
     }
   ]

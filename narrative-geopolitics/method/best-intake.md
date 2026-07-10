@@ -59,20 +59,26 @@ It does **not** need full routing, perfect family calibration, or public-synthes
 Minimum operator inputs:
 
 - `date`
-- `title`
 - `url` when available
 - `body`
-- `voice_slug` when reasonably clear
+- `title` only when the pasted body does not expose one cleanly
 
-Optional but preferred:
+Default posture:
 
+- paste first, infer the rest
+- `land_best_intake.py` should infer title, host, channel, source form, and provisional routing when the signals are strong enough
+- one blocker is allowed only when host identity, solo-vs-interview shape, or primary guest ownership is genuinely ambiguous
+- otherwise the source should land provisionally instead of stalling
+
+Optional overrides:
+
+- `voice_slug`
 - `host_slug`
 - `modality`
 - `source_form`
 
-For operator paste sessions, prefer filling
-[../templates/intake-metadata.md](../templates/intake-metadata.md) first so the
-source can be landed without reconstructing metadata from memory during intake.
+Metadata sidecars remain valid for batch or edge-case work, but they are no
+longer the preferred same-day one-off flow.
 
 If optional fields are unclear, preserve uncertainty instead of inventing precision.
 
@@ -81,10 +87,14 @@ If optional fields are unclear, preserve uncertainty instead of inventing precis
 `best-intake` should:
 
 1. Create the source file in `archive/sources/YYYY-MM-DD/`.
-2. Preserve the pasted source body with minimal rewriting.
-3. Add only enough frontmatter to keep provenance and retrieval usable.
-4. Append a manifest row.
-5. Mark uncertainty explicitly when classification is provisional.
+2. Infer title, host, guest, channel, and source shape when the signals are strong enough.
+3. Preserve the pasted source body with minimal rewriting.
+4. Apply approved deterministic wrapper trim when the host rule matches.
+5. Apply conservative ASR repair for approved hosts when the corruption is obvious and low-risk.
+6. Apply conservative semantic sectioning when structural cues are strong enough.
+7. Add only enough frontmatter to keep provenance and retrieval usable.
+8. Append a manifest row.
+9. Mark uncertainty explicitly when classification is provisional.
 
 ## What Best-Intake Defers
 
@@ -94,7 +104,6 @@ If optional fields are unclear, preserve uncertainty instead of inventing precis
 - host-conditioning interpretation
 - source-index updates beyond what is necessary
 - voice-lens synthesis
-- sectioning for readability
 - daily-brief authoring
 - quote curation
 - claim extraction
@@ -114,6 +123,19 @@ waste without changing source meaning. Current approved case:
 - `daniel-davis` closing next-show / subscribe / channel-promotion chatter after the substantive interview ends
 - `alexander-mercouris` routine solo subscribe / platform signoff wrapper and standard subscribe reminder sentence in the opening
 - `dialogue-works` transcript wrapper removal when a pasted body begins with a `... - YouTube` title line followed by `Transcripts:`
+
+Conservative ASR repair is also allowed for approved transcript shapes. It runs
+after trim and before sectioning, and is limited to obvious low-risk repairs
+such as:
+
+- repeated wrapper remnants like bare `Transcripts:`
+- stable place or institution corruption like `Anchora` -> `Ankara`
+- repeated crisis-object corruption like `straight of hormones` -> `Strait of Hormuz`
+- visibly duplicated low-signal fragments where the intended wording is obvious
+
+Conservative semantic sectioning is also allowed for approved transcript
+shapes. It runs after trim and ASR repair, inserts `###` headings directly into
+`## Transcript`, and skips the file entirely when semantic confidence is weak.
 
 ## Deterministic Trim Policy
 
@@ -173,6 +195,24 @@ Current approved hosts:
 - `daniel-davis`
 - `alexander-mercouris`
 - `dialogue-works`
+
+Current approved auto-section hosts:
+
+- `dialogue-works`
+- `glenn-diesen`
+- `daniel-davis`
+- `judging-freedom`
+- `alexander-mercouris`
+- `mario-nawfal`
+
+Current approved auto-ASR-repair hosts:
+
+- `dialogue-works`
+- `glenn-diesen`
+- `daniel-davis`
+- `judging-freedom`
+- `alexander-mercouris`
+- `mario-nawfal`
 
 ## Handoff To Synthesis
 
@@ -276,6 +316,11 @@ Newly landed sources can record:
 - `closing_trim_rule`
 - `closing_trim_chars_saved`
 - `closing_trim_words_saved`
+- `asr_repair_applied`
+- `asr_repair_pass`
+- `transcript_curation`
+- `section_count`
+- `section_pass`
 
 For host-level reporting, use:
 
@@ -291,7 +336,6 @@ Its companion step is a later enrichment pass that can:
 - refine modality
 - update routing surfaces
 - improve title accuracy
-- add sectioning
 - support daily synthesis
 
 The system should treat these as separate jobs.

@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-15
 pub_date: 2026-06-15
 kind: cleaned-transcript
@@ -33,9 +34,19 @@ napolitano_sponsor_trim_applied: true
 napolitano_close_promo_trim_applied: true
 napolitano_leading_noise_trim_applied: true
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 7 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; ideological cold open, Lear Capital sponsor, and closing lineup promo trimmed in place (ASR Napolitano retained). · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 7 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; ideological cold open, Lear Capital sponsor, and closing lineup promo trimmed in place (ASR Napolitano retained). · source-section pass 2026-07-09 (8 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 8
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Larry Johnson: Is This Any Way to Negotiate?
 
@@ -46,7 +57,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Israel Ceasefire
 
 Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
  Today is Monday, June 15, 2026. Larry Johnson will be with us in just a moment. Is there a deal or isn't there a deal between the United States and Iran? >> Larry Johnson, welcome here uh my dear friend. So we'll get right to it. Do the United States and Iran have a ceasefire deal? And if so, of what does it consist? >> I call it the IOU. um because nothing's signed yet. supposed to be signed uh Friday for two conflicting stories that uh JD Vance will be sitting next to Galibbaf and Arshi the foreign minister and the Galibbas the head of the parliament and the foreign minister and then we've heard that no no it's can be signed
@@ -57,7 +68,7 @@ electronically it's can be signed remotely uh so we got four more days where uh 
  Was all of this negotiated through the Pakistanis, Larry? Well, Pakistanis uh they claimed to have a lead role, but we've also seen that Qatar uh was uh inserted into the negotiations last week. uh that Qatar and Pakistan I think are coordinating and then uh you know Alistister pointed out that he he had heard that the Omanis got brought in brought in at the last minute to try to seal the deal when as Iran was preparing to retaliate against the Israeli attack on southern the suburb in southern Lebanon or Beirut. So, uh, it's been a
 poke pirie, uh, of sort. The the people involved with the negotiations, they're very
 
-### Segment 2 — Upbeat I Mean The The
+### Segment 2 — Israel Trump Iran
 
 upbeat. I mean, the the Pakistani, this is a slam dunk. We got this. uh and and in my community I you know I talk back to the sources saying it wouldn't be so so certain that you've got this in the bag because there are the United States you got Donald Trump who who is uh is to call him murial would be a conservative expression uh he's extremely erratic and emotional and uh changes from minute to minute and then Israel uh is always counted on to uh you
 will throw a a wrench into the machinery and and and break things up. So now look, the one Donald Trump does have the power to force Israel out of southern Lebanon despite the the the Israelis claiming, "Oh no, we're we're the master of our destiny." Nonsense. Uh or you know, as Ray would say, Melbo vine excrement.
@@ -67,7 +78,7 @@ will throw a a wrench into the machinery and and and break things up. So now loo
 White House grounds, pos, you know, and then and didn't want to be interrupted with a new outbreak of conflict between Iran and Israel. Possibly. He's going to the G7. Did he want to have this sealed and delivered? So, he goes to the G7 with some prestige, possibly. Or was it the fact that in the last two strikes that Iran carried out on US military positions in Kuwait, in Bahrain, in Prince Salad Air Base, and in the air base that's used in Jordan, the Moaf Alsi base that the United States suffered some se serious severe
 losses of equipment, planes, and some personnel. Is that is that the reason or is it a combination of those? That's the thing. We don't really know what's driving him on this, but it's certainly not his desire uh to
 
-### Segment 3 — Uh Be The The Bringer
+### Segment 3 — Trump Iran Netanyahu
 
 uh be the the bringer of peace. >> So, how do uh Senator Graham and Senator Cotton and Senator Cruz and Mike Cuckabe and Netanyahu and Mrs.
  Aden and th those folks react to this? You're gonna give Iran billions in cash and you're gonna stop the war and leave us leave Israel naked in front of its enemy. >> Yeah, you could hear the you could hear the heads exploding all over Washington and New York City uh over the weekend. I mean, Mark Levin is having a meltdown.
@@ -78,7 +89,7 @@ Uh Huckabe, I'm sure, is uh has no idea what's going on and trying to sort it ou
  So, you're not going to make that up overnight. And we're not even talking about the LG is looking at maybe uh a year and because of LG's relationship to Helium and Helium's role with computer chips, the this economic disruption that's going to hit the world uh is significant. And maybe he's maybe they finally woke up and looked at that and said, "Boy, this is this is going to make midterms pretty bad because inflation's going to be soaring and people are going to be losing jobs.
 " So, I I hate to do this to you because probably recently had breakfast. Oh, this is worse than Lindsey Graham. This is Mark Levin. But
 
-### Segment 4 — Here's Uh An Indication Of
+### Segment 4 — Iran Israel Jcpoa
 
 here's uh an indication of what the Zionists will do to try and wreck this deal. It did not require, in their view, a congressional declaration of war, but it does require a Senate ratified treaty, which they know is impossible to end the war.
  Watch this convoluted constitutional nonsense from Levvin from yesterday. Chris cut number one. >> Congress is going to review it because that's not discussed either. Yes, Congress will have to look at this. Now, this should be treated as a treaty as a treaty under the Constitution for we constitutional conservatives.
@@ -89,7 +100,7 @@ paid for by Israel, can turn around and impose new sanctions or pull away from t
 >> Absolutely. >> Under the Constitution are in the highest category of of law. They're up there with the Constitution. >> Yeah. But they'll never get twothirds of the Senate with this. >> Yeah. No, you're right. I mean, that's [laughter] >> the last thing he wants is for this treaty to be ratified.
  He didn't put that in his statement.
 
-### Segment 5 — He Know He Knows That
+### Segment 5 — Netanyahu Israel Trump
 
 >> He know he knows that Apac uh has got the US Senate in its pocket. I mean, good good god. One of their biggest dancing monkeys is Tom Cotton, the senator from Arkansas. So, you know, it's shameful, but uh the the overall notion, if you think of it, if if Iran saying, "Okay, what kind of agreement can we get with the United States is going to hold and it gives us actually some protection, it's got to be a treaty.
 " And and so really, until the United States starts talking like that, all this other is just it's circus. It's show [snorts] it's it's it's a false front. It's not real. It's not going to produce an actual agreement that's going to actually stick. It's all it is is, you know, putting the bad band-aid on a sucking chest wound and because the conflict will continue.
@@ -100,7 +111,7 @@ You already said it's six months before a meaningful relief will be seen uh at t
  But what's interesting is when you now look at across the political spectrum in Israel, uh they're they're take Netanyahu out of the picture. The Israelis are still insisting that they got to have the right to attack whoever they want and and carry out whatever military operations they want. And they they really need a dose of reality that you folks aren't as strong and powerful as you think you are.
  You are you are dependent of the United States. The United States is the one that still basically holds your future in its hands. And yeah, we can tell you what to do. And if you don't like it, fine. Go
 
-### Segment 6 — Do It On Your Own
+### Segment 6 — Israel Iran Ukraine
 
 do it on your own, but not with us. And at that point, they're they'll be in trouble. >> What happens militarily if it's Iran against Israel? Oneon-one, US not involved.
  Yeah, Israel will be in in big trouble within six days because uh of Iran's ballistic missile capability and at that point, you know, Israel might be contemplating trying to use a nuke. But uh Israel, the Israeli air defense and the US air defense, the systems don't work against ballistic missiles. It's a lie. They keep saying, "Oh yeah, we shot down 100%.
@@ -112,7 +123,7 @@ do it on your own, but not with us. And at that point, they're they'll be in tro
  I I I speculated some munitions take more time than others. We've got lots of them. We're building more than ever before. The Biden administration gave away hundreds of billions to Ukraine. Uh and so President Trump had to refill and he has and we have in real time >> exception of the accurate statement that the Biden administration gave away hundreds of billions to the Ukraine.
  We know that
 
-### Segment 7 — About Billion Is He Correct
+### Segment 7 — White House Rare Earth Pentagon
 
 about 265 billion. >> Is he correct or are our stock piles dangerously low? >> Denial just ain't a river in in Egypt. Okay. And this man is in denial. Look, the Tomahawk missile, for example, requires 18 different types of rare earth minerals. One of the principal components, gallium, which the United States does not produce.
  It comes from China and China's imposed restrictions on it. So, you know, this is God, I hate syphants. this this this kind of uh you know ass kissing that goes on by Pete Hgsth without in the willingness to you know it's one thing for it's one thing for him to lie on television but at least you know in private to go to Donald Trump and say Mr.
@@ -123,7 +134,7 @@ about 265 billion. >> Is he correct or are our stock piles dangerously low? >> D
  We're not getting a smoke screen. We're getting the reality just to reduce the tensions because spying goes on and any outfit worth their salt, uh, any country worth their salt, they're go they're going to collect information that they feel is should should be collecting information that's in their national interest. Now, we know with respect to Israel that the the we have a self-imposed ban that we're not collecting intelligence on them.
  And that means we're not doing counter intelligence uh to to much to much of a degree except in those instances like with Jonathan Pard where it's become so egregious, we have to punish him for spying and engaging in espionage against us. >> Wow. uh as sort of a parting shot before she leaves office on Friday. Uh
 
-### Segment 8 — Tulsi Gabbard Gabbard Uh Is
+### Closing — Ukraine American Russia
 
 Tulsi Gabbard Gabbard uh is currying favor with the president accusing Dr. Fauci of perjury.
  Not her field, but this is fascinating what she said. Watch this, Larry. >> Today, I'm releasing new evidence of long-standing US government funding of more than 120 biolabs in over 30 countries. Now these biolabs include labs in places like Ukraine which could be at risk of compromise due to the ongoing Russia Ukraine war.

@@ -1,4 +1,6 @@
 ---
+
+
 ingest_date: 2026-06-04
 pub_date: 2026-06-04
 transcript_type: ai_assisted_operator_pasted_youtube_transcript
@@ -18,7 +20,7 @@ source_note: "Cleaned transcript pasted by operator. · ASR pass 2026-06-15."
 dialogue_works_close_substack_trim_applied: true
 opening_tier: host-tease
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 34 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Routine closing Substack/link promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 34 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Routine closing Substack/link promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-07-09 (10 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
 verify_receipt: 2026-06-24
 verify_matrix_ref: statecraft/notes/wire/2026-06-03-04-news-verify-matrix.md
@@ -38,7 +40,17 @@ verify:
   - claim: Trump trapped - cannot win or exit Iran war
     verdict: partial
     note: W34-9 - tier-4; Axios daylight leak partial same week
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Matthew Hoh: Section 224 the provision merging the US and Israeli militaries
 
@@ -51,7 +63,7 @@ transcript_curation: curated_sectioned
 
 ## Cleaned Transcript
 
-### Show Open — Introduction
+### Show Open — Lebanon Israel Ceasefire
 
 Hi everybody. Today's Thursday, June 4th, 2026, and our dear friend, our brother Matt Ho is here with us. Welcome back, Matt. >> Hi, Nema. How you doing? >> I'm doing fine. I'm doing great. Matt, I want to start with what has happened today, the announcement of the United States that they reached a a an agreement between Israel and Lebanon.
  So what is in that agreement that Hezbollah must stop attacking Israel in the southern part of Lebanon and they're not going to attack south of the Leonia River. and Hezbollah Lebanon stated that it has no hostile intentions toward Israel and reportedly designated Hezbollah as an an as an enemy of the Lebanese state.
@@ -68,7 +80,7 @@ between the United States and Iran that ends all of the war in the Middle East i
  Uh you know, so this idea then if the Israelis believe that if they want they either get a cowing of the Lebanese population by bombing uh Beirut and other cities if they you know specifically they would bomb uh areas that are uh sympathetic or allied with Hezbala. But some of those bombs are gonna fall outside of of of those areas.
  So then it then it's an issue then of of not simply terrorizing your opponent, but then also trying to drive a wedge in between the various groups within Lebanon and get those to blame these is the
 
-### Segment 2 — Idea Being That The Israeli
+### Segment 2 — Israel Trump Netanyahu
 
 idea being that the Israeli bombs would be blaz be blamed on Hezbala's actions that if Hzbala didn't attack Israel, then we wouldn't be being bombed by Israel.
  like that type of uh rationale, that argument, and that's something the Israelis believe they can push, they can use to try and again cause these divisions within Lebanon to try and divide and conquer. Uh so you know I think we're seeing a number of that as well as too we got to remember that it's called it the heia doctrine for a reason because this is where the Israelis established this concept of operations this doctrine uh that bombing civilians for the sake of bombing civilians killing and murdering and maming and ripping apart men and
@@ -84,7 +96,7 @@ for Donald Trump and he knows what's going on >> and it's not going to be that e
  uh they're partnered in this war and they both want to get differing things out of it. Uh and they both have their own constituencies they have to answer to that are not uh allied in terms of where they want to see this going. And for the Israelis, uh the conquest of Lebanon is one of those goals. That's not an American goal. Now, there are there American adviserss.
  Are there American neoconservatives? Are there people like Biden's top Middle East folks, Amos Hawkstein or or Brett Mcgherk who love seeing what Israel is doing? Hillary Clinton uh I think is a big fan of all this. She described the current, you know, a government in Lebanon as the best government we've had
 
-### Segment 3 — In Plus Years In Lebanon
+### Segment 3 — Iran Trump Israel
 
 in 20 plus years in Lebanon.
  Best chance for peace is with this government. Basically, you've got a collaborous government. Yeah, I guess so. if that's your terms of of peace, you know, Secretary Clinton, but u you know, so Ganyahu and Israel are attempting to make their gains out of this war in Lebanon. At the same time, too, Netanyahu and Israel understand that uh this is a way to get the war with Iran restarted.
@@ -103,7 +115,7 @@ what Robert Kagan said Matt just yesterday about the situation that he sees the 
  Well, it means that uh the the power relationship in in in the region will will shift dramatically. I mean before the war began, Israel was by far the strongest power in the region. and Iran was decimated uh weak, isolated, uh after the war with Iran in control of the strait, Iran is going to be calling the shots.
  You'll see the Gulf States cutting deals with Iran. They've already begun to do so. And
 
-### Segment 4 — You'll See Iran Exercising Influence
+### Segment 4 — Iran Israel Trump
 
 you'll see Iran exercising influence over Israel's behavior as it is doing right now in Lebanon. Iran wanted an end to Israel's bombing of Beirut. They they demanded it and Trump called up BB Netanyahu and told him to cut it out. that that's the future.
  Uh Israel is going to find itself tremendously isolated. Iran is going to be in a position to have leverage over countries as far away as Japan and Korea who are of course utterly dependent on access to the energy supplies of the Gulf which Iran will be able to control that access. >> But this simply is not the feeling in Tel Aiv in with the with the Nadawo's administration.
@@ -118,7 +130,7 @@ You have these articles of faith uh that uh are continually impressed upon uh yo
 of the same from him and his ilk more the same from these neoonservatives He he then goes on to say the United States has no options. Okay. You're just saying that before the United States has the options to take the Straits of Hamuz back, but Donald Trump is choosing not to.
  Or you're saying that Donald Trump is being weak on Lebanon and not allowing the Israelis to do what they need to do there. I mean, so there are options. They're choosing not to. what I mean it just none of his arguments to me are sound or or you know hold much water when they're examined for more than three or four seconds and this is how the neoconservatives are and eventually what his argument always goes back to is that even if he he has this sound bite of we lost this war well let me tell you what these guys said the same thing in 2006 about
 
-### Segment 5 — Iraq They Said The Same
+### Segment 5 — Israel Netanyahu Pentagon
 
 Iraq they said the same thing
 in 2009 about Afghanistan what was their uhh uh uh what what was their solution was to do the war larger, right? Was to send in more troops to have these surges. You know, it's not possible to do that here, but the idea would be that we didn't do this war right. We lost this war.
@@ -137,7 +149,7 @@ No, they're they're they're presenting the same nonsense they've always presente
  Uh and the per the idea being in all this is is that this way Congress doesn't have to vote on sending weapons or sending money or other forms of assistance to Israel. It's already baked into the Pentagon. So the IDF is not going to be the uh sixth branch of the department of defense but at the same time too it's going to be this uh you know organization that exists throughout the Pentagon's organism.
  It's right I mean it's just going to it's just going to be there. It's just going to be circulating in the bloodstream of the Department of Defense. going to be the twin brother and it's going to be >> the way this thing is
 
-### Segment 6 — Written Allows For The Israelis
+### Segment 6 — Israel Pentagon Silicon Valley
 
 written allows for the Israelis to be involved with everything particularly on the procurement side particularly on the acquisition side uh so uh you know the idea being is that just as we're procuring fighters or uh tanks or rifles or whatever uh you know the Israelis are part of that process uh and this hides
 the assistance that goes to Israel Uh this makes for no accountability. Again, Congress doesn't have to vote on it. Uh but also too, it's if you have Israel, which as Representative Connor was making a very good point there, you know, Israel has a GDP smaller than any of the towns in his district. Now, he represents Silicon Valley, just for people who don't know.
@@ -152,7 +164,7 @@ symbiotic relationship uh with the Israelis that is unlike what we've had before
 is the way we are right now. We want to be independent of the night. We're going to be separate from but this the way that he's running. >> No. Yeah. Well, the idea like I think that he was alluding to this idea of fortress Israel, right? Israel and I think he actually described Israel as being a modern day Sparta. Um it wasn't him.
  It was another politician or someone talking about Israel in terms of that future. Um but yeah uh I mean I think they also understand that that this is it. This is peak Israel perhaps. This is the time for maximum Israeli expansion. This is the time for them to maximize their gains uh in this in this era of conflict. So, if they can achieve that through this through this section, then they want to, right? I mean, because this then
 
-### Segment 7 — Makes It So That Uh
+### Segment 7 — Israel White House Middle East
 
 makes it so that uh you know if if if the expansion reaches a point where Congress or the White House or others are saying,
 "Wait a second. This is a bit much." this still carries on. >> Exactly. >> This still this relationship has the momentum and its own process and its own procedures and its own uh mechanisms that carries it on. Um and I think this is what they desperately want. I mean, they had wanted NATO for years to um to uh initiate a formal partnership with Israel. This is way back to its this is way back uh before my day with Palestinians.
@@ -168,7 +180,7 @@ is under investigation from it. And everyone knows that ICJ will render a guilty
  Uh you know, so how is this possible then? You know, that's a a preclusion for good reason. And as you said, a preclusion nations all the around the world have in terms of people in their government holding citizenship, holding loyalty with any other nation. Uh, you know, it's one thing to allow your citizens to be citizens of other countries. Sure.
 Absolutely. You know, you want to be in the United States, you can be a citizen of like three or four countries, I think. You know, and I look into, you know, my grandmother's from Ireland, so I look into getting my Irish citizenship from time to time, you I mean, so but you know, the idea of of it being uh, you know,
 
-### Segment 8 — A Military Officer A Member
+### Segment 8 — Europe Iran Israel
 
 a military officer, a member of Congress, uh, a member of the White House, uh, it just, you know, I mean, it's looking straight at it, you know, it's wrong.
 Matt, do you see Europe today? Looking at Europe today and their policies, it doesn't seem that I don't know if they're feeling comfortable with what's going on because when it comes to the Middle East, they're simply removed from what's going on in the Middle. Nobody's asking European position or their policy in the Middle East.
@@ -184,7 +196,7 @@ Europeans have a desire to, you know, they're conditioned as well. They they hav
  Even if they get a deal, uh how long would that last for? >> Exactly. >> How long, right? I mean, how long until conditions are such that it's politically beneficial for American and Israeli politicians to say, "No, let's go back to war." As well as to just the whole mindset, right? what one the Israeli expansionist uh need for domination of the region.
  Two, the American need to maintain it its empire to fix what was broken in 1979 to to get the order back in place that was lost from the Iranian revolution, right? I mean, those things don't go away. I mean, so you have this cycle of warfare that's going to continue. The Isra the Iranians are doing their best to establish a deterrence to make it so painful, not just on the Israelis and the Americans, but also on the Gulf Arab states as well as the world, right? I
 
-### Segment 9 — Mean Putting That Pressure On
+### Segment 9 — Israel Trump White House
 
 mean, putting that pressure on Japan and Korea, uh, you know, in terms of making
 them feel the pain of allowing the Americans and Israelis to carry out these wars. Uh but ultimately, you know, none of this ends until you have an American uh retrunchment of support for Israel. uh that's not going to happen. Not you're not going to see that in terms of action from the American Congress or the White House until the 2030s, you know, and then as well too then a realization in Israel that they are not just overextended but they are killing themselves that they are setting themselves up for catastrophic failure
@@ -200,7 +212,7 @@ expert he's not a diplomat Steve Wkov was not a diplomat >> and we know and on t
  uh you've seen a culling of the cabinet recently uh whether it be Gnome or or Bondi or uh Gabard now interesting of course they're all women um you know uh but uh I think that Marco Rubio has a great amount of of influence I think Rubio is is very much involved in all this quietly as a national security adviser you know for over the last uh year or so whenever Mike Waltz was fired uh you know Ruby had taken on that role and as a security adviser and there was criticism about him that you know he's being outshon uh as secretary of state
 by with coffin Kushner shouldn't Rubio be the one going
 
-### Segment 10 — To Meet With Uh The
+### Segment 10 — Trump Pentagon Russia
 
 to meet with uh the Russians going to meet uh with the Iranians you know shouldn't he be and I think Rubio's role as NASA security adviser is to be sitting next to the president and I think he sees that as paramount he can whoever he wants to go make these talks.
  But they have no decision-making power. Even when the vice president went to Islamabad, uh, you know, the reports were that every time a question came up, Vance had to leave the room to go phone back home and get an answer, right? So, and who's sitting next to the president when that phone call comes in? That's Marco Rubio.

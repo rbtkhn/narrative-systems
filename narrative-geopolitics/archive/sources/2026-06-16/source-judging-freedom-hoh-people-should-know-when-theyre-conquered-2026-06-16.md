@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 ingest_date: 2026-06-16
 pub_date: 2026-06-16
 kind: cleaned-transcript
@@ -25,12 +31,22 @@ evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: paste-prefix
 normalization_state: raw_operator_paste
-editorial_note: Operator-pasted transcript body; ideological cold open and closing lineup promo may be trimmed by Napolitano normalizer; ASR artifacts retained (Ammoage/Amwaj, Hamuz, Hoe, Npalitano, Hegap, etc.). Not human-verified verbatim. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. Ideological cold open trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "Operator-pasted transcript body; ideological cold open and closing lineup promo may be trimmed by Napolitano normalizer; ASR artifacts retained (Ammoage/Amwaj, Hamuz, Hoe, Npalitano, Hegap, etc.). Not human-verified verbatim. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. Ideological cold open trimmed in place; SSOT body otherwise preserved.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (8 sections)."
 quality_note: Initial land 2026-06-16; Napolitano close promo trim applied; frontmatter lists repaired.
 napolitano_close_promo_trim_applied: true
 napolitano_leading_noise_trim_applied: true
 napolitano_cold_open_trim_applied: true
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 8
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # CPT. Matt Hoh : A People Should Know When They're Conquered
@@ -44,7 +60,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Ceasefire Lebanon
 
 >> >> Hey everyone, Judge Andrew Npalitano here for Judging Freedom.
  Today is Tuesday, June 16th, 2026. Matt Hoe joins us now. Matt, as always, no matter what we're talking about, it's a pleasure to chat with you. Thank you for sharing your time with us. Do we understand what was agreed to between the United States uh and Iran? Uh do we have any grasp of it? You got comments from Vice President Vance and from the president and comments from the Iranians and they seem to be all over the place.
@@ -56,7 +72,7 @@ transcript_curation: curated_sectioned
 in all that we hear from all the different sides we can understand that this essentially is an extension of the ceasefire uh that it is an American acceptance of the reality of the Iranian control of the straits of Hamuz right you know I mean I think that's essentially what we're looking at here and that's all that matters and that gets the United States that gets the region that gets the world through the next few months because I I think the biggest thing driving all this in terms of the American acceptance of reality
 here was this economic cliff that the world was driving up to that seems to be some sometime in July when worldwide all inventories have been uh incredibly >> so so Trump blinked
 
-### Segment 2 — And Accepted A An Arrangement
+### Segment 2 — Iran Israel Trump
 
 and accepted a an arrangement that was offered by the Iranians two months ago in April. >> Right. Correct. And I think if there actually is judge a final deal uh some actual and it won't be a deal like the JCPO8 it certainly won't be a treaty that goes to the Congress to ratify.
  It will essentially just be this you know formal memoranda of understanding uh which you I'm not sure how rule of law works anymore. Um but this would be the vehicle right I mean this would be the vehicle through which this quote treaty >> not the only person that doesn't know how rule of law works anymore.
@@ -68,7 +84,7 @@ and accepted a an arrangement that was offered by the Iranians two months ago in
  You know, I I I I think that's interesting, but I think there are other factors here uh that mattered more uh in that haven't been [clears throat] discussed as opposed to the story we hear about hundreds of Iranian missiles are going to be shot. And if that story was true, just to end it on this point, if that story was true, that completely undermines everything the administration has been saying about one, the soundness of American and Israeli missile defense systems.
  And two, the other side, uh, the robustness of Iranian missile and drone systems. I mean, you know, Pete Hegap, Donald Trump, uh, Marco Rubio, they all keep saying the Iranians are almost out of missiles and drones. Well, you know, and we have no
 
-### Segment 3 — Shortage On Our Side Our
+### Segment 3 — Israel Netanyahu Iran
 
 shortage on our side. Our stock piles are full, they keep saying.
  Well, if that was the case, why were you concerned about the Iranians attacking uh Israel? Good uh good point. Very good point. But um what will Netanyahu do to wreck this? I mean, he's in a desperate situation domestically, is he not? The headline of today's Washington Post, I discarded it. I think the clean cleaning people came already, but the headline of the Washington Post said, you know, Netanyahu is being attacked by foes and friends at home and viciously attacked.
@@ -80,7 +96,7 @@ walk that line of not doing enough to prompt a response. Um, and yeah, >> that b
  Uh you know, I mean certainly they're going to go after Trump candidates uh candidates running for election uh who support Trump's agenda, who support the deal. They're they're going to be attacked by the Israel lobby. and the Israel lobby is going to put money into pro-Israel Democrats.
  Uh, and you're already seeing this shift. Axios laid this out pretty well, I thought, yesterday. Seeing this shift for 20 the split for 2028. You're gonna have Marco
 
-### Segment 4 — Ruby Ruby Marco Rubio Running
+### Segment 4 — Israel Trump Lebanon
 
 Ruby Ruby Marco Rubio running on a pro-Israel uh Zionistbacked Israel lobbybacked uh platform and you're going to have JD Vance running on an American first platform defending Donald Trump's legacy.
  And I think that's the split you're going to see in the Republican party going into 2028. I think maybe Marco Rubio leaves the administration early to pursue this, right? to just demonstrate how upset he is over this betrayal of our greatest ally, Israel ever. I have no idea how Mike Huckabe still has his job as ambassador.
@@ -92,7 +108,7 @@ Ruby Ruby Marco Rubio running on a pro-Israel uh Zionistbacked Israel lobbybacke
 The big thing I'd like to see them them them stop and this this is what would really give the Israelis pause I think is to uh for President Trump to revoke uh the debt guarantees that the United States has for Israel. You know since the 1980s essentially the United States Congress has continually provided uh a debt guarantee uh meaning that the United States backs Israeli bonds.
  Um, and the total amount, if you read about this, the total amount is not that great, but the importance is the idea that the Americans have put forward already that they will guarantee Israel's debt. So, the Israelis of course feel that this emboldens them to do whatever. If they get into something where their
 
-### Segment 5 — Entire Economy Crashes And They
+### Segment 5 — Trump Israel Iran
 
 entire economy crashes and they need 20, 30, 50 billion dollars to be bailed out, the Americans will do it because, hey, they already provide us a debt guarantee here.
  Why wouldn't they come to the rescue of the lifeline like they did for say Ukraine, right? I mean, so that would be I would like that's what I would like to see Donald Trump pull is, you know, this debt guarantee for the Israelis to let them know, hey, it's just not the fuel for the planes or the bombs for your planes or the spare parts for your planes or whatever, but it's this underlying uh uh uh uh guarantee the United States has to be a lifeline for Israel come what may, that's in jeopardy.
@@ -104,7 +120,7 @@ mean, so if this is what he's decided his legacy is gonna be wrapped around, the
  But more importantly, I think the Iranians would close off the streets of Hamuz again and that then would anger Trump because that would show his deals not working. You know, Donald Trump's able to spin thisou as a victory. And so as long as the Iranians do their part, as long as the Iranians allow the ships to go through, as long as uh uh uh you know, they're promising to some point, give us a nuclear dust or whatever, and that's a promise for the future.
  Iran, Donald Trump can spin this as a
 
-### Segment 6 — Victory And That's Most Important
+### Segment 6 — Iran Trump International Law
 
 victory, and that's most important to him. >> Trump and Vance have been saying in different forms, Vance is all over the place. He's all over New York City today because he's selling a book. >> Oh. Uh the president is uh in outside of Paris with the G7 both saying the United States is not giving any American money to Iran. So misleading.
  The money is not American. The money is Iranian money in foreign banks that are terrified of US sanctions. Period. End of the story. Right. All the US Treasury has to do is lift the sanctions selectively on a few of those banks and a couple of tens of billions of Iranian money goes back to Iran. Same thing Obama did.
@@ -116,7 +132,7 @@ government froze Iranian assets uh in response to the Iranian revolution uh but 
  Uh, and um, this is what's got them, you know, and and the catastrophe for the American empire here. Uh, you know, and this is why, again, I think maybe Donald Trump um may do something that surprises us by somehow amending the United States's relationship with Israel. Again, I think it's very unlikely, but there's a possibility.
  interrupt you for a minute because we have a fascinating new clip on this on Hezbollah from Donald Trump. I'll I'll warn Benjamin Netanyahu if he's watching. I doubt he's watching. He's
 
-### Segment 7 — Not Going To Be Clears
+### Segment 7 — Israel Trump Hezbollah
 
 not going to be [clears throat] happy with this. Chris, >> I'll tell you what, Israel's fighting Hezbollah too long and too many people are being killed.
  And you don't have to knock down an apartment house every time you're looking for somebody because there are a lot of people in those apartment houses and they're not all Hezbollah that I can tell you. And I suggested to Israel to let Syria take care of Hezbollah because to be honest with you, I think they do a better job of doing it.
@@ -129,7 +145,7 @@ Now, that's something you I find surprising. I think everyone finds surprising b
  And at the end of the day, they may want what Donald Trump wants most for them, you know, as well. Good point. >> So yeah, I mean, so maybe that's what we're seeing here. Of of course, there's been no mention whatsoever of Gaza. Uh the genocide continues there. The Israelis murder at will, sometimes five a day, sometimes 15 a day.
  Uh the Israelis are now looking to control 70% of the
 
-### Segment 8 — Strip Uh The Border Of
+### Closing — Israel Lebanon Palestinian
 
 strip. Uh the border of peace is nothing more than the the corrupt uh uh uh racket uh that we all knew it was going to be. Uh and so the Palestinians continue to to to suffer. Uh, and the West Bank annexation uh, continues moving forward. >> Well, how can you call the Board of Peace corrupt? I mean, aren't they playing Aren't they paying Tony Blair a million dollars a year to be the chair? [laughter] >> H That's actually I did not I didn't I didn't know that, Judge. So, now it's
 like even worse, right? >> I didn't even know that. So, now my estimation of it is even worse than it was before. Oh, good god. But yeah, I mean, so uh but you I mean that's something interesting too. I think for people to understand when you see the Iranians and how they are involved in and how they are involving themselves and what a lot of people in the commentary commentary over the last couple weeks have said it's like wow look at the Iranians they realize that they have the leverage to extend and cover Lebanon that it's just not

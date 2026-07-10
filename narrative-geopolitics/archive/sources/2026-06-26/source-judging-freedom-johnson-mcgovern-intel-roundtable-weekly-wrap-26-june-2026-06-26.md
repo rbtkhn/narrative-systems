@@ -1,4 +1,5 @@
 ---
+
 ingest_date: '2026-06-26'
 pub_date: '2026-06-26'
 kind: cleaned-transcript
@@ -28,8 +29,18 @@ transcript_wrapper_tier: raw
 napolitano_cold_open_trim_applied: true
 napolitano_leading_noise_trim_applied: true
 opening_tier: host-tease
-editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (johnson, napolitano, johnson,mcgovern,napolitano, channel:judging-freedom)); 15 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Ideological cold open trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (johnson, napolitano, johnson,mcgovern,napolitano, channel:judging-freedom)); 15 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Ideological cold open trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-07-09 (9 sections)."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # INTEL Roundtable w/Johnson & McGovern - Weekly Wrap 26-June
 
@@ -40,13 +51,13 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Hormuz Status Roundtable
+### Show Open — Here End Week
 
 Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
  Today is Friday, June 26, 2026. It's the end of the day, the end of the week. It's almost the end of the month, but it's our favorite time of the week, the intelligence community roundt with my longtime friends and collaborators Ray McGovern and Larry Johnson. Ray and Larry, welcome here. I thought it was a pleasure.
  Larry, I'm gonna start with you even though I've been asking this question all week trying to get a consensus.
 
-### Fuel Buffer — Diesel and Aviation Crisis
+### Segment 2 — Hormuz Iran Middle East
 
 What is the status of the straight of Hormuz as we can possibly understand it as we speak? >> Well, it's it's still in the same physical location where it was at the start of the week. >> So far so far that hasn't moved.
  Um, if if you are following Iran's rules for transiting the straight, the straight is open provided that you're not an Israeli affiliated ship. Uh, now what about so all the that means all the other ships are lining up to come out? Well, no. uh because uh ships that are not that are insured by Lloyds of London or some other insurance company, they're not allowing those ships to go through the straight yet because there's still questions about are there land are there sea mines, explosive mines floating around in the water. Now, we we heard
@@ -60,7 +71,7 @@ that that that is we we produce it in the United States. We produce it in excess
  Then all of a sudden the straight of Hormuz is closed. The supply for both of these dropped 20%. And yet what happened on the aviation side is the demand went way up because we were launching all these combat operations in the Middle East. So you've got a real disparity that has a split that's developed where we don't have enough of the supply of diesel aviation fuel, the oil that does that to to meet existing demands.
  And it's gotten down to the point it's called a a 13 to 18 day buffer, which means essentially uh we're we're close uh in a week or two we're going to be at the verge that
 
-### Asset Recall — McGovern Huge Moment
+### Segment 3 — Trump Netanyahu Israel
 
 if anything happens like a hurricane that takes out a refinery, uh we're going to be out of some critical fuels. Wow. Rey, um, will Netanyahu and his crew do everything they can to sabotage this sabotage this memorandum of understanding because he needs war to stay in office and to stay out of jail and because the Israeli public wants war with Lebanon.
 The answer is yes. Uh, the other question is, will Trump allow him to do it? Uh, that's the $64 question. I don't think Trump knows what he's going to do just now. >> The longer this things goes on, his his main demand, namely open the damn straits, is in jeopardy. And so, I think maybe this is the first time in recent history where an American president can say to an Israeli prime minister, look, forget about it.
@@ -70,7 +81,7 @@ Here's uh what CNN's Jake Tapper says. A transcript of a Donald Trump Benjamin N
 Doesn't he risk the wrath and the retaliation of Mrs. Adlesen and all of her wealthy uh donor friends, Larry? >> Well, yeah, potentially. But uh let's Trump's actually, you know, he's now put some teeth on this. I understand the order was finally released that uh directing US aircraft and US military units that had been deployed to the region for the war with Iran.
 They're now being recalled. So this is >> Well, does that mean they're coming home back to the United States? >> Yes, that started that started within I understand within the last >>
 
-### Syria Hezbollah — Trump al-Shara Idea
+### Segment 4 — Trump Middle East Israel
 
 as McGovern as Ray McGovern would say that's huge. Yeah. Or that's big. >> Yeah. Well, what it means, so number one, this process, it's going to occupy about a month, month and a half to return all of those assets because, you know, for example, if you're going to bring home a a squadron of F-35, uh, jets, uh, combat jets, they can't
 fly the whole, I think it's it's between, depending on the route, 6 to 8,000 miles back to the United States, uh, because they they have to fly about 500 450 miles before they need to be refueled. So they go through the air refueling uh and then you get to the issue of how long can the pilots stay a loft and you know will they fly to a base and then stop stay overnight.
@@ -79,7 +90,7 @@ fly the whole, I think it's it's between, depending on the route, 6 to 8,000 mil
 So, this is I think this is significant. So Rey, one of my former colleagues and uh still friend at Fox, Trey Yinst, who's their Middle East, their their chief Middle East correspondent, called Trump on his cell phone that Trump answered. And here is Trey saying what the president told him. Cut number two. >> The president told me he is disappointed Israel can't put Hezbollah away.
  He went on to say they can't do anything without knocking buildings down and that he is close to giving it to Syria and he is talking about
 
-### CIA Propaganda — Iran Regime Change Line
+### Segment 5 — Hezbollah Syria Trump
 
 empowering uh Syrian president al-Shara to actually go into southern Lebanon and fight Hezbollah because the president believes that he would do a more precise job in terms of the way he would deal with Hezbollah, not knocking down buildings but fighting them on the ground.
 Ray, isn't this almost inconceivable that the head of the Syrian government, a former terrorist who chopped people's hands and heads off, would now be doing Israel's work by fighting Hezbollah. Yes, judge. That's why uh Trump doesn't uh doesn't accept my calls only from Trey. I mean, it's crazy. It's megalamaniac.
@@ -89,7 +100,7 @@ It's just a simple the way that Trump is trying to embarrass uh embarrass Netany
  I would think that the uh CIA Directorate of Operations or what used to be called the Directorate of Operations may have come up with a proposal saying here's how we do this. Uh I'm sure that MSAD was pushing it along as well, which is why the MSAD chief was there briefing Trump on the eve of this start of this war against Iran because they said, "Listen, all we got to do is kill these top guys.
 " And and and the problem was they started believing, you know, believing their own propaganda because it was CIA generated propaganda that was pushing the claim that 80% of the Iranian public opposed uh the Ayatollah and the rule of the clerics and were just at given the opportunity would rise up and overthrow them. Well, turns out that that storyline was being produced by a
 
-### Hexath Promotion — Political Generals
+### Segment 6 — Iran Israel Based
 
 CIA funded propaganda outfit that was based uh in in the Netherlands and in Canada.
  The the two elements of it were uh based in both locations working together. Turned out not to be true. And in fact, the exact opposite happened. So this is one of those things where uh poor planning uh there's another P that goes with that but uh poor poor planning leads to poor performance >> right uh McGregor says that we are not a ground military do you agree Larry >> oh yeah no absolutely look uh we are we're an expeditionary force but to be an expeditionary force you got to have some way to get there someplace to uh be
@@ -99,7 +110,7 @@ build up and then to be able to launch from there and sustain the logistics. We 
  Now, I asked Larry Wilkerson, who knows a lot of these guys and should have been one of these generals, but didn't pass this the smell test, so to speak. Um, I asked him, "Are there any major three or four stars or even two stars that would speak up to the president, tell him this kind of thing?" And he said, "Forget about it." One star, maybe colonels would be, but these guys are all so politicized.
  That's how they got to be two stars, three stars, four stars. And other people tell me the same like Tony Aguilar who was a colonel. These colonels know what they're doing. As soon as you become a one star, then you're a political. You don't even have to go through any of the usual promotion panels.
 
-### UN Security Architecture — Five-Year Deal
+### Segment 7 — Russia Iran Larry
 
 You get promoted by the by the Hexaths of this world.
  And they know more about that. Larry, why did Hegseth terminate the career of General Donahghue? >> I have I have no idea. I mean, it's just it's uh Donahghue u I guess you could conceivably say they wanted to punish him for the debacle of our, you know, pull out from uh Afghanistan. But again, that wasn't uh it wasn't him that ultimately issued the orders.
@@ -107,6 +118,8 @@ You get promoted by the by the Hexaths of this world.
  Um it it just it appears to be more based on personality and petty stuff as opposed to actual you know some dereliction of duty or some level of incompetence. >> Wow. >> Maybe true. Can I interject there? >> Oh yeah, of course. Of course. Right. Maybe right. Uh my guess is that he and others that see the utter folly of having landing troops, Marines and 82nd airborne in the Gulf region could not uh could not resist the notion that Hegseth might employ them in a ground attack of some kind and gathered together some of his friends and came to Hegseth and says
 you you you employ those guys uh on the land in Iran, as the Russians and the Chinese have said, is completely unacceptable. It's not only completely unacceptable to them, it's accept unacceptable to us because that would just be sacrificing our our wonderful troops. So, if you do that, I quit. And so, Hith goes to the microphones that evening and says, I fired Donnu.
  That's my guess. That's just But I think it's equally possible as to what what Larry suggested.
+
+### Segment 8 — Ukraine Russia Trump
 
 >> Wow. Larry, is the Russian public losing patience with the war in Ukraine? >> Uh yeah. Yeah. Um they're wanting a stronger response and based upon what Putin has said of let they're going to get it.
  I I think really what what what we're seeing now is a very dangerous escalation on the part of the West uh the NATO countries and now Trump. Um the progress that the Russians were hoping was going to be made after the meeting between Putin and Trump last August in Anchorage. Uh the the the hopes surrounding that have been basically dashed.
@@ -117,7 +130,7 @@ and in in Europe. So taking into consideration all this, we believe that it's th
  Nevertheless, the US cannot pretend to be a neutral observer because it's also assisting Ukraine by providing weapons, selling weapons, and providing quote other technologies. So, it's sort of a dilemma. Why this sort of paradox? It's because Puchin wants the US around in a capable mind and a capable framework so that when the when the war is won on the ground in Ukraine, I perceive that to be this fall at the latest, then that's not enough for the Russians.
  What they want is a security architecture that they've been pining after for five years now. What they want is a deal which not only the US is in but
 
-### Scott Ritter Drones — Russia Factory Strikes Close
+### Closing — Russia Ukraine Europe
 
 the UN security council will approve so they don't have to do this five years from now. So you get these various streams and last thing here a little a little punch at at Mong.
  He says look we know what says Piskoff we know what Mcron says we we we asked around but he's not speaking for the United States. If the United States wants out of this thing, let them speak for themselves. We don't pay much attention to Mong. So that's the latest two hours old. It's not all that clear, but the fuzziness helps Pooin because he's winning and he doesn't need to resort to extreme measures to keep winning.

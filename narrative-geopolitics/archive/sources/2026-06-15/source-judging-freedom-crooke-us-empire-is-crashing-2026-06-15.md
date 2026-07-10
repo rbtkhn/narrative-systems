@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 ingest_date: 2026-06-16
 pub_date: 2026-06-15
 kind: cleaned-transcript
@@ -20,12 +26,22 @@ source_url: "https://www.youtube.com/watch?v=eiEH9Lww67A"
 youtube_id: eiEH9Lww67A
 source_note: Operator-pasted transcript; host self-dates Monday 15 June 2026. MOU/deescalation frame — Netanyahu Beirut assassination triggered Trump concessions; Lebanon withdrawal; Hormuz blockade lift; maritime services / fee language; Iran rejected cash-for-no-retaliation; Netanyahu polling collapse; empire-crashing Substack referenced but not read on air. Close live-schedule promo retained at operator paste boundary.
 evidence_grade: transcript-bearing
-editorial_note: Operator paste verbatim; ASR noise preserved (Napolitano/Crooke/Hormuz spellings); not human-verified; verify before quotation. Ideological cold open trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "Operator paste verbatim; ASR noise preserved (Napolitano/Crooke/Hormuz spellings); not human-verified; verify before quotation. Ideological cold open trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (8 sections)."
 napolitano_cold_open_trim_applied: true
 napolitano_leading_noise_trim_applied: true
 opening_tier: host-tease
 napolitano_close_promo_trim_applied: true
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 8
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Alastair Crooke: US Empire is Crashing
@@ -39,7 +55,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Ceasefire Trump Hezbollah
 
 Hi everyone, Judge Andrew Npalitano here for Judging Freedom.
  Today is Monday, June 15, 2026. Alistister Crook joins us now. Alistar, a pleasure, my dear friend. Thank you very much. Before we get to the United States uh empire crashing about which you wrote so uh eloquently uh over the weekend, has the United States entered into another uh 60-day ceasefire? And if so, what's what's new? How do the terms of this ceasefire compare with the JCPOA that Trump walked away from uh years ago? Um well, first of all, it's really important to to to say that this is really a deescalation um agreement or whatever you want
@@ -49,7 +65,7 @@ memorandum a deescalation it everything that is sort of substantive is kicked do
 resistance movement and he was held to be responsible for killing five um for killing five Americans um in an attack on Karbala. And he was then sent to prison for 7 years um in Iraq with America trying to extradite him. And eventually he was released after 7 years. And at the time um Obama was pressing him to go to Ganamo.
  They wanted him in America and to go to Guantanamo. Now, I'm saying all this because it it's pretty obvious, I think, that, you know, in killing this person who had American blood on his hands, according to um
 
-### Segment 2 — The Israelis And The United
+### Segment 2 — Israel Iran Lebanon
 
 the Israelis and the United States, and who was um imprisoned for this, had been imprisoned for it, and had a big price on his head.
  I think they thought they'd get plaudits um from the United States. They probably got help um to identify him. I don't know, but it's quite possible that um CIA um lent some intelligence help to identify him um in Beirut and have him killed, but instead of um it being applauded and saying, well, you know, this was absolutely right.
@@ -60,7 +76,7 @@ The explicit use of the term maritime services is meant Iran's right to collect 
  In other words, they'll start charging a toll after the the these 60 days. But these were really the the sort of um the key key changes that that were made. um uh uh the lifting of the blockade immediately um and the passage um through regulated by Iran and Oman and at the end of the 60 days the lifting of sanctions 60 days therefore is also the lifting of sanctions before there's any final agreement on negotiations.
 So what happened? Well, it was this that after the bombing um if you like after the assassination attack um by Israel on this duck dul in Beirut in Dah
 
-### Segment 3 — In The Suburb Of Beirut
+### Segment 3 — Trump Iran Israel
 
 in the suburb of Beirut. Um uh Trump contacted uh the Iranians through um through through the I think it was through the Omanis and he offered them billions of dollars um cash um as um part of their unfrozen assets.
  He offered a big payment if Iran did not react to this um uh to this um assassination, this attack into Beirut uh uh by um uh by Israel. And he said, you know, I and it was going to be billions. I don't know the figure, but it was they offered I suppose it was Kushner offered billions to do it.
@@ -71,7 +87,7 @@ in the suburb of Beirut. Um uh Trump contacted uh the Iranians through um throug
  Well I mean this is inevitable. This is going to happen. Trump, especially Trump being Trump, will put his own interpretation on every clause of this agreement uh to the disadvantage to Iran and Iran will insist on their agreement. But what happens if the implementation doesn't go ahead and what happens as the um as Israelis have said, Israeli ministers Ben Gavia, other ministers um Katz has said, this agreement by Trump doesn't apply to Israel.
  It's nothing to do with us. And we will not withdraw from Lebanon. And we will continue in Lebanon. And we will continue to defend ourselves against Hezbollah in Lebanon. I.e. continue to do attacks like the one on Sunday in Dahir. So this is going
 
-### Segment 4 — To Be The The Real
+### Segment 4 — Lebanon Israel Trump
 
 to be the the real test. Will the money come? Will that really be provided? Um, will the will the blockade actually be lifted? Where will all of this end up? because as always, as I said, it's almost certain we will find reflected in your press uh in the United States a version of reality which maybe not
 compatible with the uh written description put out by Iran. And that is often the source of the breakdown of these arrangements >> is uh the um now denied by the Israelis removal of their troops from Lebanon. Lebanon uh a part of the agreement because we know they're not going to do that voluntarily and they've just said so.
@@ -81,7 +97,7 @@ Nearly half of that rating. I mean, this suggests that if the elections are held
 Trump's um orders to withdraw from Lebanon. It has become really a deep article of faith in Israel that they cannot allow Ezah to exist near to the northern territories, near to that area from the border down to Galilee, which has been the scene of of fighting and where the um if you like the townships in the north are now half empty because the residents have fled from them in in fear of of Hezbollah.
  So he has to go on attacking Lebanon to win the election. And the other thing to to to realize is, you know, this attacks on him for appearing weak and for caving in to Trump's demand for withdrawal from Lebanon have come from across the board. um from the opposition, from the
 
-### Segment 5 — Left From The Right All
+### Segment 5 — Israel Netanyahu Lebanon
 
 left, from the right, all of them agree uh Israel cannot be prevented from taking whatever military action it deems necessary for the safety of Israel.
  This goes back to the big change in security doctrine that happened after the 7th of October. They accept no restrictions on their freedom of military action anywhere in the Middle East >> and they are going to insist on that. >> Surely the Iranians know how the Israelis feel about that. Do they honestly think Donald Trump can restrain Benjamin Netanyahu? Otherwise, why would they enter have entered into an agreement that has as one of its triggers the removal of uh Israel from Lebanon and its cessation of attacks on Hezbollah.
@@ -91,7 +107,7 @@ agenda in the United States above those of Israel and above those of of Netanyah
  And the other thing that is important to emphasize is that the uh uh leader of the most likely opposition leader who might be prime minister of Netanyahu is defeated in these upcoming elections. oftali Bennett I mean follows exactly the same um doctrine um of this idea that I Israel cannot be constrained cannot be restricted in its ability to take military action anywhere in the region whenever it feels that it is threatened or even to prevent um for threats emerging in the future they can take preemptive action.
  So, I mean, even if there was an election, we wouldn't be sending a change. What this is signaling is
 
-### Segment 6 — Basically That Um Israel Has
+### Segment 6 — Iran Israel Trump
 
 basically that um Israel has yet to digest the fact that America lost the war in Iran. uh and that therefore Israel has lost the war in in in in Iran and that they haven't come to terms uh with that reality and they cannot come to terms with the fact that you know Iran policy um what was you know what they have been trying to do to destroy Iran is just cannot be done without the United States as an active support and they just have lost Trump to this
 project. >> Two questions. Is the United States going to >> remove the freeze on any Iranian assets as Trump offered and the Iranians rejected because it's their money and they are entitled to all of it. And secondly, in your view, um, what happens when Iran retaliates against Israel for attacking Hezbollah? Is the United States going to defend Israel? And we're back to square one.
@@ -100,7 +116,7 @@ they will be all the sanctions the US sanctions on Iranian sale of Iranian oil w
  Um, I think it can be disrupted pretty much at any time, but it seems what Trump will get is 60 days by which vessels will be able to leave um, Homos under the control and regulation of the IRGC, but not charging fees for 60 days. After 60 days, they won't, it's not going to be called a toll, but they will charge fees for um uh security, for the maintenance of the waterway, for whatever you like to call it, environmental matters, >> just as Turkey does the same thing in the Bosphorus Straits.
 >> Here's how duplicitous these uh people can be. Vice President Vance just told CNBC the straight of Hormuz will be open tollfree in the long
 
-### Segment 7 — Term So It'll Be A
+### Segment 7 — Iran Trump Israel
 
 term. So it'll be a toll, but you won't call it a toll. >> Exactly. Exactly. No, but I mean, you know, he'll present it as you've just said, presenting it as if it's, you know, completely free in the long term.
  But that is not what was agreed yesterday uh between uh that and which is written in in the statement which will presumably um emerge in its full um text uh on Friday. But that is what was agreed with the Iranians. So they were quite important because Trump had tried. I mean, he'd offered Iran billions of their own money.
@@ -111,7 +127,7 @@ term. So it'll be a toll, but you won't call it a toll. >> Exactly. Exactly. No,
  They don't want it to emerge and to become a a dominant player in the region. And Trump and Israel share the same objective in in that way. That's why yes, you could call it that they were in a stronger position, but it was a you know like like holding a a sort of grenade in your hand with a pin out. You know, sooner or later this grenade is going to blow up in your face.
  So, you know, just as
 
-### Segment 8 — The Just As The Palestinian
+### Closing — Iran Israel Trump
 
 the just as the Palestinian situation has blown up in Israel's face before it. So, I don't think it was ever a sustainable situation. >> Right. Right. The I said last question, but uh I have one more, forgive me. The removal of the sanctions on the sale of oil is not accompanied by the removal of other sanctions uh with respect to international trade.
 Is it? >> No. And you know Trump is not in a position to to to offer that. First of all, many of the sanctions, some of the sanctions are um resolutions by Congress. Uh and they would need Congress to um undo those sanctions. And given the complex uh composition of the Congress, US Congress, I don't think Iran really imagines that the Congress is going to alleviate any sanctions on Iran.

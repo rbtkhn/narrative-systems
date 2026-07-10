@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-19
 pub_date: 2026-06-18
 kind: cleaned-transcript
@@ -31,7 +32,7 @@ transcript_wrapper_tier: clean
 caption_wrapper_normalize_applied: true
 source_note: "Host self-dates Thu 18 Jun 2026. MOU signed both sides; 14-point plan read as US/Israel capitulation vs Iran escalatory dominance; midnight ET oil/gas/petrochemical sanctions lift; $24B unfreeze + $300B reparations fund frame; Trump four-week SPR/oil reserve motive; al-Mayadeen ex-Israeli Navy commander quote on Iranian strike damage; virtual sign Versailles/Tehran not Geneva; Russia/China/Pakistan mediation; Trump praises Russia/China; Karaganov hegemon-to-normal-power; Israel hysteria post-deal; NDAA §224 (§219 renumber) + Cotton §622 intelligence bind; Lebanon Pt.1 load-bearing; Trump pressure on Netanyahu Lebanon withdraw; G7/Keir Starmer snub; UK grooming gangs tangent; Ukraine Moscow drone attack; cross-ref J18 MOU batch (Martyanov/Johnson/Aguilar §224). verify:wire-supported MOU digital sign + text; verify:wire-supported Trump ~4wk SPR; verify:wire-supported NDAA §224 + IAA §622; verify:wire-supported Lebanon Art.1 load-bearing; verify:wire-partial midnight ET oil/gas/petrochemical sanctions relief; verify:wire-partial $24B/$300B fund frames; verify:wire-partial al-Mayadeen Navy cmdr quote (Krainer read); verify:wire-partial Trump–Netanyahu acrimony + Israeli hysteria; verify:wire-tier4 US/Israel capitulation + Iran escalatory dominance read. · ASR pass 2026-06-19."
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass + manual Dialogue Works bench); 42 substitutions; not human-verified verbatim; verify before quotation. News-verify header pass 2026-06-19. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass + manual Dialogue Works bench); 42 substitutions; not human-verified verbatim; verify before quotation. News-verify header pass 2026-06-19. · source-section pass 2026-07-09 (10 sections)."
 quality_note: "ASR normalization pass 2026-06-19; ph-civ replacement SSOT."
 verify_receipt: 2026-06-19
 verify:
@@ -68,7 +69,17 @@ verify:
   - claim: 60-day ceasefire window may mask next attack prep (Krainer suspicion)
     verdict: unclear
     note: Mercouris trap lane adjacent; falsifier #3 fuse running — retest ~Jul 2–9
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Alex Krainer: Trump SCOLDS Netanyahu as Iran Oil Sanctions LIFTED
 
@@ -79,7 +90,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Israel Trump
 
 Hi everybody. Today's Thursday, June 18, 2026 and our dear friend, our brother Alex Krainer is here with us. Welcome back, Alex. >> Uh, good to join you again, Nima. Thank you for the invite and greetings to everyone out there. >> Alex, let's start with the breaking news. Last night we've learned that Iran and the United States both sides have signed the 14 MOU memorandum of understanding and finally we get the text we get the document because both sides you know released that document.
  So when it comes to what has happened so far, I think looking at the 14point plan, it see you may see many people would argue that it does a huge defeat for the Trump administration, for the United States, but in my opinion, this is the reality of the new world we're living in. You know, you cannot have slaves anymore because these all these things that are happening in this memorandum of understanding by the way is not a deal.
@@ -94,7 +105,7 @@ Uh they are uh allowing Iran to export oil again. They are unfreezing $24 billio
 This would be the first thing that the United States normally wouldn't allow. they would they would they would basically freeze that, sanction it, not allow anybody to invest a scent in Iran. Now they had to climb down from that position. Uh Trump himself uh in his first term imposed maximum pressure sanctions on Iran.
  So all of this has been o thrown over overboard. And
 
-### Segment 2 — So There's It's It's Hard
+### Segment 2 — Iran Israel Trump
 
 so there's it's it's hard not to see this as a defeat for the United States and and Israel and a and a victory for Iran. Now, uh, that in itself makes the whole thing a little bit suspicious as well because who knows, maybe maybe they're going to use the 60-day window, uh, the 60-day ceasefire to prepare for the, you know, next attack on Iran.
  But I think that Iranians themselves are not naive. They understand this and so they will be preparing. But what I found interesting is that Trump was kind of asked how, you know, why this radical change of of of position and he said that they were four weeks away of from running out of oil reserves. So if that's true, and I don't know if that's true because, you know, Trump said it. Um it may or may not be true.
@@ -108,7 +119,7 @@ many times that the United States has to attack Iran. We have to do this and tha
  It was not it wasn't a long war. You remember it 39 days of war. So that wasn't huge. You see, you go you get into a war that you don't know what the main objectives. Let's go after the main objectives. What was mentioned? They didn't mention it officially, but they were asking for no enrichment on Iranian soil. They wanted to put, you know, some sort of restrictions on Iranian ballistic missiles and no nuclear weapon.
  They talk about Iran the Iranian support to the pro as they call so-called proxies, Iranian proxies in the region because Iran is supporting them. These were the agendas on the part of basically I haven't heard particularly from the Trump administration but
 
-### Segment 3 — Israelis Were So Vocal About
+### Segment 3 — Trump Iran Russia
 
 Israelis were so vocal about what were the main objectives.
 So what and Benjamin Net wanted to sell that to the to he wanted to convince the Trump he convinced the Trump administration if you get in do regime change you're going to achieve all of them all those objectives and here is Donald Trump what would be the solution for him he's in it say the traitor for Mosian closed no regime change no enrich you know that no enrichment policy is gone Ballistic missile is not part of 14point plan.
@@ -124,7 +135,7 @@ And so I think that this is the next stage uh which which will depend on whether
  it was total cooperation you know when it comes to because these countries are >> reshaping the whole calculation in my opinion and just today we've learned Chinese foreign ministry said the cooperation with Iran will deepen and China and Iran are comprehensive strategic partners and will continue advance their comprehensive strategic partnership is going to be $400 billion and they're deepening that So the everything I think is reshaping and Donald Trump, do how do you see the way that the Trump administration is somehow
 perceiving that or is he getting there? Because looking at G7 and the the summit of
 
-### Segment 4 — G How What Is Your
+### Segment 4 — Trump Netanyahu Israel
 
 G7, how what is your perception of the today? He comes in into the meeting, he says, I'm the boss. I'm here. and he goes around and sit and this he he he says I'm the boss but when he laughs so he smiles after that he knows that those things doesn't exist anymore because the world has changed somehow.
 Um, yes. I, uh, Nima, I think I'm still very very mystified by what possessed Trump to even go to war against Iran. I mean, that is that was so insane that >> I think it's going to remain in the history of the United States, this war. >> Yes. >> Yes. And somehow Trump was persuaded to go ahead with it. Even though we remember that in 2019 there was great pressure on Trump to go to war against Iran.
@@ -138,7 +149,7 @@ So the Russians are not letting go of this spirit of Alaska. they they still pri
  He's like, "Gosh, that was a mistake to go with the crazies." But the doors were not slammed in my face by the by the other people. And so I think that this will this has forced Trump to to to eat humble pie and to question who is who are his friends, who are his allies, who is the constructive sides and who are the crazies. And so it it it hopefully strengthens the the the multipolarity, the belt and road initiative, the bricks, um whatever is remained of it.
 And it makes those forces stronger and it makes the imperial zionist uh conspiracy weaker. And that's that situation, Nima. But the situation in the UK and the situation in Ukraine is very much related. Two days ago, what is it today? 9 18th. Yeah. Two
 
-### Segment 5 — Days Ago We Had The
+### Segment 5 — Russia Trump Middle East
 
 days ago, we had the release of the rape gang inquiry in England, which I think is going to turn out to be one of the pivotal events in the 20th cent in the 21st century because it could completely overturn the the order in the UK that has continuity since the glorious revolution
 in 1688. And you know the the bombing just exploded two days ago and now the British people are starting to digest it and you can see the anger mounting and there's no more denying it. You know there there was this consistent attempt to deny it by saying oh if you if you talk about the grooming gangs you're a racist.
@@ -148,13 +159,15 @@ But then this morning, Russia Moscow wakes up to practically apocalyptic scenes 
 And you know the Middle East in 2019, it was the British leading the pressure campaign on Trump to go to war against Iran. The British are leading instigators of war in Ukraine against Russia. They signed the 100red-year partnership to provide drone technologies to the Ukrainians. So the Russians know perfectly well that it's the British behind all this drone warfare against the the Russians.
  And by now the the the British are not even bothering to conceal it because they want the Russians to react and begin a bigger war to deflect attention from domestic issues and to turn people's anger towards an external enemy. So, it seems to me that everything is coming together and that this this must be discernible to Trump and he has to he has to make a decision what side he's on because if you're on the side of Israel, you're on the side of the of the of the global empire.
 
+### Segment 6 — Ukraine Russia Europe
+
 And then you're against Russia, against China, against Iran and so forth. >> Yeah, I think the case of Ukraine is getting more complicated at the G7 summit. We've seen that it's I don't know if Macron said that Donald Trump is getting closer to the position of you Europeans and he wants to put more pressure on Russia and the point Alex which was raised by Donald Trump again says that this war is taking too much time and and they're not doing anything on the battlefield.
  He was every time he comes out and he tries to picture the war as this way again. He says why they're not doing something on the battlefield. But the they don't understand the complexity of issue in Ukraine. The case of Ukraine is too complex in my opinion because as you mentioned they have the support from Europeans.
  They're providing right now the manpower is not there. They don't have the weapons because of the war of the United States and Israel against Iran in the Middle East. They have depleted many of those missiles and interceptors. So they didn't have that much to send it to Ukraine. But after all, Ukraine has managed to produce these drones together with Europeans, together with Germany, United Kingdom.
  All of these countries are helping Ukraine to produce more drones, not to fight on the battlefield, but hitting civilians in Russia. This is the reality. This is a complex sort of situation. And Russia, we know from what we from what we've seen so far in the battlefield on the battlefield in Ukraine is that Russia is not willing to kill the people in Ukraine the way that you see what Israel has done in Gaza.
 What they're doing in the southern part of Lebanon. That's
 
-### Segment 6 — Not The Case For Russia
+### Segment 7 — Russia Ukraine Trump
 
 not the case for Russia. Russia is fighting a fight on the battlefield. And the whole, you know, the whole plan on the part of Russians is the eastern part of Ukraine. They don't want to go to the western part of Ukraine. They know that would be a huge trap for Russia to go there and there is no point for Russia to go there.
  No, nobody going to welcome them if they go that far. So this is a hugely different area and Donald Trump doesn't. Again, in my opinion, the problem is in Washington. He doesn't understand the complexity of the issue. He wants to put an end as he wanted in the Middle East. He thought that Benjamin Netanyahu is providing him with intelligence and everything going to be big and beautiful do the so-called regime change in Iran and he sees everything so simple in Ukraine as well.
@@ -168,7 +181,7 @@ rape gangs it's Not it's not about sex. It's about money. These rape gangs don't
  There's some kind of um conflict that that's that's probably could result in in like a major inflection point for the for the for for history because the United Kingdom is involved in practically everything the the you know not not the British people the British ruling establishment they're victimizing the British people they're very actively supporting uh Benjamin Netanyahu and the Israelis you know with with they're hiding all this but it's all coming out they're providing weapons they're providing parts and and ammunitions they're flying
 the spy planes providing uh targeting data almost on a daily basis. Uh so so they're they're involved in everything and it's creating it's creating a major conflict and and I think that this conflict
 
-### Segment 7 — Will Erupt At One Point
+### Segment 8 — Iran Trump Middle East
 
 will erupt at one point and it's going to redefine the future of of of of history of humanity's history going forward.
  I'll just read you a statement by David Ike which I happen to agree with. Quote, "A hidden network is driving the direction of human society into extreme dystopia, an antihuman agenda. The rape gangs in the UK, it's not just the UK, you know, we have to also say it's not just the UK. The exact same stuff is happening in France, Sweden, Norway, Germany, and maybe some other countries.
@@ -184,7 +197,7 @@ So, you know, whatever, you know, whatever Emanuel Macron says, maybe Emanuel Ma
  You know how they're manipul this intelligence is a network of intelligence. They're all connected. They know what they want. No, because many people are thinking that what is happening in Europe is disconnected with what's going on in the Middle East. They're all connected and they know what they're doing. >> Yes. Uh yeah, exactly.
  Uh this is you know uh the thing I I I don't want to sound like a broken record but it's this it's the conflict between two systems of governance and uh the the imperialistic neoc colonial system is stemming primarily from the
 
-### Segment 8 — The British Establishment From The
+### Segment 9 — Israel Lebanon Iran
 
 the British establishment from the city of London. And then the axis is city of London, Wall Street, Paris.
  And Paris is, you know, France is extremely important and has been for centuries because you had, you know, even even running into World War I, you had the French Rothschild uh network and you had the British Rothschild network. The same is true today. you have in London Nathan Rothschild and you have in Paris Alexander Rothschild.
@@ -199,7 +212,7 @@ Um, yes. Uh, look, and and the the the the statements coming out of Israel these
 um as though the United States doesn't have an existence of their own, like they like they exist only to serve Israel. And if they refuse to serve Israel, well, you know, uh we we hate the United States all of a sudden. Uh the problem I think is in the in the very deeply entrenched uh Zionist interests in the United States uh which which have been weakened but which are which are obviously still very powerful and we can see that by the fact that they've been able to insert the section 224 into the into the uh
 NDAA act for 2020. 27 that now now that section is 2019. They they moved it about and then Senator Tom Cotton uh inserted section 622 which is you know one is the merging of US military uh with Israel. >> The other intelligence >> yeah intelligence technology data basically
 
-### Segment 9 — Whatever Israelis Want Y
+### Closing — Iran Israel Trump
 
 whatever Israelis want. >> Yeah.
  you know, >> everything. >> Yeah. You know, like they're going to get in, they're going to be in all the meetings, they're going to be uh getting all the clearances, they're going to have access to all the technologies, everything. And then uh Tom Cotton's uh section is is is the same for sharing of intelligence meaning you know C CIA stuff um which which are absolutely shocking developments.

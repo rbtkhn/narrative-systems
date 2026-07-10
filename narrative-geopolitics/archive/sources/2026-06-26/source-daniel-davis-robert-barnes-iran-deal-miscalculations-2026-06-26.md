@@ -1,5 +1,6 @@
 ---
 
+
 ingest_date: '2026-06-26'
 pub_date: '2026-06-26'
 kind: cleaned-transcript
@@ -26,8 +27,7 @@ normalization_state: ai_assisted_proper_noun_cleanup
 quality_note: "ASR normalization pass 2026-06-26; ph-civ replacement SSOT."
 transcript_wrapper_tier: raw
 davis_close_promo_trim_applied: true
-editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (daniel-davis, barnes, channel:daniel-davis)); 18 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (11 sections)."
-transcript_curation: curated_sectioned
+editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (daniel-davis, barnes, channel:daniel-davis)); 18 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-07-09 (13 sections)."
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -36,6 +36,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 13
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Iran Deal Miscalculations / Robert Barnes & Lt Col Daniel Davis
 
@@ -46,7 +49,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — MOU Headwinds and Lebanon Point One
+### Show Open — Lebanon Economy Hormuz
 
 Vice President Vance and President Trump are still desperately trying to get a negotiated settlement with the Iran war to get that war off the table to stop the economic bleeding and to stop the the the consequence and the negative aspects on our economy before they get too bad. But they're running up into some real headwinds.
  We've got some big issues with the Lebanon issue, which of course was point number one. We've got problems with the straight of hormuz and we also have issues with the whole reason allegedly this happened with the nuclear program and where is that going to go to try to figure out where we are and is there some light at the end of the tunnel.
@@ -55,7 +58,7 @@ Vice President Vance and President Trump are still desperately trying to get a n
 and then uh before heading back home to Tennessee and we back in a familiar confine soon enough. [laughter] >> All right. Yeah, that'll be good. But man, I'm I'm all for that. You got to have that kind of stuff if you're going to get back in the fray of this stuff, especially some of the stuff we're talking about here today.
  Um and let's just jump right into it. So, uh
 
-### Netanyahu Box — BB Files and Election Clock
+### Segment 2 — Lebanon Netanyahu Trump
 
 one of the biggest headwinds is is number one on the list of the memorandum of understanding. 14 points, but point number one has always been that the war has to end on all fronts and expressly including Lebanon. That has been probably the most difficult thing because that's not within America's power to just control because it requires bringing under heel one Benjamin Netanyahu.
 Yes. Lebanon. [cheering] For anybody who may have had a hard time uh reading the the subtitles there, basically he said, "We are not leaving Lebanon. We're going to go from controlled area to controlled area and we will not leave until we de deem it possible or deem it clear. And it is very clear that that will not come anytime soon.
@@ -63,7 +66,7 @@ Yes. Lebanon. [cheering] For anybody who may have had a hard time uh reading the
  I mean, some of the ones that have recently come out are from a year ago. The or six months ago in the case of the the Gaza deal where Trump said, you know, everybody hates you. Jews hate you. Even the Jews on the call hate you, so on and so forth. So the uh and the question is can BB afford either to do either way that I think BB perceives his situation that he is he's got to get the war to continue at some level or be at the the conflict tense stage of uh uh interactions with both Iran and Lebanon or he thinks he's going to lose the upcoming elections that are likely to be
 held by October. And if he loses those elections, then he and his wife most likely go to prison for three to four years for the various corruption investigations detailed in
 
-### Israel Lobby Bills — MSAD CIA Merge Fight
+### Segment 3 — Israel Hezbollah Trump
 
 the documentary the BB files and others. And so on the flip side, if he gets into an open adverse confrontational relationship with both Donald Trump and the United States uh in general in such a way that might lead the United States to take adverse action against him, uh then that will likely also guarantee that he gets sunk and ends up in jail.
 So he's trying to, you know, clearly walk this tight rope of being sufficiently perceived as independent of Trump. Uh so that he he isn't seen as just a walkover, but at the same time not so antagonistic to Trump that he is seen as an adversary to the only ally Israel has left in the world of any consequence.
@@ -73,12 +76,12 @@ weaker uh resistance force than Hezbollah. So anyone thinking they're going to t
 And if you're not willing and you've got to be willing to take the steps to do that, I've been encouraging the administration to come out publicly against the proposed bill in the House to allow Israel to merge Israel into our military procurement process. Yeah. >> And the Senate bill by Tom Cotton, another loser neocon living in another generation who fancies himself a future president when he's just going to be another future Senate loser.
  The uh
 
-### NYC Primary — Anti-Israel Not Anti-Semitic
+### Segment 4 — Israel Against Goldman
 
 merging MSAD with the CIA and the intelligence apparatus. come out against both of those because Israel knows that now is their only opportunity to get that kind of thing through. The New York City the Democratic primaries. Most Jewish district of the country just voted against Israel and and one of its biggest patrons and protectors, Daniel Goldman.
  You know, that should be a wakeup sign. You know, they even had a local no coffee for you guy uh like the no soup for you uh Seinfeld guy who wouldn't even give coffee to Goldman uh because of his position on Israel and the and well that was portrayed by some like Scott Jennings and others as somehow anti-Semitic.
 
-### Hamas Funding — BB Files and Qatar
+### Segment 5 — Israel Trump Netanyahu
 
 No, it was anti-Israel because that was the most Jewish district in America.
  Voted overwhelmingly two to one to throw out >> uh their incumbent uh because just of the Israel issue because the candidates had identical positions on 90% of the issues. Uh so I think that that Israel's days are numbered if they continue this path. Greater Israel's project uh is really on you know DOA functionally uh whether they know it or recognize it yet in Israel.
@@ -100,7 +103,7 @@ insanity comes from that far-right constituency that he's now stuck in a coaliti
  Hey, for security reasons, you know, we're getting hit with this and we're getting hit with that. You know, they're the reasons why they're getting hit with anything. Uh well, we can't afford to have this trial go on. And the and so that's the only reason why he hasn't been convicted yet. Only reason he hasn't been removed yet.
  Only reason he's not in jail yet. And the the other aspect of
 
-### Peace Deal Cowards — Vance Architect vs Saboteurs
+### Segment 6 — Trump Israel Iran
 
 the BB files is it detailed what I think you may have talked about this with Tucker. I know Tucker has been talking about this recently about in fact the BB files details how Israel was funding uh Hamas through Qatar. That it wasn't the Iranians funding Hamas.
  It wasn't Qatar funding Hamas. Fascinating. >> It was BB Netanyahu funding Hamas >> and and I'm sorry is is the situation that as long as war is going on that the trials will stay suspended. What what will trigger the trials returning? >> The trials keep returning even during some of the conflicts and then he makes sure that the war war somewhere escalates and so that they're getting hit.
@@ -112,6 +115,8 @@ any theories as to why? I think it's still further affirmation that my hypothesi
 about or what Larry Johnson has talked about or what you've talked about and say let's operate from that filter. I always like filters that are predictive. Um it's like it tells you that that filter is maybe a useful filter to use even if it's not perfectly accurate. If it's more predictive than the alternative, it tells you you might as well use it.
  And the and apparently the Iranians used it successfully because they got much more progress when they started figuring out Trump ain't all there. And apparently I talked to Rick Sanchez earlier in the week and he said that uh uh Lafroth, the Russian ambassador, told him that the Trump they met in Anchorage doesn't exist anymore. >> Oh wow.
 
+### Segment 7 — Trump Israel Iran
+
 >> Um and they said that they had figured out by December when the assassination attempt happened on Putin's life that Putin that Trump wasn't all there. that there'd be times where Putin had conversations with him where Trump uh would sincerely feain lack of knowledge of what he said in Alaska or what he had said two months before.
  And it was such that the Russians concluded uh okay we part of the reasons why they are like backing away from negotiations but not trying to deliberately antagonize Trump is they think he's not all there. They think that they're dealing with someone that's a little bit off the res mentally speaking, emotionally speaking, and his decision-making capacity, not so much his cognitive capacity.
  And I think it's kind of what's misled the world about Trump is that it's not the same as Biden, so it's not the same can't remember words, right? It's can't process emotions. >> Um, you know, I have a nephew that's autistic >> and one of the things that happens is he'll have a thought and the thought will immediately progress to emotion.
@@ -122,7 +127,7 @@ the Iran war so the irony is that you know BB's utopian dream of an Iran war is 
  So you have Vance, you have Elbridge KBY, you have Elvis Kobe's deputy, you have some some good people still in the DNI that Tulsi Gabbard had brought in that at the lower levels, the top three people are Joe Kent, Ammerless Fox, and uh Tulsi Gabbard are all now gone. But there are some good people left in those key positions uh of influence.
  Defense Intelligence Agency still has some good people affiliated and associated with with the Kobe camp. The but on the other side you you're starting to see Rubio Ratcliffe others try to undermine things because they don't want to be blamed. They don't want to be blamed for the war.
 
-### Historical Analog — Kennedy and Admin Saboteurs
+### Segment 8 — Israel Hezbollah Lebanon
 
 They don't want to be blamed for the peace deal that ends the war. Uh and this because they're such cowards, natural god-given cowards. the Narco, Marco, Soros, Scotty, and all these bunch. Um, and while Vance has taken all these all the heat, all the arrows, all the rest, the uh, and I knew people had doubts about Vance and people continue to have them, but they should have seen from the last two weeks that what we've been reporting for over a month was or two months now is accurate.
  Uh, because now it's come out he was taking the lead on getting a peace deal. He's the one making the PR campaign to start to divorce from Israel at some level. He's the one willing to take all the heat for all this. I mean, there was those weeks of, you know, deal the Murdoch machine just running a hit piece after hit piece after hit piece on Vance the uh and it's because Rat Rubio and Ratcliffe are still the Israel lobby allies inside.
@@ -142,7 +147,7 @@ the >> especially on this topic >> no doubt especially all the nutty generals th
 them all call it Vance's which is true I mean to to be honest that there was nobody I mean imagine how the heck are we do in a major negotiation to end a war and Rubio Narco Marco is nowhere to be seen again. >> Right. >> We've made that comment before. >> So what can happen here? So I I pull this off your your ex account here.
 Something that you had reposted here uh said uh President Vice President Vance is taking the negotiating room revealing how the Iranians tone has shifted from performance to conversation defending the emerging deal. But the question is, how can Vice President Vance succeed here if he's got the the Radcliffe or or the the Rubio or the or even if President Trump doesn't fully get behind it, how can he make this stuff happen because it needs to happen? >> It's very much Vance's I'd say like historical I was trying to figure out a
 
-### Herbert Hoover — Economic Precipice Fear
+### Segment 9 — Trump Iran Israel
 
 historical analog to this where someone was trying to get through an important piece uh but was opposed by people within his own administration. I was like the last time to this scale where saboturs are everywhere and you have external saboturs to boot. Last time really this happened I think is Kennedy unless you have a different uh you know analogy.
  It's Kennedy in the early 60s realizing conflict with Russia Soviet Union would be insane that we should you know have some form of day. It would took a decade uh for that to what Kennedy put in motion what only Richard Nixon would ultimately implement. Um but that you know you know Kennedy came in as a cold warrior and then realized these people would go to re realize the generals the CIA a lot of the senators and house members a lot of people in the so-called media establishment of the con of the time uh you know they were calling Kennedy a sellout a traitor
@@ -163,7 +168,7 @@ and an erratic inconsistent Trump at the top. When you've got a King Lear as uh 
  They hurt the US financial global system uh and the financial rails of the US system that are important for US economic benefits. And hey, you know, it's Iran Iran's money anyway, so why are we keeping it? Can't keep it forever. I thought he would never get over that bridge because of the comparisons to Obama. The fact that he did and then to your point he himself, Trump himself was out there admitting, hey, you know, uh, we would have I I I'm scared. He is afraid of everything.
  So, you just give him a fear analogy. Think, you know, think toddleresque. And he he, you know, bounces back before back and forth between delusions of grandeur and deep fears of what thing bad things could happen.
 
-### Republican Reform — Midterm Blue Wave Question
+### Segment 10 — Economy Trump Iran
 
 And the comparison to Herbert Hoover clearly got to got to him as he himself has publicly admitted.
  I didn't want to be Herbert Hoover and seek the world's economy. He goes, "People don't know it, but we're about a month away from a precipitous collapse." Contrary to what a lot of people were saying, you were saying otherwise. Other people were saying otherwise. Doug McGregor, Larry Johnson, a range of other folks were like, "Uh, no, no, we're close to a precipitous decline.
@@ -182,11 +187,13 @@ its strategic reserves >> right five million barrels a day >> exactly >> huge dr
  So some people are going to say, see Barnes, it was always 8D chess. Trump was always playing 8 chess to just get us out of the Middle East. He he almost took us to economic collapse and nuclear apocalypse. But it was all eight chess barns to uh to and to be honest with you, if we get there, okay, as long as we get there without the nuclear war, global catastrophe in the inter room.
 >> Yeah. Yeah. If you want if that makes you feel better to say, I fine. As long as that helps out our country, I'm with that.
 
+### Segment 11 — Leaving Republican Party
+
 Uh listen, I I I want I don't want to let you go today before I I talk on a separate issue that I know you have a lot of interest and expertise in as well.
  Uh and that is in the uh electoral system uh and and where American politics could be going. Uh Tucker Carlson uh kind of started an earthquake here recently when he said he's leaving the Republican party and it just so happened that we had him on our show like the day after he had said that. And so we had a chance to actually ask him some follow- on questions about if you're getting out of the Republican party, is there any chance that you're leaving along with Marjorie Taylor Green and some others who have jumped on that bandwagon or jumped off the bandwagon so
 to speak. The question is,
 
-### 1776 Law Center — Convention and Legal Strategy
+### Segment 12 — Iran Trump Europe
 
 can the Republican party be reformed or is it too late? Here's what he said. Is it possible that especially if in the the coming midterms if the there is a blue wave and the the red side gets washed out that maybe the people who still feel I think in larger numbers maybe even like you do that they're saying hey they can can they force the Republican party to change or is the the leadership just too firmly in Wisconsin they're not going to care.
  How do you see that? I think they want. I just talked to a Republican member of Congress right before doing this who was like, you know, you're encouraging people to vote for Democrats. No, I'm not. Of course not. I'm I'm pro-life. I mean, I hate racism. I'm not going to, you know, right? >> But um I don't know the I don't know the right course, which is probably why I should have just shut up, but I was so mad that I said that.
@@ -227,7 +234,7 @@ done a bunch of theseelves myself. So I just published them there so people know
  And so the two-party system isn't working. the the the biocracy or however you want to des or the oligarchy or however you want to describe it uh needs to be replaced. But the constitution gives an answer and that answer is restore direct democracy in a more representative way by limiting and capping the number of people house members and senators can effectively represent uh and by unleashing independent and third party challenges that have been the key to any reform in American history going back to Andrew Jackson.
 And so what what are I and my understanding is that this this event that's coming up here uh on August 1st and 2nd uh
 
-### Judicial Branch — Duopoly Remedy and Close
+### Closing — Israel American White House
 
 the 1776 Law Center convention which we have right there um that uh that that's going to cover part of that. Is that not correct? >> Oh yeah. Yeah. We're going to cover the landscape.
  We got Alexander McCor flying in from London. Alex Christophoru flying in from Cypress. The the one and only uh Daniel Davis uh coming in. We got the uh Larry Johnson coming in. We've got Alexander Mccorus. Uh we've got the Joe Kent is going to try to come by. Uh we've got Richard Bareris the pollster and and the a wide range of guests.

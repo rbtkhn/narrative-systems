@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-15
 pub_date: 2026-06-15
 kind: cleaned-transcript
@@ -29,9 +30,19 @@ evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: paste-prefix
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 7 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 7 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (10 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Col. Jacques Baud: US & Iran Reach MoU – War Ends IMMEDIATELY on All Fronts (Lebanon Included)
 
@@ -42,7 +53,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Israel Lebanon Iran
 
 Hi everybody. Today's Monday, June 15, 2026 and our dear friend, our brother Colonel Joshu is here with us. Welcome back home. >> Thank you very much for having me again. Happy to be back. I you know what has happened last night was it was just everything was exploding before our eyes in terms of the talks in terms of the Iranian reaction we had Israeli attack on Lebanon then Iran said they're going to attack Israel the same way the first time they attacked Da I'm talking about Beirut and Da then the United States did everything they started with
 we're going to release more frozen assets. We're going to lift the blockade this and that and don't attack Israel. And finally, it seems that Iran has achieved some sort of concessions in terms of Lebanon. They said if we don't attack Lebanon, Israel or the United States has to do something about the case of Lebanon and the ceasefire in Lebanon and the ending of the occupation of Lebanon.
@@ -56,7 +67,7 @@ That's the first thing. Second thing is that we have also a demonstration here t
 dramatically changed. The whole of the world hate Israel. That means that Israel understand that now they they should rely more and more on US protection. So we are in a in a strange conundrum here. Israel creates its own threat and then requires the presence of the US but at the same time the US doesn't want to be to get in entangled in in the situation.
  I mean they expect they attacked Iran because they that was the assessment not an intelligence
 
-### Segment 2 — Assessment But A Trump Assessment
+### Segment 2 — Israel Iran Netanyahu
 
 assessment but a Trump assessment that Iran would uh collapse within days. So it was a a short and easy victory and therefore that's a reason why the US engaged into that but now they understand that they completely uh uh misunderstood and underestimated the situation and now they tried to withdraw.
  The problem is the situation that's so dramatically uh um uh uh um been changed that the US is now again Trump has is always sitting between two chairs. On the one hand he would like to withdraw. On the other hand he doesn't want to abandon Israel and Israel in that sense has a leverage on the US. So what we see today is that the US is definitely the loser in the whole thing.
@@ -71,7 +82,7 @@ So that the time that they have the time to wait but to strike on Israel as stro
  Whatever it means, would it be total distraction? I hope not, but at least significant destruction of the command and control system. I mean, even political as military command and control. Probably more the political than the military, by the way. Um and and that's that's how Israel will have to to answer. So the we know that in the long run everything we are witnessing today is only a step in a good direction but that will not solve the problem.
  I think it's very important to understand that it >> it seems that they're going to sign the MOU memorandum of understanding in Geneva on
 
-### Segment 3 — Friday Which Is Going To
+### Segment 3 — Iran Israel Lebanon
 
 Friday which is going to be hosted by Pakistan. I'm just amazed how it's going to be in Switzerland but hosted by Pakistan. But before getting to Friday, I think we're going to see a lot of these sort of fights happening in southern Lebanon as Israel is doing right now as we talk.
  And but the problem, Colonel, I think when it comes to is to to the United States, Donald Trump has done everything everything for Israel so far. I think that's why he has decided to finally he has exhausted each and every possibility with the you know protests riots economic pressure sending weapons to Kurdish these terrorists in Iraqi Kurdistan just moments ago before coming to this live there is a new group of al-Qaeda that been they have announced that they're they exist they're in Iraqi Kurdistan they're prepared to fight Iran
@@ -86,7 +97,7 @@ and these they did everything with the attack on Iran, nothing else is there for
  So it's not just the US, you have also a matter of uh some European countries and you have also some other European countries involved into that conflict in support of the Kurds in order to destabilize Iran. And of course when we talk about missile ballistic missiles and all that we have seen that Iran has is is credible has a credible defense and ability on that.
  When it comes to insurgency or kind of subversive uh um element, this is another story. This is another kind. My my personal view is that Iran will also be um uh uh uh have the upper hand in this kind of conflict. But this will continue. I mean what we have seen in January this year, those riots uh
 
-### Segment 4 — That Were In Fact Sponsored
+### Segment 4 — Iran Hormuz Israel
 
 that were in fact sponsored by the west, armed by the west, financed by the west, uh um from narrative and political support point of view also supported by the west.
  Uh [clears throat] you have that by the way you have recently uh one of those Kurdish base that were attacked by a Shia militant in Iraq and you had some uh uh uh French servicemen that were killed and that were servicemen that were training those Kurds to attack in Iran. So we we that will continue and that means that even if the settlement that we'll see today with thisou and and the later the the the agreement that will come at a later stage because theou is not the agreement as such the theou just sets the stage
@@ -101,7 +112,7 @@ And when they're talking about maritime services, they're basically they're talk
  And after this 60 days, they're going to have they're going to place a new system or they call it, you know, environmental fee or whatever they have it. It's call it a service fee or something like that. And it's going to be paid by whoever wants to use this Strait of Hormuz or pass through this Strait of Hormuz. This is >> this will be this will be a maintenance fee as they call it. if I'm not wrong.
 And that's something they had negotiated already uh last month with the OM Oman and Oman has also declared it will impose uh an environmental fee and that is the uh the mirror of what Iran will do on his
 
-### Segment 5 — Side Which Is Which According
+### Segment 5 — Iran Lebanon Israel
 
 side which is which according to what I've read is called a maintenance fee but essentially it's a maintenance of the uh the coast and the um the the uh the sea in this region.
  We have to understand that you have thousands of super tankers, tankers and cargo ship of any kind that are transiting in that area which is very small area and obviously you certainly have issues with pollution with environmental issues and things like this and that probably require I mean from that point of view it's probably not unjustified.
@@ -116,7 +127,7 @@ Libya, they come from all these countries. So meaning that we create the situati
  They cannot take the resource of Iran. They want to destroy Iran. But they will not be able to do that either. So what what exactly is the aim of Israel in Lebanon? You can assume that as they have done in other parts of this region, they want to gain control over territory. they so that's the reason why they just use this Rafa uh uh doctrine.
 The Rafa doctrine is to raise all the um the settlements that you have in southern Lebanon exactly what they did in Rafa in the southern part of Gaza. You know they just raised everything simply all the buildings were leveled um and now they do exactly the same thing in Lebanon. But that's not the doctrine.
 
-### Segment 6 — What Do They Want To
+### Segment 6 — Israel Lebanon Gaza
 
 What do they want to achieve with that? Do they expect that those inhabitants that were expelled from their uh um their village and saying they will not claim this village after that? You know, this is so childish and it's just pure brutality. It's brutality without intelligence. Intelligence in the sense brain in the the brain sense of the not in the military or as has been said.
  So we it's it's very hard to understand what they want to achieve exactly and and that's very true for for Israel that is a small country essentially we see that the limitation of such a small country around surrounded by larger country fortunately those countries are not as aggressive as they are but should those country become as aggressive as Israel are is uh Israel would disapp appear within days and that's probably what will happen by the way uh that's that that may happen they Israel need to be conscious of that they don't because they think they have
@@ -131,7 +142,7 @@ leading the same policy and they say that they're not going to get out. I don't 
  Uh [snorts] you also have the peacekeeping operation in the region of the Golan. You have you have several peacekeeping operation. The UNO uh unifil is one. You had I mean I don't know now I I don't have all in mind. you have at least three or four peacekeeping operation. The oldest peacekeeping operation by the way are related to Israel.
  But when it when Israel does what
 
-### Segment 7 — It Does That Mean Not
+### Segment 7 — Israel West Bank Iran
 
 it does that mean not respecting the international law. You mentioned the West Bank for instance. the West Bank. It has been clearly said by the International Court of Justice in its uh ad advice to the General Assembly of the 19th July 2024. He said that the is the all Israeli presence in the West Bank, in East Jerusalem and in Gaza is illegal and and that Israel should vacate those places as soon as possible and that the rest of the world that means other countries should help to do that.
 What did we do to support this this advice? What did what did the the security council do in order to support its many many condemnation of Israel because Israel was occupying area that it was not supposed to you >> sorry for interrupting can they do can they make some sort of forces I'm talking about the countries in the region to to to enforce what you've just said about the international law.
@@ -145,7 +156,7 @@ Would our countries strive for the survival of Israel? They would do it. The pro
  Today if if you look from a mere economic point of view or or even a pure geopolitical point of view, you're better off supporting countries like Saudi Arabia or Iran than Israel. In fact, what is the benefit of supporting Israel? Nothing. you you you you are much better off to to to to be allied or partner to Iran or Saudi Arabia. They have energies.
  They they have an industrial potential. Uh we have seen that Iran has probably even a better uh intellectual and academical potential than Israel. So what what's the point? If you start looking at the things that way, then you you you may reconsider your alliance. The only reason why we support Israel is because because of the story of the the the the cold war and because you have a lot of elites in
 
-### Segment 8 — The West Who Are Under
+### Segment 8 — Israel Middle East Iran
 
 the west who are under influence and that's very strong when you see countries like France, UK, Germany, US.
  These governments are under influence you know they don't act on their own. they are prompted to act that way and they they would probably not they don't have the freedom to do that otherwise. And that's sad because these um forces, political forces or other kind of forces that influence our government act upon their own interests.
@@ -161,7 +172,7 @@ They're so advanced. Their technology is the best. The the society is the best a
 That's only reason in my opinion. >> But when it come to the battlefield, they cannot produce missiles in receptors. They produce spy, you know, some sort of spy devices and some sort of surveillance, you know, equipment. That's the whole thing with the military-industrial complex of Israel. They produce you know something like that.
 >> Don't be fooled. I I used to work for procurement and we considered many times Israeli equipment at that time. Even if I can say that was in the mid uh early 90s um I I was in charge of a procurement entity within the ministry of defense and at that time already I had people saying I mean my superior people above me who said well we consider Israel just because just to assess what they can do technically But we there is no way we'll
 
-### Segment 9 — Do Business With Countries A
+### Segment 9 — Iran Israel Hezbollah
 
 do business with countries a country that has institutionalized torture.
 That was 30 years ago. And and uh when but the problem the thing is that we tried to assess some equipment. Uh we were looking for demining uh um demining equipment and things and they had interesting solutions but it's not as promising as they say. [snorts] You have much better equip more expensive also. They are very cheap and that's probably the the most advantage they had at that time.
@@ -176,7 +187,7 @@ use or in in in other kind of combat situation. So don't overestimate the capabi
  So, and you see if you look at what's happening today in Russia, you see that the Russians do even better and much cheaper than what the Israeli do. And and Iran is a very good example of Iran who has been under sanction for something like 50 years or so. Uh they managed to have their own um military-industrial complex. they were able to develop equipment that is uh up to standard international standard and look at the the success of the shahed drone system that that today everybody is copying the shahed system.
  I mean the Russians obviously have producing the the own variants of the shahed uh and at at large scale now the the uh the Americans have produced
 
-### Segment 10 — Their Own Copy Of The
+### Closing — Israel Hezbollah Iran
 
 their own copy of the shahed is a Lucas system >> the American one is quite identical. Yes, exactly. It's a it's a copy uh just a stupid copy of the first variant of the shahed by the way because in the meantime the shahad has evolved.
  It has much more capabilities and things like this and and but okay but essentially it's it's the Americans just copied exactly the same design and you have also other countries who have started to initiate some kind of copies of the um of the shahed. meaning that and it's very simple technology by the way. It's not it's it but it's it's um it's suited for the for the purpose you see you for if you have a a suicide drone it's completely stupid to produce a drone that will cost billions uh because you will lose it anyway. So the the the I

@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-28
 pub_date: 2026-06-27
 kind: cleaned-transcript
@@ -27,10 +28,20 @@ opening_tier: host-tease
 capture_note: Operator paste; full interview body preserved from user-supplied YouTube transcript.
 transcript_wrapper_tier: clean
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "Manual ASR spot-fix 2026-06-28 (42 substitution groups); AI-assisted source-clean · not human-verified verbatim; verify before quotation. · source-section pass 2026-06-28 (17 sections). · interview speaker-label pass 2026-06-28 (41 turns; Nima/Ray >> markers) · paragraph reflow pass 2026-06-28. · source-section re-section pass 2026-06-28 (17 sections; Hormuz–Lebanon–Ukraine–Putin close arc)"
+editorial_note: "Manual ASR spot-fix 2026-06-28 (42 substitution groups); AI-assisted source-clean · not human-verified verbatim; verify before quotation. · interview speaker-label pass 2026-06-28 (41 turns; Nima/Ray >> markers) · paragraph reflow pass 2026-06-28. · source-section re-section pass 2026-06-28 (17 sections; Hormuz–Lebanon–Ukraine–Putin close arc)"
 quality_note: "ASR normalization pass 2026-06-28; ph-civ replacement SSOT."
 manual_asr_spot_fix: "2026-06-28 — Sirik; Bahrain; Hormuz; Sheikhdoms; Hezbollah; Qatar; Lavrov; Putin; Latvia/Latvians/Riga; Dmitry Trenin; Karaganov; Belousov; Witkoff; Mossadegh; SAVAK; Leningrad; Viktor; Caine; Hegseth; tentative: Nima/Nema host ASR"
-transcript_curation: curated_sectioned
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: preserved_unsectioned
+section_count: 0
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Ray McGovern: Iran's Missiles Force US Retreat: Bases Moving West to Escape Attacks
 
@@ -39,8 +50,6 @@ transcript_curation: curated_sectioned
 **URL:** https://www.youtube.com/watch?v=xG4YW8gx0JQ
 
 ## Transcript
-
-### Show Open — Hormuz Escalation And IRGC Hotline Denial
 
 **Nima Alkhorshid:** Hi everybody. Today is Saturday, June 27th, 2026 and our dear friend, my dear friend Ray McGovern is here with us. Welcome Ray.
 
@@ -52,8 +61,6 @@ Basically the United States trying to communicate with GCC countries in Bahrain,
 
 It was reported on Associated Press and American base in Bahrain was attacked last night. So this is the situation in in the Strait of Hormuz. What is your understanding of the current situation as time goes by and the two sides are pushing you know somehow to control the strait? One of them is Rubio going to the Middle East putting pressure on Oman. Iran is has its own sort of understanding and they know they have some sort of coordination with Omani government but what do you make of what is going on right now?
 
-### Forked Tongue — Rubio Bahrain And Fifth Fleet Aftermath
-
 **Ray McGovern:** Nima these are really good questions. Now uh in a jocular mood I would simply say that uh I hadn't thought that Rubio had enough courage to visit Bahrain and the Iranian attack on Bahrain apparently uh happened after Rubio's wheels were up or I go elsewhere. What a feckless example here visiting the headquarters of the fifth fleet which has been pardon the word obliterated. Okay. Um then you know when you talk about uh informal communications um the American native peoples, we call them the Indians. They had an expression, get this, white men speak with forked tongue. Okay. Well, you know, in a way, you have to sort of understand the Iranians.
 
 Every time they they speak with these forked tongue Zionists, I mean, Kushner and Wedkov, well, they either get assassinated or they get a new war, right? So, uh, if I were, uh, in Tehran and, uh, Vance or somebody else said, "Hey, let's let's do a secret channel where we can speak with one fork tongue openly and then another. " Forget about it. You want to talk to us. We have mediators. Talk to us that way. We don't want any of these more shenanigans. Okay? So the Iranians in my view uh feel that they have uh they have the control over the straight which they do.
@@ -64,13 +71,9 @@ So, you know, if I were Iranian, I would say, well, you know, we're in the cat b
 
 So, let's wait this thing out. If they try to get through the straight, we will show them who's in charge or as Trump likes to say, who calls the shots this time in the straight. Uh, is that the way you read it, Nima? In other words, I think, well, I'll I'll I'll stop there. [snorts]
 
-### Strait Control — MOU Fiction And Catbird Seat
-
 **Nima Alkhorshid:** Yeah. My understanding is that Iran has doesn't feel that they're in some sort of rush or they have to accelerate or escalate the situation because they're controlling everything right now there and they have the communication between the Iranian government and Omani government and they had a statement right after that meeting in Switzerland Iranian delegation two of them the head of Iranian parliament and the foreign minister of Iran they went to Oman and they talk with them.
 
 There is a statement by joint statement by Iran and Oman after that meeting that there is a fee to be charged on whoever wants to use the Strait of Hormuz and Bloomberg yesterday reported that the Omani government told Europeans that there would be a fee in the Strait and this is the position but the United States trying to manipulate somehow the political parties in in GCC countries or maybe countries and it makes some sort of division because Rubio didn't go to Saudi Arabia and he went to you know those
-
-### Oman Fee — Bloomberg GCC Division And Rubio Route
 
 **Ray McGovern:** what's what's left of what's left of that place. Yeah.
 
@@ -92,13 +95,9 @@ So, if we react preemptively, well, then our our less our losses will be be less
 
 And I've I've taken to calling him a sort of an anal sphincter in terms of how he can turn things on or let things in. And will he let real intelligence from whatever responsible intelligence analysts are left in the community? Not if it doesn't agree with what Rubio wants. So that's how I I look at it. I guess maybe I'm repeating them myself because my views have not changed over the last two months or so.
 
-### Lebanon Arc — Resistance Fly And Israel Made Us Do It
-
 **Nima Alkhorshid:** Yeah. The question is Rey, is the United States using the MOU to somehow reduce the burden on the administration because of the oil market, because of the energy market, because of the current situation with the, you know, midterm elections, then getting back to the war. Because if for those people who are arguing that the United States is preparing itself to attack Iran again in favor of Israel, by the way, we know that Israel is pushing for that and they really want to the United States to stay in the region.
 
 But when it comes for for example Wall Street general yesterday just reported that those bases in Saudi Arabia and Kuwait and together with Bahraini they were the attacks were so devastating to these bases that the United States is thinking or reassessing if they want to get back they have to put it them far further west it goes to Israel. Basically they're talking about putting the bases in Israel. I don't know if that would make Israel safer or one of the main targets in any sort of retaliation.
-
-### MOU Shield — Hegseth Filter And Midterm Pressure
 
 **Ray McGovern:** Well, the reality is it would make it even a greater and more accessible target. Uh let's face it, the air defense weaponry so highly advertised what it's a not Golden Dome but Iron Dome, right? and all these other facilities, all these other air defense mechanisms that the Israelis advertise as airtight aren't airtight. And Iran has hypersonic missiles that can get through any air defense. How do I know that? Because they've proven it. Won't do we see the photos the the damage in Israel? No. Why? because of extremely tight uh censorship on the part of the Israeli government.
 
@@ -109,8 +108,6 @@ Now, here we have the crucable. Will he relent this time? I think for the first 
 **Nima Alkhorshid:** Yeah. Just moments ago, Wall Street Journal reported that an Iranian missile strike hit an oil tanker carrying 2 million barrels of crude oil near the Strait of Hormuz ra. This is the fight that is going on. The two sides trying to dominate the region. One side is in the is the United States. They they removed the blockade in the Strait of Hormuz. They still there.
 
 They're using the bases in for example in Jordan to do these strikes as last night happened and Iran which is part of the region is in that region is the geography of that region that is controlling this trade and do you think this sort of game that Washington and Iran are playing against each other who's going to outlast the other side?
-
-### Bases West — Wall Street Journal Rear-Area Shift
 
 **Nima Alkhorshid:** Well that's an easy one. Thank you for throwing me an easy pitch. Um, our military leaders and political leaders have myopia. They're nearsighted. They can't see a map unless it's really small scale. Okay? They can't see what West Asia is like, where the Russians are, where all these things are, and they can't measure the difference between a place like Bahrain and Norfolk. [laughter] Okay. I mean, hello. It's just so simple.
 
@@ -125,8 +122,6 @@ So, you know, it's it's really a mess. But just as in Southwest Asia, also in Uk
 But the other thing is that they're so reckless that we can't predict what they might be prompted to do. And so we just have to proceed in a measured way. And I dare say that what the Iranians are doing apes in a in a sense what the Russians are doing in Ukraine. We got the upper hand. We're not going to be provoked to doing something that would provoke an irreversible unpredictable um move from the likes of the unpredictable master par excalance um our president what's his name again Donald Trump. Yeah, Ray, you've mentioned the case of Lebanon.
 
 I think since Lebanon is one of the important parts of the MOU, the first clause in the MOU is about Lebanon. And basically, look at the the text. It shows that the
-
-### Outlast Game — Map Myopia Wilkerson And Caine Firing
 
 **Nima Alkhorshid:** text is forcing Israel to withdraw from Lebanon. Basically,
 
@@ -150,8 +145,6 @@ Uh Iran stands out as having kind of in my view a principled almost uh edifying 
 
 And I don't know, do I have it wrong? Is this altruism? Is this kind of a of a a mutual solidarity that we're not used to in the West? What do you think? [snorts]
 
-### MOU Lebanon — Withdrawal Clause And Government Fixture
-
 **Ray McGovern:** I think for Iran, Rey, the case of Palestine and the case of Lebanon is a moral issue. is so much connected with the basis of what has happened in 1979 as the new government comes after the sha government the regime before and it's basically it seeks some sort of you know justice for the whole region they don't see what's going on in Palestine you know the new reports came out just recently show how Israelis were killing ch kids in in Palestine systematically killing ing those kids. And this is the reason that Iran is insisting on Lebanon.
 
 Lebanon is ra understanding on the part of Iran is that Lebanon must be the graveyard of greater Israel. That's why they're trapped in Lebanon. You see what they're doing in Lebanon. They're trying to gain destroy everything. But you see every time they feel Hezbollah is getting weaker by the assassination, by the attacks. Nothing of that sort is happening so far. That's why Iran came out as an outcome of this war. I think the new position of Iran in support of Hezbollah militarily. Before that, it was all about logistics, you know, helping Hezbollah the way behind the scene or sending weapons and all of this and that.
@@ -162,8 +155,6 @@ This this violent group." And I said, "Look, um, only a tenth of Hamas is violen
 
 So, what I hear you saying, and I hope I don't get in trouble for this, uh, Iran cares a little bit more about human beings than those who commit genocide or enable genocide in places like Gaza. Is that what you're saying?
 
-### Palestine Solidarity — Moral Issue And Hamas Model
-
 **Ray McGovern:** Yeah. Yeah. My understanding is this, that Iran is not going to back down, Ry. It doesn't matter how the United States try to convince to push hard against Iran because for many years, Rey, they have been using all of these GCC countries around Iran to show how their economy is so good to show the to the Iranian people, look at the these GCC countries how they're living their lives, luxury sort of life, and you're how you're under tremendous sanctions and inflation is high because of the government, because of their not capable. These are huge propaganda machine for such a long time and they were trying to manipulate the Iranian society.
 
 But I think what comes out of the war for Iranian people is that the reality because they saw how in 40 days of war UAE is running out of cash. What kind of economy is that? [clears throat] if they're that rich, they're that big, that important, they're not real countries right now because everything is coming to the surface for the Iranian people. This is the understanding for for Iranians, I think. And they know with the attack on Iran, Ray, something is so deep is happening within the Iranian society that let's assume the Israeli agenda. What is the problem with the United States?
@@ -173,8 +164,6 @@ Iran sees no problem with the United States without Israeli agenda.
 **Nima Alkhorshid:** The only problem that Iran sees with Israel with with the United States is the Israeli agenda. The United States being used in the region as a proxy. This is devastating for many people because the society is not that much political. The people are living their lives. They don't know that much about what what is the agenda. But when they see how Israel was capable to bring the United States into a new war in the Middle East after experiencing the Iraq war, Afghanistan war and coming back to the Iranian and they knew what Iran is or what Iran was before this war started. But they started this war.
 
 It it was a huge gamble on the part of the United States.
-
-### Israeli Agenda — GCC Propaganda And Society Shift
 
 **Nima Alkhorshid:** Yeah. And as I quoted Secretary of State Rubio, uh, Israel started it and, uh, so we had to join in. Now, it wasn't a great surprise to Rubio, I'm sure, but for him to explain it in so obvious terms, saying, well, you know, hey, uh, Iran is going to come after us because they know we're joined at the hip with Israel.
 
@@ -193,8 +182,6 @@ They knew the records would show what happened in 53 and they wanted to show the
 So, that's the background here. Uh please don't talk, you know, not talking to you, but don't start with 79 for God's sake. Start with 1953. And when I served in the CIA, I developed some friends who it would pretty much reformed their outlook on the world, but they were actually involved in project Ajax. Okay, that's what they call this thing where over where they overthrew Mossadegh and um they're also involved in other things, but I don't want to monopolize conversation here which I've already done.
 
 Yeah, Rey, I think
-
-### Joe Kent — Rubio Admission And Mossadegh 1953
 
 **Nima Alkhorshid:** one of the other fronts that is important right now is the case of Ukraine and Ukraine is using drones against Russia and those drones are produced in Ukraine in the United Kingdom and other European countries as well and they don't want to back down.
 
@@ -215,8 +202,6 @@ Now, there's a lot of speculation even by respectable Russian analysts like Dmit
 And um most of my colleagues say I'd probably be forced the public sentiment is so well I say no. Uh I say that uh my vision of Putin confronting these kinds of questions uh is is saying and all the people who said well what do you think if we for example uh if and [snorts] we've warned them not to do this but let's say the Latvians let the Ukrainians use one of these bases that have been prepared for them to use for central what are we going to do if they do that? Don't we have to retaliate on on Latvia? And uh the answer has been no.
 
 Uh why why Mr. Putin? Well, okay. Uh if we did somebody tell me Yeah.
-
-### Ukraine Circus — Drone Pin Pricks And Rutte Puppet
 
 **Ray McGovern:** Is Latvia a member of NATO? Yeah, it is. Okay. All right. Now, is there a clause in NATO treaty which pretty much says that other countries NATO members should come to the aid of somebody who's attacked? Well, yeah, that's but that doesn't that doesn't matter anymore, you know. Okay.
 
@@ -242,8 +227,6 @@ And there have been other indications that a a Russian type Starlink is, you kno
 
 With respect to negotiations, that's really interesting. Um, the last couple days,
 
-### Putin Judgment — Latvia Bases And NATO Escalation Ladder
-
 **Ray McGovern:** do we have five more minutes or so?
 
 **Nima Alkhorshid:** Yeah, go ahead.
@@ -253,8 +236,6 @@ With respect to negotiations, that's really interesting. Um, the last couple day
 And uh President Putin has said that he accepted US President Donald Trump's offer and of course we expect that that position agreed upon on the basis of the American proposal will be implemented. So 15 June. Well, what happened 2 days later or 3 days later? Well, there was a National Security Council meeting in the Kremlin uh chaired by Putin. What did they say about it? Not much. But what came out of that? Well, here's Ushak.
 
 So, this a little bit change here in a couple days, right? At the moment, quote, at the moment, one side committed to the understandings discussed in Anchorage. But the other side, apparently, we can now say this, has proven unable to complete its part of the process. to fulfill the agreements. Ushakov said, quote, "We're not waiting for those understandings or agreements to be fulfilled. We're waiting for victory. We expect the Russian words really, we expect victory and we're waiting for our own goals to be realized. " Now,
-
-### Starlink Response — Drones And Kremlin Sergeants
 
 **Ray McGovern:** Rubio in Bahrain yesterday says Anchorage is dead.
 
@@ -273,8 +254,6 @@ Well, yeah, but what will Putin do? Will he strike a n a NATO nation? Not automa
 And again, I'm an outlier on this, but I don't think he's going to do that for all the reasons that I already mentioned.
 
 **Nima Alkhorshid:** Right.
-
-### Anchorage Dead — Lavrov Ushakov Versus Rubio Bahrain
 
 **Nima Alkhorshid:** Before wrapping up, my understanding of Russia, as you mentioned, I think there's so much the the way that they're behaving, they have been managing the war was so pragmatic in my opinion. And with what's going on with Latvia that you mentioned, I think if Russia finally reach to the point that Latvia is deeply being used by Ukrainians to attack Russia, they may attack Latvia. Seriously, they're thinking of that because there discussions in Russia right now about how to deal with, you know, deep involvement with the attacks on Russia with these drones.
 
@@ -299,8 +278,6 @@ Well, that means he was born around 83, 84 or 85. Does he know anything about wa
 Yeah, I think what you've just mentioned it's so deep and we have to understand the the the deepness of what you've just mentioned in the mind of the Russian president. That's that is always in the background of each and every decision.
 
 **Ray McGovern:** Yeah, [clears throat] we just uh marked the what uh
-
-### Close — Putin Brother Siege And Judiciousness
 
 **Ray McGovern:** June 22nd was the Nazi invasion.
  22nd, 1941. Uh, big anniversary. And I'll just add that Putin uh wrote a a a quite uh poignant speech in 2020. And it started out, why does everything come to a halt? Why is there a lump in everyone's throat? uh when uh June 22nd uh anniversary comes into being there are a lot of people still alive not many but some uh but but every Russian studies what happened then uh and they're just uh you know they know it's as you say it's in their kind of chromosomes and uh uh Puchin is one of those who doesn't want it to happen

@@ -26,6 +26,258 @@ TRIM_FIELD_ORDER = (
     "closing_trim_chars_saved",
     "closing_trim_words_saved",
 )
+SECTIONING_FIELD_ORDER = (
+    "transcript_curation",
+    "section_count",
+    "section_pass",
+)
+ASR_FIELD_ORDER = (
+    "asr_repair_applied",
+    "asr_repair_pass",
+)
+SECTIONING_APPROVED_HOSTS = {
+    "alexander-mercouris",
+    "daniel-davis",
+    "dialogue-works",
+    "glenn-diesen",
+    "judging-freedom",
+    "mario-nawfal",
+}
+ASR_REPAIR_APPROVED_HOSTS = {
+    "alexander-mercouris",
+    "daniel-davis",
+    "dialogue-works",
+    "glenn-diesen",
+    "judging-freedom",
+    "mario-nawfal",
+}
+SECTIONING_PASS_LABEL = "2026-07-09 semantic-section-v1"
+ASR_REPAIR_PASS_LABEL = "2026-07-09 asr-repair-v1"
+TOPIC_STOPWORDS = {
+    "a",
+    "an",
+    "and",
+    "are",
+    "as",
+    "at",
+    "be",
+    "but",
+    "for",
+    "from",
+    "how",
+    "if",
+    "in",
+    "into",
+    "is",
+    "it",
+    "its",
+    "of",
+    "on",
+    "or",
+    "so",
+    "that",
+    "the",
+    "their",
+    "there",
+    "they",
+    "this",
+    "to",
+    "was",
+    "we",
+    "what",
+    "when",
+    "where",
+    "which",
+    "with",
+    "you",
+}
+TOPIC_FILLER_WORDS = {
+    "about",
+    "actually",
+    "again",
+    "all",
+    "also",
+    "another",
+    "any",
+    "big",
+    "because",
+    "been",
+    "being",
+    "can't",
+    "came",
+    "cant",
+    "come",
+    "course",
+    "could",
+    "did",
+    "even",
+    "every",
+    "feel",
+    "finish",
+    "folks",
+    "get",
+    "going",
+    "got",
+    "had",
+    "hear",
+    "have",
+    "huge",
+    "i'm",
+    "im",
+    "into",
+    "it's",
+    "just",
+    "know",
+    "like",
+    "look",
+    "made",
+    "make",
+    "many",
+    "more",
+    "most",
+    "much",
+    "need",
+    "nothing",
+    "not",
+    "now",
+    "off",
+    "only",
+    "other",
+    "our",
+    "out",
+    "over",
+    "people",
+    "plain",
+    "point",
+    "president",
+    "questions",
+    "really",
+    "right",
+    "said",
+    "saying",
+    "see",
+    "showing",
+    "something",
+    "sort",
+    "still",
+    "such",
+    "take",
+    "tell",
+    "than",
+    "them",
+    "then",
+    "there's",
+    "thing",
+    "think",
+    "these",
+    "through",
+    "today",
+    "told",
+    "trying",
+    "very",
+    "want",
+    "went",
+    "well",
+    "were",
+    "would",
+    "what's",
+    "why",
+    "yeah",
+    "yes",
+}
+DOMAIN_TOPIC_PHRASES = (
+    "american people",
+    "blackmail",
+    "white house",
+    "middle east",
+    "west bank",
+    "east jerusalem",
+    "international law",
+    "free world",
+    "third party movement",
+    "new republic",
+    "oil prices",
+    "oil markets",
+    "gas prices",
+    "interest rates",
+    "rare earth",
+    "fertilizer",
+    "nuclear power",
+    "silicon valley",
+    "nuclear weapon",
+    "nuclear weapons",
+    "ceasefire",
+    "hezbollah",
+    "hormuz",
+    "lebanon",
+    "missile cities",
+    "missile factories",
+    "mountain ranges",
+    "strategic petroleum reserve",
+    "iran",
+    "irgc",
+    "israel",
+    "trump",
+    "netanyahu",
+    "turkey",
+    "syria",
+    "russia",
+    "ukraine",
+    "gaza",
+    "palestinian",
+    "palestine",
+    "europe",
+    "european union",
+    "united nations",
+    "international court",
+    "jcpoa",
+    "pentagon",
+    "treasury",
+    "economy",
+    "energy markets",
+    "shipping lane",
+    "shipping lanes",
+)
+UPPERCASE_TOPIC_TOKENS = {"AI", "CIA", "EU", "IAEA", "IDF", "JCPOA", "NATO", "PLO", "UN", "US"}
+GLOBAL_ASR_REPAIRS: tuple[tuple[str, str], ...] = (
+    (r"(?m)^Transcripts:\s*\n?", ""),
+    (r"\bAnchora\b", "Ankara"),
+    (r"\btheou\b", "MOU"),
+    (r"\bfullcale\b", "full-scale"),
+    (r"\bupgraded ed\b", "upgraded"),
+    (r"\boff-the cuff\b", "off-the-cuff"),
+    (r"\bdouble cross\b", "double-cross"),
+    (r"\bstraight of Horm(?:ones|ones|os)\b", "Strait of Hormuz"),
+    (r"\bstraight of hormones\b", "Strait of Hormuz"),
+    (r"\bstraight of hormos\b", "Strait of Hormuz"),
+    (r"\bstraight of hamoos\b", "Strait of Hormuz"),
+    (r"\bstraight of Hermoose\b", "Strait of Hormuz"),
+    (r"\bstraight of foremost\b", "Strait of Hormuz"),
+    (r"\bstraight of formos\b", "Strait of Hormuz"),
+    (r"\bstraight of moose\b", "Strait of Hormuz"),
+    (r"\bthe state of Hormuz\b", "the Strait of Hormuz"),
+    (r"\bwhich were was supposed to be\b", "which was supposed to be"),
+)
+HOST_ASR_REPAIRS: dict[str, tuple[tuple[str, str], ...]] = {
+    "daniel-davis": (
+        (r"\bROG, uh struck them\b", "Iran struck them"),
+        (r"\bdefinite inde definite incumbrances\b", "definite encumbrances"),
+    ),
+    "mario-nawfal": (
+        (
+            r"want breathing space before they continue their operation to capture car guy into whatever do you think you know this argument is gaining more weight ",
+            "",
+        ),
+        (r"\bthe he rug pulls\b", "he rug-pulls"),
+        (r"\bcapture Khagan and whatever\b", "capture Kharg Island or whatever"),
+    ),
+    "dialogue-works": (
+        (
+            r"\bfor the first time, they agree on that mou is over here is what\b",
+            "for the first time, they agree that the MOU is over. ",
+        ),
+    ),
+}
 
 
 @dataclass(frozen=True)
@@ -36,6 +288,19 @@ class HostTrimRule:
     opening_snippets: tuple[str, ...] = ()
     opening_regexes: tuple[str, ...] = ()
     closing_markers: tuple[str, ...] = ()
+
+
+@dataclass(frozen=True)
+class HostProfile:
+    slug: str
+    aliases: tuple[str, ...]
+    host_name: str
+    host_people: tuple[str, ...]
+    channel_name: str
+    show_title: str
+    show: str
+    default_voice_slug: str | None = None
+    default_source_form: str = "interview"
 
 
 HOST_TRIM_RULES: dict[str, HostTrimRule] = {
@@ -97,6 +362,121 @@ HOST_TRIM_RULES: dict[str, HostTrimRule] = {
     ),
 }
 
+HOST_PROFILES: dict[str, HostProfile] = {
+    "alexander-mercouris": HostProfile(
+        slug="alexander-mercouris",
+        aliases=("alexander mercouris", "mercouris"),
+        host_name="Alexander Mercouris",
+        host_people=("Alexander Mercouris",),
+        channel_name="Alexander Mercouris",
+        show_title="Mercouris",
+        show="Mercouris",
+        default_voice_slug="mercouris",
+        default_source_form="solo",
+    ),
+    "daniel-davis": HostProfile(
+        slug="daniel-davis",
+        aliases=("daniel davis", "lt col daniel davis", "daniel davis deep dive"),
+        host_name="Lt. Col. Daniel Davis",
+        host_people=("Lt. Col. Daniel Davis",),
+        channel_name="Daniel Davis Deep Dive",
+        show_title="Daniel Davis Deep Dive",
+        show="Daniel Davis Deep Dive",
+        default_voice_slug="davis",
+        default_source_form="interview",
+    ),
+    "dialogue-works": HostProfile(
+        slug="dialogue-works",
+        aliases=("dialogue works", "nima alkhorshid", "nima"),
+        host_name="Nima Alkhorshid",
+        host_people=("Nima Alkhorshid",),
+        channel_name="Dialogue Works",
+        show_title="Dialogue Works",
+        show="Dialogue Works",
+        default_source_form="interview",
+    ),
+    "glenn-diesen": HostProfile(
+        slug="glenn-diesen",
+        aliases=("glenn diesen", "glenn"),
+        host_name="Glenn Diesen",
+        host_people=("Glenn Diesen",),
+        channel_name="Glenn Diesen",
+        show_title="Glenn Diesen",
+        show="Glenn Diesen",
+        default_voice_slug="diesen",
+        default_source_form="interview",
+    ),
+    "judging-freedom": HostProfile(
+        slug="judging-freedom",
+        aliases=("judging freedom", "judge napolitano", "andrew napolitano"),
+        host_name="Judge Andrew Napolitano",
+        host_people=("Judge Andrew Napolitano",),
+        channel_name="Judging Freedom",
+        show_title="Judging Freedom",
+        show="Judging Freedom",
+        default_source_form="interview",
+    ),
+    "mario-nawfal": HostProfile(
+        slug="mario-nawfal",
+        aliases=("mario nawfal", "the roundtable show", "roundtable show"),
+        host_name="Mario Nawfal",
+        host_people=("Mario Nawfal",),
+        channel_name="Mario Nawfal",
+        show_title="The Roundtable Show",
+        show="The Roundtable Show",
+        default_source_form="interview",
+    ),
+    "moral-resistance": HostProfile(
+        slug="moral-resistance",
+        aliases=("moral resistance", "sulaiman ahmed"),
+        host_name="Sulaiman Ahmed",
+        host_people=("Sulaiman Ahmed",),
+        channel_name="Moral Resistance",
+        show_title="Moral Resistance",
+        show="Moral Resistance",
+        default_source_form="interview",
+    ),
+    "neutrality-studies": HostProfile(
+        slug="neutrality-studies",
+        aliases=("neutrality studies", "pascal lottaz"),
+        host_name="Pascal Lottaz",
+        host_people=("Pascal Lottaz",),
+        channel_name="Neutrality Studies",
+        show_title="Neutrality Studies",
+        show="Neutrality Studies",
+        default_source_form="interview",
+    ),
+}
+
+HOST_CUE_PATTERNS: tuple[tuple[str, str], ...] = (
+    (r"\byou know,\s*glenn\b", "glenn-diesen"),
+    (r"\bglenn,\s+the bottom line here\b", "glenn-diesen"),
+    (r"\band we are live\b", "moral-resistance"),
+    (r"\bhi everybody\b", "dialogue-works"),
+    (r"\bwelcome back to neutrality studies\b", "neutrality-studies"),
+)
+
+VOICE_HINTS: tuple[tuple[str, str, str], ...] = (
+    ("alastair crooke", "crooke", "Alastair Crooke"),
+    ("andrei martyanov", "martyanov", "Andrei Martyanov"),
+    ("anthony aguilar", "aguilar", "Lt. Col. Anthony Aguilar"),
+    ("col douglas macgregor", "macgregor", "Douglas Macgregor"),
+    ("douglas macgregor", "macgregor", "Douglas Macgregor"),
+    ("daniel davis", "davis", "Lt. Col. Daniel Davis"),
+    ("jeffrey sachs", "sachs", "Jeffrey Sachs"),
+    ("john helmer", "helmer", "John Helmer"),
+    ("john mearsheimer", "mearsheimer", "John Mearsheimer"),
+    ("larry johnson", "johnson", "Larry Johnson"),
+    ("matthew hoh", "hoh", "Matthew Hoh"),
+    ("prof. s. m. marandi", "marandi", "Seyed Mohammad Marandi"),
+    ("prof s. m. marandi", "marandi", "Seyed Mohammad Marandi"),
+    ("robert barnes", "barnes", "Robert Barnes"),
+    ("seyed m. marandi", "marandi", "Seyed Mohammad Marandi"),
+    ("seyed mohammad marandi", "marandi", "Seyed Mohammad Marandi"),
+    ("stanislav krapivnik", "krapivnik", "Stanislav Krapivnik"),
+    ("steve jermy", "jermy", "Steve Jermy"),
+)
+
 
 def slugify(value: str) -> str:
     value = value.lower()
@@ -110,6 +490,9 @@ def yaml_quote(value: str) -> str:
 
 
 def build_frontmatter(args: SimpleNamespace, title_slug: str, body: str) -> str:
+    host_slug = getattr(args, "host_slug", "") or ""
+    asr_repair_applied = bool(getattr(args, "asr_repair_applied", False))
+    asr_repair_pass = getattr(args, "asr_repair_pass", "") or ""
     lines = [
         "---",
         f"ingest_date: {args.ingest_date}",
@@ -134,6 +517,7 @@ def build_frontmatter(args: SimpleNamespace, title_slug: str, body: str) -> str:
         [
             f"show_title: {args.show_title}",
             f"channel_name: {args.channel_name}",
+            f"host_slug: {host_slug}" if host_slug else "host_slug: \"\"",
             f"show: {args.show}",
             f"host: {args.host}",
             f"guest: {yaml_quote(args.guest)}",
@@ -152,6 +536,11 @@ def build_frontmatter(args: SimpleNamespace, title_slug: str, body: str) -> str:
             f"closing_trim_rule: {yaml_quote(args.closing_trim_rule)}",
             f"closing_trim_chars_saved: {args.closing_trim_chars_saved}",
             f"closing_trim_words_saved: {args.closing_trim_words_saved}",
+            f"asr_repair_applied: {'true' if asr_repair_applied else 'false'}",
+            f"asr_repair_pass: {yaml_quote(asr_repair_pass)}",
+            f"transcript_curation: {args.transcript_curation}",
+            f"section_count: {args.section_count}",
+            f"section_pass: {yaml_quote(args.section_pass)}",
             "---",
             f"# {args.title}",
             "",
@@ -204,6 +593,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--title")
     parser.add_argument("--url")
     parser.add_argument("--body-file")
+    parser.add_argument("--body-text")
     parser.add_argument("--voice-slug", dest="voice_slugs", action="append")
     parser.add_argument("--host-slug")
     parser.add_argument("--host", default="")
@@ -255,24 +645,52 @@ def parse_args() -> argparse.Namespace:
         "--backfill-since",
         help="Retrofit approved trim rules onto already-landed archive sources with pub_date on or after this YYYY-MM-DD date.",
     )
+    parser.add_argument(
+        "--backfill-until",
+        help="Optional inclusive end date for archive retrofit operations.",
+    )
+    parser.add_argument(
+        "--sectioning",
+        choices=("auto", "none"),
+        default="auto",
+        help="Apply conservative semantic transcript sectioning for approved hosts.",
+    )
+    parser.add_argument(
+        "--asr-repair",
+        choices=("auto", "none"),
+        default="auto",
+        help="Apply conservative ASR repair for approved transcript hosts before sectioning.",
+    )
+    parser.add_argument(
+        "--force-sections",
+        action="store_true",
+        help="Allow retrofit operations to reprocess already sectioned transcripts.",
+    )
     return parser.parse_args()
 
 
 def ensure_required_fields(args: SimpleNamespace) -> None:
-    required = ("pub_date", "ingest_date", "title", "url", "body_file", "voice_slugs")
     missing = []
-    for field in required:
-        value = getattr(args, field, None)
-        if field == "voice_slugs":
-            if not value:
-                missing.append("voice_slug")
-        elif value in (None, ""):
-            missing.append(field)
+    if not getattr(args, "pub_date", None):
+        missing.append("pub_date")
+    if not getattr(args, "ingest_date", None):
+        missing.append("ingest_date")
+    if not getattr(args, "title", None):
+        missing.append("title")
+    if not getattr(args, "url", None):
+        missing.append("url")
+    body_file = getattr(args, "body_file", None)
+    body_text = getattr(args, "body_text", None)
+    if not body_file and not body_text:
+        missing.append("body")
+    if not getattr(args, "voice_slugs", None):
+        missing.append("voice_slug")
     if missing:
         raise ValueError(f"Missing required fields: {', '.join(missing)}")
 
 
 def normalize_args(args: SimpleNamespace) -> SimpleNamespace:
+    infer_missing_metadata(args)
     args.host_people = [item for item in (args.host_people or []) if item]
     args.guest_people = [item for item in (args.guest_people or []) if item]
     args.voice_slugs = [item for item in (args.voice_slugs or []) if item]
@@ -324,6 +742,8 @@ def args_from_metadata(metadata: dict[str, object], metadata_path: Path, cli_arg
         "editorial_note": "Preserve as raw cleaned transcript. Not human-verified verbatim.",
         "upstream_path": None,
         "trim_opening": "auto",
+        "asr_repair": "auto",
+        "sectioning": "auto",
     }
     mapped = defaults.copy()
     mapped.update(
@@ -333,6 +753,7 @@ def args_from_metadata(metadata: dict[str, object], metadata_path: Path, cli_arg
             "title": metadata.get("title", ""),
             "url": metadata.get("url", ""),
             "body_file": metadata.get("body_file", ""),
+            "body_text": metadata.get("body_text", ""),
             "voice_slugs": metadata.get("voice_slug", []),
             "host_slug": metadata.get("host_slug") or None,
             "host": metadata.get("host", ""),
@@ -353,6 +774,7 @@ def args_from_metadata(metadata: dict[str, object], metadata_path: Path, cli_arg
             "editorial_note": metadata.get("editorial_note", defaults["editorial_note"]),
             "upstream_path": metadata.get("upstream_path") or None,
             "trim_opening": metadata.get("trim_opening", defaults["trim_opening"]),
+            "asr_repair": metadata.get("asr_repair", defaults["asr_repair"]),
         }
     )
     if mapped["body_file"]:
@@ -368,6 +790,11 @@ def args_from_metadata(metadata: dict[str, object], metadata_path: Path, cli_arg
     mapped["closing_trim_rule"] = ""
     mapped["closing_trim_chars_saved"] = 0
     mapped["closing_trim_words_saved"] = 0
+    mapped["transcript_curation"] = "preserved_unsectioned"
+    mapped["section_count"] = 0
+    mapped["section_pass"] = SECTIONING_PASS_LABEL
+    mapped["asr_repair_applied"] = False
+    mapped["asr_repair_pass"] = ""
     return normalize_args(SimpleNamespace(**mapped))
 
 
@@ -378,6 +805,7 @@ def args_from_cli(cli_args: argparse.Namespace) -> SimpleNamespace:
         "title": cli_args.title,
         "url": cli_args.url,
         "body_file": cli_args.body_file,
+        "body_text": cli_args.body_text,
         "voice_slugs": cli_args.voice_slugs,
         "host_slug": cli_args.host_slug,
         "host": cli_args.host,
@@ -399,6 +827,8 @@ def args_from_cli(cli_args: argparse.Namespace) -> SimpleNamespace:
         "upstream_path": cli_args.upstream_path,
         "dry_run": cli_args.dry_run,
         "trim_opening": cli_args.trim_opening,
+        "asr_repair": cli_args.asr_repair,
+        "sectioning": cli_args.sectioning,
         "opening_trim_applied": False,
         "opening_trim_rule": "",
         "opening_trim_chars_saved": 0,
@@ -407,12 +837,171 @@ def args_from_cli(cli_args: argparse.Namespace) -> SimpleNamespace:
         "closing_trim_rule": "",
         "closing_trim_chars_saved": 0,
         "closing_trim_words_saved": 0,
+        "transcript_curation": "preserved_unsectioned",
+        "section_count": 0,
+        "section_pass": SECTIONING_PASS_LABEL,
+        "asr_repair_applied": False,
+        "asr_repair_pass": "",
     }
     return normalize_args(SimpleNamespace(**mapped))
 
 
 def count_words(text: str) -> int:
     return len(re.findall(r"\S+", text))
+
+
+def normalize_body_text(text: str) -> str:
+    normalized = text.replace("\r\n", "\n").replace("\r", "\n")
+    return normalized if normalized.endswith("\n") else normalized + "\n"
+
+
+def load_body_text(args: SimpleNamespace) -> str:
+    cached = getattr(args, "_body_text_cache", None)
+    if isinstance(cached, str):
+        return cached
+    body_text = getattr(args, "body_text", None)
+    if isinstance(body_text, str) and body_text.strip():
+        normalized = normalize_body_text(body_text)
+        args._body_text_cache = normalized
+        return normalized
+    body_file = getattr(args, "body_file", None)
+    if body_file:
+        normalized = normalize_body_text(Path(body_file).read_text(encoding="utf-8"))
+        args._body_text_cache = normalized
+        return normalized
+    return ""
+
+
+def parse_title_from_body(body: str) -> str:
+    lines = [line.strip() for line in body.splitlines() if line.strip()]
+    if not lines:
+        return ""
+    first = lines[0]
+    first = re.sub(r"\s*Transcripts?:.*$", "", first, flags=re.IGNORECASE)
+    first = re.sub(r"\s*-\s*YouTube(?:\s+Transcripts?)?.*$", "", first, flags=re.IGNORECASE)
+    first = re.sub(r"\s{2,}", " ", first).strip(" -:")
+    if len(first) >= 8:
+        return first
+    return ""
+
+
+def title_from_url(url: str) -> str:
+    match = re.search(r"[?&]v=([A-Za-z0-9_-]+)", url or "")
+    if match:
+        return f"youtube-{match.group(1)}"
+    return "untitled-source"
+
+
+def apply_host_profile(args: SimpleNamespace, profile: HostProfile) -> None:
+    args.host_slug = args.host_slug or profile.slug
+    args.host = args.host or profile.host_name
+    args.host_people = [item for item in (args.host_people or profile.host_people) if item]
+    args.channel_name = args.channel_name or profile.channel_name
+    args.show_title = args.show_title or profile.show_title
+    args.show = args.show or profile.show
+
+
+def infer_host_profile(args: SimpleNamespace, body: str) -> HostProfile | None:
+    if getattr(args, "host_slug", None):
+        return HOST_PROFILES.get(args.host_slug)
+    combined = " ".join(
+        item for item in (getattr(args, "title", ""), getattr(args, "url", ""), body[:4000]) if item
+    ).lower()
+    for pattern, slug in HOST_CUE_PATTERNS:
+        if re.search(pattern, combined):
+            return HOST_PROFILES[slug]
+    for profile in HOST_PROFILES.values():
+        if any(alias in combined for alias in profile.aliases):
+            return profile
+    return None
+
+
+def infer_voice_candidates(text: str) -> list[tuple[str, str]]:
+    lowered = text.lower()
+    matches: list[tuple[str, str]] = []
+    seen: set[str] = set()
+    for needle, slug, display_name in VOICE_HINTS:
+        if needle in lowered and slug not in seen:
+            matches.append((slug, display_name))
+            seen.add(slug)
+    return matches
+
+
+def infer_source_form(args: SimpleNamespace, body: str, profile: HostProfile | None, voice_candidates: list[tuple[str, str]]) -> str:
+    explicit = getattr(args, "source_form", "") or ""
+    if explicit not in ("", "interview"):
+        return explicit
+    title = getattr(args, "title", "")
+    combined = f"{title}\n{body[:2500]}".lower()
+    if profile and profile.slug == "alexander-mercouris":
+        return "solo"
+    if "welcome back to neutrality studies" in combined:
+        return "interview"
+    if re.search(r"\bw/\b", title.lower()) or " w/" in title.lower() or " with " in title.lower():
+        return "interview"
+    if voice_candidates and profile and any(slug != profile.default_voice_slug for slug, _ in voice_candidates):
+        return "interview"
+    if profile and profile.slug == "daniel-davis":
+        return "monologue"
+    return profile.default_source_form if profile else "interview"
+
+
+def infer_defaults_for_source_form(args: SimpleNamespace) -> None:
+    if getattr(args, "kind", "") in ("", None):
+        args.kind = "cleaned-transcript"
+    if getattr(args, "modality", "") in ("", None):
+        args.modality = "cleaned-transcript"
+    if getattr(args, "source_form", "") in ("solo", "monologue"):
+        if getattr(args, "source_class", "") in ("", None, "guest interview pressure test"):
+            args.source_class = "host monologue"
+    elif getattr(args, "source_class", "") in ("", None):
+        args.source_class = "guest interview pressure test"
+
+
+def infer_missing_metadata(args: SimpleNamespace) -> SimpleNamespace:
+    body = load_body_text(args)
+    if not body:
+        return args
+    if not getattr(args, "ingest_date", None) and getattr(args, "pub_date", None):
+        args.ingest_date = args.pub_date
+    if not getattr(args, "pub_date", None) and getattr(args, "ingest_date", None):
+        args.pub_date = args.ingest_date
+    if not getattr(args, "title", None):
+        args.title = parse_title_from_body(body) or title_from_url(getattr(args, "url", ""))
+
+    profile = infer_host_profile(args, body)
+    if profile:
+        apply_host_profile(args, profile)
+
+    combined = f"{getattr(args, 'title', '')}\n{body[:4000]}"
+    voice_candidates = infer_voice_candidates(combined)
+    host_voice = profile.default_voice_slug if profile else None
+    guest_candidates = [(slug, name) for slug, name in voice_candidates if slug != host_voice]
+
+    if not getattr(args, "voice_slugs", None):
+        if len(guest_candidates) == 1:
+            args.voice_slugs = [guest_candidates[0][0]]
+        elif len(guest_candidates) > 1:
+            labels = ", ".join(slug for slug, _ in guest_candidates[:3])
+            raise ValueError(
+                f"Need one clarification: primary guest/voice is ambiguous ({labels}). Re-run with --voice-slug."
+            )
+        elif profile and profile.default_voice_slug:
+            args.voice_slugs = [profile.default_voice_slug]
+
+    if not getattr(args, "guest", "") and len(guest_candidates) == 1:
+        args.guest = guest_candidates[0][1]
+    if not getattr(args, "guest_people", None) and getattr(args, "guest", ""):
+        args.guest_people = [args.guest]
+
+    if not profile and not getattr(args, "host_slug", None):
+        raise ValueError("Need one clarification: I could not infer the host/channel. Re-run with --host-slug.")
+
+    args.source_form = infer_source_form(args, body, profile, voice_candidates)
+    infer_defaults_for_source_form(args)
+    if not getattr(args, "thread", None) and getattr(args, "voice_slugs", None):
+        args.thread = args.voice_slugs[0]
+    return args
 
 
 def get_trim_rule(args: SimpleNamespace) -> HostTrimRule | None:
@@ -507,6 +1096,185 @@ def apply_trim_metadata(args: SimpleNamespace, body: str) -> str:
     return body
 
 
+def host_supports_asr_repair(host_slug: str | None) -> bool:
+    return bool(host_slug and host_slug in ASR_REPAIR_APPROVED_HOSTS)
+
+
+def repair_asr_text(args: SimpleNamespace, body: str) -> str:
+    args.asr_repair_applied = False
+    args.asr_repair_pass = ""
+    if getattr(args, "asr_repair", "auto") == "none":
+        return body
+    if not host_supports_asr_repair(getattr(args, "host_slug", None)):
+        return body
+
+    repaired = body
+    for pattern, replacement in GLOBAL_ASR_REPAIRS:
+        repaired = re.sub(pattern, replacement, repaired)
+    for pattern, replacement in HOST_ASR_REPAIRS.get(getattr(args, "host_slug", None), ()):
+        repaired = re.sub(pattern, replacement, repaired)
+
+    repaired = re.sub(r"\n{3,}", "\n\n", repaired).strip() + "\n"
+    if repaired != body:
+        args.asr_repair_applied = True
+        args.asr_repair_pass = ASR_REPAIR_PASS_LABEL
+    return repaired
+
+
+def host_supports_sectioning(host_slug: str | None) -> bool:
+    return bool(host_slug and host_slug in SECTIONING_APPROVED_HOSTS)
+
+
+def cleanup_section_label(text: str) -> str:
+    cleaned = re.sub(r"\s+", " ", text).strip(" -,:;.!?\n\t")
+    cleaned = re.sub(r"^[^A-Za-z0-9]+", "", cleaned)
+    if not cleaned:
+        return ""
+    words = [
+        word
+        for word in cleaned.split()
+        if word.lower() not in TOPIC_STOPWORDS and word.lower() not in TOPIC_FILLER_WORDS
+    ]
+    if not words:
+        return ""
+    if len(words) > 8:
+        words = words[:8]
+    cleaned = " ".join(words)
+    return cleaned.title()
+
+
+def format_topic_token(token: str) -> str:
+    upper = token.upper()
+    if upper in UPPERCASE_TOPIC_TOKENS:
+        return upper
+    return token.title()
+
+
+def ordered_unique(items: list[str]) -> list[str]:
+    seen: set[str] = set()
+    ordered: list[str] = []
+    for item in items:
+        if item not in seen:
+            seen.add(item)
+            ordered.append(item)
+    return ordered
+
+
+def extract_topic_candidates(block: str, title: str) -> list[str]:
+    lowered = block.lower()
+    phrase_candidates: list[str] = []
+    for phrase in DOMAIN_TOPIC_PHRASES:
+        if phrase in lowered:
+            phrase_candidates.append(phrase)
+
+    token_matches = re.findall(r"[A-Za-z][A-Za-z'-]+", block)
+    counts: dict[str, int] = {}
+    for token in token_matches:
+        lowered_token = token.lower()
+        if lowered_token in TOPIC_STOPWORDS or lowered_token in TOPIC_FILLER_WORDS:
+            continue
+        if len(lowered_token) < 3:
+            continue
+        counts[lowered_token] = counts.get(lowered_token, 0) + 1
+
+    phrase_candidates.sort(
+        key=lambda phrase: (
+            lowered.count(phrase),
+            len(phrase.split()),
+            len(phrase),
+        ),
+        reverse=True,
+    )
+
+    candidates: list[str] = []
+    for phrase in phrase_candidates[:4]:
+        candidates.append(phrase)
+
+    for token in token_matches:
+        lowered_token = token.lower()
+        if lowered_token not in counts:
+            continue
+        if counts[lowered_token] >= 2:
+            candidates.append(lowered_token)
+
+    return ordered_unique(candidates)
+
+
+def derive_topic_label(block: str, title: str) -> str:
+    candidates = extract_topic_candidates(block, title)
+    if not candidates:
+        return ""
+
+    label_parts: list[str] = []
+    for candidate in candidates:
+        if " " in candidate:
+            label_parts.append(cleanup_section_label(candidate))
+        else:
+            label_parts.append(format_topic_token(candidate))
+        if len(label_parts) >= 3:
+            break
+
+    label = " ".join(part for part in label_parts if part)
+    return cleanup_section_label(label)
+
+
+def paragraph_is_boundary(paragraph: str) -> bool:
+    lowered = paragraph.lower().strip()
+    if not lowered:
+        return False
+    cues = (
+        "let me start",
+        "let's start",
+        "i want to ask",
+        "what do you make of",
+        "let's go to",
+        "another point",
+        "the other issue",
+        "first of all",
+        "secondly",
+        "thirdly",
+        "turning to",
+        "let me turn to",
+        "let's turn to",
+        "now let me",
+        "now on",
+        "another thing",
+        "another issue",
+        "on the other hand",
+        "meanwhile",
+        "now,",
+        "now ",
+    )
+    return any(cue in lowered for cue in cues)
+
+
+def split_transcript_paragraphs(body: str) -> list[str]:
+    blocks = re.split(r"\n\s*\n", body.strip())
+    return [block.strip() for block in blocks if block.strip()]
+
+
+def format_sectioned_body(sections: list[tuple[str, str]]) -> str:
+    chunks: list[str] = []
+    for heading, block in sections:
+        chunks.append(f"### {heading}\n\n{block.strip()}")
+    return "\n\n".join(chunks).rstrip() + "\n"
+
+
+def strip_transcript_section_headings(body: str) -> str:
+    lines = body.splitlines()
+    kept: list[str] = []
+    previous_blank = False
+    for line in lines:
+        if re.match(r"^### ", line):
+            continue
+        is_blank = not line.strip()
+        if is_blank and previous_blank:
+            continue
+        kept.append(line)
+        previous_blank = is_blank
+    return "\n".join(kept).strip() + "\n"
+
+
 def split_source_document(text: str) -> tuple[list[str], str, str] | None:
     if not text.startswith("---\n"):
         return None
@@ -515,9 +1283,10 @@ def split_source_document(text: str) -> tuple[list[str], str, str] | None:
         return None
     frontmatter_lines = parts[1].splitlines()
     content = parts[2]
-    if "## Transcript" in content:
-        body_prefix, transcript_body = content.split("## Transcript", 1)
-        return frontmatter_lines, body_prefix + "## Transcript\n\n", transcript_body.lstrip()
+    for transcript_heading in ("## Transcript", "## Cleaned Transcript"):
+        if transcript_heading in content:
+            body_prefix, transcript_body = content.split(transcript_heading, 1)
+            return frontmatter_lines, body_prefix + transcript_heading + "\n\n", transcript_body.lstrip()
 
     heading_match = re.search(r"(?m)^# .+\n", content)
     if not heading_match:
@@ -565,25 +1334,118 @@ def build_trim_field_lines(args: SimpleNamespace) -> list[str]:
     ]
 
 
+def build_section_field_lines(args: SimpleNamespace) -> list[str]:
+    return [
+        f"transcript_curation: {args.transcript_curation}",
+        f"section_count: {args.section_count}",
+        f"section_pass: {yaml_quote(args.section_pass)}",
+    ]
+
+
+def build_asr_field_lines(args: SimpleNamespace) -> list[str]:
+    return [
+        f"asr_repair_applied: {'true' if args.asr_repair_applied else 'false'}",
+        f"asr_repair_pass: {yaml_quote(args.asr_repair_pass)}",
+    ]
+
+
 def normalize_frontmatter_trim_fields(frontmatter_lines: list[str], args: SimpleNamespace) -> list[str]:
     new_lines: list[str] = []
     inserted = False
     for line in frontmatter_lines:
         stripped = line.strip()
         key = stripped.split(":", 1)[0] if ":" in stripped else ""
-        if key in TRIM_FIELD_ORDER:
+        if key in TRIM_FIELD_ORDER or key in ASR_FIELD_ORDER or key in SECTIONING_FIELD_ORDER:
+            continue
+        if key == "editorial_note":
+            new_lines.append(f"editorial_note: {yaml_quote(args.editorial_note)}")
             continue
         new_lines.append(line)
         if key == "routing_state":
             new_lines.extend(build_trim_field_lines(args))
+            new_lines.extend(build_asr_field_lines(args))
+            new_lines.extend(build_section_field_lines(args))
             inserted = True
 
     if not inserted:
         new_lines.extend(build_trim_field_lines(args))
+        new_lines.extend(build_asr_field_lines(args))
+        new_lines.extend(build_section_field_lines(args))
     return new_lines
 
 
-def retrofit_source(path: Path, since_date: str, dry_run: bool = False) -> str | None:
+def section_transcript(args: SimpleNamespace, body: str) -> tuple[str, str, int, str]:
+    args.section_pass = SECTIONING_PASS_LABEL
+    if getattr(args, "sectioning", "auto") == "none":
+        return body, "preserved_unsectioned", 0, "disabled"
+    if not host_supports_sectioning(getattr(args, "host_slug", None)):
+        return body, "preserved_unsectioned", 0, "host-unapproved"
+    if re.search(r"(?m)^### ", body):
+        return body, "curated_sectioned", len(re.findall(r"(?m)^### ", body)), "already-sectioned"
+
+    paragraphs = split_transcript_paragraphs(body)
+    if len(paragraphs) < 3:
+        return body, "preserved_unsectioned", 0, "too-short"
+
+    boundary_indexes = [idx for idx, paragraph in enumerate(paragraphs[1:], start=1) if paragraph_is_boundary(paragraph)]
+    if len(boundary_indexes) < 1:
+        return body, "preserved_unsectioned", 0, "weak-cues"
+
+    split_points = [0]
+    for idx in boundary_indexes:
+        if idx - split_points[-1] >= 1:
+            split_points.append(idx)
+    split_points.append(len(paragraphs))
+
+    raw_sections: list[str] = []
+    for start, end in zip(split_points, split_points[1:]):
+        block = "\n\n".join(paragraphs[start:end]).strip()
+        if block:
+            raw_sections.append(block)
+
+    if len(raw_sections) < 2:
+        return body, "preserved_unsectioned", 0, "weak-cues"
+
+    sections: list[tuple[str, str]] = []
+    for index, block in enumerate(raw_sections, start=1):
+        if index == 1:
+            label = derive_topic_label(block, args.title) or derive_topic_label(" ".join(paragraphs[1:3]), args.title)
+            if not label:
+                return body, "preserved_unsectioned", 0, "unclean-open-label"
+            heading = f"Show Open - {label}"
+        elif index == len(raw_sections) and re.search(r"\b(thanks|thank you|goodbye|see you)\b", block, re.IGNORECASE):
+            label = derive_topic_label(block, args.title)
+            if not label:
+                return body, "preserved_unsectioned", 0, "unclean-closing-label"
+            heading = f"Closing - {label}"
+        else:
+            label = derive_topic_label(block, args.title)
+            if not label:
+                return body, "preserved_unsectioned", 0, "unclean-segment-label"
+            heading = f"Segment {index} - {label}"
+        sections.append((heading, block))
+
+    if len(sections) < 2:
+        return body, "preserved_unsectioned", 0, "weak-cues"
+    return format_sectioned_body(sections), "curated_sectioned", len(sections), ""
+
+
+def update_editorial_note(editorial_note: str, curation: str, section_count: int) -> str:
+    cleaned = re.sub(r"\s*-\s*source-section pass [^.]+\.", "", editorial_note).strip()
+    if curation == "curated_sectioned" and section_count > 0:
+        suffix = f"source-section pass 2026-07-09 ({section_count} sections)."
+        return f"{cleaned} - {suffix}" if cleaned else suffix
+    return cleaned
+
+
+def retrofit_source(
+    path: Path,
+    since_date: str,
+    until_date: str | None = None,
+    dry_run: bool = False,
+    force_sections: bool = False,
+    sectioning: str = "auto",
+) -> str | None:
     text = path.read_text(encoding="utf-8")
     if not text.startswith("---\n"):
         return None
@@ -596,7 +1458,7 @@ def retrofit_source(path: Path, since_date: str, dry_run: bool = False) -> str |
     if not host_slug and path.name.startswith("source-alexander-mercouris-"):
         host_slug = "alexander-mercouris"
     pub_date = unquote_scalar(frontmatter.get("pub_date", ""))
-    if not host_slug or host_slug not in HOST_TRIM_RULES or pub_date < since_date:
+    if not host_slug or pub_date < since_date or (until_date and pub_date > until_date):
         return None
     split = split_source_document(text)
     if split is None:
@@ -607,6 +1469,7 @@ def retrofit_source(path: Path, since_date: str, dry_run: bool = False) -> str |
     args = SimpleNamespace(
         host_slug=host_slug,
         trim_opening="auto",
+        asr_repair="auto",
         opening_trim_applied=False,
         opening_trim_rule="",
         opening_trim_chars_saved=0,
@@ -615,12 +1478,34 @@ def retrofit_source(path: Path, since_date: str, dry_run: bool = False) -> str |
         closing_trim_rule="",
         closing_trim_chars_saved=0,
         closing_trim_words_saved=0,
+        asr_repair_applied=False,
+        asr_repair_pass="",
+        title=unquote_scalar(frontmatter.get("title", path.stem)),
+        source_form=unquote_scalar(frontmatter.get("source_form", "interview")),
+        sectioning=sectioning,
+        transcript_curation="preserved_unsectioned",
+        section_count=0,
+        section_pass=SECTIONING_PASS_LABEL,
+        editorial_note=unquote_scalar(frontmatter.get("editorial_note", "")),
     )
-    trimmed_body = apply_trim_metadata(args, body)
+    original_section_count = len(re.findall(r"(?m)^### ", body))
+    existing_curation = unquote_scalar(frontmatter.get("transcript_curation", ""))
+    trimmed_body = body
+    if host_slug in HOST_TRIM_RULES:
+        trimmed_body = apply_trim_metadata(args, body)
+    repaired_body = repair_asr_text(args, trimmed_body)
+    section_body = repaired_body
+    if not force_sections and (existing_curation == "curated_sectioned" or original_section_count > 0):
+        args.transcript_curation = "curated_sectioned"
+        args.section_count = original_section_count
+    else:
+        base_body = strip_transcript_section_headings(repaired_body) if force_sections else repaired_body
+        section_body, args.transcript_curation, args.section_count, _ = section_transcript(args, base_body)
+    args.editorial_note = update_editorial_note(args.editorial_note, args.transcript_curation, args.section_count)
     new_frontmatter_lines = normalize_frontmatter_trim_fields(frontmatter_lines, args)
-    new_text = "---\n" + "\n".join(new_frontmatter_lines) + "\n---" + body_prefix + trimmed_body.rstrip() + "\n"
+    new_text = "---\n" + "\n".join(new_frontmatter_lines) + "\n---" + body_prefix + section_body.rstrip() + "\n"
 
-    body_changed = trimmed_body != body
+    body_changed = section_body != body
     metadata_changed = new_frontmatter_lines != frontmatter_lines
     if not body_changed and not metadata_changed:
         return f"UNCHANGED {path.relative_to(REPO_ROOT).as_posix()}"
@@ -631,15 +1516,28 @@ def retrofit_source(path: Path, since_date: str, dry_run: bool = False) -> str |
     if body_changed:
         return (
             f"TRIMMED {path.relative_to(REPO_ROOT).as_posix()} "
-            f"opening={args.opening_trim_chars_saved} closing={args.closing_trim_chars_saved}"
+            f"opening={args.opening_trim_chars_saved} closing={args.closing_trim_chars_saved} sections={args.section_count}"
         )
     return f"NORMALIZED {path.relative_to(REPO_ROOT).as_posix()}"
 
 
-def backfill_sources(since_date: str, dry_run: bool = False) -> list[str]:
+def backfill_sources(
+    since_date: str,
+    until_date: str | None = None,
+    dry_run: bool = False,
+    force_sections: bool = False,
+    sectioning: str = "auto",
+) -> list[str]:
     messages: list[str] = []
     for path in sorted(ARCHIVE_SOURCES_ROOT.rglob("source-*.md")):
-        result = retrofit_source(path, since_date, dry_run=dry_run)
+        result = retrofit_source(
+            path,
+            since_date,
+            until_date=until_date,
+            dry_run=dry_run,
+            force_sections=force_sections,
+            sectioning=sectioning,
+        )
         if result:
             messages.append(result)
     return messages
@@ -656,13 +1554,17 @@ def source_plan(args: SimpleNamespace) -> tuple[Path, str, str]:
 
 
 def land_one(args: SimpleNamespace, manifest: dict) -> tuple[str, int]:
-    body_path = Path(args.body_file)
-    if not body_path.is_file():
-        raise FileNotFoundError(f"Body file not found: {body_path}")
+    if getattr(args, "body_file", None):
+        body_path = Path(args.body_file)
+        if not body_path.is_file():
+            raise FileNotFoundError(f"Body file not found: {body_path}")
 
     source_path, title_slug, upstream_path = source_plan(args)
-    body = body_path.read_text(encoding="utf-8")
+    body = load_body_text(args)
     body = apply_trim_metadata(args, body)
+    body = repair_asr_text(args, body)
+    body, args.transcript_curation, args.section_count, _ = section_transcript(args, body)
+    args.editorial_note = update_editorial_note(args.editorial_note, args.transcript_curation, args.section_count)
     frontmatter_doc = build_frontmatter(args, title_slug, body)
     manifest_row = build_manifest_row(args, source_path, upstream_path)
 
@@ -731,7 +1633,13 @@ def main() -> int:
 
     try:
         if cli_args.backfill_since:
-            messages = backfill_sources(cli_args.backfill_since, dry_run=cli_args.dry_run)
+            messages = backfill_sources(
+                cli_args.backfill_since,
+                until_date=cli_args.backfill_until,
+                dry_run=cli_args.dry_run,
+                force_sections=cli_args.force_sections,
+                sectioning=cli_args.sectioning,
+            )
             print("\n".join(messages))
             return 0
         source_args = gather_sources(cli_args)

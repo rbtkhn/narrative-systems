@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-07-08
 pub_date: 2026-07-08
 kind: cleaned-transcript
@@ -9,6 +10,7 @@ guest_people:
   - Larry Johnson
 show_title: Dialogue Works
 channel_name: Dialogue Works
+host_slug: dialogue-works
 show: Dialogue Works
 host: Nima Alkhorshid
 guest: "Larry Johnson"
@@ -19,18 +21,23 @@ title_slug: transcript-larry-johnson-iran-strikes-us-bases-in-bahrain-kuwait-aft
 editorial_note: "Preserve as raw cleaned transcript. Dialogue Works-hosted Larry Johnson interview on post-strike Gulf escalation, Hormuz control, and US-Iran retaliation sequencing. Not human-verified verbatim."
 review_state: unreviewed
 routing_state: provisional
-opening_trim_applied: true
-opening_trim_rule: "dialogue-works-wrapper-v1"
-opening_trim_chars_saved: 116
-opening_trim_words_saved: 16
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
 closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 4
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Larry Johnson: Iran Strikes US Bases in Bahrain & Kuwait After US Strikes South Iran - Hormuz CLOSED
 
 ## Transcript
+
+### Show Open — New U.S. Strikes, Iranian Retaliation, And Trump’s Anger
 
 Hi everybody. Today's Wednesday, July 8th, 2026. Your dear friend Larry Johnson is here with us. Welcome back there. >> Hi there. >> Yeah, >> we're doing well on the shirt front. We're doing much better than uh the oil markets. I'll say that. >> Yeah. Yeah, exactly. And finally, Larry, we had the attacks on Iran.
  You know, the United States attacked Iran last night and I think at least four to five points were attacked in the southern part of Iran. Sir area, Bander Abus, Bandere, you know, all these, you know, sort of areas close to the Persian Gulf. And they hit something they hit something like 80 targets last night.
@@ -38,12 +45,14 @@ Hi everybody. Today's Wednesday, July 8th, 2026. Your dear friend Larry Johnson 
 >> At least they were talking about it. I I haven't heard from the Iranian sources because when you listen to Iranian sources, they say they there is nothing of 80, you know, targets being attacked, but it seems that in the west basically Sandcom is trying to say that 80 targets were attacked. >> Well, it was Iran who said they hit 80 85 targets.
 >> Yeah. Yeah. It was Iran. Yeah. They said that they hit back with 84 85 targets in Kuwait and in Bahrain. And they said this is the you know this is not the main response from Iran. You know this the this the thing the situation is so difficult right now for Iran. had the whole cabinet, the the president of the United the president of Iran together with foreign minister all in Iraq for the funeral in Iraq as today they're in Iraq and two three million people on on they're on street to for the funeral procession of the late
 supreme leader of Iran and then they he got back last night after the attacks the president of Iran poses >> right >> he got back and they had this session the meeting of the Supreme National Security Council and then they responded to the attack of the United States. So, this is the way it is right now.
- Donald Trump said he's going to attack Iran again tonight. And here is what he said, Larry, about the situation right now with MOU. >> Fire over. Is is the ceasefire done? Is theou dead? >> It's a very interesting question. To me, I think it's over. I don't want to deal with them anymore. They're scum. You know what scum is? They're scum.
+### Segment 2 — MOU Breakdown And The Strait Of Hormuz Dispute
+
+ Donald Trump said he's going to attack Iran again tonight. And here is what he said, Larry, about the situation right now with MOU. >> Is the ceasefire done? Is the MOU dead? >> It's a very interesting question. To me, I think it's over. I don't want to deal with them anymore. They're scum. You know what scum is? They're scum.
  They're sick people. They're led by sick people and they're vicious, violent people. >> Yeah. >> I guess I guess he forgot about the oil crisis that's going to now hit America. You know, of course, uh I I I was surprised to learn that Japan had com converted to Islam, you know, and people people listen, what? Yeah, listen.
  Trump said it was the Islamic Republic of Japan that uh we're going after. Jesus, he needs to be he needs to be impeached, removed from office. Uh he is he's that th this this has the potential to set off a real economic catastrophe. Yeah, I I think right now the question is Larry to what extent is there do you consider MOU still there because the sanctions those sanctions on Iranian energy sectors energy sector were you know they they they put them in place again and so there is nothing of that sort happening with the case of the sanctions
 on oil and energy or prochemical coal products in Iran which were part of that. Then you see the case of Lebanon, nothing is happening. What does that mean? What does MOU mean to you? >> Well, then it not matter what it means to me. It's it's a it's dead. You know, it's not being the United States has violated every every piece of that.
 Um I'm just I'm just looking up right now to see what's going on. So, um there is no activity along the Omani uh coast right now like yesterday. Yesterday it was deliberate like four or five ships trying to get through. It's it's nothing going on there now. Uh ships continue to pass through the Iranian routes.
- And my my guess is Iran's going to continue to allow that to go forward until such time as, you know, if if the United States starts launching some u um massive attacks in the in the straight, Iran may close it, but I I I don't think so. I think at this point Iran's going to turn around and say, "Okay, theou is dead. We're going to start that tolls start now and as was stipulated in the protocols that any ship that does not abide by those protocols they they could they will use force against it.
+ And my guess is Iran's going to continue to allow that to go forward until such time as, you know, if the United States starts launching some massive attacks in the strait, Iran may close it, but I don't think so. I think at this point Iran's going to turn around and say, "Okay, the MOU is dead. We're going to start the tolls now and, as was stipulated in the protocols, any ship that does not abide by those protocols could face force against it."
  So it's a you know it's a real at least there's some clarity to that. But I think with the oil that's starting to flow out, I I don't think um I I don't think that Iran is in a mind to uh you know fool with that to interfere with it because uh let's see here just to give you an example. Uh there's a a chemical oil tanker headed for Fuia.
 There's an LPG tanker headed for the UAE. The destin So destinations on a lot of these are given as uh say UAE. Um there's Mercury Hope that's going to China. It's a crude oil tanker. So that's going to China. There's uh containers ship uh that's looks like it's going to China. Uh and then there is let's see here there's >> oil is 78 right now.
 >> Oh yeah. It's gonna it's going to go it's going to go way up, you know. Well, wa watch Trump. He'll he'll try to get this uh this back in the in the barn, but uh yeah. Oh, so th yeah this is this this is still disrupting global uh maritime traffic out of the straight of Hormuz even though there's some movement now.
@@ -55,7 +64,9 @@ Well, now we have it. If he goes back to full aviation combat asset uh action, y
  And you know, Trump once he starts seeing the markets go down, then all of a sudden he's going to try to have a pivot and say, "Oh, no. We're back talking." And the u I I I think you know, Iran uh Iran will not publicly break with theou until the day they've got until January 17th. So 9 days uh because that's when the new the sanctions will be reimposed.
 When the sanctions are fully reimposed then Iran will say okay this is over. >> There is something seriously happening. I don't know what's that that we don't know because we don't know the targets of Iranian retaliations. But Donald Trump the way he's talking he's so angry. He's so I don't know why is that. And here is what he said.
 Larry, >> they're cheats. They're sick people. They've hurt their people. They killed 54,000 people as of now that we're protesting. You know, >> 54. First it was, you know, the real number is down around 3,500. Uh but then it was 10,000 and 20,000 30,000 40 54,000. You know, pretty soon it's going to be a million.
->> I think it's good to start with cheating. Who's cheating? >> Yeah. >> Look at them. Who's cheating in your opinion? >> Yeah. No, absolutely. It is uh it's the United States has is it's violated uh paragraph one of theou paragraph 10 of theou and really paragraph 5 because you know as I laid it out again last night in my piece at uh um at sonar 21 the the protocols that Iran put out were really in response to the negotiations surrounding theou specifying these are the procedures to be followed and theou explicitly stated that it was Iran to it
+### Segment 3 — Johnson On Who Is Cheating And Why Iran Still Holds Leverage
+
+ >> I think it's good to start with cheating. Who's cheating? >> Yeah. >> Look at them. Who's cheating in your opinion? >> Yeah. No, absolutely. It is the United States. It's violated paragraph one of the MOU, paragraph 10 of the MOU, and really paragraph 5 because, as I laid it out again last night in my piece at Sonar21, the protocols that Iran put out were really in response to the negotiations surrounding the MOU, specifying these are the procedures to be followed, and the MOU explicitly stated that it was Iran to
 was Iran's going to figure out how how to get sha ships safely through the straight of Iran's put in place a system follow it if they follow it there's no problem but uh that's not what the United States wanted and so then the United States insists that it's got the right to quote stop Iran's interference with freedom of navigation.
  Sorry, that's not in theouou. Not at all. Larry, what would be the solution? One of them is that the United States stays in the region and tries to to attack Iran with the case of the straight of foremost. After all, the most important thing right now for the United States is the straight foremost. I don't buy Donald Trump every time coming out and saying that the nuclear program of Iran and it's all about Iranian nuclear program.
  It's all about the straight of Hormuz. The priority right now is the rate of form. The way is the question would be what would be the solution for the United States for this rate of foremost. >> Say that again. >> What would be the solution for the United States considering the rate of foremost? >> I I I have no idea. You know, the Trump is all over the board.
@@ -85,7 +96,9 @@ the the calculation on the part of Iranians is that we're going to continue this
  They're playing both sides. I don't, you know, this is so unbelievable on the the game that they're playing right now. It's unbelievable. I I don't know how to translate that, how to understand that. And how how much of it how much of what they're doing is related to the pressure they're receiving from the United States.
  How much of they're doing is because they don't want Iran to control this radar for most. Well, it doesn't matter what they want. Let's just deal let's deal with the reality. The fact of the matter is Iran now controls the straight of Hermoose. Iran Iran's doing something now that it was incapable of doing 40 years ago or Yeah. Yeah.
  right about 40 years ago uh when they tried to disrupt the the shipment of Iraqi oil out of the Persian Gulf and they tried to mine uh the Persian Gulf, not just the straight of Hormuz. At that time, the United States was able to sell aircraft carriers, destroyers u into the Persian Gulf with no fear. Can't do that now.
- And I want to come back to you gota ask, you know, why why the sudden change in Trump's attitude this morning? And I I believe that we're going to find out that uh the aircraft carrier and maybe some of the escort ships were struck with Iranian missiles and they cause probably cause some significant damage.
+### Closing — Carrier Damage Suspicion, Funeral Pressure, And The Risk Of Wider War
+
+ And I want to come back to it. You have got to ask why the sudden change in Trump's attitude this morning? And I believe that we're going to find out that the aircraft carrier and maybe some of the escort ships were struck with Iranian missiles and they probably caused some significant damage.
  The United States is not reporting that. But uh I I think I think word of that's going to eventually leak out. >> Yeah. Is that going to let's assume something of that sort happened last night? What would be that sort of sign for the United States? Are they going to double down? Are they going to decide to leave? >> Well, no.
  I I again from uh listen those if those ships were hit uh despite all of Trump's you know threats uh the Navy's going to go no we can't get we can't go in closer they may want to say we need to stand off more now some have said they're 600 miles offshore I I I thought they were only like 200 uh but nonetheless um I saw one report claiming Iran fired 111 uh anti-hship missiles.
  It seems like a lot, but that that's that's what you'd have to do to try to over overwhelm the defenses of of of a carrier strike group. And uh you know, you come back and say, "What happened since yesterday that has got Trump so angry with Iran?" And and I think I think that's it. That's that's that's the only thing I can come up with logically.

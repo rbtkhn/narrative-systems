@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-12
 pub_date: 2026-06-12
 kind: cleaned-transcript
@@ -27,11 +28,20 @@ source_note: "Operator-pasted transcript; host self-dates Friday 12 June 2026. 1
 evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: paste-asr
-opening_trim_applied: false
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 2 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 2 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (10 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Lt. Col. Anthony Aguilar: Iran Warns Israel – Leave Occupied Territories or Final Deal Is DEAD
 
@@ -44,7 +54,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Lebanon Israel
 
 Hi everybody. Today's Friday, June 12, 20126 and our dear friend, Lieutenant Colonel Anthony Agular is here with us. Welcome back, Anthony. >> Thank you. Thank you. It's always a pleasure and uh looking forward to some great discussion. >> Yeah, just starting with what is going on right now because the things are moving so fast.
 What we've learned so far is that earlier today Iranian media published a 14-point plan that later on we discuss it today with Carl Wilkerson and Larry Johnson. Later on we've learned from the Iranian foreign minister and Donald Trump himself they said that this is not the plan that we're talking about. So what has happened later on Iranian foreign minister had an interview had some sort of you know interview on Iranian media and what he said important points so far one of them is Lebanon one of the crucial issues he said that if
@@ -60,7 +70,7 @@ So the main issue the helicopter that could be a helicopter as well but the main
  Bomb, bomb, bomb, bomb, bomb, bomb back and forth. We stop and we say, "Okay, how about now?" Go negotiate. Well, I haven't seen anything that's changed from the Iranian side and nor have I seen anything change unless this latest round from the United States side has capitulated certain things because it's very clear Iran has made it very clear straighter humus.
  No, it's not going back to the same old way. It is our sovereign territorial water shared with Oman and Oman and the Iran will share it and we will tax it.
 
-### Segment 2 — It's Not Really A Toll
+### Segment 2 — Iran Lebanon Israel
 
 It's not really a toll. It's a tax in terms of the upkeep, the maintenance, the environmental fees. They're fees. Every other strategic waterway in the world has something similar.
  So, Yan has made it clear, it's not going back to business usual. We will be a part of it. You want to drop the the the the uh the toll, so to speak, that $2 million uh entry fee, okay, but we're not giving it up. the uranium. We're not giving it up. No. No. You You want to bring in the IAE and you want to bring back in everything that was under the JCPOA uh and tie it to our sanctions and tie it to our our assets.
@@ -76,7 +86,7 @@ And with that in mind, what has the United States changed in order to make this 
 zero. My my position on this as I watch this unfold is close. Well, you know what? The only thing close counts for is in is in horseshoes and hand grenades. Close doesn't matter. Where's the deal? Show me the money. Show me the deal. Until we have that where both sides agree. Because the other thing that Donald Trump tried, I think like on maybe the 14th deal was here's the deal.
 Huh? and Iran
 
-### Segment 3 — Was Like We Haven't Seen
+### Segment 3 — Israel Lebanon Hezbollah
 
 was like we haven't seen that. So what's going to come out of this? I think that we are just again unless the United States has changed its negotiating position with Lebanon. I don't see a deal. Tony, let's assume Donald Trump wants to do something with the case of Lebanon. Maybe he wants to because he wants to get out.
  he tries to do something with the Israeli position. What would be that solution? In my opinion, he could say to Israel, you want to stay in Lebanon, you're on your own and you have to fight it by yourself. We're not going to stay there anymore. We're not going to fight on the territory of the Lebanese people because Lebanese people, it belongs to Lebanon.
@@ -91,7 +101,7 @@ Not without the US. And here's why. You can't bomb Hezbollah out of existence. C
  We cannot bomb Iran into a change. We cannot bomb our way into a negotiation. We can fire missiles and bombs and warships and tanks and or excuse me, helicopters and jets and all day long. But at some point you got to then say, "Okay, where's the negotiation?" And Iran's position has been, "No, we're not changing." So if the US really wanted to go in and change the situation with a military capitulation upon Iran, we would have to go in with everything and it would be incredibly costly and it wouldn't guarantee a win. Israel cannot defeat
 Hezbollah without the United States. So, Israel will then have to make the decision. Are we going to let go and give up without the US support or are we going to keep at it without the US support? And it's going to get very, very bad. Which then again, depending on how committed the United States is into this position and upholding, remember a deal made doesn't mean it's a deal upheld, right? we can make the deal, but if we go right back into supporting Israel because they're getting slammed byah and
 
-### Segment 4 — Kamas Well Then We Just
+### Segment 4 — Iran Israel Lebanon
 
 kamas, well then we just we
 just re we just we neged on our deal. Can't do that. So the United States is in a very very complicated position with our partnership with Israel, especially when it comes to Lebanon and this critical point in this negotiation. And Iran is going to want guarantees. Iran is going to want proof.
@@ -109,7 +119,7 @@ You own this problem. You own this monster you created." and we're going to have
  Lot to consider here. How about we just stop the war? Like, stop bombing us. Stop with all the Navy stuff. Here's a memorandum of understanding. We'll come back to it. No. No. Neither should Iran. And they won't. So, memorandums of understanding sounds nice. Sounds cushy, sounds like something you could celebrate.
  It means nothing. It means nothing if there isn't something tangible. It means nothing if behind that agreement
 
-### Segment 5 — You Aren't Showing Action Don't
+### Segment 5 — Iran Israel Hormuz
 
 you aren't showing action. Don't Don't tell me you're going to do it. Show me. And I think that's where Iran is now with the United States when it comes to their relationship with Israel.
  Don't Don't tell me you're going to do it. Then we can negotiate. Can Iran survive with sanctions? They sure can. Can Iran survive with their assets frozen? They sure can. Can Iran survive and still maintain how they have the straighter Hermus and and and not be blown out of existence? They sure can. Can Iran continue to exist and support the axis of resistance withah and kamas and they sure can.
@@ -126,7 +136,7 @@ So the these conditions though some things are fungeable what's not is Iran's po
  This is these are I don't know how does it work within the two admin because looking at the situation right now there is no talk direct talk between the two sides basically they're sending delegations or Pakistani delegation to Iran sending messages written messages by the way but that doesn't you know just imagine we're we're talking to each other you know we are texting each other it's too difficult it's too difficult to say what you want to say and just imagine you're calling and talking and that's a huge change texting and calling
 huge change I think when it comes to the negotiation is the same the talks between the two sides but it doesn't seem that the Trump administration is willing or I I don't know what is the problem there but later the last
 
-### Segment 6 — Time The Two Sides Talked
+### Segment 6 — Iran Trump Lebanon
 
 time the two sides talked to each other it was in Islam about Pakistan we JD Vance together with his team.
  We had the Iranian the head of Iranian parliament with his team. Then after the outcome was that >> the the delegation the US team was not prepared at all and JD Vance was calling back and you know back and forth to Washington maybe two calls to Israel to see what they feel about the ongoing negotiation. This is the problem.
@@ -143,7 +153,7 @@ time the two sides talked to each other it was in Islam about Pakistan we JD Van
 World War I, back and forth, back and forth, back and forth. the world. Oh, we're almost done. We're almost done. And it wasn't until Marshall Ferdinand said, "Okay, enough of this back and forth. Get a train, drive it to the front line. We're going to take their side. We're going to take our side. We're going to call a truce.
  We're going to put them on the train and they're going to talk it out." And that train, it's called the Kamba Wagen. It's in Paris, is where they sat. It's in Paris now. It wasn't then. It's in on display in in the museum. and they sat there face to face and they figured out an armistice and that is what brought World War I to an end
 
-### Segment 7 — With A Treaty An Armistice
+### Segment 7 — Iran Israel Lebanon
 
 with a treaty an armistice.
  The treaty itself wasn't inside until Versailles November 11th but that armist ended that and they couldn't get to it. They couldn't until they sat face to face and hashed out the terms. Same thing with Japan. When we when the terms of surrender, we dropped the bomb. Saran Japan says, "Uncle, we sent people, we sent an envoy with translators to sit there with the the Japanese leadership with the emperor because they didn't want the Americans to see their eyes upon the emperor in the room next door in the room to make that surrender
@@ -159,7 +169,7 @@ guarantees. Like I said, okay, America, you're going into this memorandum of und
 I don't I mean, they care, but I don't think it was one. They're not willing to die on the hill. So, they negotiated that. When it comes to the Lebanon piece, it's going to be okay. You agreed to it, America. Israel's still bombing. What do you Who's going to stop him? Who's going to stop Israel? And if we think that it's just going to be Donald Trump telling Netanyahu to stop, no one believes that.
 No one. I don't even think Trump believes that. How many aircraft carriers are close to the Persian Gulf or are there to support the war or the
 
-### Segment 8 — Conflict We Have Three Of
+### Segment 8 — Trump Lebanon Economy
 
 conflict? We have three of them there in the region. >> So, so we did have four. Uh, one did come home eventually, the one with the laundry room fire. >> Um, we have one still in the um Indian Ocean.
  We have one still and I because we've switched them around so many times and there's like the Ford and the Lincoln and all these dead presidents. I don't remember which one's which, but there's one still in the Indian Ocean. There's one still in the Mediterranean and there is still the USS um triple E, which is a a marine latoral light carrier.
@@ -175,7 +185,7 @@ saying that it's cushy I'm not saying that it's just a holiday but it's not mise
 " And the Navy said, "Hey, that that's all well and good, but then who's going to replace that one?" Oh, take that one from over there and put it there. Well, that's all well and good. Who's going to replace that one? Oh, that one that was supposed to be done. uh take that one now to replace that one. Okay, you still haven't solved the math.
 There's still a missing gap because we're doing an extra thing. Oh, we're just going to leave that one out longer. Okay. Well, once you do that and you're going into that operational and maintenance life cycle, you start running out of food. Now you have sailors that are on an aircraft carrier for going on
 
-### Segment 9 — Months Or Plus Now Eight
+### Segment 9 — Israel Iran Trump
 
 6 months or plus now eight, maybe 10, maybe 12. Yeah.
  things get real miserable. I don't but it doesn't it doesn't start off miserable. And again, I'm not saying that carrier life or submarine life is by any means easy. It is a hardship, but it doesn't it's not necessarily miserable until you get to that point to where you're breaking the thing. It's like having a vehicle and never changing its oil and it break and you're like, "Oh, crappy transmission.
@@ -193,7 +203,7 @@ There's a faucet. All I have to do is fill it up and drink it. Oh, I'm thirsty. 
  Is that the case? Because it I remember when this war started, they were talking about something like 15 destroyers being sent to the Middle East to get >> You're talking about the the naval a naval destroyer. >> Yeah. A naval destroyer I'm talking about. >> So So a a an aircraft a US carrier strike group. >> Yeah. Yeah. >> Has destroyers assigned to it.
  We have sent additional destroyers from
 
-### Segment 10 — Other Carrier Groups Either Like
+### Closing — Israel Iran Lebanon
 
 other carrier groups either like when the uh the one that went back that's now uh being maintenanced the one with the the laundry room fire when that went back it left some of its destroyers assigned to the carrier group still there. So the most prevalent one you hear we hear all the time is the Arley Burke class.
  The Arley Burke class is not a particular destroyer. It is a class of destroyer. There's the USS Peralta, there's USS Murphy, there's the USS Kber. So, we are using those in the Mediterranean and we're using them in the Gulf of Oman because a destroyer is offensive and defensive. Some destroyers are designed as anti-missile destroyers.

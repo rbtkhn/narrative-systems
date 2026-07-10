@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-17
 pub_date: 2026-06-17
 kind: cleaned-transcript
@@ -29,9 +30,19 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: paste-prefix
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 12 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 12 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (11 sections)."
 quality_note: "ASR normalization pass 2026-06-18; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 11
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Matthew Hoh: "CHANGE COURSE OR ELSE!" – Trump to Israel
 
@@ -42,7 +53,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Nuclear Weapon Trump
 
 the US. >> Hi everybody. Today's Wednesday, June 17, 2026, 2026, and our dear friend Matt Hoh is here with us. Welcome back, Matt. >> Hi, Nima. Good to see you. >> Matt, I I want to play a clip of CNN and because it seems that they got the document MOU from the diplomats in Europe.
  We had an interview yesterday on CNN in which the prime minister of Canada said he saw the document. It seems two pages is not that much. >> It's so vague and nobody uh but here is what was reported on CNN based on the you know they didn't mention all the points but here is what was reported >> and has obtained a copy of it. We've gotten a copy from a US official.
@@ -59,7 +70,7 @@ The guy is serious in my opinion to be the next president of the United or to be
  You're What do you make of it? >> Well, you know, if you want to start with the American domestic politics and with JD BS and I think this is going to be the GOP split. This is going to be the battle for the Republican presidential uh nomination for 2028. And um I think that you know if you're watching if you watch that press conference today I mean you just saw Marco Rubio standing behind Donald Trump glowering just unhappy to be there.
  Uh Rubio it's not like Rubio walking with a
 
-### Segment 2 — Smile All The Time But
+### Segment 2 — Trump Israel Iran
 
 smile all the time but I just felt that he had a look on his face where he just didn't want to be there. And so I think this is what the split's going to be. I mean you hear Vance and Ruby are the two top contenders to replace uh Donald Trump in 2028.
  Uh, and I think you're going to have this split between an America first campaign by JD Vance where JD Vance is backing uh this agreement, this deal. He is essentially supporting Donald Trump's legacy and you're going to have Marco Rubio who I think will leave the administration early. Maybe he'll even leave uh after the elections.
@@ -75,7 +86,7 @@ And you know, I think that's what he needs, uh, you know, for his legacy again. 
 I think comparing Rubio to JD Vance which is so important as you just done it and to my understanding Donald Trump prefers JD Vance over Rubio because Rubio was not part of his administration. He was somehow part of the Adolfson family's agenda in in the Trump administration. basically they pushed him into the Trump administration by the sort of leverage they have on Donald Trump and but JD Vance on the other hand he has he had the support from MAGA he had the support from the base those people who voted for Donald Trump and looking at what he's
 doing right now he's going to Megan Kelly and Megan Kelly is just you know how she has changed her her mind toward the war
 
-### Segment 3 — In The Middle East Right
+### Segment 3 — Trump Iran Israel
 
 in the Middle East, right? She's totally against what's going on in the Middle East and was criticizing Israel and so Jay Van somehow feels needs to bring all these people together.
  He said that on Megan Kelly's show Mark Levin from Mark Levin to Tucker Coulson all of them voted for Donald Trump to be the president. So I want to bring all of them together. But I don't see that happening if with the MOU that they're talking about these people are not going to be satisfied with the Trump adminism or like Mark Leven he's asking putting out I want to see what's going on >> and >> oh they're they're very upset.
@@ -91,7 +102,7 @@ stocks, uh they will be gone. You will be at tank bottom. Um and so um that's wh
  But were was anyone saying it would be this big of a defeat? Was it was anyone saying that the United States would be forced to make concessions like we're seeing? And again, we're not it hasn't been signed yet. Donald Trump today said, "If I don't like it, I just won't do it." You know, I mean, so there's all that we're we're still dealing with Donald Trump.
  But did anyone uh predict, for lack of a better word, that it would be this? >> The only one who predicted who said over and over, it's going to be huge. It's going to be huge. I can put all those videos together. Before the war started, it was Marandi. >> Okay. >> Professor Marandi from Iran. >> Really? >> He said
 
-### Segment 4 — That Because He Said I
+### Segment 4 — Trump Iran Ukraine
 
 that because he said I can put all the videos together more than 10 12 times. He said it's going to be huge.
 It's going to be different. Believe me, it doesn't matter if the United States is self-sufficient in oil and gas and whatever. They're But nobody actually I I didn't believe that that much. I I didn't thought that it's going to be that much influential because it's not just about oil and gas. It's about everything basically, >> right? I Yeah.
@@ -103,12 +114,14 @@ the bases in Kuwait and in Qatar and in Bahrain? I mean, that's certainly in the
 >> Yes. But what what what could it mean though? You mean why would why would they not have said like the United States will pull back its offensive forces, you know, or something to make it clear we're talking about the destroyers, you know, and the aircraft carrier and the um you know uh uh what does it all mean? Does it mean the fighter squadrons that were deployed from the United States or does it mean all the fighter squadrons including the ones that are permanently based in Jordan and or not permanently they
 rotate but that are based normally in Jordan and Saudi Arabia and Qatar and whatnot. uh you know, but it just makes me think that maybe Donald Trump actually does have a bigger vision here, you know, um than uh we were willing to give him uh any uh credit for. Uh we'll see. Uh at the same time too, we're dealing with the Americans here in this Trump administration and so, you know, you can't trust them any farther than you can throw them.
 
+### Segment 5 — Trump Ceasefire Economy
+
 >> Yeah. I think if we were to mention the factors most important factors in the system of you know decision you know when it comes to the the the Trump administration and their decisions we have to understand what are the main factors what are the most important factor you've mentioned one of them which is the economy which is the case of oil >> and how the oil reserves in the United States were used to balance the market during the war in the aftermath of, you know, during the ceasefire, war and then ceasefire. And I think the other point
 is how the Republican party is getting to the midterm election. You mentioned how the Zionists would may would play both sides, you know, right now going after or supporting Democrats instead of Republicans. But not only that, we have two more years of the Trump's presidency and the last year would be basically the presidential year.
 >> You know, everybody going to come out and make speeches talking about the next election. So they have one more year and what would be the policy on the part of the are they going to lose midterm election? Are they going to lose? Are they gonna is he gonna face some sort of impeachment in the United States because Democrats are so serious? I think about that.
 >> And yeah, I mean, if you look at Democratic leadership, all they do is talk about Donald Trump.
 
-### Segment 5 — I Went Through Senator Adam
+### Segment 6 — Israel Trump American
 
 I went through Senator Adam Schiff's timeline today, uh, you know, junior senator from California or formerly chairman of the House Intelligence Committee. Uh, you know, a big a big name, a big deal within the Democratic party.
  You go through his extimeline and it's just one post after another about Trump. I mean, there's nothing else on there. There's no commentary in anything else by this important American senator other than Trump. And I think that's what the how the Democrats will shape uh not just their election 26, not just the election 28, but if they do take the House and the or the Senate, which I don't think is possible, uh they will uh the entire thing will be about Donald Trump.
@@ -124,7 +137,7 @@ everything in I've been in with the case of Lebanon, they tried to attack. They 
  So here he comes out and says so the last attack going to be the absent file. Do you think if he do let's assume they do that they release the epsin file and there is a lot we know that there is many of these people in the administration were involved in those documents. >> So is that going to backfire on Israel or is that is that is that going to influence Donald Trump's position? How do you see that? >> I I don't think at this point I don't think it would influence Donald Trump.
  I think he would just say it's fake news. uh his supporters won't believe it. Um and I think maybe the calculation would be you get more play at this point with the American public for standing up to Israel uh than you will for getting uh you know uh uh uh
 
-### Segment 6 — Things Revealed About You Uh
+### Segment 7 — Israel Trump White House
 
 things revealed about you uh in the Esteeeen files which most Americans believe about you already.
  Um you know I I think the the Israelis also have a heck of a lot of blackmail of their own. Uh, you know, I think it was Joe Kent last week was talking about how the Israelis spy on everything, including on local law enforcement. And you know, the reason why they do that is because they want to pick up blackmail wherever they can.
@@ -141,7 +154,7 @@ is reporting has been done on this. The Greyzone um has published uh stories abo
  All these folks were so invested in uh the understanding of an Israel first policy for the United States. uh whether it's because of we've got a legalized system of bribery here in this legalized system of bribery here in this country or because they actually do believe they actually do believe that an Israel first policy is the best thing for the United States.
  There are many people who do do feel that way. And so we're going to see them in the next several months do everything they can to sabotage this deal or at least give Trump a very difficult political time. Uh including having his candidates uh not win election. Uh
 
-### Segment 7 — And Of Course We'll See
+### Segment 8 — Israel Iran Trump
 
 and of course we'll see what that sets up for 2028.
  And then you know that's what's happening here in the US. What is Israel itself going to do about it? Um, and you know, we'll have to, they've already said we're not pulling out of uh we're not pulling out of of Lebanon. Uh, you see the Israelis actually starting to tighten down and make things worse for the Palestinians.
@@ -158,7 +171,7 @@ Hard to believe, but yes, uh, they're actually punishing the Palestinians uh, fo
  Uh you know, and what does that then offer him then in terms of moving forward and trying to he does seem really enamored with this idea of being a president who brings about peace? uh you know certainly you know I mean is this idea of of getting rid of neoconservatives and bringing in American firsters would that then allow him to uh pursue more efforts like that whatever they would be in his crazy warped mind or imagination but you know here we are trying to get inside Donald Trump's head and of course that's right it's got to be a fool's errand
 >> Matt he his attitude his sort of argument or the way that he's talking about Israel is changing somehow. He attacked Benjamin Edno that
 
-### Segment 8 — You Everybody Hates You And
+### Segment 9 — Israel Trump Syria
 
 you everybody hates you and everybody hates Israel. If it wasn't because of me and nobody would, you know, it's all about the way that Donald Trump talks about Israel and as though without Donald Trump, Israel wouldn't exist, you know, the way that he's talking these days.
 But he reiterated the same sort of argument during his visit of Europe in G7. He was again and again saying without me you could have never seen Israel being survived. You know all of these sort of argument but he said something important. He said I want Israel to back down. I want Syria to get in. >> Right. >> What does that mean to you? I think that means he's been listening as well to the Qataris and the Saudis.
@@ -173,7 +186,7 @@ going to see a commitment of American troops troops into Israel that we've never
 I'm not so certain about that, right? You know, and I I think the White House is is is communicating uh that it's not so certain about that. And again, if we go back to the national security strategy uh from last fall, uh uh you know, the idea of the United States pulling out of the Middle East is something that was in that strategy.
 It's something that people like Vance or or or you know some of his of the deputies there at the State Department and others have advocated for. Um we'll see. I mean I I think the biggest shock to me Nema in this e Axio
 
-### Segment 9 — Story About Uh Ratcliffe Rushing
+### Segment 10 — Ukraine Russia Europe
 
 story about uh Ratcliffe rushing to the White House with this intelligence that says the Iranians can't be trusted or whatever.
 uh and then a delineation of who was supporting the deal, who wasn't supporting the deal within the White House was the fact that it had Kushner and Witkoff as supporting the deal. And you know, those two are are you know um very very they're Zionists and uh they've been viewed as the agents of Israel.
@@ -189,7 +202,7 @@ now trying to do just that in the House of Representatives. Uh a discharge petit
 Ukraine because he's fed up and he's tired with the Russians you know that you know I I think there that's a strategy of hope uh it's a complete uh uh negation or or or just completely ignores uh the escalation that has been continually incrementally uh growing in this war. Uh the rhetoric is dangerous. We see now feels like every week another drone or missile or uh unmanned boat or something ends up in somebody's airspace or on their land or blowing up in one of their ports.
  uh you I mean the dangers here uh combined again with the rhetoric particularly coming out of say like the Baltic countries you know is incredibly dangerous on the other side uh you have a Russian president who his pressure on all this is from those who feel this war should have been won already you know that that's that's the greatest political pressure on Vladimir Putin is
 
-### Segment 10 — From A You Know A
+### Closing — Russia Ukraine Economy
 
 from a you know a political uh class a media class as well as the public who are saying, "Why are we still fighting this war?" You know, I guess the refrain is, "Look, it only took us four years to
 beat the Nazis, and here we are now with the Ukrainians. We can't What's going on here?" Um, so, you know, and then of course, uh, you know, the Ukrainian strategy, uh, with their drone campaign, I mean, it's still early, uh, but it seems to me to be somewhat to be somewhat effective. uh you know certainly uh uh you know it depends upon who you listen to, who you talk to about uh how how uh uh uh real the damage is to Russia's uh refineries, to their export facilities, to their terminals, etc. Uh but you know, you continue that

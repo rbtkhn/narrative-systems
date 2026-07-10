@@ -1,4 +1,6 @@
 ---
+
+
 ingest_date: 2026-06-05
 pub_date: 2026-06-05
 transcript_type: ai_assisted_operator_pasted_youtube_transcript
@@ -25,9 +27,19 @@ dialogue_works_book_interrupt_trim_applied: true
 dialogue_works_close_substack_trim_applied: true
 opening_tier: host-tease
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 5 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Preserve as raw cleaned transcript; verify Lebanon, Israel, Iranian deterrence, nuclear, and escalation claims before promotion beyond analyst tier. Mid-intro Substack/book CTA trimmed in place; SSOT body otherwise preserved. Routine closing Substack/link promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 5 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Preserve as raw cleaned transcript; verify Lebanon, Israel, Iranian deterrence, nuclear, and escalation claims before promotion beyond analyst tier. Mid-intro Substack/book CTA trimmed in place; SSOT body otherwise preserved. Routine closing Substack/link promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-07-09 (9 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Alastair Crooke: IRAN'S TRIGGER WARNING: 'Withdraw from Lebanon... Any Violations and We Strike
 
@@ -40,7 +52,7 @@ transcript_curation: curated_sectioned
 
 ## Cleaned Transcript
 
-### Show Open — Introduction
+### Show Open — Israel Iran Hezbollah
 
 Hi everybody. Today's Friday, June 5th, 2026 and our dear friend Alistister Krook is here with us. Welcome back, Alistister. >> Thank you very much. That's very kind. >> And I want to start with what has happened between Israel and Lebanon. Israel announced that they're going to hit the city they call Dahi in the southern part of Beirut.
  and they announced that they have everyone should evacuate the city. Then we had the Iranian response announcing the same thing for the northern part of Israel. If Israel attacks Dah, they're going to attack. They're going to do the same in the northern part of Israel. When it comes to this sort of support from Iran to Hezbollah, from Hezbollah to Iran, many people would argue would want to know what is going on. >> [snorts] >> Uh well there was there has been a significant shift in Israeli thinking.
@@ -54,7 +66,7 @@ terms of the thousand-year Reich and that there was not a willingness to allow u
  The children are uh subject to target. The women are targeted because we go to the root of this problem which means the end of the Palestinians. um as a force that can ever ever be a threat uh to Israel. Now, just to be clear um because it's important to understand this quite well, there is quite a lot of push back within the military, the Israeli military.
  We follow the um Israeli um Hebrew press very quite closely and serious um Israelis are saying you know this is ridiculous. We are bogged down in seven wars uh for aims which are not clear. we do not have the resources for it and we are losing these wars and maybe it's time to go back to the Benorian doctrine that Israel has to stay within its borders but of course and this is current but of course really the what is happening is it is actually couched in that
 
-### Segment 2 — Way And Couched Saying The
+### Segment 2 — Hezbollah Lebanon Israel
 
 way and couched saying the danger was that This military doctrine of permanent security after 7th
 of October has become fused with a messianic view that we have to take all of this territory that is greater Israel because this will bring redemption closer at hand. And so what they are actually saying but not explicitly is saying we have to rethink the whole concept of Zionism. That's what it says when it says we've got to go back to Benorian and away from this messianic and from this permanent security concept is the we you know Israel cannot go along as it is.
@@ -70,7 +82,7 @@ Yes, it has many Hezbollah living there and it has he living there but it is jus
  Of course, they're not sitting there. Everyone knows knows the the threat. Um and indeed many people have evacuated. No, it is punishment. They want to punish um Hezbollah and they believe that if they punish civilians of Lebanon sufficiently that they will turn on Lebanon on Hisba. Um this has been an old refrain of Israel.
  You know, we just have to make it so
 
-### Segment 3 — Painful That They Will Drive
+### Segment 3 — Israel Iran Hezbollah
 
 painful that they will drive out all the terrorists and then everything will be fine. So this is this is the background. So this is what it was. Ah and you know Iran reemphasized something that was in the ceasefire agreement and in from the time of is Islamabad the Islamabad talks you know uh it it's a ceasefire for all or it's a ceasefire for no one.
  And so um Iran has said from the beginning it has to be a ceasefire of all the elements of resistance to Israel. Yemen um in Lebanon um even uh in in Gaza and the um in the green zone. So this was um proclaimed and Hezbollah said very clearly um Iran said very clearly in this all right um if you start attacking Dahi I mean already in Lebanon I think 3,000 people have died million have been made homeless by these constant attacks the idea for still in in in Lebanon in the south the the force es are there.
@@ -84,7 +96,7 @@ make a few little spots perhaps where his bull won't be present but we can't do 
  you know, there's a sort of suggestion that somehow uh you know um the she in the south the blowins that arrived there sort of rather late. I mean it it doesn't reflect history because the whole of that area um was in fact shei for many years and it was only subsequently became m partly Sunni in in certain in certain parts and people don't realize that actually it was from the south um of Lebanon uh that the Safavidit um structure state structure structure was constructed.
 They took the families um from the south, the learned families from the houses and from the institutions to construct the state, the Safavidit state in I think 1501. So you know I mean all of this about their little proxies. Well, if according to that to history, it's the
 
-### Segment 4 — Sapphavids That Became The Proxies
+### Segment 4 — Iran Israel Ceasefire
 
 Sapphavids that became the proxies of the Lebanese she if anything rather than the other way around.
  But my experience was I mean certainly when I was there saw it I mean I think particularly in the case of Hassan Lassra um Iran uh not only respected him hugely as a as a a statesman a a true statesman um but as a wise person and and so more often than not I think it was um Hassan Nasola um you know giving advice to Iran um rather than Iran telling him what to do.
@@ -98,7 +110,7 @@ uh you um go on killing and not observing the ceasefire in Lebanon. We will not 
  I mean it's not something that is a secret uh document. This is a a state document a religious document. uh and so the fatwar as far as I know would be still valid and the to change it you know there is a sort of sense in in many amongst many in the west that you you could change it just by going to the marginalist parliament and then there'll be a vote and they change it no this is a religious matter Iran has if you like in in in she Islam uh a doctrine of just war just as Christians have the Austinine doctrine of a just war so there is one
 in Islam and it is very clear on certain things about attacking can you attack uh innocents you're not even allowed to attack without forewarning I mean this was you know very clear from the prophet's time and many of these date back to to to that episode when he was in Mecca. Um so um it it would need not to be discussed in parliament but it would need to be
 
-### Segment 5 — Discussed Uh By Mushed That
+### Segment 5 — Russia Iran Nuclear Weapons
 
 discussed uh by mushed that is people that are qualified to change law or to interpret law in a juritical way.
  Um and so it would need to have a sort of to borrow the Afghan language but a sort of jurgger of mushit to come together and to discuss it and advanced arguments about whether it was appropriate. Unlike Sunni Islam, Shi Islam does have uh what they call it which does allow for changes in law.
@@ -113,7 +125,7 @@ They'll strike at America. they'll Israel will no longer exist. What will what w
 reaction? Where will that take us to? Will it take us to an agreement or will it take us away from any sort of I don't I actually I mean I better change my words because I don't think there is going to be an agreement between I don't think it's possible an agreement is possible between Iran and the United States.
  Um in in the present circumstances I think there are too many reasons why it won't it can't happen. Um and maybe it's uh it's okay if it doesn't happen and
 
-### Segment 6 — We'll You Know Uh We
+### Segment 6 — Iran Israel Pentagon
 
 we'll you know uh we have peace without peace but I mean you know maybe people can live with that will be better than the alternative of going to allout war to settle you know any any disagreement between uh Iran and and the United States.
  So um uh the the the the the sort of questions that I think we we have to look at very carefully because you know at the moment all the talk again yet again for I think the 12th time now is oh a deal's around the corner. Well, what deal? And you know, I is really um uh Trump ready to say yes, I accept, you know, homos under the control of Iran and Iran will charge certain types of fees for passage through sort of the the is that really the case because that's a huge thing.
@@ -128,7 +140,7 @@ it aim to achieve? I think those are the questions that have would have to be as
  What you what are we trying to do? Well, the and my final point is I I I just cannot see Iran going back into sort of a long negotiations of the JCPOA agreement. So I think uh you know the the effectively the other pillar to the sort of change of policy is to sort of give up on negotiations and to say you know that whole idea of going down to a negotiated nuclear settlement is is just not possible because it's not just a nuclear deal that you say oh well you know we'll do this or we do this.
  you know as well as I the Israelis will insist you know that there have to be you know unprepared visits they have to take place whenever they choose the most of the inspectors will belong to Mosad and the CIA and that they will go
 
-### Segment 7 — In Everywhere They Can And
+### Segment 7 — Israel Trump Iran
 
 in everywhere they can and what they will also do is identify all of Iran's scientists and technical experts just as they did in the previous one of insisting to interview the people who are working on Iranian nuclear project all of whom have been subsequently by coincidence assassinated.
 So I mean you know I I I find it quite difficult to see how Iran would go back down that route. >> Alistister when it comes to Israel I think two problems right now for Israel. One of them is the use of drones and rockets right now and they, as you've mentioned, they're taking casualties because of these drones.
@@ -144,7 +156,7 @@ real negotiations happening between the two sides. Nothing is happening. >> I do
  I mean at the moment it's just been the I think the the committee have just passed it and agreed it should go to the next stage. Of course, you know, it's not over yet, but I mean, these are extraordinary things that um seem to be taking place in in in in the US um which you know um will effectively change the whole question of sovereignty um American sovereignty.
  So you know yes I mean this is you know and are all of these things connected um you know this is a big question. So, you know, is it possible therefore in these sorts of circumstances for Iran or for Trump to find his off ramp or Iran to even think seriously um contemplate seriously that there you know some deal is possible that there is a deal that could
 
-### Segment 8 — Be Had Beyond You Know
+### Segment 8 — Trump Economy Europe
 
 be had beyond you know there could be one where you know simply both sides say okay you you know, you go on with or Moses as you choose and um Hezbollah will do what it wants and you
 know a sort of less a fair let everything be and we'll just you know pretend we haven't noticed. I mean that sort of [clears throat] outcome I think is quite likely but actually I'm not even sure we'll get there because I think the next thing which will change the whole pattern of this is when um when the west falls over the economic cliff and it's likely to start falling off the cliff this month.
@@ -159,7 +171,7 @@ balance the market. So how long can he continue with this same sort of attitude 
  Uh and heavy oil does certain things. Um and also there are all the other elements pass through hormones that are critical to supply lines. Technic things um helium and um fertilizers and things fertilizer prices is shooting up in in Europe. This is the planting season at the moment. you know you can still get things but you know in a month or two it may be very different.
  I mean it is a very serious situation that [clears throat] is growing. Um and uh is he capable of you know just turning around to um [clears throat] Galibbuff and saying let's look let's just call it quits and let's get out of
 
-### Segment 9 — This Finish No Deal I
+### Segment 9 — Russia Europe Iran
 
 this finish. No deal. I don't know. Yeah, I think I think that could be the point that would be the point at least on the part of Iranians.
  They don't see any sort of that's why he came out said everything is decided on the battlefield is not by negotiations because there is no negotiations happening and whoever comes out with some sort of deal or agreement the one wins who is prepared for the day after any sort of deal. This is prepared to fight back to >> to fight on the battlefield.

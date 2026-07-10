@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-09
 pub_date: 2026-06-08
 kind: cleaned-transcript
@@ -26,9 +27,19 @@ youtube_id: a2nQnLcTNuo
 source_note: "Operator-pasted transcript. verify:wire-supported DIA spying critical + Colby/Witkoff (NYT/NBC); Houthis Israeli-shipping ban 8 Jun (Straits Times); Pew 59% wrong war decision 62% disapprove Apr (Pew) — 67% overstated vs YouGov 68% quick-deal May29–Jun1; Section 224 NDAA family cited in-batch; verify:wire-partial Ehud Barak quote — not independently matched this pass; Josh Paul oversight resignation — directional 2024-era not re-pulled; FT Netanyahu headline — partial; verify:wire-out-of-scope Wilkerson Israel bet everything lost frame Hamas Kasm linkage Tom Cotton complement. · ASR pass 2026-06-15."
 evidence_grade: transcript-bearing
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 14 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 14 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (10 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Lawrence Wilkerson: Israel Bet Everything on War With Iran—and Lost
 
@@ -39,7 +50,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Israel Iran Palestinian
 
 Welcome back. We are joined again by Colonel Lawrence Wilkerson, the former chief of staff to the US Secretary of State. So uh thank you for coming back on. I uh wanted to ask you today about uh what's happening now with Israel, Iran, and the United States. We've seen something quite remarkable.
  I think that is the Iran has essentially extended its deterrence to Lebanon. it uh attacked Israel because it it had attacked the Lebanon. I mean this is I guess on some level quite extraordinary that is Israel didn't have to attack Iran directly and Israel appears to refuse to accept this extended deterrence but again it doesn't seem to get a vote so it can only go.
@@ -55,7 +66,7 @@ regulations that goes along with it which Israel is absolutely ignoring and has 
 So where are we in all of this? We're at the point where President Trump makes a statement that he never said he was a president who wouldn't start a war. Are you kidding me? I mean, your lies are many and and and replete with every issue you speak about, but this one, it's just baffling.
  And I don't think we have at the same time, I got to mention the domestic situation here in this country. We're headed for disaster, I think, with regard to the midterms. And I have no idea what he's going to do for that disaster. At the same time that Tom Cotton in the
 
-### Segment 2 — Senate And Others In The
+### Segment 2 — Russia Ukraine Europe
 
 Senate and others in the House, but principally Johnson, the speaker, are working on gluing us to Israel in a way that the cement once dry will never break and Israel will get most the advantage of it.
  You can't make this stuff up. I mean, it's it's incredible what we're doing. And and today, right before I went on with you, I said, I think I'll review my YouTube uh menu cuz I have this thing I've set up and I'm looking at it and I'm going down all the interviews of the last 24 hours with people like yourself, Doug McGregor, John Mirshimemer, uh Peter, uh uh Jeffrey Sachs, a host of others that I have listed and and look at.
@@ -73,7 +84,7 @@ And then what's going to happen is they're going to meet in Brussels and beat be
 They want the war over, blah blah. Yeah, maybe they want the war over, but they want it over on strictly Russian terms. and and they're holding him back in terms of his uh prudence, his circumspection, and his not his willingness to do whatever he can short of going directly to war with NATO.
  Even though I think in his mind sometimes he says things and Sergey Lar says things that make me think
 
-### Segment 3 — They've Had Meetings And They've
+### Segment 3 — Iran Trump Nuclear Weapon
 
 they've had meetings and they've said, "Well, you know, eventually we're going to have to go to war with NATO." Um, and I have no doubt in my mind that the Russian general staff is beavering away with plans for that from one end to the other, probably starting in Kenrad.
 But this is a very dangerous situation and we just don't seem to be cognizant of it. You look at our media here, Glenn, and you would think that Ukraine was a sideshow that one reports on maybe once a week or so and tells what a bastard Putin is. And that what's going on in Levant, although it has some huge ramifications because it looks like Trump's losing, but a lot of people in this country, I'd say probably 50 to 60% of people in this country who are censient don't mind that.
@@ -89,7 +100,7 @@ Nonetheless, I think he wants out. But they're caught. BB and he are caught. BB'
  They're freedom fighters in Ronald Reagan's view. One man's freedom fighters, another man's terrorists, I think he said. Um and I can make the same case for Hezbollah and I can make the same case for anyone fighting on Iran's side. They are allies of Iran and they're allied ultimately and this is a point we keep missing. This media and this country will not talk about it in a a lucid meaningful way.
  We're missing what MBS for other reasons than benevolence doesn't miss and others like him. The Palestinians. This is this is this is all about the Palestinians and a viable state and a way to get to that state for them. It's been about that for so long. It all boils down to that. And Iran is now the premier defender
 
-### Segment 4 — Of The Palestinians And So
+### Segment 4 — Israel Iran Palestinian
 
 of the Palestinians and so are its allies like Hezbollah and the Houthis.
 characterize the conflict properly so you can deal with it properly is a is a fundamental principle of Sunzu Bowwitz you name it but we refuse to characterize this conflict properly and therefore we make mistake after mistake after mistake there's my lecture >> well you mentioned I think yeah so resolving the Palestinian issue I think that is obviously at the core and If Israel would do a fundamental shift in its foreign policy that is abandon this clean break um strategy of uh simply dominating its neighborhood uh I think
@@ -107,7 +118,7 @@ by the time we got through it was over 100 grand. You know, everyone is taking a
  But I think a key possibly the most important issue where it's in decline will be its international standing and most importantly in the United States because this US supplies the money and the weapons to do these things and the intelligence for that matter. But uh but now we see as the support for Israel is declining uh there's an efforts now to essentially embed Israel um legally within the US military-industrial complex.
  Uh and uh this is with this new uh section 224. Uh I was wondering if you can unpack what this actually means. I mean what is it at stake with this? >> It's very dangerous. I think
 
-### Segment 5 — The First Thing It Does
+### Segment 5 — Israel Netanyahu White House
 
 the first thing it does and let me back up just a little bit and take it back to Donald Rumsfeld and Coen Powell. when Donald Roosevelt made a similar effort in a very narrow way to gain state department authorities that Congress had for years handed out to state and not to defense.
 Although defense was the spender of the revenue, state determined for what purpose into what country, if countries were involved, the revenue went. And when Rono went to Congress with Powell having pre-briefed our committees in the Congress, the Congress said, "Go home. Go back to the Pentagon.
@@ -124,7 +135,7 @@ call it DoD and the other security apparatus in America through DoD will be lock
  The same thing Charlie Kirk was assassinated for. It's it's a terrible development, but it's understandable from BB Netanyahu's point of view because he was losing it otherwise. Remember he started prepping the ground for this by saying we don't need it. theou anymore. We don't need the United States anymore.
  We've got our own complex. We can do whatever we need to do. This was his jargon.
 
-### Segment 6 — Well He Knew What He
+### Segment 6 — Israel American Gaza
 
 Well, he knew what he was doing underneath the covers. He knew this was going to be changed from anou renewable every 10 years and subject to oversight to something that was going on all the time with very little if any oversight. >> It's quite extraordinary that >> it is.
  the US is prepared to >> I doubt there's ever been a relationship in a modern state uh group. I mean NATO uh one one critic not not necessarily a critic of Israel but he was saying for me the other day army general he said we don't even have this with NATO bingo we don't we don't have it with anybody else in the world but everything will have a reaction then I mean if if the US is trapped legally in such a arrangement with the Israelis where they have this kind of access and no oversight It's uh it it might you know do the exact opposite. It would further
@@ -140,7 +151,7 @@ I mean, that's just a reality, I think. And yet we can't seem to back away from 
 Maybe Israel was somewhat of a strategic asset. Um I even had my doubts then though because of what the joint staff report said about basically 400 million Arabs and whatever number of Jews there were at that time. It doesn't compute. It really showed a hangover, British hatred, disgust, whatever you want to call it for the Arabs. That's what it showed.
  Um, and the fact that, as Mosher Diane said after the ' 67 war, apocryphal
 
-### Segment 7 — Or Not It Was Like
+### Segment 7 — Iran Israel Hormuz
 
 or not, it was like Mosha Diane when someone asked him, "How did you win that war so fast?" He said, "Well, it helps to be fighting Arabs." that kind of disdain has been there um and is still there. So if you look at it really closely now though and you think about what the United States ought to be doing in this time of postcold war upheaval and a shift of power from the west to the east that's dramatic.
 It's very difficult to justify us even being in southwest Asia in my view. very difficult to justify as Iran has shown with its control over the straight of Hormuz and our inability to really contest that control. That's the real orbiter of that straight that Jimmy Carter in 1978 said was absolutely essential to US national security.
@@ -156,7 +167,7 @@ Um what we're looking at in many respects and that's why I say this is curiously
  Um and I included in that a couple of few words. I included in that the sea of Okas of the straight of Hormuz, the straight of Malaka, the Red Sea, Babel Mandeb, of course, the Suez Canal, the Panama Canal, and others. And as I was doing this, I let a couple of papers come off for military consumption and postulated as to how these waterways, such as they were, were going to be used one day to teach the world a lesson.
 And predominantly what was taken out of that for wargaming and other things was that we could get into the straits
 
-### Segment 8 — Of Malaa Where At That
+### Segment 8 — Russia Europe Israel
 
 of Malaa where at that time 65% I think of the traffic flowed through the straight of Malaa in order to get to China or points east and we did some computations on how much it would cost to go around and found out they weren't all that expensive trips and that maybe the straight of Malaka was not quite as essential as it seemed.
 It was just very convenient. It shaved a little money off and such. But some of the others were dramatic and we postulated how we were going to put I know you won't believe this. Marine Corps actually has adapt adapted some of this adopted some of it adapted and adopted. We were going to put small units on these critical land masses.
@@ -173,7 +184,7 @@ And you say, well, space based weapons can hit pip pipelines, too. Well, that's 
 strange to do this as the world becomes multipolar because the Russians and others can now begin to retaliate. They they can also put sanctions on Western ships. They can also begin to board them. So undermining the freedom of navigation now seems a bit destructive especially as uh the Eurasian powers have uh land corridors while the westerns do not.
  So I think this is a very yeah for a foolish development >> very and all it takes for that to evolve into say uh the slave trade across the Atlantic and what that bred in terms of piracy uh that's all it takes. We'll have rogue fleets out there flying the high seas picking off whatever targets they can pick
 
-### Segment 9 — Off Because There'll Be No
+### Segment 9 — Russia Ukraine Europe
 
 off because there'll be no one to stop them.
 >> It's going to be very difficult to put together everything that's being broken at the moment. I think this is one of the flaws >> as you animated it. It'll be a huge change in the pathways of global commerce because people won't want to ship globally. They won't want to do things globally.
@@ -190,7 +201,7 @@ I got my map spread out here. It It needs a 20 by 30 room to be spread out. And 
  And with this of course we this was the source of our 500 years of dominance. while speaking on behalf of the political west >> and also put together the economic structure at least 50% of it that saved Britain's possession but they lost it the slave trade >> yeah but now with the reconnection or redeveloping the ancient silk road with this uh not not not just with the fiscal corridors by you know railroad uh ports but also you know have the digital silk road and connecting with uh this industrial core corporation, technological hubs, uh trading through
 banks, uh payment systems, national currencies. It's really it's all that's all and rupee. >> Yeah. >> The Indian currency. What's the Russian currency? I just lost it
 
-### Segment 10 — In My Head Rubles Rubles
+### Closing — Israel Trump Iran
 
 in my head. >> Rubles. >> Rubles. >> Yeah. >> Rubles. Rupes. And yuan remi. Keep it all ours. make it illiterative. It's rupees, rubles and raimi.
 >> Well, uh let me just ask a last question before I forget because uh the Iranian push back and uh again not seeding the waters to the United States. Uh which is a huge development one one could add. Do you see the Iranians more prepared now to also attack the US ships directly? Because so far it appears they're going more heavily after Israel and the Gulf States.

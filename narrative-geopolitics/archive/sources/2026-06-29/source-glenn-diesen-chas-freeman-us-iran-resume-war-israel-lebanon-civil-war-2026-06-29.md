@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-29
 pub_date: 2026-06-29
 kind: cleaned-transcript
@@ -30,10 +31,20 @@ opening_tier: host-tease
 capture_note: Operator paste; full interview body preserved from user-supplied YouTube transcript.
 transcript_wrapper_tier: clean
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (freeman, diesen, channel:glenn-diesen)); 22 substitutions; not human-verified verbatim; verify before quotation. · manual ASR spot-fix 2026-06-29; pass-2 Lebanon/Syria/residual. · source-section pass 2026-06-29 (11 sections). · interview speaker-label pass 2026-06-29 (25 turns; Glenn/Chas >> markers) · source-section pass 2026-06-29 (11 sections; MOU/Hormuz/Lebanon/Syria-Turkey/Ukraine/Israel arc) · source-section pass 2026-06-29 (13 sections). · source-section pass 2026-06-29 (13 sections; split policy-vacuum close; MOU/Hormuz/Lebanon/Syria-Turkey/Ukraine/Israel arc)"
+editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (freeman, diesen, channel:glenn-diesen)); 22 substitutions; not human-verified verbatim; verify before quotation. · manual ASR spot-fix 2026-06-29; pass-2 Lebanon/Syria/residual. · interview speaker-label pass 2026-06-29 (25 turns; Glenn/Chas >> markers) · source-section pass 2026-06-29 (13 sections; split policy-vacuum close; MOU/Hormuz/Lebanon/Syria-Turkey/Ukraine/Israel arc)"
 manual_asr_spot_fix: 2026-06-29 — Hormuz/Huos/harmons, Marshal Pétain, Hezbollah, Grotius/Sykes-Picot, al-Sharaa/Öcalan, Bennett, Khamenei/Sayyid, Zelensky, Kiev-adjacent Ukraine refs; MBS Borowitz gag; Müah→MBS · pass-2: Zionist settlers (line-break), Hzbollah, Syria/Turkey/Kurds, Lebanon civil-war, MAGA, rein/cede, colossus strode, contempt of court, Crete sign-off, residual dupes
 quality_note: "ASR normalization pass 2026-06-29; ph-civ replacement SSOT."
-transcript_curation: curated_sectioned
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: preserved_unsectioned
+section_count: 0
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Chas Freeman: U.S. & Iran Resume War; Israel Attempts to Instigate Civil War in Lebanon
 
@@ -42,8 +53,6 @@ transcript_curation: curated_sectioned
 **URL:** https://www.youtube.com/watch?v=HowLQM4LUGw
 
 ## Transcript
-
-### Show Open — MOU Misunderstanding And Strikes Resume
 
 **Chas Freeman:** Welcome back. We have the great privilege of being joined today by Ambassador Chas Freeman, one of the great American diplomats who also served as the US assistant secretary of defense. So, thank you for coming back on the program.
 
@@ -55,8 +64,6 @@ transcript_curation: curated_sectioned
 
 Well, I think uh it should be called the memorandum of misunderstanding because it's very clear that there is no understanding underneath it. And um Donald Trump either has forgotten what's in it. I mean, he did sign it uh or he didn't understand it to begin with or he's simply doing what he usually does, which is renegotiating what he is apparently agreed to.
 
-### Hormuz Control — MOU Violations And Gulf Retaliation
-
 **Glenn Diesen:** So we see all sorts of new terms being added by the United States and the United States basically continuing to contest the outcome of the war which is the establishment of Iranian control of the Strait of Hormuz. The memorandum of understanding says that uh ships will be permitted out of the Strait under arrangements managed by Iran. Um and Iran will not charge tolls for 60 days until August 21. Uh that's in the agreement along with right up front uh this uh agreement depends on the elimination of the war in Lebanon and the withdrawal of the Israelis and a ceasefire.
 
 So every single uh uh element of this uh the basic premises on which uh the uh Iranians were to open the Strait uh has been violated by um either Israel or the United States or both.
@@ -65,15 +72,11 @@ Um, so we what we've seen in the Strait of Hormuz is an effort to to pretend tha
 
 So um we're basically seeing uh an illustration that this so-called memorandum of understanding which is basically an agreement to seek agreement not uh itself an agreement of any sort uh is um is not in effect. uh tit for tat uh um retaliatory process is in progress. Um the survival of the MOU is in doubt. Um
 
-### Lebanon Deal — Pétain Parallel And Regional Chaos
-
 **Glenn Diesen:** Israel has successfully defied uh the uh American agreement with Iran. um the Lebanese government uh this Lebanese government which has now acknowledged Israel's right to be in southern Lebanon uh and agreed to that Israel that Israel will withdraw in accordance with Israel's own judgments on a gradual basis and that Israel and Lebanese government Lebanese army will cooperate in smashing Hezbollah which is the only effective resistance to Israel this government is going to be be remembered with all the affection that the French bestow on Marshal Pétain.
 
 Um so um I think um what we're seeing is um uh I'm not sure you can call it unraveling because I'm not sure there was anything knitted together in the beginning. Um uh but uh certainly uh what is happening is um a return to u chaos rather than order uh in these in the whole of West Asia. I haven't even talked about Syria which Israel has also been bombing. Um and um uh Gaza of course continues to be subjected to genocidal squeeze and uh the West Bank is in the grip of pogroms and expulsion orders. Ethnic cleansing. Um so ethnic cleansing is going on in southern Lebanon.
 
 Um basically the Lebanese government which is hostile to the Shia population majority in Lebanon is engaging in is cooperating in ethnic cleansing in southern Lebanon. uh and uh we're seeing everywhere the drama of uh 78 years of Israeli dedication to the greater Israel project and expansionism uh to borders beyond whatever de facto borders exist. Israel has no no agreed borders or frontiers. Uh so this is quite a mess. And um
-
-### Rubio Gulf Tour — Grotius And Strait Precedent
 
 **Glenn Diesen:** I I should add that um the um reason that Donald Trump um fantasizes about the MOU containing provisions which it doesn't or tries to add them and is served by Secretary of State Rubio uh who basically um went to the Gulf to um affirm Donald Trump's fantasies about the Strait of Hormuz with a um mostly cooperative GCC not entirely mainly with Bahrain Kuwait um and the UAE although I gather that there were representatives of Saudi Arabia and Qatar present for the meetings I don't think there was an Omani presence um you know and basically uh this is a classic um effort to renegotiate what has been established on the battlefield and at the negotiating table and it's not working.
 
@@ -84,8 +87,6 @@ Uh and Iran has established such a norm. uh potentially in the Strait of Hormuz 
 So the freedom of navigation which is enshrined by the way in early Islamic law as well as by Hugo Grotius the great Dutch uh legal scholar who wrote uh Mare Liberum the the freedom of the seas um when it's 1619 or so um you know all this is collapsing so um uh quite a mess
 
 **Chas Freeman:** yeah that's a good way of defining it.
-
-### Attrition Frame — Forever War And Agreement Incapable
 
 **Chas Freeman:** But I think most people realize that the MOU wouldn't be necessarily followed. That is uh Trump expressed his need to get the oil out and he agreed to terms which uh seemed very unlikely he was going to fulfill. Indeed, he was contesting uh these points even as it was put down on paper and so I guess ignoring the rest was predictable. But so how how do you uh understand then the resumption of attacks on each other?
 
@@ -105,8 +106,6 @@ Um he's I don't know if you've saw that but Andy Borowitz who is a comic genius 
 
 Uh the American word doesn't count for anything. the signature of Donald Trump, ornate as it is, with a Sharpie pen, heavy duty ink, um is uh might as well be invisible ink. Um so this is uh for for me as an American, I find this deeply disturbing. Um and um we have succeeded with the Israelis in trashing international law, in destroying the basic trust in our uh diplomacy that is essential to advance our interests. Uh we have destabilized situations everywhere. And in the middle of this,
 
-### Ukraine Pivot — British Strikes And European Talk
-
 **Glenn Diesen:** Donald Trump, having been frustrated uh in his pursuit of a notable victory in West Asia, seems to be pivoting back to Ukraine. Um and I think that issue is becoming very very dangerous uh with um European countries um now deprived of American um uh supplies of weaponry developing their own means of assisting Ukraine to conduct long range strikes into Russia on the assumption which I think is going to be proven wrong that they have immunity from retaliation.
 
 I think particularly the British who've been boasting about their development of new weaponry for Ukraine that does not have American components and therefore is independent of Donald Trump in the United States but will enable Ukraine to strike again deeper into Russia. I think uh you know they're going to have a mafia moment. You know nice factory you have here. Too bad if something happened to it. I suspect sabotage is the first step. I don't think we'll see a Russian missile strike on that factory, but who knows? Um I think at this point, um NATO is in sufficient disarray that Article 5 is not a very credible deterrent.
@@ -121,8 +120,6 @@ So of course it wouldn't be impossible for Russia to do something like this uh w
 
 Indeed, the the hawks in Tehran, the reason why they opposed this memorandum of understanding was because they quite sensibly, I would say, uh predicted that it wouldn't be implemented on the US side. And indeed it you don't really need a crystal ball or because uh or you know phone call to Nostradamus you know if he was still around but you he's you know the Trump was already contesting the idea that you know there would be any money transferred to Iran even as the memorandum was being signed. So you know why why would they trust this? Um however
 
-### Forever War Definition — Attrition Forces And Drone Twist
-
 **Chas Freeman:** well there's no there is no trust in any of these dynamics. Um let me make a few comments if I may. Um uh first uh I don't think forever wars are a strategy. I think they are an inadvertent result of the lack of strategy. That is there are no clear objectives. Those objectives that are stated are not feasible. Uh they are fantasy objectives. um uh they are the objectives um are contained in a kaleidoscope which shifts with every moment that that it turns. Um uh the so the there's no priority set in them. Therefore the goalposts are moved during the war.
 
 Uh you can always find an excuse for continuing the war. uh there's no war termination strategy because there are no clear objectives uh and no benchmarks for measuring progress and so you've got a forever war and it goes on and on and on and it doesn't end. Uh and so you have the classic recent example is of course Afghanistan where no one could ever explain why we were there um after the initial punitive raid on uh the Taliban as the hosts of al-Qaeda. So uh forget you know we've all forgotten that he went to war for women's education or something.
@@ -136,8 +133,6 @@ Um maybe North Korean now as well. I don't know. Anyway, um the u uh the Ukraini
 Um and uh of course Marco Rubio's visit to the Gulf notwithstanding um basically uh in an effort to redefine the MOU to conform to Donald Trump's fantasies about it. Um this uh this does not halt the ongoing discussion between the Gulf Arabs and Iran about the post um American blockade future of the Strait of Hormuz. which is going to remain under Iranian control. Um there's no way to dislodge it. So um one other thing about forever wars is that they turn out to be pointless and that's pretty much the case here.
 
 **Glenn Diesen:** No. Well, yeah. All of these wars are very much uh entangled with each other. So it's very hard to Yeah. discuss one without touching on the other. Uh
-
-### Syria Turkey — Iraq Oil Route And Lebanon Document
 
 **Glenn Diesen:** I I I did want to switch a bit though to the Israeli component here because uh as you as you said before they're also very heavily involved in Syria and I thought this is an interesting development that is uh before Iran was a key backer of Syria which you know made made that that shaped obviously Israel's foreign policy. Now that Iran is out of Syria to a large extent, uh the the new enemy of Israel appears to be Turkey and the rhetoric there is also becoming increasingly aggressive towards Turkey. I think Naftali Bennett well he spearheaded some of the more hawkish or most hawkish rhetoric. Uh how do you see this developing?
 
@@ -159,8 +154,6 @@ Uh this is the first time that has happened since the George HW Bush administrat
 
 Um, and I think we have here an Israeli assumption that the basis of Zionist support in the United States will be sufficient to prevent Donald Trump from actually carrying out his threats um to rein in Israel and we'll see what that what what happens there.
 
-### Oil Inventories — Switzerland Talks And US-Israel Split
-
 **Chas Freeman:** One other point and uh which is very relevant is not only is the traffic through the Strait of Hormuz disrupted but there was supposed to be a negotiating meeting in Switzerland today between the Americans and the Iranians. I don't think that happened.
 
 I don't know whether you have other news, but I think uh Iran is maybe back to saying American violations of the MOU uh mean that there can be no discussions based on the MOU and um if that's the case then we're seeing the compounding of a problem that's going to exist anyway even if there are negotiations and the MOU is somehow its sanctity is somehow restored and that is uh the United States is running out of stored oil and the world is running out of stored oil and there is a gap between the emergence of supplies from the Strait of Hormuz under the most optimistic assumptions uh and the supply of oil at refineries and throughout the world with the result that uh all of the dire predictions about major uh price increases for oil u the collapse of crop u production due to fertilizer shortages and other uh other other u um consequences of the cutoff of the Strait of Hormuz traffic are all about to hit us pretty quickly.
@@ -168,8 +161,6 @@ I don't know whether you have other news, but I think uh Iran is maybe back to s
 Um and this before the midterms in the United States which Donald Trump is fixated on he's making a big effort to use his oversight of the US Postal Service to deprive American voters of the right to use mail-in ballots. um having created a myth that there's some sort of major fraud associated with mail in ballots for which there's no evidence but that is a matter of faith now for many of the followers of Donald Trump in the MAGA movement so he's under huge pressure from his donors uh from his base uh from international society um from the Russians and Ukrainians in their interaction and from Iran and from the Gulf Arabs and from Israel and uh one doesn't one cannot envy his position at all.
 
 On the other hand, he put himself in that position. No one else did.
-
-### Israel Attrition — Multi-Front War And ICC Lawfare
 
 **Chas Freeman:** You would think that with all the domestic problems, the Middle East on fire, the resumption of war with Iran that uh perhaps this would not be the best time for the US to deepen its involvement in the proxy war against Russia. But yeah, apparently uh yeah, that's a decision also being taken. Uh I about Israel and I agree with your assessment. I think what they did in Lebanon was quite clever. That's not a normative statement, but uh only in terms of uh essentially outsourcing the destruction of Lebanon. Why why put this, you know, at the shoulders of the Israeli army? Why not instigate a civil war?
 
@@ -197,8 +188,6 @@ And I note in that regard that Khamenei, identified now as Sayyid meaning uh a g
 
 Um uh so um you know where does Israel go from here at the moment? You would have to, you know, for you were asked to write a life insurance policy on the place, you wouldn't do it. Um because all the indications are that it's, you know, in the process of doing itself in suicide, not um not uh is not being done in by others. It's being done in by its own um malicious um sadistic actions.
 
-### Policy Vacuum — Escalation Illusion And Washington Paralysis
-
 **Glenn Diesen:** I I'm worried about the the escalation of the chaos here because I keep making the point that it's the illusion of escalation control that we can somehow manage this chaos, this conflict with the Russians, with the Iranians that this is we can we can keep the peace. We can escalate at will and we can deescalate if necessary. I think this is what's going to invite disaster because this is going to be proven wrong. And I saw in the New York Post uh well they cited the Iranian media linked to the IRGC.
 
 I didn't check with the original media but it mentioned that uh that those Iranian media outlets were arguing that you know we would need a nuclear weapon now. This is uh you know we would that the Americans aren't going to accept they're not going to accept any peace all of this diplomacy.
@@ -209,8 +198,6 @@ Washington has been the global hegemon which held everything together which stab
 
 Uh so the prospect that uh u wise or clever policy even clever in the sense that the Israelis are clever in Lebanon. devious policy. Um that something like that will will rectify the mess is not good at all and um that should be of grave concern to all of us and I suspect that it will have a major impact in the midterm elections in the United States. Um but um the idea that elections can curb Donald Trump's whimsies has yet to be proven and we shall see.
 
-### Predictable Catastrophe — Iran Russia Hawks And Putin Restraint
-
 **Chas Freeman:** Yeah, just uh it seems that all the conflicts we're heading into now, they're so predictable. You know, we all learned in school how uh we sleepwalked into World War I, but this it seems like the path is charted quite clearly. Again, those Iranian media outlets, the hawks in Iran were just saying there is no diplomacy to be made with the West. They're not they haven't won this. Well, they haven't made the argument been able to transition from the argument to the policy. But you obviously see that they have wind in their sail. They're the ones being proven right.
 
 And I also get the impression the same from Russia where you see some Kremlin hawks arguing that why are we even talking to the Americans? This is pointless. Why are we talking trying to talk to the Europeans? So they're essentially saying, you know, let's kill Zelensky. Let's carpet bomb the government district of Kiev. Let's if they let's use a tactical nuclear weapon or two against some of the Europeans. I mean, it's again, it's uh they haven't won it over yet. They haven't won Putin over in terms of making this putting turning this into action.
@@ -218,8 +205,6 @@ And I also get the impression the same from Russia where you see some Kremlin ha
 But I'm I'm not sure anymore what Putin's restraint is. I think that this is uh is it uh absurd or are they building up an atomic uh uh stockpile to in preparation of a conflict which seems unavoidable? I I no I is this just is there anything I guess as a last question something that gives you source of optimism that there there might be some course correction because I don't see any of these main issues being discussed in the media at all. It's just uh how good we are, how bad everyone else is. And uh you know, we just have to defeat everyone. That's all or nothing.
 
 That's essentially the solution.
-
-### Strategic Absence — Forever War Reinforcement And Close
 
 **Chas Freeman:** No, I think um a rational examination of the record would demonstrate that um the exclusive use of force, military means to achieve uh objectives uh is counterproductive. uh and with specific reference to the nuclear issue. Um basically Iran agreed that for 60 days it would not um um not detonate a device. I mean that's the way I read that part of the MOU. Um it didn't say anything about what happens after 60 days.
 

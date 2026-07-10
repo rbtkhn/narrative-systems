@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-15
 pub_date: 2026-06-15
 kind: cleaned-transcript
@@ -28,9 +29,19 @@ evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: paste-prefix
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 0 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 0 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (10 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Larry Johnson: Israel's Sabotage Backfires – Trump's Last Move ENDS Israel's Agenda
 
@@ -41,7 +52,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Lebanon Iran Hezbollah
 
 Hi everybody. Today's Monday, June 15, 2026, and our dear friend Larry Johnson is here with us. Welcome back. >> I'm putting in for a raise, man. You've been working me like a field meal, you know, beating me and show up here. Show up there. Okay. [laughter] Actually, it was fun fun having the chat with uh Professor Marandi >> and uh you know, I didn't have my shirt on, so he he gave me a hard time.
  Yeah, >> Larry, let's start with the new statement on the part of Hezbollah in Lebanon because last night when we were talking, many people were arguing what what was the main reason that Iran has decided not to retaliate against, you know, Israeli attack on Lebanon. And as professor Marandi last night said that there is some sort of concession in this new tax between Iran and the United States that may benefit Lebanon in a long run.
@@ -57,7 +68,7 @@ He says the complete liberation of Lebanese territory, return of Lebanese prison
  This is the understanding on the part of Hezbollah Larry and I think there is a good coordination between Iran and Lebanon in terms of understanding what what's at stake right now and what would be the future and what are the challenges considering the occupation of Lebanon, Israeli occupation of Lebanon. [clears throat] >> Go ahead and your understanding of the position of Hezbollah.
 Well, look, um, think of it this way. When the Lebanese
 
-### Segment 2 — Civil War Started Years Ago
+### Segment 2 — Iran Israel Lebanon
 
 civil war started 51 years ago, [clears throat and cough] um, you know, the people who were the the the, you know, the young activists in that war, they're 75, 80 years old now. Okay? So, they're really old people if they survived. Uh and that means that people who are 55 years of age and younger really they have no memory of that.
  All they've known is civil war. That that's all they've known. uh the invasion of southern Lebanon uh in 1982 which you know initially the Shia welcomed the Israelis I'm told and then the Israelis being the Israelis certainly you know quickly wore out their welcome but the situation that has changed is during the 1970s um into the early let's say the 1980s uh Lebanon was very much a pawn.
@@ -72,7 +83,7 @@ But uh I suspect that they won't do that because the there's not political suppo
  Let's compare them side by side because we're hearing different things from the United States side as you mentioned u JD Vance is saying something completely different than what the Iranian version says and it where there you know that Iran you know US says Iran can't charge tolls Iran says hell yes we're charging tolls they just don't use the word toll immediately um this withdrawal out of Lebanon immediate permanent uh from from the Iranian standpoint, that's what their document says.
  No sign. The United States is enforcing that $12 billion upfront. And the United States, oh, hell, no, no, no. They don't get that upfront. Uh uh immediate sanction
 
-### Segment 3 — Relief No No No No
+### Segment 3 — Iran Lebanon Israel
 
 relief. No, no, no, no, no. There's not immediate. There's got to be So, I said this is the two sides are just sort of engaged in self-d delusion.
 They think they they're telling themselves what they want to hear instead of stepping back and say, "Okay, what does it actually say and what's the other side actually doing?" >> Yeah, we've learned from both sides, Jay Vance today and the Iran's foreign ministry spokesman, he is he said the same thing that they're going to release the document on Friday as they sign it.
@@ -88,7 +99,7 @@ They they got to be on their way out before then. Um, you know, the Iran, you kn
 >> What did he say? >> Well, he said >> so he said the release of Iran's frozen assets compensation for war damages are two key priorities. Of course they are. And and that the United States is committed to implementing them. Excuse me, but [ __ ] that. what's the date when specific that by Friday the United States is going to lift sanctions but they don't do that so you know it says it goes on to say Iran considers access to assets a legal right continues to firmly demand compensation for this unlawful war demand all you want put it in the
 specifics [snorts] that Iran is submitting a bill for say 300 00 billion dollar and the United States agrees that that will be funded and paid.
 
-### Segment 4 — You Don't Get That Uh
+### Segment 4 — Iran Israel Nuclear Weapons
 
 You don't get that uh you know under this memor the United States is obliged. How are they obliged? They're not obliged. They don't have a gun to their head yet. This says to lift all primary and secondary sanctions over, you know, it's like for God's sake.
 I mean, the is the Iranian delegation really this damn naive. Oh, the United States promised they're obliged. They're not obliged by anything. They have no obligation. There's not a legal obligation. you don't have their troops trapped where they're saying, "Okay, yeah, we'll let our troops go and we'll give you these things.
@@ -103,7 +114,7 @@ obligated to do that or it's committed to do this. Okay. How how are they obliga
 And the United States is saying, "Hell no, they're not getting they're not getting $12 billion. They they can go pound sand." That's not going to happen. So, that's still being worked out. That's why I said this this I I think this thing will be derailed by Friday. >> Could be.
  Could be. Israel is just doing everything just moments ago he said that they have never experienced such pressure international pressure on Israel basically on Benjamin Nadna. This is a new level of pressure on Israelis and JD Vance in the interview said that Israel has to come to the table. It means that I don't know how serious is that.
 
-### Segment 5 — Let's See What Would Happen
+### Segment 5 — Israel Iran Trump
 
 Let's see what would happen.
  I think JD Vance his record is not positive. Look at >> what JD Vance said so far. >> Yeah. I just But look, Donald Trump does hold the power over Israel if he is willing to use it. And the question, the big issue is is he willing to use it. Israel depends right now on US air refuelers in order to carry out strikes on Iran.
@@ -119,7 +130,7 @@ And the other point in in what JD Vance said that I think there are elements he 
  They they've got barnacle buildup. They're they're they're not ready to go back to sea. They're going to have to be serviced. What is that? 200 I've heard as high as a thousand ships and some say there just 200, but it it's a it's a large number of ships that are going to have to get serviced before they can even begin to go out back to sea.
  Uh then the damage I don't think we've got a good accurate assessment of the damage to uh the oil wells. How much can actually be pumped? How much can actually be put on board ships? Uh and then once you get it on the ship, you're looking at anywhere from I guess the soonest it
 
-### Segment 6 — Can Get To A Location
+### Segment 6 — Iran Israel Lebanon
 
 can get to a location might be a month and in other cases it could be two to three months.
 those ships will be at sea heading for their destination. So the these all this euphoria about, oh boy, you know, the economy is going to turn around like Trump says. It's not. I reality is going to hit at some point. They they keep pretending like, oh yeah, this is oh the oh the the the relief, the oil shortage is gone. No, it's not.
@@ -135,7 +146,7 @@ else do they want from Iran in terms of commitments >> yeah no well that's why I
  When now immediately upfront 60 days from now 90 days from now. Yeah. This is where the you're going to do this kind of agreement. Spell this stuff out specifically who does what and when do they do it and and you get a clear benchmark. So um you know the United States says okay we want uh you know we want you to sign this on Friday.
  And Iran should say great let's see that 12 billion now now. not promise us, oh, we'll get we'll
 
-### Segment 7 — Get It To You Sometime
+### Segment 7 — Iran Israel Trump
 
 get it to you sometime after they signed the agreement on Friday. No, no, no. That that's not how this works. You know, you've now got to put money in upfront. And I think supposedly that was what uh Iran gained some concessions on that front yesterday when after the Israeli attack on Dia, uh Iran was going to pull the plug on the negotiations.
 The United States basically bribed him to stay on. Okay. specifically what how much money when is the released etc and that that we don't know today said that Israel will continue to act with every tool in its at its disposal to overthrow the murderous regime in Iran. Do you think that the United States is still there with the with Israel in terms of regime change or the United States has changed its mind about the regime change because of the outcome of the war? >> Well, it it doesn't matter what what the US mentality is whether they change
@@ -149,7 +160,7 @@ But the Israelis have managed to turn the tables because even though Israel is d
  The Iranians are saying that they're going to have access to a $300 billion reconstruction fund. True or false? >> Well, Ed, that that's the sort of thing they could have access to funded by the Gulf Coast coalition so long as they honor their end of the obligation. I think that one of the things you're going to see, Ed, and and people have to be skeptical of this, is that the hardliners in the Iranian system will overemphasize the benefits that Iran gets while underemphasizing all the things that they have to concede and all
 the things they have to provide in order to get these benefits. So we absolutely are open to the Gulf Coast countries investing in the reconstruction of Iran, but only if Iran ends their nuclear program, ends their enriched stockpile of material, and is really open to an inspections and enforcement regime that gives the American people confidence they're never going to have a nuclear weapon.
 
-### Segment 8 — So I I Think I
+### Segment 8 — Iran Nuclear Weapon American
 
 So, I I think I think the dance you're going to see, Ed, which is going to be interesting, is the Iranian media, especially the hardline media, they're going to talk a lot about what they get without talking about what they give. It's important for all of us to correct that record. >> Yeah. Here is what JD Vance said. What do you make of it? I said this is the the US is going to portray this as an agreement that ends Iran's nuclear program and Iran has not agreed to do that.
  Iran has agreed that it's not going to build a nuclear weapon or uh previously agreed that they would not build a nuclear weapon but there you know Pakistani sources are telling Pepesco army that uh the the Iran's prepared to issue this ultimatum to produce a nuclear weapon now just to force the issue with the United States. So I, you know, I fully believe what the Pakistanis are saying that they believe it's true.
@@ -163,7 +174,7 @@ And the reason I say this because I don't know how come all of a sudden we see g
 >> And here is what JD Van said about GCC countries investing in Iran's economy. And I think our here is what he said. >> Are open to the Gulf Coast countries investing in the reconstruction of Iran, but only if Iran ends their nuclear program, ends their enriched stockpile of material and is really open to an inspections and enforcement regime that gives the American people confidence they're never going to have a nuclear weapon.
  So I I think I think the dance you're going to see, Ed, which is >> Yeah. So trying to talking about trying to go back to the JCPOA that they tore up. >> Exactly. >> Yeah. >> Exactly. I I think that's the outcome because they kept this argument if you you recall they kept it's
 
-### Segment 9 — All About Iranian Nuclear Pro
+### Segment 9 — Iran Israel Economy
 
 all about Iranian nuclear pro program. They have never accepted Donald Trump at least and his administration that they wanted to do regime change.
  They said it but they officially they didn't say it is a regime change. It is some sort of regime change. We're going to change the leadership. We're going to do this. We're going to do that. Nothing that of that sort has happened. But in >> whenever the mainstream media was asking them what is the offramp? The only thing they were telling us they said nuclear program of Iran they have to say they're not going to achieve they're not going to produce nuclear weapons and Iranian nuclear program.
@@ -178,7 +189,7 @@ Uh and that's where I think you know I think Iran needs to do a better job of de
 outcome of this war for Israel going to change their mind toward Israel? Well, um, rhetorically it's changed, but I haven't actually seen, you know, policy, particularly a policy change from, uh, Turkey. Um, you know, here's Erdogan allowing Israel to threaten him and he allows and he permits the oil to continue to flow to Israel.
 He just, you know, sending the sign that he's just he's he's Israel's [ __ ] you know, he he's not a big leader. He likes to think he is, but he's still just doing
 
-### Segment 10 — The Bidding Of Israel So
+### Closing — Ukraine Europe Russia
 
 the bidding of Israel. So, you know, we're not we're not going to see a change in this until uh these other the Gulf country, the the countries with oil stop supplying oil to Israel and they put the pressure and say, "Hey, this is this genocide is going to stop or you're not going to get a drop of oil, period.
 " They haven't done that yet. They may be wanting they may be heading in that direction. You know Pakistan is still busy working uh up uh this Gulf let's call it a new sort of Gulf cooperation council but it extends beyond there a regional military alliance with Egypt, Turkey, Saudi Arabia, Pakistan and Iran.

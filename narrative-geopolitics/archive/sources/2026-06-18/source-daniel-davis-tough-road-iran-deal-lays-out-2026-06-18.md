@@ -1,5 +1,11 @@
 ---
 
+
+
+
+
+
+
 ingest_date: 2026-06-18
 pub_date: 2026-06-18
 kind: transcript
@@ -26,7 +32,7 @@ opening_tier: host-monologue
 transcript_wrapper_tier: clean
 caption_wrapper_normalize_applied: true
 davis_close_promo_trim_applied: true
-editorial_note: Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (10 sections)."
 verify_receipt: 2026-06-19
 verify:
   - claim: Upfront frozen-asset release before durable Hormuz/open banking (convergence falsifier #2)
@@ -35,7 +41,6 @@ verify:
   - claim: MOU releases frozen funds automatically upon signing
     verdict: contradicted
     note: Same pass; gradual release during 60-day talks if compliance only (BBC US official Wed)
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -44,6 +49,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Tough Road Iran Deal Lays Out / Lt Col Daniel Davis
@@ -55,7 +63,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Trump Iran Lebanon
 
 The United States isn't giving up a cent of money to Iran. And even the economic benefits, the sanctions, relief, and so forth that comes along with this bargain only happens if the Iranians perform. >> Admiral was Vice President Vance trying to make this deal sound like a really good deal and trying to still make it sound like we're in charge.
  And as I've been saying for a long time, many, many months, I I'm for this. I was for the walk away plan. the the I mean this actually turned out to be a little better than just a walk away plan if I can just be honest because at least they're trying to come to some kind of negotiated settlement. That's I have always said that if we can agree to those terms that would be good but I didn't think that he would be able to politically do so.
@@ -68,7 +76,7 @@ Vice President Vance got the deal done. And now then the big question is, is it 
  Those are two mammoth tasks by themselves. So, it's going to be still a lot of discussion about whether that's going to happen or not. President Trump is going to try to. You're going to see throughout the course of this episode here. He truly is trying and I'm grateful for all that. So there is this is the first time that I've been optimistic about this, but even then my optimism is about this big because there are so many things that could still go wrong and so much I I'd still say even now in my optimism there's a probability that we never get to a final settlement
 that we don't get to this mythical end of 60 days and then a
 
-### Segment 2 — Final Negotiated Settlement Where It's
+### Segment 2 — Trump Strategic Petroleum Reserve Iran
 
 final negotiated settlement where it's end. I I just don't see it happening because there's too many things that can go wrong. Let's get to some of them right here in fact. So, uh, you you saw Vice President Vance there trying to talk about some of the money issues and how this is not really coming out of our pocket, etc.
  Uh, President Trump was also asked about the money issue at his big press conference he had at the G7. And here's how he talked about a couple really important points. The United States is not going to directly pay Iran, but the US is going to let the Iranians start making billions of dollars, selling oil, accessing this reconstruction fund.
@@ -82,7 +90,7 @@ final negotiated settlement where it's end. I I just don't see it happening beca
  I'm going to talk more about this the uh the straight of hormous and getting the oil out here in a minute. But just understand there are some big problems here and we are definitely not out of the woods. Not even on the potential for a recession or in a worst case depression that finally motivated President Trump and he took action on it.
  But he keeps talking here about the frozen assets. And of course he's doing everything he can to say this is not like the Obama deal. And remember I
 
-### Segment 3 — Was Showing You Not Two
+### Segment 3 — Iran Economy Europe
 
 was showing you not two weeks ago where he continued on his truth social to put up these graphics and images of Obama handing plane loads of cash to Iran and all this kind of stuff and blasting Obama for giving away money.
  It was 1.7 billion. Well, now then there's going to be a lot more than 1.7 billion given away. There's there's a couple of different categories and we're going to talk about several here. Uh one of the first one is is uh is about the frozen assets because there's uh there was a 24 billion that the Iranians were trying to get and then there's also an issue with $300 billion reparations or investment funds depending on how you want to word smith it.
@@ -96,7 +104,7 @@ was showing you not two weeks ago where he continued on his truth social to put 
  Now he didn't he also didn't specify what they have to do. Listen there's not a whole lot the Iranians are even asked to do. If you saw that show we did uh here a couple of days ago about the the terms once it became known what the US side of that was is that there's hardly anything in it that the Iranian sides actually asked to do.
  One is opening up the straight over moods. That's what they have to do that they have to release their blockade in concurrence with the United States. And at least so far that appears to be in the process. I think by I want to say it was Friday is when
 
-### Segment 4 — Those Those Both Both Those
+### Segment 4 — Iran Trump Economy
 
 those those both both those blockades are supposed to come off and then we'll see how fast it takes to get traffic going through because you still have the the possibility that there are mines in the straits.
  Those have to be cleared out and it has to be navigable so that there's no problem with that. That's even one big issue there. But other than that, there's just not a lot the Iranian side are going to ask to do. But he he mentioned there in that last clip about the the nuclear reprocess material and say, you know, as soon as they give us that, well, that's not in the deal.
@@ -110,7 +118,7 @@ those those both both those blockades are supposed to come off and then we'll se
  was going to be signed on Friday in Geneva, but instead, and you've probably seen some sound video of this, President Trump uh physically signed it in Versailles in Paris. That the symbology there is really, it's hard to miss that. Uh and I don't know that anybody on President's Trump team has read history, knows anything about World War I.
  uh but signing a document at Versailles is just saturated with all kinds of history negative connotations and everything else about directly related to war reparations. Remember, World War I came to an end on a negotiated term, signed in Versail. The
 
-### Segment 5 — The German Side Was On
+### Segment 5 — Iran Trump Economy
 
 the German side was on the losing side, but it has hadn't lost the war, but it had to sign this embarrassing thing where it had to pay lots of war reparations, and that's where the deal was signed in Versail.
  So, here's President Trump, damn, looking a lot like the German, the guy who signed for the German side in that deal. Uh, and then had to pay war reparations. and that just completely gutted the German economy and the VHR government that came out of that completely collapsed and all kinds of bad stuff happened. I I certainly hope that doesn't happen to us, but you certainly can't dismiss that possibility.
@@ -123,10 +131,12 @@ Everyone understands that this is something that is going to make the Iranian si
  Who's going to pay this money? Because basically both President Trump and Vice President Vance are both saying, "We ain't paying nothing. We're not going to pay a scent," as they have said several times. So, it's going to be investment from the GCC countries, the very countries who were on the receiving end of all those Iranian missiles.
  The reason why they're all hurting is because the war we chose to start that necessarily and logically resulted in them getting hit because they supported us. And now we're asking the very people who took the missiles in the teeth to pay for the reconstruction of the other side. Who's going to pay for the reconstruction on on all the GCC countries? that's not even been addressed.
 
+### Segment 6 — Iran
+
 I can assure you they're not very happy about this. As the foreign minister of Saudi Arabia said here, >> first of all, I have no details on this fund. I have no information or insight into the concept behind it, so I can't comment on it specifically. What I will say is as a result of this conflict, Iran attacked not just the kingdom, but all of the countries of the GCC.
  that has created a significant
 
-### Segment 6 — Gulf Of Trust Between Uh
+### Segment 7 — Iran Nuclear Weapon Trump
 
 gulf of trust between uh all of us. We were just in the beginning process of rebuilding our relationship with Iran as a result of the Beijing understanding after a significant period uh where we had uh broken off relations and uh that was only just starting to really gather momentum and we were starting to at the edges explore potential areas of opening up on economic uh cooperation and things like that.
  I think we are now actually we have since then regressed and we're going to have to have a conversation how we rebuild that trust, how we rebuild that relationship before any uh you know concept of uh economic cooperation uh you know mutual investment or anything like that can rationally be addressed and I I suspect that similarly goes for many of the GCC countries as well.
@@ -138,7 +148,7 @@ You ski that's not going to go over very well. So a lot of people are just grumb
  And that is President Trump's comments on long range missiles. Now, as we're about to show you, that's been just a sacri thing. No, we're going to get rid of that. We're not going to allow them to have long range missiles. You may recall, and I don't have anything on this right now, but uh I think in the first month or so of the war, we actually tried to say that the reason that we went to a war was not just the imminent threat of a nuclear weapon in 10 days to a week to 10 days, of course, which was completely fraudulent, but we
 said, you know what, no, I know Secretary of of War Pete Hexath is one of the ones that said this out loud. It was because they were having this long-range nuclear uh long range missile program. If we didn't interdict and hit it now, then in some number of uh years from now, then they would have this impenetrable shield and we would never be able to
 
-### Segment 7 — Go In So We Had
+### Segment 8 — Iran Trump Israel
 
 go in. So, we had to act now.
 You remember that? Uh Secretary Hex said that. Well, now here's what President Trump is saying. >> Can I follow up quickly on something you said in the press conference? You said you don't buy Iran having ballistic missiles. Can you elaborate on that? I I want to make Korea understand your position.
@@ -153,7 +163,7 @@ You remember that? Uh Secretary Hex said that. Well, now here's what President T
  Obliterate Iran's missiles and drones. Oh yeah, that's a good one. And facilities that produced them, annihilate their navy and critical security infrastructure and sever their pathway to a nuclear weapon. They will never possess nuclear bomb. And now, now here's President Trump just saying, "Yeah, they can have some some weapons.
 " And so aside from making the people pull their hair out who've been supporting this just ordinary human beings, especially if you're an American, you've got to say, how can you go from this this all these strong strong authoritative and confront directive nature of these
 
-### Segment 8 — Statements To Okay You Know
+### Segment 9 — Israel Netanyahu Trump
 
 statements to okay, you know what, forget about it. Seriously, aside from just this term here, if I can just this this deal, this continues to shred any confidence anyone outside of America has in the leadership of President Trump because he means nothing that he says on any subject ever. He
 will say whatever he wants to say today to try to get whatever he wants. And if it doesn't work, he will literally say the o polar opposite as soon as that works out that he perceives into his favor as we are with these missiles here as we had with the the frozen funds as we have with reparations.
@@ -167,7 +177,7 @@ will say whatever he wants to say today to try to get whatever he wants. And if 
  Well, President Trump was of course asked about that issue here. And in his answer on this Nick soundbite here, listen to how he refers to the Israeli side. But it's been an amazing partnership. But he will say we're the big partner and he's the very small partner. And that's true. Israel would have been blown away.
  And in all fairness to BB Netanyahu, who happens to be a good man, gets a little excited
 
-### Segment 9 — Sometimes But He Happens To
+### Segment 10 — Israel Hezbollah Trump
 
 sometimes, but he happens to be a very good man. We've had an amazing partnership. He's been an amazing prime minister. We have a little dispute over Lebanon. And I say, you can do a little softer touch, baby.
  You don't have to knock down a building every time somebody walks into it. That's from Hezbollah. He's the very small partner. I mean, he just made it very clear. We're calling the shots. He's a very small partner. And then he's like, oh yeah, he's a good guy and all this stuff, but you know, Lebanon, don't do that.

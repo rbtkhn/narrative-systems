@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 ingest_date: 2026-06-16
 pub_date: 2026-06-16
 kind: cleaned-transcript
@@ -24,10 +30,20 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: paste-prefix
 normalization_state: raw_operator_paste
-editorial_note: Operator-pasted transcript body; live MOU clause read-through; not human-verified verbatim. ASR artifacts retained (Hamuz/hummus, theou, Biby, etc.). Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "Operator-pasted transcript body; live MOU clause read-through; not human-verified verbatim. ASR artifacts retained (Hamuz/hummus, theou, Biby, etc.). Routine closing lineup promo trimmed in place; SSOT body otherwise preserved.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (10 sections)."
 quality_note: Initial land 2026-06-16; Nawfal opening normalize applied; frontmatter lists repaired.
 nawfal_close_promo_trim_applied: true
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # BREAKING: FULL IRAN MoU JUST LEAKED TO AXIOS - w/ Brandon Weichert
@@ -41,7 +57,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Israel Trump Iran
 
 and I'll read it. >> Okay, >> there it is. All right, so the report, I was just starting to read it as you're jumping on. Israeli Channel 13, the US administration recently halted a military operation that Israel was planning in Gaza. >> The operation was discussed at the top of the political and security ranks recently, and when it reached the Americans, they expressed their displeasure and asked Israel to wait with the plans.
  Instead of the operation, the IDF recently carried out a creeping and silent annexation of the Gaza Strip. A foreign diplomatic source told that this was done because the mediators are angry at the conduct of Hamas and the negotiations which according to him does not meet the obligations it gave to Trump and to the Arab mediators um in terms of disarming etc.
@@ -56,7 +72,7 @@ He'll have the Fox News crew coming at him. They already are, but you know, arme
  Not to end the war, to get us out of the war. It also could potentially allow us to extricate ourselves militarily from this most problematic region for us. Do I think it's going to happen, Mario? Like I said, I'm going to enjoy the next 96 hours because 60 days, 60 days is really what this buys us. >> 60 days and then what happens on day 61? >> You're not going to only enjoy the next 93 hours.
  You're going to enjoy the next 93 days and weeks. I think there's so many cans being kicked down the road. I was going through theou leaked by Iran.
 
-### Segment 2 — The Way It's Worded Like
+### Segment 2 — Iran Israel Lebanon
 
 the way it's worded like phase one both sides declare an immediate complete and permanent end to all hostilities in the region including Lebanon. Fine. That's the only clear thing.
  And fa phase one again the US declares the immediate and complete lifting of the US naval blockade against Iran. Clear. Phase two. The US confirms its commitment to non-inference in Iran's domestic affairs and respect for the sovereignty of Iran. Fine. The US affirms that it will not increase the amount of troops or military assets present in the region nor impose any new sanctions during the negotiations.
@@ -74,7 +90,7 @@ And he, you know, the the Iranians keep keep doing this thing where they keep sa
  And clearly the US side is not in control. So, if I were sitting in Iran, and I said this on another show yesterday, if I were sitting in Iran, I wouldn't even put up the facade of trying to pretend like there's a two-sided war. This is a three-sided war. The Israelis are doing their own thing like they always do, and they're not going to listen to the Americans.
 The
 
-### Segment 3 — Only Way This Is Going
+### Segment 3 — Iran Trump Israel
 
 only way this is going to work is if we listen to Joe Kent and if we start telling the Israelis, if you don't back down now permanently, we're cutting you off tomorrow. But again, that requires Congress and um it's not Well, actually, let me rephrase that. Right now, technically, the president does have a lot of leeway to pull things back because these are all executive agreements with Israel.
  But under the new NDAA and the Intelligence Authorization Act for next year, that all changes. Congress is getting involved for next year, and they're taking more control from the president because they want permanent aid going to Israel no matter what. But for now, Trump could call up Netanyahu if he really wanted to, and he's not, but if he really wanted to, he could call up and say, "Yo, we're done.
@@ -90,7 +106,7 @@ It's not a pressing issue right now. So, you know, he's kicking that can down th
 >> No. >> Free of charge for 60 days. >> Oh yeah, for 60. Right. That's what I was getting ready to say before you started reading this. Yeah. No, no. For 60 days, yes, there will be a reversion to pre no fee. What they're doing though, you got to pay attention to this. So, uh, all the ships that are now going through the straight of Hormuse since theou was electronically signed, they're having to follow the um uh theation line.
 >> The No, well, that too, but it's the TSS um the the transportation >> traffic separation >> traffic separation scheme. Yes. Yes, they're having to follow that and that was created by Iran during the war as part of this bureaucracy in the port
 
-### Segment 4 — Authority Of Iran That's Going
+### Segment 4 — Iran Trump Oil Prices
 
 authority of Iran that's going to extract tolls.
  I wrote a piece at national >> now or after 60 days >> they're doing it now. They're not extracting tolls. What they're doing is they're making the ships coordinate with this new TSS, which I argue is an implicit shift from de facto Iranian control over the the strait to dour uh Iranian control over the strait. They're just going to drag it out for 60 days.
@@ -108,7 +124,7 @@ They're not going to collect a toll, but they're getting everybody who uses the 
 >> after 30 or 60 days. >> Yeah. >> But that 60 days could be delayed, by the way. Both parties could delay it if it >> Sure. There's no doubt there's probably some wiggle room there, but I think the end result is the same. Whether it's in 61 days or if it's in 181 days, it doesn't really matter.
  I think the the point is is that we know where this is going. What Trump is doing right now is he's he's just trying
 
-### Segment 5 — To Get Through It's A
+### Segment 5 — Iran Trump Strategic Petroleum Reserve
 
 to get through. It's a patch. Everything's a patch, you know? It's it's it's like the the guy who's always two weeks away from bankruptcy. Just give me two more weeks. Give me two more weeks.
  That's all this is. He just he's just getting a patch to get through. And by the way, we can't we can't also discount the fact that he just wants to get through the midterms. And if he can get through the midterms, I mean, he said this the other day. He said, you know, well, we can always just start dropping bombs after the midterms.
@@ -125,7 +141,7 @@ Now, >> isn't that when isn't that when the reserve started? They start building
 >> That's true. That that's fair. But but Trump, I remember because again, Trump is a lot like LBJ. You know, LBJ during the Vietnam War was s you can listen to the LBJ presidential tapes. They're fascinating. At the beginning of the war, he's saying, "I just got to be able to get through to Ho Chi Min to let him know I can build schools for him if he just stops fighting me.
  I can build him schools. I can build him, you know, you know, malls and grocery stores and make them." And he didn't understand who he was dealing with. It's not what Ho Chi Min
 
-### Segment 6 — Wanted Well It's The Same
+### Segment 6 — Trump Israel Iran
 
 wanted. Well, it's the same thing here. I think Trump on some level is perplexed by who he's dealing with in Iran.
  Why don't they just want to work with me? I can make them rich. I can give them, you know, the Riviera. Why don't they just want to throw down their arms and be buddies with me? He doesn't understand who he's dealing with. So, I'm sure on some level he's open to this idea that we'll do a $300 billion reconstruction project as long as Witoff and Kushner are cut in.
@@ -141,7 +157,7 @@ True, that is a really really bad look at how unprepared the US military to deal
  So all these are American allies, Australia as well, my country, all of them suffering because of this war. And now even Israel is pissed off at at at Trump and the US. >> I'm speaking to people from Israel. They're really upset. Me too. >> Conricus yesterday tell me, Mario, this is this I'm paraphrasing. >> We is abandoning the Israeli alliance.
 And >> the term that I heard was betrayal. That's the term I was told. Yes. Exactly. And and and there's polls in in the US probably in Israel. I should have saved it. I'll try to find it now. But his popularity, Trump's popularity dropped from 58 to 38. Yeah. >> That's right. Yeah. I
 
-### Segment 7 — Saw That This Morning Yeah
+### Segment 7 — Israel Iran Trump
 
 saw that this morning. Yeah.
  Yeah. But you know, at the end of the day, um Reuters just reported more than half of the $300 billion in reparations for Iran has already been committed. >> It's good to know that my take, you know, I keep I posted this. I went viral when that was first announced last week or over the weekend. I said, uh, you know, 300 billion going to rebuild Iran's infrastructure.
@@ -158,7 +174,7 @@ saw that this morning. Yeah.
  And this is the conditions that are being set up in a postamerican, which is what we're getting, a postAmerican Middle East. Not that America is not going to do business in the Middle East. It's that militarily we're not going to call the shots the way we've been since the Cold War. It is a fundamentally new paradigm.
  And the Iranians are going to have a much greater role there uh than I think anybody wants to see in the West or in in Israel. And that's just the way it's going to be. Now, according to Reuters, a $300 billion private investment
 
-### Segment 8 — Fund Designed To Incentivize Both
+### Segment 8 — Iran Israel Lebanon
 
 fund designed to incentivize both the US and Iran to conclude a final deal has been outlined in the framework agreement with more than half of the sum already committed.
 I don't know what that would be like a lot of countries investing in Iran. The fund so we will you mention >> let me read I'll read it for you just to give you more context. The fund to be named the reconstruction and development fund is a private investment vehicle rather than a reconstruction or reparations program.
@@ -175,7 +191,7 @@ I don't know what that would be like a lot of countries investing in Iran. The f
  It is warned that if their army does not seize its mischief in southern Lebanon, it should expect a harsh response from the powerful armed forces of Iran of the Isl of Iran. We're not. Look, look, maybe we get lucky and America is left alone, but there's not going to be an end to this war.
  And I will tell you what my fear is, is that Iran doesn't actually have to directly strike back at Israel. So Iran is not stupid. They are fully aware that Israel's lifeline is big brother America. And all they have to do is restore pressure on the United States via the Straight of Hormuz. Whether it happens immediately or over time, they will be able to get the Americans to pressure the Israelis as the economy here
 
-### Segment 9 — Collapses Due To The Potential
+### Segment 9 — Israel Trump Iran
 
 collapses due to the potential shutdown of the strait.
  Once more, the Iranians have identified they don't need they don't need nukes. They don't even need the missiles. All they have to do is have the believable ability to disrupt shipping for a protracted period of time through the straight horm. So, if the Israelis really push their luck in in Lebanon and the Iranians decide to give it a go again, they might never launch a missile at Israel at all, they might decide to call up Lloyds of London and say, "Hey, we're shutting this thing down again.
@@ -192,7 +208,7 @@ They're going to get pulled into the next Democrat administration and day one of
  He can't do that if the Iranians close the straight down because of the Israelis operations in uh uh Lebanon. So if he's really his own man, he will have to distance himself from Israel and even potentially, you know, use some diplomatic force in terms of cutting off aid, threatening to cut off aid to get that straight reopened again.
  But
 
-### Segment 10 — The Iranians Don't Need To
+### Closing — Israel Iran Trump
 
 the Iranians don't need to fire missiles is my point. They can they can very well. But the Iranians have cracked the code. They have cracked the code for, you know, getting us to comply. Again, not a good look for America, unfortunately. But it is what it is now. >> Yeah. I think this is the balance that Trump has to to to kind of figure out from a political perspective what's more damaging.
  Pissing pissing off the uh the pro-Israeli donors and lobbyists that >> who hate him anyway. Just to be clear. >> Yeah. But but it's it's transactional politics transaction. Even if they hate him, does he does he need them? What's what's more important for the midterms, the them >> or the people that are critical of Israel? And I think that balance is shifting more and more with the people critical to Israel.

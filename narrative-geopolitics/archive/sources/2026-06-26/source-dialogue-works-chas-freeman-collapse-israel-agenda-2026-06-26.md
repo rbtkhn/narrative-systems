@@ -1,4 +1,5 @@
 ---
+
 ingest_date: '2026-06-26'
 pub_date: '2026-06-26'
 kind: cleaned-transcript
@@ -28,8 +29,18 @@ normalization_state: ai_assisted_proper_noun_cleanup
 quality_note: "ASR normalization pass 2026-06-26; ph-civ replacement SSOT."
 transcript_wrapper_tier: raw
 opening_tier: host-tease
-editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (dialogue-works, alkorshid,freeman, channel:dialogue-works)); 19 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (dialogue-works, alkorshid,freeman, channel:dialogue-works)); 19 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (11 sections)."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 11
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Amb. Chas Freeman — The Collapse Of Israel's Agenda
 
@@ -41,11 +52,11 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Beth Yahoun and Geneva Round Two
+### Show Open — Ambassador
 
 Hi everybody. Today is Friday, June 26, 2026 and our dear friend, Ambassador Chas Freeman is here with us. Welcome back, Ambassador. >> Thank you, Nima. Glad to be with you. >> Uh
 
-### Hormuz IMO Route — Tanker Attack Counter
+### Segment 2 — Israel Hezbollah Iran
 
 let me start with what has happened last night again. We have a new sort of fight between Israel and Hezbollah in Beth Yahoon.
  And from what we've learned so far, four Israelis were injured on the part of Hezbollah. It seems like five or 10 and two of them were killed. One of them on the part of Israelis. It seems that one of them or two of them on the part of Hezbollah. And this is the fight that is going on which was one of the basic one of the main problems with between Iran and the United States with the talk with the second round of talk in Switzerland.
@@ -53,7 +64,7 @@ And looking at what has happened ambassador we had two sides. We had Pakistani m
 going to we're going to respond in in an escalatory you manner. But the other strange thing that has happened, it was in Katar, a huge explosion in Gata which they said Katari government said it was a technical problem at some facilities and the understanding on the part of Iranians is that no that wasn't in this sort of explosion come doesn't come out of a technical problem.
 So, but when when you look at the second round of negotiations, what is what was important in your opinion in terms of the objectives the two sides had before going to the second round? >> Well, the American objective has basically come down to opening the straight of Hormuz um to shipping. Um there was an abortive attempt by the International Maritime Organization uh working uh with um someone um to open a route through the strait along the Omani coast.
 
-### Syria Lebanon Hold — MOU Article 1 Challenge
+### Segment 3 — Iran Lebanon Economy
 
 Iran successfully uh countered that with an attack on a tanker making it clear that Iran controls the strait and that the UN United Nations the IMO is part of the UN uh does not have the ability to work with the United States or foreign powers to um uh to avoid the Iranian control of the strait. So that is the main uh thing for the United States because this affects the global economy and the American economy and therefore the midterm elections.
  So it all comes down to Donald Trump's fear of humiliation in the fall. Uh and in order to avoid that humiliation, he has done uh attempted to use the United States Post Office uh to refuse to deliver mail ballots, mailin ballots to voters in states that don't turn over the whole list of registered voters to the federal government.
@@ -62,7 +73,7 @@ Iran successfully uh countered that with an attack on a tanker making it clear t
  We are the ones asking for favors. Iran is in control. The one exception to that is the one you mentioned which is the fight in Lebanon where from the beginning the package uh envisaged to end the the US war with Iran has included a standown in fighting in Lebanon by Israel. Israel says bluntly openly it is not going to withdraw from Lebanon.
  Uh and uh it is not going to withdraw from Syria. uh it is in fact going to hold on to the land that it has seized in the last several years um from Syria and and more recently from Lebanon.
 
-### Busher Inspections — IAEA Partial Access
+### Segment 4 — Iran Israel Lebanon
 
 This is a direct challenge to the agreement between the United States and Iran. Part of what came out of the last round of discussions apparently was an agreement that there would be some kind of control commission set up jointly between Iran and the United States to monitor and supervise what happens in Lebanon. That is very interesting from a
 geopolitical point of view because it basically represents an American recognition of Iranian interests and influence in Iran in Lebanon at the expense of Israel. But all in the end all this comes down to whether Donald Trump is willing to really confront Netanyahu. And so far what we have are very mixed indications.
@@ -76,9 +87,9 @@ It's not going to give up control. It's not going to turn away from, uh, alterna
 So of course that means that Israel is basically out of business as an aggressor in the region because without American support it can't conduct these wars. So um you ask what's going on in the negotiations um the answer is a lot of confusion uh not much result um and uh no change in the status quo that Iran controls the straighted hormones controls the uranium hexop chloride that it has enriched both the quite a bit of enriched ex uranium not just a small portion of it that is enriched to the um 60% level. Uh and Iran controls that.
 Iran has not agreed to anything about inspectors contrary to what JD Vance and others have claimed. Um and I think that is a a reflection of a normal pattern in negotiations that nothing is agreed until everything is agreed. Iran may very well have indicated that it would be prepared to resume inspections under some formula, but we're not there yet.
 
-### August 21 Clock — MOU 60-Day Window
-
 There are inspections going on at Busher at the request of the Russians, not the request of the Iranians. Uh so um Iran has not cut off the IAEA entirely, but it is for not agreed to u uh have them come back as the vice president of the United States uh claims. So I'll stop here. >> Yeah.
+
+### Segment 5 — Israel Lebanon Iran
 
 The two cards, one of them is the Strait of Hormuz, the other one is the case of Lebanon. And what has changed in the rhetoric in Washington which was mentioned by JD WS various times in the recent days he he did four or five podcasts on that and he says the selfdefense for each and every country in that region this is something new we haven't heard that before from Washington from people like JD Mans or the president of the United States talking about the self-defense the right of self-defense for other countries.
 This is something new. Does does that mean anything to you? >> Yes, I think it does. It is a it is a big step away from Israel. Part of the um line with Israel that standard phrasing of uh support for Israel is Israel has a right to defend itself. But Israel is not defending itself. that's committing aggression against other people both in Gaza and in the West Bank and and in Lebanon.
@@ -91,7 +102,7 @@ that they will not trust anything Israel says. So uh but you know Israel is in g
  The extent of the damage is only now beginning to be really reported. Um uh and the talk of moving them to Israel is not an answer because Iran can strike Israel. Very clearly it does. It has uh moving American bases to Israel would simply increase the risk of Iranian strikes uh on Israel, not reduce it. Uh and so um you know going back to the negotiations when you start introducing new conditions and ch trying to change the context of of a of a framework that you've agreed on uh you make uh reaching agreement on an actual uh arrangement
 for u to end the war all that more difficult. So this is not going well and we have until
 
-### War Mongers — Senate Israel Support
+### Segment 6 — Iran Irgc Ceasefire
 
 August 21st that is the end of the 60-day period that began with the signing of the so-called ceasefire uh the MOU memorandum of misunderstanding I think is a more accurate description of it uh and um uh what will happen on August 21st um that that date is approaching and we're not making much progress When it comes to this radio for most the second point is the Iranian delegation right after getting back home they went to Oman. They flew to Oman and talk with
 Omani government. Then we had a statement between the two sides coming out and saying talking about the new mechanism of this radio form and all of that. Then you see Marco Rubio going to the region with Kuwait, Bahrain and the UAE basically trying to put pressure domestically on the government in Oman because the government in Oman was under tremendous pressure and to make some sort of move against the Iranian position and they tried to do something about it.
@@ -105,7 +116,7 @@ It doesn't have to do anything. just keep going as it is. It will control the st
  So, Iran is in a very strong position. And when you add into this the sort of statement that uh Treasury Secretary Bessent made about insisting on Iranian use of the US dollar for oil trade, um you've just handed Iran yet another um uh bit of leverage to use in the negotiations because Iran is not going to agree to that and the United States does not have the ability to impose those terms on Iran.
  Uh so US just is just looking at weaker and weaker rather than stronger and stronger and this is reverberating in American politics. You have um wararm mongers and we all know who they are. Members in the of the Senate in particular uh who never seen a war they didn't like and who are viciously anti-Iranian and indifferent to human suffering in Palestine and
 
-### Israeli Aggression — Three Issue Stack
+### Segment 7 — Lebanon Israel Iran
 
 very strongly supportive of Israel.
  A handful of these people making life difficult for as difficult as they can for Donald Trump. But the mood in the United States has shifted away from that line. And uh so um um Donald Trump is in a battle with his own party in a battle in a divi with a divided MAGA. MAGA now has a strong uh uh as it always did has a strong element which basically is aligned with JD Vance in wanting diplomacy rather than the use of force.
@@ -120,7 +131,7 @@ The negotiations seems to me are in a state of what is called brownie in motion.
  Uh so they are integrating their industrial capabilities to reduce their dependence on the United States and other foreign suppliers of weapons. Um and uh you know I from the beginning I've said that seen that there are two main purposes to this coalition this four-party coalition. uh one is of course to provide the core element of a regional security strategy which would address all three of the issues which by the way illustrate perfectly that the source of instability in the region is Israel not Iran.
  Um because
 
-### Military Approach Fails — October 7 Lesson
+### Segment 8 — Israel Europe Turkey
 
 all three of these issues arise because of Israeli aggression or genocide. um and uh Israeli expansionism and sea of seizure of territory. And um with all due respect to uh the Israeli minister, in the end, Israel cannot survive without American support. And it is taking a huge gamble because uh if Donald Trump were to end support for Israel, uh a great deal of the American public would applaud, not oppose him.
  Of course, his wealthy donors would oppose him, his own family would oppose him because they are very much in bed with the Zionist cause. Um but um uh he's Netanyahu and company the this cabinet is taking a risk and it isn't just with the United States by the way. Um what Israel is doing the revelations about Israeli sadism the viciousness of the occupation and the expansionism are affecting Europeans as well.
@@ -134,7 +145,7 @@ that uh with anything but rhetoric. The exception being Germany. But even the Ge
 reshape itself in the region. >> Part of a part of MEGA, the movement that Donald Trump created uh is uh a a group including the vice president, I think, who advocate restraint. They they see that militarism and the exclusive reliance on military power doesn't work. Uh and they therefore advocate a different approach.
  and Tom Barack seems to be reflecting that view. Uh the interesting thing to me, the shocking thing really is that the Israelis, despite 78 years of evidence that a purely military approach does not provide security. I mean,
 
-### Israel Cliff — Party System Exhaustion
+### Segment 9 — Israel Trump Netanyahu
 
 what was October 7th about? What were all these wars about? Um um the the they are a demonstration that the Israeli approach sole reliance on on military means fails. It does not provide security.
  It generates security threats. And as I've said before, Israel's insistence on absolute security for itself means absolute insecurity for everyone else, which is not acceptable. uh and so the resistance will not go away. Uh the enmity to is that that that Israeli aggression generates will not stop.
@@ -149,7 +160,7 @@ Then you have the third ambassador which is Iudmart and he believes that there i
 To blame all this on Netanyahu as Napali Bennett does is to follow the usual course of vicious personal attacks that happen in Israeli elections. You know, Israelis have a political culture which is very much egocentric and personalized. You know, they make political parties which are basically followers of some charismatic figure or some powerful ortor or whatever.
  And um uh the the the day when the political parties represented major ideological differences is long past. So, um,
 
-### NATO Rutte — Vance Israel Pressure
+### Segment 10 — Israel Palestinian Europe
 
 where is Israel's got to save itself? I mean, those those of us who years ago could see where it was headed and who raised an alarm and said, you know, Israel can't continue like this. It will drive itself off the cliff and take us with us with it.
  Uh, you know, we're basically silenced by uh the usual charges of anti-semitism, which is quite the opposite of what we were attempting to do. Uh but no, Israelis are now on their own. They don't have the United States with them. They don't have the Europeans with them. They certainly don't have the countries of the region with them.
@@ -157,6 +168,8 @@ where is Israel's got to save itself? I mean, those those of us who years ago co
  I'm it claims to be pro Palestinian. I'm not sure it really is, but I think it is anti-ionist because the what the Zionists have been doing is unspeakably cruel and inhumane and just totally unacceptable to anyone with an ounce of morality. And by the way, um, Jewish Americans distinguish themselves generally by their, uh, devotion to ethical reasoning and their insistent insistence on moral decisions.
 And they, many of them are horrified by what Israel has become and what it is doing. So, Israel has boxed itself in. It's going to have to make a choice. And at the moment it looks like it's going to make the wrong choice and the wrong choice will lead to its destruction. Not by not by Arab armies, not by Iran, but by itself. It's committing suicide.
 You know, it it it is paranoid about everyone. uh the state, Israeli state is founded on a thesis that the entire world spends most of its time thinking about how to murder Jews. But I have news for Israelis. The entire world doesn't spend any time at all thinking about that. Even though Israelis provide many reasons uh for people to hate them, uh people want to get on with their lives and anti-semitism is more uh more is a result of Israeli behavior uh not a driver of foreign opinion on its own.
+
+### Closing — Israel Trump Europe
 
 We had the NATO secretary general in the United States, Trump's the new Trump's brand salesman coming [snorts] and he has reduced I literally when we had Stolenberg as the secretary general I thought that this guy is the worst and it it cannot get worse. Then we have would have Frank Mark Rutte coming and talking the the way that he's talking.
  He said something amazing with it when when it comes to the Iran the war against Iran. said more than 4,000 5,000 flights, you know, or European base were used to to attack Iran 4,5,000 times and more than 500 times from the bases in Italy, which the government in Italy came out saying, "Oh, that didn't happen. He's just making things up.

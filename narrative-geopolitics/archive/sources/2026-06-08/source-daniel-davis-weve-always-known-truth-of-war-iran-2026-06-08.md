@@ -1,5 +1,6 @@
 ---
 
+
 ingest_date: 2026-06-09
 pub_date: 2026-06-08
 kind: cleaned-transcript
@@ -26,8 +27,7 @@ channel_url: "https://www.youtube.com/@DanielDavisDeepDive"
 evidence_grade: transcript-bearing
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 4 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (9 sections)."
-transcript_curation: curated_sectioned
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 4 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (9 sections)."
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -36,6 +36,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # We've Always Known the Truth of War w/Iran
 
@@ -46,7 +49,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Trump United
 
 On February 28th, 2026, President Trump took the United States to war against Iran. In his opening statement that night, he made a number of uh promises about things that we were going to do to Iran, uh how we were going to win the war, all the objectives we were going to accomplish.
  in the especially in the first week or so, the first five or six days after it, it became pretty evident pretty quickly that we had made a number of mistakes and and a lot of uh assumptions that proved to be untrue. A lot of things happened that we were told nobody could have foreseen. Who knew that this would happen? The fog of war, things always happen differently, no plan survives contact, a lot of those kinds of things.
@@ -59,7 +62,7 @@ We had then one of my colleagues from Defense Priorities, Michael P. DiMino IV, 
  There is no scenario whereby we would end up better on the back side of a war with Iran. So, most assuredly, we should not choose one. And of course, that's exactly what we did. We chose one anyway. The point being, and why I'm doing this show at all, is to graphically demonstrate that the most important things about this war were known ahead of time.
  And anyone who was willing to do the least amount of honest analysis and investigation would have understood that this was a war we couldn't win. that what I said there in 2024 was self-evidently true that we shouldn't have chosen
 
-### Segment 2 — A War That We Can't
+### Segment 2 — Iran Middle East Pentagon
 
 a war that we can't succeed in giving the the difficulty of the enemy side and the limitations that we had on the offensive side.
 So, let me get to some of the so so some of the biggest issues here. By the way, uh Michael P. DiMino IV and let me just kind of say up front, he is presently the deputy assistant secretary of war for the Middle East. Uh one of the senior ranking officials in the Department of Defense, well, Department of War I guess now at the Pentagon.
@@ -72,7 +75,7 @@ So, let me get to some of the so so some of the biggest issues here. By the way,
 >> Yeah, I mean, that's a perfect example right there of the hypocrisy. it speaks for itself. Iran is not a massive threat to the region and to everybody if they're as weak as General Keane says. Then the other thing he's wrong about is the conclusion that he comes to there is sample size is the first thing I point to.
  Again, you're talking about quarter of a of a single percent or whatever, right, of of Iran's total strategic arsenal. And you just can't draw those kinds of conclusions that well, so now these
 
-### Segment 3 — Capabilities Have Failed Ipso Facto
+### Segment 3 — Iran Israel Russia
 
 capabilities have failed. IPSO facto we can do whatever we want. It doesn't work that way. >> Yeah, it doesn't work that way. And we have now validated that.
  But you could see, and this is one of the reasons why I pick on Jack Keane so much is because he should know better. He was a four-star general. And even back then, he's trying to paint this picture how easy this would be. All we got to do is have some limited strikes on the IRGC, then they'll knock them out. And the idea that we get into a wider war is laughable.
@@ -84,7 +87,7 @@ capabilities have failed. IPSO facto we can do whatever we want. It doesn't work
 to get into a wider war. So they signaled well ahead. They launched the drones which took like three hours to reach so that everybody knew they were coming. They knew we had all of our assets in place. And of course we did. We knocked out everything knocked down. One of the things that was mocked about Ukra Iran at the time was that uh a lot of their missiles were falling apart before they even hit the ground.
  That they they they weren't functioning well. And the claim at the time was ha mocking Iran. Look how weak they are. they their their missiles can't even fly all the way to the ground without falling apart. But as Michael P. DiMino IV pointed out, that's not exactly true. And with what the intelligence that we knew at the
 
-### Segment 4 — Time Was That They Had
+### Segment 4 — Iran Israel Netanyahu
 
 time was that they had a lot of older stuff.
 And he said his idea was that they were probably using these for a very specific purpose. If Iran's goal was to test this magazine depth and test the radar saturation and send mostly, you know, uh, symbolic signal to Israel, then you can't really argue that they failed in that regard if that's how Iran was seeing the goal.
@@ -97,7 +100,7 @@ it'll be like Venezuela. We go in, we take Maduro, problem solved, game over. Uh
  Well, Lakamino talked about that and he said, "Listen, this idea that you can just take out the the senior leaders and you're going to win. Don't count on it." >> The biggest point that I would make here is that this idea that you can send a couple of American stealth bombers over the border and kill all the Ayatollas in some kind of cinematic cutscene and then some young woman stands up in a pants suit and goes, "I'm ready to be the president of Iran now.
 " I mean, um, life is not a Marvel movie. As somebody that has spent a lot of time in the region and
 
-### Segment 5 — Has Worked On These Issues
+### Segment 5 — Trump Iran Netanyahu
 
 has worked on these issues as an intelligence officer, I can just tell you the idea that something like that is possible, I think is what is in the heads of a lot of people like John Bolton and Mike Pompeo and even a lot of the the Persian diaspora elsewhere that is very against the regime.
  Again, I'm against the regime, too, but it just doesn't work that way where there's going to be some sort of perfect cutscene ending and there's going to be overnight some kind of new regime in Iran. That was 2 years before this this was done. So, I can only imagine that when he saw the plans ahead of time, and again, let me be crystal clear. I have not asked Mike this.
@@ -110,7 +113,7 @@ that's exactly what we did in Venezuela because you understand, we had an inside
 So they already knew it and they told us they signaled it out loud in the open. We have three and four deep replacements for every position. And so when we came in because the Israelis did have uh actionable intelligence on the day that we struck on the 28th of February and it turned out to be right and they took out the senior leader and a whole bunch of other generals and other people that were meeting there.
  And what happened? Did we have the cinematic outcome? You remember
 
-### Segment 6 — President Trump Said Yeah We've
+### Segment 6 — Trump Nuclear Weapon Economy
 
 President Trump said, "Yeah, we've won already." That's why he said that. That's why in the first few days he said, "We've won. We won in the first hours because he thought it was going to be like Venezuela. We took out the senior leader. So now we won.
  Game's over. We got their king. That's how it works in chess. So, oh wait, what? They replaced the king. They just got another one. And all these other generals and stuff we fired, they just brought new people up. And see, Trump continues to try and traffic in that fix these days. Talking over and over.
@@ -124,7 +127,7 @@ President Trump said, "Yeah, we've won already." That's why he said that. That's
  They're underground. I mean, bunker busters and things like that, you're not even close to what you would need to penetrate some of these facilities. And so, the idea that we could get them all uh is just not accurate. It's just not accurate. And you know, and here's this graphic we show you a lot.
  And this proved exactly what he said. So, there it was, folks. it if if there's too many people that were saying this. I mean, we've been talking about
 
-### Segment 7 — This For A Long Time
+### Segment 7 — Israel Trump One
 
 this for a long time, but that was two years ago. And one has to wonder who in the hell is in charge up there because we know for sure that there have been others.
  We know the vice president has been making these kinds of uh arguments from the beginning. We we know that Tulsi Gabbard was saying a lot of this from the beginning. So, we we know there have been others, and I'm sure there's been others that I'm not aware of as well. I know there are, as a matter of fact, but none of them were listened to, even though they gave the great advice.
@@ -138,7 +141,7 @@ Israel, of course, had to respond to October 7th. They're probably going to resp
  You know, if I didn't put a date on that and and didn't tell you who that was, you'd think that was somebody from earlier today that was talking because Israel is suffering, the United States is suffering, and the region is suffering. And now then, of course, we are at a precipice where this thing could expand even further in now into the Red Sea.
  Apparently, that
 
-### Segment 8 — The The Houthies From Yemen
+### Segment 8 — Irgc White House Hormuz
 
 the the Houthies from Yemen have said that that is now off limits. At least as of the time we're uh making this show right now, I haven't seen any updated information to see whether they've actually attacked any ships or whether they have physically blocked any from getting out of the southern uh exit of the Red Sea with the Baba Mandab.
  I don't know, but that's what they said. So, we're on the precipice on the cusp of now being much more difficult than we have. And again, all of this stuff was warned about over and over and over again. Mike actually made it into government. We can just we can imagine that he said everything that we've shown on this show.
@@ -151,7 +154,7 @@ think that the person that said that so confidently and mocked the previous admi
 But what we are trying to achieve in the negotiations is pretty simple. We want our maximalist demands that we would achieve if we were using military force. That is what we want from the regime. >> Why why is everything simple to Jack Keane? That's why he's trying to sell to Trump even to this day.
  I said it was today. That was actually you saw
 
-### Segment 9 — The Date On There It
+### Closing — Trump Missile Cities Middle East
 
 the date on there. It was the 6th of June. So it was a couple of days ago. But in this current environment, he's still trying to sell to President Trump. Look, I know everything I said before proved wrong and I know everything these guys over here, especially the vice president, Tulsi Gabbard, Joe Kent that we know of.
  They said this and they were right. But still, don't worry about it because this time it's going to be easy. It's going to be easy to do and they're going to just fall like a house of cards this time. They're weak as they've ever been. How many times can you keep saying such nonsense when all the things that were involved before are still in effect? used to have the IRGC has most definitely not been brought to its heel.

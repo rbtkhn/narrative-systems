@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-12
 pub_date: 2026-06-11
 kind: cleaned-transcript
@@ -30,7 +31,7 @@ opening_tier: host-tease
 transcript_wrapper_tier: clean
 dialogue_works_close_trim_applied: true
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 0 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Moshtava Kami, Moafik Salty, Clark/Kharg, etc.). Host closing Wilkerson-schedule + cigar banter trimmed at tail. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 0 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Moshtava Kami, Moafik Salty, Clark/Kharg, etc.). Host closing Wilkerson-schedule + cigar banter trimmed at tail. · source-section pass 2026-07-09 (9 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
 verify_receipt: 2026-06-24
 verify_matrix_ref: statecraft/notes/wire/2026-06-11-news-verify-matrix.md
@@ -53,7 +54,17 @@ verify:
   - claim: Deal-imminent cycle strike threat then cancel then denial
     verdict: supported
     note: J11-20 - pattern on Axios/BBC/ST facts anchored in batch
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Larry Johnson: BREAKING: Iran Forces Trump Into Concession – War Price Unbearable
 
@@ -64,7 +75,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Trump Lebanon
 
 Hi everybody. Today's Thursday, June 11th, 2026, and our dear friend Larry Johnson is here with us. Welcome back, Larry. >> You know, I'd only do this on Thursday for you. And that's because you wore the shirt. So, I congratulate you on your style choice. Actually, your wife did it.
  I'm sure she she picked out the shirt. >> Yeah, you hit the >> A woman a woman of excellent taste. Yeah, Larry, let's start with what we've learned from the Iranians. And they said that because Donald Trump said today that we are getting to the some sort of agreement. JD Vance going to be in Europe somewhere in Europe. They're going to sign it.
@@ -76,7 +87,7 @@ They're not going to be intense. Um, these will be uh I don't know if they're sy
  Let me just double check. Uh that I'm told we're they're looking at like a 3 to 4 day mini campaign that Trump has authorized. It will consist of limited surgical strikes focused almost exclusively on the straight of Hormuz. You know, going after what they call the coastal defense cruise missile sites which are buried into caves and uh ground missiles and radars, jammers, launch vehicles, etc.
  But uh I I I've heard that the dual use military civilian targets are strictly off limits, which means no bridges, no energy. >> So meanwhile, and uh I I did an interview early this afternoon with Garland Nixon. you ought to you ought to go watch the opening cuz I wore a neck brace for it. And cuz I said, "Man, I've got whiplash on my neck from Trump does this and then Trump does that and he does, you
 
-### Segment 2 — Know It's Going Back And
+### Segment 2 — Trump Iran Israel
 
 know, it's going back and forth.
  You know, one minute he says, quote, not my words, his words, I'm going to bomb the [ __ ] out of Iran, too. >> Yeah. He says, >> "Hey, we got we got a deal. We're going to be signing any day soon." Now, this is this is number 39. Um, when I watched uh Tucker's interview with John Mirshimer and Tucker's speech beforehand, uh, it was at 37.
@@ -89,7 +100,7 @@ But uh I don't see Iran being fearful nor intimidated. Um, if if I think without
  And I'll I'll say, let me explain why I say may not. If if Trump is comes to the conclusion that we this is the only way out, that he's going to have to make these concessions and he's going to have to compel Israel to stop the attacks, uh then uh I I think he will do it. But you know that it's I'd say that's 50/50 really.
  Uh because the the social influencers that Israel's paying, they've been they've been attacking Trump relentlessly and the the Zionists in America, they're going crazy and people like Mark Levin and Ben Shapiro, uh they're losing their minds over this. Um but you know I
 
-### Segment 3 — I Believe Well And The
+### Segment 3 — Iran Israel Trump
 
 I believe well and the the other interesting twist of this is Pepe and I are being told that the Pakistanis were playing a leading role in this but what we saw last night and apparently what um the the key mediators now appear to be the Qataris and uh as you as you noted the Qatar
 delegation was in uh yesterday now and I guess they left early this morning. The uh the day before that the Emirati delegation traveled to Tehran. So I I see Iran looks to be working all of the key diplomatic angles with the Emiratis Qataris and I'm sure they're in regular communication with the Saudis. uh and you come back to what are Iran's five key demands.
@@ -102,7 +113,7 @@ Um and then 5 hours later he goes, "Okay, yeah, we're not going to bomb." And uh
 So, you know, um this is this isn't over by any stretch. >> No, it's not over. And what Donald Trump said, you know, the the attack last night, Larry, was interesting. Iranian response. They're not attacking UAE, not Saudi Arabia, nor it seems that something in terms of the negotiation.
  As you mentioned, we had the delegation. We had a delegation from the UAE going to Iran. I don't
 
-### Segment 4 — Know What Is The Nature
+### Segment 4 — Iran Trump Meaning
 
 know what is the nature. At least we know what is the meaning of the delegate. What was the mission of the delegation? Because the source in Tehran said that that they were, you know, talking about the differences they had between the differences that Iran had with the United States with that text.
  But when when you look at the situation in in the Persian Gulf, Donald Trump says he said today that the straight is open. >> He said many strange thing the straight is open. We have you know taken out you know a 100 million barrels of oil. We stole it from Iran. Something the meaning of that was that we stole it from Iran.
@@ -115,7 +126,7 @@ So this is uh you know this has more twists and turns than a soap opera. You kno
  So, there there the United States will continue to launch, let's call them pin prick attacks, which means Iran will respond with pen prick attacks. Yeah, Larry, the point of invading Iran in the Kark Islands for for many, you know, weeks they were talking about this and >> and here today even Senator John, Republican Senator John Kennedy was asking what do you feel about it? and he said he's so concerned because this little by little if you put troops on the ground it's going to turn into Vietnam. It's not going to be easy. It's
 a huge commitment on the part
 
-### Segment 5 — Of The Trump Administration If
+### Segment 5 — Iran Trump Lebanon
 
 of the Trump administration if they go that far. It's not going to be easy because when you start it you cannot back down. You have to do something and doing something means casualties, people being killed and there is no way to by the way in the Kark Island it's going to be a trap.
 Simply a trap. It means that you want to kill your forces. You put them there to be killed. >> Yeah. Apparently, the Iranian forces have already placed mines and uh you know, anti-personnel mines all on the open areas. And anybody that seen a map or seen a a photo of it, I saw a great photo earlier today.
@@ -128,7 +139,7 @@ So, it's just and and and we're not even talking about how do you get them on th
  They said nothing of that sort is happening and the Trump administration in trying to make these sort of arguments to manipulate the market. That's the whole point with the Trump administration. But as we talk right now, we are hearing that some tankers being few tankers being attacked by the Iranian drones and they were hit in the trade of Mos.
  It
 
-### Segment 6 — Seems Something Going On There
+### Segment 6 — Israel Iran West Bank
 
 seems something going on there. I don't know if it's going to be still there is no fight. There is no attack still. I don't know if you find something there being reported but here as I check but the point that about as you've mentioned the source that I talk with he says basically the same thing. He said that the final decision is coming from the supreme leader of Iran.
 You know even the tax is prepared by Iranian then later on the United States wanted to do some sort of changes but right now the decision is on the part of Iranian leader he decides he finalized that >> gives the green light to the delegation to the Iranian negotiators and that didn't happen yet because I think they're still monitoring the US behavior in the region.
@@ -141,7 +152,7 @@ You know even the tax is prepared by Iranian then later on the United States wan
  Later on we've learned for example one of the footages that came out one of the photos that came out today was this photo that you see they hit the you know this is the Ramat David air base in Israel that you see the building was destroyed and this is >> yeah yeah on the right exactly this is you see the on the left you before the attack on the right after the attack it was destroyed.
  So they're not telling us the truth. Israelis I'm talking about. So
 
-### Segment 7 — Based On What We've Learned
+### Segment 7 — Iran Trump Israel
 
 based on what we've learned the attack wasn't it was a it was a sort of serious and significant retaliations on the part of Iranians and then it seems that that's why the United States needed to attack Iran. I don't know what is going on. it's all about Apache helicopter or something is happening.
  But uh do you think that was related to Iranian attack on Israel or it was something? >> No, no, no, no. I think I think this was a deliberate effort by Donald Trump to try to blow up the talks and in the process uh plate uh the Zionist lobby. But uh you know Trump's tone from you know two weeks ago with May 30th. Uh that was the day after Marco Rubio got the call from the Pakistani foreign minister saying hey you know Iran's going to withdraw from talks on anything dealing with nuclear.
@@ -153,7 +164,7 @@ Um, so the important part last night for me was the interception of those missil
  So, and I'm not sure if JD Vance is in Islamabad right now talking with the Pakistanis as intermediaries or if he's in Qatar, you know, talking about it. So, it's just uh very much in flux. >> Yeah. Here is what Keith Kellogg said today, Larry, on Fox News. He's somehow suggesting the use of nuclear weapons against Iran. >> Finish the job.
  Having a protracted war is not the American way of war. It's a war we've been conditioned to in the last few decades where we've done things in Afghanistan or Iraq. We ought to go back to the way we did it in like World War II or World War I and we just finished the job, total war. Obliterate them and say, "If when you need to come to the table and
 
-### Segment 8 — You Want To Talk To
+### Segment 8 — Iran Trump Nuclear Weapon
 
 you want to talk to us, you got our phone number, but tell them we're done.
 " Because right now we're playing their game, not our game. Let's play our game and force them to come to us. >> Yeah, he's crazy. I mean, okay, let's use World War II. Um, how many American soldiers were mobilized? Soldiers, sailors, marines, airmen, 16 million. Okay. The United States right now has 470,000 soldiers in the army.
@@ -165,7 +176,7 @@ think about it. Stop thinking about it. >> Larry, do you think there is some sor
  And as the Iranians have acknowledged that they send a document over and then the United States comes back and changes it in a way that it's unacceptable to Iran. And then but at the same time then they turn around the US turns around and starts attacking Iran which is a violation of the ceasefire. So, uh, you know, I the Iranians are trying to accommodate both the Qataris and the Pakistanis and maybe the Saudis.
  Um, I don't think Iran wants to see the war expand to those Gulf countries and that they have to be damaged or or destroyed. Do you feel that the United States is somehow perceiving the Trump administration is perceiving that the change is happening in the region they want to be part of that change with the case of Gatari government Saudi Arabia and UAE because UAE was not part of this UAE was
 
-### Segment 9 — So Close To Israel I
+### Closing — Iran Israel Trump
 
 so close to Israel I don't know what has happened in UAE >> and they became part of this sort of talks and they went to Iran that's a huge question a big question in my
 opinion, but it seems that the United States is behind the scene doing something to, you know, to facilitate that. >> The United States to an extent, but the the more important actors behind the scenes are China, Pakistan, um, and now Qatar. So, and I I don't know to what extent Qatar is working with the Chinese and working with the Iranians or not.

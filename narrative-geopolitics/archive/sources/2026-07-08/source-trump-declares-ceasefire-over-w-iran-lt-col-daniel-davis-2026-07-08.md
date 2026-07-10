@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-07-08
 pub_date: 2026-07-08
 kind: cleaned-transcript
@@ -9,6 +10,7 @@ guest_people:
   -
 show_title: Daniel Davis Deep Dive
 channel_name: Daniel Davis Deep Dive
+host_slug: daniel-davis
 show: Daniel Davis Deep Dive
 host: Lt. Col. Daniel Davis
 guest: ""
@@ -23,24 +25,28 @@ opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
 opening_trim_words_saved: 0
-closing_trim_applied: true
-closing_trim_rule: "daniel-davis-closing-v1"
-closing_trim_chars_saved: 585
-closing_trim_words_saved: 118
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 4
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Trump Declares CEASEFIRE OVER w/IRAN Lt Col Daniel Davis
 
 ## Transcript
 
-Trump Declares CEASEFIRE OVER w/IRAN Lt Col Daniel Davis - YouTube
+### Show Open — Trump Says The Ceasefire Is Over
 
-Transcripts:
-Is the ceasefire done? Is theou dead? >> It's a very interesting question to me. I think it's over. I don't want to deal with them anymore. They're scum. You know what scum is? They're scum. They're sick people. They're led by sick people and they're vicious, violent people. >> And there you have it.
- That's President Trump's off-the cuff answer uh at his first press conference this morning in Anchora for the NATO summit where of course everybody was wanting to know what happened last night when the United States struck Iran. And uh you can see there from the US Central Command, they said that US forces completed a new round of offensive strikes July 7th, hitting over 80 targets with precision munitions and blah blah blah.
- went on talking about that and of course uh chastising the Iranian side for violating theou according to our interpretation. Uh they were not giving free and fair transit uh in the straight of Hormuz. Uh some reports had they were still trying to collect fees just using different terminology insurance uh fees and uh charges other things like that.
-Bottom line is that is that is accurate. There is some truth to that. It was definitely not free and fair and unencumbered. There were some definite inde definite incumbrances. Uh it's not just a matter of on the 61st day after theou was signed Iran will start charging fees again that they've been talking about with Oman or themselves that they're going to be in charge of that on a go forward basis.
+Is the ceasefire done? Is the MOU dead? >> It's a very interesting question to me. I think it's over. I don't want to deal with them anymore. They're scum. You know what scum is? They're scum. They're sick people. They're led by sick people and they're vicious, violent people. >> And there you have it.
+ That's President Trump's off-the-cuff answer at his first press conference this morning in Ankara for the NATO summit where of course everybody was wanting to know what happened last night when the United States struck Iran. And you can see there from the US Central Command, they said that US forces completed a new round of offensive strikes July 7th, hitting over 80 targets with precision munitions.
+ They went on talking about that and of course chastising the Iranian side for violating the MOU according to our interpretation. They were not giving free and fair transit in the Strait of Hormuz. Some reports had they were still trying to collect fees, just using different terminology, insurance fees and charges and other things like that.
+Bottom line, that is accurate. There is some truth to that. It was definitely not free and fair and unencumbered. There were some definite encumbrances. It's not just a matter of on the 61st day after the MOU was signed Iran will start charging fees again that they've been talking about with Oman or themselves, that they're going to be in charge of that on a go-forward basis.
  Those are one things and big sticking points and that's what we were trying to negotiate away but this was something that was happening right now. So uh it is true that they were encumbering the traffic and when the traffic didn't obey what they were told of course all this started because yesterday Iran did attack two vessels in the in the Omani section.
- There are two uh passages one in the south that hugs the Omani coast and one in the north it's approved by the Iranian side which has been validated to be clear of mines etc and is safe. And when the ships tried to force the passage after they were warned by the Iranian side, apparently had at least two warnings, uh the ships, the civilian carriers, uh ignored the vessel, the warnings and continued on through the ROG, uh struck them.
+### Segment 2 — Why Davis Thinks The Shipping Dispute Was Real But Escalation Was Reckless
+
+ There are two passages, one in the south that hugs the Omani coast and one in the north approved by the Iranian side which has been validated to be clear of mines and is safe. And when the ships tried to force the passage after they were warned by the Iranian side, apparently they had at least two warnings. The civilian carriers ignored the warnings and continued on through, and Iran struck them.
  Uh that didn't go over very well, as you might guess, in Washington DC, and President Trump was really angry about that. Uh so the first thing that the Treasury Department did was they revoked their temporary suspension of the uh energy sanctions that had been levied on Iran for a long time. They pulled those off. Um and and at the time the this was in the afternoon yesterday.
  The statement coming out of the United States out of the administration was we've suspended that. So now then they no longer have those that that provision to pull the sanctions off on the energy sector. They said it would take like 10 days to unwind etc. above. We're going to continue on with the negotiations. That's what they said then.
  Then, of course, that's one thing for Treasury Department, but then the Department of Defense uh went into action later there with Central Command, as you just saw. You're seeing the uh the aftermath and some of these videos uh of what we struck on the Iranian side. We've got a lot of details on that as well.
@@ -51,8 +57,10 @@ Bottom line is that is that is accurate. There is some truth to that. It was def
  The only thing that we do have is that the Kuwaiti side said yes, we were also attacked with a number of missiles and drones, but they claimed that shot them all down. Now, as you know, we uh I'm skeptical of any anyone in the modern age, especially in this region, that claims everything got shot down. Uh you know, we've shown you, Professor Ted Postol's technologically technological analysis, uh that it's nearly impossible for that to have been true unless it was some kind of really old technology or some really slowmoving drones and they used the best stuff that
 we had. I guess that's possible. Um but uh the fact that the claim that they shot down all the missiles um a little bit suspect but we don't even know. Could could be that Iran didn't fire any missiles Iran and are at Kuwait so they don't have any damage to show because they they weren't attacked. I don't know.
  Problem is you can't believe anybody. You can't literally take anybody at face value. I don't take a word that the IRGC says at face value. Unfortunately, I can't take a word that the US Central Command says it's face value because too many things have been proven to be a lie. So, all we can do is like what Gary's showing you there, when we have physical evidence, we'll pass that along.
- Uh, in the meantime, we'll say this is what the sides are reporting. But, uh, until we have graphic evidence, uh, we can't confirm, uh, or deny anything. Now, let's get to the more important issues here, and that is what does this do to the pro peace process here? Now, recommend you go back and watch Chris Martinson's uh show that we did earlier this week where we had him on there because he talked about there is a near-term problem coming in with our energy sector.
- The whole thing with the with the straight of hormones up until yesterday afternoon was about 30% 33% open about a third uh was going through of oil coming through. There's a lot of reasons why that was. Uh part of it was because Iran was slowing good slowing down the approval process. But another problem is that just the the physical number of tankers, the the shut in oil trying to get unshut in to get all that turned back on to get it flowing to get a system to get empty tankers in all that stuff we've been telling you about for a long time. It's
+### Segment 3 — Energy Pressure And The Limits Of Repeated Bombing
+
+ Uh, in the meantime, we'll say this is what the sides are reporting. But until we have graphic evidence, we can't confirm or deny anything. Now, let's get to the more important issues here, and that is what does this do to the peace process here? I recommend you go back and watch Chris Martinson's show that we did earlier this week where he talked about a near-term problem coming in with our energy sector.
+The whole thing with the Strait of Hormuz up until yesterday afternoon was about 30% to 33% open, about a third was going through in terms of oil flow. There's a lot of reasons why that was. Part of it was because Iran was slowing down the approval process. But another problem is just the physical number of tankers, the shut-in oil trying to get un-shut-in, to get all that turned back on, to get it flowing, to get a system, to get empty tankers in, all that stuff we've been telling you about for a long time. It's
 it's starting to unwind. But it was about 30% 33%. He warned that if we don't get something done quickly and ex expand that 33% into more, we're going to have to come up with a decision-making process within just a handful of days before the end of this week at the at the then rate of consumption of these strategic petroleum reserve this 800,000 roughly barrels a day.
  Either we're going to have to stop exporting that not putting on the international market. We're gonna have to start taking the that amount from our military emergency supplies or we're going to have to do neither and then just watch the price of oil rise. We're going to have to do one of those others because there this is not something you can spend.
  You can claim anything all day long and release all kinds of truth socials etc. But what you can't do is physically provide supply. You understand that economic activity is a required uh feature that it has to have energy inputs. Obviously, you can't spend that. You cannot create energy out of thin air.
@@ -100,7 +108,9 @@ We're going to hit him hard tonight, but we'll see how it all works out. No, I'm
  I mean, some of these strikes were quite large. Yeah, some of those. Thanks, Gary. But towards what end? What are you going to accomplish if that caused Iran to respond and now here you're saying aren't now then they responded now here we go. So I don't know maybe they did think about some of that they did think about what next the administration and now they're ready to strike President Trump.
  Um we'll see what is that going to uh result in. And I see Joe Kent has finally joined us here. Thank you for uh peeling some time off on this really busy day. Really appreciate it on short notice. Uh, and let me just kind of just throw you right into this question here. The question we just showed you a second ago just happened.
  President Trump announced that there's going to be more strikes tonight. So, this 20 to1 thing that we he claims that we hit earlier. That's not enough. He's going to go and punish them some more. I didn't uh we didn't see the full context here. So, I don't know towards what end, but I fear Joe that it's just like we're going to hit them again because they're bad children or something like that.
- I don't know what he thinks is going to happen. What do you think is going to happen if we come in again tonight and hit them? >> You know, I think you already said the most important factor here and but I'll just hit it again. Um the reason why we signed theou in the first place was twofold.
+### Closing — Why Davis Thinks Washington Still Ends Up Walking Away
+
+ I don't know what he thinks is going to happen. What do you think is going to happen if we come in again tonight and hit them? >> You know, I think you already said the most important factor here, but I'll just hit it again. The reason why we signed the MOU in the first place was twofold.
  The military campaign basically although we said it was successful because we bombed a bunch of different things, we killed leaders, it wasn't successful enough to give us the outcome that we wanted. Then we were also up against the clock of our energy reserves and and the economic pressure we were facing here. So we signed theou because there was no military solution and because the the diplomacy had somewhat you know stagnated and so we had to give a little bit which theou did.
  It wasn't perfect but at least got us a ceasefire and at least start started open up the straits of Hormuz. Uh that's why we signed theou. The president even said as much when we signed it. So yesterday I mean two very s three very significant things happened. There was multiple strikes by the Iranians.
  uh on different vessels that were transiting the straits. And now there's a lot of technicalities here. Now, of course, the Iranians shouldn't have been shooting at, you know, ships in the Straits of Hormuz. I'm not excusing that, but we should have known all along the Iranians were going to test the limits of theou and they were going to flex their muscles around the Straits of Hormuz.

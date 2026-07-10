@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-07-08
 pub_date: 2026-07-08
 kind: cleaned-transcript
@@ -9,6 +10,7 @@ guest_people:
   - Matthew Hoh
 show_title: Dialogue Works
 channel_name: Dialogue Works
+host_slug: dialogue-works
 show: Dialogue Works
 host: Nima Alkhorshid
 guest: "Matthew Hoh"
@@ -27,20 +29,22 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 1
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Matthew Hoh: Iran & US Hit Absolute ROCK BOTTOM
 
 ## Transcript
 
-Matthew Hoh: Iran & US Hit Absolute ROCK BOTTOM
+### Show Open — Clause Five And The New U.S. Attack Sequence
 
-Transcripts:
 Hi everybody, today is Wednesday, July 8th, 2026, and our dear friend, our brother Matt Ho is here with us. Welcome back, Matt. Hi Nima, good to see you. Matt, I want to start with the new attacks. And we had Iranian, we had, because the United States, by the way, let's start with the clause. The clause five of the MOU, it says that Iran is to manage the Strait of Hormuz.
 They have to guarantee the free passage through the Strait of Hormuz for 60 days. And after that, they're going to manage that with the new mechanism that they're going to define. Then you see the United States coming into the Strait of Hormuz and trying to redefine it and find a new path in the southern part of the Strait.
-And then Iran in attacking them, hitting the targets, some tankers in the southern part of the Strait. Then the United States attack in Iran last night in the southern part of the Strait. Then the United States attack in Iran last night in the southern part of Iran, the attack was intensive, comparing to the previous attacks.
+And then Iran attacking them, hitting the targets, some tankers in the southern part of the Strait. Then the United States attacked Iran last night in the southern part of Iran. The attack was intensive compared to the previous attacks.
  And it seems that Iran, they tried to use a warship to pass through the Strait of Hormuz, which was the Iranian side tried to avoid that. They forced the warship out of the Strait. I don't know if there was some sort of hit on the warship. Nothing was reported. Then you see the American attack coming. And Donald Trump, as we've learned today, he said that the MOU is over and we're going to get back.
  And he said, maybe tonight he's going to attack Iran again. On the part of the Iranians, what I've heard so far, if something happens tonight, the answer is going to be so decisive, as they put it so far. I don't know what would be that answer, the response to American attack. What is your understanding of the MOU? We have the clause five, as I said, paragraph five, and it seems Donald Trump and his administration believe that that paragraph gave them some sort of legitimacy to go through the state of Hormuz and to use different routes. On the other hand, Iran says, no, we're going to keep the control
-of this trade. Your understanding of the current situation, Donald Trump and IRGC, for the first time, they agree on that mou is over here is what well you know but donald trump i don't know if you saw just in the last couple hours said he didn't think they were going back to war you know he's asked a question is this a return to war and he said he didn't think so and he said that we might attack tonight, but he's not giving an order.
+of this strait. Your understanding of the current situation, Donald Trump and the IRGC, for the first time, agree that the MOU is over. Well, you know, Donald Trump, I don't know if you saw just in the last couple hours, said he didn't think they were going back to war. He's asked the question, is this a return to war, and he said he didn't think so and that we might attack tonight, but he's not giving an order.
  And just, you know, the latest news out of Washington, D.C. doesn't seem like anyone in the Pentagon is saying we're going to attack tonight. Now, it doesn't mean that they won't, you know, and Donald Trump and the Americans in general will say one thing and then double cross, betray, right, do the other thing.
  So certainly, you know, this is what we deal with here, trying to figure out what's coming next. It's just this unpredictability of Donald Trump. The MOU is, you know, in some places very clear, other places not so clear. The Americans are claiming that the fifth paragraph of the MOU does not give Iran control of the Straits of Hormuz.
  What it says is that Iran needs to essentially, or what the interpretation is, is that Iran needs to open up the Straits of Hormuz. Again, I don't have it printed out in front of me, but, you know, it's the American and the European and, you know, many of the Gulf states interpretation that no, it doesn't give Iran control of the Straits of Hormuz.

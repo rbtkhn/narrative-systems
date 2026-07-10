@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-22
 pub_date: 2026-06-22
 kind: cleaned-transcript
@@ -27,10 +28,20 @@ napolitano_leading_noise_trim_applied: true
 napolitano_close_promo_trim_applied: true
 opening_tier: clean
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "Prior provenance: Manual spot-fix 2026-06-23 (Sachs, Adelson, Ben-Gvir; close promo). AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (sachs, channel:judging-freedom)); 34 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "Prior provenance: Manual spot-fix 2026-06-23 (Sachs, Adelson, Ben-Gvir; close promo). AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (sachs, channel:judging-freedom)); 34 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (6 sections)."
 manual_asr_spot_fix: 2026-06-23 — Sachs name, Adelson, Ben-Gvir; close promo trim
 quality_note: "ASR normalization pass 2026-06-23; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 6
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Jeffrey Sachs: Why Iran Can't Trust Trump
 
@@ -41,7 +52,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Economy Israel
 
 Today is Monday, June 22nd, 2026. Professor Jeffrey Sachs joins us now. Professor Sachs, as always, it's a pleasure and I I know you're traveling and you're on the other side of the world. So, an extra thanks for sharing this time with us. Is the straight of Hormuz open? >> Uh, I'm not sure because I haven't checked in the last five minutes, but I think it is uh going to be open in the coming days.
  Um, of course, Israel is doing everything it can to make sure that it doesn't open and and that the war continues. But Trump wants the strait opened. The Iranians want the straight opened and I I suspect they're going to find a way to do that. >> It certainly will be open for Iranian tankers and probably open for tankers willing to pay a user fee irrespective of what the president of the United States uh calls it.
@@ -51,7 +62,7 @@ from Israeli US aggression since February 28th. So charging a a dollar a barrel 
  But uh the US uh one way or another has uh basically I wouldn't say stolen the term is frozen but it has deprived Iran of its own money uh in many offshore banks because the way that the US sanction system works is that it tells other countries you must freeze Iran's assets no matter whether you have any kind of conflict with Iran because if you don't do it, we're going to punish your banks.
  So, all in all, the United States has inflicted probably uh hundreds of billions of dollars of losses on Iran. And then to huff and puff about whether there's a fee in the straight of Hormuz is uh is is hardly the point. >> Got it. Uh, does the Israeli public recognize that the war was fruitless, that Iran is stronger now than it was a year ago, and that all of this is the
 
-### Segment 2 — Fault Of Benjamin Netanyahu I
+### Segment 2 — Israel Netanyahu Iran
 
 fault of Benjamin Netanyahu? I think in Israel there's a lot of uh uh blame about a lot of things that Netanyahu has done.
  Uh but basically Netanyahu has led Israel into a terrible debacle obviously to say the least. He was presiding on October 7th, 2023 when Hamas attacked. That by itself was enough of irresponsibility. Uh though we don't know every definitive fact about what failed on that day, but he was prime minister and any normal prime minister would have taken responsibility.
@@ -63,7 +74,7 @@ fault of Benjamin Netanyahu? I think in Israel there's a lot of uh uh blame abou
  And here Trump probably and I credit him if he doesn't and if he understands what it means to stick to something for a change. if he actually uh makes this agreement with Iran and stops the war, even with all the wararmongers shouting at him and all the Zionist lobby shouting at him, he's on he would then be on the side of the American people and that's the right side to be on.
 >> Um Chris, can you put up the uh Trey Yinst uh full screen? So Trey is a reporter stationed in Israel for Fox News and a friend of mine, although I don't work there anymore as you know. Here's what Trump said
 
-### Segment 3 — To Him Referring To Iran
+### Segment 3 — Israel Lebanon Iran
 
 to him referring to Iran. You close it, meaning Hormuz, and you won't have a country. You won't even make it back to your blanking country.
  So, Professor Sachs, how can the Iranians negotiate with the Americans when Trump is threatening to assassinate the negotiators like the Israelis have done? >> First, uh, the president should clean up his mouth. It's disgusting. This is not the first time in recent days that we've had this kind of language. It's been repeated. Just shame.
@@ -75,8 +86,6 @@ You're president of the United States. So, behave like one. >> We get a lot furt
  You say this kind of thing all the time. But you know that's in a way very mature of the Iranians. But it's not quite so simple because if you have leaders that are talking about destroying civilizations and killing other people, murdering diplomats, whatever it is, that has an effect in the end. And we've seen it because we're living at a time of a genocide by Israel. So, it's enough.
 Watch your mouth. Here is um Itamar Ben-Gvir. We all know that he's one of the most extremist members of Netanyahu's cabinet and coalition. He also happens to be the head of the rough equivalent of the FBI uh in Israel uh saying what he thinks should be done in Lebanon. Watch this. >> Lebanon, all of Lebanon
 
-### Segment 4 — Should Become Our Playground
-
 should become our playground.
  All of Lebanon should be our target. And people say to me, "Wait a minute, but there's Lebanon and there's Hezbollah." I don't accept this artificial distinction. Lebanon is a country. There are Hezbollah members in the Lebanese government, ministers on behalf of Hezbollah. It has a revolving door policy. >> If this guy thinks he's going to pressure Netanyahu into a full-scale invasion uh of Lebanon, what is Trump going to do about it? This man is also has an arrest warrant by the International Criminal Court.
 This man is a fascist. In another era, he would be a Nazi. He's overtly calling for mass murder. He said, "Let all Lebanon burn." And he remained in the cabinet. This is simple. Where were all the voices in the United States of those people who are part of the Zionist lobby or who take money from APEC saying this is unacceptable? This is not what we support. I don't know.
@@ -86,8 +95,6 @@ Are they trying to send the White House a message? >> It's it's not subtle. Uh t
 And what he himself believes is that those 8 million Jews should dominate everything. They should control all the territory. They should control the state. They should control all the laws. and people like Smotrich and Ben-Gvir believe uh the other should be killed or expelled ethnically cleansed.
  Uh some of the more quote moderates and I use the term ironically just believe in a parttheid rule that there will be two classes a Jewish state ruling over these uh undesirabs. Uh, and this is what's called the project of greater Israel. Greater Israel. This is not Israel. This is what's called greater Israel. That Israel should have all sovereignty over all of the Palestinian lands, over all the land from the Jordan River to the Mediterranean Sea.
  and increasingly in their vanity and vulgarity and fascism frankly. Uh it should control part of Lebanon. It should control part of Syria. It bas it should overthrow the regimes in the region including of course Iran at will. It should bomb those who it wants to bomb. It
-
-### Segment 5 — Should Burn Those Cities That
 
 should burn those cities that don't submit to Israeli rule. That's greater Israel.
 That's what they want the United States to underwrite. And the United States has underwritten this almost without any restraint for 30 years. And the more they do, the more Palestinians they kill, the more countries they invade, the more countries they bomb. When the United States doesn't oppose that, they feel that they can move even farther.
@@ -99,7 +106,7 @@ And this would be on the lines of the 4th of June 1967, Israel's legal borders a
  But that doesn't serve the American people. That doesn't serve the American economy. That doesn't address the cost of living crisis. That doesn't address the genocide that greater Israel meant for the people of Gaza. It doesn't address the war in Iran. that has been nothing but a debacle for every part of the world. The Gulf countries, the US standing in the world, Iran itself, of course, every country that uses oil, which is every country in the world.
  So, we should just say to Israel, look, go back to your borders. Stop wrecking the Middle East. live within your own borders, stop all the wars, and no, not greater Israel, just Israel. Just Israel. >> Well, Professor Sachs, if a state, but there should be a state of Palestine next door, >> right? >> A small part of the territory, by the way, small
 
-### Segment 6 — Part Of What Was Once
+### Segment 4 — Israel Iran Trump
 
 part of what was once upon a time the British mandate.
  The Palestinian part would be something. I think it's 22% if I'm not mistaken, but I I may have the number not exactly right. But Israel's already taken the vast share. Just go home, live within your borders, and there can be peace. And the United States should say that. And maybe maybe as haphazard as our governance is right now, maybe Donald Trump is actually figuring this out.
@@ -111,7 +118,7 @@ part of what was once upon a time the British mandate.
  And remember on two occasions when the Iranians thought they were going to negotiations last June and last February, the United States bombed. >> Well, no, they can't trust Trump. But we can have peace without trust right now. In other words, there can be a ceasefire. Iran will stand ready in case the United States and Israel attack again to do what they can do, which is to retaliate effectively and on that basis there can be peace.
 The truth is that a ceasefire and even a broader agreement is
 
-### Segment 7 — Strongly In America's Interest Strongly
+### Segment 5 — Israel Iran Hormuz
 
 strongly in America's interest. Strongly. The only interest that is violated by such an agreement is the greater Israel project. I happen to believe that Israel would be the great beneficiary of this peace because it will survive not as greater Israel just as Israel.
  And that will be very good. And it will be very good that there's a state of Palestine. All of that can happen. It doesn't depend on trust. It does depend on the United States following through. But if the United States doesn't follow through, I'd be surprised, frankly, if Iran uh lets its guard drop. They don't trust anything from the United States.
@@ -123,7 +130,7 @@ strongly in America's interest. Strongly. The only interest that is violated by 
  And now to end it up to end where you started, he hands over the negotiations to a naive and inexperienced vice president and two other guys who would be better buying you an office building in Alexandria than negotiating this. And let me say this, he's gone from America first to Iran first. >> No. Okay, let's let's say a couple things.
  Uh the president is right to end this war and stop this. This was uh an Israeli uh inspired debacle and Trump is uh trying
 
-### Segment 8 — To End It I Don't
+### Closing — Trump Israel Netanyahu
 
 to end it. I don't criticize Trump for trying to end it. In fact, I praise him for trying to end it. Of course, this was a useless war. I don't praise him for having started it. Uh, I think the whole thing was a a delusion of two people, Netanyahu and Trump.
  But let's be uh let's be intelligent about this, please, which is this war that never should have started should not go on just because it did start. The war should be ended now. And Trump is trying to end the war. And I support him for that. And I support Vance for that because I think Vance understands that uh he that his base and his doesn't want the war.

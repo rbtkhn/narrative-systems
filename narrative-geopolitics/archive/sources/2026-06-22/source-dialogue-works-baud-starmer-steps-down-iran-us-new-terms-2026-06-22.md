@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-22
 pub_date: 2026-06-22
 kind: cleaned-transcript
@@ -29,10 +30,20 @@ evidence_grade: transcript-bearing
 transcript_wrapper_tier: paste-prefix
 opening_tier: host-tease
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "Manual ASR spot-fix 2026-06-22 (39 substitutions; see manual_asr_spot_fix); AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (baud, nima, channel:dialogue-works)); 2 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "Manual ASR spot-fix 2026-06-22 (39 substitutions; see manual_asr_spot_fix); AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (baud, nima, channel:dialogue-works)); 2 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (11 sections)."
 quality_note: "ASR normalization pass 2026-06-22; ph-civ replacement SSOT."
 manual_asr_spot_fix: 2026-06-22 — Keir/Keith Starmer; Kaja Kallas; MOU/theou; Litani; EEAS; Bern; Évian; Anchorage; Qatar; Netanyahu; Friedrich Merz; Baerbock/Macron/Starmer/Merz; Israelis (Isbaha); Ben-Gvir/Katz; Colonel (carl); tentative: terrib→tell, Baerbock (Barau)
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 11
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Col. Jacques Baud: BREAKING: Starmer Steps Down Effective Immediately — Iran & US Agree to New Terms
 
@@ -43,7 +54,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Europe European Union Ukraine
 
 Hi everybody. Today Monday June 22nd 2026 and our dear friend our brother Colonel Jacques Baud is here with us. Welcome, Colonel. >> Thank you very much for inviting me again. Hello to everybody. Colonel, I want to start with the breaking news in the United Kingdom. Starmer stepped down and here is you know after two three prime minister coming you know to the power then resigning right now Starmer is out but looking at the picture of Europe today before coming to this live you said the whole system is creating incompetence
 which is a major statement on your part. You live in Europe, you understand the whole picture of Europe. What does that mean to the whole policy? It's not just about Starmer. You see in France, you see in Germany, but when it comes to Starmer and the outcome of that, how do you see is the influence coming out of that for the foreign policy of Europe? >> Well, it's it's very interesting.
@@ -58,7 +69,7 @@ German government is spending more money preparing war than addressing domestic 
 And when you talk about negotiation between US and Iran between uh uh whoever in or in in in Palest for Palestine, for Ukraine and all there's the output is zero. They're absent. They they they have absolutely no reaction. They they are totally absent of the diplomatic scene. uh and and that shows that we spend a lot of money in institution that are essentially ineffective and which are even counterproductive because uh the regardless of how you feel about your Russia, Ukraine, Iran or whoever the idea the fundamental idea of
 having a diplomacy is precisely to smooth the angles to smooth the relationship regardless of who you whether you like the person or not. That's where you need to have people who are dedicated to the substance not to their own feeling. It's diplomacy as in other uh uh areas should be brain driven and not gutsdriven and that's exactly the problem we have in the EU but in in all the countries I mean if
 
-### Segment 2 — We Mentioned France Uk And
+### Segment 2 — Europe Ukraine Middle East
 
 we mentioned France UK and all that this is this is the the same problem we are in a period where you have we have incompetent
 leaders and the whole system promotes those incompetent leaders to come to the surface They are very young. They have almost no experience, no life experience. Uh uh probably even no working experience. You know, they are apparachi as you we used to call them in the Soviet system. So they are uh uh party animals.
@@ -74,7 +85,7 @@ Let's see. And that's the the problem. Uh we are in and and I think it's not jus
  That means that you you needed to have this idea in five years, 10 years, 20 years in advance. And that's also what we had just after the second world war where you still had those visionary people who could predict what would be the country in 20 years from from now or something like that. You don't have that anymore. The people we have in the leadership today are essentially people who tweet.
  That means that we expect from them a response within minutes. We don't expect them to to provide a response after one or two day of thinking and think like this. No, they should provide a response immediately. meaning that it's I'm I'm not suggesting that all the project are
 
-### Segment 3 — Decided Upon Five Minute Decision
+### Segment 3 — Europe Palestine Ukraine
 
 decided upon five minute decision making but it shows a trend where we tend to want we want quick results quick decisions and we don't we we are not ready to accept to make a decision that will take effect in 20 25 years or things like that in other countries and
 that's probably the drawback because we have in our systems we have democracy with electoral rhythm that is on five four years or so. So that means that you can always project five years in advance because after that you don't know what will happen and that's the advantage of other countries that are probably in that sense they provide less diversity in the leadership because people stay longer like in Russia like in China like in in India and others but their the advantage is that they can design project over 20 years or or for and that
@@ -89,7 +100,7 @@ Therefore, that's why you have a lot of people who study law or political scienc
  They have within two or three years they have a masters and that's it. they so they can address the uh the the labor market with that. But that's you you don't build a society with just people having a masters in literature. That's not enough. You see that's the problem. And and we are in this kind of society today.
  We we are not able to project ourself in time. And that's that's exactly what is what I see when I see this all this in in the UK because that was your question initially when you you have leadership changing so often how can you imagine to have a kind of business continuity you cannot and therefore that means you cannot have a strategic consistency strategic coherence in your in your decision- making and that's exactly the problem the problem we have and when you you talk about uh those conflict Ukraine, Iran, Palestine and other we see that
 
-### Segment 4 — In None Of This Conflict
+### Segment 4 — Iran Europe Ukraine
 
 in none of this conflict at
 least in the I could even say the US by the way the US and Europe they don't have a strategy to address these questions they are just following their guts that's all and those who have a strategy they know exactly what they want to achieve and they push towards that and that's no wonder why Iran has probably we can say won this round because it's not won the war so far but they won this round because they know exactly what they wanted and if you look at the last version I mean the the version that was signed of
@@ -104,7 +115,7 @@ be important and getting I know what you're thinking. No, it's not. I mean, sorr
  uh you may remember that the MOU was uh planned to be signed in Geneva for a simple reason again this has to do with the geography not to with with the Swiss the diplomacy the Swiss diplomacy it's because Évian, the place where the G7 was taking place was is very close to Geneva it's a French town just along the lake of Geneva and it's very tiny tiny town, very very very a very nice town by the way and the French wanted to have the the G7 at this place so it is easier to manage in case of riots and and uh uh uh demonstrations and things like this. And in fact by
 doing so the Geneva in Switzerland had to cope with demonstrations and riots and things like that and that they they couldn't reach Évian, which is close by and the idea of
 
-### Segment 5 — Of Signing Signaling The Um
+### Segment 5 — Europe Iran Middle East
 
 of signing signaling the um the the memorandum was that since the G7 was in the area it was very easy to bring the president of United States with a helicopter to Geneva in secure places and sign the MOU and go away.
  So because that's that was very close. Um that didn't happen. Macron managed to drag uh um the the Donald Trump to Versailles close to Paris which is far away but okay it managed the discussion the subsequent discussion after because the MOU is just the the door opened towards a negotiation and now the hard work should really start and for this hard work the idea was to have this happening in Bern, which is in the center of Switzerland.
@@ -119,10 +130,12 @@ of signing signaling the um the the memorandum was that since the G7 was in the 
  This is the new center of gravity of of diplomacy and of course that is related to the development of BRICS and all these kind of things. But that also shows the decline of the west in addressing uh global issues, regional security problems and even regional issues that are very close to Europe. I mean the Middle East is closer to Europe than it is to to the US, but Europe is is totally absent there.
  They have absolutely no strategy. They don't know what to do and they even declined to have a strategy because the situation is too fluid. So that means that they are totally inexistent.
 
+### Segment 6 — Iran Lebanon Hezbollah
+
 Colonel, the two sides going to Switzerland and the Iranian side is so much you know under pressure. the Iranian delegation under pressure because of what is happening what is what was happening in between Israel and Lebanon the attacks in the southern part of Lebanon and the responses from Hezbollah and which was the first clause of the MOU you have to put an end to the
 all to the war on all fronts then Iran getting there while having the fight between
 
-### Segment 6 — The Two Sides And All
+### Segment 7 — Israel Iran Trump
 
 the two sides and all of a sudden Donald Trump posting something violating again the first clause of the MOU saying Iran has to stop supporting Hezbollah as a proxy. If they don't do that, we're going to attack them. We're going to hit them harder.
  Again, violating the first clause. So, the Iranian delegation get there, they they're not willing to talk with Americans coming in. You see from foreign minister of Iran coming in and talking with the prime minister of Pakistan saying we're we're going to leave. We're not going to stay here. We're done with the situation with the United States.
@@ -137,7 +150,7 @@ prime party to the conflict and the US just came there as a support because Dona
  And here come the second problem which is that the US overestimates its ability to influence its partners and it's not new. We have seen that exactly the same scenario with the the the the dialogue between Russia and the US in in Anchorage, Alaska. And apparently they came to some conclusions or some ideas at least. And apparently Donald Trump committed himself to convince Ukraine and the Europeans to follow these the the discussions to to uh to have a deal based on what has been discussed on Anchorage.
  But he failed to do so. He failed to convince the Ukrainians and he failed to convince the Europeans. And today we have the same thing. Trump was probably overconfident that he could drag Israel into the MOU at a later stage and he would because and that's also what JD Vance explained in fact after afterwards that he said you have suddenly seen this video where he says well those in Israel who
 
-### Segment 7 — Criticize Uh Donald Trump Should
+### Segment 8 — Israel Europe Trump
 
 criticize uh Donald Trump should understand that Donald Trump is probably the only leader in the world that continues to have some support for Israel, which is by the way
 also uh uh that's that's a very powerful uh dis declaration by the way that that shows that Israel is despised by the rest of the world and the only one who is still ready to support Israel is Donald Trump. That's the first aspect. Second aspect that JD said twothird of those weapons that were used by Israel in defending itself were manufactured in the US.
@@ -152,7 +165,7 @@ domestic policy but also the foreign policy of this countries and that's that's 
  None of the western countries had tried to do anything because we don't dare to do that and Israel knows that that's a weak point on our side and the strong point of of Israel. So therefore it can afford to stay in Lebanon even if it has never respect I I said so that since uh 1982 Israel is occupying portions of the Lebanese territory and even if some people today consider that those territories are Israelis they are not.
  Even though of tiny pieces of territory, this is Lebanese
 
-### Segment 8 — Territory And Because The Lebanese
+### Segment 9 — Israel Hezbollah Lebanon
 
 territory. And because the Lebanese tell Israel to step out of its territory, his Hezbollah does it. Period. That's as simple as that. And the Yeah. Sorry for interrupting you. Yesterday, Israel put out three conditions to agree with the MOU between Iran and the United States, which is related to what are you talk what you you're just mentioning and you're just describing to us.
  And here is what they said. The withdrawal of all Hezbollah elements north of the Litani River. All Hezbollah elements north of the Litani River. the complete dismantling of Hezbollah infrastructure in the area south of the Litani River and granting Israel full freedom of movement and military actions to thwart and eliminate any future threats which includes ground and aerial operations.
@@ -168,7 +181,7 @@ whatever it means but Hezbollah has never conducted terrorist uh attack in Israe
  And that's a pity because had they understood the real dynamics of what's happening in in Lebanon, they would grant Hezbollah its status of resistance movement. And then that would completely change the perception of the problem because that would mean that if you don't want a resistance movement that means that Israel should withdraw and should give guarantee that it would not come back because since 1982 Israel has constantly attacked Lebanon has also attacked the UNIFIL the UN uh peacekeeping mission.
  on several occasion has killed peacekeepers without any reaction by the way from the west. So we we accept things from Israel and then you you know we we are always dragged a step further a step further a step further and then we have kind
 
-### Segment 9 — Of A Feta Compli In
+### Segment 10 — Israel Lebanon Middle East
 
 of a feta compli in in situations and that's because we don't have the discipline to tell Israel to comply with the international law.
  That's simply simple as that. It's not Israel to surrender or whatever. Israel has just to comply with international law, not attacking others and not consider the whole world as an enemy. This paranoid situation of Israel has created a state that seems to exist only through confrontation with others. And that's that's the the essential problem with with Israel.
@@ -184,7 +197,7 @@ remember those uh Hamas leaders. I mean, the negotiators of the Hamas were kille
 >> If they they deem necessary to to uh to have a buffer zone then they create a buffer zone. But the problem is that they will take the buffer zone on the enemy. I mean the but the others that's exactly the same thing you have with this wall that surrounds uh a part of West Bank. This this high uh uh concrete wall that has been established in the early 2000s which has by by the way been declared illegal by the International Court of Justice.
  just mentioned, but Israel never disbanded that the the fact that you have the wall is per se illegal. But in addition to that, the Israelis created a buffer zone and connected to the wall that are on Palestinian territory, not on Israeli territory. And that was exactly the same in Gaza. they they had this fence around Gaza and a buffer zone that is inside Gaza restricting even further the the surface that can be used by Palestinians
 
-### Segment 10 — For Agriculture And All That
+### Closing — Israel Iran Lebanon
 
 for agriculture and all that.
  So this is this constant uh uh system of grinding territory of others to take that territory in in in in for their own advantage. And that's that's the situation that people is no longer does doesn't accept anymore. And that's a situation because you are allowed in any country by the way. If you want to establish a buffer zone or that's you're allowed to do that.

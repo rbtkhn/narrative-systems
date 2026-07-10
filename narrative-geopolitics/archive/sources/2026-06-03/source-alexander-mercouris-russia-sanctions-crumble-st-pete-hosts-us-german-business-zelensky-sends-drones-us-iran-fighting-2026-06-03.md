@@ -1,5 +1,14 @@
 ---
 
+
+
+
+
+
+
+
+
+
 ingest_date: 2026-06-03
 pub_date: 2026-06-03
 transcript_type: ai_assisted_operator_pasted_youtube_transcript
@@ -19,10 +28,9 @@ channel_slug: alexander-mercouris
 source_url: "https://www.youtube.com/watch?v=ZkA_Wc6JJ-g"
 source_note: "Operator-pasted YouTube transcript for Alex Mercouris hub capture. · ASR pass 2026-06-15."
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: AI-assisted ASR repair (common + series tiers + statecraft entity pass); 0 substitutions; not human-verified verbatim; verify before quotation. Routine Mercouris solo subscribe/platform close trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 0 substitutions; not human-verified verbatim; verify before quotation. Routine Mercouris solo subscribe/platform close trimmed in place; SSOT body otherwise preserved.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\""
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
 mercouris_close_promo_trim_applied: true
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -31,12 +39,13 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: preserved_unsectioned
+section_count: 0
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Russia Sanctions Crumble; St. Pete Hosts US German Business; Zelensky Sends Drones; US Iran Fighting
 
 ## Transcript
-
-### Show Open — Introduction
 
 Good day. Today is Wednesday 3rd June 2026 and today the St. Petersburg International Economic Forum opens in St. Petersburg and again today entirely predictably the Ukrainians have attempted to carry out strikes on St. Petersburg not on the city itself and not on the venue of the forum itself. This is located a significant distance from St. Petersburg itself.
 
@@ -58,8 +67,6 @@ So this I think will remain the pattern. The Russians will continue their strike
 
 I suspect that increasingly we are going to see the Russians giving no warnings ahead of these attacks leading to the
 
-### Segment 2 — Death And Injury Of More
-
 death and injury of more personnel and potentially some western personnel. Just saying. And in the meantime, the rest of the war will continue. Anyway, there it was. We've had a major Ukrainian drone attack.
 
 By the way, the attack on um St. Petersburg was the only part of the drone attack offensive that the Ukrainians carried out last night. Um there continues to be an assumption on the part of some people that when a Ukrainian drone hits a target, particularly an industrial building, that destroys the building.
@@ -79,8 +86,6 @@ Um something which the Russians have consistently rejected. Anyway um Zelensky r
 I am going to suggest that what Zelensky and Budanov are trying to do is to get the Americans again to become more deeply involved in Ukraine once more. Zelensky, who knows perfectly well what the actual situation both on the front lines and in the sky really is, wants the Americans involved again. and he wants the Americans to renew the pressure on the Russians to agree to the freezing of the conflict on the existing conflict lines, leaving 15% of Donetsk under Ukrainian control and leaving the Ukrainians in control of Zaporozhye and Hon and those sort of places. And this is what Zelensky means about peace in November. He is aware that Donald Trump wants a peace or has wanted a peace or at least a freezing of the conflict in Ukraine. He is aware also that Donald Trump blames him, Zelensky, for the fact that that has not happened. And Zelensky wants to shift the dial.
 
 He wants Trump, as he has done in the past, to start blaming Putin rather than Zelensky for the intractable state of the conflict. and he wants Trump to return to the stance that he had before Anchorage of supporting a ceasefire on the conflict lines. In other words, a conflict freeze. And I'm going to say that it is further than this because Zelensky also, as we know, recently met Senator
-
-### Segment 3 — Richard Blumenthal In Kiev
 
 Richard Blumenthal in Kiev.
 
@@ -102,8 +107,6 @@ The conflict with Iran is unresolved and it is the major topic of concern in the
 
 There is said to be a severe tungsten shortage at the moment. I have discussed the
 
-### Segment 4 — Importance Of Tungsten In Not
-
 importance of tungsten in not just the global economy but also especially in military production in previous programs. Russia produces enough tungsten for its own needs. The United States does not. It imports tungsten from China which exports around 80% which produces accounts for around 80% of global production.
 
 So the United States really is not in a position to ramp up support for Ukraine. And as for the bone crushing sanctions, which were so much the topic of discussion last year, it's interesting that they're far less spoken about today in the United States, that even Lindsey Graham talks about them much less than he once did because of course in conditions of a global crisis in energy.
@@ -123,8 +126,6 @@ And for that reason, I don't think they're going to want to become involved. The
 As far as the Russians are concerned, given their geography, which makes their country a part of Europe, any use of nuclear weapons on their territory is a use of nuclear weapons. It is irrelevant whether those nuclear weapons are tact tactical, medium range or strategic. In every case, there will be an overwhelming nuclear response involving potentially America strategic forces.
 
 There is a real possibility that deploying more nuclear weapons in Europe is going to heighten the risk of a global nuclear conflration. But I am not going to discuss that in this program today. Suffice to say that the reason the United States is now talking about placing more nuclear weapons in Europe, including in Scandinavia, in Finland and those sort of
-
-### Segment 5 — Places Is Because Its Conventional
 
 places, is because its conventional military defense deterrent against the Russians is withering away.
 
@@ -151,8 +152,6 @@ That is an infallible sign. that important things are indeed taking place. I'm g
 But the last I heard was that the Russians were pushing well beyond the Gshaw River lines in Zaporozhye region that they're approaching um one of the villages on the main road leading to Oreov from the north. This is one of the two big supply roads um for the garrison in Oreov. Um the Russians probably by now have drones operating on this road attacking Ukrainian supply convoys.
 
 But of course there is no substitute for actually capturing the road itself, cutting the road itself physically. Even if you have drones operating over the road, it's likely that some supplies will get through. But if you have actually cut the road, well then that becomes impossible. Now
-
-### Segment 6 — This Road Has Not Yet
 
 this road has not yet been cut.
 
@@ -184,8 +183,6 @@ Anyway, he's provided much of the drone footage from the road to the north and w
 
 The pictures that I've seen of the roads
 
-### Segment 7 — Leading Into Konstantinovka From The
-
 leading into Konstantinovka from the north show them almost completely empty of traffic. occasional vehicles very wearily tried to move south towards Konstantinovka. Of course, the drone footage that we have is taken by Russian drones. Some of the drone footage is very clear which proves that it has been provided by Russian fiber optic guided FPV drones.
 
 A technology which the Russians have mastered but which the Ukrainians use to a far lesser degree. And any anyway, one way or the other, it's clear that any vehicle that tries to move along this road is taking extraordinary risks. The drone footage as Scott have calibrated also pointed out also shows that the netting that was supposed to protect this road has been mostly destroyed at least as far as I could see.
@@ -208,8 +205,6 @@ We will see whether that will persist in St. Petersburg at his speech in his spe
 
 This is in a sense the economic conference where the Russians open Russia for business with the world. It's sometimes I think very misleadingly referred to as Russia's Davos. it it's better understood more as a networking than as a policym um conference. It's a place where business people from all sorts of places around the world come meet Russian businessmen listen to senior Russian officials Putin Mishin the prime minister the fin uh the uh central
 
-### Segment 8 — Bank Chair Nabulina They All
-
 bank chair Nabulina they all usually in St. Petersburg. They all explain their policies and their positions and most of the work that's done in the St. Petersburg International Economic Forum is related to business. I said that I have visited St. Petersburg on actually four occasions, not three. I I take that back. Two of those occasions I attended the St. Petersburg International Economic Forum. One was way back in 2014. The next time was in 2016. So I have some direct experience of this and this is what I saw on both of those occasions. Now, since the start of the special military operation, the West has stayed away. There have been no American business people, no European business people in any number turning up in St. Petersburg. There's been Chinese, Indians, people of that kind, important economic and trade partners. This year, this time, the lead country participating in the forum is going to be Saudi Arabia. They're sending a very strong group to the forum and I believe there will be a speech from some Saudi official, some Saudi prince probably um on the Friday at the pleenary session which Putin will attend and where he will make his big speech.
 
 But the west overall has elected to stay away. Well, this is now starting to crack. Apparently, there will be a significant number. When I say significant number, I don't mean hundreds, I mean tens of American business people there. Importantly, there will also be an actual official of the US government of the US administration.
@@ -229,8 +224,6 @@ Again, it's not a decisive tectonic shift, but one Russian report spoke of the U
 But I would say that Belleris which is a landlocked country and which is relatively small is not the obvious place to act as an entropole like that. But then maybe that is what the Ukrainians themselves fear. Anyway, all of this all of this activity in St. Petersburg again to my mind argues against any dramatic hardening of the American position after the new Congress is elected and then inaugurated.
 
 Even if that Congress comes with a Democratic majority, I would have thought that the Democrats would be more focused on their permanent feud with Donald Trump and the two big foreign policy issues that they're going to bring up are Iran, obviously, but perhaps, if it's still there, Cuba, too. just to say um other than that I
-
-### Segment 9 — Think Ukraine Is On The
 
 think Ukraine is on the horizon now and in Washington is not accorded the same level of importance that it once was.
 

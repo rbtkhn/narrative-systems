@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-30
 pub_date: 2026-06-30
 kind: transcript
@@ -24,10 +25,21 @@ source_note: Operator source-intake 2026-06-30; operator-pasted YouTube transcri
 evidence_grade: transcript-bearing
 opening_tier: host-monologue
 capture_note: Operator paste; full interview body preserved from user-supplied YouTube transcript.
-editorial_note: Operator-pasted YouTube transcript; ASR artifacts retained (Xihinping/Xi Jinping, Celindra/Solyndra, Tagachi/Takaichi, etc.). Not human-verified verbatim.
+editorial_note: "Operator-pasted YouTube transcript; ASR artifacts retained (Xihinping/Xi Jinping, Celindra/Solyndra, Tagachi/Takaichi, etc.). Not human-verified verbatim."
 quality_note: Initial land 2026-06-30 via land_statecraft_source_body.py; operator paste.
 transcript_wrapper_tier: paste-prefix
 normalization_state: raw_operator_paste
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: preserved_unsectioned
+section_count: 0
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # CHINA IS THE REAL WINNER OF THE IRAN CRISIS – w/ Brandon Weichert

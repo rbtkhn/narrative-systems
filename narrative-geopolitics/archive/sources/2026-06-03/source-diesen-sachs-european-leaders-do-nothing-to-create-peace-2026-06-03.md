@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-04
 pub_date: 2026-06-03
 kind: article
@@ -20,6 +21,17 @@ channel_slug: glenn-diesen
 source_url: "https://thjodolfur.is/2026/06/03/leitogar-nothing-to-create-peace/"
 source_note: "Icelandic June 3, 2026 publication summarizes and republishes a current Glenn Diesen / Jeffrey Sachs peace-and-Europe discussion surface. The direct watch URL was not recovered in this pass."
 quality_note: "Source-bearing article front door only; do not treat as transcript-bearing until a direct watch URL or full transcript body is recovered. · source-section: out of scope (article recovery stub; no transcript body)."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: preserved_unsectioned
+section_count: 0
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # European Leaders Do Nothing to Create Peace
 

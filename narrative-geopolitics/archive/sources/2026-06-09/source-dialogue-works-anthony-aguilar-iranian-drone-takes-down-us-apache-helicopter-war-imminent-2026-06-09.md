@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-09
 pub_date: 2026-06-09
 kind: cleaned-transcript
@@ -27,11 +28,20 @@ source_note: "Operator-pasted transcript; host self-dates Tuesday 9 June 2026. v
 evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: clean
-opening_trim_applied: false
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 12 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 12 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (10 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Lt. Col. Anthony Aguilar: Iranian Drone Takes Down US Apache Helicopter - War imminent?
 
@@ -44,7 +54,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Trump Ceasefire
 
 Hi everybody. Today's Tuesday, June 9th, 2026 and our dear friend Anthony Aguular, Lieutenant Colonel Anthony Aguilar. Welcome back, Tony. >> Thank you. Thanks for having me and it's uh it's great to be on to have this discussion as there's a lot going on. >> Yeah, exactly. I want to start with the latest news that Donald Trump announced.
 He posted that, I have just been informed by our great military that last night the Iranian the Iranians shot down one of our highly sophisticated Apache helicopters while patrolling over the straight of Hormuz and there were two pilots involved. Both are safe and uninjured. Nevertheless, the United States must of necessity respond to this attack.
@@ -63,7 +73,7 @@ Uh, and then their return. And remember, let's let's go back to about a week ago
  I wouldn't go after Tyrron. I wouldn't go after mainland targets. I'd probably go after a a target in the Strait of Hormuz, a fast boat or or an Iranian um anti-hship missile capability somewhere on the coast. I'd go for something that that I can directly relate to this thing most likely fired this thing that shot down this um or guided it uh to to prevent further escalation beyond this engagement.
 Um, if you consider the engagement from an Iranian self-defense perspective, if this Apache Longbow helicopter was flying in Iranian airspace, then would Iran have the the the
 
-### Segment 2 — Justification To Shoot It Down
+### Segment 2 — Trump Iran Israel
 
 justification to shoot it down because we are still at war? Even in the midst of a ceasefire, we're conducting a military hostile act.
 So, uh, Donald Trump can look at it in terms of, okay, we're at war. We committed a hostile act, they responded, leave it at that. If Donald Trump were insistent to say, "Hey, give me options that are that are responsive." I'd say, "Okay, well, let's let's go after a tactical target, uh, if Donald Trump were to insist on an operational or strategic target, Kashm Island or mainland Iran.
@@ -81,7 +91,7 @@ helicopters in the world? uh if all of that capability is gone and if it is if t
  It only stands to reescalate the entire thing and somebody needs to tell Mike Pompeo and Lindsey Graham that the United States is not in a winning position right now. We absolutely are not. Uh so as much as they want to continue to talk talk talk about war war, uh they aren't looking at the implications of what we have available in in the region and what the escalation could be from Iran if this escalates beyond Donald Trump's control.
 Tony, the difficulty in the West Asia in my opinion is not between Iran and the United States is is between Israel and Lebanon right now as
 
-### Segment 3 — The Escalation Is Happening There
+### Segment 3 — Israel Lebanon Iran
 
 the escalation is happening there. That's why you know we had the Israeli attack on Beirut, Iranian response, then Israeli attack on Iranians, then the second round of Iranian response to what Israel did.
  And it seems that as time goes by and the situation in the the Strait of Hormuz right now we had we have the blockade two blockades Iranian blockade and the US blockades US blockade and then when it goes to Lebanon and Israel it's a fight it's a war happening there is attacking you know after after the Iranian attack and then they somehow back down but they're attacking the southern part of Lebanon as We talked.
@@ -100,7 +110,7 @@ The building they attack in Dah in southern part of Beirut was empty and no one 
 Why do they need to do that in your opinion? Did they know that there was nobody there and they attacked the building because they wanted to see the Iranian reaction or they wanted to assassinate some commanders there and the operation failed and they said it was symbolic. >> I think the primary reason that Israel did what they did in the strike in in southern uh Beirut uh was because Donald Trump said not to.
  They they then had to put on the position of we're not going to be told what to do. You're not going to tell us what we can and cannot do. I think that if they init, you know, they they always threaten strikes in Beirut. They always threaten threaten
 
-### Segment 4 — Strikes North Of North Of
+### Segment 4 — Israel Iran Trump
 
 strikes north of north of the Latani. They always threaten to and that they have the reserve the right to strike at any time.
  That's always part of their narrative and their condition. Uh so in this particular case with tensions are high um and it's now okay. Well, they they always say they're going to do that, but now if they do it, it now brings us into this. So then me, you know, you know, Donald Trump's thinking, well, I have to say something. Well, then when he said it, don't do that.
@@ -119,7 +129,7 @@ They were already reaching out to the United States saying, "We surrender. Just 
  They can hit some hard targets. They can decapitate the regime. They can decapitate the IRGC. They've done that. But we've seen that the that the the government of Iran and that the IRGC is resilient and will recuperate. They're not going to defeat them through bombs and they can't go in on land. So, uh Israel would be unwise and would be uh very illsuited to go against Iran alone without US support directly.
  I don't mean just sitting in the background just helping with logistics. The United States would have to get involved directly. And if the United States is not going to do that, that
 
-### Segment 5 — Should Weigh Heavily In Israel's
+### Segment 5 — Israel Trump Hezbollah
 
 should weigh heavily in Israel's calculations and their their uh you know their their calculus uh for what they're considering doing in terms of a response.
  But I I think you know Donald Trump might be close to the hey you're you're you're in this alone. >> Yeah. When you look at the battlefield in Lebanon, do you think that Israel going to face the same thing as they have been doing? Because many people are arguing as Israel little by little you basically capture, you know, most of the territory of the West Bank and they're going to do the same in the southern part of Lebanon.
@@ -138,7 +148,7 @@ where, you know, we had um militias fighting the the great and mighty United Sta
  That's why they have to make their own decisions. So when it comes to the calculation on the part of the the United States, what do they need to get out of the region? What would be that particular moment for Donald Trump to say, "We're done here. We're going to get out of here." >> I I I see Donald Trump's predicament slightly different.
  Um I I I agree with you, but I would add one more piece to that. But first, I would say with with Netanyahu, it's clear for Netanyahu what side of the Rubicon he is on. He has to continue war for his political survival. Period. He He has crossed the Rubicon. Donald Trump
 
-### Segment 6 — Is Now A A A
+### Segment 6 — Trump Iran American
 
 is now a a a snail crawling across the edge of a razor blade.
  Which way to go? Because if he continues the war, well, he he's in a bad spot politically and domestically. If he stops this war, he's in a bad spot politically and domestically because you have people like Lindsey Graham and Ted Cruz and others that want him to continue this war to wherever he even speaks of let's back out from this.
@@ -157,7 +167,7 @@ Donald Trump needs something to put on the front page of the New York Times or w
 So, it it's a mission that cannot succeed in the time that it needs to succeed. Donald Trump needs a way out of this quick, and he can't leave empty-handed. And the the the thing that he can leave with like Indiana Jones where he sees the little uh icon and he switches it out with the bag of sand, right, to to get out of the temple.
 That's where Donald Trump is right now. He has got to
 
-### Segment 7 — Show The American People Something
+### Segment 7 — Iran Trump American
 
 show the American people something. And that's not that's not an agreement. That's not a uh we'll agree to sanctions or we'll li we'll lift some because all that does is go right back to looking like what what Osam what um um excuse me what Barack Obama had.
  No one's going to put up with that. He has to have something. So I think that in the coming weeks we are going to see a very coordinated, precise, robust military operation into Iran as Donald Trump's ticket out of this. What happens with the strait? Up for debate. I think Donald Trump would walk away from that.
@@ -176,7 +186,7 @@ There's no people on it and you're like, "What's this?" Like, get do you get on?
  If that um I had heard that that was the case, but if if Western media is now reporting it, uh if the great propaganda wall of Fox News is saying it, is it CNN or Fox? >> CNN. >> Just as bad. So, if CNN is saying it, uh, then surely, uh, that's at least what the administration will allow them to say, uh, that if this was a one-way drone, one of their drones that took out this Apache, now you're talking about a a $30,000 drone taking out a hund00 million aircraft.
 >> Yeah, that's huge. I think that's the new equation in in because they're talking about it was patrolling the Strait of Hormuz straight to foremost is part of the Iranian territory. >> That's right.
 
-### Segment 8 — You're You're Either In You're
+### Segment 8 — Iran Israel Russia
 
 You're you're either in you're either in Omani territory or you're in Iranian territory. There's no there like it's one or the other.
 >> Um so yeah, when people talk about well the straight or is an international waterway blah blah blah. The straight itself in that narrow navigable corridor that's been agreed upon for international passage is not international water. It's straight through the territorial water of Oman and and Iran.
@@ -196,7 +206,7 @@ attack Lebanon, if you attack, they're going to do it's not going to be just Ira
  China Russia is the most immediate threat. We have to maintain pressure on Russia because it we're more likely to actually go to a shooting war against Russia. Uh but we they're they're a threat. And then you have North Korea. Iran was further down on the list of of threats to consider or things to keep an eye on.
  And here we are for no change in any conditions of what that assessment was made from that Iran is now the existential
 
-### Segment 9 — Threat And That Is Who
+### Segment 9 — Israel Pentagon Trump
 
 threat and that is who we are going to war with because Israel said so. not because anything in our own uh intelligence changed to consider that that change. And then now we stand on the precipice of of reescalating again and the question of Israel or not when the US Pentagon, our own department or defense intelligence agency has elevated the characterization of Israelis presence in our country as the highest risk to intelligence the highest
 intelligence uh risk that that there could that exists. force protection condition delta critical and what that means that the the the identified threat which in this case is Israel is an existential threat to our nation's security and yet why are we still even having the conversation of whether or not we should be backing Israel we our own Pentagon identified them as the most as the most critical threat literally by the word critical the most critical threat to our security and sovereignty as a nation.
@@ -213,7 +223,7 @@ Armed Services Committee. And if anybody's interested in learning about that, go
 1 million from Apac just this year alone. So that's where this version of the bill was born in both houses by by Apac bought off Congressman, the House version is going to pass. The only hope we have that 224 or the Defense Technology Cooperation Initiative gets killed, we have two chances left to kill it, either it doesn't it's not either it gets excluded from the from the Senate version. It's in the Senate version.
 It's not you're not going to find it section 224 because their theirs is not a Senate. It's a joint resolution once it leaves the Senate.
 
-### Segment 10 — So Is That Language In
+### Closing — Israel Syria Pentagon
 
 So, is that language in there? It is. So, we have an opportunity to kill it before the Senate votes to get it out. I don't think that's going to happen.
  When it comes out of the Senate in the House, that's when they bring the gang of eight together. You get the the House Speaker, you get the Senate prompor, you get the House chairman, you get the SAS chairman, you bring in their the the financial adviserss from each and the and the budget people. You bring those together, the gang of eight to determine this bill going forward.

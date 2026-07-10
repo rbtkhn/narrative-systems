@@ -1,5 +1,11 @@
 ---
 
+
+
+
+
+
+
 ingest_date: 2026-06-16
 pub_date: 2026-06-16
 kind: cleaned-transcript
@@ -25,10 +31,9 @@ evidence_grade: transcript-bearing
 opening_tier: heavy-banter
 transcript_wrapper_tier: paste-prefix
 normalization_state: raw_operator_paste
-editorial_note: Operator-pasted YouTube transcript; ASR artifacts retained (Formos/Hormuz, theou, Hexath/Hegseth, etc.). Not human-verified verbatim. Opening rapport/production banter trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "Operator-pasted YouTube transcript; ASR artifacts retained (Formos/Hormuz, theou, Hexath/Hegseth, etc.). Not human-verified verbatim. Opening rapport/production banter trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (9 sections)."
 quality_note: Initial land 2026-06-16 via land_statecraft_source_body.py; operator paste.
 nawfal_close_promo_trim_applied: true
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -37,6 +42,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # CIA CHIEF WARNS: IRAN NOT SERIOUS ABOUT COMMITTING TO MoU - w/ Prof. Analyst Robert Pape
@@ -50,7 +58,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Trump Israel
 
 >> Um, yeah, let's start with the with the most obvious question. Your your thoughts on the theou that we have right now. We've got parts of it that have leaked. You know, my impression it's it's all very vague.
  Obviously, it's in Iran's favor, significantly in Iran's favor. From the leaks, the Israelis are really unhappy with it. I just saw a report [cough and clears throat] I saw a report a few minutes ago that Trump's popularity in Israel just collapsed from like 61% to 30 35%. Sorry. Um 60 35% negative now 61% negative positive 58% down to 38%.
@@ -66,7 +74,7 @@ Just think about that. And there's no strings on that money. That money can be u
  So this starts out not just okay for Iran, this starts out terrifically for Iran. Now why does it get better? I actually am going to explain. This is what I published in the Substack uh here uh yesterday. It's a detailed analysis. What happens over the next 30 to 60 days? This is this time when they're supposed to be talking, right? What happens in the next 30 to 60 days is that the oil inventories will run dry.
 That is we are not stopping the draw on the oil inventories in the next 60 days. And the reason is because, and you've had some of these folks on your show, is that the uh oil getting the oil out of the Gulf and to the refineries actually to its destination is essentially a
 
-### Segment 2 — To Day Process At Best
+### Segment 2 — Trump Iran Israel
 
 30 to 60 day process at best.
  At best, it may even take a little bit longer. So during that period of time, that 60-day window, there will be no new oil coming into those consu uh clients, those consumers, they must continue to draw down their inventories. So what's going to happen, Mario, is Iran's leverage, which is already pretty great, and he they are really squeezing Donald Trump.
@@ -81,7 +89,7 @@ down the straight again. This time, this is happening now in mid August, just mo
 They have gained power. negotiations now are a tool for more power and they're uh Trump is is just simply um he he he's just weak and [snorts] that's what everybody has is seeing the uh uh if um uh if there is a an opportunity for Trump to wreck write the the balance here um in the short term within a few weeks there's only one recourse and he doesn't want to do it which is bombing uh or something even worse because if he does that he'll alienate another part of his meabase.
  So he's he is he is caught here where Iran is in the driver's seat. Iran is gaining power and it is about to enter its period of maximum leverage and that will go on through January at the uh at least >> well the US intelligence uh agencies I'm trying to see oh no this I'll go with this one the CIA director um he so John Ratcliffe told Trump and senior officials that US intelligence raised serious doubts about Iran's willingness to make the nuclear
 
-### Segment 3 — Concessions The Deal Seeks
+### Segment 3 — Iran Trump Hormuz
 
 concessions the deal seeks.
  The reason is striking. Intelligence reportedly showed Iranian officials discussing the deal among themselves in ways inconsistent in what they were telling American negotiators and mediators. The split inside Trump's team is now visible. Ratcliffe, Rubio, Hexath voiced skepticism internally while Vance Whit and Kushner pushed the deal through.
@@ -97,7 +105,7 @@ doing negotiations and those negotiations were with Russia with China with Pakis
 Israel so this is relative power not just absolute power as Well, so now they're in the position we're looking ahead with the actual negotiations here with uh uh with Trump is it's a next play of the power uh trajectory and that play is squeeze Trump, make it embarrassing for Trump and gain money because money and resources really do help with power.
  And this is a lot of money. I mean, the 12 uh billion dollars that we're talking about upfront, that's
 
-### Segment 4 — Almost Times What Obama Gave
+### Segment 4 — Israel Iran Trump
 
 almost 10 times what Obama gave uh um allowed Iran to have. So, which was 1.7 billion. So, this is politically embarrassing for Trump. Uh it's a lot of money here. That's money like that they can use. Money is fungeable.
  They can use it in all kinds of ways to build uh uh you know military uh the assets of of regional influence if you want to call it put it that way. Um and this is just the beginning because they're going to make a billion dollars a week. Okay. So they got that coming in. Then at the end of 60 days uh for just simply selling a billion dollars a week they're supposed to get another 12 billion.
@@ -112,7 +120,7 @@ Trump is going to uh uh is going to sort this out? I think this is really very b
  So there's there's What are they likely to do? They're like a cornered cat. I wouldn't be at all surprised if they lash out. And I mean they lash out to try to kill more leaders in Tehran literally to kill the um uh the the the foreign minister who's doing the negotiating because you'll recall that this has been a a pattern of Israel to actually kill the Iranian negotiators who are making deals or on the cusp of deals with the United States.
  I wouldn't be at all surprised that is uh that could happen as Israel feels cornered. It is a decline. It doesn't have many options and they start to essentially panic. >> If Trump um makes it
 
-### Segment 5 — Very Clear To Netanyahu That
+### Segment 5 — Iran Israel Trump
 
 very clear to Netanyahu that the US would not be involved if Israel decides to get into a war with Iran or Iran attacks Israel. If that's the case, do you think there's still a possibility that Israel gets into a war with Iran knowing the US is not there to support it? >> I I think Trump words won't be enough uh here because you've already seen they've
 had shouting matches and you've seen Netanyahu. Maybe there's a pause here or there for a day or two, but Trump's shouting at Netanyahu isn't doing a whole lot. Um and Netanyahu is in real trouble because he's up for reelection as well. and he wants to run as as somebody who is uh successful at um defending Israel against Iran and Hezbollah.
@@ -126,7 +134,7 @@ This isn't like the bottom is about to settle out because Iran's power is likely
 Israel, they don't get their 12 billion dollars, and let's say they never do sell much of their oil. Well, then of course Trump, that's what Trump is selling. He's saying that's that's his image of what's coming. I I don't see that. I see the Iranians as laying out a pretty clear um uh future here. And by the way, it's I I if if um if there's something in the in theou that would contradict that, all Trump would have to do is release theou.
  So if there really if if there really is no money that's supposed to go to Iran or this is then then um we should be able to get this straightened out. >> Why do you think they haven't released
 
-### Segment 6 — It Yet They're Trying To
+### Segment 6 — Iran Trump Turkey
 
 it yet? They're trying to hide something. >> Oh, for sure. I mean, these are politicians, Mario, and they live in the limelight. They love cameras.
  You ever see a politician run away from a camera? [laughter] Okay. So, um, and and I say that being on camera with you. So, that that there's a lot to that. But still, what's happening here is if this was a great uh event that was going to build political support for Trump, man, he would have he'd be flying it like a flag.
@@ -143,7 +151,7 @@ That's what's actually secret. The other stuff is easedropping. Okay. So, but th
  What does it mean to have a regional arrangement, Mario? It means without the US. That's what that means. So you're that means more bandwagoning here. And maybe that's going to include now Turkey. Maybe you'll get a Turkey Saudi. You're just going to get regional arrangements. and we're going to have infinite discussions of different regional arrangements.
  Those are all ways to to get these states to
 
-### Segment 7 — Have Less Interest In Having
+### Segment 7 — Iran Syria Europe
 
 have less interest in having America's forces there because they're seeing that hosting American forces makes you a target. So this is the now for Iran though just to look out a little bit further here Iran has got a real window of about three to five years to achieve this regional primacy before and this is something that I'm sure you're well aware of before there are all these bypasses that are going to be built the Syrian pipelines all the other pipelines that's going to take time I doubt this is going
 to happen in six months you're hearing a lot of people talk tough like they're going to do this in 6 months. We'll see. But over the next year or two, I think or or maybe several years, this is what's coming. So, what does that mean? That means that if Iran's going to have regional primacy, it needs to a sphere of influence from the Mediterranean.
@@ -158,7 +166,7 @@ Well, this war is reversed the lesson of the 91 Gulf War like another thud. And 
 They're just reflecting the realities under underneath the diplomacy and Iran is is actually so far not overreached. I I I hope I'm not really I um I'm not very much in favor of of this world because this world is pretty bad for America and I live in America. But the um but but Iran right now, the only the biggest hope I have is that they're going to overreach and do something really stupid here.
  Um uh but
 
-### Segment 8 — So Far They Haven't They've
+### Segment 8 — Trump Israel Iran
 
 so far they haven't. They've done it all in this. >> Why would you why would you hope that is that? Because if they overreach, wouldn't Trump retaliate? Wouldn't that be bad for the region if we're back to conflict? >> Well, the problem, as I said, I'm I'm a I'm an American, Mario, that when when America goes down, I go down with it.
 I'm not leaving. But if I'm on the ship I'm on the ship all the way to the end, Mario. I don't like the fact where it's going. >> Yeah, but I worry that the other I agree with you everything you said. I just worry the other path could be worse because if they overreach and Trump for political purposes or whatever or legacy purposes gets dragged back into it, that ship could head down an even worse.
@@ -172,7 +180,7 @@ you know, re kind of deal with this image now of Trump as the weakling? >> Part 
  So, I'm looking at this in a 60-day window. And I'm and and the more I hear, so let me just take what you just said as a fact, which is that in this 60-day window, there's supposed to be a plan for uh Israel to withdraw and then they're supposed to withdraw. Well, after 60 days, let's say that doesn't really come to be.
  In which case, that's another reason for Iran to close the straight of Hormuz. it it the the uh the the the bill of particulars that Iran can present to the world about why it's legitimately closing the straight of form moves is I I think already being laid uh like breadcrumbs by the foreign minister and also I think by theou at least by the leaks I'm going to take what you said as a fact and if that is a fact that's
 
-### Segment 9 — Another Breadcrumb For The List
+### Closing — Iran Israel Trump
 
 another breadcrumb for the list of particulars to close Hormuz again in 60 days.
  Um and uh and then have Iran in the driver's seat to again and again their leverage will be higher because now we're out of the cushion. The oil inventory uh buffers will be gone. Um and they have um uh they they will then be middle of August and they can just simply say, "Okay, we did it. They didn't come through. We told them this over and over again.

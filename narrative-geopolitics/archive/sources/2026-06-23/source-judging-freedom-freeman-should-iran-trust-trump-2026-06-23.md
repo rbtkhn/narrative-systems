@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 ingest_date: '2026-06-23'
 pub_date: '2026-06-23'
 kind: transcript
@@ -23,14 +29,24 @@ evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: paste-prefix
 normalization_state: raw_operator_paste
-editorial_note: Operator-pasted transcript body; ideological cold open, canned sponsor read, and closing lineup promo trimmed in place when post-land normalizers apply. ASR artifacts retained (Npalitaniano, Chaz Freeman, Burgentock, etc.). Not human-verified verbatim. Caption/paste wrapper residue normalized in place; SSOT substance preserved. Ideological cold open trimmed in place; SSOT body otherwise preserved. Canned sponsor read trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-25 (9 sections)."
+editorial_note: "Operator-pasted transcript body; ideological cold open, canned sponsor read, and closing lineup promo trimmed in place when post-land normalizers apply. ASR artifacts retained (Npalitaniano, Chaz Freeman, Burgentock, etc.). Not human-verified verbatim. Caption/paste wrapper residue normalized in place; SSOT substance preserved. Ideological cold open trimmed in place; SSOT body otherwise preserved. Canned sponsor read trimmed in place; SSOT body otherwise preserved.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (8 sections)."
 quality_note: Fresh intake 2026-06-23.
 transcripts_prefix_stripped: true
 caption_wrapper_normalize_applied: true
 napolitano_cold_open_trim_applied: true
 napolitano_sponsor_trim_applied: true
 napolitano_leading_noise_trim_applied: true
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 8
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # AMB. Chas Freeman: Should Iran Trust Trump?
@@ -43,12 +59,12 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Should Iran Trust Trump
+### Show Open — Trump Iran
 
 Hi everyone, Judge Andrew Npalitaniano here for Judging Freedom.
  Today is Tuesday, June 23rd, 2026. Ambassador Chaz Freeman will be with us in just a moment. Why should Iran trust Trump?
 
-### Hormuz MOU — Israel Lebanon Tether
+### Segment 2 — Israel Iran Lebanon
 
 Ambassador Freeman, welcome here, my dear friend.
 Thanks as always for accommodating my schedule. Let's start. This is going to sound ridiculous. Let's start with the basics. Is the Straight of Hormuz open? Is the United States Navy gone? Do the Iranians control the straight? Do we know if we can answer these questions? >> Iran controls the straight. The straight is open or not open depending on what Iran decides.
@@ -59,7 +75,7 @@ Um they plan to basically enex southern Lebanon. This is totally unacceptable to
  And uh so Israel is now on a tether. We'll see how whether the tether has any strength to it or not. But Donald Trump has created a terrible dilemma for himself politically and guaranteed that uh there will be a confrontation between the United States and Israel over Israel's regional policies. Here's um Chris, this is the Trey Yinst uh full screen.
  Here's what President Trump said to Trey Yankst, a Fox News correspondent. um
 
-### Trump Threats — War Crimes and Trust
+### Segment 3 — Iran Hormuz Israel
 
 within 48 hours of signing the memorandum of oper of uh understanding you close it meaning Hormuz and you won't have a country. He then said to the negotiators you won't even make it back to your effing country. Now, both of these in my view, correct me if you see it differently, Ambassador, are war crimes.
 Not only violations of this memorandum of opportunity, but war crimes. >> Well, there's certainly threats of aggression that are completely incompatible with reaching any kind of agreement uh with uh with the Iranians. Um uh and they are I think I'm sorry to say this, but they are evidence that Donald Trump has totally lost his self-control, whatever self-control he once had.
@@ -69,7 +85,7 @@ Not only violations of this memorandum of opportunity, but war crimes. >> Well, 
  Um and um it basically has had so many negative consequences that we have to find a way to call it off. Uh it is basically a framework for talking about how to disengage from the mess that we have made. Uh and it isn't going to work if u it is punctuated by this kind of uh uh foolish belligerance on the part of of our president.
  So um it is uh it is not a uh I would say the memorandum maybe maybe it should be called the memorandum of misunderstanding because it's clear that there is no consensus between us. >> Right. Right. I mean what happens and we're going to play a clip from um Minister Ben Gavir in a minute but I want to ask you this first.
 
-### Ben Gvir — Lebanon Playground
+### Segment 4 — Israel Lebanon Trump
 
 What happens when the Israelis persistently continue to kill in Lebanon? >> Well, uh you're going to play the clip, I guess, but um this is totally inconsistent with u the memorandum of understanding and it creates a direct confrontation between the United States and Israel. Um, it's rather clever of Iran, I guess, to have insisted that uh the United States and Iran jointly monitor the progress toward the ceasefire and a withdrawal of of from Lebanon of of Israel.
  We basically have recognized we have a common interest in preventing Israeli aggression against others in the region. And going back to the question you asked about whether the Iranians have any reason to trust Donald Trump, of course they don't, and they absolutely do not trust him and they have been quite open in saying so.
@@ -85,15 +101,13 @@ the United States for that. until apparently now. And we will see how the confro
  Israelis are not grateful of what the United States has done for them. They demand more. And he has even in this included an implicit threat to Donald Trump. You know, very mafio in his uh his approach. If you don't comply with my demands, well, you know, that would be too bad for you, maybe. >> Wow. >> Very.
  I wonder I wonder if Trump will uh will perceive it that way. I mean, could you imagine if a liberal Democrat in the Congress stood in front of the Capitol building and said, "I hope the president doesn't get hurt, there'd be an uproar and rightly so." >> Exactly. >> Well, >> exactly. >>
 
-### Israeli Public — No Introspection
+### Segment 5 — Iran Israel Trump
 
 Does the Israeli public, as far as you can tell, ambassador, recognize that the Netanyahu Trump war was fruitless? that Iran is stronger today than it was a year ago in June for the 12-day uh war and that all of us can be laid at the feet of Benjamin Netanyahu.
 >> Uh I think they do. Uh but uh before we take too much pleasure in the belated recognition by Israelis that this war was a terrible mistake and it has been as you said worse than fruitless. it has done has been totally counterproductive. There is no evidence of introspection on their part.
  They are not reflecting on why their policies consistent since the establishment of the state of Israel of using force as a substitute for diplomacy have not worked have not only not worked but put them in a much worse position. So there's no evidence that they're learning anything from this except they're blaming Donald Trump and the United States for the failure of their own policies which they have persuaded us uh to support and adopt ourselves.
  So um that is that is a serious uh deficiency on on their part. >> Wow. Uh yesterday uh Vice President Vain, I don't know where he is today. I don't know if he's still there or if he's on his uh way home, but yesterday uh in Switzerland after negotiating uh with the Iranians during which of course they walked out when the president back in Washington threatened to kill them.
 The vice president said, "By the way,
-
-### Vance Spin — IAEA Inspections
 
 they have agreed to inspections." inspections were already the law of the land under the JCPOA. So, we're going to play backto back um JD Vance and the guy people seem to have forgotten about with respect to these inspections. President Barack Obama, Chris, this is probably what we're most excited about as Americans.
  The Iranians have agreed to invite IAEA inspectors back into their country. That is a major milestone for the American people and the first step in permanently denuclearizing or or permanently ending a nuclear weapons program in Iran. >> For decades, inspectors will have access to Iran's entire nuclear supply chain from the uranium mines and mills where they get raw materials to the centrifuge production facilities where they make machines to enrich it.
@@ -102,7 +116,7 @@ they have agreed to inspections." inspections were already the law of the land u
  So they have no reason to respect or regard the IAEA, the International Atomic Energy Agency with with with favor. So I I I think this is um another example of spin on our part. Maybe we will get that concession going back to something we had before we tore up the nuclear agreement that Obama and his administration negotiated.
  And maybe we won't. We'll just have to wait and see. We don't usually uh cover uh domestic disputes, but this one has become so ridiculous that I have to play this uh clip of President Trump and the
 
-### Reflecting Pool — Corruption and Midterms
+### Segment 6 — Trump Iran Reflecting
 
 reflecting pool controversy. Chris cut number eight. >> This will last for at least 50 years and you'll never have a leak.
  It's very strong. You couldn't if you had a knife. I don't want to give anybody ideas. If you had a knife, you can't even cut it. So strong. So powerful. It's like powerful rubber. >> Are the contractors who did the initial work with the reflecting pool, are they to blame for the current condition or is it >> vandalism? Vandal, you know, we haveundred we have a I think 290 300t slit right through it.
@@ -115,7 +129,7 @@ reflecting pool controversy. Chris cut number eight. >> This will last for at le
 >> Let me make a a fearless prediction. We're headed into the midrooms and I think one of the main themes of that election is going to be corruption. the corruption of the US Congress from major donors, the corruption of the presidency by the same forces, the corruption of our our system. Look, you know, we're talking about uh uh trying to understand what's going on with Iran.
 While we're doing this,
 
-### PY Purge — Intelligence Hollowed Out
+### Segment 7 — Intelligence Don'T Trouble
 
 Mr. PY, the acting head of the National Intelligence uh Department is busily firing people right and left for no reason except that they're holds from previous administrations. We are conducting a an incre an increasingly self-destructive purge of our the sources of our governmental competence such as it is.
  Uh this is really stupid. I I don't know. I don't know what you feel about it, but I think, you know, stripping your intelligence agencies of their seasoned professionals is not a smart thing to do when you're in trouble internationally, and we clearly are in trouble. >> Of course, I I agree with you, uh, ambassador, and and what you just articulated, I'm glad you did, is happening quietly behind the scenes.
@@ -123,7 +137,7 @@ This man PY may be a nice guy and he may have been a very successful home builde
 >> Right? So this is a problem with this administration and has been a problem throughout our history, the spoil system. Now it's on steroids. People are appointed to positions because they are believed to be sick offense. They are believed to be loyal to the president politically, but they have no qualifications whatsoever for the jobs that they've been appointed to.
  Uh this is the least competent cabinet in our history and it is not getting better. >>
 
-### Close — Farewell
+### Closing — Ukraine Russia Ambassador
 
 Ambassador Chaz Freeman, thank you very much. Thanks for your analysis on all these things. Who knew >> you were an expert on swimming pools? >> Well, they're a lot of fun. I don't know about swimming in the algae and in reflecting pool.
  No, but what you said makes perfect sense. It doesn't require expertise. A high school student knows that a dark color maintains heat. >> Eat. >> Yes. >> All the best, Ambassador. Thank you. We'll look forward to seeing you next week. >> Okay. >> Sure. Uh a full day for you uh coming up. Uh, if you're watching us live in 35 minutes at 9:00 this morning, Professor John Mirshimer at 2 this afternoon, Matthew Hoe at 3 this afternoon, Colonel Karen Quacowski at 3:30 this afternoon, back from three weeks in Russia and Ukraine. Scott Ritter, Judge Palenno for

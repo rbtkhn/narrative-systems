@@ -1,5 +1,6 @@
 ---
 
+
 ingest_date: 2026-06-09
 pub_date: 2026-06-09
 kind: cleaned-transcript
@@ -30,9 +31,8 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: clean
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 24 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Marandi, Tehran, hormones, ethnosremacism, NetA, etc.). Podcast subscribe close stripped at tail. News-verify batch 2026-06-08–09 harmonized — developing-story timing: Davis/Marandi aired as Trump Truth Social landed; cause seam moved from under-investigation toward drone-hit (Axios) same day. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 24 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Marandi, Tehran, hormones, ethnosremacism, NetA, etc.). Podcast subscribe close stripped at tail. News-verify batch 2026-06-08–09 harmonized — developing-story timing: Davis/Marandi aired as Trump Truth Social landed; cause seam moved from under-investigation toward drone-hit (Axios) same day. · source-section pass 2026-07-09 (9 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -41,6 +41,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Professor Seyed Marandi: EXPECT ESCALATION OF WAR IN IRAN
 
@@ -52,7 +55,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Trump Netanyahu
 
 President Trump last night said that we are very close to having a great good and powerful deal with Iran and maybe this war can come to an end or maybe not. Maybe it'll just continue to to drift on inconsequentially forward. Who can say? But maybe we'll need to go back to war two. All of that is in the offering today and we're going to try to find out how close are we actually to an end of negotiation.
  And most importantly, we're going to see what does the Iranian side have to say about this and how close do they think that we are. You can't get a deal unless you have both sides come into one mutual understanding and we'll see how close we actually are today. Uh and there's literally no one better that on our show to try to assess where the Iranian side is than our good friend, Professor Say Muhammad Marandi, who is the professor at Tehran University, a former adviser to Iran's nuclear negotiating team and a combat veteran of the Iraq war. always
@@ -66,7 +69,7 @@ the Trump has been saying things that are in contrast to what his negotiators ha
  Um I'm not going to um remove the sanctions those the removal of sanctions or the li or the lifting of sanctions during for the Iranian oil or energy sector during the period of the agreement. That is something that was more or less agreed upon. And he said the Iranians must have hand over that dust.
  So the nuclear dust which of course Iran has not agreed to do. that's not a party of the first part of the first stage of the agreement in any case. So these sort of statements that completely contradict what American negotiators send to Iran uh remind we have to remind ourselves this there isn't a final text but the agreement is the general framework of the
 
-### Segment 2 — Agreement I Think We All
+### Segment 2 — Iran Lebanon Palestinian
 
 agreement I think we all have heard about and we know the details.
  So uh he is moving away from the agreement and perhaps this uh helicopter which fell uh provided him with an excuse to please the Zionist lobby who's which may not be too happy about uh his position on the air strikes in on Beirut and the bombing in the city. And um and it may be also an excuse to uh escape the fact that he promised a deal in a couple of days uh and that uh there is nothing prepared for the two sides to agree upon.
@@ -82,7 +85,7 @@ But, uh, you know, their economy is really suffering and they're going to make a
  It's sort of like saying let's flatten New York or let's flatten I mean it's just these people are so satanic that they've just normalized everything. It's I think there's a certain numbness in this world now with regards to what the Zionists do. But uh so he has no problem with killing. But I I think that well what is going to happen now is that the United States will initiate some sort of a military attack on Iran and Iran is going to retaliate and we'll have to see where that leads us.
  And also there's a there's a strong possibility that the Iranians will strike at the Israeli regime again because they
 
-### Segment 3 — Are Carpet Bombing Southern Lebanon
+### Segment 3 — Israel Iran Lebanon
 
 are carpet bombing southern Lebanon as we speak. So it's a very complicated situation. >> I I did want to get to that that issue as well. In fact, I to try to get there, I want to back up just a little bit to get your view on what how the Iranian side suggested things happened last weekend or the last towards the end of last week because it was a series of events.
  Uh first of all, the Israeli side uh after being warned repeatedly not to attack a certain area in Beirut, they did anyway. And then Iran had been saying if you do that, then we're going to respond. Then they did. The Iranian side sent missiles into Israel. Uh, Israel claimed that they were all intercepted, but then Trump said to Iran, "Hey, okay, let that be enough.
@@ -98,7 +101,7 @@ the coalition that supported Hezbollah the alliance that Hezbollah was the leadi
  So it's an area with hundreds of thousands of people. Some couldn't. there's just no more space. They had to go back to the south because the government won't won't let them go anywhere else. And they were bombed and many were killed. So the the government has helped the Israelis kill lots of people in the south. But Dahi has now overpopulated because many refugees have gone there.
  And so the Israelis said we have to flatten Dah, flatten southern Beirut. And that would mean a catastrophic situation worse than worse than um
 
-### Segment 4 — What We Saw In Gaza
+### Segment 4 — Iran Israel Trump
 
 what we saw in Gaza. So the Iranians warned the Israeli regime that if you do that we'll hit you. And then we saw the Trump Netanyahu exchange where Trump allegedly according to uh Axios which I don't trust at all in anything but I think this is probably valid.
  He had that interaction with Netanyahu and attacked him. I personally think that some powerful people in the White House, Israeli fursers even uh the Zionist class, they probably put it out there because they feel Netanyahu's uh he should gradually leave the scene. That's my thinking because that statement that that went down very badly in in the Hebrew media the next day and Netanyahu's opponents were attacking him. Even his allies were attacking him.
@@ -114,7 +117,7 @@ It's just like beyond belief that this could be happening in front of the eyes o
  The the genocide in Gaza has to be stopped. Well, and let's let's take a look at those in in order uh here. Um and interestingly, also the the Israeli side, the IDF chief, this is in just uh minutes ago. Uh said that Israel planned much more significant and severe blow to the Iranian regime uh if if President Trump had not stopped them on I think it was Monday.
  They
 
-### Segment 5 — Claimed They Were Ready To
+### Segment 5 — Iran Israel Trump
 
 claimed they were ready to go on Monday, but they're prepared to return for war. Um so meanwhile I think also the Iranian side uh foreign minister Iraqi also reiterated Tehran support for Hamas and that they are prepared to return to conflict too. So what what are the pro possibilities here that we may be getting close uh to not to a peace but to returning back to active combat operations.
 I think we're getting very close to war and the Iranians are prepared and uh the Iranians have also warned the Americans that if the Israeli regime strikes Iranians critical infrastructure, critical infrastructure across the region and Israeli critical infrastructure will be destroyed because the Israeli regime cannot wage war against Iran without US help.
@@ -130,7 +133,7 @@ I think we're getting very close to war and the Iranians are prepared and uh the
  So every time the United States I mean they they violate the US has violated the ceasefire many times and but every time the Iranian response was sort of of a similar uh let's say a similar height of military activity but the last two times Iran was much more heavy-handed. I I don't I don't I think that that's probably the Iranian policy now to to be hit back very hard as a as a means of deterrence.
 But again, if if this becomes war, then I think that the um energy facilities in the Persian Gulf will
 
-### Segment 6 — Probably Be Destroyed And The
+### Segment 6 — Gaza Lebanon Israel
 
 probably be destroyed and the Strait of Hormuz will be shut down and that means Saudi oil will no longer be available on the markets. And um another trade that goes through the Red Sea will will come to an abrupt end.
  You know, the the thing is that what what I find so remarkable, so extraordinary is that this is all because the West wants to allow the Israelis to carry out genocide in Gaza now in Lebanon. The West is fully supportive of genocide and it is quite I mean look at the last two, three years. Have you seen any parliament in Europe sanction the Israeli regime? And you see, I mean, as we speak, Iran is being sanctioned by Western countries.
@@ -145,7 +148,7 @@ that for at least a year in order to help the Israelis carry out their genocide.
  I mean, just two three days ago, they shot a seven-month old baby in the head in the West Bank and and and killed the kid. And you know even when in western media I saw on Twitter on X that that the part where they show like the news or headlines and it was trying to justify it and it's just so outrageous the way in which everything that the Israeli regime does in Lebanon these are Hezbollah strongholds in in in Gaza.
  So they've been slaughtering people. I mean, I'm I'm sure that in on Fox News, CNN, MSNBC, Sky News, the BBC, New York Times, Guardian, what what they're going to continue to do is just say Hezbollah stronghold
 
-### Segment 7 — Until The Whole Country Is
+### Segment 7 — Iran Trump Lebanon
 
 until the whole country is destroyed. Hamas till everything and everyone is slaughtered in Gaza. That's how it is.
  And then they'll put some some government some countries because of public pressure they'll put these token sanctions on a couple of of these crazy fanatics in in the West Bank whereas all of them are fanatics. But that's just to that's just to that's just to silence critics. Otherwise, Australia, New Zealand, Canada, the EU, the British, uh the the Americans, of course, uh they're all a part of this genocide.
@@ -160,7 +163,7 @@ But in the case of Lebanon, yes, the Iranians will not allow the American the Is
  And that would seem to push us even further back from a negotiated settlement. >> Yes, I think there's a poss there's a possibility that this war could go on till into next year. Uh but what I think will happen before then is that the global economy will crash if >> could the Iranian economy survive uh an extended blockade of their economy into into next year? Well, for Iran, this is a a a war of for survival. And so Iran has no option.
 Iran knows that if they concede anything to the United States, that Trump will become only only become more aggressive. Um Trump will not abide by his commitment. So we have no choice but to remain steadfast till, [cough] excuse me, to remain steadfast till the United States under
 
-### Segment 8 — Trump Backs Down Or Trump
+### Segment 8 — Israel Iran Trump
 
 Trump backs down or Trump is removed from power.
 or there's a global economic depression where everything just falls apart everywhere and the United States is forced to withdraw because if there's a global depression the the US armed forces won't be able to remain in the region I mean the re these regimes in the Persian Gulf they'll all fall apart we'll be living in a very different world uh very horrifying situation it'll be definitely >> and and I'm sorry we didn't have much time to talk on it it's kind of important though what is your understanding of what the Houthies are
@@ -176,7 +179,7 @@ I'm just saying this based on my own assessment. uh since the United States woul
 Well, >> or if get out of this. >> Yeah. Yeah. I mean, it's complicated. Or or if the Israelis target Iranian critical infrastructure, the Iranians will go after the critical infrastructure of the of the Israeli regime and the countries in the Persian Gulf because the United States is assisting the Israeli regime and they have a presence in the Persian Gulf.
 This is this I mean I I hate war. I've survived two chemical attacks. The West gave those chemical weapons to Saddam. I was
 
-### Segment 9 — Shot I Have Shrapnel Wounds
+### Closing — Iran Lebanon Israel
 
 shot. I have shrapnel wounds. I've been to Syria many times. I saw what al-Qaeda and ISIS do despite the propaganda in the West. They were very vicious and extraordinarily violent, much worse than the than the previous regime.
  I have been to Iraq. I've seen ISIS what it does in Iraq. I've been I've seen war. I've I've been to Lebanon and I saw I went there right after the war, the 2006 war. I was there when say Hassan Nasah was was martyed by the Israeli regime. I've seen war. I hate war. But at the end of the day, Iran for Iran and the people of this region, this is a fight for survival.

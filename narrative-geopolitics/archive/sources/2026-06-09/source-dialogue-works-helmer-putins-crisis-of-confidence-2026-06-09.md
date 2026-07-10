@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-09
 pub_date: 2026-06-09
 kind: cleaned-transcript
@@ -28,9 +29,19 @@ evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: clean
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 1 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 1 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (9 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # John Helmer: PUTIN'S CRISIS OF CONFIDENCE?
 
@@ -43,7 +54,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Russia Ukraine John
 
 Hi everybody. Today's Tuesday, June 9, 2026 and our dear friend, our brother John Helmer is here with us. Welcome back, John. >> Thank you for having me back. Good to be here. >> John, let's start with your different take of what's going on with Vladimir Putin, I would say. And because you you told me that Putin is dealing with some sort of crisis of confidence, what is that? And what is your understanding of the current situation with the war in Ukraine? And why you put it in? Do you think that we know one side Vladimir
 Putin believes that or not believes he's he has his own people like K Deitri. I don't know if there is some any sort of negotiations happening between the two sides but he's responsible for those negotiations if there is some and on the other hand we have Lavro has he has his own take of what's going on but before going there your understanding of what's going on with Vlad and his understanding of the war.
@@ -60,7 +71,7 @@ Now, um if the oligarchs are viewed that way with that much misgiving and distru
 Abramovich was given President Putin's principal role in the original Istanbul negotiations of pardon me March April 2022. The Turks treated Abramovich in the negotiating room as having a higher rank than the official Russian delegation. Abramovich has been a failure in negotiating on behalf of the Russian state.
  It's clear that Abraong has been negotiating for himself to protect himself and his assets
 
-### Segment 2 — In The United States From
+### Segment 2 — Russia Trump Europe
 
 in the United States from sanctions. There is no public trust in Abramovich. So why was he sent? It cannot have been Abramovich's initiative. That doesn't happen in politics, in diplomacy. But Abramovich isn't the only uh oligarch that's being used by the president.
 Kirald Demitri, you mentioned him, Nima. Those who doubt there's a crisis in confidence in President Putin have to ask themselves, how much confidence do you, the doubters, have in Demetri? Dmitri says he's constantly negotiating with Witkoff and uh um Jared Kushner on the telephone. All you have to do is go to Demetrius's tweet Twitter account.
@@ -77,7 +88,7 @@ Witkoff and Kushner then after getting off the phone with Dmitri ring up Zelensk
  Looking at the Iran war from a Russian point of view, it's a case of Trump attempting to not only change the regime in Iran, but to destroy Iran as an independent state. Okay? So, if you believe, as the Russian oligarchs want to believe, as Kir Ditrif insists and as President Putin said himself last week in St. Petersburg to international businessmen that the he president Putin and Russia believes that Trump offers a permanent guarantee for Russia's security in Europe in the future.
  What on earth does the record show? It shows the reverse. So uh what put uh what uh foreign minister Lavrov said and I'll
 
-### Segment 3 — Just Quote It So That
+### Segment 3 — Russia Trump Nuclear Weapons
 
 just quote it so that the doubters who want to disbelieve me can take their case to to toe minister Lavro who by the way has an Armen had an Armenian father and knows very well how things work in Armenia. Let's just quote uh Love Rob and then I'll shut up.
 quotes. If we talk, says Lavrov, on Monday about the negotiations quite recently, almost a year ago in August 2025 in Anchorage, President Vladimir Putin showing a spirit of compromise, adopted an absolutely specific proposal of President Trump. That's how the negotiations ended. I very much hope that the experience of previous failures when the West refused to fulfill its own supported agreements will not be repeated in relation to the agreement in Alaska. But here's the rub.
@@ -94,7 +105,7 @@ You've mentioned that the people in Russia are asking the administration to to e
  it by cutting military expenditures or if we if we the Russian side want to increase our military expenditures we must do it at the expense of social welfare, health, medical education, subsidies to the business community in form of subsidized loans and other benefits, subsidies to agriculture and so forth. In other words, the finance ministry is saying, "Choose now.
 Choose to budget uh more military expenditure in order to finish the war and secure Russia against its attackers. Uh if you want to do that, you must balance the budget. That's their principle. Must balance the budget. So you must cut social welfare. To say this at the
 
-### Segment 4 — Beginning Of An Election Campaign
+### Segment 4 — Russia Ukraine Interest Rates
 
 beginning of an election campaign would be suicidal for most politicians, but the finance ministry supports the line cut the budget at the expense of the military.
  The same line is reflected we've mentioned many times before uh by the governor of the central bank of Russia Elvira Nabolina. her um motto, her policy is uh not only Silwanov's cut, keep the budget deficit down, cut the budget deficit as if Russia runs like a corporation in which it must cut its costs and increase its profits. Her line has been must control inflation, must reduce inflation, must um increase interest rates.
@@ -110,7 +121,7 @@ uh the military command, the general staff, the defense ministry, uh those compr
  when he tries to do that with Armenia over the weekend, the Americans say we have the capacity, the Europeans say to we have the financial capacity to take Armenia from the Russians and they will. That's the crisis of confidence. >> John, when you talk about the escalation, what else should Putin do? Because so far he did everything I think on the battlefield.
  He's achieving whatever Russia had it in its mind with four all blasts there more than 70% of the territory of these four all blasts are in the hand of Russians today and they're little by little they're achieving the whole objective on the battlefield but when it comes to the negotiation I think your point is with the negotiations and if they decide to let's assume the Russian president decides to we're not we're not going to negot negotiate with, you know,
 
-### Segment 5 — Steve Wkgov Or Jed Kushner
+### Segment 5 — Russia Ukraine Trump
 
 Steve Wkgov or Jed Kushner.
  Let's bring it on with Marco Ruby or someone in the State Department. Is that going to happen? Is that on the table for Vladimir Putin? Or maybe I think LRO would be the main negotiator for Russia if the United States decides to negotiate with Russia. That would be the main point. And I don't see that happening, John, because because of what's going on in the United States.
@@ -127,7 +138,7 @@ You don't see limits on drones. You see limits on artillery. You see limits on m
  Let me just uh suggest that what I've just spelled out is the increasing difficulty of defining the war aim as being achieved. Demilitarization of the Ukraine now means demilitarization of its fighting capacities outside Ukraine. That's why the Anchorage formula, that's why Putin has said, "I trust Donald Trump to enforce a security guarantee for us on Europe, on Germany, UK, and all the other countries I've just mentioned.
 " But Trump shows no interest in doing that. Okay. So, the problem is how do we achieve demilitarization as a military objective, as a political objective? Are we any closer to achieving that now by negotiation? No, we are not. Let's just quickly go to the issue of denazification. And
 
-### Segment 6 — Here's A Paradox On The
+### Segment 6 — Russia Ukraine Europe
 
 here's a paradox. On the one hand, you could say, and there's no doubt, I'm not denying, I'm not arguing the point about the increasingly fascist um uh Hitlerite uh in ideological doctrine that's installed in Kiev and and in Lavv that uh we don't have to remind people about what that
 would mean, but if you decapitated the Kiev regime as it currently stands. If Zelensky was removed either by election or by military means, do you achieve denazification in the Ukraine? One. Two, do you achieve and can you achieve denazification in the Ukraine when you have Nazification all across Europe when the merits regime in Berlin is increasingly rearming in exactly the same way and for exactly the same purpose to fight Russia as Hitler began to rearm during the 1930s.
@@ -142,7 +153,7 @@ sort of turmoil within the Russian society then they're going to get rid of Vlad
  I think just in they started the war in 2020 in February 2022. And in one year they have achieved all of their objectives. But the war is going on because the west is supplying more weapons. They have sacrificed a lot of you. You mentioned the casualties on the part of Russians. You say you said something like 200,000 soldiers or forces that on the part of Ukraine is some more than two million.
 >> Yes. But there's a difference. Russia's a democracy's a democracy and he's not prepared to sacrifice men. This is a fundamental uh discovery that Europe, the United States and the regime in Kiev and Lv are willing to sacrifice uh Ukrainian manpower. It it's not just a demonstration of how they press
 
-### Segment 7 — Gang People Across The Country
+### Segment 7 — Russia Ukraine Trump
 
 gang people across the country and force them into the to the front.
  Basically, the the NATO side is ready to sacrifice all of the Ukraine for its war, permanent war against Russia. Now, um uh the Yes, you're right. Uh there's no doubt that the increased and improved capabilities on the military side for Ukrainian drone warfare offset the loss and lack of manpower. Yes, that's very that's fundamental.
@@ -160,7 +171,7 @@ There's consensus. The compromise is Russia will uh end its offensive operations
  They must. Now the problem then of how deep does a demilitarized zone have to go for the Russian security guarantee that President Putin says he got from President Trump. Well, so we have Yes, I agree with you. President Putin has attempted to very carefully um limit the Russian casualties and compensate those who've suffered and make sure that the welfare of veterans and their families are as guarded as it's possible to be under the Russian budget.
  Okay, all of those things I agree. But the issue
 
-### Segment 8 — We've Often Raised Here Is
+### Segment 8 — Russia Ukraine Iran
 
 we've often raised here is what about the deep raids? What about the electric war campaign? Why does the Russian general staff work under the restriction of allowing Russ of railroad traffic, road traffic between the NATO supply hubs in Poland and the western assembly arms parks of of the Ukraine, particularly around Lav? Why uh are the lights still on? Yes, there is a very strong constituency which I've been reporting that says President Putin has on multiple times restricted the electric war campaign
 so that the Ukrainians essentially have had time to repair and rebuild their electricity networks. Why has there been that restriction? That would be armslength attacks on the western power supplies such that all water supply, all trains, all roads, all means of functioning with telecommunications would cease.
@@ -175,7 +186,7 @@ to answer uh it's been made clear pardon me by uh left tenant general uh under C
  What Kart is saying is that Putin does not adopt regime decapitation against Zelensky. Uh let's not get into the pros and cons of that. I don't disagree uh with those who say if you eliminate uh Zelensky, you get Belki or you get um Bodanov. And I won't get into the Ukrainian politics of those individuals except to say that they are more committed if anyone is more than Zelensky to permanent war against Russia than than he is.
  So the argument of of regime decapitation becomes again the problem we've already discussed. How do you denazify a regime which is supported by an increasingly fascist Europe? Okay, that's a problem. U so the >> problem I
 
-### Segment 9 — Think John The Problem With
+### Closing — Russia Europe Iran
 
 think John the problem with Europe remains in Europe. What is what is important right now is the situation in Ukraine and I know that Europeans are supporting them but after all the political system in Ukraine would be of particular importance for Russia and that's why they may do something of that
 sort and an attack on the Zelensky administration those people who are >> an attack on Zelensky uh administration to uh that doesn't result in in more um security for Russia is not an achievement of a by military means of a political objective. Um the the fundamental put in assertion here is the only person to be trusted for longterm Russian security in Europe and in the world is the United States and only the United States has the capacity to enforce its will not only on the Ukraine but on Europe.

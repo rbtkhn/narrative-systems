@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 ingest_date: 2026-06-19
 pub_date: 2026-06-19
 kind: transcript
@@ -27,7 +33,7 @@ source_note: Operator-pasted transcript; host self-dates Friday 19 June 2026. Le
 evidence_grade: transcript-bearing
 opening_tier: host-tease
 capture_note: Operator paste; full interview body preserved from user-supplied YouTube transcript.
-editorial_note: Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio. News-verify header pass 2026-06-19. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio. News-verify header pass 2026-06-19.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (9 sections)."
 transcript_wrapper_tier: clean
 verify_receipt: 2026-06-19
 verify:
@@ -43,7 +49,17 @@ verify:
   - claim: Israel Hayom (Adelson) open letter to Trump — "you failed" / MOU surrender / "betrayed us"
     verdict: supported
     note: Israel Hayom Jun 18 · Newsweek carry · cross-ref [J19-20 matrix](../../../statecraft/notes/wire/2026-06-19-news-verify-matrix.md) · [Vance routing note](../../../statecraft/notes/june-2026-vance-lightning-rod-rubio-optionality-note.md)
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Amb. Chas Freeman: Israel's Agenda Suffers MAJOR Collapse
@@ -55,7 +71,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Israel Ceasefire Lebanon
 
 Hi everybody. Today's Friday, June 19, 2026, and our dear friend, Ambassador Chas Freeman is here with us. Welcome back, Ambassador. >> Very glad to be with you. I've been struggling with a computer, so I'm not entirely up to speed, but um look forward to chatting with you. >> Yeah, Ambassador, start with what's going on in Lebanon.
 As we know last night there were many attacks by the way from the Israelis on Lebanese people. Four Israeli soldiers were killed yesterday and then we had attack escalation in the southern part of Lebanon. They killed so far based on the recent information that they have killed 47 people and 97 people were injured during this and the fight is going on because in the last two hours they were talking about ceasefire is coming. There is no ceasefire.
@@ -69,7 +85,7 @@ As we know last night there were many attacks by the way from the Israelis on Le
  Israel Hyome, which is the newspaper that um the Aden's fund, Miriam Adlesen, a propaganda tool for Benjamin Netanyahu, uh has condemned President Trump as having betrayed Israel. This is his largest donor in the United States. She is an Israeli citizen. uh and uh so it's very clear that the Zionists are breaking with the Trump administration.
 What is not clear is whether
 
-### Segment 2 — Trump Has Been Prepared To
+### Segment 2 — Israel Trump Iran
 
 Trump has been prepared to break with Israel because in effect the sort of statement that you just posted by Benir and other statements by Israeli spokespeople uh invite the president to pull the plug on Israel to stop the support of Israel. These people have had the impression that they are entitled to American support no matter what they do.
  Uh and uh they are entitled to violate American interests um on behalf of their own mis misguided view of their interests. So I think Donald Trump now faces a terrible dilemma. His bureaucrat Zionist donors are turned have turned against him. uh the Israeli establishment is against him. Whit and Kushner um who have bungled every negotiation they've attempted um are now being condemned by the Israelis as having betrayed their Zionist connections.
@@ -82,7 +98,7 @@ have been stuck in the Persian Gulf going again. Their engines need to be starte
 postponed as a result of the uh continuation of the fighting in Lebanon contrary to the agreement that the United States made with Israel. Is the United States going to enforce that agreement against Israel? Uh that is the question and uh we don't know the answer but I think uh Donald Trump deserves a little bit of pity for the position he's put himself in.
 >> Yeah. We we had Israeli channel 15. It says if Hezbollah tries
 
-### Segment 3 — To Confront Israeli Advances In
+### Segment 3 — Israel Iran Lebanon
 
 to confront Israeli advances in southern Lebanon we will defend ourselves and retaliate. This is the equation that they have created for themselves because basically they're what they're telling us. They say we are defending ourselves. They're attacking us. We are defending.
 But where what is the location in which they're defending themselves? Is the occupied Lebanon? >> No, it's not even occupied. I mean they are actively trying to advance against resistance >> and then they're saying the resistance is criminal and the fact that people are resisting in authorizes them to kill civilians the numbers you you gave.
@@ -96,7 +112,7 @@ What is happening right now is new. Donald Trump attacking Benjamin Net. You see
 And I can't imagine I went through the fall of Saigon, the end of the Vietnam War. What leverage did the United States then have with the Vietnamese government? None. Uh so uh basically if you lose a war, you can expect to have to face an adjustment in your policies and relationships that reflects the damage you've done.
  And this war has
 
-### Segment 4 — Been A Disaster From Every
+### Segment 4 — Iran Israel Economy
 
 been a disaster from every single point of view. Um I don't know of any benefit it has brought to anyone. It's been disastrous for Iran in terms of the number of civilian deaths and the amount of damage it's done. It was catastrophic for the Iranian leadership at um yes those huge huge damage done but it has been disastrous for the Gulf Arabs because of their association with the United States and in the case of the UAE and Bahrain their association with Israel.
 They are on notice that if these associations continue, Iran reserves the right to attack them. Iran has agreed not to attack anybody for 60 days providing there is a ceasefire in Lebanon. That is explicit in the agreement. Uh Israel is deliberately preventing the implementation of the terms of this uhou. Maybe it's really should be called a memorandum of misunderstanding instead of uh understanding because it's pretty clear that there isn't any any real understanding underneath it.
@@ -109,7 +125,7 @@ They are on notice that if these associations continue, Iran reserves the right 
 Korea GCC countries Europeans are suffering a lot you see the situation in I would say in Africa is not good at all as time goes by with the case of this rad for you see nowhere is feeling good the United States the economy Iran economy of Iran is not doing great the United States is the same way energy Donald Trump said two days ago that he's four weeks away to the o all the oil reserves in the United States will be depleted totally in four weeks.
  These are huge problems and on the other hand
 
-### Segment 5 — Political System In The United
+### Segment 5 — Israel Lebanon Trump
 
 political system in the United States we're going to have midterm elections and then right after the midterm elections we're going to have 2028 presidential election. These are these these are important issues for Donald Trump, but nobody seems to care in Israel.
  All they want is continuation of the war, the occupation in Lebanon, and they don't care about who the Trump administration and the difficulties they're facing. >> Well, I think, you know, Donald Trump really resembles the Israelis in many ways. [clears throat] He puts his own ego and his own self advantage before the advantage of his country.
@@ -123,7 +139,7 @@ Israel is concerned only about its well-being and not that of anyone else. Uh an
 Um and uh it has become militarily very competent. it took part in the Syrian warfare uh and its battle hardened uh and you know the fact that it feels able to u destroy three America tanks as they advance into Lebanon and the personnel aboard them including apparently a brigadier general uh you know this reflects the fact that it is defending its homeland.
 uh you know if Israelis were defending their homeland on their territory uh no one would have any objection to their uh they're doing what what Hezbollah has done. So in the end is
 
-### Segment 6 — Uh The Only Reason Hezbollah
+### Segment 6 — Israel Iran Lebanon
 
 uh the only reason Hezbollah exists is Israeli aggression. The only re the people in Lebanon who are defending Lebanon is Hezbollah.
  The government of Lebanon is in bed with the Israelis. Um, wants to get rid of Hezbollah, but you can't because it has a strong base of support and it's quite prepared to make peace with Israel. If Israel settles its problems with Lebanon, it will have nothing to worry about. The problem is, as I've said before, that Israel wants absolute security for itself, and this means absolute insecurity for everyone on its borders and beyond.
@@ -137,7 +153,7 @@ Um he's now accused of having bungled the Iran war. you know, he brought the Uni
  Um the the straight of hormuz will uh be subject to u administrative fees which are another word for a toll. U you know you change the word but not the substance. Um that is all this means. Um, Iran will not get $300 billion in investment from any American, but the Gulf Arabs, if they're wise, uh, and sometimes they are, will see an advantage in investing in Iran, uh, and maybe doing that together with others like the Chinese.
  So, um, the Indians are having to reconsider their
 
-### Segment 7 — Policy They Had Begun To
+### Segment 7 — Iran Israel Trump
 
 policy. They had begun to develop a very close relationship with Israel. they now recognize they can't sustain that. Pakistan has emerged as a leader uh in the region in a way that it wasn't um that supports the Pakistani uh Egyptian Saudi Turkish uh quadrumbarty coalition that is the center of a future cooperative security relationship in arrangement in the Persian Gulf and West Asia.
  uh and it also um it also uh lays the basis for their development of military industries that reduce their dependence on others. Um so uh so many many changes um not to mention the fact that this Iran war has split NATO uh and caused a number of NATO countries to uh turn their back on the United States. um some with a history of having done that before like France, some without such a history like Spain.
@@ -150,7 +166,7 @@ at what's been happening with this island of Albanian that the Kushner uh um pur
 uh to to help. Um Iran has plenty of engineers, uh but it doesn't have the equipment and the and the experience to do the sorts of projects that the Turks and the and the Chinese do. So uh one of the implications of all this is in the post-war period uh Iran is not going to substitute u uh not going to subordinate itself to China or Russia.
  It will remain autonomous independent uh and have freedom
 
-### Segment 8 — Of Action The Gulf Arabs
+### Segment 8 — Iran Israel Nuclear Weapon
 
 of action. The Gulf Arabs are not going to substitute China or Russia for the United States. They want strategic autonomy uh and they want to block uh further uh American and Israeli misadventures that come back to damage them. Uh so the relationship in the region with global powers are going to change to the disadvantage of the United States.
  uh that is pretty clear and that is also a major factor uh here >> Iranian the understanding on the part of leadership in Iran basically I'm talking about the supreme leader of Iran yesterday he had a statement saying that he's not optimistic about mou he doesn't see anything coming out he said he he he was not so much direct in the way that he was expressing his sort of idea but he said I have a different different opinion from the you know from the opinion of the president of Iran poses but he I gave him the permission to negotiate so let's see
@@ -163,7 +179,7 @@ what would happen what would come out but when you see Iranian position I think 
  The first is that there may be a short-term uh rupture with the United States which results in a halt in logistical support for their military uh and intelligence support for their military without which they can't conduct their operations in Lebanon or attack Iran. That is one possibility. But I think the more the more important change, you know, I note that um Israel Katz, the defense minister in Israel has said that Israel will resist any effort to quote change the equation in West Asia.
  But the equation has changed and the biggest change is there will never be another president who is stupid enough to follow Donald Trump's
 
-### Segment 9 — Example Into An Attack On
+### Closing — Israel Iran Lebanon
 
 example into an attack on Iran. Iran has gained effective deterrence against the United States. It has yet to gain it against Israel, but it may very well succeed in gaining it.
  Uh, and that is one reason that it focuses on Lebanon to the extent it does. The question is not deterring the United States. The United States has been deterred. The question is how to deter Israel and Israel is behaving like a mad dog. Uh now and Ben Gir probably wants Israel to behave that way. It's insane. >> Do do you think that there would there is a report it says that the United States State Department says it has discussed holding negotiations with Iranian in Washington from June 23rd to 25th.

@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 ingest_date: 2026-06-18
 pub_date: 2026-06-18
 kind: transcript
@@ -28,7 +34,7 @@ source_note: Operator-pasted YouTube transcript; host self-dates Thursday 18 Jun
 evidence_grade: transcript-bearing
 opening_tier: host-tease
 capture_note: Operator paste; full interview body preserved from user-supplied YouTube transcript.
-editorial_note: Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio. Caption/paste wrapper residue normalized in place; SSOT substance preserved. Ideological cold open trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio. Caption/paste wrapper residue normalized in place; SSOT substance preserved. Ideological cold open trimmed in place; SSOT body otherwise preserved. Routine closing lineup promo trimmed in place; SSOT body otherwise preserved.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (8 sections)."
 transcripts_prefix_stripped: true
 caption_wrapper_normalize_applied: true
 transcript_wrapper_tier: paste-prefix
@@ -46,7 +52,17 @@ verify:
   - claim: Mark Levin / Republican proxy lane pushes back on MOU (ingest characterization)
     verdict: partial
     note: Tier-4 ingest mesh only · not J19-17 direct Levin→Vance row · cross-ref Johnson sEoIzK51T3U for J19-17 archive anchor
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 8
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Max Blumenthal : Israel In Panic
@@ -58,7 +74,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Israel Trump
 
 Hi everyone, Judge Andrew Npalitano here for Judging Freedom.
  Today is Thursday, June 18th, 2026. Max Blumenthal joins us now. Max, a pleasure as always. Thank you, my dear friend. How did unconditional surrender become a ceasefire that the Iranians are celebrating? Well, not everyone in Iran is actually celebrating. There's there's cautiousness about this deal. There's caution about the deal. But one thing is clear.
@@ -68,7 +84,7 @@ This war was based entirely on the Zionist logic that the US had an absolute com
  Zionist logic, as I said, it's based on the idea of a so-called Jewish state existing in a region in which the majority of people aren't Jews. And that demographic advantage of Jewish Israelis has to be guaranteed through violent engineering and consistent warfare. It also relies entirely on its direct line to the gentile authority in Washington, which means the Israel lobby has to continue to be able to manipulate, blackmail, and bribe the gentile powers in Washington and all across America.
  is has Yeah, go ahead. >> Has its ability to blackmail and bribe been diminished by this um um memorandum of of understanding and what Trump has said about it. Well, well, that's why we're hearing these comments from JD Vance and and you can play the video where he he uses this term reality, which I think is the most important term right now because we're at a point where the contradiction between Zionist logic and reality, reality being a standin
 
-### Segment 2 — Or A Byword For Normal
+### Segment 2 — Israel Netanyahu Lebanon
 
 or a byword for normal international relations has exploded. And that's why this is a
 historic inflection point because an administration that was more under the control of Benjamin Netanyahu and the reigning Liood party than any other administration in US history. All of which had been bought off by Israel to one degree or another. A is now addressing the cold hard reality that we've always discussed on this program that Israel can't afford to lose the gentile authority in Washington with this alienating behavior because it is not a normal state.
@@ -78,7 +94,7 @@ historic inflection point because an administration that was more under the cont
 of Hormuz. >> Here is uh Vice President Vance while the president is flying back from France. Vice President Vance held a press conference uh in the press room of the White House. Here's the comments that Max was talking about. When we come back from these comments, I'm going to ask you, Max, who in the US is attacking this deal because Vice President Vance is talking about Netanyahu's cabinet.
 Chris, >> go ahead. >> Thank you, sir. Jordan Conrad with the Gateway P. I want to talk um back to the Lebanon podium. Um there's a report in Axios that Netanyahu's fuming over this. Uh he doesn't Israel doesn't feel bound to theou as it relates to Lebanon. If as you mentioned your frustration with
 
-### Segment 3 — Israel Strike Israel Striking In
+### Segment 3 — Israel Trump Netanyahu
 
 Israel strike Israel striking in Beirut, hitting apartment buildings.
  If that continues, could it torpedo the deal? And what would the US's response be to a broader war in Lebanon involving? >> Yeah. Well, I don't want to get into hypotheticals that could torpedo the deal because I think the president's expectation is that all of our friends, the Israelis, the Arabs in the region, we're going to work together and actually see this deal to completion.
@@ -88,7 +104,7 @@ And the second message I would give to some of those cabinet members, BB to his 
  The problem for Israel is not Donald J. Trump. And anybody in Israel who thinks their biggest problem is the president of the United States needs to wake up and smell the reality of the situation that country is in. Thank you all. >> Profound. Well, he JD Vance is putting forward the reality from Washington's perspective, which is a perspective that we don't actually hear very often from the Trump administration, which has been putting forward up until this point largely Zionist logic and concealing the reality of normal international relations. JD
 Vance has exposed the absurdity of the US-Issraeli special relationship with those comments. by uh noting that Israel depends unlike possibly any other state I can think of in history, maybe like Olter or Ireland or
 
-### Segment 4 — Something On A Minority On
+### Segment 4 — Israel Trump Netanyahu
 
 something on a minority on support um on funding on political manipulation by a minority group in another country.
 Actually, the minority of a minority group. It's it's, you know, a small minority of Jewish Americans who have been ponying up the money to basically bribe Donald Trump and compel him into this war. And Israel can't keep going down this road of attacking Donald Trump and uh sending its proxies within the Republican party, the Mark Levins, the uh Mark Dubitzes, the uh Mark Tissson, all of these marks uh against Donald Trump without alienating Donald Trump, someone who has who's a very mercurial figure who has a temper
@@ -98,7 +114,7 @@ and is very vengeful. So JD Vance is threatening with them with that. But the co
  So this is actually a very good moment for JD Vance. And just one other quick point, notice how he's attacking Idomar Bengir and Bezel Smootrich, the the nutcases of the Netanyahu coalition. He's a he's he's been instructed, I think, not to attack Netanyahu directly, but all the attacks are being directed by Netanyahu.
 Netanyahu is t has released the hounds on Donald Trump. And now the the Marks, the Mark Levven, the Mark Dubites are all exposed because there's no one else in MAGA who's standing with them because of their loyalty to the president. what what uh groups are going to in America are going to do their best to uh undermine or sabotage this agreement? Well, I
 
-### Segment 5 — Mentioned The Israel Firsters Like
+### Segment 5 — Israel Iran Trump
 
 mentioned the Israel Firsters, like the Foundation for the Defense of Democracy, uh, or the destruction of democracy, which is actually an Israeli cutout in Washington, led by Mark Dubitz, who's
 been responsible for all of the false predictions, all of the bad ideas, all of the catastrophic uh, plays, imposing Zionist logic on the Trump administration. basically they're the ones who sort of wrote the wrote the plan for this war all the way up until the naval siege which was just lifted on Iran.
@@ -108,7 +124,7 @@ They're willing to experience all of this global economic destruction that has c
  And yeah, they are they are right that that this war was a major setback for US power and that the straight of Hormuz was open before this war was waged and that the US has actually lost strategic ground against Iran and Iran is stronger now following this war. But what they're wrong about is number one that Iran is an enemy of the United States.
  Iran is an enemy of Israel and to the extent that the US and Israel are joined at the hip, it's an enemy of the United States. But that's that's not the reality that we have to exist in. Iran is a country that would happily negotiate and exchange economic benefits with the United States if we could just accept the Islamic Republic and allow it to reform from within instead of imposing regime change riots and chaos
 
-### Segment 6 — Agents And Sanctions On It
+### Segment 6 — Trump Syria Lebanon
 
 agents and sanctions on it.
 And the other thing they're that they don't understand is that they have never offered a better idea than the JCPOA. The Democrats under the Biden administration after Trump shredded the JCPOA embraced a policy of no negotiations, avoiding any deal with Iran, and intensifying sanctions. Then following October 7th, which the Biden administration is heavily responsible for because it allowed Gaza to languish under siege.
@@ -119,7 +135,7 @@ Did Trump know what he was talking about when he suggested that al-Qaeda in Syri
  Trump brought him into the White House and sprayed Trump perfume on him. It looks like they may meet at the upcoming NATO summit in Ankura, Turkey. And Trump has even proposed the idea of the former leader of al-Qaeda in Syria and former deputy leader uh founder of ISIS replacing Israel as the uh key US proxy against Hezbollah.
  It's an absurd idea. Uh Syria is not prepared for that. Their military already w would would probably lose. They al al-Qaeda already lost against Hezbollah in Syria once and they
 
-### Segment 7 — Would Probably Lose Again But
+### Segment 7 — Israel Lebanon Trump
 
 would probably lose again. But it really just shows how fantastical the Trump administration's ideas are about Lebanon when what's really taking place in Lebanon is an Israeli ethnic cleansing campaign where the Israeli army has been given explicit orders to not allow Shia who are citizens of Lebanon to return to their homes in the south are killing dozens of civilians a
 day and the US is doing nothing about it while Trump wants to enforce a memorandum of understanding in which Lebanon on is included. And so Lebanon will be the major lever for Israel to unravel theou and it's time for the Trump administration to start taking this seriously. And it starts with allowing Lebanese citizens to go back to their homes and not be ethnically cleansed by Israel.
@@ -129,7 +145,7 @@ Israel. And this deal went through eight days after he was killed. Now, I'm not 
  an actual registered agent of the government of Israel. >> So an actual reg federally registered foreign agent of the government of Israel, Brad Parcow became chief oper uh chief strategy officer of Salem Media, which is in charge of distributing the Charlie Kirk show. Would Charlie Kirk have have supported that deal? >> Oh, absolutely not.
  based on his public statements in which he was uh agonizing over all the pressure from Israel lobbyists
 
-### Segment 8 — And Saying Hey I Support
+### Closing — Israel Iran Trump
 
 and saying, "Hey, I support my country, not Israel." He said this on August 8th, 2025, about a month before his death on the Megan Kelly show. He called Lindsey Graham pathologically insane for wanting to attack Iran. Probably not.
  But now Charlie Kirk is dead. And thanks to his untimely death, uh, TPUSA has fallen back in line with the Israeli agenda, Erica Kirk, in a, you know, the new CEO and replacement for Charlie Kirk, claimed in a cringe-worthy town hall with self-described Zionist fanatic Barry Weiss on CBS, which had just been purchased by Israel first billionaire David Ellison, that her and Charlie always supported Israel because they went there and saw the Bible come alive in Technicolor.

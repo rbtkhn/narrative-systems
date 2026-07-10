@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-04
 pub_date: 2026-06-04
 transcript_type: ai_assisted_operator_pasted_youtube_transcript
@@ -17,9 +18,19 @@ source_url: "https://www.youtube.com/watch?v=jPNgTYKtbY0"
 source_note: "Cleaned transcript pasted by operator. · ASR pass 2026-06-15."
 opening_tier: host-tease
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 22 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 22 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (9 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Alex Krainer: Iran & US on Retaliatory Mode - War Imminent
 
@@ -32,7 +43,7 @@ transcript_curation: curated_sectioned
 
 ## Cleaned Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Irgc Trump
 
 Hi everybody. Today's Thursday, June 4th, 2026, and our dear friend Alex Trainer is here with us. We had some technical issues here. That's why we're late here. And it was so funny. But Alex, welcome back. >> Thank you for having me, Nema. And the picture is a little bit different cuz I I had to connect over my phone because my my uh my laptop was acting up and we couldn't hear each other.
  But uh anyway, we're on now. That's the important part. >> Yeah. Yeah. Exactly. Alex, let me start with what has happened in the last two or three days and the new confrontation between Iran and the United States, the attacks that you know we had, you know, the night it was last night and then the night before it is the new because of the escalation because of the blockade that is happening in the Persian Gulf.
@@ -48,7 +59,7 @@ Uh I think that the truth is that there's a lot more divergence uh in approaches
 And so um I think that as as Iran has understood that it it holds the dominant power in the region. Uh I think that they now want to end the the past 120 years of harassment by Western colonialists and they want to evict Western uh military resources from the region and design a completely new security architecture which is consistent with what their partners Russia and China want to achieve as well and to start a new Eurasian century you know a multipolar global order where countries are going to be uh cooperating and
 trading together in peace rather
 
-### Segment 2 — Than This Constant Non Stop
+### Segment 2 — Trump Iran Israel
 
 than this constant non-stop neverending wars uh that are generally instigated by Israel and by uh by the American side but you know we have to never forget the British side because they are always there in the equation I don't know why they get a pass that nobody looks at them nobody talks about them, but they are very very deeply involved and they're usually involved in more pernitious ways than the the United States.
  The United States has a very visible role because they get into the they get into the action when it's time to apply brute force and start dropping bombs. But the British are in there usually years ahead uh through their secret secret diplomacy, intelligence uh networks, uh non-government organizations, uh charitable organizations, uh banking institutions, casinos and so forth.
@@ -64,7 +75,7 @@ So he's using that while the war is going on. And one of the main reason that he
  How many days? How many weeks it can continue the war with the intensity we've seen during the 40 days of war? Oh, it's going to be four, two weeks, 3 weeks, four weeks. Then the day after that, are they prepared? because it's going to be completely depleted the stockpile and the economy is not doing the global economy is under tremendous pressure because of the Strait of for how do you see all these factors coming together and putting pressure on Donald Trump himself >> well starting with oil it's it's not just a question of the quality of oil
 that the United States produces versus what they get from uh Venezuela let's say because in the United case, you know, now the bulk
 
-### Segment 3 — Of Production Is Uh Is
+### Segment 3 — Iran Trump Oil Markets
 
 of production is uh is fracked uh fracking out of fracking wells and that's that's very light. Oil is good for producing gasoline, but it's it it it it gains you no uh diesel fuel and no uh jet fuel for aircraft.
 So that's a problem. Uh but then at the same time, you know, uh there's also the issues of oil price. So if you rem you know right now uh let's say ballpark about 10% of global oil supply has been removed from from the markets which is the biggest disruption ever in in the whole history of oil markets and I don't think that it's it's been yet fully uh discounted in in in in oil markets because even you know even in 2022 oil price was $120 and in 2008 oil price was $140.
@@ -80,7 +91,7 @@ uh very close family friends with Benjamin Netanyahu going back decades. And Jar
  And they're involved in all these conspiracies that keep war. You know, wherever human blood is running in rivers, this same family name always turns up. they are they were also the uh employers of um of Jeffrey Epstein. So it all kinds of starts to show the outlines of a of an ugly Zionist conspiracy that now seems to be in charge of events.
  And I I don't see Trump as a how do you call it? as an outsider to this conspiracy because his son-in-law and his daughter are at the heart of it. They're they're important players in all
 
-### Segment 4 — This And So This This
+### Segment 4 — Israel Iran Netanyahu
 
 this. And so this this story about how Trump had this really tough call with Benjamin Netanyahu and then used exploitives and yelled at him and so forth.
 I suspect that that's a um just theater for public consumption. U I think that Netanyahu held off on his plan to attack uh Beirut because the Iranians immediately said, "We're going to attack northern Israel." and they warned all residents, all the settlers in the north of Israel to evacuate because something really heavy was coming their way.
@@ -96,7 +107,7 @@ They said, "We will normalize with you. We will all you have to do is just allow
 So that would have said it at 2022. Okay, he got the time timeline wrong. But he understood the the dynamics in the region and he understood that Israel the Zionist project is not sustainable that it was going to fail. And maybe part of the reason why why why we are seeing this horrible security deterioration in the region is because Israel is desperate because they under they themselves understand that they are they are failing they are dying and this is this is their uh this is their dying agony that we're we're seeing now. I
 don't know how long it it can go on for uh these things don't don't happen overnight but I think they have no future. And then you know one thing I noted in in one of the re in this during this week uh when when the when the Iranians warned Israel
 
-### Segment 5 — That They Were Going To
+### Segment 5 — Hezbollah Israel Lebanon
 
 that they were going to bomb their uh their northern northern regions if they if Benjamin Netanyahu orders attack on on Beirut.
 Uh they also part of the message was to the Palestinian people it is now time to take your country back. So uh you know we have to take into account that there's always a possibility of an internal uprising. >> Yeah. I think Alex looking at Israel today militarily and the way that Hezbollah you know you have to ask yourself why does Israel need to attack Beirut if they're fighting in the southern part of Lebanon? If they're capturing land from Lebanon, why do they need to go to Beirut to attack Dah? So the qu the answer is because they're
@@ -112,7 +123,7 @@ Maybe they even prefer it that way. And their view of of security is scorched ea
  So the Assad government is gone but the connection between Iran and Hezbollah is getting stronger. You know this is the reality of what's going on and they cannot control. They thought that they they disconnected Iran from Hezbollah but look at these drones. You know this is the clear you know evidence that there is a strong connection between Iran and Hezbollah and they cannot do anything about it.
  That's why you see every time they go they bomb Syria. That's why they're talking about fighting Turkey and Egypt after, you know, the fight between I don't know what does that come from because you have to be totally delusional to think of, you know, you are in an in an active war against
 
-### Segment 6 — Iran That You're Losing And
+### Segment 6 — Israel Turkey Trump
 
 Iran that you're losing and you have depleted everything in this war and you're talking about the next round of war against Turkey and Egypt.
  This is these people are really what is in your opinion how how can we understand these people? >> It's in fact extremely difficult to understand in mind and you have you have answered the question. It's delusional. Uh I you know about about a year ago I I spoke with a with a Muslim friend of mine who studies uh eschatology including Jewish eschatology.
@@ -129,7 +140,7 @@ Um I I think that they may that may have something to do with it. And then part 
  it I I don't know that I know of, you know, the history of colonization includes a lot of bloodshed, a lot of atrocities, famines, depopulation, holocausts, all of that. But it usually the idea is to get something out of it like you know to enslave the people and extract the wealth from that land. So you can say okay this is wrong.
  It's co completely ruthless. It's atrocious. But you can see why they're doing it. In the case of Israel, it's the same behavior, but no strategy and no discernable end goal other than the the biblical stories. Alex, Donald Trump has two wars right now, two active wars, one in Ukraine and the other the
 
-### Segment 7 — Other One Is In The
+### Segment 7 — Iran Trump Middle East
 
 other one is in the Middle East.
  And his priority, it seems that is the one against Iran. And some people are arguing maybe the offramp for Donald Trump would be to withdraw from start something against Cuba and with all these aircraft carriers in the in the Persian close to the Persian Gulf or in the in the Middle East and bring them back to the Western Hemisphere close to Cuba and start something with Cuba and doing something and declaring victory.
@@ -145,7 +156,7 @@ I don't think that the Americans are dumb enough to try that again, but they mig
 And I I tend to think that people in government are not that dumb. I I've I've been wrong in the past, but I I don't see the United States trying a military invasion. And I I I see them uh more trying to use these uh covert actions by the by their intelligence agencies like the CIA. They've been doing this in South America for a very long time. They're good at that game.
 But um who knows? Maybe
 
-### Segment 8 — Maybe The Russians And The
+### Segment 8 — Trump Iran Ukraine
 
 maybe the Russians and the Chinese are also not dumb. And if it's if it's if it comes down to shipping in pallets of US dollars to to spread around and buy influence, well, the Russians and the Chinese can do that, too. You know, they they have access to pallets of US dollars. So, who knows? I I I have to say we'll have to wait and see, Nema, because I I I wouldn't know how to predict the outcome of that one.
  Uh I think in in case of Iran it was very clear that the United States will lose that war. It was even clear to the Americans. That's why you know everybody says like Donald Trump was the only president brave enough to do something about Iran. But, you know, you can also use the word stupid rather than brave cuz, you know, his predecessors, going back to Clinton, they didn't dare attack Iran because they understood that it's most likely not going to work and it's going to blow back into their faces.
@@ -160,7 +171,7 @@ Trump was dumb enough or desperate enough or or or let's say greedy enough to to
  Unfortunately, uh, as I mentioned before, you know, something went off the rails since Jared Kushner, uh, reappeared on the scene. And then we see that this I'm not not necessarily talking about Israel itself or Benjamin Netanyahu. I would call it a Zionist conspiracy because we see that they have enormous influence in the United States.
 It's not just Benjamin Netanyahu. There's all these Zionist billionaires, um the media, the the banking cartel, and they are so influential that they've been able to slip a provision into the um National
 
-### Segment 9 — Defense Uh Authorization Act Ndaa
+### Closing — Russia Trump Ukraine
 
 Defense uh Authorization Act, NDAA, uh section 224, that would practically merge American military with Israeli the military.
 This this wasn't Trump, you know, like Trump might sign off on it because, you know, he's under their influence as well, but this was slipped into the bill. Uh I think I think the main guy was a congressman because Benjamin Netanyahu just yesterday issued a letter thanking him, but Congressman Solsman or something like that.

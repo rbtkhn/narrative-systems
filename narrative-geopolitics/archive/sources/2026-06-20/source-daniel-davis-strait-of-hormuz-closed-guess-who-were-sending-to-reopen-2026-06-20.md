@@ -1,5 +1,11 @@
 ---
 
+
+
+
+
+
+
 ingest_date: 2026-06-20
 pub_date: 2026-06-20
 kind: transcript
@@ -25,7 +31,7 @@ source_note: Operator-pasted YouTube transcript; Davis solo Saturday 20 Jun 2026
 evidence_grade: transcript-bearing
 opening_tier: host-monologue
 capture_note: Operator paste; full solo program body preserved from user-supplied YouTube transcript.
-editorial_note: Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio. News-verify header pass 2026-06-20. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio. News-verify header pass 2026-06-20.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (9 sections)."
 transcript_wrapper_tier: clean
 verify_receipt: 2026-06-20
 verify:
@@ -44,7 +50,6 @@ verify:
   - claim: Despite truce IDF hits Lebanon overnight; ≥27 killed (ToI carry)
     verdict: partial
     note: AP ≥16 · BBC ~20 Jun 20 · count drift · cross-ref J20-10
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -53,6 +58,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # STRAIT of HORMUZ CLOSED: Guess Who We're Sending to Get it Re-Opened? / Lt Col Daniel Davis
 
@@ -62,7 +70,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Israel Ceasefire
 
 The straight of hormones is closed according to the IRGC. Of course, if you listen to some other folks, you may have a different answer on that, but that's the news that's breaking out right now. The IRGC released this statement on their news agencies. This is the ISNA. It was on several of them where it says Katam al- Anbia central headquarters in view of the blatant breach of promises and covenant breaking by America regarding the failure to implement the first clause of the end of war agreement and in response to the uninterrupted and
 continuous violations of the ceasefire by Israel in southern Lebanon. The straight of Hormuz will be closed to the passage of ves vessels. Katam al- Anbia central headquarters also added that this is the first step in response to the enemy's breach of promises and if the aggression continues the next steps will be planned to be taken to compel the enemy to adhere to its commitments.
@@ -76,7 +84,7 @@ the US does do what they ask and brings Israel into compliance, then that will o
  The other one was the I mean it was the ISNA I think that's right. Yes, it was the ISNA news agency. This one is the Tasnim Iranian news agency. And they say spokesman person for the Iranian foreign ministry Ismael Bagayi rejected the media reports of alleging that the straight had been closed describing such claims as unfounded.
  So you have the IRGC putting out a pretty detailed statement here. This is at 9:24 a.m. And then you see this one here at 8:22. This actually came out before saying that these reports were unfounded. So,
 
-### Segment 2 — One Has To Ask The
+### Segment 2 — Israel Lebanon Hezbollah
 
 one has to ask the question um who's actually in charge here and and what actually is the Iranian position because the they're they themselves are giving uh mixed signals.
  But what's not a mixed signal is that the issue does remain upfront and and primary. And without that, there's not going to be a long-term deal. So, the question is going to be, what is going to happen inside of Israel and Lebanon? And this is the news out this morning. Despite truce, this is the uh the Times of Israel media reporting. Despite truce, IDF hits Lebanon after repeated Hezbollah attacks, at least 27 said killed. Important information here.
@@ -92,7 +100,7 @@ in in addition to that at the same time this is 9:39 so just uh what not even tw
  Now one thing that we should note on the Iranian side is that they have not made very many empty threats. They have a few, but there are way too many times when they said this is what we're going to do. If this doesn't happen or if that does happen, this is what how we'll respond and they did. So, if some people are thinking they don't mean that, they don't mean that.
  They just want the straight open because they want the blockade lifted so they can send their ships out, etc., get their their money and and start to sell their oil again on the national market. So, we'll
 
-### Segment 3 — Just Keep Going Down Here
+### Segment 3 — Iran Hormuz Israel
 
 just keep going down here. I think you're misreading the situation because as we've been telling you over and over, we've been seeing more evidence of it today.
  There is a significant confrontation even on the Iranian side or or at least there is. I'm not sure how significant it is in terms of percentages. Apparently, the numbers are still weighted heavily on the diplomatic side and the process side, but there is a war hawk element inside the Iranian side. uh even within the IRGC from reports that I've been getting here of late by some people who have connections to the region say that even there there is a war hawk element and a let's have a wise looking long and a diplomatic lead with etc uh but not
@@ -109,7 +117,7 @@ not trusting the United States but not leading with military power but there's t
  So if you said 12 of them went through and it was a record for oil, you're going to have to help me with the math here, Mr. Vice President, because I'm not seeing how you're going to get about 10% of what was the daily flow. And somehow that equals a record when you had 100 or 130. So we have to take the higher number of that. You said it's a record.
  So somehow when 130 ships passed through that didn't have as much oil as 12 did yesterday. Let's just
 
-### Segment 4 — Call Let's Chalk That Up
+### Segment 4 — Iran Nuclear Weapon Hezbollah
 
 call let's chalk that up to exaggeration. But holy cow, let's get to the stuff he said before. He said he's going to be going to Switzerland in the next couple of days to be able to do some negotiation.
  But who's on the ground now? Jared Kushner and Steve Whitov. Are you kidding me? All the things that have to go into to having these successful negotiations. Recall the first time that the US and Iran got together in this war here, the Iranian side had a huge number. I want to say 80 people went in all kinds of experts and technical people uh diplomats of of every shape uh and expertise etc.
@@ -125,7 +133,7 @@ They have to have sanctions relief up front is because there's no trust. That's 
  I mean, what what what do we expect to happen with that? And if these are the guys instead of somebody who is an expert in diplomacy, an expert on Iranian affairs, understands the culture of the Iranian side, is deeply steeped in in the history and everything else, knows how to deal deal with the Iranian side and understands what language you have to use for them to understand what words mean.
  um
 
-### Segment 5 — You Know All Of Those
+### Segment 5 — Netanyahu Trump Iran
 
 you know all of those kinds of things technical expertise and all the fundamentals that we want with the uh energy systems with the transits in the golf you know all those kinds of things that's what should be just a standard requirement to starting that but we're starting with those two guys unfortunately JD Vance himself says well you know what I'm not exactly the top of the line guy either >> I expect that I will leave sometime the next couple of days but you know it's always a delicate coordination dance and diplomatic protocols. I got to be honest
 with you, I don't really understand these things. I've never been a particularly into diplomatic protocols. My attitude is let's get on the ground and actually fix these problems, but they want to do a delicate dance. The Qataris and the Pakistanis want to make sure that we do this in the right way. So, I'm trying to be respectful given my my position of the last year and a half.
@@ -141,10 +149,10 @@ And based on some comments JD Vance has been making here in the last couple of d
  Definitely keep him off the plane because his loyalties are also very split. But JD Vance is one that does appear to be America first and that's the guy we want doing this. But man, these other two guys, that's just that's just going to cause some real problems. So, I I'm not exactly holding my breath that things are going to go well here in Switzerland, at least not in this first round.
  We'll have to see where it goes because the Iranian side is going to talk to them. But what that probably is going to do is it's going to worsen our negotiating position
 
-### Segment 6 — Because Of These Guys And
-
 because of these guys and the history. They're likely to ask for a much higher give upfront than anything else. And so when you're talking about the nuclear program, because that's really what the primary issue here, there's a number of things like not the least of which is what happens to the straight of Hormuz after the 60 days.
  How much of the frozen funds are going to be released and when and on what schedule and based on what criteria? Uh and then of course it's the nuclear issue. What's going to happen with the reprocessed material? What's going to happen with their enriching capacity? And what do they have to do to say they're not going to do a nuclear program? That's those are that's the big things that have to be taken away here.
+
+### Segment 6 — Iran Trump Jcpoa
 
 And of course, President Trump has camped on they will never have a nuclear weapon and all this. Now, this goes back to when we had a deal that did constrain their nuclear program that did include a declaration that they would never produce and pursue a nuclear weapon. You may have heard of it. It was called the JCPOA.
 And that's actually something that President Trump has a separate line of of attack on here with the American public to try to convince them that whatever he's doing here and whatever these guys are going to do in Switzerland, man, it is so much better than the JCPOA. I've told talked to you about a lot, but yesterday in an Axio interview, uh, President Trump brought the subject back up.
@@ -158,7 +166,7 @@ And that's actually something that President Trump has a separate line of of att
  They accidentally fired this because apparently because of these Iranian fighters that were causing so much damage on the ground in the opening round. The Iran uh Kuwaiti side thought that uh saw the aircraft, our aircraft in the air and thought that that was the Iranian side and shot them down. So number one, our aircraft can be shot down by a lot of different things and that's one of them.
  But those aircraft went in and the obviously the pilots were never killed because they're on the camera here. They're talking about their action. So those
 
-### Segment 7 — Two Things Alone Show This
+### Segment 7 — Trump Iran Ukraine
 
 two things alone show this exaggeration on our capability and and an attempt to minimize the capabilities on the other side. But you can't get away from the chart, man. Those that's a lot of aircraft that were total knocked out by all the different situations. And that's just in 40 days.
 And that's like one a day. So you can imagine if that continued on and of course we took action and changed tactics based on that and fired uh a lot more standoff targets so that we could keep our aircraft safe and still still we ended up losing a lot of those. But let's get to the other issue that President Trump is talking about there because he's he is literally bragging about having killed all these different people and he's he's actually demeaning President Obama because he didn't kill anybody in Iran anyway. And he said that
@@ -174,7 +182,7 @@ but this one here has its own and I fear that we keep relying on assassination a
  And so some of your family members, children, wives were assassinated by this other foreign power. Just be honest. How are you going to feel about that? Are you going to be fine with it? Are you going to say, "Hey, man. I mean, it's part of the war. It's it's an unpleasant part, but hey, say Levie, right?" I mean, that's just kind of how it works out.
  but I'm not going to do anything about it. Or are
 
-### Segment 8 — You Going To Be Gritting
+### Segment 8 — Jcpoa Iran Trump
 
 you going to be gritting your teeth and saying, "I want justice. I want revenge. I want to have make them pay the same way." Maybe they don't do anything now because I'm sure the security is very high. But this is another one of those I fear situations where seeds have been planted and watered with the blood of people that one day will rise up and have bitter fruit.
  It could be years from now when nobody's paying attention and all of a sudden people start getting assassinated in return. I mean, that's that's just something that's happened a lot throughout human history, thousands of years of human history. Doubt very seriously whether that's dynamic is going to change today. We'll see.
@@ -191,7 +199,7 @@ They could only reprocess up to 3.67% which is authorized under the NPT the nucl
  And in fact, I I can just tell you that the chances that we get to a nuclear deal that's even as good as the one that was on the table on the February 26th, much less what the one happened uh with President Obama. I I think it's a fantasy. I I I just can't I don't see any chance because we don't have the leverage to compel it. President Obama at that time had leverage in the sanctions.
  And listen to me, here's an important point to understand. So many people in Washington think
 
-### Segment 9 — That Sanctions Are Just A
+### Segment 9 — Iran Trump Nuclear Weapons
 
 that sanctions are just a baseball bat. And I'm just going to pound you with them until you go into submission. Sanctions are useful primarily when they are released and lifted. What you want to do the the the way that they can be effective is if you impose sanctions and say if you change your behavior here then we will give you the benefit and we'll pull that sanction back off and you can continue to do business because now then you create incentive on the
 other side to abide by whatever those terms are because they can benefit from it. There has to be give and take. You can't just take and demand. It just doesn't work that way. And we're living that proof right now. And so that's what the Obama administration did is that they lifted sanctions and that they gave some of these free uh lifted some of the the uh frozen assets.

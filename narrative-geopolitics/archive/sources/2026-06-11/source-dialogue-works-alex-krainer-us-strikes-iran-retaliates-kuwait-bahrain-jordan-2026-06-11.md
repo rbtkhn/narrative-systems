@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-12
 pub_date: 2026-06-11
 kind: cleaned-transcript
@@ -29,7 +30,7 @@ evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: clean
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 1 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 1 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (9 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
 verify_receipt: 2026-06-24
 verify_matrix_ref: statecraft/notes/wire/2026-06-11-news-verify-matrix.md
@@ -46,7 +47,17 @@ verify:
   - claim: Apache-helicopter pretext fragility (strike justification)
     verdict: partial
     note: carry Jun 9 physics fork; accident vs retaliation politics not wire-scored here
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Alex Krainer: US STRIKES Iran – Iran RETALIATES Against Kuwait, Bahrain & Jordan!
 
@@ -57,7 +68,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Trump Pentagon
 
 Hi everybody. Today is Thursday, June 11th, 2026 and our dear friend, our brother Alex Craner is here with us. Welcome back, Alex. >> Uh, thank you, Neymar. Good to join you again. Greetings to everyone out there. >> Alex, we're back to war. The United States has attacked Iran last night and we had Iranian response.
  They attacked the cities in the southern part of Iran close to the Persian Gulf Island two island and sirk island and they tried to they use tomahawk missile. What was so important in my opinion the use of tomahawk missiles. They said and Donald Trump they have reported that they used something like 46 tomahawk missiles.
@@ -73,7 +84,7 @@ Uh just Iran is there. They're at home. They're fighting an existential war. The
 The Iranians who have prepared for this for more than 20 years have most of their key most sensitive assets dug deep underground. So they're extremely difficult to destroy. Some maybe they're impossible to destroy. And so every time there's an exchange of fire, the Iranians inflict damage that the United States cannot easily reverse.
 the United States, if they hit anything of importance, they inflict damage that is relatively easy for the Iranians to reverse
 
-### Segment 2 — And Repair Right So Every
+### Segment 2 — Iran Israel Syria
 
 and repair. Right? So, every time you every time you exchange gunfire, missiles, bombs, whatever, uh, one side is getting progressively weakened and one side is at at worst stays more or less at the same level.
 Um, it's very difficult to demystify the thinking that goes into these decisions. But I read reports from from um Russian intelligence uh agencies that say that all this nonsense, the talks, the ceasefire, the that this is all cover uh in preparations for a ground offensive. Okay, that makes sense. But ground offensive when? In July.
@@ -88,7 +99,7 @@ So I think um we the summer is going to be extremely interesting and I think tha
 thought they may be some sort of movement on that part they wanted to get in or maybe attacking Iranians that's why they were controlling the Iraqi Kurdistan in I would say the bill is just becoming maybe new Gaza because they see what is happening the people are you know they're coming in they're trying to get in but there's some areas that they're using these terrorist groups and Iran just been leveling they're they have been leveling these areas and the other the other point with the American attack. They tried to hit the
 prochemical plant in Asalu as close to Busher. Two two Tomahawk missiles were intercepted in that. This is the new thing for the Iranian air defense system. We haven't seen that before. Then the Sandcom said came out and said we didn't attack the prochemical plant. But people on the ground they're confirming that has happened because they
 
-### Segment 3 — Thought In The Initial Hours
+### Segment 3 — Iran Israel Hormuz
 
 thought in the initial hours the reports was this that the United States hit the nuclear the the prochemical plants in Aseluya.
  They said that then they said no this smoke that is coming up is because of those you know tomahawk missiles. They hit the tomahawk missiles and nothing has happened. No damage to the petrochemical plant. That was the whole story. And when it comes to the invasion, I think it's so stupid, Alex. I don't see any viable choice for the United States to go with the invasion.
@@ -105,7 +116,7 @@ And so then particularly the the best version of their stories are automatically
  This is I don't know what is the main reason basically when it comes to UAE. But if Trump last night said Israel is not part of this operation, they're not helping us, they're not doing anything, that Israelis confirmed, you know, in various, you know, statements that we are not part of this war, we're not doing anything there.
  And one argument could be because of the Bengorian airport which is full of t you know aircrafts American aircrafts if you know taxis they're going to hit each and everyone of those aircrafts. The other the other point
 
-### Segment 4 — Would Be How Israel Is
+### Segment 4 — Israel Middle East Lebanon
 
 would be how Israel is you know somehow the air defense system is not working. last night as the same time that we had this war, we had Lebanese rockets getting you in hitting the targets in the southern part of Lebanon and in the northern part of Israel and looking at the situation, Alex, do you think it's basically it's
 American agenda or the Israel is forcing the United because Israel, they had some sort of equation in the region. They want to attack each and every country without being attacked. Those days are gone. And I don't see the United States being capable to turn the situation or to get it back to what it was before this war started.
@@ -121,7 +132,7 @@ And so obviously, you know, if had if they have if they have sufficient influenc
  Alex Karp has been talking about this. Why why is it so important to a private corporation to to introduce the draft and to make sure that all the all the young men and women in the United States go to the to to to their military service so that they could then be sent over back to the Middle East to fight and die for Israel.
 We we can't be sure that this is that they are unable to do this anymore. And there's increasing talk about doing this. And there's an increasingly blatant, brazen commitment to Israel above everything else. We
 
-### Segment 5 — Cannot Explain This Like A
+### Segment 5 — Israel Iran Ukraine
 
 cannot explain this like a small little country there on the other side of the world that's completely dependent on US financial aid, US military aid that without military support would basically disappear.
 H how to explain this? And then you get the same from the from the UK. Uh people in Britain are are are complaining that their political class is completely dominated by the Israelis, right? Same in Germany, same in many places in around the West that that's very very difficult to explain.
@@ -137,7 +148,7 @@ Um, and then, you know, even even if Israel collapses, let's say, conceivably, w
  These private new private chartered city states across South America, uh, exclusive Jews only zones in Ukraine, they're doing something really, really weird. And oh, you know, again, we have this incredible coincidence that when when uh Kushner and Ivanka Trump randomly uh discovered Sazan Island in Albania, which just so happens to be strategic military outpost for for uh control of the Utrant Otrant Gate.
  uh you know the Adriatic Sea cuts
 
-### Segment 6 — The Deepest Into The European
+### Segment 6 — Trump Ukraine Europe
 
 the deepest into the European continent, right? And it's a it's um it's a very crucial uh also trade and transport corridor into Europe. Uh they randomly discover this island when they were vacationing on whose boat? Well, that's again Nathan Rochel. Amazing how he's everywhere.
 Um, and so this is where I see the the the the origin of all these wars of of this of this whole process because there was also a a a you know when when Ukraine war started. So allegedly there was this letter again from the same young man to the to the members of parliament in the UK again telling them you know like we have to do everything to make sure that we win this war against Russia and Ukraine.
@@ -152,7 +163,7 @@ And they they you know they they ran their banks. Uh they created these boards o
 you know where did Jeffrey Epstein come from? Uh we know a lot about that, you know, how he came how he was introduced to Galen Maxwell and so forth. And we also know who who employed him uh Arian Rochel from Edmund de Rochel and Company in which is you know in Geneva and then you know somehow he's all very up very tight with Bill Gates and uh he and Bill Gates uh write back and forth to each other how do we get rid of the poor people and then they planned the COVID pandemic in you know years in I think 2015 or before that
 and
 
-### Segment 7 — So It's All You Know
+### Segment 7 — Trump Iran Israel
 
 so it's all you know like it's all somehow connected but it all seems to lead to the same name and then you know I I a lot of people who look into this then they say like no no no if they're visible it's not them there must be a deeper higher level and I think that's not the case and and here's why I think that it's because whoever controls the intelligence agencies is the top of the PI PI pyramid of the control uh uh command and control hierarchy.
 Because once you control the intelligence agencies, then you're the one who can have people assassinated, have their children, kidnap, kneecap them, bribe them, blackmail them, and do whatever you want. which means that even if there were somebody supposedly superior to you senior who had maybe more money or uh has been in the game longer, well, you can now start uh brutalizing them as well and and forcing them into subjugation.
@@ -167,7 +178,7 @@ So anyway, long rant, but the point is Trump's easy to hate on, but he's not he'
 So it it it couldn't be more blatant. It's it's just and I I I agree with you, Nema, that they must be really panic because they're no no longer even bothering to hide it. >> By the way, looking at the situation that Israel is in, I I don't know. The United States did everything with this war for Israel.
  What else do they want from
 
-### Segment 8 — The Middle East And What
+### Segment 8 — Israel Trump Iran
 
 the Middle East? And what else can they get from these sort of wars? The reason that the United States is attacking Iran with this tit for tat is all because they're not capable of continuing the war the way it was during the 40 days of war because they're short of, you know, cruise missiles.
  They're short of interceptors. And Donald Trump is begging somehow. I don't know if you saw yesterday he was begging that you have to produce more weapons, more missiles, more interceptors and as though if he orders that he's going to get it because they are increasing the military budget in the United States but that doesn't mean that you can get the weapon because it takes time to produce them.
@@ -182,7 +193,7 @@ Ukraine, uh to Taiwan, to you know, whoever is going to wage wars. $40 billion t
  It's going to Javier Malay. And so clearly everything is something else and we need to explain it. What is it then? And I you know I I I end up always converging on this one place which is the city of London and one dominant influence there which is this banking dynasty under the name of Rothschild uh who also control you know in the United States things like uh like JP Morgan and I don't know which other banks probably Goldman Sachs and so for and so forth.
  for and so forth. But uh that that that's all. I apologize. Somebody's trying to call me. Uh anyway, you know, I uh I think we have to we have to connect dots and we have to make
 
-### Segment 9 — Guesses And We Have To
+### Closing — Israel Palestinian West Bank
 
 guesses and we have to deal with extremely vague things. Oh god. >> Is it your son? >> No, it's not. It's my aunt who who who I I told her not to call me because I'm going to have an interview, but she obviously forgot.
 I'm going to punish her, too. Alex, I think what's important when it comes to the United States and they're trying to control the universities in the United States, which is the main point there is that, you know, they're trying to put to create new sort of laws in the universities that you cannot criticize Israel, you cannot support Palestinians, you cannot you can do everything but doing that.

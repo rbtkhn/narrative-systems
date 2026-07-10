@@ -1,4 +1,5 @@
 ---
+
 ingest_date: '2026-06-26'
 pub_date: '2026-06-25'
 kind: cleaned-transcript
@@ -28,9 +29,8 @@ evidence_grade: transcript-bearing
 transcript_wrapper_tier: clean
 opening_tier: host-monologue
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (barnes, channel:mario-nawfal)); 16 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (11 sections). · even-chunk split pass 2026-06-26 (20 sections). · Thiel/NDAA split pass 2026-06-26 (22 sections)."
+editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (barnes, channel:mario-nawfal)); 16 substitutions; not human-verified verbatim; verify before quotation. · even-chunk split pass 2026-06-26 (20 sections). · Thiel/NDAA split pass 2026-06-26 (22 sections). · source-section pass 2026-07-09 (23 sections)."
 quality_note: "ASR normalization pass 2026-06-26; ph-civ replacement SSOT."
-transcript_curation: curated_sectioned
 verify_receipt: 2026-06-28
 verify_matrix_ref: statecraft/notes/wire/2026-06-25-news-verify-matrix.md
 verify:
@@ -43,6 +43,17 @@ verify:
   - claim: Hormuz near-zero traffic / IRGC total-control snapshot
     verdict: partial
     note: J25-5 — Lloyd's recovery **contradicts** binary closed reads in capture register
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 23
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # BREAKING: GCC ATTACK IRAN AFTER MARCO RUBIO MEETING, IRAN STRIKE VESSEL IN HORMUZ w/ Robert Barnes
 
@@ -54,7 +65,7 @@ verify:
 
 ## Transcript
 
-### Show Open — Hormuz Strike and Rubio GCC Statement
+### Show Open — Trump Iran White House
 
 Got Robert Barnes on the show. Lots of news coming out right now. The first thing is Iran has struck a vessel on the street of Hormuz which was allegedly violating the processes that they've put in place. Also, we had a major statement by the GCC and Marco Rubio, which is very different to a lot of the conversations that we're seeing.
  They came out, they attacked Iran, they attacked the resistance in Lebanon. What is going on? Is this Marco Rubio counter signaling counter signaling Trump advance or is this Trump playing both sides? What is going on? And I think the best person to speak about that is Robert Barn because I know you cover this quite a bit but Robert, thanks so much for joining us.
@@ -63,9 +74,9 @@ Got Robert Barnes on the show. Lots of news coming out right now. The first thin
 dementia where it just interferes with your decision- making. So like the you know I know people for example like there's people on the spectrum that kind of fit this where they go from thought to emotion without any sort of anything in between and they don't have the same social filter they used to and they get motivated by odd things or things that are counter who they have been in the past and Trump has been exhibiting that behavior now for the better part of nine months.
  I was on with Rick Sanchez and he pointed out that uh Ambassador Lavough of Russia had already come to that same conclusion that the Trump they met in Alaska was not the same Trump four months later. And the and the whole buildup to the war was completely contrary to everything Trump ever believed. He used to talk about the Middle East is just blood is blood and sand and you fight for sand and all you get is blood.
  Uh he was deeply skeptical. It's coming out now uh in the in the 2025. He was harshly critical of Bibi Netanyahu. Harsh, deeply skeptical of the Israel lobby in a wide and and always said he bragged so much about not going to war with Iran that the Biden administration indicted him for disclosing the plans related that he rejected to going into war with Iran in his first term.
- So all of this has been off the records and I just think it's because Trump uh Trump kind of if you filter it like someone who thinks like a toddler who just doesn't have that normal filter through good decisionm unfortunately that's where Trump is at. 
+ So all of this has been off the records and I just think it's because Trump uh Trump kind of if you filter it like someone who thinks like a toddler who just doesn't have that normal filter through good decisionm unfortunately that's where Trump is at.
 
-### Trump War Regret — Vance as MOU Architect
+### Segment 2 — Trump Israel Iran
 
 And so he entered this war against everyone's advice. He entered this war against his own instincts and his own history.
  He entered this war against his own public promises to the voters. And within a week he realized he'd screwed up. That this wasn't going to be over in four days. There wasn't going to be magical regime change. They weren't going to be cheering Trump's names in the heart of Tehran. They weren't going to be building golden statues to him downtown.
@@ -75,7 +86,7 @@ Joe Kent in his own way stepped down at the beginning. Tulsi Gabbard was kind of
  But the only person who had the capacity and the courage to step in and step up was Vice President Vance who opposed this war from the very inception who lobbied against it uh completely and has been subject to a wide range of defamatory and lialist and slanderous campaigns by the likes of the Murdoch machine dropping news story after news story whether it's the New York Post or the Daily Mail about how you know Trump makes fun of him for dropping the college football championship trophy and all this nonsense. the the New York
 Times ran a hit piece on. It didn't deter him. He kept getting a deal, kept getting a deal, kept getting a deal, and then Trump would rug pull it. I mean, I think this basic deal, and to Iran's credit, they made two really savvy decisions in the in in the decision the diplomatic stage of this uh conflict. The first was they uh the anytime Trump rugpulled a deal, they like Trump used to say in 2016 when he was running his campaign, if anybody criticized the
 
-### Iran Leverage — Rug-Pull Economics and Vance MOU
+### Segment 3 — Trump Iran Israel
 
 border wall, the wall just got two feet higher. Well, Iran, every time Trump
 rugpulled him, well, it just got2 billion dollars more or$5 billion more or$10 billion more. The uh so they they punished him ruthlessly for his rugps. The second is they figured out what Larry Johnson's been talking about, what I've been talking about, some others, which is this diminished decision-making capability of President Trump as his mental health and emotional well-being has declined.
@@ -88,9 +99,8 @@ Uh Miriam Adelson's newspaper and Israel wrote a nasty piece on them because Isr
  Trump knows this fundamentally. He just emotionally is erratic, too erratic to make decisions. Rubio doesn't want to be he didn't want to be responsible for the war. He doesn't be want to be responsible for the piece. So, dear Nako, Narco Marco, as I like to call him, after his family's ties, people could just Google Marco Rubio family cocaine cowboys and find some little surprising intel and information you might not know. Same with the Bessent.
 Bessent doesn't want to be responsible. Hegseth doesn't want to be responsible. Ratcliffe doesn't want to be they don't want to be responsible for the war or the peace. So, basically, Vance is left alone uh bearing the whole burden. That's why when they went to the team, you had Witkoff and Kushner there as kind of Trump's uh people, but the key to the team were all Vance's people.
 Vance's national security adviser, Vance's uh chief of staff, uh Vance's military adviserss, and Vance is determined to push this deal through come hell or high water, recognizing the need to to start to look at the US divorcing Israel, at least at the special relationship level that it's been at to our great detriment and the world's great detriment now for several years, and realizing if the economy goes off a cliff, we're all screwed.
- 
 
-### MOU Sabotage — Israel Lobby and Confabulation Risk
+### Segment 4 — Trump Iran Two
 
 So the uh I think it was a line in lockto stock uh two smoking barrels. We're not just fooked, we're proper fooked. Uh so if we want to avoid being proper fooked, we got to hope Vance is able to to keep Trump on a leash. No doubt. I like the Hegseth as well. That's a good one. The um so I've got a few questions for you based on what you just said.
  Now the first question is this. You said about Trump being quite erratic. um if he's so erratic, why has he been so resolute about continuing down the pathway which as you've described has been effectuated by JD Vance this deal or this MOU that has been agreed if he's so temperamental so emotional why doesn't he switch on the dime and cancel the deal I mean he has other if you ignore his verbal statements and you look at the substantive things that are happening we are moving towards a deal right >> yeah I mean I think he's going
@@ -99,14 +109,14 @@ ultimately stick with the deal no matter what he says. I mean, that's what Vance
  uh friend a friend of mine got a big kick out of. But the uh he said, "Always expect the best, but plan for the worst." The second part is no longer there. So, there's no contingency planning in Trump's mind anymore. And he reacts like a 2-year-old toddler. So if he wants something emotionally, he just flips to that. Oh, we're gonna do this.
 I'm gonna do this. And
 
-### Trump Confabulation — Fox News and MOU Continuity
+### Segment 5 — White House Hormuz Iran
 
 then he'll flip to the other side. Then flip to this side. Then flip to the other side. Back and forth. And he'll confabulate like, "Nobody told me the Straits of Hormuz would be closed." Literally, everybody told him the Straits of Hormuz would be closed.
  Uh, nobody told me they would hit the Gulf. Everybody told him they would hit the Gulf. So, and he's done multiple variations of this. He'll fan it like he blew this up the first time in April when the basic deal but less generous to Iran was cut and then he just f he he literally confabulated that Iran had agreed to give him the enriched material and agreed to open the straits for forever even if he kept the blockade in.
  It's literally just the opposite of what the deal was. And the emotional trigger is Fox News uh probably he watches it now obsessively. He watches it more than any boomer in existence. He wakes up in the morning watching Fox. He goes to sleep watching Fox. And in between he talks to Mark Levan and especially Sean Hannity on the phone every night.
  He told a friend of mine who was having lunch with him at the White House this fact. And my friend was like, "Holy crap, we're in some trouble." The So that's the hurdle. Basically, you got King Leer in the White House and you got Vance trying to keep us all from going off the global economic edge. uh while the Israel lobby tries to sabotage everything in between.
 
-### Vance Evolution — Day-One Hawk to Anti-War
+### Segment 6 — Ukraine Israel Iran
 
 >> So just on Vance because I know you've been like very positive about him. Uh one of the few points that people say about him is if you remember the very first day he was elected vice president of the United No not elected he was chosen selected as vice president of the United States of America.
  He talked about how Iran was a danger talked about striking them. So, how has that Vance how has the Vance that was elected on day one gone from that statement or what was the reasoning for that statement to a guy who was against the war in Iran? It's really a three-fold process that to watch Vance's evolution.
@@ -122,7 +132,7 @@ then he'll flip to the other side. Then flip to this side. Then flip to the othe
 And then he just saw what was happening. They saw Israel attacking Christian communities in the West Bank, attacking Christian churches in in in Gaza, attacking Christian churches in Syria or Libya uh or and in Lebanon. And so he was like, "Hold on a second. This is not what I thought this was.
 " He started to study it, started to observe it, started to become better informed. And Vance was going the same path. And you've seen in the last week this kind of explosion of Vance's the core foundation of his opinion. It's like, look, Israel is
 
-### Vance Arc — Iran Hawk to Strategic Divorce
+### Segment 7 — Iran Russia Peace
 
 this little country that only lives because we because we support them.
  They need to be supportive of the peace. They they need to not drop bombs on apartment complexes pretending they're trying to go after terrorists. The they need to get back in their box. The and and that we need to have a peace arrangement with Iran, not a constant state of war with Iran. And you know, Dr.
@@ -136,9 +146,8 @@ They're the three oldest, most ancient, continuous civilizations alive today in 
 Trita Parsi was particularly useful for that because there's a guy whose father was literally tortured by both he was tortured by the Shah and his father was tortured and abused by the Ayatollah. So this is somebody that you know there's no love lost with any particular aspect of the regime but he understands Iran. uh two other book those books I recommended to the vice president that they were recommended by Professor Marandi uh going t one is treacherous alliance alliances which is well written by uh Trita Parsi.
  But the other really good one is Going to Tehran. Uh Bombami was the one who introduced me to it and I I read it through. I was like this is an excellent book and it sh it reshaped my entire understanding of the Iran conflict because here in the west we've been so propagandized. Our understanding is completely undeveloped.
  That's why you have people like Larry Johnson trying to educate people. No, here's the real history. You know, there's a big difference between Shia and Sunni and between Shia and certain certain aggressive sex of of Sunni versus Shia. There are no Shia terrorists. There has been no Iranian targeting of the of US civilians. None of that.
- 
 
-### Vance Divorce — Trita Parsi and Strategic Shift
+### Segment 8 — Trump Israel Lebanon
 
 Then when they call them proxies, well, by that definition, we're the number one terrorist in the world. If we're going to start blaming people for what pro quote unquote proxies do the uh so once you understand that, once you get a full understanding, once you're able to shift your perspective, and Vance was able to do that relatively early on.
  I mean, when we talked to him in January, he was convinced that he had convinced Trump not to go in and it was with Trump's rapid uh decline of decision-making capacity that we did. But that tells you why and how Vance was able to shift. And he recognizes America needs a strategic divorce from Israel.
@@ -146,7 +155,7 @@ Then when they call them proxies, well, by that definition, we're the number one
  So the uh so Vance has you know has learned fast has learned quick. Uh it's only thanks to him that we have any kind of negotiation going on any kind of diplomatic outcome that's possible because it was up to Trump god knows where it would be. That might explain treat as a regular own show and that might explain why they're going after him, right? Because they're going after him quite hard.
  But I guess the for me I've been utterly skeptical of Vance. I think that you've laid out the most strongest cogent argument for him compared to anybody I've spoken to. I guess my biggest concern with Vance is uh you know what the you know what it is on social media is
 
-### Thiel Question — Vance Biography and Palantir Ask
+### Segment 9 — Thiel Connection His
 
 the Peter Thiel connection. It's this technocratic Palantir connection.
  What's what for example his seat in Ohio? Uh I've got a lot of connections in Ohio. I know that he was instrumental in ensuring that he won that seat. Basically guaranteed it almost was instrumental in getting his vice presidency as well. What's your uh counter to that or what's your thoughts about that? Cuz that's the biggest argument against him.
@@ -154,9 +163,9 @@ the Peter Thiel connection. It's this technocratic Palantir connection.
  He dealt with all that. Managed to somehow survive uh get him to go to the Marines. He was a true patriot after 911. Then he sees his friends die for what turned out to be a lie. Uh then he goes back to Ohio State. Then he goes to Yel Law School on scholarship, meets his wife. His wife is a very wellrespected lawyer of his of her owner accord was making good money in the corporate legal space.
 He clerked for Supreme Court Justice Roberts. Um and so Vance was economically okay anyway, but he decided to go into the tech space and it wasn't like the because Thiel was part of that space. There's a lot of people that assumed Thiel tutored him when it was more VC and other people introduced him to Thiel.
  So the uh and he liked the hedge fund space. He liked that independent getting into tech space. Uh but then he thought the challenge of he'd always had an interest in in politics, but he didn't never thought he'd run for office and he just saw things going deteriorating for people that wanted to see his life story. I recommend the film and the book Hillbilly Elegy.
- Uh the movie is really good. I think it's still on Netflix if I recall right. Uh so if you have a Netflix subscription, you can just tune in. Well, good actors and good cast. That will give you the best glimpse of who Vance is. Vance is very independent of thought. 
+ Uh the movie is really good. I think it's still on Netflix if I recall right. Uh so if you have a Netflix subscription, you can just tune in. Well, good actors and good cast. That will give you the best glimpse of who Vance is. Vance is very independent of thought.
 
-### Thiel Palantir — Vance Ohio and Thiel Backing
+### Segment 10 — White House Ukraine Trump
 
 So, Peter Thiel backed him, Blake Masters, and I forget who the third candidate was.
  Maybe it was Laxalt in Nevada. I'm not sure. Uh, in 2022, the the pack money really wasn't managed well. Uh, Vance was at fourth in the polls uh in February of 2022 when I talked to him and broke down a bunch of issues with him, but particularly the Ukraine issue. And him being bold enough to take that stand led a lot of anti-war voters in Ohio, which has a long anti-war streak.
@@ -168,16 +177,18 @@ So, Peter Thiel backed him, Blake Masters, and I forget who the third candidate 
  And so I get where people's concerns are and they should continue to monitor and see what Trump and see what Vance does uh and see if he delivers. But I had been arguing all the way through that Vance was the one urging for peace. And then a bunch of articles and news stories and inside stories came out that confirmed me.
  But during that whole time, people were telling me, "Oh, Barnes, it's a fake. It's a head fake. He secretly I was like, trust me, I do know the guy." And so I don't worry as much. and he was one of the few people to say we have to be worried about the surveillance state. Almost nobody else is saying it right now in the White House.
  He said that down at the at the rally at the Turning Point event in at Ole Miss back in the summer. So the so I think he gets th those concerns. He's not that deeply tied in. He's got about as much money as he needs as much from the book deal from the other stuff. And so uh the the ties to him and Thiel are overrated mostly because people don't know Thiel.
- still seems weird, seems secretive, connected all these tech ideas and companies. I do know well his world and he he he doesn't trust politics, doesn't trust US politics, doesn't think he can make a major difference and so I think he's more a distraction. 
+ still seems weird, seems secretive, connected all these tech ideas and companies. I do know well his world and he he he doesn't trust politics, doesn't trust US politics, doesn't think he can make a major difference and so I think he's more a distraction.
 
 People are right to be concerned about the surveillance state, but focus on Palunteer, its its current organizers, focus on the folks that are currently active with Google, currently active in the big tech space.
 Those people that because I've made this argument about Elon Musk before, too.
 
-### Rubio Counter-Signal — CENTCOM and Gulf Sabotage
+### Segment 11 — Everybody Else Tech
 
 The and Musk are much more alike than they are like everybody else in big tech. They are peculiar personalities. They might have some ideas that we do not share or care to share, but they're much more independent of mind and spirit than everybody else that would be happy to be part of a tech oligop oligop.
 The uh and and to give you an idea like the, you know, Thiel's dream world is is a quasi anarchistic state. It's like literally the opposite of a true surveillance state. The So, but he'll make money, right? He's a businessman. That's just the reality of it. So, I do I like the Palantir project? No. Do I like how much the US government is turning over to them? No.
  Uh, has that complaint registered with people? Yes. And I can tell you from inside, knowing people on the inside, one of the only skeptics of the surveillance state approach is actually Vice President Vance. >> Interesting. We'll have to explore this a lot more further in future conversations.
+
+### Segment 12 — Iran Lebanon Israel
 
 Now there is something that I wanted to speak to and I thought look this news has come out and I'm so glad you're coming on which is Marco Rubio and someone from the outside seems like there's a lot of counter signal going on but I want your elaboration on
 this and what I mean by this is if you look at the deal that was agreed upon as per what you're saying JD Vance was the male main main reason for that which was Qatar and Pakistan mediated within there it said that Lebanon's going to be sovereign and they created a committee The committee had Iran, US and Lebanon.
@@ -187,9 +198,6 @@ But the crux of it is this. They're talking they're disavowing Iran. They're tal
  Uh it doesn't talk about which other country is there, but one can summize based on his uh travels UAE, Kuwait, and Bahin. But Bahrain is a strange one because Bahrain is almost like a Saudi vessel, but then they've been struck. So I just all of this is really strange. Is this Rubio trying to cancel counter signal Vance? Is this Trump playing all sides? What is going on? >> Primarily, it will be Rubio doing the bidding of the Israel lobby being unhappy with Vance's deal.
  And he will work from within the administration along with Ratcliffe and sporadically uh Bessent. I like to call him Soros Scotty for his days back connected to Soros. Uh the I don't think that Bessent has that many friends of the State Department or the Treasury Department. That's a story for another day.
  So there that's going to keep happening. So I mean that's why like you know observers have been skeptical that any deal could ever get done whether Larry Johnson, Daniel Davis, others they the and and they're right to be skeptical of whether we Vance can pull this. I mean I was surprised Vance could even get this done this far.
- 
-
-### Rubio Sabotage — Deal Fundamentals and Gulf Shift
 
 My biggest hope is I never thought Trump could because he's driven by fear now. So Vance convinced him you don't want to be Herbert Hoover. It's like oh no I don't be Herbert Hoover. So he that dominated his mind for a while the but sometimes it's fear of being Barack Obama. But so I thought he would never do a deal that would release money to Iran.
  But then he talked all week, well it's really Iran's money. It's kind of stupid for us to be doing this because it undermines the sovereignty of the U the power of the US dollar and the financial the rails of the fin US financial driven system. The to have all these sanctions that just uh encourage alternative use.
@@ -198,7 +206,7 @@ My biggest hope is I never thought Trump could because he's driven by fear now. 
  It doesn't change that you the that we cannot kinetically win in Iran. It also doesn't change to your point that pretty much everybody in the Gulf is no longer on the anti-Iran the pro- US train that they're starting to realize Israel is the great threat to Middle East peace and prosperity. They're talking about a new security. Here's the reality.
  This was part of the things that that that helped Vance push it through to Trump. He's like, "If we don't get the deal done, they're just going to do a deal without us. The Saudis and the and the Pakistanis with the Qataris are going to create a deal with the Turks to have a new NATO like uh but of the Islamic world security architecture that doesn't include the United States at all and permanently undermines any effort of the Abraham Accords
 
-### Gulf Realignment — Islamic NATO Without Washington
+### Segment 13 — Trump Israel White House
 
 and marginalizes and puts BB back in a box even if he doesn't want to be in a box. the and when you know
 Israeli leaders are running around saying we're gonna invade Turkey next, we're gonna invade Egypt next. And by the way, they told people that in the White House last uh earlier in February, they said Turkeykey's next. So this was on their agenda. This was not just some rando talking on the internet.
@@ -208,9 +216,8 @@ the ship had sailed the uh and been a complete reversal. So, you're going to kee
  It so enraged the old school uh CIA and the institutional deep state that his grandfather fell off a boat sometime some few years later. Elbridge hasn't forgotten, put it that way. So there's no love lost there either. But he's somebody who knows how to work the system. So but you're going to see Rubio and Ratcliffe do the Israel lobby's bidding to completely try to undermine this deal.
  And that's where you're seeing Rick Scott start to escalate with his rhetoric. Senator Wicker out of Mississippi who's an utterly insane lunatic. uh you know, you know, escalate his rhetoric. Lindsey Graham will play good cop. Guys like Wicker and Scott and others will play bad cop to try to force and coerce Trump. They were even leaking they would impeach Trump over this.
  They impeach Trump over the most popular peace deal that Trump's ever done to resolve the most unpopular war America's ever been engaged in. The uh that's how dumb these people are. But that's the Israel. It will push heavy. It will use every tool, tactic, and technique available to it in the world of social media, the world of institutional media, uh, its allies in the Senate especially, and its allies in the White House, which are particularly Rubio and Ratcliffe.
- 
 
-### Islamic NATO — Colby and Israel Lobby Fight
+### Segment 14 — Trump Iran Netanyahu
 
 So, expect a lot of nonsense and shenanigans before Vance is ever ever able to get this ball across the line. Doesn't mean he won't, though, because even Trump in his diminished state still knows the fundamentals. Can't win the war. The war continues, he's screwed. And so is Trump aware of that though? I had a different question but now you the last bit you said is Trump aware of the fact that he's got no other options because I saw a report yesterday that Trump may be binging his time to sort out the situation with the oil reserves
 get past the midterms and maybe might go back in. But the the the core problem with it is as Trump it was fascinating watching the gush of truth from Trump. like even King Lear in Shakespeare's brilliant text will have these little be bits of perfect clarity along the way uh the as his mind otherwise devolves the you saw Trump say uh folks we're about to go off a cliff in a month uh we're about to get totally screwed I was about to be Jade I was about to be Herbert Hoover uh in the even worse than Jada Gar Hoover somehow and so the that that
@@ -221,7 +228,7 @@ honesty those admissions gave me a lot of faith and Vance was so aggressive sayi
  Now to your point I always assign it as 20% chance because when Trump's not doesn't have all his emo decision-making faculties there there's no guarantee what happens from one day to the next. But I think the odds are that ball advance got that ball rolling so fast downhill given the way Trump's mind works.
  Very little chance we go back in kinetically and I think Iran knows that. So they're leveraging their uh their power effectively in that regard. Iran's limitation is how long can they keep the straits closed? I mean I see the the assumption is
 
-### China Ceiling — Hormuz Leverage and Kinetic Odds
+### Segment 15 — Israel Trump Economy
 
 that they took out I assume that ship that was traveling the Omani route.
  Problem is China can't afford China yeah it relies heavily on its exports. China cannot afford the world's economy to collapse. So that's why China has been the one the reason why oil prices haven't gone through the roof. They've emptied their strategic reserves massively so that they quit buying oil so they allowed all the oil and gas to go to their Southeast East Asian neighbors.
@@ -236,16 +243,15 @@ What they'll do is they'll increase their violations every single day. So the f 
 Unlike Robert McNamera, you you listen to the old phone calls between him and his old friend, Senator Ritchell, Senator Russell out of Georgia, and he knew the war was a dumb idea. It would fail. the uh now the and there might have been a range of reasons why he did it, but you don't want to be LBJ and you do want to be Ronald Reagan like Mark Levan and these other fake conservatives are going around saying be like Ronald Reagan.
  Well, what did Ronald Reagan do? Ronald Reagan made the mistake of sending troops into Lebanon uh for Israel. Really? Uh and the and that led to a bunch of Lebanese American Marines uh getting blown up. Now, did he say, "Hey, let's go all in. Let's have double down. Let's, you know, let's wage war on everybody." No.
  He immediately withdrew our military forces from Lebanon. That was step one. And step two, he told up the Israeli prime minister, told him to stand down. He said, "I know a holocaust when I see one and you're the one doing it. Stand down now or you get no support from the US anywhere." And the reality is Israel is a tiny little country and they they have complete deterrence because they have nuclear weapons even though they pretend they don't.
- 
 
-### Hezbollah Reality — Lebanon Sovereignty Limits
+### Segment 16 — Israel Hezbollah Lebanon
 
 If if we're going to make a big deal about Iran's compliance with the nuclear non-prololiferation treaty, well, why don't we have IEA inspections in Israel? Why don't we start recommending things like that? The but the reality is without our money, without our intel, without our military, Israel is screwed. The uh they can stay within their box and people will leave them alone because nobody wants to get nuked.
  But people will use conventional mechanisms to uh defend themselves like Hezbollah. You're never going to take out Hezbollah. I mean, we got those token representatives of Lebanon that aren't really representatives of the people of Lebanon. The and everybody knows they're not really representatives of the people of Lebanon.
  They're like that Guaidó that we pretended was the president of Venezuela for a while. It's a crock. The or like you know the the the son of the shaw running around pretending he's the new future leader. the uh every we everybody knows that and Hezbollah is not going anywhere because it is backed it organically indigenously by a Shia community that needs and wants protection from Israel and other forms of sectarian violence.
  So they will find a mechanism just like they Israel couldn't even take out Hamas. They were razing Gaza to the ground and Hamas is still there. Hamas is still standing. They're going to take out
 
-### Lebanon Front — Netanyahu Escalation Ladder
+### Segment 17 — Israel Trump Hezbollah
 
 Hezbollah. What fantasy land are they in? So all they're doing is wasting time grandstanding and the only question is whether it blows up.
  I mean I get why BB's doing it. BB needs to get through the elections. BB needs a war to continue probably in order to get reelected and the and why does he need to get reelected? Because otherwise he and his wife go to prison for all their corruption in Israel. But the the problem is he could blow this all up. What happens if Trump who's still relatively popular in Israel starts effect aggressively campaigning against him? I mean, you might have seen the stories, and I can confirm they're accurate. You we were reaching out the
@@ -253,9 +259,9 @@ past week to the other campaigns running against BBE. So, the uh to to discuss p
 and and the if you look at what's happening in the within even Israel finally is starting to realize maybe this isn't such a good idea within the voting populace and you're seeing a surge of a third party candidate a third candidate rather between him between BB and Bennett that Bennett it's like BB without the corruption so it's the same thing but the third guy is like hey maybe we need to go restrain ourselves maybe we need to stay within our borders maybe we need to return to what Ben Gavian talked about the 1940s that we're
 too small to go out expanding everywhere the maybe this isn't working out so well that when Hezbollah takes out, you know, a a colonel every other day with their drones and our tanks can't get anywhere. We can't hold the land. We can raise the land. We can raise it to the ground, but we can't hold it.
  We've now antagonizing all kinds of evangelical Christians in the United States. Israel is way underwater. Look at just what happened in the New York Democratic primaries. Every anti-Israeli candidate won, including in the most Jewish district in America. Because contrary to the whole anti-semitism nonsense, most Jews oppose this war.
- Most Jews do not have a positive opinion of Bibi Netanyahu and many are skeptical of uh Israel in general and 
+ Most Jews do not have a positive opinion of Bibi Netanyahu and many are skeptical of uh Israel in general and
 
-### Netanyahu Box — NY Primaries and Strategic Options
+### Segment 18 — Israel Netanyahu Trump
 
 >> especially the more younger ones. The the data shows it's overwhelmingly when it comes to even the Jewish community, they're against this war and actually they're against Israel and the actions of Israel.
  But I guess you know you mentioned this third candidate. Well, I don't know what the what his name is, but the problem what you've got in Israel is you mentioned uh Bennett Yari Leid is another example. the entire not just the government apparatus but polls are showing that the Israelis believe that you should continue the war in Iran overwhelmingly they believe this the majority believe that the war is not going well and so from an Israel perspective this is the issue I have with Netanyahu that Netanyahu in a way is stuck as well because not that he's
@@ -267,25 +273,25 @@ above all uh right now you're seen as BB's Publicly slap BB. Uh that's what you 
  So that's where I think ultimately I think he'll play games but within a month uh BB's back in a box is my is I would say 75% chance 25% chance Israel blows up their whole political future by uh becoming because it's as suicidal for their country as it is for BB to try to continue this war against US wishes. >> What's the strategic options that they are considering >> the they're looking at all of them looking at everything.
  So there's a rather like one of the thing that I recommended was come out publicly against the two current proposals by the Israel lobby in the House and the Senate. One is to put Israel right at the at the core level of our entire military procurement process so that they get access to all of our most
 
-### Israel Leash — NDAA Fusion Bills and Mamdani
+### Segment 19 — Israel Trump Iran
 
 sensitive military technology.
  And that's the House bill. And then the Senate bill, Tom Cotton, who's a complete hack, the uh the which he also fancies himself as president someday. Never gonna happen. But he wants Mossad and the CIA to effectively merge. >> And so what I recommended to the White House was President Trump should come out against both.
 >> Just send just that'll be the first shot across the bow. Say, "I oppose this. We can't be sharing our military secrets with any foreign nation. We can't be merging our intelligence agency with any foreign nation." It would shock the Israel up because they think both these bills are going to pass.
  and that Trump will sign them. They It will send negative ripples back that they won't even know how to process because they live in their own bubble, which is a key part to understanding the Israel lobby's logic. They don't understand what's happening. That's why they panic when Trump does something they couldn't understand.
  That's why you have the Israel media saying maybe somebody maybe the Iranian put some device in Trump's head and they're manipulating it with electromagnetic waves. >> Yeah, that sounds like an Israeli plot. Doesn't sound like an Iranian plot. the might have been a little confession through projection in that allegation. But the I think but that's one of the ways to do so.
- But Joe Kent's been laying it out to them now for a while. Cut off military aid. Cut off intelligence aid. Slap their not just slap their hand, slap their face so they get the message play ball or get lost. 
+ But Joe Kent's been laying it out to them now for a while. Cut off military aid. Cut off intelligence aid. Slap their not just slap their hand, slap their face so they get the message play ball or get lost.
 
-### NDAA Fusion — Mamdani and Public Slap BB
+### Segment 20 — Israel Trump American
 
 >> So for me like I'm very skeptical about this alleged friction between the two. And part of the reason is something you just mentioned which is the section 224 which I believe is now being is section 219 of the NDAA and as you mentioned the Senate version which I believe is FY27.
 So both of them they um like as much as it could look like publicly that this disagreement I mean this infusion is going to ensure major incorporation major knowledge base when it comes to Israel and America. It's going to fuse them together. And so how can there ever be a divorce or a disagreement or a separation or not even a divorce like a understanding that each country has its own state interests in regard? So something like that for me is the litmus test.
  And so what's happening in that regard to ensure something like that doesn't happen. >> They are uh the Israel lobby was surprised by the public exposure of the bill. Then they were also surprised by some of the public blowback uh to the bill and then the uh it would couldn't have come worse for the Israel lobby, the disaster of the elections in New York City.
  Mamdani whipping the Israel lobby amongst Jewish voters in the most Jewish city in America again, but this time congressionally uh has sent ripples uh through Congress, which is otherwise completely asleep at the wheel and waiting for their late, you know, their next check. Uh the so the that's a good sign, but I think it will require Vance and Colby to continue to maneuver in such a way against the Israel lobby with the president that the president takes increasingly assertive actions to prove to disprove what you're concerned about that this is all good
 cop bad cop for show >> and to prove bonafides to an American people that are equally skeptical at this moment. the and that's why I keep encouraging anybody that's in the Trump world, the Trump orbit or part of the news circle and cycle and podcast and information circles that Trump's campaign people and other people follow the is uh just keep reminding him right now the world thinks he's BB's and until he puts BB on a leash he's be he's on BB's leash and keep hammering that part of his psychology until Trump takes
-action because the one good the bad and the good with Trump is he can turn on a dime and so the I'm hoping we just get the good version of turning like that. >> 
+action because the one good the bad and the good with Trump is he can turn on a dime and so the I'm hoping we just get the good version of turning like that. >>
 
-### Iran Trust — Vance Dual Track and Gulf Shift
+### Segment 21 — Lebanon Iran Ceasefire
 
 Well, that's interesting. Now, in terms of um coming for coming forward now, um in terms of this deal, obviously you the way you've related it, JD Vance is basically the m main architect behind it.
  He's trying his best to make sure it it doesn't fall off. Um what happened between Vance and the Iranians that caused that trust to occur? And what I mean by that is if you remember the very first time the ceasefire agreement was agreed April the 6th I believe it was there was this again Lebanon issue and it was is Lebanon part of the deal and so the Iranians said Lebanon's part of the deal the Pakistanis who the media said Lebanon it was but Vance came out and said and Trump came out and said it wasn't.
@@ -294,13 +300,15 @@ Well, that's interesting. Now, in terms of um coming for coming forward now, um 
  The Saudis had mixed opinions. The Emiratis were gung-ho. The the Emiratis I can guarantee will come out down the road but the Emiratis are like woohoo. I mean, you got MBZ playing Call of Duty and all that crap. That's what happened. This is not the generation that came up the hard way in each of these different uh, you know, oligarchic clans that run these the Gulf the Gulf States.
  These are guys who grew up totally privileged from day one. It's why you can think you're Mohammed bin Salman and be like, well, I kind of don't
 
+### Segment 22 — Trump Lebanon Iran
+
 like this critic. Uh, he wants a little wedding certificate. Uh, why don't we chop him up into little pieces and send out a guy that looks like him and we'll get away with it.
  You know, I mean, you like, what was even the plan here? like this is one of the most halfass plans ever at least Mossad knows how to do it a little bit more secretive way the so uh the once they got off off that there's almost nobody in Trump's corner but the Israel lobby that's making his life miserable and so the now Vance you will see try to run for Trump which is not easy to do he has to explain away every crazy dumb looney thing Trump says and that's why like on the Lebanon one he's like yeah no I think it was some misunderstanding yeah it was
 misunderstanding Vance knew who the misunderstanding was with Trump it wasn't with with with the Iranians, everybody and their brother. I mean, heck, the Pakistani uh officials had put it out on X to begin with, including Lebanon right there. So, Vance knew that he was just trying to run cover because uh he whenever he speaks to the on any press conference, the president watches.
 In fact, if you want to reach the president, you're better off going on Fox News than you are talking to him in the White House after the time. So, understand, filter through with Vance. Okay, who's his audience for that particular communication? Uh it's he's been trying to convince the Iranians. We can have two tracks here.
  Whatever we're talking about in the court of public opinion, you for your domestic audience, Trump for his domestic audience, but let's do the real deal behind the scenes. This is why Trita Parsi, what has been consistently correct and advocating he would really like negotiations to be private, not public. That's just not possible to roll with Donald Trump.
 
-### Iran Trust — Dual Track and Event Close
+### Closing — Hormuz Robert Appreciate
 
 >> Robert, really appreciate this conversation. And it's so different to what we're used to and a totally different perspective. And I really enjoyed that because it's all it's always good to speak to people with different ideas, different thoughts and different perspectives. And I really enjoyed this conversation.
  Thank you so much for taking your time out to join us. Where can people find you? I know you're doing some really good work. You got a really good event coming as well with my with my basically my almost he's like my dad now, Larry Johnson. So what's >> Yeah. Yeah. Exactly. Exactly. Yeah. So the I mean the uh we put up stuff at biva barnslaw.locals.com.

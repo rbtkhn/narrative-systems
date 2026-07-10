@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-17
 pub_date: 2026-06-17
 kind: cleaned-transcript
@@ -29,9 +30,19 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: paste-prefix
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 17 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript; breaking-news oil-sanctions lift mid-show; promo close retained; not human-verified verbatim. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 17 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript; breaking-news oil-sanctions lift mid-show; promo close retained; not human-verified verbatim. · source-section pass 2026-07-09 (10 sections)."
 quality_note: "ASR normalization pass 2026-06-18; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Lt. Col. Anthony Aguilar: IDF Orders Massive Khiam (Lebanon) Withdrawal
 
@@ -42,7 +53,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Israel Iran Gaza
 
 Hi everybody. Today's Wednesday, June 17, 220, 2026, and our dear friend, our brother Anthony Aguular is here with us. Welcome back, Tony. >> Thank you for having me. It's a great day to discuss some important things. >> Exactly. And the one of the most important things is this this the release of the 14point plan or the 14point MOU memorandum of of understanding between Iranians and Americans.
  Both sides have released the document just one or two hours ago, one hour ago. And the first point, Tony, is related to what's going on between Hezbollah and Israel. And I don't know if you see the document the see the if you've seen the points and here is what it says. It says that the United States and Iran and their allies in the current war declared the immediate and permanent termination of military operations on all fronts including in Lebanon and undertake from now on not to initiate any war any military operation against each other
@@ -56,7 +67,7 @@ through all of this it's really that that little bow at the end that really puts
  The UNSC, not the UNGA. Very important. So, yes, Israel is pissed. Um, we've seen military movement, let's just say the last 24 to 30 hours. There was going to be a large-scale operation on the ground in Gaza as part of um combined arms maneuver, wide area security, back operations in that small percentage of of terrain that still exists that's uh not occupied by Israel right now.
  uh I believe they were going to make this attempt to make that final 20% grab occupy buffer zone like Israel loves to do and the United States directly got involved and said no don't do it and
 
-### Segment 2 — They Didn't At Least For
+### Segment 2 — Israel Lebanon Hezbollah
 
 they didn't at least for now as we're looking at Lebanon with operations we see that the Israeli forces there's a lot of movement movement to various battle positions on the front lines which in this case is in southern Lebanon doesn't necessarily mean that there's withdrawal Reconsolidation operations could be movement to positions for um larger um
 cons, you know, more synchronized maneuver or combat operations on the ground. It could be a withdrawal. It could be a phased withdrawal. And that's where Israel, I think, is really going to try to push the envelope with this war on all fronts piece to where we're going to withdraw, but we're not just going to withdraw like the intent of the document where we leave.
@@ -71,7 +82,7 @@ cons, you know, more synchronized maneuver or combat operations on the ground. I
 What what what do you see when they do this? and considering the behavior of Israelis, are they bringing all their forces together to reassess their sort of strategy in the southern part of Lebanon or is it means something else? >> So geography matters. Ham is strategic. Uh Israel and and Hezbollah have been fighting over this terrain. In 2000 there was a big battle.
 Recently there's been battles back and forth. Why that matters is because much like the Golan Heights in this geography, in this terrain, Hyam is a is a hilltop strategic position that really gives you dominance over the valley um all the way to the Latani River and then the
 
-### Segment 3 — Approach Coming In From The
+### Segment 3 — Iran Israel Hezbollah
 
 approach coming in from the south.
 That matters when you're fighting on the ground. That matters when you're fighting against uh FPV wireguided drones. That matters when you're trying to uh bring to bear artillery or close air support. So, it's no coincidence that this is where where um Israel is is withdrawing to. Imagine if you will if you're um if you're playing basketball and you're on defense and as the offense is coming down, you meet them at the three-point line to kind of, you know, get into their play, but then you you you you pull back into the paint into
@@ -86,7 +97,7 @@ how do you see that happening considering what MSAD and Israel wants. >> So I th
  Somebody should take that statement, chisel it in stone, give it to Donald Trump, and make sure that he hands that off to every US president thereafter. We should stop interfering in sovereign nations affairs of governance of ruling of of uh a a government or a regime as we call it which is just a a name that we've given the government of Iran to to stop meddling in other affairs to stop trying to dictate for other countries what's right and good for them.
  Can you imagine if in the United States when we had um rioting in our streets and American citizens being killed in cold blood in front of America on American TV by federal agents? What if
 
-### Segment 4 — Canada Decided Whoa America I
+### Segment 4 — Iran Nuclear Weapon Nuclear Weapons
 
 Canada decided, "Whoa, America, I think you need some help. We're going to go ahead and come in." You'd have a war on your hands.
  So, this point should be chiseled in stone and forever remembered to every president that fills that seat thereafter. Don't meddle in other count's affairs. >> Yeah. >> And I think this is this is um there's a lot packed in here though. So now that is how much what does that mean? Well, if you're Iran, that means don't tell us how to manage our nuclear program.
@@ -101,7 +112,7 @@ And what do you make of it? Don't >> Well, what I'd like to point out if anyone 
 Look at look at point number nine. Uh the the Islamic Republic of Iran will maintain the current status quo of its nuclear program and the United States of America will not impose any new sanctions and will not deploy additional forces in the region. Wow. Wow. So if you're looking at that from the position what I think of point 8 and n juxaposed to what we now know of of point one and two don't mess in our internal affairs stop wars on all fronts now additionally to the don't mess with affairs let's take the nuclear piece as
 a separate issue don't mess with that and this is where I think there needs to be a better understanding for uh for folks on on the uh on a nuclear weapon everything that goes into producing nuclear energy, the refinement of the uranium, uh the production of the materials to go into what you would
 
-### Segment 5 — Need To Have A Nuclear
+### Segment 5 — Iran Nuclear Weapon Netanyahu
 
 need to have a nuclear core reactor, let's say in a in a power plant, uh you know what we saw in Chernobyl.
  Uh, for anybody that watches The Simpsons, when Homer leaves at the end of the day and he hits the thing and the little rod bounces out and sticks in his shirt, that's a depleted uranium rod. So that there's no difference between that and then taking it to a weapon other than putting the fision and the fusion thing together.
@@ -117,7 +128,7 @@ You can put a warhead on a tomahawk. You can put a warhead on kind of ballistic 
 No. Why would we? So, uh, these two points to me is like is really the whole the whole premise of this was we went to war to prevent Iran from ever having a nuclear weapon. And what we're leaving with is all we have is their word. All we have is Iran's word. Well, that's what we had prior to this war. So, nothing's changed.
 >> Yeah. >> This war, this war is a
 
-### Segment 6 — Mess Yeah It Was A
+### Segment 6 — Iran Gaza Lebanon
 
 mess. >> Yeah, it was a mess. And then that's why Donald Trump tried to do everything to get out of, you know, that trap that he himSouth Koread for the United States. And Tony, the other point that was mentioned considering Iranian nuclear program, it said that 60% enriched uranium going to stay in Iran and they're going to downwind that in Iran, not outside of Iran. That's right.
 As they said, you remember they said the uranium, the enriched uranium is part of it's like the soil of Iran. It's part of Iran. It's not going to get out of Iran. So if whatever we do, it's going to be on Iranian soil. And they're just getting the way that they sell it. >> Yeah. They're they're mining >> the uranium.
@@ -131,7 +142,7 @@ nations uh as a as a as a cooperative nation rather than trying to hold on to th
  They're showing us they're serious about Lebanon. They're serious about Gaza, Palestine, West Bank. Let's see what would happen in Gaza in Gaza and the West Bank. I think that is of particular importance for for the axis of resistance. But it starts with Lebanon. And I think as if they liberate Lebanon, that's a huge huge sort of sign that they can put Israel in in its place and not because they're right now they want to expand in Syria, in Lebanon.
  West Bank is all gone and Gaza 70% today Israel cats the defense minister of Israel smrich was talking about they were talking about 70% of Gaza being annexed to Israel this is the new sort
 
-### Segment 7 — Of Move They Don't Have
+### Segment 7 — Iran Gaza West Bank
 
 of move they don't have any control on MOU so far at least from what we've seen let's see what would happen I think that's that's going to be a huge change considering Palestinian you know territory and the Palestinian people, Gaza, West Bank, all together.
 >> I I agree entirely. And I also look at this in terms of uh from, you know, if you are an Iranian and you're looking at this in terms of, you know, imagine if you were uh a Catholic and you lived in Italy and the Pope was assassinated and this comes to this end and you're like, whoa, whoa, whoa, whoa, whoa, whoa. We got the upper hand here.
@@ -144,11 +155,13 @@ That is why I think it's absolutely imperative that Iran hold this deal, hold th
  None of these lies and propaganda of, "Oh, there's aid going into Gaza." No, none of that. Iran has to hold firm on accountability because right now, this is the last chance for Palestine to have a champion in their survival. They have existed and they have resisted through that existence. Now, Iran can be the champion in their survival.
 Iran cannot step one foot back on accountability when it comes to Gaza, Lebanon, the West Bank. Cannot.
 
+### Segment 8 — Iran Hormuz Europe
+
 Yeah. Tony, the other important point is this Strait of Hormuz and the United States somehow accepted that Iran going to manage the Strait of form. They they defined a period of you know a time period of 60 days during which there would be no sort of toll or fee.
 But later on Iran going to manage that with Oman and they're going to they're going to you know use their own mechanism or they're define they're going to define it within the the first 30 days together between Iran and Oman. They're going to define it in the first 30 days and after 60 days they're going to implement their plan on the Strait of Hormuz. This is one part.
  On the other on the other hand, it says even the mining of the Strait of Hormuz will be dependent on Iranians. If they decide to do that, it's going to be by Iranians and nobody no one else going to get there because today we were talking about in Donald Trump was asked by some of these European journalists if Europe going to do that
 
-### Segment 8 — In The Persian In The
+### Segment 9 — Iran Trump Ceasefire
 
 in the Persian in the Isra.
 Here it mentions no one can get there and not it's not it's not about in no the United States together with Europeans they're not allowed to go there it's going to be by Iranians that's why I think they want to manage the Strait because they don't want these radars the military equipment getting back to American bases in these GCC because they have to pass through this radar for most to get there or they're going to bring it with you know with airplanes or something like that but at least in the foremost they're going to
@@ -163,7 +176,7 @@ to reach a treaty or a uh you know a long-term um treaty or or path to stabiliza
  Do I think that Iran intends to impose absolute total full control on the Straight Hormuz? I don't. I think in the coming negotiations down the road that Iran is very much in their benefit, in their interest to make this a cooperative Oman, the Gulf States to make this a cooperative administrative process.
  Now, would Iran hold the majority of the say? Well, sure. They they physically own the majority of the Strait of Hormuz. The Strait of Hormuz is Iran to an extent. So uh when you look at it from that point and you go down you look at let's look at all the um you know sometimes people look at this and they're like this is the only strategic waterway in the world we have clear examples the straight of Malakas between India China and Japan does is that just free flow everybody use
 
-### Segment 9 — It No There's There's Fees
+### Closing — Iran Trump Jcpoa
 
 it no there's there's fees there's there's fees to use
 it there's there's a there's a there's a uh an alliance of of administr ative control. Imagine if a if a huge tanker were to go through the trader kamoose and all of its oil, millions of barrels spilled and made this ecological disaster like Exxon Vald in Alaska in the 80s. Who's responsible for that? Who's going to clean it up? Who's going to pay for it? Hm.

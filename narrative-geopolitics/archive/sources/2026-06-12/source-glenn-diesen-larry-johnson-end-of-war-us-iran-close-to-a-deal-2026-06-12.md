@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-12
 pub_date: 2026-06-12
 kind: cleaned-transcript
@@ -29,9 +30,19 @@ evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: paste-asr
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 4 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 4 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (9 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Larry Johnson: End of War? U.S. & Iran Close to a Deal?
 
@@ -44,7 +55,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Israel Trump
 
 Welcome back. We are joined today by Larry Johnson, a former CIA analyst to discuss what is happening now in the war against Iran. So, thank you for coming back on the program. >> Turn to get that light shining in the corner. I just checked into a hotel on the road. Well, uh uh I I'm not sure where to start here because uh there's so many times we've heard uh Trump, you know, after every bomb braid, he essentially comes out and say, "Well, this time we're very close to a deal.
 " We heard this story many, many times, only to see him beat the drums of war again the next day. But this appears to be something different, though. We hear from the Iranians as well that uh there is big movements, not a deal, but um uh uh but at least uh an agreement on uh on a shared understanding and a plan to move forward uh given how far apart the sides are. This is quite remarkable.
@@ -58,7 +69,7 @@ Uh the lifting of the sanctions uh the uh recognition of Iran Iran's control or 
  That is first uh yeah first step we'll do this once it has been achieved we'll move to the next step. But uh yeah, so the first step apparently would be yeah, they signed this memorandum of understanding and once it's signed uh all of uh Iran's assets will be released and they will not be frozen again. This kind of the deal and once this is done they can move on to to the next step.
  So this is quite significant. It's um >> releasing the sanctions. It's not the most difficult thing to do compared to the other tasks. But it is a show of goodwill though because
 
-### Segment 2 — It's Been So Many Yeah
+### Segment 2 — Iran Israel Trump
 
 it's been so many yeah nonsense negotiations and um also once you get this out of the way uh yeah it's a it's going to essentially be a cost for the US as well to to to go back on what is promised.
  So it's a good it's a it's a good uh first move. Um but uh but what are the other things that have to be included into this deal though? Well, you know, again, lifting all the sanctions, not just oil. So, part of what one of the initial gestures will be lifting sanctions on oil. That benefits that benefits Trump as well.
@@ -72,7 +83,7 @@ you know, at least in that area there's some flexibility. Uh so if if Trump want
  Uh, it's it's been fascinating this week watching Iranian restraint. um yet uh you and know I don't know if you've picked this up, but it was on I think it was on the Tuesday Tuesday Tuesday or Wednesday strikes by the United States that we saw the first evidence of Iran's upgraded air defense system because it reported they took down five Tomahawk missiles during the strike on Bonder Abas.
  Uh they they hadn't done that before. And they also engaged an F uh I think it was an F-16
 
-### Segment 3 — Again With A Ground The
+### Segment 3 — Iran Russia Israel
 
 again with a ground the the air defense system lit it up. F-16 knew it was it was going to be engaged and it you know bailed out real quick. So that that's clear assistance from China and Russia that have upgraded them on that.
  Then the targeting, their their retaliatory strikes, they were not massive, but they were incredibly precise. Uh, and I know and I I I have some information with respect to one of those that it was extremely damaging to US, I'll call it, US strategic capabilities. In in other words, uh the US ability to you know if if they were launching intercontinental ballistic missiles that my understanding is this what whatever was taken out in Bahrain was a critical uber expensive uh component and the feeling I know on the US side was the
@@ -86,7 +97,7 @@ some reciprocity? >> Yeah. Yeah. I mean, UAE is like uh, you know, they're they'
  However, uh Monday uh that delegation from the UAE went to Tehran and uh I think you know for the UAE it's it's an economic calculation. They've really taken a beaten uh on over in in the course of this war. are now 105 days old, 106 days old. Uh they've suffered significant economic damage and are looking to get, you know, get back into business.
  You know, they've got that free free trade zone Jeb Ali that has just been, you know, shut down dead for, you know, the entire duration of this war. So reportedly they're going to play they're playing a critical
 
-### Segment 4 — Role In Returning Some Of
+### Segment 4 — Iran Hormuz Israel
 
 role in returning some of the frozen assets the day after. So they went Monday the next day Tuesday the Qatari delegation shows up and they stay and many thought that they would leave you know Tuesday afternoon and as soon as they left then the United States would start up the attack again.
  Uh but apparently they they stuck around. They stayed overnight. So they were there during one of the attacks. Uh even it didn't really hit Tehran, but it was close. And so Qatar apparently played a role with the Pakistanis and getting working out a document that they got all agreed to. Now the other thing that's going on behind the scenes that you know Pepe and I, Escobar and I have been told and I and I believe it's true is that Pakistan is also negotiating with Qatar and Saudi Arabia and and helping them plan their escape from being under uh
@@ -99,7 +110,7 @@ commitments to perhaps uh limit the presence of US troops because the whole purp
 >> Yeah, >> I don't know if it was you or me. >> Could be at my end. Yeah. >> Yeah. >> So, anyway, you were saying >> No. Yes. I was say well I was saying uh I I assume that uh if if they're willing to be less strict on on you know what what they charge going through the straight for moves how they going to run it essentially it's because they're getting other guarantees that the US will uh well reduce their presence I'm just thinking how do you see the region forming though after this war because uh a lot of things have have changed is
 Iran extended its security guarantees to or has extended it deterrence to uh to Lebanon. Uh we see
 
-### Segment 5 — You Know The The Us
+### Segment 5 — Iran Israel Turkey
 
 you know the the US will be out of its mind to try to attack Iran again. This has been a very painful experience. Um but uh how much do you think Iran's position in the region will change as a result of this? >> Well, actually I think Iran would be a bit of a moderating influence.
  I mean let's be candid about the Gulf Arabs. They're they're they're like a bunch of nasty high school girls. You know, the there's that movie, The Mean Girls. So, okay, seven years ago, you got Saudi Arabia and the United Arab Emirates. They're mad at Qatar. Oh, and they they tried to cut, you know, impose an embargo.
@@ -113,7 +124,7 @@ for that region. And this becomes it's gotten especially interesting this week w
  So I see see the military e effort uh increase among those countries as well as levels of economic cooperation. I mean frankly country's got some years of rebuilding to do ahead of itself because of the damage it suffered early on in this war. Uh I'm not sure how much physical damage uh Saudis have took uh or encompassed. Uh Bahrain Bahrain will probably become part of Iran again and Kuwait could see it get folded back into Iraq.
  So there yeah there'll be some changes I think. >> Yeah, I've been looking at Kuwait as well. It's it's u continued independence is um yeah highly questionable questionable. Well, uh, one of the reasons we don't know too much about this, uh, memorandum of understanding and, uh, the possible deal that will follow is there's been encouragement, um, well, uh,
 
-### Segment 6 — To To Keep The Media
+### Segment 6 — Trump Iran Israel
 
 to to keep the media quiet.
  And I was wondering, how do you read this? Is this for people not to oversell the story or have in in order to essentially create the wrong expectations to sabotage it? I mean, it looks like this. the the concern for sabotage is on all sides to be honest because yeah one often looks at the American side is many who do not want this deal the Israeli Israelis are obviously also eager to sabotage but also within Iran you have the hawks many hawks who also say well for good reason they are in a strong position now this is the time to well put an end to
@@ -127,7 +138,7 @@ But you're correct, Glenn. There is I've already seen headlines about Republican
  He could have added, but I'm glad he didn't. that keep Trump away from the media as well because every time he's in the media, he has to sell the strongman image. So, so he has to go through the same the same talking points. That is Iran is begging for a deal. We're dictating the terms. They're going to get no not a dollar uh of the frozen assets.
  You know, they will give up all nuclear material. The Strait of Hormuz will be open. and our ships are going. You know, once you start locking yourself into this maximalist position, it's very difficult to uh yet to essentially commit to
 
-### Segment 7 — Memorandum Of Understanding Which Compared
+### Segment 7 — Trump Israel Iran
 
 memorandum of understanding which compared to the previous statements of Trump, this would be, you know, this would be reality catching up.
  This would seem like a capitulation by so I think uh yeah, keep Trump away from the media and at least get the ball rolling. you know, if they can get into that one step of releasing the Iranian funds, then uh you know, it would be very painful for the US to step back and then lose what it you know, what is already put into this deal.
@@ -141,7 +152,7 @@ Well, it's just uh overall the Trump presidency looks like it's in a difficult s
 must be difficult. I'm just uh it's hardly I just I just can't see it. Yeah. Going through though. >> Well, look, the pro the problem, Glenn, is the United States has been in denial now for let's call it four years. So, let's go back to the start of the special military operation in Ukraine. So from the from the outset that was a proxy war with Russia using Ukraine as the standin and the United States brought intelligence.
  It brought you know weapons uh you know started with highars and
 
-### Segment 8 — And Attacks And F S
+### Segment 8 — Russia Trump Iran
 
 and attacks and F-16s and you know trying to trying to resupply 152 or 155 mm artillery shells and and what happened the United States failed to move the needle against Russia. Russia steadily beat down Ukraine. Then we come to Operation Prosperity Guardian.
  And again, this is not just on Trump. Remember, Operation Prosperity Guardian started in December of 2023 with under Joe Biden that they were going to open up and establish freedom of navigation in this the Red Sea and you know for uh I guess 12 13 about 15 months uh they fiat and so Donald Trump enters it and comes into the picture in month 13 or 14 And so January, February, start of March, they announced, "By God, we're going to show those Houthies now whose boss we're not going to be a bunch of wimps like the Biden administration." And so they
@@ -155,7 +166,7 @@ And the number that Iran has fired against Israel is probably up well in the ran
  So you put all that together and you're going, you know what, maybe the United States is not as super a superpower as we thought. >> Yeah. No, I think it's hard to argue that the US didn't overextend itself. But this is my point. It's I think it would be Yeah. the best thing for the US uh to it also scale back a bit prioritize what it wants to do because at the moment attempting to do everything is just um yeah terrible uh terrible plan but uh let me just ask a last question.
  How do you see if we're moving if let's say this memorandum of understanding goes through with the Iranians or if it doesn't we'll then looking towards we're looking to um Iranian victory pro probably anyways how does
 
-### Segment 9 — This Change The Wider World
+### Closing — Russia Hormuz Iran
 
 this change the wider world do you think I mean how would the position of China or Russia be impacted by this >> yeah no it's it well a it'll boost the prestige u b it's going to for China you know China still has probably it's taken the biggest hit of the BRICS countries from the closure of the Strait of Hormuz in part because it it had actually
 invested in uh in Saudi Arabia and United Arab Emirates. So it's going to want to recover some of that money. Um but uh this will be you know it's it's going to be I think touch and go for you know at least two weeks cuz we we haven't got the details of this process but it's it's going to hinge on continued meetings continued diplomacy and as you recall uh the the uh JPCOA that took what 18 months almost two years to negotiate.

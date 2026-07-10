@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 ingest_date: 2026-06-20
 pub_date: 2026-06-20
 kind: transcript
@@ -27,7 +33,7 @@ source_note: Operator-pasted YouTube transcript; Dialogue Works host self-dates 
 evidence_grade: transcript-bearing
 opening_tier: host-guest-interview
 capture_note: Operator paste; full interview body preserved from user-supplied YouTube transcript.
-editorial_note: Operator-pasted transcript; ASR artifacts retained (Agular/Edon spellings); not human-verified verbatim against audio. News-verify header pass 2026-06-20. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "Operator-pasted transcript; ASR artifacts retained (Agular/Edon spellings); not human-verified verbatim against audio. News-verify header pass 2026-06-20.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (11 sections)."
 transcript_wrapper_tier: clean
 verify_receipt: 2026-06-20
 verify:
@@ -40,7 +46,17 @@ verify:
   - claim: Netanyahu ordered IDF halt Lebanon operations (~20 min before air)
     verdict: partial
     note: IDF anonymous cease-fire directive J20-7 supported · proactive halt contested J20-8
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 11
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Lt. Col. Anthony Aguilar: Netanyahu Orders IDF to Halt Lebanon Operations Amid Iranian Pressure
 
@@ -50,7 +66,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Israel Lebanon Iran
 
 Hi everybody. Today's Saturday, June 20th, 2026 and our dear friend, [clears throat] Lieutenant Colonel Anthony Agular is here with us. Welcome back, Tony. >> Thank you. Thank you. It's uh good to be here and uh you know it seems like uh in the last few days a lot has changed and a lot hasn't but some important things have and uh it could make all the difference.
 >> Yeah, exactly. And what's going on just hours before we had a very you know sort of we had we had two sides fighting each other in Lebanon in southern part of Lebanon. Israeli forces, IDF and Hezbollah. The fight was so heavy looking at the footages and and the pictures coming out of southern Lebanon.
@@ -65,7 +81,7 @@ They announced that the ceasefire is coming back in the last 24 hours. I would s
  When most Americans look at it, they say, "Well, this is a surrender. This is a loss." And that's true. It is. But at this point, for what the United States could have hoped to ever have achieved, uh this is in the United States interest to end this war in the terms that are currently on the table because the terms will only get worse the longer this goes on.
 Israel has a vested interest in continuing this conflict, keeping the United States in Iran in a military conflict. It does not meet Israel's interest to have the United States and Iran in a in a ceasefire or a stalemate. Um, you know, look at look at North and South Korea. North and South Korea have been in an armistice,
 
-### Segment 2 — A Ceasefire For Over Year
+### Segment 2 — Israel Iran Lebanon
 
 a ceasefire for over 70 years.
  They're still technically at war. Um, so when you look at this a ceasefire, can a can a ceasefire still exist? Uh, well, a but a war hasn't ended. Well, of course it can. Um, but that is not in Israel's Israel's interest. Israel's interests based on their own political interests and their own geopolitical interests and their own Zionist interests is that the war continues directly kinetically between the United States and Iran, which in a way allows Israel to continue its military operations in southern Lebanon uh with with little attention or
@@ -80,7 +96,7 @@ Let's let's figure out a way to to exist and and and normalize relations." So, s
 >> Um those those that real pain hasn't even been realized yet. And Iran still has the ability to turn the dial. So what we're seeing right now, Iran's response to the continued military incursion and military operations in southern Lebanon that to me seem to be escalating since since this agreement or this digital signing last week and this ceremonial signing in Versailles late last week.
  It doesn't seem like the fighting in Lebanon has it doesn't seem like withdrawal or leaving to me. It seems like it's escalated. So uh and this was something that I had mentioned before that just because we see tactical military forces on the ground moving into positions that may look like you're moving back ge you know geographically on terrain doesn't mean that operationally
 
-### Segment 3 — You're Intending To Withdraw
+### Segment 3 — Iran Israel Trump
 
 you're intending to withdraw.
  It could be a consolidation of forces to continue offensive operations. That's how combined arms maneuver and wide area security works maneuver. So I think we're going to see continued escalation in the south which organically when it comes to Israel leads to further escalation in the region which could be strikes in southern Beirut which then again is another red line.
@@ -95,7 +111,7 @@ to look and say this is exactly what's going to happen. So everything is a matte
 to loss or failure against the Iran. get into a deal, get the thread kmoose open as the as the implications of rising costs start to hit the United States. And right now, I think most Americans, look, price of oil went down. It's a little bit cheaper at the gas pump today. You know, I just filled up in gas on my way home from the airport.
 It's a little bit cheaper. Okay, Donald Trump ended the war. Prices are cheaper at the pump. That's temporary and that's fabricated. That's manufactured. the true implication of the total wit of the economic implications from the stomoose in terms of agriculture um refinement um fuel etc. We have not felt it yet and we're going to feel it.
 
-### Segment 4 — Soon Understands That Donald Trump
+### Segment 4 — Israel Iran Trump
 
 Soon understands that, Donald Trump understands that. Israel understands that. But Israel does not care about America. Israel does not care about the Americans at home or the the average American, nor do they care about America. So for Israel, doesn't matter. For the US, it obviously does matter. And for Iran, it's a very clear leverage.
  Is it the Is it the only thing? Is it is it that if Iran looks at this and says, "Oh, look, the straighter Hamus on off on off. We want America to do something, turn it on. We want America to do that, turn it off. No, but it is a lever in uh the the the choice of options, the the full range of strategic options of which Edon can respond or continue on in these negotiations.
@@ -110,7 +126,7 @@ Or the United States can say Israel is the problem. We will have to take some ty
 cannot directly dictate what Israel does as a sovereign nation, but the United States can clearly signal its support or lack of support or which side it is going to through voices like JD Vance, the president himself, or actual actions. I think it'd be a great step, a great step to show some initial uh backbone, some spine to say, "Hey, all of those strategic fuelers gone. We're leaving.
  You can't use
 
-### Segment 5 — Them Anymore Is That Going
+### Segment 5 — Israel Russia Trump
 
 them anymore." Is that going to to halt Israel dead in their tracks? No. But it sends a powerful message. Um, so right now the way I see this is that the United States is still very much trying to play the um, hey, there's still a ceasefire, right? Hey, we're still we're still negotiating. These are all little hiccups.
 It'll buff out. And I think I think the United States is is is is missing the forest through the trees here and realizes that uh this is only going to escalate to a point to where we might be at full-scale conflict again. depending on how the United States chooses to stand its ground and to side with Israel would be putting America last.
@@ -126,12 +142,14 @@ Consequences. The United States has so many consequences, so many sticks to carr
 The United States can survive politically, economically, diplomatically, militarily without Israel. The United States cannot continue down a path of being in conflict with Iran where at any moment it could escalate and bring in other powers like China and Russia. Is China and Russia ever going to come to the ever come to the to the you know to the night in shining uh the to the white knight to defend Israel? No.
 But if we continue this because because that's the thing with the straighter for her moose. I've called it this before. It is the albatross around Donald Trump's neck because
 
-### Segment 6 — It Is A It Is
+### Segment 6 — Israel Iran Key
 
 it is a it is a a key terrain. Geographically it's key terrain. Politically it's a center of gravity. Economically it's a critical factor that doesn't just impact the US or Iran but others.
  So, um, the way I see it, if you're the United States, you're looking at hard decisions now. It's either this Israel or this peace with Iran moving forward. It looks to me now, I certainly think you could have both. Israel is not allowing it. Under Israel's actions and Israel's continued actions and what their leadership have said, there cannot be an existence of relations with Israel and a peaceful settlement moving forward and normalization with Iran.
  Both cannot exist unless Israel changes its ways. So, the United States is going to have to make that choice. And if the United States doesn't make a clear choice, this will continue not to the benefit of the United States. Because if Americans think that we've already felt the pain, we're over the hump of the impact of the closure of the Serus in the period that it was, we haven't even felt it yet.
  We haven't even it hasn't even that that wave of in of impact hasn't even reached our shores yet. And when it does, it's going to be painful.
+
+### Segment 7 — Lebanon Israel Hezbollah
 
 Tony, from from the military point of view, when you look at the Israeli occupation of the southern Lebanon, is there any way politically for Israel to stay in Lebanon without having any sort of conflict or war? >> No.
 Because they should. know anybody telling that to the United States to Donald Trump and JD Vance that is impossible to have occupation and have any sort of you know understanding mutual understanding between these two sides to to back down because that's a crucial point. >> Yeah.
@@ -144,7 +162,7 @@ Because they should. know anybody telling that to the United States to Donald Tr
 So why does Israel stay? Because there's no consequences or there's no consequences that are severe enough because Israel they get to have their cake and eat it too because we give it to them. We give them the cake. We cut the cake. We put it on the plate. We feed it to them. And then we say, "Happy birthday, BP.
 It's time for that to stop. And if it doesn't, then conflict with Iran will continue. and it will continue to impact the United States directly and indirectly. And now is a time for choosing. That is what I fear most in this is that the current administration of
 
-### Segment 7 — The United States Doesn't Have
+### Segment 8 — Israel Lebanon Syria
 
 the United States doesn't have the spine to make that decision or they can't because they're they're compromised to a degree to where they just they just can't.
  Like if if Donald Trump puts his foot down and says that that whatever compromise there is on our government, whether it's financial or moral and ethical or in whatever is in files or videos or whatever is so bad that it will I think it was Marjgery Taylor Green that said it, right? That that if uh No, no, it was uh it was Pam Bondi. Pam Bondi said it.
@@ -160,7 +178,7 @@ those borders. Um you know, like uh if two siblings in their in the bedroom, rig
 But once you define it, there's consequences. So the reason Israel doesn't define it or maintains very vague are for those consequences. And anybody can go look at this right now. There are so many sources where you can look at where Israeli forces currently occupy along Lebanon. And it's not just in the south.
 It's not just in the south. It's all the way from the Mediterranean through the south all the way up in the all the way up towards Syria into the Golan Heights and Sheba farms parts of Syria as well where there's all of this occupation. It's
 
-### Segment 8 — Not A Buffer Zone It
+### Segment 9 — Israel Iran Lebanon
 
 not a buffer zone. It is where Israeli forces are like they are there.
 So looking at that and you think who what what's the problem here? What is let's identify that's the most important thing going forward towards identifying a solution. What's the problem? The United States and Iran have come together with a 14point memorandum of understanding that both sides agreed to. Can we all agree on that? Is that a fact? Yes, that is a fact.
@@ -176,7 +194,7 @@ So, the choice is now clear. But I think it's going to take a while for the Unit
  This is this is like uh like um November 2023 Rafa Gaza. >> It's bad. So if anybody thinks that Iran would just walk away from that when it is it is the very first point of theou. Let's just say for sake of argument we're going to go down theou chronologically or numerically, right? >> It's the first thing.
  It's the very first thing. Like I said, Pete Hicksth would get it. He doesn't Pete Pete doesn't have to read the whole thing to understand what the most important thing is. So, yeah, I think we're at we're that's what we're seeing right now. And I
 
-### Segment 9 — Think That Along The The
+### Segment 10 — Israel Lebanon Hezbollah
 
 think that along the the range of escalation, what what are we going to expect going forward in the next 24 48 hours, so to speak? Um, if Israel continues, escalatory response from Iran will also continue.
 Those escalatory responses have been measured. Hey America, we're not we're not negotiating with you. Hey, America. Straighter Hamus. It's really important. What's the next escalation? Um, it could go to either threatening, not necessarily doing yet, but threatening an Allah and Houthi activity in the Red Sea.
@@ -192,7 +210,7 @@ So I think what we're seeing here is that >> the very actions on the ground give
  We're not having that discussion at all. There is no interest at all for Israel to uh to have security in southern Lebanon. It is about occupation. They've made that so clear and that is a condition of which Iran will not accept. And the United States is in a deal with Iran, not Israel. Israel is not part of that deal.
  So again, it goes back to the very fundamental question for the United States of America. Do you choose your own interests, America first, America's interests in seeing this deal to its end or throwing it away to take the side of Israel's inability to unoccupy unwillingness to unoccupy southern Lebanon. So I really don't see any any sincere counter to Israel's
 
-### Segment 10 — Position Of Where They Stand
+### Closing — Israel Iran Hezbollah
 
 position of where they stand now.
  Have we have we heard from Bengavir or from Smotrich or from Netanyahu or from Israel Katz saying hey America you you want this problem to to at least be neutralized? Maybe not end it but neutralize this problem with Lebanon. Well then do something about it. If you say that we need to we need to move out, no longer occupy, we move to the south of the border, we're going to occupy a a defensive along the border.

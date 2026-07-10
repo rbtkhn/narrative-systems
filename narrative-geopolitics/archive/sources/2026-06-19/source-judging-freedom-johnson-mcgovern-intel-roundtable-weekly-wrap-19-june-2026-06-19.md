@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 ingest_date: 2026-06-19
 pub_date: 2026-06-19
 kind: transcript
@@ -30,11 +36,21 @@ source_note: Operator-pasted transcript; host self-dates Friday 19 June 2026 int
 evidence_grade: transcript-bearing
 opening_tier: host-tease
 capture_note: Operator paste; full roundtable body preserved from user-supplied YouTube transcript.
-editorial_note: Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio. Ideological cold open trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio. Ideological cold open trimmed in place; SSOT body otherwise preserved.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (8 sections)."
 transcript_wrapper_tier: clean
 napolitano_cold_open_trim_applied: true
 napolitano_leading_noise_trim_applied: true
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 8
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # INTEL Roundtable w/ Johnson & McGovern : Weekly Wrap 19-June
@@ -46,7 +62,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Trump Russia Lebanon
 
 Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
  Today is Friday, June 19th, 2026. It's the end of the day, the end of the week. Our favorite session with Larry Johnson and Ray McGovern. For those of you that have been looking for Scott Ritter, internet problems, serious internet problems prevented us from reaching him, but we will have him back.
@@ -57,7 +73,7 @@ it's changed in a dramatic fashion. And you know the United States should have l
 >> If u if Trump can't do it, I don't see how either China or Russia could do it. Um the Russians and the Chinese are sitting back and watching all this with uh as much amusement as they can muster. Uh Trump has taken it on the chin. Uh the fly really be in the ointment as Netanyahu and Benir and the others.
  Uh Trump does have the option of depriving them of munitions, of uh intelligence, of air defense. The question is whether he has the guts to do that, and we're going to see that in the next few days. Now, Lebanon is crucial here. I was just looking at the text of the 14point uh agreement orou. Uh there are two sentences in the first paragraph.
 
-### Segment 2 — Lebanon Is Mentioned Three Times
+### Segment 2 — Israel Lebanon Iran
 
 Lebanon is mentioned three times. Two times in the first sentence, three times third time in the second in the second sentence. Lebanon is key to all this. Now Lebanon frackus continues. uh what Marco Rubio told uh the head of Lebanon who's not own he's not his own man if you if you pardon the pun what what he told look we got a settalist so please come please come on the 23rd of June we'll talk for two days and maybe yeah we'll get bilateral started between Lebanon and Israel we'll sell a whole thing they tried that several times not
 going to work so Lebanon is pretty much the key point here. The Iranians and the US agreed to that in paragraph one of the memorandum of understanding. >> Wow, Larry. Uh, in the past few hours, it appears that Hezbollah and Israel have agreed to a ceasefire. This would be the eenth agreement and no one expects it to last.
@@ -67,7 +83,7 @@ That is a remarkable assertion, >> right? But what that means is Iran and who vi
  You have told us several times Larry that in your opinion if Iran and Israel go at it against each other without US military involvement, Israel cannot survive a week. That no that's yeah we two day you know two weeks we saw in the 12- day war they were begging the United States for help and you know what's really interesting now US the US military is standing down it started at the start of this week you know we had those 20 247 operation centers running they they've now they're they're taken down they're not up and running 24/7 at
 all and the air combatant command is working now on how the hell do we get all this aircraft back to the United States? Because they've got to they've got to figure out where the tankers need to be spaced along the way because, you know, an F-35 jet, it's going to fly,
 
-### Segment 3 — But It Can You Know
+### Segment 3 — Israel Lebanon Ceasefire
 
 but it can, you know, flying without combat load. It can go about 600 miles.
 So, every 600 miles, it's going to have to get refueled to get all the way back to their bases in the United States. But that's what's underway. And what that means is as that as those uh military forces are withdrawn, Israel is losing a security blanket right away because then if the conflict with Iran re reignites and those forces are gone, they can't just get back there in an instant.
@@ -79,7 +95,7 @@ Yeah. I mean, that's the fly in the ointment. Um Netanyahu has a personal proble
  Ry Ray never would have allowed that as a PDB editor. He never would have allowed that. Chris, put up the um piece that you showed during Professor Mirshimer about the uh so-called truce or ceasefire here. Israel Hezbollah agreed a ceasefire starting Friday. That's today. US official. Now, this has not been confirmed by anybody in Israel and not been confirmed by anybody in Hezbollah.
  Ray McGovern, is this credible? >> Well, no, it's not. uh the more so since the report of uh Marco Rubio talking to the the senior officials in Lebanon says look we're going to we're going to insist on bilateral talks here between Israel
 
-### Segment 4 — And Lebanon And We're Going
+### Segment 4 — Israel Trump Lebanon
 
 and Lebanon and we're going to facilitate them on the 25th 23rd to the 25th. That's several days from now.
  So, I don't see anything happening until then. And even then, it's going to be a hard hard slog to get the Israelis to back off because, as we've already said, the majority of the population is is is really gung-ho to keep uh keep the pressure on Lebanon, Hezbollah, and others. >> Chris uh watch this, guys.
@@ -91,7 +107,7 @@ and Lebanon and we're going to facilitate them on the 25th 23rd to the 25th. Tha
  But you're not going to do it with our stuff. If he played that kind of hard ball, yeah, he could he could force a change. >> Um Rey, we have often talked about and and none of the three of us are mental health professionals. >> Uh the president's mental stability and before you opine on it, watch this. Chris, number 14, >> you had talked about you only wanted unconditional surrender.
  And >> well, >> theou doesn't look like unconditional surrender. >> Well, it really probably is unconditional surrender. >> It is. >> I think so. >> I mean, we went from unconditional surrender to Tell me what you want, guys.
 
-### Segment 5 — And Now He Claims It's
+### Segment 5 — Israel Trump American
 
 And now he claims it's still unconditional surrender. Judge, I was afraid you were going to show the video of him trying to put uh the Medal of Honor around a uh an army officer. Uh that's the one to look at.
 He couldn't tie the bow. They took him >> a minute or so to figure out how to make it stick. And they turned around and I mean he he is ill. We've been saying that. I've been saying that for six months now. So, this is big. Now, I want to say that I agree with Larry about some of the things he said about Israel, you know, uh bombing a whole apartment building to get just because one suspected terrorist went in the entrance.
@@ -102,7 +118,7 @@ He couldn't tie the bow. They took him >> a minute or so to figure out how to ma
  You're a country of of 9 million people. You can't just kill your way out of solving every single national security problem that you have. just kill your way out of solving every single national security problem you have. Larry, did you ever expect that out of the mouths of either Trump or Vance? >> No.
  No. But but it was welcome to hear it. You know, there we we ought to consider one thing. This will sound counterintuitive, but uh Israel's Israel's best way to hang on to some
 
-### Segment 6 — Support In America Depends Upon
+### Segment 6 — Netanyahu Israel Trump
 
 support in America depends upon having Netanyahu in office. And I say that because Netanyahu, having lived in the United States, having gone to school in the United States, speaking more with a US accent than he does with an is heavy Israeli accent, is able to, you know, he does have some charm with some of the key figures in Washington DC.
  Whereas when you get back to other Israeli politicians, they don't have that shine and polish. And if they get into power, the odds are that the the split with the United States is going to increase, not diminish. Uh which I would welcome, frankly. Uh but but it is, you know, it is sort of ironic that right now Netanyahu is getting attacked in Israel for being too soft.
@@ -113,7 +129,7 @@ What have you learned about not just the exercise of power, but the limits on yo
 Adlesen and her friends, uh, will do to change Trump's mind uh, in the next 48 or 76 or 98 hours, next week or so? >> Well, see, that's the problem. I don't know if they can change they can change Trump's mind but they can't change theou which has been signed and which now puts the United States in a position that if it backs away from it it once again lose not that it has a lot of international credibility left but loses even more international credibility but regardless of what kind of pressure they bring on
 what kind of demands that they insist that yeah we need to go attack put ground forces
 
-### Segment 7 — In Uh The Fact Of
+### Segment 7 — Trump Israel Economy
 
 in uh the fact of the matter the military side of this is being turned off. The the the troops are they're coming back home. The ships are leaving. The aircraft are going to return. So, and and that's what these people don't understand.
  It's not a matter of just saying, "Oh, I'm going to attack." Because you have to assemble assets, resources, and move them to a position where they can launch from to potentially be effective. So all all of their anger and and venom it's it's going to turn to turn to not because what what's scared Donald Trump I I don't know if it was Sunday or Monday.
@@ -125,7 +141,7 @@ Pepe Pepe got had a source I had written about it based upon public information.
 you force us to do these things, all this comes out and you go down even before the midterms. Wow. >> Well, I say if it we'll find out if it exists because if they're going to play it, now's the time to play it. >> And Trump's leverage is all military, right, Larry? Fuel, refueling, munitions, weapons, defensive equipment.
 >> Well, also also economic economic aid. I mean, is Israel's economy is
 
-### Segment 8 — Really Taking A T Taking
+### Closing — Israel Turkey Trump
 
 really taking a t taking a beating and you know all they need is one more. There's one other country that could weigh in that could really create a nightmare scenario for Israel and that's Turkey or Erdogan. And for the life of me, I don't know why these Israeli some of the Israeli politicians including Bennett have been threatening Tur Turkey or Turkey, you know, it's like really guys, you want to play that card? It's not a smart because
 they control the oil and without that oil coming in, >> uh, Israel will be I guess they'll have to do start the rent a camel business or something. To end on a lighter note, uh, John Mir Shammer called this the theater of the absurd. Ambassador Huckabe, >> it's also my job to represent the importance of Israel to the United States.

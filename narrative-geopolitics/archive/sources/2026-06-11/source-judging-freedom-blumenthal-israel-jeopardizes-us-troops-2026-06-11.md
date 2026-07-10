@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-12
 pub_date: 2026-06-11
 kind: cleaned-transcript
@@ -32,7 +33,7 @@ napolitano_cold_open_trim_applied: true
 napolitano_leading_noise_trim_applied: true
 napolitano_close_promo_trim_applied: true
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 32 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Qarq, Hexseth, etc.). Ideological cold open and closing Macgregor lineup promo trimmed in place. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 32 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Qarq, Hexseth, etc.). Ideological cold open and closing Macgregor lineup promo trimmed in place. · source-section pass 2026-07-09 (7 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
 verify_receipt: 2026-06-24
 verify_matrix_ref: statecraft/notes/wire/2026-06-11-news-verify-matrix.md
@@ -49,7 +50,17 @@ verify:
   - claim: DIA elevated Israel CI threat to critical
     verdict: supported
     note: Military.com ~6 Jun carry; guest frames Mossad admin targeting mesh
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 7
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Max Blumenthal : Israel Jeopardizes US Troops
 
@@ -60,7 +71,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Israel Iran White House
 
 Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
  Today is Thursday, June 11th, 2026. Max Blumenthal joins us now. Max, a pleasure as always. Thank you very much. Um I want to talk to you about the public revelation of something that everybody in Washington already knew, uh which is the Mossad, the Israeli spy spying on the people with whom the president communicates and thus, of course, on the president himself in Washington and the White House and then Mar-a-Lago.
@@ -71,7 +82,7 @@ Steve [clears throat] Witkoff was targeted with spying, someone who's been ideol
  They're very nervous about Trump actually signing an MOU with Iran and putting an end to the naval blockade and the regime change project, and that would be just devastating to Benjamin Netanyahu and to the overall Israeli project of destroying the Islamic Republic. Um um unfreezing assets, I mean, I don't think the US will do it, but Israel's freaking out about this, and so they have initiated a massive spying program, and one of the things, Judge, that we learned through this New York Times report is something that I actually reported back in 2025,
 which uh
 
-### Segment 2 — I Got From A White
+### Segment 2 — White House Israel Netanyahu
 
 I got from a White House source, which was that when Benjamin Netanyahu on one of his visits Shin Bet officials from Israel's General Security Service who were accompanying him placed tracking devices on a Secret Service vehicle. And what I reported at the time was it was a Secret Service vehicle that would respond to an incident involving the president, uh which could be an emergency.
 Why would they want to be tracking that vehicle? That raises some chilling questions. And now the New York Times has confirmed what I reported a year ago. >> Wow. So, uh Witkoff is an Israeli agent. We know that. >> An asset, I would say. >> Right, asset. The the the uh Mossad is spying on him when he communicates with the president, which is all over the place, Air Force One, the White House, Mar-a-Lago, wherever they happen to be together.
@@ -81,7 +92,7 @@ Uh Elbridge Colby was another person named as somebody they're spying on. He's n
  They were listening to the phone calls of Donald Trump and his immediate advisors. How did they get into the White House? Who got into the White House? >> Is it Bibi? Is it I was just going to ask you. Was it Bibi himself who put these devices on the behind a toilet in the White House? >> I'm going to say that is highly likely.
 And if you and you know, anyone who's watching this right now, if you think I'm crazy and I'm a conspiracy theorist, then just go read the memoirs of former British Prime Minister Boris Johnson who stated explicitly that Benjamin Netanyahu was caught placing surveillance devices
 
-### Segment 3 — In His Personal Bathroom At
+### Segment 3 — Israel Russia Iran
 
 in his personal bathroom at 10 Downing Street.
  Okay, that's what we're dealing with here. That's the level of infiltration, subterfuge, deception, deceit, and malignancy we're dealing with in the special relationship. >> He should have been arrested. >> Yes. Well, he for for that for for genocide >> Right. >> Nuremberg, you know, he should he he deserves Nuremberg along with half the Biden administration, but you know >> Right.
@@ -92,8 +103,6 @@ And it mandates cooperation on quantum, on AI, on cyber, on the future of the US
 Uh joint funding of projects which are developed by Israel and the US and are then manufactured inside the US in places like Mississippi and Arkansas. Poor red states where that are heavily [snorts] dependent on uh industries like military production as well as prisons and are desperate for jobs. Then you have con- members of Congress who are completely in the pocket of Israel because their factories in their district are producing these parts and weapon systems for Israel's genocide machine and they are going to vote with
 Israel no matter what or risk losing thousands of
 
-### Segment 4 — Jobs In Their Districts Which
-
 jobs in their districts which are otherwise very poor. And you can go back and look at AIPAC conferences and the messages that are delivered by members of Congress. I remember uh the old Texas congresswoman Kay Bailey Hutchison, she has a she had a um Elbit Systems plant in her district in Texas and she would always just say that Israel has given me thousands of jobs so I support Israel.
  You're going to be seeing that uh 20-fold, 50-fold if this passes and then as you mentioned there's a um section 622 on intelligence sharing which mandates that the US share all intelligence with Israel, a country which it is the according to the NSA, the country that spies on the United States more than China and Russia. >> Let me just stop you for a second.
  Is this bilateral? Does Israel have to share its intelligence with the United States or is it just one way? >> It's bilateral presumably but Israel doesn't have a constitution with clauses about privacy. Israel's a much weaker country. This is unprecedented. The United States does not mandate intelligence sharing with any other country.
@@ -102,7 +111,7 @@ jobs in their districts which are otherwise very poor. And you can go back and l
 >> Yeah, they stopped it in the house. I don't think it has reached the floor of the Senate yet, although the proponent of this is the chair of the committee in the Senate, Tom Cotton of Arkansas, who's chair of the Senate Intelligence Committee that would be reviewing this. So, for sure it's going to get through the Senate committee.
  Whether it can get the 60 votes in the floor of the Senate will depend on whether there's anybody with an ounce of with an ounce of courage there. >> But Tom Cotton this all of this as I understand it Max and please correct me if I have a misunderstanding allows a less visible relationship between the United States and Israel, one that will be nearly impossible
 
-### Segment 5 — To Reverse Without Legislation From
+### Segment 4 — Israel Trump Iran
 
 to reverse without legislation from another Congress.
 >> Yeah, it strips away all of the diplomatic oversight mechanisms, the political oversight mechanisms, and it moves the US-Israeli special relationship outside of those channels into the murky much more opaque world of the Pentagon and the defense sector and everything can be hidden on the basis of national security.
@@ -113,7 +122,7 @@ This is Israel will continue to use Lebanon, which is the red line, to instigate
 military targets uh in order to inflame this conflict and it's also possible that Israel could um attack Iran unilaterally at some point. Israel's holding a um you know, Netanyahu's holding a security cabinet meeting, I think held one today and um they're very upset with Donald Trump's announcement. >> So what are they >> I I should just say what I I don't believe Donald Trump is um serious about a deal.
  He may just be delaying it because the World Cup opening ceremony is now and Ice needs to detain more officials and soccer players. I don't know
 
-### Segment 6 — What He's Waiting For But
+### Segment 5 — Israel Netanyahu West Bank
 
 what he's waiting for, but I don't believe he's serious about a deal. >> What do you think Smotrich and Ben Gvir and that crowd are suggesting to Netanyahu as we speak? >> Well, uh there's there's actually a split between Ben Gvir and Smotrich.
 >> Smotrich over what? >> Smotrich is more focused on the West Bank and annexation and he wants to um he wants to tone down from what I've read he wants to roll back the presence in Lebanon somewhat and Ben Gvir wants to escalate um but Smotrich has also made statements calling for the destruction of like 10 buildings in Beirut for every FPV drone that hits an Israeli troop.
@@ -124,7 +133,7 @@ what he's waiting for, but I don't believe he's serious about a deal. >> What do
  Or and and at the same time he's emboldening and empowering representatives of the sec the more secular still still kind of fascist Israeli public like Gabi Ashkenazi, who is the former Israeli chief of staff. He is the of the military. He is the author of the so-called Dahiya Doctrine of disproportionate force {slash} terrorism against Lebanese and civilians Lebanese and Gaza civilians.
 But he's you know, Netanyahu's key emerging opponent and he's representing the center left. And one of the things that just infuriates that sector of Jewish Israeli society who are in Tel Aviv and you
 
-### Segment 7 — Know West And South Jerusalem
+### Segment 6 — Netanyahu Israel Trump
 
 know, West and South Jerusalem, Haifa, you know, and they they work in the tech sector and they're more secular, is the fact that there are so many men who won't do military service like they did and suffer in the field with them.
  This is what really threatens to blow up Netanyahu. And it's eating him into these wars because as long as there's this seven-front war going on, he can continue to keep the public somewhat united. >> Didn't the Israeli Supreme Court rule that they are subject to the draft like everybody else? >> It doesn't mean that that's going to be implemented.
@@ -134,7 +143,7 @@ And he was with Ivanka Trump. And they supposedly, according to Ivanka Trump, st
 Through his Affinity Partners to to build this resort. The Albanian public did not know about this until this spring or this May, and they launched what they're calling the Flamingo Revolution in defense not just of this beautiful natural preserve uh but of their national sovereignty. And it's a rare moment where Albanians are rising up against not just the US, but they're also starting to notice Israeli influence.
  This project will be funded through Kushner's Affinity Partners, which is basically a vehicle for foreign influence from countries like Saudi Arabia, which is funding it, as well as Qatar, which will be the uh a Qatari company uh will be the co-owner. And Albanians are
 
-### Segment 8 — Currently The Finger At These
+### Closing — Israel Trump Iran
 
 currently the finger at these uh Gulf monarchies as well as at Israel because of Jared Kushner's deep abiding ties to Israel.
  It's also uh important to mention that Sazan Island is a former Soviet military base in a very strategically located waterway that's filled with nuclear bunkers, and it's very much in vogue right now for members of the Epstein class, the billionaire class to uh get their own bunkers in expectation of a war or a massive backlash for their activities.

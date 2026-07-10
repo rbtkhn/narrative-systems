@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-12
 pub_date: 2026-06-12
 kind: cleaned-transcript
@@ -27,11 +28,20 @@ source_note: "Operator-pasted transcript; host self-dates Friday 12 June 2026. C
 evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: paste-asr
-opening_trim_applied: false
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 6 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Nemo/Nema, Van/Vance, Kark/Kharg, ass/assets, etc.). Host closing trimmed none. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 6 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Nemo/Nema, Van/Vance, Kark/Kharg, ass/assets, etc.). Host closing trimmed none. · source-section pass 2026-07-09 (9 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Amb. Chas Freeman: The Era of Impunity for Israel & the US in West Asia Is OVER
 
@@ -44,7 +54,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Israel Trump
 
 Hi everybody. Today's Friday, June 12, 2026 and our dear friend, Ambassador Chas Freeman is here with us. Welcome back, Ambassador. >> Glad to be with you, Nemo. >> And let's start with what's going on between the United States and Iran. Last night I talked with Larry and we thought that from what I've learned from Iranians they said that they have prepared a text and they're communicating with the United States and Larry was mentioning they are he had his sources were telling him that maybe the United States is going to attack Iran.
 So we didn't know last night what would happen >> right >> and it was somehow you know attacking talking something like that >> and that the reason that we were you know somehow speculating on that because you remember the delegation was in Iran when the United States attacked Iran >> and the whole night they were there and then you know the day after they left Iran then what's going on right now.
@@ -59,7 +69,7 @@ sanctions against Iran are suspended uh and uh and and the there is an agreement
 Um so um um Israel now um faces retaliation for anything it does. Um and the United States which has been aiding and abetting Israel also faces retaliation. So, um, when the helicopter was shot down in the, if it was shot down, I think it was in the Strait of Hormuz, um, the helicopter was part of an operation aimed at helping certain ships to get through the Iranian blockade.
  Um, and it was shot down by an Iranian drone, very likely. It's possible that it was a false flag operation by Israel because Israel wants the war to resume. So, Donald Trump dutifully bombed uh
 
-### Segment 2 — Iran Not To Much Effect
+### Segment 2 — Iran Israel Ceasefire
 
 Iran, not to much effect. Iran's retaliation was swift and it began with the destruction of a key radar uh in Bahrain uh which is essential to the defense of Bahrain and Kuwait and American military operations in in the region and it also bombed Israel.
  And so uh what we now have um is a clear pattern where any aggressive action by either Israel or the United States will be will be subject to retaliation and not just any retaliation. Uh Iran has basically adopted the Israeli standard. Uh international law says you have a right of reprisal. If you are attacked, you may counterattack, but you can only do so proportionately.
@@ -74,7 +84,7 @@ So that is hopeful. Um, I don't know where this leaves Donald Trump and the Unit
 But, uh, not the Gulf Arabs um are t sick and tired of this. There is a story in the Washington Post this morning that at the outset of this war, Qatar tried to cut a deal with Iran. I think you and I probably talked about that possibility at the time. Um and um to you know fa the Gulf Arabs are now faced with a nasty choice.
  They can make their peace with Iran and they in order to do that they have to remove American forces from their territory. those forces can't protect
 
-### Segment 3 — Them And That's Now Known
+### Segment 3 — Iran Trump Russia
 
 them and that's now known to them and they're not even uh they're not configured to protect those uh countries. They are protect configured to attack Iran. So Iran insists on the removal of the American presence for if if there's to be an agreement.
  Um they the Gulf Arabs have that as one choice. Another choice is to lose uh their wealth because their petroleum and gas facilities are destroyed at least for some time. They would be out of business and impoverished or even u uh Iran might match the stupid scentcom attack on uh water supplies in Kasham Island um in which case they would lose their variability to exist.
@@ -89,7 +99,7 @@ Well, he did say that the American people would not stomach the consequences of 
  In about two and a half 3 weeks uh there will be a huge spike in prices of gasoline at the pump uh gas stations in the United States and um there will be a huge further spike in global oil prices. Um and I think every economist who studied this uh projects that u happening. So time is running out for Donald Trump.
  Uh he has to do something or the entire global economy will be brought down in recession and the United States uh consumer base including many members of MAGA who are workingass Americans uh will turn against him. So I think uh you know the the question of political support is very relevant.
 
-### Segment 4 — We've Already Seen The House
+### Segment 4 — Israel Iran Europe
 
 We've already seen the House of Representatives vote a very weak version of the war powers um implementation.
 The Senate has yet to act, but it's basically one Republican defection away from following the House. Oh, that would require Donald Trump to veto uh an effort to end the fighting. That would be enormously unpopular. So, I think he's in a box. It's a box he himself constructed. Uh there's no easy way out. And um he obviously hopes that Iran will agree to something that allows him to save a little bit of face as he departs the war.
@@ -105,7 +115,7 @@ No, I think I agree with you. Apparently the the drone, whoever fired it, whethe
  And that could very well continue to be the case if there is no peace. uh Iran is not going to give up its right to retaliate uh and it's no longer intimidated by American backing of Israel. And then finally uh you know uh again going back to American politics and the international scene we've seen the utter collapse of international support for Israel and the collapse of American public support for Israel except among diehard fanatics uh and elderly Republicans um uh who um are basically um functioning uh on the basis of inertia. know
 concept you probably understand better than I because you're an engineer but inertia is a real force. So um this
 
-### Segment 5 — Is Unsustainable Uh So Is
+### Segment 5 — Israel Lebanon Iran
 
 is unsustainable. Uh so is for Israel this this this moment Israel thought that eliminating Iran would guarantee its existence. Instead it has created an existential challenge to Israel and Israel needs to make peace including in Lebanon.
 because Iran uh has uh extended its protection to Lebanon and um demanded as the original 14 points that have been published suggested a peace in all of Lebanon, no attacks on Hzbollah uh and uh an end to the genocide in Gaza. And so um Israel's at a crossroads. that really needs to make decisions that it is clearly unprepared to make.
@@ -121,7 +131,7 @@ They will cut a deal with Iran um of some sort. um uh the new security architect
 uh and uh maybe Syria has you know found it convenient to u u engage in public relations relationship building with the United States but it is not in the American camp. Lebanon certainly does not. Lebanese have no reason to love the United States which has been fully supportive of Israel's depradations in Lebanon which have drawn driven 1.
 2 million people away from their homes. Israel is currently engaged in raising parts of Tire Sur in in Arabic. I don't know what it is in Persian but um the uh so uh nobody in Sur okay I figured you know because >> even though Farsy is Indo-European language you have a lot of you have a
 
-### Segment 6 — Lot Of Arabic In It
+### Segment 6 — Israel Iran Lebanon
 
 lot of Arabic in it >> like Turkish you I can >> I can sit in and listen to a speech in Farsy and pick out words I don't know Farsy at all but um >> you know so anyway um So, so, uh, Lebanon, um, uh, which has been very very pro- western,
 uh, is now, um, in a in a state of drift. Who knows where it will end up? um the confessional constitutional uh arrangements in Lebanon which the French contrived um placing a Christian in the presidency and uh a a Sunni as the speaker uh of the prime minister and and and a Shiite as the speaker in parliament.
@@ -137,7 +147,7 @@ We don't have the interception capability." Uh and uh therefore, if you do this,
 we talk >> now that's of course that of course makes perfect sense as I said earlier the the way from uh Israel to Iran is across Syria and Iraq. Well, and the Iraqi airspace has been controlled by the US. Iraqis need to control their own airspace. And of course, Syria, that should be the case, too.
  But Syria really doesn't have the
 
-### Segment 7 — Capability To Do Anything Um
+### Segment 7 — Israel Iran Lebanon
 
 capability to do anything. Um it's been so savaged by interventions from all directions. I mean, what a horror. Uh, a war that has driven huge numbers of people out of Syria, left the country destroyed, destroyed its military, reinforced its ethnic and religious divisions, and um, basically subjected it to subjugation by Israel and Turkey.
 >> Yeah. Here is what the Israeli defense minister Israel cats put out just moments ago. The President Trump is currently leading toward a toward an agreement with Iran out of a view of American interest including the shared interest with Israel to prevent Iran from acquiring nuclear weapons. And we expect him to uphold this principle and additional principles in the realm in the realm of missiles and terrorist proxies.
@@ -153,7 +163,7 @@ and he added that Israel will not withdraw from the security zones in Lebanon, S
  When I was assistant secretary of defense, I was asked every year to sign off on a transfer of funds to Israel for the development of what became Iron Dome. That was a long time ago. But the Israel is completely dependent on the United States for many things. And Iran is not in my view going to sell out the interests of either the Palestinians in Gaza or uh the the Lebanese in southern Lebanon.
 So what Katz is
 
-### Segment 8 — Saying Is The Same Thing
+### Segment 8 — Israel Turkey Iran
 
 saying is the same thing Israeli leaders have been saying all along. They want the war to continue. They don't. But Katz is unrealistic because he does not seem to understand the changed circumstances. Israel no longer has impunity. It probably is going to lose its political impunity to the next administration in the United States which will not veto UN Security Council resolutions.
 uh against Israel as previous administrations have done and it's it has lost its military impunity because Iran has made it clear it will retaliate uh and uh it doesn't help to have u candidates to succeed um Benjamin Netanyahu like Napali Bennett saying that you know after we knock off Iran we'll go after Turkey um Turkey by the way which is part of the four four party uh Pakistan, Turkey, Saudi Arabia, Egypt grouping.
@@ -168,7 +178,7 @@ They're not dedicated to destroying Israel. What they are dedicated to is destro
  So um you know there have been peace offers twice from Saudi kings once in 1982 at Fez and then in 2002 at Beirut laying out very clearly willingness to normalize relations with Israel if Israel stops behaving the way it does. Um so the key is Israeli decisions which they don't seem to be prepared to make. Um and uh if they don't make those decisions, they they risk having the United States make them for them um as relations with the United States deteriorate um over Israeli behavior, which is truly unspeakable. I mean, the
 things Israel has done are just horrifying to any normal human being. And and it didn't start uh yesterday. If you go back to we now have a lot of evidence previously concealed that the same sort of thing was done after the 1967 war in
 
-### Segment 9 — Which Israel Launched A Surprise
+### Closing — Israel Iran International Law
 
 which Israel launched a surprise attack on Egypt and Syria and did other things including sinking the USS Liberty which is something that was covered up but is now out in the open but it's all we also have testimony from settlers um in Arab towns and villages is about the massacre of the
 inhabitants and other cruelties, the rape of Arab women by the IDF. Um, so this isn't just yesterday. This is consistent and it's no wonder that people have been reluctant to normalize relations with Israel, but I think they are if Israel changes its policies and behavior and um and I think that includes Iran.

@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-12
 pub_date: 2026-06-11
 kind: cleaned-transcript
@@ -32,7 +33,7 @@ napolitano_cold_open_trim_applied: true
 napolitano_sponsor_trim_applied: true
 napolitano_close_promo_trim_applied: true
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 8 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; ideological cold open, sponsor block, and closing lineup promo omitted. ASR artifacts retained (Npalitaniano, Sanders/Wilkerson slip, Hexseth, etc.). · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 8 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; ideological cold open, sponsor block, and closing lineup promo omitted. ASR artifacts retained (Npalitaniano, Sanders/Wilkerson slip, Hexseth, etc.). · source-section pass 2026-07-09 (8 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
 verify_receipt: 2026-06-24
 verify_matrix_ref: statecraft/notes/wire/2026-06-11-news-verify-matrix.md
@@ -49,7 +50,17 @@ verify:
   - claim: Kharg seizure operational insanity (climate/troop scale)
     verdict: partial
     note: J11-3 supported threat; invasion feasibility tier-4
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 8
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # COL. Lawrence Wilkerson : Israel's Collapsing Strategy
 
@@ -60,10 +71,12 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Israel
 
 Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
  Today is Thursday, June 11th, 2026. Colonel Lawrence Wilkerson joins us on Israel's collapsing strategy.
+
+### Segment 2 — Trump Israel Iran
 
 >> Larry, I gave you the wrong last name. My apologies. You are the great Lawrence Wilkerson.
  I misspoke a few uh moments ago, but Uncle Larry, as I finally call you on air and off air. Welcome here, my dear friend. >> Good to be with you. I was wondering who Lawrence Sanders was. I thought he was >> right. I don't know who he is either, but he's not you. And you are you very much so. a great historic figure in the modern history of the country.
@@ -74,7 +87,7 @@ Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
 And you especially don't know what he's going to say to you when you say something that you think might be right, but you have an inkling that it might great with him. So, people don't speak up in that situation. I watched it happen with Richard Cheney. Um, and I watched it happen to the point where Cheney was pretty much able to script whatever answer he was going to get because he knew how cowed people were around him.
 >> Wow. Uh, negotiations between the United States uh,
 
-### Segment 2 — And Iran Do We Know
+### Segment 3 — Iran Trump Israel
 
 and Iran. Do we know if they're actually ongoing? >> There are no negotiations. There are talks amongst primarily now as I understand it Pakistanis and Iranians and Iranians and Pakistanis with an occasional other group entering in from time to time but not very often anymore.
 It's mostly Pakistan and there have been judge in this entire process every single time Trump talks about diplomacy or talks about talks it is never face to face with an Iranian. Donald Trump has not talked to an Iranian, I'm told, by competent authority more than one at all. Period.
@@ -85,7 +98,7 @@ blockade will remain in full force and effect until this transaction is finalize
  I mean, there's some things that you could agree to with all those parties, but I don't think it's been done. And I don't think any diplomacy has been accomplished even yet. I think this is his tactic now. As old and tired it as it is becoming, his tactic is to act like something's happening. Then when it doesn't actually happen to bomb a little bit or to threaten to bomb a little bit then to go back to saying it's now going to happen and then repeat the process.
  Apparently oddnauseium tell
 
-### Segment 3 — If You've Ever Heard A
+### Segment 4 — Trump Iran White House
 
 if you've ever heard a secretary of defense speak like this. Chris, number one, >> President Trump, he's willing to go back uh and fight as necessary, but has given Iran an open hand to make this deal. It's right there. They have that chance. They're choosing to play games. They're choosing to tap.
  If they want to tap, then then the president will turn uh to the War Department. If we need to negotiate with bombs, we'll negotiate with bombs. And and again, so we're in we're in lock step with the White House, in lock step with the negotiating team to make sure we set the conditions and the targets tonight are meant to do that.
@@ -94,7 +107,7 @@ They they don't want to talk. They understand how fruitless the talks are. They 
 >> Right. Right. Understood. Understood. Well, who would trust the Americans? No. >> Particularly these two Americans who are basically Israeli agents, Colonel, >> no one. You're you're absolutely right. Um, and I think it's becoming uh you you asked the question, is anyone in the uh administration in agreement with with what's going on? I find it very difficult to believe that some people like Scott Besson for example don't present the image of agreeing and don't have the coonies to stand up and say whatever they might
 really believe. For example, this business of oil prices and where they might go or where they might be. I understand he's talking about Venezuela again. I heard him make a few remarks and I'm being told the only multinational that was interested in Venezuela was Chevron and that Chevron is now thinking seriously about not
 
-### Segment 4 — Doing Anything Much More Than
+### Segment 5 — Iran Doing Done
 
 doing anything much more than they've done because things are so granularly stupid was the way one oil man put it to me.
  So, you know, he makes this stuff up apparently as he goes along. And the fact that more and more people don't disagree with him or at least vouch say some other opinion than just a few like Joe Kent is kind of mystifying uh unless you think about people in power. People in power are want to let it go and so they don't oppose what is the fountain of their power.
@@ -105,7 +118,7 @@ Very hard tonight in caps. At some point in the not too distant future, we will 
  He'll do the same thing 96 hours from now again. Apparently this is his technique. Colonel, even if as illguided as he is, as as counterproductive as it would have been, as much of a loss of American life as there would have been, if we were going to attack Carg Island, why would we announce it? >> Good point.
  And a disaster because we're looking at 105 to 110 degrees. We're looking at having to put people down in C130Js or Ospreys
 
-### Segment 5 — Or Whatever We're Looking At
+### Segment 6 — Israel Palestinian Gaza
 
 or whatever. We're looking at the possibility of drying of dying of dehydration within 10 hours. You're going to be loaded down. You're going to be packed down. You're going to weigh 80, 90 pounds more than your body weight.
  You're going to need water desperately. Um, this is insane. It It makes no sense at all. And it's very difficult for me to believe that the military, apparently at all echelons, is going along with its commander-in-chief making these kinds of statements. They must be being convinced by their intermediate command like Brad Cooper at SenCom or whatever that all of this is a game the president is playing and he's hoping the game turns out to save their lives by not having to commit them because his threats and counter threats and such will wind up saving the day and
@@ -115,7 +128,7 @@ they won't have to go into combat. I can't imagine them going along with this in
  What is or what has been that strategy >> to this point? I think it's been multifaceted. That is to say, they're on many battlefronts. They are in Gaza still killing at a reduced rate, but still killing every day. And they've added to that killing technique the humanitarian operation going on there, which is now making lots of money for Israelis, Egyptians, Jordanians, and others who are in there charging, for example, $200 for a carton of eggs, maybe $150 for a little bit of gasoline or a little bit of stove fuel.
 It's atrocious what they're doing in there, but they're still killing Palestinians. They are also mount getting ready to mount or at least they've
 
-### Segment 6 — Announced This New Operations Against
+### Segment 7 — Israel Trump Netanyahu
 
 announced this new operations against Hamas because they realize and Netanyahu's political future is based on this to a certain extent. They realize Hamas is back and ready to fight him again and back to strength.
  Then they're looking at Lebanon where they're defying the president of the United States and are going and defying Iran and going ahead with operations there in a significant way that Trump has essentially told him not to do. And that's because Netanyahu's opposition, political opposition is criticizing him for taking orders from Donald Trump and not finishing off Hezbollah in Lebanon.
@@ -125,8 +138,6 @@ And then you got the other fronts like uh what's he going to do with regard to E
 I would think that if he does leave the prime minister's job, he'll be replaced by someone softer in tone but equally as vicious. That's what the That's what the Israelis want. >> I think you're right. I think you're right. and and someone who will uh not be so uh dramatic in the way he deals with the president of the United States because the president of the United States has become in many of these people's minds this is a real shift too judge a real shift because Trump was polling higher in Israel than BB but now
 in a majority of the minds in Israel Jewish minds in
 
-### Segment 7 — Israel Trump Is An Enemy
-
 Israel Trump is an enemy of the state. Wow, Colonel. Um, we have been commemorating uh this week uh the events of June 8th, 1967 when the president of the United States and the Secretary uh of defense uh refused to allow American Navy and Air Force uh to protect and defend an American ship uh under attack by the Israelis.
  A very very courageous uh Congressman Thomas Massie, right? >> Described it on the floor of the House of Representatives like this. >> They launched four torpedoes. One of them hit the hall of the USS Liberty and killed 25 people instantly. It blew a 40 foot by 40 foot hole in the side of this ship.
  They were intent on sinking it, but they were also intent on not having a single survivor. According to eyewitness accounts, the Israelis machine gunned the lifeboats that they put down. They machine gunned the firefighters who were on the deck. They were bringing the wounded and the dead to the messaul to triage them. They had one doctor who was trying to help them all, put a few stitches in.
@@ -135,7 +146,7 @@ It was harrowing and it's amazing. If not for that crew, they that boat would ha
  This was not mistaken identity. They knew exactly what they were doing. their their planes were masked so as to try and trick the Americans into thinking it was the Egyptians. I was at the Decor House yesterday for an event at George Washington University and I got there a little early so I went down to their very fine library sat in a chair and reread the chapter in Sai Hers's book about Jonathan Pard.
  In fact, I think that's the title of the chapter, Jonathan Pard. Um when I put the book down I had rehearsed for my own mind and I must admit some things I had forgotten completely about that incident and about pard and I think Sai is absolutely right in that particular chapter in particular um that is the kind of relationship Israel believes it has
 
-### Segment 8 — On A Basis With The
+### Closing — Israel Nuclear Weapons Nuclear Weapon
 
 on a 247 basis with the United States of America that it can do anything it wants to do.
  I will give them this in what it conceives as its state interest even if it is utterly in defiance of and harmful to the United States. And of course that includes during the Cold War making over tours to the Soviet Union and giving them top secret and code word intelligence in order to buy power with them.

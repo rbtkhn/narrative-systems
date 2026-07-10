@@ -1,5 +1,6 @@
 ---
 
+
 ingest_date: 2026-06-12
 pub_date: 2026-06-11
 kind: cleaned-transcript
@@ -26,7 +27,7 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: clean
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 10 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body preserved verbatim from parent paste. ASR artifacts retained (Mirshimeber, Sitcom, Hegseth, Parse/Parsey, Zelensky, etc.). Subscribe/like close stripped at tail. Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (11 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 10 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body preserved verbatim from parent paste. ASR artifacts retained (Mirshimeber, Sitcom, Hegseth, Parse/Parsey, Zelensky, etc.). Subscribe/like close stripped at tail. Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-07-09 (11 sections)."
 quality_note: ASR normalization pass 2026-06-15; ph-civ replacement SSOT.
 davis_close_promo_trim_applied: true
 verify_receipt: 2026-06-24
@@ -44,7 +45,6 @@ verify:
   - claim: Iran war strategy changes again (incentive-shift structural read)
     verdict: partial
     note: tier-4 structural bench - not wire-primary authority per matrix fence
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -53,6 +53,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 11
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Prof John Mearsheimer Iran War Strategy CHANGES AGAIN!
@@ -65,7 +68,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Trump Ceasefire
 
 President Trump told Fox News 49 Tomahawk missiles hit locations as close as 40 miles from the capital of Tan. Positions were also targeted along the southwestern part of the country. The president described the strikes as violent and vicious. Also, President Trump says top Iranian officials called him directly asking him to stop the bombing.
 >> That was Trey Yinst on Fox News talking about what President Trump had done last night. uh what's what's now going to turn out to be at least day two of at least a three-day bombing campaign. More on that in just a second. Uh but uh John Mirshimeber uh we're always grateful to have you on and sometimes the timing couldn't be better and this is one of those times here.
@@ -84,7 +87,7 @@ President Trump uh responded and the Iranians responded and President Trump is n
  But in the first phase, I thought there were just a handful of uh uh uh dimensions to that ceasefire deal that were on the table. One is that all shooting had to stop, including in Lebanon. So in other words, the Hezbollah versus Israel war had to be shut down. uh as well as the Iran versus the US in Israel war. So you have to stop all the shooting.
  That's number one. Number two is the Iranians open up the straight of Hormuz and we eliminate the blockade which means the ships can flow out of the Gulf uh at a in large numbers and uh the Gulf in effect is open. So that's two. Three is that the Iranians get $24 billion of their frozen assets back. Uh and uh uh and I think you know once that happens and finally once you
 
-### Segment 2 — Lift Uh The Sanctions Off
+### Segment 2 — Iran Trump Ceasefire
 
 lift uh the sanctions off of the sale of Iranian oil into the global oil markets.
  This is not lifting all sanctions just the sanctions on Iranian oil. so that Iranian oil can flow out of the Gulf and into global markets. Once you do those four things, you get uh a ceasefire, a real ceasefire. And it appeared for a while that both the Americans and the Iranians agreed on that and they were just working out the details.
@@ -103,7 +106,7 @@ of air defenses, which means that a lot of our aircraft and tomahawk missiles ca
  If he goes down that road, what he's going to find is that the Iranians are going to retaliate against the flow of Saudi oil into the Red Sea. They're going to attack against uh the flow of UAE oil uh out of the Sea of Oman, and it's just going to lead to no good. I mean, we have no interest in, you know, further escalating this war because escalating the war militarily not only does not produce victory, but it makes the economic situation worse.
  I mean, the reason that
 
-### Segment 3 — Trump Is Desperate To Solve
+### Segment 3 — Iran Trump Economy
 
 Trump is desperate to solve this war as we're moving into the fourth month is because of the economic consequences and the fact that all sorts of people are telling him, "This one only gets worse with the passage of time." Okay, it gets worse with the passage of time. Therefore, you better shut it down ASAP.
  But instead, we're going up the escalation ladder in the mistaken belief that by doing so, we gain more coercive leverage. I actually think that's not true. As you know, I've argued for a long time what's happening now, what's happening now, continuation of the war, escalation of the war is in Iran's interest.
@@ -122,7 +125,7 @@ The economy, the international economy is in trouble. It's in trouble. You can s
  However, he's now going up the escalation ladder. And you want to remember the tougher he talks and the tougher his actions are, the more extensive will be the Iranian response. And as the Iranians respond, they will end up doing more and more damage and that will hurt the flow of oil and other products out of the Persian Gulf, which will further exacerbate the problems we face in the international economy.
  So, I for the life of me don't see how this is a war-winning strategy. >> You know, we you and I have talked many times um in terms of the Russia Ukraine war over the last year or so since Trump has been inaugurated. We we've often pointed out that whatever Trump is doing today very often has been the product of whoever was the last person to talk to him was before he made a statement
 
-### Segment 4 — And Then If Somebody Different
+### Segment 4 — Trump Iran Middle East
 
 and then if somebody different went in the other ear, then he would come out in a different way the next day.
  That seems to be playing out here. So when when this report anyway of a helicopter being shot down, initially it wasn't shot down. Initially it was just it went down. That was and and sitcom wasn't saying anything. So we just knew that a helicopter went down. President Trump was asking immediately after it. And his comment was it's no big deal.
@@ -140,7 +143,7 @@ about Caralen? The president indicated today he would prefer to take it. Kind of
  That's exactly what Netanyahu wants. But coming from General Keane, he should surely know that we don't have the military capacity together with Israel to compel that or we would already have done it. So what do you make of why he keeps saying this? And I'll tell you why it worries me is because just like I showed you Kellogg said what he said last night and then Trump echoed it the next morning.
  uh before the first of these what's now going to be three days of bombing started Jack Keane went on Fox News again and said I think we really need to go back to bombing because that's the only thing that's going to make these guys bring around and now here he's done it and and if he's talking about car and all this other kind of stuff and taking over the oil um if he convinces Trump here to go
 
-### Segment 5 — Down A Path That Militarily
+### Segment 5 — Iran Trump Israel
 
 down a path that militarily that you just laid out cannot succeed where does that leave us after we try >> well just be in worse shape than we are
 today. Again, we're in a hole. Uh we're in a deep hole. And what President Trump, who's in charge, is doing is he's digging faster and digging deeper. I I don't know what else to say. The idea that we're going to get uh the Iranians to surrender, I think, is not a serious argument.
@@ -159,7 +162,7 @@ And uh I think that he's blowing smoke. I think there's no evidence to support h
 to have a more healthy appreciation of the limits of force than you do if you're in the Air Force where you tend to think that air power is a magic bullet. Uh I I find it just inexplainable what's going on here. I I don't know what these people are thinking. Uh and I'm actually surprised that Trump himself hasn't figured out the the advice that these people are giving him is bad advice.
  These were the people who got him into this war to begin with. You would think he would be scratching his head at this point and saying to himself, you know, maybe I ought not to listen to these people who encouraged me to get into this war because they got me into a giant quadmire. And you know, if you think about their solutions for
 
-### Segment 6 — Fixing This Problem They Really
+### Segment 6 — Trump Netanyahu Israel
 
 fixing this problem, they really don't sound that plausible.
  This is what you would expect. And you would expect him to be calling up advisors. I would imagine that JD Vance, who is a smart man, whatever you think of his policy views, has figured out what you and I have figured out. And that Trump would be relying heavily on someone like Vance, uh, who again, I would imagine understands this.
@@ -177,7 +180,7 @@ sullied. I think if anything that's what's driving them at this point. But uh wh
 The evidence is overwhelming in the scholarly literature and in the historical record that regime change caused by air power alone never happens. It never happens. And President Trump and Prime Minister Netanyahu embarked on a military campaign that was predicated on the assumption that air power alone could topple the regime in uh in Iran and uh we would win a quick and decisive victory and we would be sitting in the catbird seat in the Persian Gulf.
  That that was what they were thinking. This is this was an irrational decision, right? This was an irrational decision because the theory of victory was profoundly flawed. And almost everybody I know fully understands that because we have so much experience trying to uh cause regime
 
-### Segment 7 — Change Around The World That
+### Segment 7 — Iran Trump Ceasefire
 
 change around the world that we pay attention uh to how you do that and how you don't do that.
  And everybody almost everybody knows you can't do it with air power alone. But yet Trump and Netanyahu for some reason thought that they could do it with air power alone. This was an irrational decision. No rational theory of victory here. But are we surprised by the fact that individuals who got us into this war with a cockami strategy are now continuing to push forward more cockamame strategies.
@@ -196,7 +199,7 @@ same thing is true with Trader. Trader really wants to shut down the Iran war ba
  He really wants a deal. Uh so his intentions are noble here. His intentions are in the American national interest as is the case with you and me. But as you know and he knows more than we do apparently now. I hope it doesn't pan out. Uh if you say things that you know the current administration doesn't like or even previous administrations, you'll get punished.
  You'll suffer professionally. This is a terrible situation. And by the way, getting back to the question of why we're in so much trouble today, what's the cause of this? This is part
 
-### Segment 8 — Of The Problem When You
+### Segment 8 — Europe Trump Ukraine
 
 of the problem. When you don't have an open debate and you punish people who you don't agree with, you're, you know, cruising for a bruising, as we used to say when I was a kid.
 >> Yep. There's no doubt about that. And I hope that this is uh this is just a shot across the bout. Turns out to be nothing. There's a lot of push back. like I imagine we're not the only ones who are going to be uh coming to Trid's defense and talk about how he is an American patriot uh and seeks the best good for the American people and others start to see it too.
@@ -214,7 +217,7 @@ some targets, but it didn't really go much further than that. And then afterward
  I want to have a talk and and all this long letter stuff basically ask um I'd like you to surrender to me and do whatever I want to do. It was uh ridiculous and it was in the open etc. U so that that stirred up a lot of conversation since that time on both sides of Ukraine and Russia. In a conference with European leaders, Zelensky was asked I think it was just yesterday uh about what he intended with that letter.
 During one month, I sent several letters with different goals to different institutions beginning from EU, United States, White House and Congress and also Putin. I had different goals. For example, the United States. I really wanted to do everything to shift a little bit from Middle East to Ukraine the
 
-### Segment 9 — Situation And We I Needed
+### Segment 9 — Ukraine Russia Europe
 
 situation and we I needed very much.
  I I I can't share with you all the details but I believe me my nation needed too much antibballistic missiles. So, and I got the result and I will not share with you details of this result but I did it and uh and um I think I had no I think I know I had a goal sending letter to Putin for example and I think I've got the result what I needed.
@@ -234,7 +237,7 @@ anything besides having a negotiation. So, I'm going to have this public thing t
  Now, they're somewhat um somewhat able to deal with that with drones. There's no question about that. And that slows the Russians down. But if you look at what's happening on the battlefield, the Russians are moving forward. uh slowly for sure, but they are moving forward and the Ukrainian army uh is showing all signs uh all sorts of signs that it's in deep trouble.
  All you have to do is look at the
 
-### Segment 10 — Number Of People Who Are
+### Segment 10 — Russia Ukraine Trump
 
 number of people who are awol, the number of draft dodgers uh and so forth and so on. This is an army that is in real trouble. Uh and they don't have uh missile defenses of any sort anymore. Uh that that's why Zelensky is trying to get Persian uh not Persian Patriot missiles from um from Trump, but he can't get them.
  Uh so they're in deep trouble. And uh Zelensky talks like he's in the driver's seat. You know, we hear all this rhetoric in the West that Ukraine has turned the tide on the battlefield. They've got the Russians on their back feet and uh the Russians are suffering enormous casualties. Putin is not popular anymore.
@@ -251,7 +254,7 @@ tactics that maximize the chances that you'll survive. And the Russians of cours
  And that means that the casualties are not that high. And uh and I think you're going to move more slowly in terms of conquering territory than they have moved. But nevertheless, you're going to keep the casualties down, which is true. And again, you have an allv volunteer military and they're rolling up uh the territory in the four oblasts that they claim they want.
  They control uh all of uh uh what's the territorians and then I think most of if I'm not mistaken >> they control all of Luhans. Great. And they control about 75% of Donetsk. uh they control about 75% as aia and they control about 75% of uh of her son uh and I believe they'll eventually end up controlling 100% of those four oblas plus Crimea of course and I wouldn't be surprised Danny as we've
 
-### Segment 11 — Talked About Before If They
+### Segment 11 — Iran Ceasefire Trump
 
 talked about before if they end up going after Odessa and Harkke as well very hard to say whether that'll happen because uh you know drones make it difficult uh to just
 capture large swats of territory all of a sudden, but nevertheless, they may end up capturing those two oblass as well. Uh but they're going to win the war. It's going to be an ugly victory. But the idea that Ukraine uh is going to, you know, turn the tide uh and is turning the tide, I I think is belied by the facts.

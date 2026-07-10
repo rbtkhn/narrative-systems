@@ -1,5 +1,6 @@
 ---
 
+
 ingest_date: '2026-06-26'
 pub_date: '2026-06-26'
 kind: transcript
@@ -25,15 +26,17 @@ source_note: "Operator source-intake 2026-06-26; operator-pasted YouTube transcr
 evidence_grade: transcript-bearing
 transcript_wrapper_tier: paste-prefix
 opening_tier: host-monologue
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
 opening_trim_words_saved: 0
-closing_trim_applied: true
-closing_trim_rule: "daniel-davis-closing-v1"
-closing_trim_chars_saved: 197
-closing_trim_words_saved: 39
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 15
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Prof Seyed Marandi: WILL the US COLLAPSE the GLOBAL ECONOMY?
@@ -47,14 +50,14 @@ closing_trim_words_saved: 39
 
 ## Transcript
 
-### Show Open — Trump Nice Iran and Champagne
+### Show Open — Iran Trump Nice
 
 Iran is being very nice. They're agreeing to everything that I want and they have to. Otherwise, we just go back and do what we have to do. >> Well, that was President Trump yesterday talking about how nice the Iranians are and how they're literally doing everything he has. So, I guess this whole thing with the negotiation settlement is almost wrapped up and we can start popping the champagne.
  Is that right, Professor Marandi? >> Well, since we don't drink alcohol here, obviously, it's not going to work for the Iranians. Ha, ha, ha. But, uh [laughter] uh uh >> Okay. >> In general, I I think that nothing that he says can be taken seriously. Uh whether it's his uh declarations or whether it's his uh statements uh of intention, whether it's statements about his achievements.
 I I've given up listening to him and uh I only see his uh social media posts if some someone forwards it to me. Uh because I I I and as I've as I've told many Iranians who like uh want to invite me on their shows, uh I tell them, "Look, I I can't discuss what Trump is talking about or what he plans to do because I've no idea and what he writes uh doesn't mean anything to me.
  So, I cannot predict the future or predict what he he means to do based on any of his statements or uh or or his uh posts. Uh
 
-### MOU Reality — IAEA Sites and Lebanon Leverage
+### Segment 2 — Iran Lebanon Israel
 
 I what I can say though is that from from what I'm learned from the recent nego- tiations, is that um things are not going the way he says. The Iranians have not given any commitment to purchasing American uh agricultural products and there's no, um, agreement or any new, um, International Atomic Energy Agency, uh, officials coming to Iran in order to visit the sites that were bombed.
  And Iran does have a relationship with International Atomic Energy Agency right now, and, uh, their inspectors do travel to Iran, but they go and visit the Bushehr, uh, nuclear power plant, and the Tehran, uh, uh, reactor, experimental reactor, uh, but they don't visit, and they have they're no plans for anyone to visit the sites that were bombed.
@@ -66,7 +69,7 @@ Hormuz, because since the Americans are not abiding by their commitments, becaus
 But listen, we're in a diplomacy. You mentioned just a second ago, this is in a diplomatic environment. We're trying to negotiate some very very complex situations. You mentioned a couple of them. I'm going to take some of those in order here momentarily. But man, you know, you have to have an atmosphere where if if not mutual trust, although that's what you'd want to get to, you have to at least have mutual respect for one another.
  And yet, I'm I wonder in your impression cuz you know some of the the negotiating team members on the Iranian side, how do they respond when the senior diplomat of the United States, Secretary of State Marco Rubio, says stuff like this? >>
 
-### Rubio Religious Lunatics — Governance and Narrative
+### Segment 3 — Iran Economy Israel
 
 You used to call them religious theocratic lunatics. Do you still believe that language applies to the leadership today? >> Well, look, I it's not that I believe it, it's the fact of the matter.
  I mean, the the Iranian system is led by clerics, radical clerics. That's what it's always been led by, and that's what it continues to be led by. That said, we also have to manage the geopolitics of the situation. If they've changed their mindset, or if they've changed their approach to their relations with the United States and their neighbors, then we're going to give this thing a chance to work. Maybe they've changed.
@@ -82,7 +85,7 @@ Yet, when they go back to the uh to to rethink their policies, they don't re-exa
  And if you said, "There is no trust on the Iranian side right now for a whole host of reasons which we've talked about." But, you hear Marco Rubio there saying basically the same thing, "We can't trust anything and as long as they behave and do what they say, then we'll do something." But, that kind of leads into what we're going to talk about here in the mix of some of those specific points because the Iranian side has likewise said, "When we see things up front, then we're going to actually do move into the next one.
 " But, without that, there's not even going to be moving into. When you have the chief diplomat on on our side talking about the Iranian side like this, is it even possible to have a basis for negotiations to get these tough issues resolved? >>
 
-### Trust History — JCPOA and Negotiation Impossibility
+### Segment 4 — Iran Trump Lebanon
 
 No, it becomes almost impossible because if we go and look at the history, it's obvious that the it's been the Iranian side that has been trustworthy.
  I mean, we I unless you want someone watches trust uh uh Fox News, which says that the Iranians are always lying and cheating, the facts on the ground are the exact opposite. Uh the Iranians, whenever they they had an agreement with Americans, they carried out their commitments. And the best example is with regards to the nuclear deal, the JCPOA.
@@ -95,7 +98,7 @@ And then when there is some partial agreement Trump goes out and makes ridiculou
 Every day they're murdering Lebanese civilians. Today they've been destroying more villages and towns in Lebanon. So the Iranians see that Americans are not abiding by commitments. They are >> I'm going to get I'm going to get to that exact issue here just a second but I want to stick on this topic you're talking about about what something is agreed to something that was in the MOU and then it seems we're changing the the definition of it and one of the key ones right up front and you told me this weeks and weeks ahead of the signing of
 the MOU you reiterated over and over that because of the absence of trust and and this was echoed by many other Iranian senior officials in public forums that there had to be to build trust funds released up front some number of billions of dollars of frozen Iranian assets and then release of sanctions.
 
-### MOU Funds — Vance Dishonesty and Walkout
+### Segment 5 — Iran Trump Has
 
 Now it appears that some relief of energy sanctions has happened but then the the sticky issue of the release of frozen funds you had Vice President Pence come out of that 18-hour negotiating session right after it and saying, "Well, they have agreed that only certain amount of money's going to be released and it's only going to be spent the way we, quote, dictate.
 " That's actually Mike Waltz said on American television, "We will dictate to Iran how that money's going to be spent." And of course, it's going to be spent buying farmers in the United States stuff for the people of Iran. What is the reality behind that? >> Well, the the reality is that that was not at all agreed upon by the Iranian side.
@@ -106,14 +109,14 @@ Now, the uh there there details on the on this $12 billion. Uh the first half a 
  And then Vance dishonestly said that they were basically implying that they came back. But they never came back. The Iranians left and then later in the afternoon the uh mediators they carried out indirect they helped carry out indirect negotiations, written negotiators. So, written negotiate texts were being going back and forth. So, basically, even though they were in the same town, but they were not sitting together because of the insults and the threats made by Trump, but Vance pretended and so did the Americans the others they pretended that the
 Iranians did not walk out or they walked out and they came back in. That was not true. So, that the this misinformation and disinformation that they put out there along with the uh lack of trustworthiness makes things very difficult and that's why the Iranians feel that the only way to and they believe that the only reason why the United States or or the Trump regime is uh is implementing the deal uh it to a to degree is because Iran has leverage.
 
-### Netanyahu Mistake — Hormuz Leverage Grows
+### Segment 6 — Iran Netanyahu Ceasefire
 
 If Iran did not control the Strait of Hormuz, the United States would not carry out any of these obligations. It would just say, "Okay." And then it would refrain from it would agree to it, sign the paper, and then it would not carry it out as in on previous occasions. So, and if this this is exactly what happened after the end of the fighting, the 39 days of fighting, when Trump agreed to the Iranian uh uh peace proposal uh and as the framework of this for the negotiations, when they sat at the negotiating table, they said, "No, we
 don't accept this." So, and they thought that uh uh since the war was finished, the Iranians had no more leverage. And you know one of the the the most foolish things that Netanyahu has done not is not just by starting the war but when the Iran and the United States agreed to a ceasefire two over two months ago, and Netanyahu carpet bombed Lebanon to wreck the ceasefire, that caused Iran to refrain from opening the Strait of Hormuz.
  And so over the last almost four months now, we've seen uh the shortage of uh of energy of oil and other energy and other products from the Persian Gulf grow and become more uh dangerous for the global economy. And ironically, that's what now has given Iran the leverage to force Americans to carry out their obligations. If If Netanyahu had accepted the ceasefire over two months ago those ships that we Iran was planning to allow from those five countries that assisted the United States in the war, Kuwait, Saudi Arabia, the Emirates,
 Bahrain, and Qatar Iran would have allowed those ships to go, and we would not have the the situation that we do have now. So, Iran would not have had that leverage. So, Netanyahu gave uh created a an uh a situation where Iran's leverage grew by the day. >> And so, where do where does this go now? Well, let's stick to this same topic here.
 
-### Asset Release — Trickle Regulation and Reciprocal
+### Segment 7 — Iran Hormuz Lebanon
 
 What if the the United States keeps that condition that you have to buy American stuff and then you can't spend that money anywhere except where it's authorized by Washington? If that remains the same and therefore that money's not released, at what point does Iran say, "Then you have reneged on one of the primary upfront requirements and therefore the straight will completely close again.
 " Or would they do that either? >> Well, I don't know uh if the Americans are going to try to force that upon the Iranians. We'll have to see. Um mhm as we speak, the the process of releasing Iranian assets is taking place. Mhm. Uh the >> So, that might just be for American domestic purposes only? >> And so, there are going and in the in the context of those negotiations, Uh yeah, I think that's I yeah, definitely.
@@ -127,14 +130,14 @@ But if the Americans drag their feet and say, "Well, the Israelis, you know, the
 
 >>
 
-### Day 61 MOU Text — Toll Fantasy Rubio Clip
+### Segment 8 — Iran International Law Hormuz
 
 Well, that certainly has been the way it has been so far. I actually saw that GCC is limiting that, so it apparently that is exactly happening this very day. I want to move on to the next topic here. The next big difficulty and challenge in getting this war over with, and that is speaking of the Strait of Hormuz, it's what happens after the 60 days or whenever this thing is eventually resolved.
  As a quick reference, uh this is what was agreed to in this in the memorandum of understanding both by the United States and Iran, and that is that the that the [clears throat] final determination of of what's going to happen after the 60 days is going to be determined in discussions with other Persian Gulf littoral states. I I'm sorry, I backed up a little bit.
  Iran Islamic Republic of Iran will conduct dialogue with the Sultanate of Oman to define the future administrative and maritime services in the strait. And then there's going to be discussions with other Persian Gulf littoral states in in line with international law. Nowhere in there, by the way, is either US or Israel in any way, shape, or form.
 But this even says, look, back up here earlier, it says that there will be no charge for 60 days only. And again, this is something the US signed and Iran. So, when you hear uh the United States kind of changing the tune here, and let me show you what we seem to be saying now based on Marco Rubio. >>
 
-### Day 61 Fees — Rubio vs Iranian Position
+### Segment 9 — Iran Trump American
 
 Let's suppose that we went crazy for and lost our minds completely and decided to agree to have a tolling or a fee mechanism.
  How would that work? It's not doable. Because what's the consequence for not paying? Let's say a ship says, "Well, I'm not going to pay the fee." It's not like a toll on a road, you don't get a ticket in the mail. They get shot at. You shoot at one ship, you sink one ship, no other ship is going to move. So, that sort of system is not only unwise, it can't happen.
@@ -146,7 +149,7 @@ And the Iranians are going to ensure that a toll is paid and those ships they kn
 But in any case, it's not just about receiving fees. Iran won't It's not going to be called tolls, they'll be fees for insurance, or for protection, security, or for environmental protection, whatever. But they will take fees. But But in any case, it's not just about that. It's also about making sure that the Persian Gulf is not militarized again against Iran.
 >> And what again, I mean, I'm going to ask you this probably several times here. What if Rubio's version comes through? He says, "No, there will be no tolls, President Trump. There will be no tolls." And no fees.
 
-### Proxy Support — Rubio and Baghaei Lines
+### Segment 10 — Iran Irgc Hormuz
 
 And the Iranians say, "No, there there are going to be fees on day 61.
 " Assuming that actually comes to pass. But at some point, they're going to. And if you have these un-reconcilable issues, what happens? Do we go back again, like you said a second ago, with the IRGC saying, "Okay, then we're going to squeeze down." Is that how it would work? >> But they don't have to squeeze down. They just ensure that ships that want to leave have to pay the fee.
@@ -157,7 +160,7 @@ fees. They paid uh a fee uh before going through the Strait of Hormuz. And so as
 Iranian sports before uh shooting at them but yes I think that there's no doubt that they would uh uh this they would hit the engine room and prevent the ship from leaving. >> Much like we did with some of the other ships hitting the engine room. Uh we'll see what that we'll see what that does to the engine but in the amount of time here we are we're got some other issues to talk about cuz here one of the other issues is on proxy support.
  And I I just showed you
 
-### Warsaw Analogy — Proxy Blame Game
+### Segment 11 — Iran Hezbollah Israel
 
 Secretary Rubio saying uh a couple of comments here. Well interestingly enough here uh Iranian Foreign Ministry spokesman Bagaei if I'm saying his name correctly had this interesting comment because Marco Rubio was saying uh additionally you can't have the end of hostilities and conflicts in the region as long as Iranian proxies are launching missiles and drones from Iraq and are participating in terrorism like Hamas did and Hezbollah did.
  Meanwhile, the Iranian Foreign Ministry spokesman says no one will be fooled. We can't have a peaceful region so long as American militarism and interventionism persist and their occupying proxies continues with absolute impunity to inflict endless wars across the region and perpetuate genocide, terror, violence and every other atrocity.
@@ -168,7 +171,7 @@ And after apartheid collapsed, he traveled to Palestine. And he said that what h
 It's just today included in that yesterday included multiple people slaughtered and and children killed and murdered and so on. So, for the Americans or the Israelis to use or the or Western governments or Western media whether it's the Guardian the Washington Post or the or Fox News, for them to use this sort of language reminds me of Nazi Germany.
  And how, you know, if if I was, you know, if I if it was Nazi Germany today, they would say be saying, "Oh, those Warsaw Jews they're they're causing trouble instead of, you know, it's all their fault. They, you know, someone shot someone in on the streets and we, you know, we had to respond and then you're
 
-### Islamic Outreach — Western Press Blackout
+### Segment 12 — Iran Hezbollah Economy
 
 like a thousand people are slaughtered and I'm in Warsaw and that others are taken to concentration camps.
 " That's how it looks to from Tehran. >> Well, it's hard to So far, those those views don't seem to be going to be bridged anytime soon. Uh moving on with proxies though. Here's an interesting comment from the New York Times today. Uh Iraq's new leaders face resistance trying to bring militias under state control.
@@ -179,7 +182,7 @@ like a thousand people are slaughtered and I'm in Warsaw and that others are tak
  And Ayatollah Khamenei who was martyred even during maximum pressure sanctions when the Iranian economy was doing poorly he told the government not to halt those gas exports or those electricity electricity exports because Iraqis in the summer Iraq goes up to 50° C in some places. >> Wow. >> And so, he's he he would say that, you know, don't don't cut even if they're not paying for it, give them that electricity, give them that natural gas so that people can So, the Americans hold the Iraqi money, don't hand it over. Iran
 gives Iraqi gas and electricity, and and they're not paid for it. And so, so who's the bad actor here? I I think the Iranians would argue that it's the Americans. >> Yeah, we'll see where that goes as well. One other interesting development
 
-### US Defeat Register — Regional Realignment
+### Segment 13 — Iran Turkey Ceasefire
 
 didn't get a lot of press here in the West at all. I wonder if you can kind of give us some insight here.
  The Iranians have been seeking the hand of friendship of Islamic countries, including Pakistan, Qatar, Saudi Arabia, Egypt, and Turkey. You see this down here in the lower right-hand corner, Qatari Prime Minister states that regional countries are currently negotiating a new security arrangement with Iran, moving away from reliance solely on the US framework.
@@ -191,7 +194,7 @@ So, they helped the United States wage war against Iran, and of course, they had
 among these countries, and without the United States, it would everyone would benefit. Then, there's a larger arrangement that the Iranians are seeking, and that is for the entire region, and that is a greater convergence of countries from Egypt to to Pakistan, from Turkey to Yemen and Saudi Arabia, where there would be greater cooperation among all of them, and a convergence of, uh, interests, and a convergence of policy, security policy for the entire West Asia.
  And now that the United States has been weakened, the empire has been weakened, uh, and
 
-### Netanyahu Lebanon — Hormuz Closure Consequence
+### Segment 14 — Iran Israel Lebanon
 
 the United States has been seen as being defeated on the battlefield and in siege warfare, the Iranians believe this is an an opportunity to create a a better environment for these countries to work more closely with one another. But it's going to be very difficult because the United States is still present.
  It has a lot of influence and uh and of course it can easily disrupt uh and and the Israeli regimes have also been uh attempting uh the United States and Israelis have both been trying to disrupt this uh the relationships between Iran and these countries. >> Yeah, and we'll we'll again also we'll see how that plays out there too because that's going to be I think that's [clears throat] probably some tension that's going to continue for a while.
@@ -210,7 +213,7 @@ Uh Israel Katz, Minister of Defense for Israel, said Israel has no intention of 
  After the 39 days of fighting, uh when they were supposed they were supposed to be a ceasefire, and the Israelis were supposed to stop slaughtering people in Lebanon, uh Iran was supposed to allow the ships linked to those five countries to to also use the Strait of Hormuz because Iran never closed the strait. It was only closed to the shipping linked to those five countries because they were im- implicated in the assault on Iran.
 They were complicit. And uh so, but Netanyahu went and carpet-bombed Lebanon,
 
-### Forecast — Israeli Policy and Escalation Risk
+### Closing — Iran Israel Lebanon
 
 slaughtered hundreds of people in minutes, in order to wreck it. And that's what caused the the Strait of Hormuz to remain closed to those five countries uh for the most part during this period and thus intensifying intensifying the global economic crisis.
 So, this is basically because of Netanyahu and then later Trump by imposing a siege on on the Strait of Hormuz. Then now we have another agreement, the MOU. And and the Israelis are saying we're not leaving. Well, that's a part of the MOU. So, if the United States because the United States is responsible for the actions of the Israeli regime in accordance with the first article in the MOU.

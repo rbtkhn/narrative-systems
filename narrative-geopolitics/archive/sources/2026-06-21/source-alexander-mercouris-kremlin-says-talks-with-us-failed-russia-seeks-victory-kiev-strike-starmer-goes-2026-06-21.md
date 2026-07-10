@@ -1,5 +1,6 @@
 ---
 
+
 ingest_date: 2026-06-22
 pub_date: 2026-06-21
 kind: cleaned-transcript
@@ -25,9 +26,8 @@ opening_tier: host-monologue
 transcript_wrapper_tier: clean
 mercouris_close_promo_trim_applied: true
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (mercouris, channel:alexander-mercouris)); 9 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Routine Mercouris solo subscribe/platform close trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (mercouris, channel:alexander-mercouris)); 9 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Routine Mercouris solo subscribe/platform close trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-07-09 (10 sections)."
 quality_note: "ASR normalization pass 2026-06-22; ph-civ replacement SSOT."
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -36,6 +36,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Kremlin Says Talks With US Failed; Russia Seeks Victory; Russia Prepares Big Kiev Strike; Starmer Goes
 
@@ -45,7 +48,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Russia Trump Ukraine
 
 Good day. Today is Sunday, 21st June, 2026. It is in fact, in the northern hemisphere, the longest day in the year. And it is also Father's Day. And at the start of this program, I would like to do something which gives me very, very great pleasure to do. I've had a very warm and very, um, shall we say, wonderful email from the son of a listener.
 And he's told me extensively about his father, who is a a listener and viewer to this channel. And in light of that, I wish to extend to that father, whom I shall call by his first name, Jovan. Jovan, from father from one from a father, that's me, to you, happy Father's Day. Now, let me, what's that? Move on with the rest of today's program.
@@ -61,7 +64,7 @@ The result is that the Anchorage process is over. The Russians are no longer wai
 Um essentially since the end of last year. Um ever since in fact the drone attack on Valdai. And I will say that if you go to our Substack site there is an exceptionally good article by Jan Kurpis who has discussed this whole issue in detail. He talks about Putin number one and Putin number two. Putin number one was the Putin who throughout 2025 negotiated in good faith with the Americans to try and achieve a negotiated resolution of the conflict in Ukraine.
 Putin number two is the much more hardline Putin that we have seen since the start of this year. The Putin who has rethought his diplomatic strategy since the
 
-### Segment 2 — Valdai Attack And Who Is
+### Segment 2 — Russia Ukraine Europe
 
 Valdai attack and who is now single-mindedly focused on achieving a military victory. And who has been making that point increasingly clear in every statement that he has made ever since he reappeared out of the isolation that he had put himself in or perhaps not isolation, but anyway silence, the long period of silence he imposed on himself following Valdai.
 A period of silence that basically ended two months ago. In fact, I should thank Mr. Korpes for writing such a fine article. >> [snorts] >> And I would say that the only slight point of difference I have with it is that I think that Putin probably had lower expectations last year, significantly lower expectations last year that the diplomacy would result in any negotiated outcome than I than perhaps Mr. Korpes imagines.
@@ -76,7 +79,7 @@ Though obviously that is not going to happen anytime very soon. But anyway, ther
  Some of these attacks have been in central and western Ukraine on various gas stations um behind the Ukrainian front line. Um on warehouses and industrial facilities. The city of Kharkov was heavily attacked. Again, in part using bombs. And the city of Poltava also on the eastern bank of the Dnieper was heavily attacked as well.
 And well, that now brings me to the topic of my discussion yesterday which is about the Oreshnik which I've received what I consider to be very reliable information. Um is now being
 
-### Segment 3 — Produced In Very Great Quantities
+### Segment 3 — Russia Ukraine Produced
 
 produced in very great quantities. That the production of the Oreshnik has been scaled up. Now, yesterday in my program, I discussed letter that had been leaked by Dallas Analytics purportedly from a Russian factory in Tobolsk region in in Tambov, actually, region in Russia saying that they were running into difficulties producing the Soviet era
 GU-503 gyroscope supposedly used by the Oreshnik missile and the reason is that the calibration and testing devices um for this particular Soviet era gyroscope are no longer produced anymore and it would be prohibitively expensive to um produce them. Anyway, I speculated that it might be this might be the reason why Russian production of the Oreshnik appears for a time to have been delayed except that it has now started to increase and has traveled in quantities apparently over the last few weeks.
@@ -91,7 +94,7 @@ All of which turned out to be flat out wrong. And he tell me that this story abo
  As I said, it seems to me most likely that it originates with Ukraine and it looks like it's another attempt by the Ukrainians to play down the significance of the Oreshnik and to make it look like a more primitive and more basic system than [snorts] it actually is. Now, here I'm going to make a further quick observation that with every one of these stories that gets bounced around about the Oreshnik um even as information comes to me which are then published and then I have to retract um with every iteration of this
 I form a clearer picture of the Oreshnik and it's becoming increasingly clear to me >> [clears throat] >> that this is indeed an exceptionally powerful very sophisticated very advanced weapon system indeed. So much so in fact that I am now revising my theory that development of it was initiated in 2022. um as a response to the difficulties the Russians ran into attacking the underground
 
-### Segment 4 — Bunkers Beneath The Azovstal Factory
+### Segment 4 — Russia Ukraine Europe
 
 bunkers beneath the Azovstal factory in Mariupol.
 I'm now increasingly coming round to the view that what we're looking at is a program that is at least a decade old, at least a decade old. That was initiated before the start of the special military operation. And which ought to be linked instead with the various other advanced weapon systems that Putin spoke about in a speech he made in not 2018 in which he disclosed the existence of such powerful hypersonic systems as the Kinzhal, the Tsirkon, the Avangard, and others.
@@ -106,7 +109,7 @@ And that is based on experience. It's been a comment I've made about many of the
 The articles that appeared in connection with those missiles, of which there were each of these two American companies were busy designing their own version. Anyway, the implication, if you read those articles, was that those missiles would be supplied in quantity to Ukraine within weeks. I've never heard about them.
 I've never seen them. Well, not seen them, but I have never come across any evidence or proof that they have appeared on the battlefields in quantities. And all I will say is that if they have, they have made absolutely no difference. So, anyway, I I I mention all of this. The Russians, whether one wants to face up to this fact, to this reality, or not, have shown over the
 
-### Segment 5 — Course Of This War An
+### Segment 5 — Russia Ukraine War
 
 course of this war an ability to produce weapons in enormous quantities, that they are fully prepared for industrial war that which um Alex Vershinin
 the US military officer who now writes for the Royal United Services Institute tells us we must prepare for in the war in the future. The Russians are fully geared up already to that kind of war. In the West we are not if anything we are slipping backwards. >> [gasps] >> Now, anyway, that's the situation with the Oreshnik and the important point here is that we are likely going to see more big drone and missile attacks by the Russians against various targets.
@@ -122,7 +125,7 @@ It admits to something that by the way the Financial Times has never acknowledge
 All I can say to people who think this not just in the Western media but Western governments and by the way the many people who um you know, try to follow the war through social media is go and read what Ukrainian military bloggers are saying about the actual situation on the front lines. Now, of course what they write is in Ukrainian.
 But you can take a shortcut and you can get a very accurate view of what they're writing by going to the Substack site Events in Ukraine where the writer there amongst his many other talents is an extremely successful and very good aggregator providing one with a very very detailed picture
 
-### Segment 6 — Of What These Bloggers And
+### Segment 6 — Russia Iran Ukraine
 
 of what these bloggers and war reporters on the Ukrainian side are actually saying about the state of the war.
 And yes, there are obviously differences between what they're saying and what the Russians are saying. The Russians tend to overstate their advances. I'm talking about bloggers and reporters and people of that kind. The Ukrainians tend to understate the advances that the Russians are making. But overall when you compare the picture that each side is giving it is not that different.
@@ -139,7 +142,7 @@ Elsewhere in Russia, the economic and supply situation with water, gasoline, ele
 Over the last couple of days, there's been a lot of recriminations and a lot of uncertainty about the diplomatic process between Iran and the United States since the electronic signing of the MOU that took place about a week ago. And as of the time of making of this program, it is not clear to me whether the Strait of Hormuz has been opened by the Iranians or not.
 The Iranians have said that the Strait of Hormuz will close because of Israeli violations of the ceasefire in Lebanon. And there's been at least two abortive attempts to get negotiations between the Americans and the Iranians up and running in Geneva. Though the word as I am making
 
-### Segment 7 — This Program Is That The
+### Segment 7 — Iran Trump Ukraine
 
 this program is that the negotiations are indeed about to start and that both the Iranian and the American delegations, the American delegation led by uh Vice President Vance, I'm guessing the Iranian delegation is re- led either by Speaker Qalibaf or by
 Foreign Minister Araghchi. That the I understand that both delegations are now in Geneva and that negotiations between the Iranians and the Americans are indeed going to begin. Now, as those of you who have been following my programs will know, I am very, very deeply indeed about the long-term future of this negotiation process.
@@ -155,7 +158,7 @@ The most cited operational floor is around 20% of capacity. Mike Sommers, CEO of
 US consumers used used 20 million barrels a day. If they had to rely exclusively on the reserves, the US has only a 9-day supply of reserves. And of course, it's not quite so bad because the United States does have alternatives. I mean, it does produce a large amount of oil itself. It imports oil, those kind of things.
  So, we're not actually looking at a 9-day window. But, it's not that long. Now, that is the reality that constrains what the US government does. Whether they like it or not, they had to sign the memorandum of understanding because unless they did, they would have been facing a crisis in about 4 weeks time. And it's the same reality that obliges them
 
-### Segment 8 — To Conduct Negotiations With The
+### Segment 8 — Iran Russia Israel
 
 to conduct negotiations with the Iranians.
 And since the Iranians are saying that negotiations can only take place if the Israelis stop military operations in Lebanon. The Americans realistically have no choice but to oblige the Israelis to stop conducting military operations in Lebanon. The United States simply is not in a position given the current state of supply to allow the Strait of Hormuz to be shut again.
@@ -171,7 +174,7 @@ There's all these continued uncertainties about the situation in the Persian Gul
 The most they were prepared to countenance was a price cap on Russian oil a price cap which by the way the market essentially ignored. But they were not willing to place physical limits on supply. I would have the same is going to apply again. The United States might go through the motions of talking about sanctions against Russia.
 But the the reality is that they're going to want the Russians to pump as much oil into global markets as possible. And that's going to continue to be the case
 
-### Segment 9 — For At Least The Next
+### Segment 9 — Europe Treasury Russia
 
 for at least the next year and perhaps longer whilst the strategic reserves are being gradually built up again. The United States needs a strong strategic reserve.
 Not just because of worries about the Iranians closing off the Strait of Hormuz again. But because if the United States finds itself in another conflict then there is a risk of further disruptions in the global energy market. And of course the American military itself is a massive user of fuel. And I go back again to what Larry Johnson has written.
@@ -187,7 +190,7 @@ And these, of course, are political leaders who have gone out of their way to ap
 And the Zelenskyy curse is now about to claim its next victim. And that is the Prime Minister of Britain. The man who repeatedly embraced the Zelenskyy curse, or to be more precise, President Zelenskyy himself, who hugged President Zelenskyy pretty much every time they met, who repeatedly invited him to Downing Street, who is President Zelenskyy's most fervent and most impassioned supporter, even amongst the Europeans.
  I should say that as I'm making this program over the last few days, there has been a massive row between Poland, formerly Ukraine's staunchest ally, and Ukraine over the burial,
 
-### Segment 10 — Reburial By President Zelenskyy With
+### Segment 10 — Ukraine Russia Economy
 
 reburial by President Zelenskyy with state honors, of a notorious Ukrainian nationalist, who is universally seen in Poland and Russia as a murderous collaborator with the Germans in the Second World War.
  The Ukra- the Poles have canceled a state award that they had previously given Zelenskyy. Various Ukrainian presidents who preceded him, Yushchenko, Kuchma, others, they in turn have returned their Polish awards. Even the Ukrainians, even sorry, even the Poles are now souring on President Zelenskyy.

@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-15
 pub_date: 2026-06-15
 kind: cleaned-transcript
@@ -29,9 +30,19 @@ evidence_grade: transcript-bearing
 opening_tier: host-tease
 transcript_wrapper_tier: paste-prefix
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 2 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 2 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (8 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 8
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Jeffrey Sachs: US-Iran Deal Reached - Peace or Tactical Pause?
 
@@ -42,7 +53,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Iran Hormuz Israel
 
 Welcome back. Today is Monday, June 15th, and uh we are joined today by Professor Jeffrey Sachs to discuss if uh well, peace could break out in Iran. So, thank you for coming on. We see now >> um well, we see that Trump announced that a deal has been reached. Uh again, one would like to be optimistic.
  Uh but how do you see this deal? Well, how sustainable is it? uh because it implies some painful concessions. I know many people in the US as well as uh possibly the majority in Israel uh do not want this. So if we add to the fact that the US does not have a great history in terms of implementing these kind of agreements especially with Iran uh how I guess how justify this optimism now? Well, of course, we have to be extremely cautious because the details of what has ostensibly been signed and now all parties, Iran, the United States and
@@ -54,7 +65,7 @@ So that's the basic framework within that there are many statements uh but not s
  Uh whether that is somehow inscribed in the agreement or not, we don't know. President Trump uh said uh that there would be no tolls charged and this may be one of the terms of the agreement because uh Iran was claiming uh tolls of $1 a barrel uh of oil on the ships passing through and maybe that has been dropped.
  On the other side, there are statements that
 
-### Segment 2 — Uh The Us Will Unfreeze
+### Segment 2 — Israel Iran Lebanon
 
 uh the US will unfreeze uh Iranian assets that are frozen and a number that is mentioned is $25 billion. Which assets? Why? How? Who? Under what authority did the US freeze these? What is really being counted here is not clear, but there seems to be some kind of arrangement where the physical traffic will open.
  Some kind of nominal uh or maybe even more substantial than that, Iranian and Omanian control over the strait will continue. Uh and uh if the rumors are correct uh tolls will not be charged on trafficking of oil and gas. But on the other side, the US will unfreeze uh a significant let's say amount of uh assets that were frozen uh beforehand.
@@ -66,7 +77,7 @@ Israel and now the bombing of Beirut will continue. And all of this is to say th
  Uh and it's a disgrace how it behaves. So, Israel is the clear loser. Uh the United States uh has uh uh certainly lost any any aura of uh strength and invincibility in all of this. I wouldn't say Iran is the winner though. It's battered. Uh it has suffered thousands of deaths, tens of billions of dollars of damage. Um wars can produce just losers.
  Uh, and uh, this is what this [clears throat] war did. This was a lose-lose war stupidly launched by Israel and the United States. It accomplished absolutely nothing. And whether it's over, of course,
 
-### Segment 3 — Remains To Be Seen This
+### Segment 3 — Israel Trump White House
 
 remains to be seen. This is hardly a new day in the Middle East breaking out as Trump's sickants have said.
  Uh but maybe it is a maybe it is a fragile uh ceasefire that will hold uh my inbox is already filled with people saying it will fall to pieces within 48 hours. It's a pretext. It's a ruse. I I would not myself go that far to make that conclusion. Both sides uh Iran and the United States have good reason for the fighting to stop.
@@ -78,7 +89,7 @@ remains to be seen. This is hardly a new day in the Middle East breaking out as 
  Uh and there will be uh of course eventually uh if our our media ever get around to it and if there are at least a few politicians that are not pathetic in our country questioning what the hell just happened? Why did we do this? What kind of absurd uh war was this? uh launched singlehandedly by the president of the United States without any public backing, without any congressional backing, without any clear explanation with the statements at the beginning that the goal was regime change and unconditional surrender. Uh
 and uh all of the the claims that were made and none of those was achieved. So in this sense of course there deserves to be and will be criticism but we certainly are not at the end of the uh Zionist lobby
 
-### Segment 4 — In The United States Either
+### Segment 4 — Trump Iran Israel
 
 in the United States either. >> Yeah. Well uh I I think people always could lur into this wars because of the the way political discourse is now.
  I mean, you notice when they went in when they attacked Iran, essentially the logic was, well, if if if you support it, uh, then you're pro- Israel. If you're not supporting it, then you're pro Iran. This is how people talk. No one began with the point of departure being what what should we achieve and how can it be achieved, you know, an actual strategy.
@@ -91,7 +102,7 @@ And I think uh the Iranian gambit was not aiming to be a war. It was aiming to b
  So this is also uh the behavior of uh very naive uh very arrogant people. It does show to my mind a complete breakdown of politics in the United States. Our institutions don't work. We don't have a institutional review. We don't have a functioning national security council, national security apparatus. We certainly don't have a republic in the sense of a constitutional order in which Congress would either declare war or have oversight uh over the actions of the executive branch or control through the budget. We have none of that. We have a
 small uh gangster mentality group
 
-### Segment 5 — Running Things Right Now Uh
+### Segment 5 — Iran Middle East Israel
 
 running things right now. Uh it didn't work for them. they face some uh constraints as a result of the failure of this one-day operation. This is essentially trying to find a way out. I think it it's not a surrender. It's not a victory. It shows how useless entirely uh all of this gangsterism was and how much it hurts everyone else, us uh especially the Iranian people, the 160 school girls killed on the first day of the strike in Minab.
  Uh it's been a disaster for everybody. the the one uh place where it's not been a disaster is in big tech which has tried out its weapons uh gotten expanded uh Pentagon contracts for AI systems made a few mistakes like uh mass murder of school girls but you know that's all in uh uh the machine learning uh process and the systems learning process.
@@ -102,7 +113,7 @@ And I think I'm guessing that the Iranians wanted some kind of deal to release u
 Well, [sighs] I you mentioned before that your you know inbox was full of people who was uh warning or dismissive of this being a temporary deescalation and I think that's fair as well. uh what you said now though do do you think this could be a turning point in the US not just this Middle East strategy but overall not because this is a moment of you know moral clarity but the recognition that the distribution of power has shifted that is if you try to do everything and you end up being punished then at some point you have to
 change course I mean same as with the I heard with the US Israel the tensions as well some argue that it's a bit
 
-### Segment 6 — Theater But I Have A
+### Segment 6 — Russia Iran Ukraine
 
 theater but I have a hard time seeing that it's pure theater given how it's treated in the Israeli media, how it's fueling descent in the US. Um, again, it could be extended to the war against Russia.
 That is, if it's it it didn't, first of all, if if a war isn't successful, at least one can lean back. Usually in Washington argue, well, at least we weakened our adversary. We destroyed a lot of things. We killed a lot of people. But but at the end of this it looks strategically that uh not just Iran but the Russians will come out on top and then NATO the US they all coming out on a very weaker position.
@@ -114,7 +125,7 @@ idea of that book very influential and reflecting even more importantly than its
  Militarily, the US is at a stalemate. It cannot impose its will militarily on Russia. It could not even impose its will militarily on Iran. That's one of the clear lessons of this. There's not a a chance in the world it could impose its will militarily on China. I think maybe the United States has recognized that in all three theaters.
 uh in Ukraine, it's washing its hands of the Ukraine war. In China, Trump rather uh openly said visav Taiwan, "We don't want a war. We don't want you to declare independence and we're holding our weapon sales to Taiwan in obeyance." This is was basically what he said as he left Beijing from the summit last year
 
-### Segment 7 — That We Can't Impose Our
+### Segment 7 — Iran Russia International Law
 
 that we can't impose our will on China.
 So in a sense I think what is being seen is the US does not have any kind of hegemonic control over the vast realm of Eurasia uh which is I'm sorry over Asia in particular and over the non-EU part of Eurasia. So I should be careful. It still has influence. uh it still has uh the ability to impose pain and sanctions, but it cannot impose military victory.
@@ -127,7 +138,7 @@ And uh that painful loss happened early on uh I think it's 9 AD if I remember co
  We we could see more terrible things. The US has not turned into some kind of beneficent international law abiding state. It remains an orary, nasty, gangsterish uh empire in the Washington mentality, but limits are being uh understood more than before even if they are not openly acknowledged and certainly they are very much disliked.
 Well, I on the unipolar moment, I think what key criticism in the 1990s
 
-### Segment 8 — Was That Uh The Uniolar
+### Closing — Russia Economy Iran
 
 was that uh the uniolar moment would unavoidably be temporary because the US would exhaust itself and then it would incentivize adversaries to collectively balance the US. I think now the war against Russia pushed the Russians in closer to China.
  The war against Iran pushed Iran even closer to Russia and China. So uh at some point I think the lessons have to be made that the hegemonic peace does not reflect reality and when pulses do not reflect reality it has very unfortunate u consequences. Exactly, Glenn. And I think there are two things that people should keep in mind about this.

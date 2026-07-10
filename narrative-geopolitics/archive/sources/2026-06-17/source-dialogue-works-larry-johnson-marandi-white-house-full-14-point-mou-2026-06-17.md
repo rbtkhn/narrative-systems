@@ -1,4 +1,5 @@
 ---
+
 ingest_date: 2026-06-17
 pub_date: 2026-06-17
 kind: cleaned-transcript
@@ -31,9 +32,19 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: paste-prefix
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 2 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript; Marandi joins mid-show (~2am Tehran); promo/departure close retained; not human-verified verbatim. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 2 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript; Marandi joins mid-show (~2am Tehran); promo/departure close retained; not human-verified verbatim. · source-section pass 2026-07-09 (10 sections)."
 quality_note: "ASR normalization pass 2026-06-18; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Larry Johnson & Mohammad Marandi: The White House has released the full text of the 14-point MoU
 
@@ -44,7 +55,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Israel Lebanon Iran
 
 Hi everybody. Today is Wednesday, June 17, 2026 and our dear friend Larry Johnson is here with us. Welcome back, Larry. >> I'm back by coercion. At least you got the shirt on. Good for you. You know, I I I just as a side note I've done several other podcasts today. Uh I did one with a fellow named Miroslav and and and and Chuck Republic.
 He had on a shirt. And he cited you as the inspiration. Okay? >> [laughter] >> I had to be like Nima. And then and then I did uh Jim Weld. And he had on a shirt. So, man, I'm I'm we're we've got a I got a got a tradition. >> a move. You're making a move. >> influencer. Influencer. >> [laughter] >> Yeah. Let me start, Larry, with the breaking news that White House together, both Americans and Iranians, they have released the 14-point MOU just you just minutes ago it came out.
@@ -59,7 +70,7 @@ Israel's violating that therefore we're going to retaliate and when we attack Is
 >> Yeah. We had we had two Israeli cats and Smotrich today saying that they're not going to they're not going to withdraw from Lebanon. I don't know if they stay there. Let's assume they want to stay there. And after all they're they're there will be some sort of confrontation because you cannot stay there and not having any sort of confrontation.
  And last night you remember we had the Al Akhbar in Lebanon reporting that there is a huge withdrawal of Israeli forces from Khiam. And they were they're moving their forces to this down
 
-### Segment 2 — To The South Of Of
+### Segment 2 — Iran Lebanon Israel
 
 to the south of of Lebanon. And I don't know what does that mean? Is is that is some sort of new strategy on the part of Israel or they're feeling that they have to somehow, you know, get more to the southern part of Lebanon because they're overextended in Lebanon right now.
  If something happens, I I'm sure that Iran would respond to Israel if that if they attack Beirut, but how about the southern part of Lebanon? How if something happens there? >> Under this agreement, it doesn't say Beirut, does it? It says Lebanon. >> Yeah. >> Right? >> says there is no Beirut in in the document, yeah. >> So, Lebanon includes the southern part of Lebanon.
@@ -75,7 +86,7 @@ Yeah, it says extendable with mutual consent. It means that they can, you know, 
 And Donald Trump said I have destroyed 80% 85% of their missiles so they're not that powerful considering their missiles but when Saudi Arabia [laughter] has those missiles how can I say you cannot have them? You know. >> [laughter] >> Yeah, who gave Saudi Arabia those missiles? Oh, we did. Yeah. >> [laughter] >> Yeah.
 This
 
-### Segment 3 — Any There There Look There's
+### Segment 3 — Economy Trump Iran
 
 >> Any >> There there look, there's no uh to try to insist on logic and reasoning and consistency, forget about it. That's the the what we have to you have to come back and ask the question. Why is Donald Trump now willing to make this agreement? Willing to essentially accept the paper that Iran presented to him on April it was in April 8th or April 15th.
 But, you know, uh 2 months ago, a little more than 2 months ago. Um why? And the the there's something that's not being said in public that's driving this, and I believe it is they privately understand that the economy is going to be a wreck if they don't if they don't move to get the Strait of Hormuz opened again.
@@ -90,7 +101,7 @@ They cannot uh uh use their uh strategic reserves anymore. And the global supply
  He He He just nailed in my opinion. Yeah. >> Yeah, no, I agree as well. You know, I wrote the piece 2 days ago suggesting that it was the the fact that the strategic petroleum reserve basically only has like a If If there was no other source of oil and the United States had to rely upon that, it would only last for 20 days. Um and that was on the assumption that it was 360 million barrels.
 But I actually I saw the real number as of June 5th, it's down to 349 million barrels. So, it very well could be you know, down to 320 now. Uh so, then you know, 20 20 million barrels per day, we're talking uh 16 day, you know, barely 2 weeks of supply left. Now, so and it is you know, I saw that analytically and then on top of it
 
-### Segment 4 — Now Pepe's Got It Sourced
+### Segment 4 — Iran Number United
 
 now, Pepe's got it sourced.
 >> Yeah. Yeah. >> Larry, the fourth the the the point number four is immediately upon the signing, the United States will begin the removal of its naval blockade and any disturbances and or impediments against the against Iran and will fully end the naval blockade within 30 days. I think the naval blockade is gone by now.
@@ -98,6 +109,8 @@ now, Pepe's got it sourced.
 And this is somehow is vague. I don't know when he's talking when they're talking about American forces, what do they mean by that? American forces in the bases or those were in the bases in GCC countries or they're talking about the new forces in the region, you know, with the destroyers, all these forces that were sent to the region, the new forces.
  What does that mean in your opinion? >> Well, I think it means US forces in Kuwait, Bahrain, Saudi Arabia, Qatar, United Arab Emirates. Uh And but I understand they've all many of those troops have already been withdrawn. Do you understand? By virtue of the attacks that took place on those bases. So, there are no more US troops there, like at the Fifth Fleet headquarters in Bahrain.
 Or, you know, maybe just a token presence, a few people, but not many. So, it's already it's already become a de facto reality, at least in some of the countries. >> Yeah.
+
+### Segment 5 — Iran Hormuz Europe
 
 Number five is so important because it's related to the Strait of Hormuz. Upon the signing of the this MOU, Iran will make arrangements using its best effort for the safe passage of commercial vessels with no charge for 60 days from the Persian Gulf to the Sea of Oman and vice versa.
 The traffic of commercial vessels will immediately start in considering the need for removal of technical and military obstacles and demining and demining by the Islamic Republic of Iran. It doesn't say that the United States or Europeans who got today Donald Trump was asked about Europeans if they're going to be said I don't need them, but if they want to do this, they're welcome.
@@ -109,7 +122,7 @@ Yeah. The There is no definition that Iran is going to get before the signing or
 >> No, no, I agree. It's I you know, some of these are they're deliberately vague. Um they'll certainly have something to talk about. Um but you know, the reconstruction and economic development and on that Iran will still be able to exercise its leverage of collecting um it's they're only obligated to not charge for 60 days.
 It doesn't say that they can never charge after that, correct? >> Yeah. Yeah. >> Okay. >> Yeah. Then after after 60 days it's
 
-### Segment 5 — It's Going To Be You
+### Segment 6 — Iran Nuclear Weapons Nuclear Weapon
 
 it's going to be You know, there is a difference if you want to be more precise on this point, Larry, you go to the Iranian text, and you go to the American text. Iran says it will make arrangements for safe passage with no charge for 60 days only.
  This is the Iranian version. But, in the US version, it says with no charge for 60 days. There is no only in the United States version. But, I think after all, putting those two together, there is not that much of difference between the two. >> No, it's just a Well, no charge for 60 days means no charge for 60 days. >> Yeah.
@@ -125,7 +138,7 @@ In paragraph seven, the schedule uh it's it depends on the sanctions, the way th
  I mean, it's really you know, there are people in Iran that are complaining, they feel that watching sold them out. The Zionists and neocons certainly believe that Trump sold them out. So, that kind of reaction from both sides tells you that this agreement actually may have some teeth and be valid. Um so um it is uh you know, in that particular clause right there, I think you know, it has some has some teeth to it.
 >> Yeah. Yeah. And it it's dependent on the on the number seven, the point number seven. Which related to the Iranian sanctions sanctions on Iran. It's important these two are related to each other. And number nine, pending the final deal, the United States and Iran
 
-### Segment 6 — Agree To Maintain The Status
+### Segment 7 — Iran Jcpoa Economy
 
 agree to maintain the status quo. Iran will maintain the current status quo of its nuclear program.
 What is the status quo of Iranian nuclear program? Since the war started, Iran didn't produce any enriched uranium in Iran. That's why they're talking about the status quo, Larry. And it means that they will not produce any enriched uranium to my understanding. That's why they're talking about the status quo.
@@ -141,7 +154,7 @@ And then the last point or paragraph is the final deal will be endorsed by UN Se
 >> [laughter] >> Let me check him. Yeah. [laughter] >> Oh. I don't know if he was able to hear hear that, but you know. Let's see, it's only uh it's only uh uh 2:00 a.m. in the morning. >> Yeah. >> Yeah. Right? >> Nice. 2:00 a.m. He just got home. He was out and I I I called him. I I mentioned that he's going to But Larry, looking at what has happened so far with the 14-point plan, what's new in your because yesterday when we were talking about this, you said we don't know what's going on and the day before you were criticizing how Iran is letting
 There is no timeline in the in those versions of the document. >> Right. Right. >> Right now, what is
 
-### Segment 7 — Your Take On That Yeah
+### Segment 8 — Iran Lebanon Israel
 
 your take on that? >> Yeah, no, I think uh I think they made it very uh This This is an agreement that I that Iran can certainly live with and um that it it's it's the most important one is in that very first paragraph.
 That that I think it with respect to Lebanon, that is the most important one in this entire agreement. That That's a game-changer. Um completely. Now, let me let me go pull up I did a compare and contrast based upon what was out uh on all all all fronts. So, um it is uh the So, one of the one of the previous differences was the United It wasn't clear the what the conditions were for entering negotiations.
@@ -155,7 +168,7 @@ So, right now the siege has been lifted. Iranian ships have been moving uh back 
 Uh the issue So, but all of these issues now uh will be linked to Iran's uh actions in the Strait of Hormuz. If the United States does not abide by its side of the con- bargain, Iranians will not be abiding by their side of the bargain. And this is going to make it difficult for Trump because I didn't see Trump's interview, but I saw I read about it, but I think he said that uh energy reserves are like weeks away from finishing or oil reserves are >> Yeah, said that.
 >> Oh. Is Yeah, it Did you see the interview? I I didn't see it personally. >> Yeah, he said exactly. >> What did he
 
-### Segment 8 — Say Exactly He Said That
+### Segment 9 — Iran Hormuz Energy Markets
 
 say exactly? >> He said that yeah, I the same sentence that you used that you are weeks away from, you know, you know, the energy market is somehow on the verge of some sort of collapse and you're weeks away from huge sort of problems.
 And >> So, he knows that if he does not carry out his commitments, that uh those energy markets are very vulnerable. And uh it the uh the movement of ships through the Strait of Hormuz in the coming weeks are not going to be very fast because uh it's going to take time because of the problems that insurance companies face, the the problem that the uh that um with regards to the security of the Strait of Hormuz.
@@ -169,7 +182,7 @@ And so the Iranian government >> Can I ask you [clears throat] a question? Uh Ir
 so on and so forth, etc. it says. So, this is somehow this is in this point they're addressing the issue that you've just raised with the case of the insurances and the transportation. >> That's right. The it's going to make Iranian oil easier to sell. It's going to make it easier for ships to move back and forth.
  And Trump actually needs this too because he wants to keep the price of oil low. So, as Larry alluded to this point Iranian because of the issue of of of insurance alongside of the problems, many of these ships are not going to be too eager to swiftly move through the Strait of Hormuz.
 
-### Segment 9 — But In The Case Of
+### Closing — Iran Hormuz Europe
 
 But in the case of Iranian ships, they they're already traveling through.
  As I said, because um the the other ships still don't have the time for those ships to pass through has not yet arrived, but Iranian ships don't have the problems of insurance that those that those other ships have. Iranians during these years have been moving back and forth without being able to or without having to get insurance from major insurance international insurance companies.

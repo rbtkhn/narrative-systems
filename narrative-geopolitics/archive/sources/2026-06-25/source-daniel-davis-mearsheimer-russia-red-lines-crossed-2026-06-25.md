@@ -1,5 +1,6 @@
 ---
 
+
 ingest_date: '2026-06-25'
 pub_date: '2026-06-25'
 kind: cleaned-transcript
@@ -33,8 +34,7 @@ quality_note: "ASR normalization pass 2026-06-26; ph-civ replacement SSOT."
 transcript_wrapper_tier: clean
 davis_close_promo_trim_applied: true
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (mearsheimer, davis, channel:daniel-davis)); 4 substitutions; Merritt→Merz manual 2026-06-26; not human-verified verbatim; verify before quotation. Prior provenance: Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (16 sections). · Show Open merged into Rubio/Vance open. · East Asia split at South China Sea / multipolar→Taiwan seam. · Putin merged into Peskov; split at Gary/media pivot (785+603w; max 827w)."
-transcript_curation: curated_sectioned
+editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (mearsheimer, davis, channel:daniel-davis)); 4 substitutions; Merritt→Merz manual 2026-06-26; not human-verified verbatim; verify before quotation. Prior provenance: Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved. · Show Open merged into Rubio/Vance open. · East Asia split at South China Sea / multipolar→Taiwan seam. · Putin merged into Peskov; split at Gary/media pivot (785+603w; max 827w). · source-section pass 2026-07-09 (17 sections)."
 verify_receipt: 2026-06-28
 verify_matrix_ref: statecraft/notes/wire/2026-06-25-news-verify-matrix.md
 verify:
@@ -51,10 +51,13 @@ opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
 opening_trim_words_saved: 0
-closing_trim_applied: true
-closing_trim_rule: "daniel-davis-closing-v1"
-closing_trim_chars_saved: 126
-closing_trim_words_saved: 27
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 17
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # John Mearsheimer: Russia's Red Lines Have Been Crossed
 
@@ -66,7 +69,7 @@ closing_trim_words_saved: 27
 
 ## Transcript
 
-### Show Open — Rubio Side and Vance 2028 Game
+### Show Open — Russia Ukraine Iran
 
 While most attention in the United States is focused on what is going on in the Persian Gulf for obvious reasons, it has a great deal to do with our economy and our national security. Are we going to get this war over with? Is it going to go back under hot war? Those are all things that we talk about a lot on this channel for obvious reasons, but we want to make sure you're aware there are other things going on, not just incidental, but things that are very important.
  And that is the potential for the escalation of the war in Russia-Ukraine, which could all too easily go nuclear, which we need to pay attention to. And there's also things in East Asia which are not on hardly anybody's radar, but should be because according to our guest today, that may be more important than all of these other issues.
@@ -81,8 +84,6 @@ Rubio is campaigning for the presidency in 2028 and he understands that inside t
  Vance has been much more of a restrainer when it comes to Ukraine than Rubio. And by the way, you see the difference between the two of them with regard to the Iran war as well. Uh Vance is in the position where he's trying to shut the war down and work out a deal with the Iranians and Rubio is running around making it clear that there are fundamental differences between the administration's views and and Iran's views, especially regarding toll booths or a toll booth in the Strait of Hormuz and that that may be a reason that we cannot reach a final
 settlement. So, you just want to keep in mind the game that Rubio is playing here. Uh with regard to what's going on, uh in the West,
 
-### Tide Turned Narrative — Diplomatic Pain Not Defeat Russia
-
 we have this new narrative uh that the tide has turned uh in the favor of Ukraine. That the Russians are doing poorly on the battlefield and furthermore, this drone campaign against targets deep inside of Russia are having a significant economic and political effect on Russia.
 And the belief is that given this new found success, what we have to do is we have to put great pressure on Russia to come to the bargaining table, to come to the negotiating table and work out a deal to settle the war. So you don't hear Rubio or others in the administration saying that we have to defeat Russia.
  This is not the same approach that we took early in the war when we were talking about actually knocking the Russians out of the ranks of the great powers. You don't see that rhetoric anymore. The argument that Rubio is making is that we have to settle this war. It can't be settled on the battlefield. It has to be settled diplomatically.
@@ -90,7 +91,7 @@ But the only way you can get the Russians to reach some sort of diplomatic barga
  And the question you have to ask yourself is whether you think the tide has really turned that the Russians are losing this war and that the Russians are just going to sit there and allow Ukraine and the West operating together to inflict significant punishment on Russia. >> And so the question's going to be is that going to succeed? Because if it if that doesn't succeed, then all that does is leave you with this never ending war, which we allegedly President Trump allegedly says he he it's he was against, although I guess his words really carry no weight
 anymore. How do you see that? >> Well,
 
-### Battlefield vs Mother Russia — Donbas Win by Fall
+### Segment 2 — Russia Ukraine Nuclear Weapons
 
 let's distinguish, Danny, between what's happening on the battlefield and what's happening in terms of this bombing campaign against Mother Russia. I think with regard to what's happening on the battlefield, the Russians are actually winning. Everything I read tells me that they're on the move and they're well on their way to taking control of all of the Donbas and this should be accomplished by the end of the summer, if not the early fall.
  I see no evidence that the Ukrainians are reversing the situation on the ground. So, I don't know what people are talking about there and if you read all the articles that are written on this subject carefully, there's no evidence in those articles that the Ukrainians have turned the tide. So, this brings us to the whole question of the uh uh campaign of the bombing campaign deep into Russia with mainly drones, but also some missiles.
@@ -99,7 +100,7 @@ let's distinguish, Danny, between what's happening on the battlefield and what's
  It will get them to throw up their hands. I don't think that's going to happen. Uh first of all, you want to talk about what uh Putin's reaction is to all of this. It's quite clear from recent comments that he's made that he believes that the West is at war with Russia. He thinks that the West is out to defeat Russia. And he, of course, is not going to allow that to happen.
  So, the question that is then raised is what does what does Putin do? And I believe that there is lots of evidence that the Russians are preparing themselves to strike military targets in Europe with conventional weapons. And if that doesn't work, they will use nuclear weapons. Now, Putin, of course, has not said this, but
 
-### Karaganov Logic — Europe Strikes and Nuclear Ladder
+### Segment 3 — Russia Ukraine Europe
 
 Sergey Karaganov has famously made this argument in the West.
 And if you read the Russian media carefully, there all sorts of people inside of Russia who agree with Karaganov that it's time for the Russians to take off the gloves. Look, the perspective from Moscow goes, uh it's the West plus Ukraine that is responsible for these attacks on the Russian homeland. It's not just Ukraine.
@@ -111,7 +112,7 @@ Ukraine could not do this by itself. It's the West, and that includes President 
  They will not do anything like attack targets in Europe. And Karaganov's argument, which I believe increasing numbers of Russians believe is that what Russia has to do is it has to make it clear that there are red lines. It has to establish a deterrent. It has to put an end to these attacks on Mother Russia. And there's only one way to do that, and that's to attack targets in Europe.
 First with conventional weapons, and if that doesn't work, then turn to nuclear weapons. >> Yeah, you know, that's it's it's it's
 
-### Article 5 Blind Spot — Russian Hawks Deny Red Lines
+### Segment 4 — Russia Europe Believe
 
 hard to believe we're even having this conversation today. Now, I can assure you I can I can confirm exactly what you said from both the US and the Russian side.
  There are those in There are those Most everybody in America and in Europe, and we're going to see some evidence of this in a second, do not believe that Russia has any red lines and that they would ever cross that line. They believe that the Article 5 piece of paper that says attack on one is attack on all is is like a get out of jail free card and that Russia would therefore never attempt to do that.
@@ -119,7 +120,7 @@ hard to believe we're even having this conversation today. Now, I can assure you
 " But now then they say, "It's better late than ever, but we quote have to take this action." Now, obviously that's not Vladimir Putin. He did not return to my calls, so I don't know what he's thinking, I'll just point out. But I know that a lot more on the Russian side are thinking that. So, now then the question is going to be what are we going to do about it? I've talked to you a little bit about the US side here.
 Now, let's go to the European side, and it's going to get a little bit uglier. Here's one that's more embarrassing than it is ugly, but it also is that. This is
 
-### Rutte White House — Trump Trillion and Ukraine Hardball
+### Segment 5 — Trump Ukraine Iran
 
 Mark Rutte in the White House just lathering up on President Trump and playing up to all of his arrogance and all of his love for praise. >> The Trump trillion shows you the increase Europeans and Canadians are paying into defense since you took office in 2017.
  Trump 45 plus Trump 47, a total of extra spent by the Europeans and the Canadians of 1.2 trillion. When you look at the effect of Trump 47, so the isolated effect of the extra defense spending in 2025 and in 2026, you see almost 114 billion dollars extra spent nominal on defense by the Europeans and the Canadians. And also this year you will again see an increase by about 120 billion, which brings the total in 2 years of over 250 billion dollars.
@@ -129,7 +130,7 @@ But I think if you look at what's happening in Iran, President Trump is being fo
 In that situation, I think Trump has a deep-seated interest in being portrayed as a tough guy on Ukraine, so that he can compensate for the problems that he's facing because of the concessions he appears willing to make on Iran. So, I think that events in the Middle East are going to be of great importance for influencing how Trump thinks about dealing with Ukraine.
  And I think it's likely that Trump will play hardball with Russia on the Ukraine issue to compensate for his problems regarding Iran. >> Well, we'll we'll certainly see how that's going to go, but this that can't be good because it's just not I mean you you alluded to it there, but when you look at all of the ammunition weapons we spent with with Ukraine for 4 and 1/2 years, with with Israel for 2 and 1/2 years closing in on three now, and then what we've expended here, and then what we're selling to other people around the world, we're in a
 
-### Drone War Not Artillery — Ammunition Dearth Rebuttal
+### Segment 6 — Ukraine Russia Europe
 
 dearth of of ammunition weapons. So, maybe that's part of what they think about they're going to ramp up defense spending, but John, look, that that stuff would take years to to actually replace that. And we're not anywhere near. Why are we even dithering around the corner of potentially spending more or sending more of our ammunition? Forget about the money, it's the the actual ammunition is what matters.
  And if we keep sending it to Ukraine, that's going to dwindle our resources even more. Are you worried about that? >> No, I I think you're missing the key issue here, Danny. The key issue is the drone war against Russia. And all we have to do, and this is reasonably easy to do working with the Europeans, is help Ukraine build up an even bigger inventory of drones and even more deadly inventory of drones, and then help provide them with the intelligence to employ those drones against targets deep inside of Mother Russia. And that we can
@@ -137,7 +138,7 @@ do. I think your points are applicable to what's happening on the battlefield. I
 And this is why the Russians understand that when the West and Ukraine promise that things are bad now, but they're going to get much worse with the passage of time, uh this is true. The West and Ukraine working together can make this drone war much more effective, much more deadly, and that is a huge problem for the Russians who believe, quite correctly, that there are no red lines here.
 I don't think Trump, any more than the Europeans, believe that the Russians will kick back if we continue to escalate our assistance to Ukraine in its waging of the drone war. >> Okay, well, so you know, as it turns out, uh there's a couple of voices from Europe, and I think it was today, maybe it was yesterday when the video was actually made, uh
 
-### von der Leyen Drones — Europe Declared War Frame
+### Segment 7 — Ukraine Russia Europe
 
 Ursula von der Leyen seems to be uh completely backing up your contentions on this support for drones.
 >> Ukraine's defense industry with Europe's support is showing that it can out-innovate Russia's. Ukraine now produces drones at a scale that matches and even exceeds Russian production capacity. And the determination of the Ukrainian people has shown to the world that their European choice cannot be broken. And now it is our task to turn that choice into a reality.
@@ -148,7 +149,7 @@ the line of contact. This is about as far as they'll go, but it sounds to me lik
 So, if you're in Putin's shoes, Danny, what do you do? What do you do? You're in his shoes. >> We're we're going to hear from his mouth here just a second. But one final piece here to to really reinforce this a little bit more. Uh we know of course that uh months ago uh Germans sent an an armor brigade into the Baltics as a forward deployed uh branch of NATO.
  They talked about how they're going to have the biggest land army in Europe. So, they're trying to build up to that. And then we have the
 
-### Merz Prevail Clip — Magic Formula Technology Leverage
+### Segment 8 — Russia Ukraine Europe
 
 Chancellor Merz at that same conference added this. >> Dear friends and colleagues, in these days we are seeing a new dynamic. The G7 summit the European Council last week and the E5 meeting in Berlin yesterday have sent strong signals of European and transatlantic unity and support for Ukraine.
 Ukraine and its brave people will prevail as a strong and sovereign nation and as a future member of the European family. >> They will prevail. All the stuff that Ursula said, all the stuff that you're Germany's doing. I mean, I got to go back to what do you think what you just asked about what is Russia going to think? But let me ask you that specific question on Germany.
@@ -161,7 +162,7 @@ How much of this is rhetoric because you're also looking at how Russia's observi
 >> And you know there but I you what is even in the mind of the West? I'm going to ask this is kind of a two-part question. And first of all, why do you think why do they think that uh using technology and drones and stuff is going to cause Russia to capitulate when it hasn't worked on Ukraine because they have been subject to tremendous amounts of long-range drones and the the FPV drones and the fiber optic drones you name it uh and that hasn't caused them to capitulate which is just a massive massive years-long
 operation.
 
-### Delusional Escalation — Suicidal Article 5 Bet
+### Segment 9 — Russia Ukraine Europe
 
 Why do we think that a few more drones from the West is going to cause the much bigger Russia to capitulate? >> I make the same argument all the time. I mean the historical record even beyond the Russian campaign against Ukraine supports your point. There's no question about it. The idea that drone attacks are going to bring the Russians to their knees.
 Furthermore, as you and I have emphasized from the beginning of this war, from Russia's point of view, what's going on in Ukraine is of an existential nature. Right? This is an existential threat. And when the Europeans and the Americans basically um ally themselves fully with Ukraine and make it look like they're going to integrate Ukraine into the Western security architecture, this if anything just increases uh Russian fear.
@@ -175,11 +176,13 @@ Where the West and Ukraine win um is in the uh attacks on Mother Russia. And the
 in alliance to with impunity just keep hitting American factories and whatever else and nothing's going to happen because to me that is just almost shoving Vladimir Putin into where if if especially if what Ursula von der Leyen said and and that they're actually going to do all this technology stuff to help more those factories have been named by the way by name by the Russians as targets and it seems to me that we're just shoving Russia into a position to make them strike on these targets and here in fact is [clears throat] what I said a
 minute ago that
 
-### Peskov Nuclear Ace — Putin Clip and Red Line Fog
+### Segment 10 — European Union Russia Europe
 
 we would let Vladimir Putin speak for himself. Here's what he recently had to say. >> The potential for conflict has risen significantly in a number of regions around the world including in Eurasia. We see that if earlier NATO countries limited themselves to supporting the Kiev regime which came to power through illegal armed means and a coup d'état they are now openly saying in the West that they are preparing for war with us and are increasing their defense budgets.
 To justify this spending and the radical militarization of their states NATO and European Union leaders continue as before to resort to false claims about an alleged military threat from Russia. >> So what I mean maybe you've already answered this question but how much further do you think that Putin is going to allow these kinds of strikes to keep it in his country at the biggest cities Moscow, St.
  Petersburg, Voronezh which apparently was an actual British Storm Shadow missile so they've gone back to that. How much longer will he go before he actually does something like what you've described? >> Let me make a couple points here. Let me just start by saying
+
+### Segment 11 — Russia Nuclear Weapons Nuclear Weapon
 
 Dmitri Peskov just said recently there was a big story in RT today about this, but Peskov said, and Peskov uh for viewers who are not familiar with his name, he he's uh Putin's principal spokesman.
 But, Peskov said that Russia's only ace in the hole at this point in time is its nuclear deterrent. Uh and I thought it was very interesting that Peskov was talking about the importance of Russia's nuclear deterrent. Cuz I think in a very important way, he's basically saying that it's And And this, of course, gets at the Karaganov argument.
@@ -191,7 +194,7 @@ However, if all of a sudden the [clears throat] Russians started winning big tim
  But the point is we don't know where Putin's red line is. It's quite clear from what Peskov said and from the clip that you played with Putin speaking that they are drawing a red line. That they are making it clear that enough is enough. But where exactly the red line is is hard to say.
  But it seems to me, just to repeat myself, we don't think there's a red line. We think we just push the Russians around. >>
 
-### Media Tide-Turned Blind Spot — Karaganov Majority
+### Segment 12 — Russia Nuclear Weapons Nuclear Weapon
 
 And Gary, I'm sorry, Gary, can I get you to scroll up a little bit on that on that so I can see a little bit more of what's written under there there? Uh because that the the phrasing you use here to me is really important.
  Nuclear deterrents only force preventing global war. That to my interpretation, my ears, seems like it's kind of something that Karaganov has said that that is a way to prevent a war, not that it cuz we've always think of that that's like the last resort. That's like once once we've got a big war then it's going to go into nuclear and then everybody's, you know, MAD and all that.
@@ -202,7 +205,7 @@ Right? It's not that it gets a little bit of attention, it gets any attention, o
  You heard Marco Rubio in the clip that you played before. This is what you hear endlessly in the mainstream media. The New York Times and the Wall Street Journal are filled with articles about how the tide has turned. And and how we have this magic weapon now. Everybody is trumpeting uh the powerful and devastating effects of these drone attacks on Mother Russia uh and emphasizing that this is a good thing and this is working to Ukraine's advantage.
  It's working to the West's advantage. That's what you hear about. >> Yeah. >> And I think this, if anything, just encourages the Ukrainians and Western leaders to go out and ramp up the attacks on Mother Russia. And what you and I are saying is this is playing with fire, but not a lot of people seem to agree with us. >> Yeah, that's definitely what they're doing and we're going to have to wait and see what's going to happen with that.
 
-### East Asia Pivot — China Competition and Three Theaters
+### Segment 13 — Ukraine Iran Middle East
 
 But listen, I want to shift gears real quick to the remainder of the time we have because I do not want to let you go without talking about what you consider a bigger concern, which is really saying something based on all the foregoing here, and that is on the East Asia and especially with the China because you say that China is our is our biggest pacing threat, which is what the Pentagon has called it anyway.
 But you have renewed and maybe even elevated concerns over there. Can you bring us up to date on why that is? >> Well, I've always believed that you were going to have a serious or intense security competition in East Asia between the United States and China. The United States is the most powerful state on the planet and China is a close second.
@@ -213,18 +216,20 @@ And China is interested in dominating East Asia the way we dominate the Western 
 And they have recently run some Coast Guard and naval operations around Taiwan that give evidence that they're thinking about moving in ways to eventually strangle Taiwan economically by maybe cutting off the flow of all goods into Taiwan. Remember, Taiwan is an island. Almost all of what comes into Taiwan comes in overseas.
 And if you have a strong Chinese navy and a strong Chinese Coast Guard uh maybe you can blockade Taiwan. And the Chinese are showing all sorts of interest in that possible strategy.
 
-### East Asia Maritime — Taiwan Blockade and South China Sea
+### Segment 14 — Ukraine Iran South
 
 Furthermore, in the South China Sea they have slowly but steadily been building up their influence. They are scaring the Filipinos.
  They are scaring the Indonesians. Because again, you want to understand that today the South China Sea is an international body of water, right? And this is the way the United States wants to keep it. But the Chinese don't view it as an international body of water. With their famous nine-dash line they have basically said that the South China Sea is really a giant Chinese body of water.
  We control the South China Sea. So the potential for conflict there, the potential for conflict between countries like China and Philip and the Philippines not to be underestimated. And of course there's all sorts of trouble these days between China and Japan over the comments of the Japanese Prime Minister regarding Taiwan.
  So this is a very dangerous situation and it's only going to get worse with time. I'd be willing to bet a lot of money, Danny, if uh the two of us are sitting here 2 years from now talking about the issues of the day, uh that East Asia is above Ukraine and uh Iran in terms of importance. So, one does not want to underestimate the dangers that exist in East Asia, just as one doesn't want to underestimate the dangers that exist in uh in Ukraine.
 
+### Segment 15 — Nuclear Weapons Nuclear Weapon Middle East
+
 And by the way, we could go to the Middle East and talk about, you know, what that looks like over time, and we could tell a story about how nuclear weapons are used there, mainly by the Israelis against the Iranians. I'm not saying that's going to happen, but that's a serious possibility that we have to take into account. So, the danger that we face around the world today is truly remarkable when you consider where we were during the unipolar moment and even during the Cold War.
  This multipolar world that we live in is uh a much more dangerous world than either the bipolar world of the Cold War and certainly much more dangerous than the unipolar world. >> So, let me ask you a question here. This is uh from uh the news from the uh I think it's the Independent, yeah, uh last week.
  It says, "
 
-### Taiwan Porcupine — Multipolar Frame and Weapons Ask
+### Segment 16 — Trump Ukraine Iran
 
 Taiwan presses Washington for billions in weapons, more billions, as China tensions grow, etc." What What is the reaction here? Now, number one, can you talk about the pros and cons of doing this because on the one hand, uh a lot of advocates here in Washington say, "Hey, you know what? Let's Let's do the porcupine theory.
 Let's just make uh it's so expensive for China to actually move on Taiwan that they wouldn't do it because it would be too prohibitive, etc. So, flood them with weapons and ammunition, etc. But then there's the other side that says, "Yeah, and the more you do that, the more you reinforce in China that they will have to take it militarily cuz otherwise it'll become a a American aircraft carrier, unsinkable carrier right off their shores or so.
@@ -237,7 +242,7 @@ Virtually every Chinese person I've met in my lifetime believes that Taiwan is s
  This, of course, and for understandable region reasons, enrages the Chinese. Trump fully understands that. But, the question is, what is Trump going to do? Give them back Taiwan when this would not be to our strategic advantage? I don't think so. So, I think that Trump will arm Taiwan. Then, the question you have to ask yourself is, what are the consequences of that? And as we were talking about a few minutes ago, the consequences of that will be to enrage the Chinese and make the possibility of conflict somewhat greater.
  Uh but you have to balance >> Let me ask you a question, John. I've only got a couple of minutes left here, and then I actually have to roll out to to another TV hit. Uh
 
-### Taiwan Write-Off Debate — Realist Close and Substack
+### Closing — Trump Middle East Ukraine
 
 what do you say about the the concept that says, "Hey, let's be clear. We are not going to go fight a war with China over Taiwan.
  Let's make sure the Taiwanese are clear on this so that they don't get too cocky and bold in their independence talk or whatever, and they know they have to get along with China. Because the argument being that China, while they do want Taiwan back, they also want it like as a functioning economy, like with with uh Hong Kong, etc.

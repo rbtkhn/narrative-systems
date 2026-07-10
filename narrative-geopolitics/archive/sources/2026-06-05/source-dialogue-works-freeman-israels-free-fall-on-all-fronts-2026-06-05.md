@@ -1,4 +1,6 @@
 ---
+
+
 ingest_date: 2026-06-05
 pub_date: 2026-06-05
 transcript_type: ai_assisted_operator_pasted_youtube_transcript
@@ -17,9 +19,19 @@ source_url: "https://www.youtube.com/watch?v=t9mWIKdlWU4"
 source_note: "Cleaned transcript pasted by operator. · ASR pass 2026-06-15."
 opening_tier: clean
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 24 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-26 (9 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 24 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-07-09 (9 sections)."
 quality_note: "ASR normalization pass 2026-06-15; ph-civ replacement SSOT."
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 9
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Amb. Chas Freeman: Israel's Free Fall on All Fronts
 
@@ -32,7 +44,7 @@ transcript_curation: curated_sectioned
 
 ## Cleaned Transcript
 
-### Show Open — Introduction
+### Show Open — Israel Iran Turkey
 
 Everybody, today's Friday, June 5th, 2026, and our dear friend, Ambassador Chess Freeman is here with us. Welcome back, Ambassador. >> Very glad to be with you, Nema. Happy Friday. >> Yeah, thank you. And I want to start, ambassador, with the new polls coming out and the public opinion toward Israel.
  and every is a freef fall for Israel looking at the polls what's going on on each and every front here for example here you see Canada the United States Sweden Spain you know the left side you know it's getting very unfavorable or have negative views of Israel you see the blue dark blue and light blue are representing somewhat unfavorable to Israel or very unfavorable to Israel you See it comes it goes from Canada, Sweden, Netherland, all Europe together then Pakistan, Malaysia, Indonesia in in Turkey is the worst case in Turkey just imagine on the right side you see
@@ -45,7 +57,7 @@ information about Iranian nuclear policy or Iranian nuclear bomb. I my understan
 out of these sort of speculations when it comes to this sort of this is a war. This is a real war, real impact. This death and destructions during the war was huge for Iranian people. They have never felt this way that they're feeling right now, >> right? >> It was something new. How how what is your understanding of Iran today? >> Well, I think um uh that's important to recognize that um uh for Iran this is an existential struggle.
  Uh the purpose of it is to eliminate the possibility of future attack by Israel with or without the United States. Uh and therefore um Iran is not interested in a ceasefire. it is interested in long-term peace in West Asia in which deterrence is restored. You know what we have is
 
-### Segment 2 — Not Really A Ceasefire Uh
+### Segment 2 — Iran Israel Netanyahu
 
 not really a ceasefire. Uh it's it's an agreed um uh diminution in the tra in the in the lowering of the level of um of the combat.
  But there's still combat going on. And you can easily see if you look at the Iranian response to American uh violations of the truce uh if you will that um these are escalating. So u there's a principle of international law which has been very important. It has been trashed by Israel and that is that responses to attacks should be proportionate.
@@ -61,7 +73,7 @@ That's logical. What other deterrent does Iran have? Iran looks at the example o
  I don't think there's an active negotiation. Iran has denied that there is. Uh but um the um if there is some kind of understanding reached in these talks, direct or indirect, we've seen again and again that the emissaries report back to Donald Trump. He then alters what was agreed unilaterally and then he calls Netanyahu and asks for Netanyahu's approval and Netanyahu routinely inserts poison pill proposals.
 So um you have a series have an you have a negotiating process that is incoated not wellestablished not professional um and that's true even with the Pakistanis
 
-### Segment 3 — And Qatar's Passing Messages That's
+### Segment 3 — Israel Ceasefire Trump
 
 and Qatar's passing messages that's not really a negotiating process uh and this is all at referendum first to Trump then to the prime minister of in of Israel and both Trump and uh Netanyahu have to contend with domestic politics.
  In Trump's case, he's caught between uh the Epstein files, which probably have information in them that would be extremely damaging to his status as president. Uh and uh his wealthy Zionist donors who insist on this who support that the idea that the war should continue. uh and he's also caught in he's also affected by his own military's judgment and statements that he doesn't have a military option uh that he's basically in uh the sukfong as I've said before the chess situation in which any move you make uh leads to a deterioration in your position and your
@@ -76,7 +88,7 @@ ultimate defeat uh so those are pressures on him but Netanyahu has pressure with
  People are talking about $200 a barrel for oil at that time. Uh so u Donald Trump also faces that pressure at home. U but uh he doesn't seem to care very much about that and uh doesn't seem to care at all about what the damage that is being done to less developed countries all over the globe uh from higher energy prices.
 Farmers can't find fuel for their their tractors. They can't plow. they have no fertilizer uh to insert in the soil. Uh and um the prospect therefore is for a real food crisis um later on this year. And and even if the war were somehow ended now, there are forces in motion which guarantee that these crisis will
 
-### Segment 4 — Cannot Be Avoided It's Too
+### Segment 4 — Israel Iran Lebanon
 
 cannot be avoided. It's too late.
  So I think this is a very dire uh situation. Uh and u I I expect in due course we will find out to answer your original question whether Iran does in fact have the nuclear device uh that uh Pepscobar and Larry Johnson have reported. They understand it to have built. >> Yeah. When we look at the two fronts, one of them between Iran and the United States in the Persian Gulf and the other one between Israel and Lebanon, I see the situation in Lebanon much more complicated than what it is in the Persian Gulf because Israel militarily
@@ -91,7 +103,7 @@ This is one side. On the other hand, Iran set a new sort of position from Irania
 proven its uh its ability to withstand American attack even all out attack which is very much what happened in the first days of this war. So um that in the end we will see the straight of those under some sort of Iranian management maybe probably jointly with Oman despite Donald Trump's inmperate uh insults to Oman.
  Um I think he probably did more to advance Iranian Omani negotiations than anyone else could have possibly done. Uh, in the case of Lebanon, the outcome is
 
-### Segment 5 — Far Less Clear I Don't
+### Segment 5 — Iran Israel Trump
 
 far less clear. I don't think Israel can establish a permanent control over Lebanon. It's tried repeatedly to do that, and every time it has failed. Uh the real question is will Donald Trump um who claims that he wants the Israelis to stop what they're doing in Lebanon have the courage to pull the plug on them because they couldn't do any of the things they're doing without the constant flow
 of resupplied weapons uh and equipment from the United States. Um the you know when he says um I've I've told Netanyahu to stop and Netanyahu says I won't stop which he has explicitly said. Uh this is a challenge to Donald Trump. Uh you know and we so far he's behaving like a classic bully.
@@ -105,7 +117,7 @@ of resupplied weapons uh and equipment from the United States. Um the you know w
  Uh it would be very difficult for the Israelis, maybe impossible. But the alternative exactly as Kagan states is that the Iran will be the dominant force in the region. It will have made peace with the Gulf Arabs. There will be a new security architecture in the Persian Gulf and the Gulf of Oman, the Arabian Sea, uh which is dominated not by any external power, certainly not the United States, not China, not Russia, uh but is basically under the control of the regional countries themselves with Pakistan, Egypt, Saudi Arabia and Turkey at the
 core. that fourparty u uh quadrumbet is uh assuming ever greater importance. Uh you mentioned when you talked
 
-### Segment 6 — About Attitudes Toward Israel Israel's
+### Segment 6 — Israel Trump Lebanon
 
 about attitudes toward Israel, Israel's status as a pariah state that the Turks are the most anti-Israel. Um I'm not surprised by that. Um, Turks have been killed on in efforts to provide aid to uh the starving people of Gaza.
  Uh, Turks have been humiliated by the Israelis. Um, and Turkey, when all is said and done, is a an overwhelmingly Muslim country, and it watches what Israel is doing to Al Axa, the mosque at top the Temple Mount um, uh, in Jerusalem with with great uh, apprehension. uh and in fact I think one of the reasons that we haven't you know as as as poor as Israel's reputation is uh it has further to descend if Israel keeps doing what it's doing to against Christians and Muslims uh then I think it will lose even further respect by the and and and all
@@ -120,7 +132,7 @@ And in fact he helped to broker this phony agreement between the impotent govern
  Uh and so um and he has expended uh all trust in him in uh internationally and by the public. I mean at this point he has proclaimed victory. There's a deal in the making how many times? Dozens of times. and each time it has turned out to be false and a deception. So he's got he's made it very difficult for himself to claim any kind of success.
  Um I agree with you. You know um that would not solve the regional war issue. It would not stop the Iranian ability to hold Israel hostage to uh its behavior in Lebanon. But uh it certainly would gratify the Japanese, the Koreans, the Europeans, the Indians, uh the Pakistanis, everybody. Uh the Filipinos who are in terrible
 
-### Segment 7 — Trouble Uh With Their Uh
+### Segment 7 — Israel Palestine Middle East
 
 trouble uh with their uh oil completely running out.
  Um uh so uh you know the the the knock-on effects of this war have been global. They're not limited to the region although the most relevant effects are in the region. >> I remember you once mentioned that maybe Senate or Congress can help him in that. Is that happening? >> Uh no, not really. I mean uh a few Republicans have defected.
@@ -136,7 +148,7 @@ There are now papers emerging from Israeli archives that show the huge number of
 Uh so Israel Israel's reputation with which you started uh this show um uh has not hit bottom yet. Uh we're watching its destruction in not such slow motion. >> One part of the argument that Robert Kagan was making was how the war is changing the face of the Middle East and West Asia. basically talking about the Arab states and do you think we have we know how dependent they are during the war even during the war we had UAE running out of cash you remember that they have announced that they're running out of
 cash that shows how dependent they are on the on on on the United States and we have right now the two sides the Iranian formos on one side and the United States on the other side trying to help
 
-### Segment 8 — Israel Israeli Position How Do
+### Segment 8 — Israel Iran Turkey
 
 Israel Israeli position. How do you find the calculation in the mind of these you know elites in GCC countries? >> Well, let me make a number of comments.
 Um first uh the political tradition of these u emirates kingdoms um federations uh is tribal um and their model is they are not bedin they are urban people uh much more sophisticated than uh Arabs in other or the Arabized populations elsewhere the so-called mutaharab the people who became Arab who were not originally Arab uh as a result of the spread of the of Arab power, the Umayad dynasty and other forces.
@@ -151,7 +163,7 @@ Asian country of Afghanistan. uh relations with Israel, relations with Syria, re
 >> Um, I don't think the United States has the ability to sustain the blockade and the confrontation with Iran through the midterm elections. I think uh the ability to do this is going to run out quite a bit before that. As for Ukraine, I fear we're about to see a major Russian escalation in response to an escalation by the West.
  This is the pattern there. The West escalates, the Russians counter escalate. Uh the latest issue
 
-### Segment 9 — Is The Use Of Bul
+### Closing — Russia Trump Ukraine
 
 is the use of bul Baltic airspace by Ukrainian drones in the attack on St. Petersburg uh and on other attacks on Russia. Um this is a bit murky, but there's a lot a growing amount of evidence that NATO has facilitated these Ukrainian attacks through NATO territory and Russia is bound to retaliate.
  And I am hearing Vladimir Putin threaten that. Finally, there's only what about 15% of the Donetsk oblast which is not under Russian control. Uh I think we're going to see a push there. Ukraine has actually uh managed to hold uh its frontiers with Russia far better than anyone would have predicted. Uh Ukrainians are obviously very brave.

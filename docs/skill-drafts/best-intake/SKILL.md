@@ -1,6 +1,6 @@
 ---
 name: best-intake
-description: "Narrative Geopolitics source landing skill. Use when the operator has a transcript, newsletter, essay, report, or post ready to land into archive-first intake with honest provisional routing and deterministic wrapper trim where approved."
+description: "Narrative Geopolitics source landing skill. Use when the operator has a transcript, newsletter, essay, report, or post ready to land into archive-first intake with honest provisional routing, deterministic wrapper trim where approved, and conservative transcript sectioning when confidence is high."
 preferred_activation: best-intake
 activation: best-intake
 portable: false
@@ -65,6 +65,15 @@ Current approved hosts:
 - `alexander-mercouris`
 - `dialogue-works`
 
+Current approved auto-section hosts:
+
+- `dialogue-works`
+- `glenn-diesen`
+- `daniel-davis`
+- `judging-freedom`
+- `alexander-mercouris`
+- `mario-nawfal`
+
 If the cut depends on judgment, do not automate it during intake.
 
 ## Workflow
@@ -73,9 +82,10 @@ If the cut depends on judgment, do not automate it during intake.
 2. Land the source under `archive/sources/YYYY-MM-DD/source-*.md`.
 3. Preserve the pasted body with minimal rewriting.
 4. Apply only approved deterministic trim when the host rule matches.
-5. Append or normalize the manifest row.
-6. Mark uncertainty honestly instead of stalling on enrichment.
-7. Stop once the day batch is archive-grounded.
+5. Apply conservative semantic sectioning only when the host is approved and the transcript has strong cues.
+6. Append or normalize the manifest row.
+7. Mark uncertainty honestly instead of stalling on enrichment.
+8. Stop once the day batch is archive-grounded.
 
 ## Handoff
 
@@ -97,4 +107,3 @@ Short rule:
 - `narrative-geopolitics/templates/intake-metadata.md`
 - `scripts/land_best_intake.py`
 - `scripts/report_trim_stats.py`
-

@@ -1,5 +1,6 @@
 ---
 
+
 ingest_date: 2026-06-13
 pub_date: 2026-06-13
 kind: cleaned-transcript
@@ -25,10 +26,9 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: paste-asr
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 7 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Abbas Iraqi/Araghchi, Sharif/Sharifi, Marandi/Marandi, Strait of Hormuz/Hormuz, Yas/Yaz, etc.). Subscribe promo retained at tail per paste. Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (8 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 7 substitutions; not human-verified verbatim; verify before quotation. Prior provenance: Operator-pasted transcript body; not independently verified as verbatim. ASR artifacts retained (Abbas Iraqi/Araghchi, Sharif/Sharifi, Marandi/Marandi, Strait of Hormuz/Hormuz, Yas/Yaz, etc.). Subscribe promo retained at tail per paste. Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-07-09 (8 sections)."
 quality_note: ASR normalization pass 2026-06-15; ph-civ replacement SSOT.
 davis_close_promo_trim_applied: true
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -37,6 +37,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 8
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # IRAN WAR DEAL - I'm SKEPTICAL / Lt Col Daniel Davis
@@ -50,7 +53,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Trump Iran Netanyahu
 
 we could be 24 hours away from signing a deal to bring the US and Iran war to an end. Or at least that's what's being claimed here. Uh there's a couple of interesting headlines out this morning. Uh first of all, Pakistani prime minister says that the US Iran peace deal could be signed in within 24 hours. And then we have an interesting comment here which you're going to see how this plays directly into this government reported to restrain IDF action.
  is the Israeli government uh on Israeli press reported to restrain IDF action in Lebanon to avoid derailing the US Iran talks. There's been a lot of conversation here of late about who's running the show here. We talk about this all the time. Is it President Trump? Is it Netanyahu? Um and what we've seen is kind of a back and forth.
@@ -60,7 +63,7 @@ There are some days when President Trump does take the ascendy and then other da
 Here's the thing though there while those people and those are major people that's not just somebody talking about it that is the players talking about it saying yes you have a mediator you have a senior official for Iran and you have President Trump all saying nearly the same thing that we are about done here a deal is at hand and so you would be understandably tempted to say well this time apparently it is going to happen but there are some things going on simultaneous genius with this which still makes you think there's no way in
 hell this is going to be working out the way that people are saying and and just a couple of reasons why I'm going to show you that while you do have the same comments from these players here all about trying to get to a deal the big question is what deal which deal are you talking about because it appears from what's being said publicly at least that the in conception of what Iran thinks the deal is going to be and the conception of what Trump thinks the deal are
 
-### Segment 2 — Going To Be Are Still
+### Segment 2 — Iran Lebanon Trump
 
 going to be are still on different planets. They're not even in the same
 screen, which is where we've been all along. So, one has to wonder why do people keep saying that we're close at hand. And look, behind the scenes, there are negotiations going on. I have uh I have some sources that are connected to the negotiating team in Iran and I have sources connected to the negotiating team in the United States and they say both of them say that pretty close to the same deal is being signed behind the scenes.
@@ -72,7 +75,7 @@ screen, which is where we've been all along. So, one has to wonder why do people
  An end to the war is declared on all fronts including Lebanon. I have said this many times. We have never forgotten Lebanon in this war because Lebanon and Hezbollah in any case fought alongside the people of Iran in this war and we will never abandon them. >> That is a major deal. Look, you're going to have to completely end the war in Lebanon on all fronts.
  And separately, other Iranian leaders have said, and that means all
 
-### Segment 3 — Fronts Not Just Lebanon But
+### Segment 3 — Ceasefire Lebanon Israel
 
 fronts, not just Lebanon, but that means Hamas, that means Gaza Strip, that means the West Bank, that means all of the fronts. Israel has to stop all these wars. And I'll I'll hearken back to this headline here. Uh there has been some government reported to restrain IDF actions in order to not derail the talks.
  But then if you can read that fine print of the the sub headline there, prime minister's office denies K news reports that that there is a deal and Israel strikes in southern Lebanon continue as Hezbollah drones uh drones target Israeli troops although without injury. So even as we're talking right now, there is still action going on in Lebanon.
@@ -84,7 +87,7 @@ Basically, to come to an agreement on all other issues to make the actual war ov
  Based on this, our assets will also be released and none of our assets can stay blocked. >> Just like he's saying that it's a non-negotiable on the Lebanese Lebanese issue with Hezbollah. It's also an issue that they're blocked funds and as we'll see separately uh a release of the sanctions on their energy infrastructure.
  those things have to be done up front and he said they cannot be blocked. If those things are blocked then there's no deal. He said all points of the initial agreement the the letter of intent has to be agreed to so that we can get to the more difficult stuff in phase two confidence building measures. The
 
-### Segment 4 — Process Is Is Not Uncommon
+### Segment 4 — Iran Trump Israel
 
 process is is not uncommon at all.
 That's the way many agreements are done. It's actually logical and reasonable that you have to agree on these things first. you get the things to agree to that you can both come to some agreements with at the initial phase so that you can get to the harder stuff, which is why they want to have this 60-day period, which of course it says both sides can agree to extend if it gets there.
@@ -96,7 +99,7 @@ That will never happen. the dismantling of enrichment infrastructure. Iran is ca
  So again, you take you see that the public statements made by so many of these participants in the war as Israel obviously is are are just on I mean if Iran's over here, Trump's over here, Netanyahu's off you can't there's they're so far apart you can't even get them in on the screen where I'm showing you how far apart they are and you see what they continue to say over and over and you just got to wonder how can how can these things be reconciled in the next 24 hours because again everybody body has to publicly be in agreement with it or there's no deal. Now, earlier
 today, Professor uh say Muhammad Marandi, who we've had on the show a number of times, who was part of Iran's last negotiating team
 
-### Segment 5 — That Went To To Uh
+### Segment 5 — Iran Lebanon Hormuz
 
 that went to to uh Pakistan to try and work the first time that there was a a an attempt to reach a deal. He went on with our friend uh Nema Alcheid from Dialogue Works this morning and he just said, "Listen, there are a few just categorical musthaves and won't includes.
 " >> The Iranians have said very clearly there will be no deal if the regime does not withdraw. It doesn't go back to where it was 3 months ago for this period. At the end of the day, it has to leave Lebanon uh completely, but it has to go before this war began. And that's I think five points where they occupied They have to withdraw completely and they will no longer be allowed to bomb Lebanon.
@@ -107,7 +110,7 @@ it doesn't show just how big it is because if you're just looking at this right 
  Somebody has published here recently a more detailed actual representation of the scale of the Yaz facility. Uh, and this is it right here. And you see these are the mountains near Yaz. I'm going to show you on Google Earth the 3D version here in a second, but this is closer to scale. And you can see that there's the mountains on there.
 This is a cross-section of the the Grand Land. And you can see and this is something that Professor Posal talked on our show and explained a little bit a year or so ago. And this is the graphic representation where you see all of these changes in the uh geological rock uh over this the millennia you know thousands millions of years
 
-### Segment 6 — And How They Have Shifted
+### Segment 6 — Nuclear Weapons Nuclear Weapon Iran
 
 and how they have shifted etc.
  And so you cannot cannot get a missile to penetrate through all of that rock and then get to those facilities and you see how far underground they actually are uh under multiple layers of this shifting granite uh etc. So, uh, as as Professor U talked to us when he was on, uh, our show, he said like if you even if you had these big bunker busters, which have the greatest penetration capability, as they start getting through the different layers and it's whatever angle of entry you may want to have, it's not like there's a a air vent or something, you
@@ -119,7 +122,7 @@ come, you know, within any fraction of the percentage of territory it would need
  Therefore, if we go back to active war and we try to do in the next phase what we failed to do in the first phase is 40 some odd days, then you can see there's not going to be any success there either. Meanwhile, they have even even some of the exit uh doors and some of the uh launch tubes, etc.
  that were knocked out and and uh covered over. The the Iranians have gone back with engineering
 
-### Segment 7 — Because They Have Engineers Prepared
+### Segment 7 — Trump Netanyahu Iran
 
 because they have engineers prepared for this very thing because they expect it and they've been able to some of those things they got even dur during the 40 days. we'd knock them out and then a few days later, sometimes in some cases even with hours later, they had them cleared back off and they were still operational.
  So, they can they have proven categorically proven both during the 12-day war last year and then during this current conflict here that there's nothing that we can do to stop that. So, if we go back to fighting all these targets that they say they'll hit, they can because we can't stop them.
@@ -130,7 +133,7 @@ something that Trump said is going to actually uh rule the day and they're going
  That is not the path we're on now. And that path is is certainly going to be challenging. But the president will not make a bad deal in my mind. >> Yeah. You hope he doesn't. But listen, that's dude. Seriously, General F your fantasy. You're going to say we need to continue to fight and to to pound their capabilities and and put them on a path to economic ruin.
  Did you not see this chart on open source was somehow at the institute for the study award did none of your analysts know this? I mean obviously they do. So you should know this too. I for the life of me I cannot understand why somebody with four stars who was in the service for whatever was like 40 years or something
 
-### Segment 8 — Like That Had Lots Of
+### Segment 8 — Israel Iran Nuclear Weapons
 
 like that had lots of combat experience and has operated at the highest levels.
  How can he say stuff like this that is so self-evidently untrue? You're not going to penetrate a mountain with granite contortions under the surface like this hundreds of meters down. You're just not going to. And we've proven we can't. So why do you keep talking like that's what I think we should do and President Trump I think is wrong to go down this path.

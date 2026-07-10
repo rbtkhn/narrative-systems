@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 ingest_date: 2026-06-23
 pub_date: 2026-06-23
 kind: transcript
@@ -27,9 +33,19 @@ youtube_id: sS-hjYvck-M
 source_note: Operator source-intake 2026-06-23; operator-pasted YouTube transcript; pub_date operator batch. MOU/Hormuz TSS northern-lane vs US southern-lane; mined green route; Kepler vs Trump transit claims; SPR usable ~100M not 340M; Gulf refinery restart weeks-months; 14 weapons systems depleted 1.5yr restore; Tucker/MTG leave GOP; Conricus Israel cannot act alone; Channel 13 partial Lebanon withdrawal pilot; Albanese debanking pride clip; Bennett unilateral-strike rhetoric; Putin Istanbul peace statement; Ukraine/Crimea power rationing.
 evidence_grade: transcript-bearing
 opening_tier: host-monologue
-editorial_note: Operator-pasted transcript body; not independently verified as verbatim; ASR artifacts retained (Marjgerie/Marjorie, Conrius/Conricus, Hormos, etc.). · source-section pass 2026-06-25 (7 sections)."
+editorial_note: "Operator-pasted transcript body; not independently verified as verbatim; ASR artifacts retained (Marjgerie/Marjorie, Conrius/Conricus, Hormos, etc.).\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (7 sections)."
 transcript_wrapper_tier: clean
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 7
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # BREAKING: TUCKER & MTG ABANDON REPUBLICAN PARTY, TRUMP'S MAGA FALLING APART – w/ Brandon Weichert
@@ -42,7 +58,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — MAGA Fracture
+### Show Open — Iran Trump Jcpoa
 
 I have some consistency with the mugs. >> Well, the other one's in the wash, so I have my my green today. >> How are you? >> I'm very good. Green actually is my favorite color. Fun fact. Um, but I'm good. I'm good. How are you? >> Good. Good. The the team came up with a good topic for us to chat about and that's the the split within MAGA because of what Tucker and Marie and Taylor Green announced in the last 24 hours.
 But before doing that, we haven't spoken in a few days. Uh just give me your thoughts where you think the negotiations are going. There's been some progress. Obviously, it's never smooth. Um but it's never going to be smooth with this administration, but there's progress. Um there's talks about unfreezing some assets.
@@ -54,7 +70,7 @@ going to win that fight at the end of the day? It's going to be Iran cuz that's 
 Don't forget that thought, but the middle one is what the previous lanes were before the war. The Iranians are like, "Hey, use the northern lane." That's right. >> They mind the southern one as well. The Americans are like, "No, no, use the southern one. We'll protect you. We'll defend you.
 " and ship sisters, one of the ship guys said it, a cargo insurance broker said, >> quote, "It's all going to end in tears, >> right? That says," So, this is basically my conclusion as well because if they listen to the Trump
 
-### Hormuz Green Route — Blockade
+### Segment 2 — Iran Trump Route
 
 administration and they use that green route down there, that route has been mined. And the Iranians already said a few weeks ago, we can't track all of our minds.
  So, like the Iranians might not even mean to blow up a ship, but one of their mines that they forgot about might end up damaging a ship. So, this is this is going to end in tears. Um, that's the that's a problem in and of itself. That's going to of course slow the flow down of we need about 140 ships passing through there per day.
@@ -68,7 +84,7 @@ major economic problems even if the Iranians completely restored everything tomo
  And remember, that was the day that they started operations again for the first time in weeks or months. And so they this was to be expected, but we're lucky so far it hasn't been worse with sort of these knock-on effects that are because these refineries are extremely complex. They're just massive engines basically and you can't just turn this thing off like a switch and turn it back on again.
 You got to get the pressure right. You got to get the systems running right. And this is like a multi-layered thing. So, it's going to take the report that I I wrote last week because I talked to people in the oil industry at uh it was at the National Security Journal. Um the report that I wrote, the people that I spoke to said it will be quote
 
-### Oil Restart — Months Timeline
+### Segment 3 — Middle East Strategic Petroleum Reserve Ceasefire
 
 weeks, probably closer to months before any of those oil production and natural gas production facilities in uh the Gulf Arab states are fully restored to what they were before the war. and they can't
 get fully restored unless they can move the oil and natural gas out of the region the way they were before February 28th, which even now they're not yet doing. And so this is becoming very complicated problem because even if we do manage to get some kind of a lasting ceasefire, which again big question, but even if we do, it's going to take a long time to get those things moving the way they were before.
@@ -82,7 +98,7 @@ That's depletion number one. depletion. Number two is we've blown through the ma
 Yeah. >> So, like this is this is really problematic because we now really have lost all of our leverage. We do not have all the cards. Okay. We have no cards anymore. >> Yeah. If you look at um let me see the quote here by um the guy running against Netanyahu Bennett. Yeah. >> Yeah.
  He says something along the lines of uh we may oh Ben I think Beng actually said um >> uh okay there it is. The moment is approaching when Israel must understand that it may need
 
-### Netanyahu — Act Alone Frame
+### Segment 4 — Israel Iran Russia
 
 to act alone against this nuclear threat against Iran. So this is Ben Girstean to to you know being pretty early in facing reality that Israel may decide to attack Iran unilaterally maybe preparing for that day.
  That would be pretty wild if they do. And I asked Jonathan Conrius about it on my show like would they do it? He said no. And he was going viral yesterday for speaking at an event where he said >> I saw that. >> Yeah. Exactly. He was he he was saying that it would be it would anyone saying that the Israelis could act without American military support is just delusional. Doesn't understand reality.
@@ -97,7 +113,7 @@ I would like to comment on that because Conrikus is part of a faction of Israeli
  There will be over time I don't think >> I think the internal the threat is internal not external. I think the over under on them using nukes is relatively low now is what I think. >> Agree. Let's let's watch that clip from Conrius, the one we were just referring to. >> I'm wary of Israeli politicians campaigning >> saying we are going to be independent of the US.
  I humbly think that is a reckless thing to say >> because I don't think that Israel can defend itself using Israelmade platforms. We don't make F-35s. We don't make any of the FS. And for over many years, we have been limited from
 
-### Military Industry — US Dependence
+### Segment 5 — Israel Hezbollah Turkey
 
 having a totally independent military industry. And if we're honest, the Israeli economy and our ability to produce heavy goods like the ones that you'd need in in military affairs just isn't there.
  It may be there in the future, but to speak about that now as if that is something that is achievable in before we sign the nextou with the US, that is not realistic. >> Yep. Yep. Well, I I you know, Mario, uh Jonathan Conrius should be prime minister at this point of Israel. He's the only one who seems to know what's going on based on those statements.
@@ -124,7 +140,7 @@ Have to tell this audience she has said that America is controlled by the Jewish
  We heard we heard that she has family in the US. She was afraid if she got sanctioned she couldn't enter the US. She resigned. >> Well, so you see the the pride in which there's another shorter clip as well. The sanctions were removed a couple of months ago. That's a positive development there based on appeal. But just so he's talking about how she's criticizing Yeah.
 >> how much influence the Israelis have in the US. Obviously, she's a a human rights lawyer. She serves in the UN special repertoire. Uh on the Palestinian territory since 2022, her role is to investigate and report on human
 
-### West Bank — Human Rights
+### Segment 6 — Israel Gaza United Nations
 
 rights conditions in the West Bank and Gaza.  hell. Like he's proud of doing that casting someone.
  It's very shocking because just set aside this issue. First of all, I'll just say I I think the UN is useless and we shouldn't be paying for it. I I'm completely opposed to the UN. I've been opposed to the UN my entire adult life. So, just putting that out there. Um and the World Bank, too. I It's It's not American. >> Banned entry from the United States.
@@ -150,7 +166,7 @@ They're being shaped by people on the new right, uh, which is, I think, the real
  Okay? And that is what has happened, whether it was purposeful or it just evolved that way. The fact of the matter is the Republican party is way too exposed to Israeli influence. The Democrats are too, but the older generation is. The younger generation of Democrats I would argue is probably going too far. Uh, you know, in the other way.
  Um, so
 
-### Tucker MTG — GOP Exit
+### Closing — Russia Trump Iran
 
 Tucker and Marjorie Taylor Green are just the beginning. And I can tell you right now, I live where I live in Florida is one of the reddest pro MAGA parts of the state of the country actually. We have a large number of very wealthy Republican donors down here. There are a lot of people who were very loud and proud MAGA in 2024 who are distancing now.
  Even the UFC thing uh even this fight that happened a few weeks ago or last weekend at the um the White House, a lot of people were like, "Uh, it's a little too much bread and circus." Uh there's a lot of Republicans I know who were a little we we didn't need to see the dirt bikes doing their thing on the White House line. It's a bit much.

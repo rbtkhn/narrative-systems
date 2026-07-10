@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 ingest_date: 2026-06-18
 pub_date: 2026-06-18
 kind: transcript
@@ -28,7 +34,7 @@ source_note: Operator-pasted YouTube transcript; host self-dates Thursday 18 Jun
 evidence_grade: transcript-bearing
 opening_tier: host-tease
 capture_note: Operator paste; full interview body preserved from user-supplied YouTube transcript.
-editorial_note: Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "Operator-pasted transcript; ASR artifacts retained; not human-verified verbatim against audio.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (12 sections)."
 transcript_wrapper_tier: clean
 verify_receipt: 2026-06-19
 verify:
@@ -38,7 +44,17 @@ verify:
   - claim: ~2-week US munitions / re-war ceiling (Martyanov tier-4 forecast)
     verdict: unclear
     note: Not wire-grade; GAO F-35 25% FMC supported separately; standoff duration test pending
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 12
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Andrei Martyanov: Israel Just Dealt a Defeat to the US
@@ -50,7 +66,7 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Israel Iran Trump
 
 Hi everybody. Today's Thursday, June 18, 2026. And our dear friend, our brother Andrei Martyanov is here with us. Welcome back, Andrei. >> My pleasure. >> Andrei, finally we got the text. We got theou the document. And I'm sure that you've seen the document, the points in that document. How did you find it? Oh, I mean it's memorandum.
  Make no mistake. Uh, United States is non-aggreement capable. So, it doesn't matter what you sign with United States because as we know, especially Mr. Trump, he's the master of his word, he can give it, he can take it back. So unless it is obviously uh approved by legislature and runs through the US Congress which is not going to happen obviously it is all for the show for Trump to spin the essentially the beating that United States took from Iran and yeah there is a Green Day's uh uh album the band called Green Day uh it
@@ -64,7 +80,7 @@ levels and don't make no mistake at 1983 United States was the nation of 250 mil
  And just moments ago we had JD Vance responding somehow slamming the Neo administration. here what here is what he said under >> has not gone down this path but to some of these cabinet members in Israel who are attacking the president of the United States the other thing that I would say is that over the last 3 months [clears throat] 2thirds of the defensive weapons that have protected your homeland have been built by American hands and paid for by American tax dollars.
  The problem for Israel is not Donald J. Trump and anybody in Israel who thinks their biggest problem is the president of the United States needs to wake up and smell the reality of
 
-### Segment 2 — The Situation That Country Is
+### Segment 2 — Israel Lebanon Hezbollah
 
 the situation that country is in. Thank you all. I think this is a serious sort of move when it comes to Israel because Israel is badly attacking the Donald Trump and JD Vance because they feel that >> and he said it just twothird of the weapons being used during THE WAR.
 >> WELL, IT'S more than that. It's more than that. You have to understand again listen uh Israel [clears throat] militarily without United States is nothing. they the they they stole essentially it's the whole other story how they got their nuclear weapons but uh it is also the fact that all those you know uh Israeli names like hats you know David slings sling and things of these are not Israeli weapons air defense granted they suck they are not good but still in United States provides Israel with uh most of it essentially uh
@@ -78,7 +94,7 @@ happening uh you know is in Gaza and now in Lebanon and so yeah the Lebanon part
  Simple as that. Period. It's it's to put it mildly >> Andre out of those points that were mentioned in OU which in my opinion when it comes to the sanctions you know somehow the frozen assets you can you cannot trust the United States that's not going to happen the only the only important thing in that document in my opinion is the case of Hezbollah and Lebanon Hezbollah Lebanon and Israel which is the reality of the battlefield.
 Iran said if Israel attacks, we're going to respond. >> This is the reality and that's that's why they mention it in the first point. And the second point is this
 
-### Segment 3 — Trade Of Hermus And What's
+### Segment 3 — Iran Israel Lebanon
 
 trade of Hermus and what's going on and in there the United States is not going to be able to change the reality of this trade of her. >> It can. >> Yeah.
  The third point that is important is Iranian nuclear program. Iran has said they're not willing. They don't want to produce nuclear weapons. They're willing to negotiate whatever it takes. They're going to they're going to negotiate and they're they're not going to have any sort of problem negotiating on that. But it all depended >> on dependent on US sanctions.
@@ -92,11 +108,13 @@ what Israel does in terms of Lebanon because they still continue to uh you know 
  And he said yesterday that the oil reserves in the United States are four weeks away from being totally depleted. >> So this is the main problem for Donald Trump. >> Yeah, it is. Absolutely. No, it was about Israel and just as as usual having people like Hex or Cain, they never calculated the consequences because they driven by all kinds of the ideotic ideas and fanatical religious beliefs which have nothing to do with has nothing to do with uh uh Christianity.
  For example, Pete Hax is not Christian. He is as most of the Christian Zionist they are Talmudic uh Jews wrapped into the Christian they are not Jews really. They are just you know Anglo-Saxon or whatever the European ilk wrapped into their Christian rhetoric but they are essentially talmud talmudists. So and as the result they are extremely incompetent and they
 
-### Segment 4 — Miscalculated As Always And As
+### Segment 4 — Trump Say Economic
 
 miscalculated as always and as the result so what can I say uh well [laughter] uh no matter what they do you know so and uh economic uh consequences of this are very uh visible and yeah Trump he
 probably didn't want even to say that you know but because he's so impulsive and he doesn't remember what he was talking about even two minutes before so he just dropped this bomb like four weeks left. Well, that means it's crisis, okay? It's huge and it's not easy to, you know, overcome. It's not like, you know, you snap your fingers and then, oh, everything happens at once.
  No, it's going to take some time before uh this problem is alleviated. And essentially yeah, United States with the four weeks of the strategic oil reserve and at that time the uh uh straight of closed uh it was on the edge of the precipice essentially economic catastrophe.
+
+### Segment 5 — Israel Iran Trump
 
 >> I think right now Net feels that the only solution is the continuation of the war but Trump administration is not there anymore. You don't want that.
  Do you think that they want to they will continue to provide armor and all kinds of things of this nature? >> No. The United States getting involved. I'm not talking about Israel. Israel will continue the war against >> no econom I mean against Iran they have nothing to uh uh get involved with. uh we and again even from the open information which is not uh classified what we get I mean the United States absolutely basically scraping the bottom of the barrel in terms of the only thing they love to do is again bomb and
@@ -109,7 +127,7 @@ can I say I warned about it long time ago so but here we are [snorts] >> because
  They're going to have presidential election >> and and JD M it seems to me he wants to be well yeah the only actually hope for GOP otherwise GP is utterly corrupt. Well, they both are corrupt. US Cong United States doesn't help US Congress. It has Knesset 2.0, but it is primarily driven by the uh Zionists from GOP.
  Uh the GOP part of the uh essentially US Congress right now Zionist, they sold out to Israel. They're not very bright people covers, you know. So and uh yeah uh people in the United States they had enough with that majority of population except for those fanatics of the whatever 50 plus million of the so-called Christian Zionists you know but majority of people that they had enough with this you know and so what you have you have two extremes
 
-### Segment 5 — One Is The I Mean
+### Segment 6 — Israel Trump Lebanon
 
 one is the I mean nightmarish satanists from the so-called they call it leftwing they
 not the neoliberal cults on the democratic party you know with those DEI whatever the walk culture on the other side you have the so-called pseudoconservatives who are at the service of Israel what do you have in the middle you have probably I would say two two plus 100 million uh people who have no no voice in uh American politics so they are being ordered around by the bunch of the creeps one from the Democratic party and other from the GOP and majority of Americans sit and scratch their head uh while obviously
@@ -123,7 +141,7 @@ Hezbollah and Israel and there is some sort of fight going on >> yeah I mean we'
  And so uh they can continue to do this acrobatics if you wish of the trapeze act, but it doesn't matter. uh Israel controls US government essentially in the especially in terms of the foreign policy and so uh whatever Trump says he can listen I can go out and defare myself superman okay here it is I am a superman uh what changed nothing Israel will continue to do is until the real support to Israel got off period no money no weapons no ammunition no political support.
  So, and United States is still not there and will not be there for a long time. But the signs of this are here. So, and Donald Trump can declare whatever he wants. I'm pretty sure that Israel has enough
 
-### Segment 6 — Compromat If You Wish You
+### Segment 7 — Iran Israel Trump
 
 compromat if you wish, you know, on him through abstain files and things of this nature. So uh maybe even they negotiated to do the you know uh uh how to say the Kabuki theater essentially you know but they are still on there.
 Trump will continue to support Israel period. Simple as that. And again many people do not understand the uh how to say scale of the catastrophe for him his personal catastrophe because all his world view built around primarily uh real estate shyer deals in New York and beauty pageantss and suddenly he is facing the real consequences uh and uh considering the fact that he he's a man without any principles he has no I mean morality or So uh he he can play whatever the Kabuki theater he was wants. I mean he wants uh
@@ -137,7 +155,7 @@ what we going what is he going to do to uh to to arin state the draft to uh put 
 Total suicide. >> That's exactly what it is. Israel doesn't care. Uh listen they don't care about uh average Americans. for them average American are garbage. Okay, this is the uh fanatical religious state which is again as already stated committed the atrocities which when prorated on its scale it's about the same as the Nazi Germany did you know they basically obliterated Gaza killed tens of thousands civilians under the pretext they continue to kill children that's what they good at they are not good at war they do not know what real
 war is And uh especially they thought
 
-### Segment 7 — That They Are Such A
+### Segment 8 — Israel Trump Nuclear Weapons
 
 that they are such a great high-tech power which it is not. Neither is the United States. The United States is essentially what it has really in terms of the actual value which it really it's nuclear weapons and obviously the satellite constellation which provides an excellent you know uh ISR intelligence surveillance and reconnaissance. That's about it.
  I mean uh just what many people still do not understand, United States does not produce main battle tanks anymore. It cannot produce air tanks. It just can't. It lost competences. It doesn't have the technology to do it. It doesn't have technology to do many things. And again, so what are you going to do? You're going to shove down the throat of the imbecile from Europe and uh Israel F-35s which quarter of them only combat capable.
@@ -151,12 +169,14 @@ theological and what have you so they are Israelites so and huge part of this Is
 That's the only thing they know. I mean the American me uh media are the most vile, the most uh you know what uh they don't have morality. They don't have uh the understanding the of the difference between right and wrong. They so uh and again as I already stated many times even many of them are war criminals downright war criminals.
  So uh what is MAGA make America great? Again I mean it is one thing to proclaim you know and you know state all kinds of uh wonderful slogans. What is the reality? There were some movements which they tried to do and even that is not good enough and again a lot
 
-### Segment 8 — Of It Is Built Around
+### Segment 9 — Russia Around Military
 
 of it is built around for some reason this American military mythology of yeah we're going to be great again.
  United States have has been great as the military power and even that at that time it certainly won its war in the Pacific theater but in World War II it was totally dependent on the Red Army all western allies I mean it's not me again saying that the whole strategy was building around what Russians were doing on the eastern front so when you take a look at it yeah show me the money what is the war record loss after loss after loss and they say oh yeah it's not because we are dead that but because of our political thing no it is because that's what military is
 reflection of the nation in many respects and it's political essentially uh component of the power and United States is not impressive in this respect you know in terms of PR yeah there's Hollywood there will be probably Top Gun whatever three or five or seven they will create again this franchise and will push this war propaganda, but the reality is it's as already have been demonstrated since 2022.
  Uh yeah, guys, learn how to build good weapons and learn how to fight.
+
+### Segment 10 — Russia Ukraine War
 
 Andre, shifting the gear to the conflict in Ukraine, the war in Ukraine, we had Russian foreign minister Sergey Lavough. He said that Russia will carry out massive strikes on Ukrainian armed forces targets. >> Yeah. And the task set by Putin is being fulfilled.
  And what is happening when it comes to the war in Ukraine? We know that they're using the drones. >> Yeah, that's civilians and it's getting worse as time goes by and nobody seems to react about react to what Ukraine is committing. >> It's absolutely not true. Listen, you have to understand if you take average household and you take average people from this household, some of them I don't know financial analyst, the wife is work somewhere in hospital, children go to school and things like that. They won't understand
@@ -168,7 +188,7 @@ and I'm not talking about just Zaparosia the fact that her is being evacuated as
  Uh for example, you can have even the air defense missile when it hits and there are plenty of videos of going around when it hits a a drone they fall on the ground burning you know it's a normal thing and then things explode and it looks oh my god in reality nothing was of except that's what they do that's what NATO does they only know how to attack civilian targets they attack you know like bus with the children two days ago.
  Guess what? They attacked the the bus in Banskish.
 
-### Segment 9 — They Attack Apartment Blocks This
+### Segment 11 — Europe Russia Ukraine
 
 They attack apartment blocks. This is NATO. These are covers. They the only thing they know. And they need urgently to impress those cryins from Europe because Europe have no normal people in uh elites so to speak. They elect them constantly. So they elect, you know, war criminals and genocide maniacs and things like that.
 Uh and so they need some pictures. That's the only thing they need to but obviously why they need to cover up what is happening actually in the uh on the front and as I already stated 18 year old children essentially are there and now they say more than half or or half of the armed forces of Ukraine will be volunteers you know of from foreign lands really so they uh mobilize women mandatory mobilization of women from harafiliz uh number of the cities and the towns in Kharkafob is mandatory evacuation also. So yeah, and they need
@@ -182,7 +202,7 @@ and they want to stay in power because otherwise you know they have many of them
 but what can I say? It's propaganda. That's what it is. Psychological operations. And they uh they brainwash their population into being completed until they well it's 1984. They will be hungry and they still will be, you know, pretending that they support their governments. Actually, we've seen the footage that Zalinski comes in and Donald Trump just ignores him and goes the other way and didn't even talk to Zalinski.
  But when it comes to the reality, Andre, what is the understanding of the talks of some sort of political moves on
 
-### Segment 10 — The Part Of The United
+### Closing — Russia Iran Trump
 
 the part of the United States and Russia? Do they see any viable choice with negotiations or >> No. No. It's uh it's a complete baloney. It's just for the sake of the continuation of negotiations or whatever they call it.
  Many people still do not understand um uh United States doesn't have diplomacy in functional sense anymore. It's a state craft, you know, they doesn't exist. >> Nobody's negotiating. Who >> Yeah. You look at this uh cabana boy with degree in law uh Marco Rubio. He both uh you know secretary of the state and national security adviser.

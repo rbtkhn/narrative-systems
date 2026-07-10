@@ -1,5 +1,11 @@
 ---
 
+
+
+
+
+
+
 ingest_date: '2026-06-23'
 pub_date: '2026-06-23'
 kind: transcript
@@ -29,17 +35,19 @@ source_note: Operator source-intake 2026-06-23; operator-pasted YouTube transcri
 evidence_grade: transcript-bearing
 opening_tier: host-monologue
 capture_note: Operator paste; full interview body preserved from user-supplied YouTube transcript.
-editorial_note: Operator-pasted transcript; ASR artifacts retained (McGregor, Pence for Vance, etc.); not human-verified verbatim against audio. · source-section pass 2026-06-25 (8 sections)."
+editorial_note: "Operator-pasted transcript; ASR artifacts retained (McGregor, Pence for Vance, etc.); not human-verified verbatim against audio.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (10 sections)."
 quality_note: Fresh intake 2026-06-23.
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
 opening_trim_words_saved: 0
-closing_trim_applied: true
-closing_trim_rule: "daniel-davis-closing-v1"
-closing_trim_chars_saved: 223
-closing_trim_words_saved: 44
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Col Douglas Macgregor: Pressure to REMOVE TRUMP FROM OFFICE Growing
@@ -52,7 +60,7 @@ closing_trim_words_saved: 44
 
 ## Transcript
 
-### Show Open — Remove Trump Pressure
+### Show Open — Iran Trump Israel
 
 Judgment Day, we could be on the cusp of acknowledging or maybe more like revealing that there are limits to America's power. Now, you wouldn't think that that's what was on the agenda today because at least some of the signs coming out of the Middle East in terms of the US-Iran war and trying to find a negotiated settlement seem to be positive.
  And hey, there are a couple of positive signs out there, so we'll talk about that. But as our guest is going to be on today, there is sort of a maybe even not just dark cloud around it, but there are worse issues that we need to be aware of underneath that. And that of course is Colonel Douglas McGregor, defense and foreign policy analyst, former advisor to the Secretary of Defense and highly decorated combat veteran.
@@ -66,7 +74,7 @@ He simply said, "I don't think it'll work. And it doesn't matter how many troops
  Who knows better than they? But at the same time, he didn't receive any solid and and confident advice from the people inside his inner circle because someone should have stood up immediately, preferably the chairman of the Joint Chiefs, and said, "Sir, do not do this. This is This is catastrophic." And explain the difference between a continental power and a maritime power and emphasized that we were very limited in what we could do because we couldn't commit any ground forces and whatever ground forces we committed would be a gesture. There was nothing we could
 seize that would make any difference to the ultimate outcome. And ultimately, if you're going to ask us seize the Persian Gulf control of it, that's not going to happen. They they've
 
-### Future Warfare — Star Wars Delusion
+### Segment 2 — Iran Middle East Trump
 
 mastered capabilities that make that an impossibility, but nobody stood up and said it. So, I I think what we have to understand now is that well, they made a decision to go ahead and use the military power.
 It has not worked. We have lost the conflict against Iran. End of discussion. Period. That's the truth. Now, normally under those circumstances, a bright person, a smart person who's embarrassed by the whole thing, as I'm sure we are, would say, "Let's get out of here. Let's move on. Go somewhere else.
@@ -85,13 +93,15 @@ But what we have learned to do is to have semi-autonomous drones. That is drones
 All the instrumentalities that we've had since 1945 are now at risk. The interesting thing is you know, people out there that are in uniform are saying well, the safest place to be is a you know, without any armored protection and without any real firepower on the ground is an as light infantryman. I can't conceive of any worse place to be because what this really does is it makes you permanently vulnerable to everything and anything because you have no fire support, you have no no real mobility, you're stuck.
 You know, and then you get into these arguments about the
 
-### Supply Chain — Sanctions Blowback
+### Segment 3 — Ukraine Russia Warfare
 
 future of warfare looking like Starship Troopers. Well, that sounds great until you begin to look into the cost of outfitting it and supplying it and sustaining it and providing energy for it and so forth. I think what we have to recognize that we're in a position now that we haven't seen really since World War I.
 Uh since we saw the trench lines come to us a you know, a halt on the Western Front in 1914. Uh and that's what you're effectively seeing today. Everything is being changed because you cannot move successfully to come to grips with your enemy. Again, we should have anticipated some of this because we saw evidence for this in Eastern Ukraine, right, Dan? I mean, this isn't entirely new.
  What you're pointing out is that over time it becomes a bigger problem. And this means that you've got to come up with better and better countermeasures. Will we develop any countermeasures? Absolutely. And we already see some countermeasures that the Russians have developed to deal with the Ukrainians. And a lot of that is electronic warfare and and beyond electronic warfare is the ability to put a lot of what we used to call flak into the air that allows you to destroy these things.
 But the bottom line is warfare has fundamentally changed. There's no question about it, and we're not really prepared to fight in this environment. So, instead of saying, "Well, we've got to you know, we've somehow or another we've got to cover ourselves with glory and we've got to go in and administer a you know, a devastating blow." Forget it.
 It's not going to happen. Instead, it's time to back up, re-examine everything, re-evaluate everything, and change to deal with this new environment. That's going to take time, Dan. It's not something you do overnight.
+
+### Segment 4 — Trump Nuclear Weapon Economy
 
 Yeah, it's not and it's unfortunately, well, I guess they're not so much unfortunately as it would require first an acknowledgement that judgement day has arrived so that we can start making those kinds of thoughts and unfortunately, as you're about to see in some of the comments from some of our
 leaders, that day has not yet arrived, at least it is not consciously aware. Uh this whole situation right now with trying to get the MOU and get the war over with, of course, is all about financial issues and and the potential harm on our economy which is President Trump admitted uh at that G7 conference when he said, "Hey, if we don't do this, we could end up uh having a depression because our strategic petroleum reserves had about 4 weeks of time left.
@@ -105,7 +115,7 @@ So, you're going to see a big glut and it's not that big but bigger and then you
  That's what people don't understand. Uh we're we're headed into much worse times ahead than what we've seen in the past. We're going to watch oil regain its former position. I think it'll go to $150 a barrel. But that's not what Donald Trump wants and he's figured out that the the people on Wall Street are going to listen to him.
  At some point physical reality will catch up and physical reality says exactly what you've outlined. What is the real outcome of the war then? Deglobalization is number one. In other words, the whole global scheme for the economy has been disrupted and frankly dis- dismantled.
 
-### Iran Damage — Zionist Regime
+### Segment 5 — Iran Nuclear Weapons Nuclear Weapon
 
 Supply chain redundancy from just-in-time to just-in-case.
  People are going to start stockpiling everything. You have weaponized choke points. You know, the for instance, very few people are aware but the Turks just announced that they're going to charge 15% more now for anybody who wants to pass through the Bosphorus. Higher food and fuel inflation. Slower growth.
@@ -124,7 +134,7 @@ All you do when you go public and make the series of statements that you that he
 We won't even talk about that for a while. We got to get these first, I think there's five paragraphs that have to do with upfront things." They said, "That's what we're going to negotiate." After the 18 hours were finished in about the same time the Vice President was making that statement, uh we had uh the uh I think it was the It may have been a Roxie, one of the foreign ministry spokesman.
  At that time said, "Hey, um you know, we we both presented our positions on the negotiations on on the issue of nuclear weapons, but nothing was discussed. We're not even going to negotiate it until later." Uh and then after Vice President Vance said that, then a foreign ministry spokesman, Begai, said this. >> We neither had a meeting with the director general of the International Atomic Energy Agency, nor do we have any plan for the agency to inspect Iran's nuclear facilities
 
-### Trump Wins — MOU Spin
+### Segment 6 — Iran Israel Trump
 
 damaged as a result of the US military aggression and the
 Zionist regime. Fundamentally, there is no procedure in this regard. >> So, it's just unclear Uh, to me, uh, Doug, what is the hope Uh, because you can't make those statements and not know, know that the Iranian side is going to come out and repudiate them. If that doesn't manifest, then it makes us look even more weak.
@@ -143,7 +153,7 @@ But he really does need to disengage. Get them out and just tell the Iranians, "
  But man, let me tell you the biggest headwinds to what you just described there is President Trump himself. This is what he posted on social uh Truth Social here just hours ago uh and he he goes into this whole thing and despite protestations and false statements to the contrary coupled with the drumbeat of fake news, uh Iran has uh the to try to make the US victory as small and insignificant as possible.
 Iran has fully and completely agreed to the highest levels of nuclear inspection into the future, infinity, he writes here. What is just exactly what you suggested that he's concerned about looking like
 
-### Arab World — Perpetual Conflict
+### Segment 7 — Trump American Iran
 
 he's won. So, he just continues to say these things that are true. And then it goes down even further.
  He said, "I have agreed to allow the blockade uh uh Strait of Hormuz to open and no need to have a further blockade. However, all ships remaining in place uh should it be necessary to reinstate the blockade I will and then he gets into the issue of the money and the sanctions that the US Treasury is going to put into escrow controlled by the USA and then this whole it'll be used only exclusively for including corn and wheat and soybeans from our great American farmers.
@@ -161,7 +171,7 @@ We're going to get to that economic financial point you just described. Already 
 and mine former National Security Advisor H.R. McMaster. >> There will be no enduring peace with Iran. There will be no enduring peace in the region associated with these proxies and there will be no safety for the Iranian people until there's a fundamental change in the nature of the Iranian government such that it rejects kind of this revolutionary ideology and what is associated with it is this sort of permanent hostility to the United States, Israel and its Arab neighbors.
 This forward defense they call it is really a forward offense in which they want to
 
-### Lebanon Security Zone — Israel
+### Segment 8 — Israel Iran Netanyahu
 
 keep the Arab world weak by keeping it perpetually enmeshed in conflict with these sectarian civil wars and then extend hegemonic influence to the Mediterranean, surround Israel with a ring of fire, destroy Israel and kill all the Jews.
  I mean that's really what they want to do. >> So what Iran really wants to destroy Israel and kill all the Jews, even though there are Jews that have been and in fact some are even in the Iranian parliament. I don't know why they haven't been killed yet. Uh but he's this permanent hostility. Why does he suppose their hostility is? Maybe it's because we've been assassinating their leaders, assassinating their generals, assassinating their scientists, and going to war with them twice in the span of about eight months.
@@ -180,7 +190,7 @@ We've got to go to a very different foreign and defense policy. Everybody who's 
 >> Well, it uh doesn't look like that there's going to be any near-term movement on that on the inside of the Israeli government. Uh you've mentioned this a couple of times here already. The the headwind maybe the biggest of all is the Lebanon issue. Uh and this was uh released uh I guess just let's see this just yesterday.
  Israeli Prime Minister Benjamin Netanyahu, Defense Minister Israel Katz, IDF Chief of Staff Eyal Zamir, and Northern Command Chief uh Rafi Malo held a conference call on Monday, and in a joint statement, they said, "The IDF will continue to act decisively to thwart threats to our soldiers and civilians, destroy terror infrastructure, and continue
 
-### Close — Thanks
+### Segment 9 — Israel Trump Lebanon
 
 maintaining the security zone in southern Lebanon.
 The security of Israel's civilians and IDF troops will continue to remain before the eyes without compromise. And earlier I should see a few to the PM. This is what uh Drops out is referring to. Benjamin Netanyahu said, "My directive and the defense minister's directive for the IDF is clear and has not changed.
@@ -207,6 +217,8 @@ Uh, you know, we historically, as a nation, were very popular in the world becau
 And that's when our popularity began to drop. Uh, and we should have left, but we didn't. And you have a similar situation in the Middle East right now. We can't protect these countries. The people that live there know that. We need to get out. And they need to get along with their neighbors.
  You and I have had these conversations in the past about Russia. You know, the Lithuanians, Latvians, and Estonians would love to do to us what the Israelis have, and drag us into a war that we don't need to fight against Russia. We're we're not going to do that, but we ought to be a little more straightforward with people and say, "Look, you live there, we don't.
  Get along with your neighbors." You know, don't don't expect us to club your neighbors into position. Unfortunately, we are currently engaged in clubbing everybody into submission for Israel. It's not working. It's a catastrophe for us and for the world. I think President Trump knows that, but he's under duress. He can't simply pull the plug.
+
+### Closing — Trump Israel American
 
 >> Well, one thing that might push him in that direction, I mean, Gary was showing that that polling there a second ago that Newsweek had up there and we mentioned a couple of others. But there has been some additional movement on that and we'll just look at the Republican side of this. I mean, he's starting to burn his own house down.
  I mean, we we saw what happened with Thomas Massie and I mean, he pulled out all the stops and tens of millions of dollars from all kinds of people to make sure he didn't get reelected in his his primary election already. So, he's got that, but that came at a cost. Well, now in just the last 24 hours, Tucker Carlson came out and said, "Hey, I don't even consider myself a part of the Republican Party anymore.

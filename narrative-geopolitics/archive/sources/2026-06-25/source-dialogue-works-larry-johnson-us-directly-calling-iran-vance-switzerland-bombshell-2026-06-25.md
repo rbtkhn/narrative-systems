@@ -1,4 +1,5 @@
 ---
+
 ingest_date: '2026-06-25'
 pub_date: '2026-06-25'
 kind: cleaned-transcript
@@ -30,8 +31,7 @@ normalization_state: ai_assisted_proper_noun_cleanup
 quality_note: "ASR normalization pass 2026-06-25; ph-civ replacement SSOT."
 transcript_wrapper_tier: clean
 opening_tier: host-tease
-editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (johnson, alkorshid, channel:dialogue-works)); 11 substitutions; not human-verified verbatim; verify before quotation. · source-section pass 2026-06-25 (14 sections). · source-section even-chunk pass 2026-06-26 (15 sections; close merged; BRICS/Pakistan split). · Foundation of Lies merged into Rutte White House 2026-06-26 (14 sections)."
-transcript_curation: curated_sectioned
+editorial_note: "AI-assisted source-clean (scaffold + ph-civ series + entity + thread tiers (johnson, alkorshid, channel:dialogue-works)); 11 substitutions; not human-verified verbatim; verify before quotation. · source-section even-chunk pass 2026-06-26 (15 sections; close merged; BRICS/Pakistan split). · Foundation of Lies merged into Rutte White House 2026-06-26 (14 sections). · source-section pass 2026-07-09 (16 sections)."
 verify_receipt: 2026-06-26
 verify_matrix_ref: statecraft/notes/wire/2026-06-25-news-verify-matrix.md
 verify:
@@ -53,6 +53,17 @@ verify:
   - claim: US covert pressure on Oman (host/Johnson)
     verdict: partial
     note: J25-6g — public Rubio no-tolls supported; covert leg unclear
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 16
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 # Larry Johnson: The U.S. Is Now Directly Calling Iran (Vance's Switzerland Bombshell)
 
@@ -64,20 +75,20 @@ verify:
 
 ## Transcript
 
-### Show Open — June 25 Welcome
+### Show Open — Europe Iran Larry
 
 Hi everybody. Today's Thursday, June 25th, 2026 and our dear friend Larry Johnson is here with us. Welcome back. >> I'm back. Can't get rid of me like crab grass. Larry, I want to start with what has happened as an outcome of Mark Rutte, the NATO secretary general said and the repercussions of of what he said in Iran, which was huge by the way.
  And here is what Mark Rutte said on Fox News yesterday. And I totally understand the disappointment. But when you take for example Italy, 500 US planes took off from US bases in Italy uh to support uh epic fury. So this is massive. Um when you look at the whole of European between four and 5,000 a country like Romania, its capital Bucharest, they had to cut down on commercial airflights and airplanes because they had to use the uh airport for the tanker facility.
  So all this is taking place. >> Yeah. And we had the
 
-### Rutte NATO — Iran Complicity Claim
+### Segment 2 — Europe Iran Trump
 
 response from the spokesperson of Iranian foreign ministry is he said that this is a clear and damning admission of NATO's active complicity in an unlawful war and war of aggression against a sovereign UN member member state. a flagrant violation of Yeah, it goes on and on and but the part that is important is the organization and its individual member states that participated in such decision making must be held accountable for all the consequences.
 This is Europe making trouble for itself by again NATO secretary general. Many people thought that the Europe was helping the United States when it came to the intelligence when when to the air defense system. We remember that they said that. But right now on the offensive, they're just putting out an official, you know, NATO official coming out and talking this way had those repercussions in Iran.
 >> Go ahead, Larry. And do you think that is that going to help Europe? And what was the reason to say that? What what he he was somehow bragging about how NATO or how Europeans were effective to help the United States? >> Maybe maybe Rutte needs to go have a chat with Donald Trump. You recall Donald Trump had a completely different point uh account of Italy and its role with respect to supporting combat operations against Iran.
  Uh, in fact, uh,
 
-### Trump Europe — Passive Landing Rights
+### Segment 3 — Europe Hormuz Trump
 
 Trump got into a nasty back and forth with Maloney, Georgia Maloney, uh, the prime minister, uh, you accusing them a bunch of ingrates and not helping the United States and when we called upon them. So, you know, I don't know what to believe. Uh, this most likely Europe was not an active participant. They were a passive participant.
  US requested landing rights. They granted landing rights. Um, you know, that's it. They they threatened, you know, France in particular has threatened to send, you know, we're going to send a ship to open the straight of Hormuz. Good. Go for it. Let's see how that works out. I don't think they'll be too happy with the with the, uh, results.
@@ -89,14 +100,14 @@ Yay. It's the oil crisis is over." It's only beginning. Uh and there there is a 
  They were using various lines you know close to the Omani border somehow they thought that that's not going to be under the control of Iran. Right now, it seems that they're dominating this trade to control everything, >> right? >> And that is not acceptable for the to do for the Trump administration, at least what they're talking about right now.
 >> Yeah. The uh you can you can go to uh
 
-### Hormuz MarineTraffic — Outbound Only
+### Segment 4 — Hormuz Europe Called
 
 there's a website called marinetra.com. It shows real time what's going in, what's going out. right now uh just north of in in the short in the most narrow area that's between Bandar Abbas Camsh Island and the tip uh let's see what this called Casab uh on Oman uh there's not a single ship leaving there's one coming in it's called a Chinese owned vessel called one force it's it's heading in.
  Um, but uh the only ships heading out are uh there's one called the YC Pansancy headed out to I guess India. Um, and so yeah, no big there are a couple that have just, you know, they just got around that, you know, that the nose of Oman. So they go um they're now headed out into the uh the wider towards the Indian Ocean.
  So you got one uh looks like that's going towards uh Pakistan and uh India uh Chinese uh Singapore and China you know so the thing and I'm just counting them up here the ships that are passing almost 90% 95% are going to Asia in fact I haven't seen any that are going to the United States, none going to Europe. So that that that's quite telling.
  Uh the volume of traffic coming out of the Strait of Hormuz is about one of uh of normal traffic and there so the problem the world faces right now um particularly with respect to heavy crude is that
 
-### Oil Economics — Heavy Crude and Aviation
+### Segment 5 — Trump White House Economy
 
 20% of the supply was shut down. So what what happened is countries around the world, United States and Japan and China, others, they started they had petroleum reserves.
  They did have a sort of a rainy day fund. So they started drawing those down. And I guess in those reserves, they're always a mix of what you call light crude and heavy crude. And the heavy crew is the critical one because that's what's used to make aviation fuel and uh diesel fuel. The problem you run into is the refineries when they're ma making the you know the the product they can't make two at the same time.
@@ -108,7 +119,7 @@ So, you have less food. And they've been able to paper that over until now. But,
  And and then on on top of it, you've got um the the the claims that the the straight is mined and the the US military told Congress in April, yeah, it's going to take 6 months to get that free, but we've not heard any reports of ships being hitting a mine and blowing up. >> So I I wonder if that was just a you know, if that was a disinformation campaign that there was no truth to that.
 Yeah. Exactly. Exactly. That's a good point. Mark Rutte is in the United States and the guy is somehow it feels like he's a >> I would say Trump's brand salesman. >> Yeah. >> The guy is so much in the hand. He's he literally feels that Donald Trump is his daddy. And here is what he said in in the White House.
 
-### Rutte White House — Trump Brand Salesman
+### Segment 6 — Europe Trump Russia
 
 You stay here. I go over to these boards here because I want to show you what this president was able to achieve. And I start with this chart. This chart is about the Trump trillion. The Trump trillion shows you the increase Europeans and Canadians are paying into defense since you took office in 2017. >> Trump 45 plus Trump 47.
  a total of extra spend by the Europeans and the Canadians of 1.2 trillion. When you look at the effect of Trump 47, so the isolated effect of the extra defense spending in 2025 and in 2026, you see almost $140 billion extra spend nominal on defense by the Europeans and the Canadians. And also this year, you will again see an increase by about 120 billion, which brings a total in two years of over $250 billion.
@@ -118,12 +129,16 @@ Then when it comes to jobs, look here in total 195,000 jobs being supported by i
  That is just that's embarrassing. Uh the you know what what do you say to that? This is you know we don't have leaders who are able to sit down and you know talk candidly. uh when you have to come in and per like a organ grinder monkey perform like that dance around and tell Trump he's the greatest of them all since Eisenhower he nobody was able to have such a great achievements in the United States.
 >> Yeah. Let's step back and again look at the reality there is uh you know we've got a we've got a a a nation actually it's not just a nation it's not just the United States it's Europe as well just
 
+### Segment 7 — Ukraine Israel Russia
+
 built on a foundation of lies one lie after another both uh you know the lies we tell about Iran as a enemy and about Russia as an enemy and about the great successes of Ukraine and about uh the uh the the the military prowess of the Israelis got it just you know at some point these lies will catch up and um you know they'll
 there will be a reckoning hope but the problem with reckoning sometimes though is those those who ought to be held responsible aren't they get away with it.
 
+### Segment 8 — June
+
 No, Larry. Two days ago, you know, on June 22nd, June and June 23rd, we had
 
-### BRICS New Delhi — NSA Meeting and Yuan SIPs
+### Segment 9 — Iran Israel Russia
 
 India hosted the 16 BRICS National Security Advisors, NSA and high representatives on national security meeting in New Delhi and the participants of that were Brazil, Russia, India, China, South Africa, Iran, Egypt, Ethiopia, UAE, Saudi Arabia, Indonesia and today I talked with one of our friends of this podcast
 province Sani. He said that the meeting was important in terms of the security and the discussions that have happened but at the margins of the meetings the main meetings the margins were more important more mainstream than the real one that the principal one which was the meetings that China had with other countries and considering what's going on you know with the case of the security council with the case of the security of Eurasia and what's going on in the west Asia there wasn't there was a meeting between Iranian representative
@@ -135,7 +150,7 @@ and India as well considering the new reality of the West Asia. Looking at brick
  Um now apparently there there was no joint statement released out of this meeting but uh they you know I guess a public statement by India was very supportive of the Iran-US MOU so they didn't uh you know they weren't uh trying to tear that down or criticize that. So the just the fact that these countries are meeting and talking is is a reminder that there is an alternative to the US-led international economic order which is now I think in the process of dying with the case of India Larry before the sanctions in 2019 they were dependent on
 Russia, Iraq, Saudi Arabia you know Iran but right now Since Iran was under tremendous sanctions from the United States since 2019 and you see they tried to to replace Iran with Russia, Iraq, Saudi Arabia, UAE. The United States is sending oil to India as well. You have West African producers to India.
 
-### BRICS India — Hormuz Impact and Pakistan Path
+### Segment 10 — Iran Palestine Hormuz
 
 But the the problem with the Strait of Hormuz is that the straight is hitting India as well.
 >> Yes. They're basically, you know, >> did didn't Ron Ran made some exceptions early on in the blockade policy to allow ships out that went to India, didn't I? I seem to recall that, you know, back in March and April. You Larry you mentioned how important is for you know the two organization SEO and bricks but when it comes to the case of basically with the case of Gaza with the case of Palestine which UN has totally failed to help Palestinian people and we have reporters coming you know this organization human right and
@@ -148,7 +163,7 @@ Yet the Omanis came out yesterday basically independently say okay and everybody
 talking about earlier that out of out of the SEO out of bricks will emerge a security function and and and see remember that um both Russia and China have been talking about this new security architecture in the Persian Gulf and Pakistan's been playing the leading role in developing that.
  So um that's where we could see a situation where um you you've got a coming together of you know Pakistan ultimately getting into bricks. I think that that may be where where they are headed >> but there they're
 
-### Pakistan Munir — SEO and US Control Myth
+### Segment 11 — Russia Iran Pakistan
 
 Pakistan is a full member of the SEO Larry. >> Yeah >> that that is important. I don't know what what is the reason that they're not part of bricks but SEO is as important as bricks.
  I think the hard core of bricks is SEO. >> Well, yeah. I mean, and that I I would assume that's because of Pakistan's longtime long-standing relationship with China >> because looking at the SEO, we have China, Russia, India, Pakistan, Kasakistan, Kurisan, Tajikistan, Usbakistan, Iran and Belarus. >> Mhm. So you have India and Pakistan both of them in in the SEO which we know the friction between the two sides and been been part of the you know security structure which is the SEO so that I I don't see any sort of problem for them to be part of bricks and
@@ -160,7 +175,7 @@ It is true that during the 1980s, you know, Pakistani truck drivers and uh busin
  Uh that the United States needed a lot of supplies in Afghanistan. they could only they'd come via ocean uh container, get offloaded in say Karach or the other port and they'd be trucked into Afghanistan. So those truck drivers, they made a ton of money off of the United States and hauling that that kind of uh uh equipment.
  So this uh the it was never u the United States like to think it was in charge but the Pakistanis controlled you know they controlled the logistics in effect and I always maintain logistics is the key to any of these conflicts.
 
-### Pakistan Munir — Imran Khan and Gulf Architecture
+### Segment 12 — Russia Trump Ukraine
 
 So here we now got Munir and yes Munir um ousted uh Immad Imran Khan. >> Yeah.
  And Imran Khan was u you know he's a Trump Trump-like figure you know populist popular he you know he was a football hero but apparently they they got into a dispute over who was going to call the shots and Khan insisted that he was president he was going to call the shots and Munir put him in prison you know I'm giving you the shorthand version but Munir now is clearly in charge of of the country and uh he's not waiting around for the United he's not sitting there with the United States telling him what to do.
@@ -172,7 +187,7 @@ in creating this new Persian Gulf security architecture. >> Yeah, I think the ca
  What what would you do?" Okay, that that's a whole different approach if you got someone coming asking you for advice. But that's not the United States. United States is in the business going around telling people what they have to do and that that doesn't wear well. People get fed up with it and say, "Nah, you know, you're not going to tell me what to do.
  We'll we'll figure it out on our own." Larry
 
-### Vance Channel — Switzerland Military Line
+### Segment 13 — Iran Trump Russia
 
 JD Vance told unheard, you know, that one of the most significant outcomes of the Switzerland talks was an agreement in principle between the United States and Iran to establish a direct military communication channel aimed at preventing future escalations. And this is something new.
  I have never heard of a communication line between Iran and the United States directly talking to each other for deescalation >> because there were no escalations between the two by the way before before this war happening. And right now they have that as as some sort of communication system. And what does that mean in your opinion from the military point of view? And how is that going to be used for the case of maybe Palestine or Lebanon? >> Well, uh I can give you one example, not necessarily with respect to Iran, but how this communications channel has
@@ -182,7 +197,7 @@ been used. It was used at Aluded Air Force Base uh in Qatar at the what was call
 Therefore, we're going to we're going to launch a bombing run on Cam Island at such and such time, and these are the targets that we're going to hit." And so just uh uh you know to be aware then that way Iran could take steps to get personnel out of there and you know United United States gets to have a a show of force that doesn't really mean anything.
 >> Yeah. Just using the same line that you're talking about right now is Iran has informed the United States that it has bombed a tanker in this trade for most. So it is the way it is right now and it seems that you've mentioned the case of Oman and Iran they had a statement together after the meeting >> right >> and mentioning the new mechanism to be defined in this Strait of Hormuz then we've seen the Omani part saying something different then Iranian foreign minister came out just moments before coming to this live he said the the
 
-### Oman Hormuz — Mechanism Friction
+### Segment 14 — Iran Israel Lebanon
 
 process of new the new mechanism is you is happening as we talk and and they're going to define it as soon as possible. >> It seems to me, Larry, that the United States is putting pressure on Oman behind the scene. >> Oh, yeah. No doubt. No doubt. Yeah, absolutely. I mean, and this goes back to, you know, the United States.
  I don't see any outcome of that because Omani is not you know they were the war has brought the Strait of Hormuz to the equation of on the part of Iranians. So if Oman decides to go against Iran I think that would totally change the Iranian equation toward Oman because they were thinking of Oman differently.
@@ -200,7 +215,7 @@ I mean this is I can't you know I can't emphasize enough that Israel likes to pr
  They have to have to split up the the cash with uh Aman, which is fine. You know, that's as it should be. >> Yeah. And it seems that they're not going to charge all of the tankers, the oil tankers are going to be differently treated by the new regime, the new mechanism of the trade than those who are some simply, you know, transporting fertilizer.
  I don't know some sort of phosphate helium these sort of things that are in that region it's going to be different but we haven't seen so far the new mechanism >> right >> yeah Larry
 
-### Netanyahu Lebanon — Offramp and Insanity
+### Segment 15 — Israel Iran Lebanon
 
 Benjamin Net said that we have we removed an immediate existential threat from our heads because if we had enacted against we we had not acted against Iran today and he's talking about the nuclear bombs would have been emerged to destroy Israel.
 There is no statement in since you know the revolution has happened in Iran that Iran wants to nuke Israel. >> But he uses the same argument that Don from is using looking at the way that Benjamin Net is talking about in Israel to save his position in Israel. It's all about the nuclear weapons. We did this war.
@@ -213,7 +228,7 @@ something like 20 years, Larry, since he took power in Israel, >> right? No, he'
  that they can't uh uh that they can't continue this way and that they pull out. They just, you know, it's it's suffer they're just losing too many people. I mean, that's been that way. They good God, they've done they did it back in the 80s and 2006. So, you know, this is as Yogi Barra said, this is deja vu all over again. They keep the definition of insanity, doing the same thing, expecting a different outcome. That's Israel.
 >>
 
-### Turkey NATO — Ukraine Second Front
+### Closing — Turkey Ukraine Europe
 
 The next NATO summit is going to be in Turkey, Larry. and Turkey is part of NATO, but the United States, Donald Trump right now is trying to sell new engines, something like 24 engines, jet engines to to Turkey, which the Congress is totally against that. They're trying to make troubles for the Trump administration to sell those.
 >> How does the United States sees see Turkey strategically, Larry? Is that a friend? is somehow is some sort of partner, is an enemy or a potential enemy because that in the eyes of Israelis, Turkey is the enemy. He's the enemy. >> Well, the United States doesn't exactly view him as a friend.

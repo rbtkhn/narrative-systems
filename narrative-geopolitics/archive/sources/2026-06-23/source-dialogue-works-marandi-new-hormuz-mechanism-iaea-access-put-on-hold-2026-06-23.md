@@ -1,4 +1,10 @@
 ---
+
+
+
+
+
+
 ingest_date: '2026-06-23'
 pub_date: '2026-06-23'
 kind: transcript
@@ -27,7 +33,7 @@ source_note: Operator source-intake 2026-06-23; operator-pasted YouTube transcri
 evidence_grade: transcript-bearing
 opening_tier: host-tease
 capture_note: Operator paste; full interview body preserved from user-supplied YouTube transcript.
-editorial_note: Operator-pasted transcript; ASR artifacts retained (Mandi, Mandi, Nemo, etc.); not human-verified verbatim against audio. · source-section pass 2026-06-25 (8 sections)."
+editorial_note: "Operator-pasted transcript; ASR artifacts retained (Mandi, Mandi, Nemo, etc.); not human-verified verbatim against audio.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (8 sections)."
 quality_note: Fresh intake 2026-06-23.
 transcript_wrapper_tier: clean
 
@@ -68,7 +74,17 @@ verify:
     verdict: partial
     note: gCaptain 23 Jun; Trump 19M bbl contested
 
+opening_trim_applied: false
+opening_trim_rule: ""
+opening_trim_chars_saved: 0
+opening_trim_words_saved: 0
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
 transcript_curation: curated_sectioned
+section_count: 8
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Seyed M. Marandi: New Hormuz mechanism - IAEA access put on hold
@@ -81,11 +97,11 @@ transcript_curation: curated_sectioned
 
 ## Transcript
 
-### Show Open — Frozen Assets
+### Show Open — Iran Has Happened
 
 Hi everybody. Today's Tuesday, June 23rd, 2026, and our dear friend, our brother, Professor Marandi, is here with us. Welcome back. >> Thank you, Nima. It's always a great pleasure and an honor being on your show. Let me start with what has happened yesterday and the way that because part of what has happened in Switzerland is Iranian
 
-### Lebanon — Netanyahu Won't Leave
+### Segment 2 — Iran Lebanon Israel
 
 frozen assets and JD Vance the vice president of the United States said we're going to release the frozen assets but they have to buy agricultural products or the soybeans and wheat and these sort of products
 from the United States. So they need Donald Trump was went beyond that. He said they need food. Let's give them food. And it's it's not about releasing the frozen asset. It's it's we're going to pay that money or that frozen asset to our you know agricultural system or to our farmers. Here is we are with what has happened when it comes to Iranian frozen assets.
@@ -121,7 +137,7 @@ Uh that money is in US banks. It has already been stolen by the Americans. the f
  So if the Katadis go and purchase certain goods from the United States, let's assume that to be the case. um still uh that is a a net loss to the US economy because uh that money will be withdrawn from the US economy. Yes, agricultural goods would be taken but in general that uh the the assets, the money, the wealth will be taken to Iran except for that profit that uh the that the um the farmers make.
  Let's say >> yesterday Donald Trump was asked about Benjamin Net if he's going to force Benjamin Netany when it comes to the of Lebanon. Here is what he said. >> Hey, here's another beauty. What is What is a real beauty? >> Earlier today, the Israeli Prime Minister Benjamin
 
-### Hormuz Mechanism — IAEA on Hold
+### Segment 3 — Iran Lebanon Gaza
 
 Netanyahu said his forces are not leaving Lebanon.
  That is a sticking point. >> Who did he tell that to you? >> He he said it publicly in Israel. We're going to take a look at it. >> Well, what would you do to make sure that he doesn't >> Well, I'm not going to tell you what I'm going to do, but it gets solved. I'm a problem solver. I get problem solved real fast, including with BB.
@@ -134,7 +150,7 @@ Netanyahu said his forces are not leaving Lebanon.
  Today we we've heard from the foreign minister of Russia. He said that we all have to be ashamed for not resolving the Palestinian issue. The same day there was a meeting between the United States and Iran in Switzerland. There was another meeting in Cairo. Pakistan, Turkey and it was Pakistan, Turkey, >> Saudi Arabia, >> Saudi Arabia and the there were four countries foreign ministers by the way all participating in that meeting and the main issue Egypt, Saudi Arabia, Pakistan and Turkey coming together talking about the deal between Iran and
 the United States. Basically the main issue was not only the deal between Iran and the United States, the whole region with which includes the case of Lebanon and Palestine. Do you see
 
-### Russia FM — Trust and MOU
+### Segment 4 — Iran Israel Palestinian
 
 when you see foreign minister of Russia talking this way and do you see any sort of move in the region to make some sort of effort together all of them together with the hope because you mentioned Iran has its limitations when it comes to the case of Palestinian people because of that peace deal and that that ceasefire between the
 United States and these Arab states together with Turkey with Turkey and what is that right now? What is the situation on that front? >> No, I don't think that those four countries are going to make any move to support the Palestinians. I think they're more concerned unfortunately about uh Iran uh than they are about Palestine.
@@ -151,7 +167,7 @@ billions of people across the world are are dependent on it. And so, um, Iran do
 But uh that doesn't mean that that this is um that uh that that the Israeli regime is going to uh concede Lebanon. I don't see that happening easil unless there's enormous pressure and the Americans recognize that they don't have a way out. And my fear is that the Israelis will increase the uh in their anger and rage, increase the slaughter in Gaza to make to feel better about losing Lebanon and to uh carry out more crimes in the West Bank in order to compensate for the loss in Lebanon. That's that's that's my concern
 right now. We had the Iranian head of Iranian parliament together with the foreign minister of Iran going to Oman right after getting back from Switzerland. What is the
 
-### Israeli Attack — Cooperation Punished
+### Segment 5 — Iran Israel Ceasefire
 
 status of the new mechanism of this trade of Hermos? It is that in the process of making the new defining the new process? Yes, without a doubt the Iranians are going to take fees after these two months are over, assuming that we get through the two months without the the MOU collapsing.
  And u they are negotiating with Oman to have uh um to be in full coordination with regards to how to carry out this policy. It's not just about fees. It's also about uh controlling uh the Persian Gulf to make sure that it doesn't become another platform for aggression. And uh Iran has very good relations with Oman because Oman chose not to get involved in the war unlike the other five countries um Saudi Arabia and Qatar and Bahrain and the Emirates and Kuwait which assisted the United States in its assault on Iran. Oman stayed out and so
@@ -161,7 +177,7 @@ Iran does want to prioritize its relationship and something that you said earlie
 countries and Israel was behind all of these sort of policies. They wanted to sabotage everything. You mentioned the case of Katar just two days ago and Iranian believe. >> Yeah, the explosion. Explosion. Yeah, you said the explosion. Maybe Iranian perception is that Israel was behind. It was a false flag operation.
  Something like that. >> So, not necessarily a false flag operation. Um I I think that the Israeli uh the belief is that the
 
-### Pakistan Route — China Links
+### Segment 6 — Iran Israel Turkey
 
 Israelis carried out this attack to punish for uh cooperating with Iran and trying to push forward the UOU. >> Yeah. But this is the way that Israel is not happy about it. Israel doesn't want a better relationship between Iran and GCC countries.
  Do you think as time goes by as an outcome of this what has happened so far the understanding on the part of GCC countries would be better because I don't to be honest I don't see many obstacles on the part of Iranians to improve the relationship with them but you see the way that they see Iran as their enemy at some sort of security issue in the region which there is no history behind it there is no way to understand that why are they afraid of Iran because Iran has never attacked them? What is what is that and are they expressing their concerns when it comes
@@ -186,7 +202,7 @@ So no, no one know again people should not uh obviously Vance is going to say th
 >> I got it >> and it's trying to strengthen Oman and it's trying to strengthen the trade routes that go through Pakistan. So during this period some of uh Iranian goods that couldn't get because of the siege uh that couldn't get to Iran directly they would come from uh Pakistan.
  Also there's a land uh there's a link from Pakistan to China. So Iran's uh
 
-### US Politics — Democrat Pressure
+### Segment 7 — Iran Lebanon Russia
 
 links to China uh are go through Central Asia, Afghanistan and Pakistan. Afghanistan of course being uh under very difficult circumstances with a very uh incapable uh government uh doesn't have the infrastructure to uh to facilitate a significant trade between Iran and and China to to be a decent route for expanding trade relations.
  But Pakistan is different. The relationship the Iranians are now using Pakistani ports and the land route to China is also very important. So thanks to the United States, the Iranian Pakistani relationship has been growing. The Iranian Omani relationship has been growing. The Iranian Chinese relationship has been expanding.
@@ -200,7 +216,7 @@ back to Iran. uh the United States may get a few I don't know some tens of billi
  And so, um, removing those sanctions is not going to be something that the Iranians are going to compromise on. If the Americans want compromise on the Iranian nuclear program, they're going to have to make big changes with regards to the sanctions regime. And Iran is not going to accept another JCPOA. The Iranian nuclear program is much more developed than it was in 2015.
  It is much uh more technologically advanced. and Iran is not going to shut down uh enrichment and it's not going to shut down its nuclear program. So, uh if there's going to be a deal, ultimately it's going to mean that the United States gives up those sanctions. And I don't see it happening because uh Trump does not have the political uh clout to be able to force Congress assuming that
 
-### Close — Farewell
+### Closing — Iran Hezbollah Lebanon
 
 he wanted to to bring about any changes because the both the Democratic and the Republican party are deeply deeply under the influence of the
 Israeli regime. And the Israeli regime does not want normalization between Iran and the United States right now. As we discussed earlier, they're pushing for more war. They're pushing to wreck this deal. And as I said, I think that they have a a pretty good chance at succeeding. >> Al Jolani in Syri in Syria, Al Shar, he said that if the need arises for us to sit with Hezbollah, I believe in dialogue.

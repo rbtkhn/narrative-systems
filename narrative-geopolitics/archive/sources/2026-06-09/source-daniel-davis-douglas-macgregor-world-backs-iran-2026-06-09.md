@@ -1,5 +1,11 @@
 ---
 
+
+
+
+
+
+
 ingest_date: 2026-06-09
 pub_date: 2026-06-09
 kind: cleaned-transcript
@@ -26,10 +32,9 @@ evidence_grade: transcript-bearing
 opening_tier: host-monologue
 transcript_wrapper_tier: clean
 normalization_state: ai_assisted_proper_noun_cleanup
-editorial_note: AI-assisted ASR repair (common + series tiers + statecraft entity pass); 14 substitutions; not human-verified verbatim; verify before quotation. Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved. · source-section pass 2026-06-26 (10 sections)."
+editorial_note: "AI-assisted ASR repair (common + series tiers + statecraft entity pass); 14 substitutions; not human-verified verbatim; verify before quotation. Routine closing lineup/subscribe promo trimmed in place; SSOT body otherwise preserved.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (10 sections)."
 quality_note: ASR normalization pass 2026-06-15; ph-civ replacement SSOT.
 davis_close_promo_trim_applied: true
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
@@ -38,6 +43,9 @@ closing_trim_applied: false
 closing_trim_rule: ""
 closing_trim_chars_saved: 0
 closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 10
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # Col Douglas Macgregor THE WORLD BACKS IRAN in this War
@@ -50,7 +58,7 @@ closing_trim_words_saved: 0
 
 ## Transcript
 
-### Show Open — Introduction
+### Show Open — Israel Trump Lebanon
 
 Who is calling the shots between the United States and Israel? Where is this war going? And are we right on the cusp of having a negotiated settlement? And maybe even more importantly than that, where does the United States go? Even aside from this war after this? And has our place in both the region and in the world view been diminished no matter how the war comes out? We're going to talk about all of that today.
  And we have back with us today the ever amazing Douglas McGregor who himself is a highly decorated combat veteran, defense and foreign policy analyst and former adviser to the Secretary of Defense and kind of a foreign policy sage if I can just add that in there. Doug, welcome back to the show as always. >> Happy to be with you as always.
@@ -68,7 +76,7 @@ military has killed eight people in the city of Ty in southern Lebanon as follow
  Without it, nothing is possible." So I think he understands that public sentiment is not with his policy by any means. People are not interested in this war. So that needs to be taken into account. I think that truth has sunken in. Secondly, I I don't think President Trump ever wanted this war to begin with.
  I think he felt or knew that he was obligated best based on the promises that he made before he was elected to produce the war. He's done
 
-### Segment 2 — It I'm Sure He Regrets
+### Segment 2 — Trump Iran Israel
 
 it. I'm sure he regrets the hell out of it. He's now stuck uh you know like a fly on fly paper and he doesn't want to stay there. He wants to get out from under it.
  He's been looking for a way out. I don't I'm not sure that he's got one at this stage. And then lastly, it was nice of him to at least convey the impression that he gave a damn about the rest of the world as well as about his own country. But we'll have to see if this turns into something concrete. Dan, I mean, he doesn't need an agreement to stand up and say, "This has been a disaster for the global economy.
@@ -86,7 +94,7 @@ it. I'm sure he regrets the hell out of it. He's now stuck uh you know like a fl
  It is causing pain in Iran, but it's pain that they already expected and can live with for an extended period of time. So, I think the implication Trump made is that that's going to cause them to give in and make some kind of a deal that's that's beneficial to the United States. But it seems to me that they're not going to do anything that's against their own interest, which is some key areas here.
 And how do you see this thing being resolved if the
 
-### Segment 3 — Iranians Are Saying Some Of
+### Segment 3 — Iran Trump Netanyahu
 
 Iranians are saying some of the non-negotiables so they claim are unfrozen assets upfront because they said we're not going to do what what has happened in the past uh sanctions relief on their energy stuff upfront relief of our blockade uh and then that they will retain control of the straight afterwards.
  I mean those four thing I'm sorry plus plus Lebanon that that may have even been at the top of the list because they've said that is a major major issue which we're going to get to in a second because of the rift with Israel but let's look at those four things first and and where do you see any possibility to narrow the differences between the two sides or is there one >> this has been almost from the beginning a contest in competitive collapse now competitive collapse that terminology was coined by Elliot Cohen in connection with the first world war
@@ -103,7 +111,7 @@ far do we punt? Do we do we go back and say, well, you know, we wanted these fou
  Um to be able to u obviate and and modify uh the the loss of the physical supply which has just been amazing. But there's an end to that. There's only so far you can go to come up with creative ways and then when you physically don't have enough fuel then then it's going to impose itself no matter what. How much time do you think we have? >> Well, if you go back and review what Jeff Curry has had to say, Jeff Curry is probably the number one man in the business of analyzing and understanding the impact of this crisis and oil and gas. And then you look at some others.
 Uh Luke Groman's another one who's very astute on this. And I listened to David Rosenberg early
 
-### Segment 4 — This Morning Uh You're Looking
+### Segment 4 — Israel Iran Trump
 
 this morning. Uh you're looking at something coming to an end in September if you drag it out because by August, we're already going to be in trouble here at home with regard to the strategic petroleum reserve.
  And as you go further in August, we're going to see prices rise. You have the inflation problem anyway. you have the new Fed chairman who's trying to suppress chaos in the markets. Those things are going to become uncontrollable by the end of the summer. So, I would say best case for us would be sometime in September.
@@ -120,7 +128,7 @@ promise that if Israel continued to fire into Lebanon especially in Beirut that 
  Right now, there doesn't appear to be any chance whatsoever for a negotiated end to that fight. Iran has now done something which no one else in the region has done. It is said that their fight is Gaza's fight. Gaza's fight is is Iran's fight. Hisbah's fight is Iran's fight and Iran's fight is his fight. In other words, Iran has emerged as the leader of the Islamic world in resistance to Israeli Jewish supremacy in the region.
 Not so much us because quite frankly our bases are destroyed. Our bases we're we're ejected already for
 
-### Segment 5 — All Intents And Purposes From
+### Segment 5 — Israel Netanyahu Lebanon
 
 all intents and purposes from the Persian Gulf region. Very few people, and I think this is an honest appraisal, either in Washington privately or overseas, expect us to pour back into the Persian Gulf when the war ends.
  I just don't see that occurring. Hisbah is another matter. I don't know how you uh how you deal with that as an Israeli other than scorched earth because both sides are incurably hostile to the other. There doesn't appear to be any room there. So whatever President Trump asks the Israelis to do, the one thing I do not think they will ever do is cease and desist from their attacks on Hezbollah.
@@ -138,7 +146,7 @@ I mean, that's beyond my, you know, Aaron Aaron David Miller is somebody that yo
  At the same time, there was a report out this week that said that this report when it was ready to be released was suppressed until the Congress had a chance to vote on section 224, I think it was, out of the NDAA, which is going to seek to uh codify a closer union between the IDF and the US armed forces and such that uh when Netanyahu keeps making these public claims that hey, we don't need this 3.8 billion anymore.
 it's time to move on from that because he wants to codify actually linking our militaries together which the question is why would Congress this is obviously a a silly question but it's important to answer why would Congress want to suppress that bad knowledge about another country
 
-### Segment 6 — Conducting Espionage On Us So
+### Segment 6 — Israel Iran American
 
 conducting espionage on us so that they could pass a deal to lock in control and linking with another country's armed forces.
 There is no nation state in the world today with whom we have more closely cooperated in military and diplomatic terms over the last century than Great Britain. In the 1990s when I was in the war plans division we looked at the capabilities of our various allied elements. This is back in uh this was 9495 and one of the observations was that you know the British really ought to be more robustly equipped and armed for future operations than they are.
@@ -156,7 +164,7 @@ And I think where the president has been very clear here is that while Israel ob
 " JD Vance is where he is because like everyone else in the Trump administration, they had to take the oath of allegiance to Israel first agenda, the Israel first policies, the Israel first mentality, the Israel first commitment. I think he sees the polls. He sees the wind is changing. Most political figures are windocks.
  And I think he sees that the wind is blowing very strongly now in a direction that is antithetical to the interests of Israel first. And so now he is trying to put distance between himself and the president without seeming to do so. So I would like to give you some optimism, but I can't. Well, okay.
 
-### Segment 7 — Well That Was Pretty Point
+### Segment 7 — American Middle East Trump
 
 Well, that was pretty point blank.
  Uh, I I guess we'll just have to hope that maybe those socks can blow hard enough. But you know what? What could actually help is is more of a an exposure to the cost to the American people, which will probably increase the winds, the the polling winds that you're talking about when they take a look at what has cost us and how what we have failed to do militarily since this thing started.
@@ -175,7 +183,7 @@ We'll pay for them. What else do you want? Oh, well, what do you want? Well, we 
  The nature of warfare has changed. You know, you can strike a target on the Korean Peninsula from a thousand miles away deep inside China and you can kill everybody in and around that target or you can kill nobody. It's whatever you want to do. That that's changed the whole nature of warfare. It has made our presence in Korea and Japan a danger potentially to the Chinese.
  Now, we don't like that. Congress is going
 
-### Segment 8 — To Fight This There Are
+### Segment 8 — Ukraine Iran Russia
 
 to fight this. There are all sorts of reasons. Most of it has to do with money. A lot of it is also vanity. An awful lot of what we do, Dan, is mortgaged to vanity. We're the greatest. We have this. We're there. We're everywhere, you know. And we're talking about our aircraft carriers are out there and they're also 500 miles away so they don't get struck by something, you know, let's wake up and smell the coffee.
  Warfare has changed. >> It It has. And and I I want to I want to show one of the consequences of that vanity. Uh I think Gary has a clip here we pulled where where Trump is repeating as he has so many times all the things of Iran that we have destroyed and that they are completely powerless. >> We have the greatest military in the world. We proved that with Venezuela. We proved it with Iran. Iran's wiped out militarily. It's just a question of time. And uh you know we we gave them a break by stopping a little while. We have a blockade. They have no boats are going in. No boats are even thinking about. We talked about it today. It's very interesting. But they're impressed. We have a great military.
@@ -191,7 +199,7 @@ the nature of sort of a stabilization force a European stabilization force insid
 " What impact do you think this is going to have in that war? >> Truthfully, none other than uh reaffirm Russia's commitment to extending the war until Ukraine ceases to represent a threat. What they've done is promise that yes, give us the opportunity. We'll make it a threat all over again. We'll reverse whatever gains you've made strategically.
  We'll turn Ukraine into the battering ram that it once was. I think they're I think they're overly optimistic. I think Ukraine certainly when you leave Kiev and you go out into the countryside and you deal with the people that are living there is exhausted and the state itself as an apparatus is crumbling. Now, the bad
 
-### Segment 9 — News Is That Uh President
+### Segment 9 — Russia Trump Iran
 
 news is that uh President Putin just gave a speech at in St. Petersburg.
  I've got to go back and read it a couple more times, but it conveys the impression to me, at least in the translation, that he plans, at least for the moment, to stay the course. And he's told his countrymen, we we need to keep on fighting. Uh, I have not heard any promise of victory or completion. That worries me a little bit because I think there are still people in Moscow who hope against hope that they're going to get something from Trump that they can take back to the bank.
@@ -211,7 +219,7 @@ We as a great power demand that our legitimate interests be recognized and so do
  We're not. And until we focus there, I don't think the Russians have much choice. They have to press ahead. >> Well, and what what do you think is going to be possible? Because if if they if they just keep on staying frosty, as you said a second ago, and they just keep on going. I mean, I I thought and I think you and I have over a year ago, I I thought it would be difficult for the Ukrainian army to maintain its solveny into this summer.
  And yet, here we are in the first part of the summer, and they're still solvent. Now, I'm told that there it's a lot weaker at the front line than it has been, but it's still holding. How much longer can it go on with this without Russia changing its fighting doctrine? Well, solvent is probably not a good a good word.
 
-### Segment 10 — Uh You Know What What
+### Closing — Ukraine Europe Middle East
 
 Uh, you know, what what the Ukrainian facade is because it has not been directly destroyed and challenged. Uh, seems seems real. There is a government in Kiev. It's not popularly elected. It's a dictatorship. It's oppressive. It's far more Stalinist than anything else. It's full of all sorts of people that are have criminal inclinations that are stealing as much wealth as they possibly can before this terrible nightmare ends.
 And the only solution to this for the Russians is to cross that river. Because until you cross that river in strength, the facade remains untouched. And that's what's in front of them right now. It's a facade. Just a facade. And that has to be has to be destroyed. Once they destroy it, everybody will shut up.

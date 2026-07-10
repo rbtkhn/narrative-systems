@@ -1,5 +1,11 @@
 ---
 
+
+
+
+
+
+
 ingest_date: '2026-06-23'
 pub_date: '2026-06-23'
 kind: transcript
@@ -29,7 +35,7 @@ source_note: Operator source-intake 2026-06-23; operator-pasted YouTube transcri
 evidence_grade: transcript-bearing
 opening_tier: host-monologue
 capture_note: Operator paste; full interview body preserved from user-supplied YouTube transcript.
-editorial_note: Operator-pasted transcript; ASR artifacts retained (Rathon/Raytheon, Loheed/Lockheed, Scott/Scud, Hormone/Hormuz, etc.); not human-verified verbatim against audio. Closing subscribe promo may be trimmed by post-land normalizers. · source-section pass 2026-06-25 (7 sections)."
+editorial_note: "Operator-pasted transcript; ASR artifacts retained (Rathon/Raytheon, Loheed/Lockheed, Scott/Scud, Hormone/Hormuz, etc.); not human-verified verbatim against audio. Closing subscribe promo may be trimmed by post-land normalizers.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" · source-section pass 2026-07-09 (7 sections)."
 quality_note: Fresh intake 2026-06-23.
 transcript_wrapper_tier: clean
 
@@ -48,15 +54,17 @@ verify:
   - claim: Iron Dome / THAAD cannot reliably kill IRBM warheads (front-end kill required)
     verdict: tier-4-analyst
     note: Physics framing; not wire-scored
-transcript_curation: curated_sectioned
 opening_trim_applied: false
 opening_trim_rule: ""
 opening_trim_chars_saved: 0
 opening_trim_words_saved: 0
-closing_trim_applied: true
-closing_trim_rule: "daniel-davis-closing-v1"
-closing_trim_chars_saved: 243
-closing_trim_words_saved: 47
+closing_trim_applied: false
+closing_trim_rule: ""
+closing_trim_chars_saved: 0
+closing_trim_words_saved: 0
+transcript_curation: curated_sectioned
+section_count: 7
+section_pass: "2026-07-09 semantic-section-v1"
 ---
 
 # MIT Professor Ted Postol: Patriot Missile Capabilities
@@ -69,7 +77,7 @@ closing_trim_words_saved: 47
 
 ## Transcript
 
-### Show Open — Interceptor Fundamentals
+### Show Open — Iran Israel Hormuz
 
 Most of the focus right now is understandably on getting this war between the United States, Iran, and Israel off the books, ended so that we can get onto some peace. And there's obviously so many things that we have to worry about with that and a lot of headwinds against it. But we want to take a pause from that particular issue right now.
  And we want to take kind of a a bigger look at the fundamentals that may ironically be playing into how these negotiations are going to go. And that is in the military realm. And specifically for today, we want to look at the interceptor rate, the US Pac 3, the THAADS, uh, all the other kinds of interceptors, capabilities we have. How effective are they? And if they're not, what they're purported to be, what kind of impact does that have on the Iranian side? It's more important than you may think.
@@ -80,12 +88,10 @@ Apologize for for the difficulties here. We'll get this ironed out. Promise you 
 Uh we're going to get Saudi Arabia joined the Abraham Accords and uh which is the biggest change in 5,000 years in the Middle East. And if Iran contest control of the Straight of Hormuz by the United States, we will obliterate them. So to all the people listening, if this diplomatic uh effort fails, President Trump is going to take the Straight of Hormone. We're going to run it.
  We're going to try to get Saudi Arabia to join the Abraham of course in the Arab-Israeli conflict in 2026. And if Iran continues to attack Israel and Lebanon, the new policy will be we'll hit Iran. So to to the Iranians, if you're listening,
 
-### Graham Clip — Hezbollah Escalation Policy
-
 when you use Hezbollah to attack Israel, I think the new policy will be we will attack Iran.
 >> Yeah, that's going to be great as long as you have something to defend against Iran's counterattack. Uh, and I don't think Lindsey Graham apparently did not go to Warsaw to get your process uh to get your presentation there. >> Apparently not. Uh, it was a very interesting discussion. Um uh I expected uh to have a
 
-### Warsaw Brief — Skepticism and Data
+### Segment 2 — Israel Pentagon Russia
 
 lot of skepticism and hostility quite honestly from the audience and uh it was really nothing but open interest and uh uh I had a lot of discussions with the soldiers uh who were there and uh learned a whole bunch
 of things that uh were very disturbing. For example, uh I already knew from contacts I have at the Pentagon that nobody in the Pentagon seems to have any primary data on the performance of Patriot. What the what they get at the Pentagon are slides that claim 90% performance. When the people I'm talking to when I ask them, have they shown you any data? you know, when you ask what's behind the slides, uh, they can't get anything.
@@ -100,7 +106,7 @@ And there was some debate in Israel about whether or not there was one intercept
  if you can kind of set the stage and I know you have a number of videos to show us but if you can show us that one from the Persian Gulf War because we can see what this was back in the 90s and the under expectation is well because of Morris law and everything else of course it's going to be a lot better today but if we see what it did back then and then what you show us today it's going to look pretty much the same.
 >> Uh yeah I I I think so although there'll be different things we're looking for. Why don't uh Gary, why don't you put on the video called
 
-### Gulf War — Scud Video Evidence
+### Segment 3 — Scud Interesting Video
 
 spiraling uh Scud. So, this is a a very interesting video. This is an example of a patriot attempt to hit an incoming Scud. Uh this was uh taken with a you'll see it happen very fast and then we'll have a slow motion rendition of the whole engagement.
  The Scud comes in. You see it's maneuvering. There's an explosion. There are two explosions which I'll I'll explain shortly and those are patri inter explosions of patriot interceptors. The patriot pack 2 which was used in the Gulf War of 1991. Here we see it in slow motion and uh we'll see as this you can see the maneuver of the warhead of the Scud actually and uh and then we'll see an explosion of a patriot behind it.
@@ -117,7 +123,7 @@ And we uh we didn't even have pack two we didn't even have a large number of PC 
  The PAC one had no capability. So he he he tells the audience that oh we had a lot of PAC ones we were using as well. So you know your findings are not surprising. So I said to him,"Well, uh, they they were a surprise to the president and and and the secretary of defense because your company misinformed them about this.
  They they thought it was 90% over 90% effective." And when I said that, he got very angry and he said, "You know,
 
-### Raytheon — Integrity Exchange
+### Segment 4 — Ceasefire Say Your
 
 everything that people say about your integrity is demonstrated here by your your your statement to me." And I said to him, I'm sorry, we're not talking about my integrity. We're talking about yours. Your [laughter] your company is the one that made this claim.
  I was the one who corrected it. It was really hilarious. And >> and how did people reacted? Did they say, "Oh, no, he's right." Or did they say, "No, Professor military audience." So the military, you know, soldiers are very polite. But after all these soldiers, young and senior, you know, junior and senior, came up to me and said, "We were so glad you said what you did.
@@ -129,7 +135,7 @@ left. So the question is if we run out of PAC 3s do you know how many do we have
  1,200 pack 3es, $4 million each. That's $4.8 billion of interceptors. We are now talking about replacing $4.8 8 billion of pack 3 interceptors with pack 3 interceptors that might shoot down two to 3% of the ballistic missiles coming in. That does not to me look like a very good uh expenditure of defense funds. and uh you know so I'm hoping that some members of Congress will pick up on this and and I think there is a very simple way for the members of Congress to get the evidence they need beyond what the evidence beyond the evidence I'm already
 showing them which is enough to tell them what the situation is. What they should do is they should go to the contractor and demand that the contractor provide them the radar evidence of the intercepts they're claiming were achieved because the PAC 3 would cause the
 
-### Iran Theater — Radar Detonation Data
+### Segment 5 — Iran Israel Hezbollah
 
 detonation of the uh of the incoming Iranian ballistic missile warhead.
  The detonation of the warhead is easily observed by the radar. So the radar tracking system would have the data to demonstrate that intercepts occurred. So they should have a very high percentage, you know, 90% of of of the radar track data should be available to show that the the intercepts occurred. It's amazing that nobody in the US government has demanded that data.
@@ -152,6 +158,8 @@ So, so, so if the if I if the artillery rocket is so far away, if it's coming in
  So let's say I need a second to maneuver to do the final adjustment to hit the front end. So one second gives me 200 meter. So if I see if I can see it at 200 meters distance, uh then uh I have the time to try to adjust to hit it. Now if the thing is coming in at at 3,000 meters/s, then one second before I hit it, it's it's 3,000 meters away.
  I don't even see I can't even see it at that point. So, I have no chance of making an intercept. It's like if you could see a bullet coming at you when it's one mile away, you might have a fraction of a second to move a bit to to possibly move out of the way of the bullet, but you can't see it at all until it hits you. >> Okay.
  So, let me ask you a separate question. Uh because some people just euphemistically refer to all the air uh Israeli air defenses as Iron Dome. But they also include David Sling and the I think the A2 and A3 systems. Are those designed to intercept ballistic missiles? And if so, what effectiveness have they had?
+
+### Segment 6 — Iran Israel Russia
 
 >> Well, uh David Sling uh and THAAD uh are designed to intercept uh ballistic missiles at higher altitudes.
 Now the advantage of intercepting at higher altitude is that um uh at higher altitude the air density is not so high that the target is maneuvering just due to wobbling in the air. So if it's wobbling a bit it's not maneuvering as well because this isn't enormous aerodynamic forces. You know, when I wobble, I develop lift on the body and I start maneuvering.
@@ -185,7 +193,7 @@ So, so the drone war beats you economically and in terms of numbers. Your advers
  It'll depend on the technology the sophistication of the available technology. But uh otherwise I think air defenses are doubtful assets in the future because between the drone threat which overwhelms them with numbers of inexpensive uh you know attackers or the ballistic missile threat which they can't hit you know what is the utility of an air defense.
  So, so is and if you don't know this, that's fine. You just just let me know. But let's say for I think it's SM2, SM3 airto ground missiles that we can fire, JASM missiles,
 
-### Tomahawk — Russia Intercept Ability
+### Closing — Russia Pentagon Iran
 
 tomahawk cruise missiles. Does Russia have the ability to shoot those down with their air defense right now or are they in the same boat that we are? >> I think Russia has some ability to shoot down some of the missiles.
  For example, they were very successful against the Atacums. Now the reason they were successful against the ATACMS is it's not really a ballistic missile. The ATACum first flies on a ballistic trajectory and then it re-enters the atmosphere and it becomes a glide bomb and it you know it it it it glides toward the trae toward the target and it slows up as it glides.

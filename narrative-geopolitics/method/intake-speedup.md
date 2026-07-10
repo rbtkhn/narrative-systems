@@ -62,8 +62,9 @@ Landing should **not** pause for:
 
 Use the helper at [../../scripts/land_best_intake.py](../../scripts/land_best_intake.py).
 
-For operator paste sessions, pair it with
-[../templates/intake-metadata.md](../templates/intake-metadata.md).
+Default same-day flow is now paste-first. Metadata sidecars remain useful for
+batch landing, retries, and oddball sources, but they are no longer the main
+single-source path.
 
 It automates the slowest repeated operations:
 
@@ -72,14 +73,17 @@ It automates the slowest repeated operations:
 - writing standard frontmatter
 - appending a manifest row
 - incrementing manifest `source_count`
+- applying approved deterministic trim
+- applying conservative ASR repair for approved transcript hosts when corruption is obvious and low-risk
+- applying conservative semantic sectioning for approved transcript shapes when confidence is high enough
 
 ## New Fast Path
 
 For each pasted transcript:
 
-1. Save the pasted body to a local text file.
-2. Fill [../templates/intake-metadata.md](../templates/intake-metadata.md).
-3. Run `land_best_intake.py` with `--metadata-file` for one source or `--batch-dir` for a whole folder.
+1. Provide the pasted body plus source URL and date to `best-intake`.
+2. Let `land_best_intake.py` infer title, host, guest, source form, and provisional routing when the signals are clear.
+3. Use explicit metadata mode only when the inference surface is weak or the batch is large enough to justify sidecars.
 4. Review the generated archive file header once.
 5. Defer voice/channel enrichment unless the source is immediately synthesis-critical.
 
@@ -89,20 +93,25 @@ Require only:
 
 - `pub_date`
 - `ingest_date`
-- `title`
 - `url`
-- `body_file`
+- `body`
+
+Infer by default when possible:
+
+- `title`
 - one provisional `voice_slug`
-
-Optional:
-
 - `host_slug`
 - `host`
 - `guest`
 - `show_title`
 - `channel_name`
+- `source_form`
+
+Optional:
+
 - `source_class`
 - `editorial_note`
+- explicit sidecar / `body_file` mode for batch work
 
 If the optional fields are unclear, land with provisional metadata instead of
 stopping the batch.
@@ -113,7 +122,8 @@ stopping the batch.
 - Missing channel shelf is not an intake blocker.
 - If host identity is only moderately clear, route provisionally and continue.
 - If title cleanup is imperfect but truthful, continue.
-- If transcript quality is noisy, preserve the noise and continue.
+- If transcript quality is noisy but the repair is obvious and low-risk, repair it and continue.
+- If the repair depends on judgment, preserve the noise and continue.
 
 ## Recommended Batch Workflow
 
@@ -133,6 +143,17 @@ Use two passes:
 - open channel shelves only for synthesis-relevant items
 - create the daily run after the archive batch is complete
 - hand off to `geopolitical-synthesis` for guided bootstrap, reconciliation, or execution
+
+Sectioning is no longer purely deferred enrichment. For approved hosts it now
+belongs to landing when the transcript has strong structural cues; otherwise the
+transcript is preserved unsectioned and can be revisited later.
+
+ASR repair is now also part of landing, but only in a conservative form:
+
+- fix obvious repeated corruption
+- remove obvious leftover transcript wrappers
+- avoid semantic rewriting
+- skip anything that depends on judgment
 
 ## Next Improvements
 
