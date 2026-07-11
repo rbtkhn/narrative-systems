@@ -4,7 +4,7 @@ This index routes the imported Ritter corpus for `ritter` to the central Narrati
 
 Source basis: `strategy-codex/statecraft/voices/ritter/ritter-index.md`.
 
-Corpus: 99 local route rows across 99 central archive source files.
+Corpus: 101 local route rows across 101 central archive source files.
 
 Status: `imported-corpus`
 
@@ -40,8 +40,8 @@ Status: `imported-corpus`
 | `2025-11-02` | It's ALL BLOWING UP - Iran & Russia Vow to WIPE OUT Any Attack! \| Scott Ritter & Andrei Martyanov | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2025-11-02/source-dialogue-works-scott-ritter-andrei-martyanov-its-all-blowing-up-iran-russia-vow-to-wipe-out-any-attack-2025-11-02.md) |
 | `2025-11-04` | Scott Ritter: NATO's Ukraine Strategy Is Collapsing | `article` | `judging-freedom` | [source](../../archive/sources/2025-11-04/source-judging-freedom-ritter-natos-ukraine-strategy-is-collapsing-2025-11-04.md) |
 | `2025-11-05` | Scott Ritter: Russia & Iran Just Triggered It All! | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2025-11-05/source-dialogue-works-scott-ritter-scott-ritter-russia-iran-just-triggered-it-all-2025-11-05.md) |
-| `2025-12-01` | Scott Ritter: Did Hegseth Order Murders? | `article` | `judging-freedom` | [source](../../archive/sources/2025-12-01/source-judging-freedom-ritter-did-hegseth-order-murders-2025-12-01.md) |
 | `2025-12-01` | Scott Ritter: War Has Been Won & Russia Faces a Dilemma | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-12-01/source-glenn-diesen-scott-ritter-scott-ritter-war-has-been-won-russia-faces-a-dilemma-2025-12-01.md) |
+| `2025-12-01` | Scott Ritter: Did Hegseth Order Murders? | `article` | `judging-freedom` | [source](../../archive/sources/2025-12-01/source-judging-freedom-ritter-did-hegseth-order-murders-2025-12-01.md) |
 | `2025-12-03` | Scott Ritter: Putin Warns Europe: “We’re Ready Right Now” | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2025-12-03/source-dialogue-works-scott-ritter-scott-ritter-putin-warns-europe-we-re-ready-right-now-2025-12-03.md) |
 | `2025-12-06` | Putin Defies Trump: EU Cornered as Ukraine Troops Collapse \| Scott Ritter | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2025-12-06/source-dialogue-works-scott-ritter-putin-defies-trump-eu-cornered-as-ukraine-troops-collapse-scott-ritter-2025-12-06.md) |
 | `2025-12-10` | Scott Ritter: The U.S. Now Considers the EU an Enemy | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-12-10/source-glenn-diesen-scott-ritter-scott-ritter-the-u-s-now-considers-the-eu-an-enemy-2025-12-10.md) |
@@ -52,10 +52,10 @@ Status: `imported-corpus`
 | `2026-01-06` | The Battle of New York (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-01-06/source-ritter-the-battle-of-new-york-2026-01-06.md) |
 | `2026-01-09` | The Camel’s Bloody Nose (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-01-09/source-ritter-the-camels-bloody-nose-2026-01-09.md) |
 | `2026-01-10` | The End of a Dream? (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-01-10/source-ritter-the-end-of-a-dream-2026-01-10.md) |
-| `2026-01-12` | Iranian Resilience (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-01-12/source-ritter-iranian-resilience-2026-01-12.md) |
 | `2026-01-12` | Scott Ritter: How Close Is Putin to Escalation? | `article` | `judging-freedom` | [source](../../archive/sources/2026-01-12/source-judging-freedom-ritter-how-close-is-putin-to-escalation-2026-01-12.md) |
-| `2026-01-13` | Losing the Republic (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-01-13/source-ritter-losing-the-republic-2026-01-13.md) |
+| `2026-01-12` | Iranian Resilience (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-01-12/source-ritter-iranian-resilience-2026-01-12.md) |
 | `2026-01-13` | Scott Ritter: Trump Set Up Putin & Escalates War With Russia | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-01-13/source-glenn-diesen-scott-ritter-trump-set-up-putin-escalates-war-with-russia-2026-01-13.md) |
+| `2026-01-13` | Losing the Republic (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-01-13/source-ritter-losing-the-republic-2026-01-13.md) |
 | `2026-01-16` | Back to the Future (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-01-16/source-ritter-back-to-the-future-2026-01-16.md) |
 | `2026-01-16` | Reflections on a War (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-01-16/source-ritter-reflections-on-a-war-2026-01-16.md) |
 | `2026-01-18` | Don't Drink the Water (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-01-18/source-ritter-dont-drink-the-water-2026-01-18.md) |
@@ -66,8 +66,8 @@ Status: `imported-corpus`
 | `2026-02-11` | Scott Ritter: Trump in MAJOR Trouble \u2014 China & Russia Arm Iran With Deadly Weapons! | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-02-11/source-dialogue-works-scott-ritter-trump-in-major-trouble-china-russia-arm-iran-with-deadly-we-2026-02-11.md) |
 | `2026-02-18` | Scott Ritter: Hormuz Blocked! Iran\u2019s Missile Fire Can Leave the US Navy DEFENSELESS | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-02-18/source-dialogue-works-scott-ritter-hormuz-blocked-iran-s-missile-fire-can-leave-the-us-navy-de-2026-02-18.md) |
 | `2026-02-19` | Scott Ritter: U.S. Revives Empire & Europe Is No Longer An Ally | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-02-19/source-glenn-diesen-scott-ritter-u-s-revives-empire-europe-is-no-longer-an-ally-2026-02-19.md) |
-| `2026-02-20` | Dead at 27 (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-02-20/source-ritter-dead-at-27-2026-02-20.md) |
 | `2026-02-20` | Scott Ritter on US Foreign Policy, CIA & What's REALLY Happening in Venezuela, Iran & Ukraine | `host-pressure test` | `india-global-left` | [source](../../archive/sources/2026-02-20/source-india-global-left-us-foreign-policy-cia-venezuela-iran-ukraine-scott-ritter-2026-02-20.md) |
+| `2026-02-20` | Dead at 27 (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-02-20/source-ritter-dead-at-27-2026-02-20.md) |
 | `2026-02-22` | The Flamingo Effect (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-02-22/source-ritter-the-flamingo-effect-2026-02-22.md) |
 | `2026-02-23` | Scott Ritter: What War With Iran Will Look Like | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-02-23/source-judging-freedom-ritter-what-war-with-iran-will-look-like-2026-02-23.md) |
 | `2026-02-28` | Scott Ritter: Full-Scale War as Iran Attacks All U.S. Targets | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-02-28/source-glenn-diesen-scott-ritter-full-scale-war-as-iran-attacks-all-u-s-targets-2026-02-28.md) |
@@ -93,11 +93,11 @@ Status: `imported-corpus`
 | `2026-04-07` | Scott Ritter: War Goes Horribly Wrong - U.S. Could Use Nuclear Weapons | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-04-07/source-glenn-diesen-scott-ritter-war-goes-horribly-wrong-u-s-could-use-nuclear-weapons-2026-04-07.md) |
 | `2026-04-08` | Scott Ritter: The US War on Iran Just COLLAPSED \u2013 Ceasefire Does the Impossible | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-04-08/source-dialogue-works-scott-ritter-the-us-war-on-iran-just-collapsed-ceasefire-does-the-imposs-2026-04-08.md) |
 | `2026-04-09` | \"There Is No Ceasefire\" — Scott Ritter on Iran, Israel & What Comes Next | `host-pressure test` | `india-global-left` | [source](../../archive/sources/2026-04-09/source-india-global-left-no-ceasefire-scott-ritter-2026-04-09.md) |
-| `2026-04-13` | Blasphemy, American Style (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-04-13/source-ritter-blasphemy-american-style-2026-04-13.md) |
 | `2026-04-13` | Scott Ritter: TRUMP's BLOCKADE IS A JOKE | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-13/source-daniel-davis-scott-ritter-trump-s-blockade-is-a-joke-2026-04-13.md) |
+| `2026-04-13` | Blasphemy, American Style (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-04-13/source-ritter-blasphemy-american-style-2026-04-13.md) |
 | `2026-04-17` | Diesen × Scott Ritter — Russia Threatens Strike on Finland & Baltic States (operator transcript SSOT) | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-04-17/source-diesen-ritter-russia-threatens-strike-finland-baltic-2026-04-17.md) |
-| `2026-04-20` | Scott Ritter: Trump and Hegseth Haven't a Clue | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-04-20/source-trump-hegseth-2026-04-20.md) |
 | `2026-04-20` | The Shorting of America | `solo` | `ritter` | [source](../../archive/sources/2026-04-20/source-rant-shorting-america-7pXI52jKcOU-2026-04-20.md) |
+| `2026-04-20` | Scott Ritter: Trump and Hegseth Haven't a Clue | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-04-20/source-trump-hegseth-2026-04-20.md) |
 | `2026-04-27` | A New Middle Eastern Power Paradigm (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-04-27/source-ritter-new-middle-eastern-power-paradigm-2026-04-27.md) |
 | `2026-05-03` | The Fifth Year | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-05-03/source-ritter-fifth-year-russia-smo-2026-05-03.md) |
 | `2026-05-04` | Diesen × Scott Ritter — Strait of Hormuz, escalation, and return to war (operator transcript) | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-05-04/source-diesen-ritter-hormuz-return-to-war-2026-05-04.md) |
@@ -118,8 +118,9 @@ Status: `imported-corpus`
 | `2026-06-10` | Shoot the Dog | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-06-10/source-ritter-shoot-the-dog-2026-06-10.md) |
 | `2026-06-19` | A Trail of Tears | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-06-19/source-ritter-a-trail-of-tears-2026-06-19.md) |
 | `2026-06-23` | Scott Ritter: Russia and US/Iran MoU; Ukraine Attacks Moscow | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-23/source-judging-freedom-ritter-russia-us-iran-mou-ukraine-attacks-moscow-2026-06-23.md) |
+| `2026-07-01` | Scott Ritter: Trump Briefed on All-Out War Scenario in Iran | `guest interview pressure test` | `garland-nixon` | [source](../../archive/sources/2026-07-01/source-scott-ritter-trump-briefed-on-all-out-war-scenario-in-iran-2026-07-01.md) |
+| `2026-07-09` | The Patriot Trap | `authored` | `scott-ritter` | [source](../../archive/sources/2026-07-09/source-the-patriot-trap-2026-07-09.md) |
 
 ## Import Boundary
 
 This import followed the strategy-codex Ritter index and copied source captures into `archive/sources/YYYY-MM-DD/` with manifest rows preserved locally.
-

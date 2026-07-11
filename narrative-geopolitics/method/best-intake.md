@@ -113,11 +113,29 @@ not need retroactive header rewrites when their manifest routes are complete.
 - claim extraction
 - forecast generation
 
+It also defers canonical voice-identity normalization and durable shelf
+reconciliation. The manifest field `voice_index_path` is the archive link as it
+would be used from a voice directory; it is not evidence that a voice shelf was
+updated.
+
 Short rule:
 
 ```text
 archive now, interpret later
 ```
+
+The downstream handoff is:
+
+```text
+best-intake
+-> canonicalize alias-affected voice metadata
+-> reconcile existing voice source indexes
+-> geopolitical-synthesis
+```
+
+Person identity uses the canonical `voices/<slug>/` directory name. Host and
+channel identity remains separate: `host_slug: alexander-mercouris` can route
+to the canonical `mercouris` voice.
 
 Small deterministic wrapper removal is allowed when it saves obvious intake
 waste without changing source meaning. Current approved case:

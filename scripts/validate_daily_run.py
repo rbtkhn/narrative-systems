@@ -3,8 +3,16 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import sys
 from pathlib import Path
 from typing import Any
+
+SCRIPTS_ROOT = Path(__file__).resolve().parent
+if str(SCRIPTS_ROOT) not in sys.path:
+    sys.path.insert(0, str(SCRIPTS_ROOT))
+
+import voice_indexes
+import voice_metadata
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -198,6 +206,17 @@ def validate_run(run_date: str, stage: str = "intake") -> dict[str, Any]:
         for hook_id in hook_ids:
             if hook_id not in ledger_hook_ids:
                 warnings.append(f"forecast hook missing from ledger: {hook_id}")
+
+    if downstream and rows:
+        failures.extend(voice_metadata.metadata_failures(manifest, REPO_ROOT, run_date))
+        voice_report = voice_indexes.reconcile(
+            manifest,
+            run_date=run_date,
+            write=False,
+            repo_root=REPO_ROOT,
+            voices_root=NG_ROOT / "voices",
+        )
+        failures.extend(voice_report["failures"])
 
     return {
         "date": run_date,

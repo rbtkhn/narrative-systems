@@ -6,13 +6,27 @@ A voice is a recurring source-person whose claims, frames, forecasts, contradict
 
 ## Purpose
 
-Voice records help daily geopolitics work remember whether a claim is new, recurring, contradicted, forecast-bearing, or shaped by source modality.
+Voice records help daily geopolitics and council work remember whether a claim
+is new, recurring, contradicted, forecast-bearing, or shaped by source
+modality. They make an intellectual framework queryable without pretending to
+reproduce a person's unobserved current beliefs.
 
 They keep the system from treating every quote or article as isolated.
+
+In dialogue, a voice record constrains an interlocutor; it does not supply a
+persona. The response must follow the
+[dialogue contract](../method/dialogue-contract.md), cite its source floor, and
+preserve tensions that the corpus does not resolve.
 
 ## Voice Records
 
 A `voice record` is the durable continuity object for one person/source.
+
+The directory name is the canonical person slug. It is distinct from
+`host_slug`, which identifies the channel or host context. Historical aliases
+are canonicalized after intake and before synthesis; source indexes are then
+reconciled from the manifest. A manifest voice does not automatically earn a
+new voice directory.
 
 Use [_template.md](_template.md) for every new voice record. The template is intentionally lighter than the inherited `strategy-codex/statecraft` voice machinery, but it preserves one important law: every recurring voice should have the same basic shape.
 
@@ -45,6 +59,7 @@ Pape is currently `full-source-parity`. The other core voices are `first-slice-p
 | Glenn Diesen | [diesen/README.md](diesen/README.md) | [diesen/source-index.md](diesen/source-index.md) | internal / first-slice-parity |
 | Larry Johnson | [johnson/README.md](johnson/README.md) | [johnson/source-index.md](johnson/source-index.md) | internal / first-slice-parity |
 | John Mearsheimer | [mearsheimer/README.md](mearsheimer/README.md) | [mearsheimer/source-index.md](mearsheimer/source-index.md) | internal / first-slice-parity |
+| Jiang Xueqin | [jiang/README.md](jiang/README.md) | [jiang/source-index.md](jiang/source-index.md) | internal / imported-corpus |
 | Seyed Mohammad Marandi | [marandi/README.md](marandi/README.md) | [marandi/source-index.md](marandi/source-index.md) | internal / first-slice-parity |
 | Robert Pape | [pape/README.md](pape/README.md) | [pape/source-index.md](pape/source-index.md) | internal / full-source-parity |
 

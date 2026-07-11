@@ -1,7 +1,24 @@
 # Narrative Geopolitics Work Surface
 
-`work/` holds internal judgment, experiments, and forecast accountability. It
-does not own source truth.
+`work/` holds internal dialogue, judgment, experiments, and forecast
+accountability. It does not own source truth.
+
+## Council Dialogues
+
+`dialogues/` contains manual, corpus-bounded experiments in realistic dialogue
+with curated intellectual voices. Start with
+[dialogues/_template.md](dialogues/_template.md) and obey the
+[dialogue contract](../method/dialogue-contract.md).
+
+Each voice response is drafted separately from the same bounded question. A
+moderator may compare or synthesize only after the responses exist; the
+moderator must not silently make the voices agree. Dialogues are interpretive
+work products, not archive evidence, actual interviews, or claims about a
+person's present opinion.
+
+The first manual experiment is the
+[Council Value Test](dialogues/2026-07-council-value-test/README.md). It must
+earn automation by demonstrating fidelity, differentiation, and reader value.
 
 ## On-Demand Daily Runs
 
@@ -42,6 +59,19 @@ The guided menu is:
 The older `scripts/geo_synthesis.py` filename remains a compatibility shim.
 
 ## Validation
+
+Before synthesis, normalize provisional person identifiers and reconcile
+manifest-backed routes into voice shelves that already exist:
+
+```powershell
+.\scripts\python.ps1 scripts\canonicalize_voice_metadata.py --date YYYY-MM-DD --check
+.\scripts\python.ps1 scripts\sync_voice_indexes.py --date YYYY-MM-DD --check
+```
+
+Guided choice `B` performs both repairs. This downstream step does not change
+private intake, source bodies, filenames, archive paths, or host/channel slugs.
+Manifest voices without an established shelf are reported but do not block
+synthesis.
 
 Validate a day at the relevant stage:
 
@@ -105,7 +135,7 @@ matches. The handoff is never archive evidence or a research ledger.
 The order remains:
 
 ```text
-archive -> voices/channels -> work/daily -> forecast review -> optional public
+archive -> voices/channels -> work/daily or work/dialogues -> forecast review -> optional public
 ```
 
 Use newly landed day sources first. Retrieve older material only when it changes

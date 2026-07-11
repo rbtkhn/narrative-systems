@@ -10,7 +10,9 @@ independently verified situation report.
 
 ## Active Dossier
 
-### Iran-Hormuz-Lebanon settlement breakdown
+### Who Governs Commercially Tolerable Passage Through Hormuz?
+
+Search alias: `Iran-Hormuz-Lebanon settlement breakdown`
 
 State: `active-dossier`
 
@@ -40,7 +42,9 @@ Next review triggers:
 Watch candidates are not active dossiers and are not ordered by importance.
 Recurring source attention alone is insufficient for promotion.
 
-### Russia-NATO direct escalation
+### When Rearmament Rhetoric Acquires Deployable Capacity
+
+Search alias: `Russia-NATO direct escalation`
 
 State: `watch-candidate`
 
@@ -65,7 +69,9 @@ Promote only when:
 Demote or park when: the signal remains recurring escalation rhetoric without
 a changed decision or capability.
 
-### Ukraine battlefield and negotiation endgame
+### When Battlefield Direction Changes Acceptable Settlement Terms
+
+Search alias: `Ukraine battlefield and negotiation endgame`
 
 State: `watch-candidate`
 
@@ -94,7 +100,9 @@ Promote only when:
 Demote or park when: new sources repeat the existing trajectory without
 changing the bounded judgment.
 
-### Israel-Lebanon front
+### Whether Conditional Withdrawal Becomes the New Normal
+
+Search alias: `Israel-Lebanon front`
 
 State: `watch-candidate-linked`
 
@@ -114,7 +122,9 @@ Promote only when:
 Demote or park when: Lebanon remains evidence inside the active dossier rather
 than an independently changing crisis object.
 
-### Gulf regional spillover
+### When Hormuz Pressure Becomes Regional Participation
+
+Search alias: `Gulf regional spillover`
 
 State: `watch-candidate-emerging`
 

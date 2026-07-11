@@ -4,7 +4,7 @@ This index routes Robert Pape voice work to the central Narrative Geopolitics so
 
 Source basis: `strategy-codex/statecraft/voices/pape/pape-index.md`.
 
-Corpus: 58 authored sources, 17 guest appearances, 75 total imported sources.
+Corpus: 60 authored sources, 17 guest appearances, 77 total imported sources.
 
 ## Reading Rule
 
@@ -108,3 +108,8 @@ Corpus: 58 authored sources, 17 guest appearances, 75 total imported sources.
 - [2026-06-29 — The MOU Is Dying — Worse Is Still Ahead](../../archive/sources/2026-06-29/source-pape-the-mou-is-dying-worse-is-still-ahead-2026-06-29.md) — **authored** · substack-post
 - [2026-06-30 — Situation Report: Pakistan's Troops in Saudi Arabia](../../archive/sources/2026-06-30/source-pape-situation-report-pakistans-troops-2026-06-30.md) — **authored** · substack-post
 - [2026-06-30 — TRUMP SAYS TALKS ON, IRAN SAYS NO — WHO'S CONTROLLING ESCALATION? – w…](../../archive/sources/2026-06-30/source-mario-nawfal-robert-pape-trump-says-talks-on-iran-says-no-controlling-escalation-2026-06-30.md) — **guest** · cleaned-transcript · host: `mario-nawfal`
+
+## 2026-07
+
+- [2026-07-06 — The Gathering Storm: Iran's Funeral and the Coming August Shock](../../archive/sources/2026-07-06/source-the-gathering-storm-iran-s-funeral-and-the-coming-august-shock-2026-07-06.md) — **authored** · substack-post
+- [2026-07-08 — Situation Report - Special Edition](../../archive/sources/2026-07-08/source-situation-report-special-edition-2026-07-08.md) — **authored** · substack-post

@@ -4,6 +4,8 @@ Date: `YYYY-MM-DD`
 
 Status: `template`
 
+Forecast rule: state a causal wager, not topic plus outcome. See [labels as analytical interfaces](../method/analytical-interfaces.md).
+
 ## Probability Bands
 
 Use coarse bands, not false precision:
@@ -15,9 +17,17 @@ Use coarse bands, not false precision:
 
 ## Hooks
 
-| Hook ID | Claim | Probability Band | Review Date | Strengthening Evidence | Weakening Evidence |
-| --- | --- | --- | --- | --- | --- |
-| `NG-YYYYMMDD-F01` |  |  |  |  |  |
+| Hook ID | Observable claim | Causal mechanism | Probability Band | Review Date | Strengthening evidence | Weakening evidence | Resolution criteria | Principal alternative |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `NG-YYYYMMDD-F01` |  |  |  |  |  |  |  |  |
+
+## Forecast Quality Gate
+
+- The claim is observable inside the time boundary.
+- The mechanism explains why this outcome should occur.
+- The principal alternative could explain the same surface evidence.
+- Weakening evidence can reduce confidence before resolution.
+- Resolution criteria permit `hit`, `miss`, `mixed`, or `unresolvable_with_authorized_evidence` without hindsight rewriting.
 
 ## Ledger Entries
 

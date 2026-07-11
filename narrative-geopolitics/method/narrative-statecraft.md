@@ -2,7 +2,8 @@
 
 Narrative Statecraft is the internal method layer of Narrative Geopolitics.
 
-It names how the system converts source material into public geopolitical judgment.
+It names how the system converts source material into corpus-bounded dialogue,
+public geopolitical judgment, and accountable forecasts.
 
 ## Intake Layer
 
@@ -12,6 +13,11 @@ That contract exists to keep archive throughput high while preserving enough pro
 
 ## Method
 
+Use [analytical-interfaces.md](analytical-interfaces.md) when naming crisis objects, lead judgments, forecasts, watch objects, voice roles, dialogue questions, uncertainty, and reader-facing sections. These labels should carry the system's distinctions rather than merely name containers.
+
+The source floor can support two related paths. Neither has authority over the
+archive.
+
 ```text
 source material
 -> claims
@@ -20,8 +26,10 @@ source material
 -> voice / channel checks
 -> narratives
 -> constraints
--> judgment
--> forecast / review hook
+-> either:
+   A. separately reconstructed voices -> disagreement -> moderator synthesis
+   B. analyst synthesis -> judgment
+-> optional forecast / review hook
 ```
 
 ## Inheritance From Statecraft
@@ -41,6 +49,10 @@ Narrative Statecraft inherits these principles from `strategy-codex/statecraft`:
 Use [voice-continuity.md](voice-continuity.md) when a daily run depends on whether a source-person's claim is new, recurring, contradicted, forecast-bearing, or shaped by source modality.
 
 Use `voice` as the umbrella term. Use `speaker` only when the source is specifically a spoken appearance.
+
+For dialogical work, also use [dialogue-contract.md](dialogue-contract.md). It
+defines what a reconstructed voice may say, how inference is labeled, and why
+the moderator must remain separate.
 
 ## Channel Conditioning
 

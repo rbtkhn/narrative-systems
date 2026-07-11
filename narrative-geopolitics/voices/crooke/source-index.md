@@ -4,7 +4,7 @@ This index routes the unified local Crooke corpus for `crooke` to the central Na
 
 Source basis: `strategy-codex/statecraft/voices/crooke/crooke-index.md` plus already-local 2026 Crooke archive rows.
 
-Corpus: 66 local route rows across 66 central archive source files.
+Corpus: 69 local route rows across 69 central archive source files.
 
 Status: `imported-corpus`
 
@@ -58,8 +58,8 @@ Status: `imported-corpus`
 | `2026-04-08` | the 10-point iranian framework and the empowering of iran | `authored newsletter` | `crooke` | [source](../../archive/sources/2026-04-08/source-crooke-the-10-point-iranian-framework-and-2026-04-08.md) |
 | `2026-04-10` | iran determination breakout panopticon western 360 containment | `authored newsletter` | `crooke` | [source](../../archive/sources/2026-04-10/source-crooke-irans-determination-to-breakout-from-2026-04-10.md) |
 | `2026-04-18` | markets prematurely may celebrate next phase bigger war | `authored newsletter` | `crooke` | [source](../../archive/sources/2026-04-18/source-crooke-markets-prematurely-may-celebrate-2026-04-18.md) |
-| `2026-04-23` | Alastair Crooke: Iranians Only Getting Tougher w/ Lt. Col. Daniel Davis | `solo` | `daniel-davis` | [source](../../archive/sources/2026-04-23/source-daniel-davis-crooke-iranians-only-getting-tougher-2026-04-23.md) |
 | `2026-04-23` | mechanistic fallacy west geo-politics | `authored newsletter` | `crooke` | [source](../../archive/sources/2026-04-23/source-crooke-the-mechanistic-fallacy-why-the-west-2026-04-23.md) |
+| `2026-04-23` | Alastair Crooke: Iranians Only Getting Tougher w/ Lt. Col. Daniel Davis | `solo` | `daniel-davis` | [source](../../archive/sources/2026-04-23/source-daniel-davis-crooke-iranians-only-getting-tougher-2026-04-23.md) |
 | `2026-04-27` | Alastair Crooke: Iran War Is Now a Global War for World Order (Diesen) | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-04-27/source-diesen-crooke-iran-global-war-world-order-2026-04-27.md) |
 | `2026-05-02` | A Negotiated Settlement for a Sovereign Iran is Nigh Impossible | `authored newsletter` | `crooke` | [source](../../archive/sources/2026-05-02/source-crooke-a-negotiated-settlement-for-a-sovereign-2026-05-02.md) |
 | `2026-05-09` | 'Ways of War' are in metamorphosis -- Lessons from the Iran War | `authored newsletter` | `crooke` | [source](../../archive/sources/2026-05-09/source-crooke-ways-of-war-are-in-metamorphosis-lessons-from-the-iran-war-2026-05-09.md) |
@@ -74,8 +74,8 @@ Status: `imported-corpus`
 | `2026-05-30` | Alastair Crooke: Iran War Resets the Geopolitics of the World | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-05-30/source-glenn-diesen-alastair-crooke-iran-war-resets-the-geopolitics-of-the-world-2026-05-30.md) |
 | `2026-06-04` | Iran Takes Its Chances with War | `authored newsletter` | `crooke` | [source](../../archive/sources/2026-06-04/source-crooke-iran-takes-its-chances-with-war-2026-06-04.md) |
 | `2026-06-05` | Alastair Crooke: IRAN'S TRIGGER WARNING: 'Withdraw from Lebanon... Any Violations and We Strike | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-05/source-dialogue-works-crooke-irans-trigger-warning-withdraw-from-lebanon-any-violations-and-we-strike-2026-06-05.md) |
-| `2026-06-08` | Alastair Crooke: Ceasefire for All or Ceasefire for No One | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-08/source-judging-freedom-crooke-ceasefire-for-all-or-ceasefire-for-no-one-2026-06-08.md) |
 | `2026-06-08` | Is the Ceasefire Dead? (w/ Alastair Crooke) | `host-pressure test` | `hedges` | [source](../../archive/sources/2026-06-08/source-hedges-crooke-is-ceasefire-dead-2026-06-08.md) |
+| `2026-06-08` | Alastair Crooke: Ceasefire for All or Ceasefire for No One | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-08/source-judging-freedom-crooke-ceasefire-for-all-or-ceasefire-for-no-one-2026-06-08.md) |
 | `2026-06-11` | Alastair Crooke: More Iran Attacks WEAKEN the US | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-06-11/source-daniel-davis-alastair-crooke-more-iran-attacks-weaken-the-us-2026-06-11.md) |
 | `2026-06-12` | Post-Iran War: The End of an Era, Not to Decline, but as a Trigger to Abrupt Change | `authored newsletter` | `crooke` | [source](../../archive/sources/2026-06-12/source-crooke-post-iran-war-end-of-an-era-not-decline-2026-06-12.md) |
 | `2026-06-15` | Alastair Crooke: US Empire is Crashing | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-15/source-judging-freedom-crooke-us-empire-is-crashing-2026-06-15.md) |
@@ -85,6 +85,9 @@ Status: `imported-corpus`
 | `2026-06-24` | Alastair Crooke: Iran Deal, Who's Dictating the Terms? | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-06-24/source-daniel-davis-alastair-crooke-iran-deal-who-dictating-terms-2026-06-24.md) |
 | `2026-06-25` | Russia Hearing the European Clamour for War, Announces it is Ready | `authored newsletter` | `crooke` | [source](../../archive/sources/2026-06-25/source-crooke-russia-hearing-the-european-clamour-2026-06-25.md) |
 | `2026-06-29` | Alastair Crooke: Russia Ready For War With Europe | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-29/source-judging-freedom-crooke-russia-ready-for-war-with-europe-2026-06-29.md) |
+| `2026-07-03` | MoU Stacked in Holding Pattern as US Pivots to Plan 'B' | `authored` | `crooke` | [source](../../archive/sources/2026-07-03/source-mou-stacked-in-holding-pattern-as-us-pivots-to-plan-b-2026-07-03.md) |
+| `2026-07-09` | Iran War 3.0 | `authored` | `crooke` | [source](../../archive/sources/2026-07-09/source-iran-war-3-0-2026-07-09.md) |
+| `2026-07-10` | Alastair Crooke: U.S. and Iran Exchange Massive Strikes as Hormuz War Continues | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-10/source-alastair-crooke-u-s-and-iran-exchange-massive-strikes-as-hormuz-war-continues-2026-07-10.md) |
 
 ## Import Boundary
 

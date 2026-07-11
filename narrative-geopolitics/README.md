@@ -1,24 +1,38 @@
 # Narrative Geopolitics
 
-Narrative Geopolitics is a workflow-first project for building a public geopolitical judgment model.
+Narrative Geopolitics is a source-grounded dialogical workbench for geopolitical
+judgment. It curates a constellation of intellectual voices and makes their
+distinct frameworks available for bounded inquiry, disagreement, synthesis,
+and forecasting.
 
 It uses `strategy-codex/statecraft` as its source basis and predecessor system, but its goal is not to copy that inherited operator machinery. Its goal is to distill the best parts of statecraft into a cleaner public model that can stand beside Predictive History.
 
 ```text
 statecraft = source basis and operator ancestor
-narrative-geopolitics = public geopolitical judgment model
+narrative-geopolitics = source-grounded intellectual council and judgment model
 predictive-history = public historical/civilizational reading model
 ```
 
 ## Purpose
 
-Narrative Geopolitics turns transcripts, expert claims, current crises, actor incentives, legitimacy claims, historical memory, and competing narratives into public geopolitical judgment.
+Narrative Geopolitics turns transcripts, expert claims, current crises, actor
+incentives, legitimacy claims, historical memory, and competing narratives into
+realistic dialogue with a curated constellation of intellects. It then permits
+a separate moderator to produce bounded geopolitical judgment.
 
-It is not an oracle and not a generic news summary. It is a bounded analyst system: source-heavy, calm, quote-aware, uncertainty-conscious, and reviewable.
+It is not an oracle, a generic news summary, or a system for impersonating
+living people. A reconstructed voice represents what the authorized corpus
+supports as of a stated date. Direct support, close paraphrase, characteristic
+inference, extrapolation, contradiction, and absence of evidence remain visibly
+different.
 
-## V1 Workflow
+Daily synthesis and public briefs are important operating modes, but they are
+not the whole product. The central long-term capability is disciplined inquiry
+across voices without flattening their disagreements into a house view.
 
-The initial operating loop is:
+## Operating Modes
+
+The proven daily judgment loop is:
 
 ```text
 best-intake through the day
@@ -32,6 +46,25 @@ best-intake through the day
 -> work/forecasts/forecast-ledger.md
 -> public/briefs/daily/YYYY-MM-DD.md (only when intentionally promoted)
 ```
+
+The experimental council loop is:
+
+```text
+bounded question + as-of date
+-> archive source floor
+-> selected voice records and claim maps
+-> channel conditioning where relevant
+-> separately reconstructed voice responses
+-> explicit disagreements and cross-examination
+-> independent moderator synthesis
+-> fidelity review
+-> optional forecast or public promotion
+```
+
+Use [method/dialogue-contract.md](method/dialogue-contract.md) for the epistemic
+boundary and [work/dialogues/](work/dialogues/README.md) for manual experiments.
+Do not automate reconstructed dialogue until the council value test demonstrates
+that it adds value without sacrificing fidelity.
 
 ## Directory Map
 
@@ -92,7 +125,11 @@ retrospective runs. Dates without manifest-backed intake remain absent.
 
 Narrative Geopolitics uses [voices/](voices/README.md) for durable voice records. A voice can be a speaker, writer, essayist, interview guest, social poster, or mixed-format analyst.
 
-Voice continuity means remembered interpretive pattern across sources and time. Voice records are internal first; public summaries can come later after a record is stable enough to share.
+Voice continuity means remembered interpretive pattern across sources and time.
+It supports both daily synthesis and corpus-bounded dialogue. A voice is an
+evidentiary reconstruction, not a persona or stylistic imitation. Voice records
+are internal first; public summaries or dialogues can come later after a record
+is stable enough to share.
 
 ## Channel Conditioning
 

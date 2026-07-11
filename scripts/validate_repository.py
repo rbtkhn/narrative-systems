@@ -3,9 +3,16 @@ from __future__ import annotations
 import json
 import re
 import subprocess
+import sys
 from pathlib import Path
 
+SCRIPTS_ROOT = Path(__file__).resolve().parent
+if str(SCRIPTS_ROOT) not in sys.path:
+    sys.path.insert(0, str(SCRIPTS_ROOT))
+
 from codex_skill_registry import DEPLOYABLE_SKILL_NAMES, discover_repo_skill_names
+import voice_indexes
+import voice_metadata
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -17,9 +24,21 @@ LEDGER_PATH = NG_ROOT / "work" / "forecasts" / "forecast-ledger.md"
 LOCAL_SKILLS = {"coffee", "dream"}
 LOCAL_ROUTER_PATH = REPO_ROOT / "AGENTS.md"
 REQUIRED_DAILY_FILES = {"sources.md", "synthesis.md", "forecast.md", "daily-brief.md"}
+PUBLIC_BRIEFS_ROOT = NG_ROOT / "public" / "briefs"
 
 MARKDOWN_LINK_RE = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
 HOOK_ID_RE = re.compile(r"`(NG-\d{8}-F\d{2})`")
+H1_RE = re.compile(r"^# (?P<title>.+?)\s*$", re.MULTILINE)
+TITLE_RATIONALE_RE = re.compile(r"^Title rationale:\s*`?(?P<value>.+?)`?\s*$", re.MULTILINE)
+ADMIN_TITLE_RE = re.compile(
+    r"^(?:untitled|draft|analysis|essay|report|notes?|daily brief|working paper)(?:\s*[:—-].*)?$",
+    re.IGNORECASE,
+)
+PLACEHOLDER_TITLE_RE = re.compile(r"\[[^\]]+\]|<[^>]+>|YYYY(?:-MM-DD)?", re.IGNORECASE)
+GENERIC_READER_HEADING_RE = re.compile(
+    r"^##\s+(?:background|analysis|discussion|conclusion|what happens next)\s*$",
+    re.IGNORECASE | re.MULTILINE,
+)
 
 
 def load_manifest() -> dict:
@@ -128,6 +147,46 @@ def markdown_link_failures() -> list[str]:
     return failures
 
 
+def reader_facing_title_files() -> list[Path]:
+    candidates: set[Path] = set()
+    if PUBLIC_BRIEFS_ROOT.exists():
+        candidates.update(PUBLIC_BRIEFS_ROOT.rglob("*.md"))
+    for path in markdown_files():
+        if (NG_ROOT / "templates") in path.parents:
+            continue
+        if "Title standard: `reader-facing`" in path.read_text(encoding="utf-8"):
+            candidates.add(path)
+    return sorted(candidates)
+
+
+def editorial_title_failures() -> list[str]:
+    failures: list[str] = []
+    for path in reader_facing_title_files():
+        text = path.read_text(encoding="utf-8")
+        opening = "\n".join(text.splitlines()[:16])
+        headings = H1_RE.findall(text)
+        label = relative(path)
+        if len(headings) != 1:
+            failures.append(f"reader-facing document must have exactly one H1: {label}")
+            continue
+        title = headings[0].strip()
+        if "Title standard: `reader-facing`" not in opening:
+            failures.append(f"reader-facing document missing title-standard marker: {label}")
+        rationale = TITLE_RATIONALE_RE.search(opening)
+        if not rationale or len(rationale.group("value").strip(" `").split()) < 8:
+            failures.append(f"reader-facing document missing substantive title rationale: {label}")
+        if ADMIN_TITLE_RE.fullmatch(title):
+            failures.append(f"reader-facing document uses administrative title: {label} -> {title}")
+        if PLACEHOLDER_TITLE_RE.search(title):
+            failures.append(f"reader-facing document uses placeholder title: {label} -> {title}")
+        if len(title.split()) < 4:
+            failures.append(f"reader-facing title is too thin to express a distinction: {label} -> {title}")
+        for match in GENERIC_READER_HEADING_RE.finditer(text):
+            heading = match.group(0).removeprefix("##").strip()
+            failures.append(f"reader-facing document uses generic analytical heading: {label} -> {heading}")
+    return failures
+
+
 def skill_sync_failures() -> list[str]:
     failures: list[str] = []
     deployable = set(DEPLOYABLE_SKILL_NAMES)
@@ -164,6 +223,20 @@ def tracked_artifact_failures() -> list[str]:
     return [f"tracked derived cadence artifact: {path}" for path in sorted(forbidden & tracked)]
 
 
+def voice_routing_failures() -> list[str]:
+    manifest = load_manifest()
+    failures = voice_metadata.metadata_failures(manifest, REPO_ROOT)
+    failures.extend(
+        voice_indexes.reconcile(
+            manifest,
+            write=False,
+            repo_root=REPO_ROOT,
+            voices_root=NG_ROOT / "voices",
+        )["failures"]
+    )
+    return sorted(set(failures))
+
+
 def validate_repository() -> list[str]:
     failures: list[str] = []
     for check in (
@@ -171,8 +244,10 @@ def validate_repository() -> list[str]:
         daily_run_failures,
         forecast_ledger_failures,
         markdown_link_failures,
+        editorial_title_failures,
         skill_sync_failures,
         tracked_artifact_failures,
+        voice_routing_failures,
     ):
         failures.extend(check())
     return failures

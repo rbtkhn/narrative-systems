@@ -1,5 +1,9 @@
 # The Burden of Normalizing Hormuz
 
+Title standard: `reader-facing`
+
+Title rationale: `Names the brief's burden-of-proof asymmetry: nominal transit is easier for Iran to contest than for Washington to normalize.`
+
 As of: `2026-07-09`
 
 Status: `source-bounded`

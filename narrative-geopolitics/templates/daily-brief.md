@@ -1,10 +1,18 @@
-# Narrative Geopolitics Daily Brief: YYYY-MM-DD
+# [Distinctive title that compresses the lead judgment]
+
+Title standard: `reader-facing`
+
+Title rationale: `[One sentence naming the argument, tension, mechanism, or reversal compressed by the title.]`
 
 Status: `draft`
 
+Before completion, apply the [editorial title contract](../method/editorial-titles.md): state the central argument, draft three materially different titles, and select the most accurate distinctive title.
+
+Apply the [analytical-interface contract](../method/analytical-interfaces.md) to the crisis object, lead judgment, forecast, uncertainty labels, and section headings.
+
 ## Lead Judgment
 
-State the day's bounded geopolitical judgment in calm reader-facing prose.
+State what changed, why it matters, and the governing mechanism or asymmetry in calm reader-facing prose. Do not summarize the source list.
 
 ## Source Grounding
 
@@ -12,7 +20,7 @@ Use the most important source evidence, including short direct quotes when wordi
 
 ## Crisis Object
 
-Name what is actually contested.
+Name the contested relationship or threshold, not merely the country, region, or conflict.
 
 ## Actor And Narrative Map
 
@@ -24,7 +32,7 @@ Explain which voices shaped the judgment and which voices pressure-tested it. Do
 
 ## What To Watch
 
-Name the next signals that would change the judgment.
+Name the next observable signals and explain which part of the judgment each would change.
 
 ## Forecast / Review Hooks
 

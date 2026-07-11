@@ -91,6 +91,10 @@ def gather_context(run_date: str) -> dict[str, object]:
     }
 
 
+def reconcile_voice_routes(run_date: str) -> dict[str, object]:
+    return stack.run_voice_reconciliation(run_date)
+
+
 def recommend_choice(context: dict[str, object]) -> str:
     validation = context["validation"]
     if context["awaiting_intake"] or not context["run_exists"]:
@@ -148,6 +152,15 @@ def report_skipped(run_date: str, scaffold_empty: bool) -> None:
 
 def execute_date(run_date: str, args: argparse.Namespace) -> None:
     current = stack_args(args, run_date)
+    reconciliation = stack.run_voice_reconciliation(run_date)
+    reconciliation_failures = [
+        *reconciliation["metadata"]["failures"],
+        *reconciliation["indexes"]["failures"],
+    ]
+    if reconciliation_failures:
+        for item in reconciliation_failures:
+            print(f"FAIL {item}")
+        raise SystemExit(1)
     bootstrap = stack.run_bootstrap(current)
     validation = stack.run_validation(run_date)
     ledger_sync = {"hooks": 0, "new_rows": 0, "rows": []}
@@ -184,6 +197,17 @@ def main() -> None:
                     f"Cannot execute full daily stack for {run_date}: no manifest rows found. Land intake first."
                 )
             report_skipped(run_date, args.scaffold_empty)
+        elif args.choice == "B":
+            result = reconcile_voice_routes(run_date)
+            failures = [*result["metadata"]["failures"], *result["indexes"]["failures"]]
+            print(f"date={run_date}")
+            print(f"metadata_changes={len(result['metadata']['changes'])}")
+            print(f"changed_voice_shelves={len(result['indexes'].get('changed_shelves', []))}")
+            print(f"voice_route_failures={len(failures)}")
+            for item in failures:
+                print(f"FAIL {item}")
+            if failures:
+                raise SystemExit(1)
         elif args.execute:
             execute_date(run_date, args)
         else:

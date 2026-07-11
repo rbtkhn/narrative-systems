@@ -26,6 +26,17 @@ source manifest
 -> forecast / review hook
 ```
 
+It can also support a dialogical path:
+
+```text
+bounded question + as-of date
+-> source floor
+-> voice continuity and channel conditioning
+-> reconstructed response
+-> disagreement / cross-examination
+-> separate moderator synthesis
+```
+
 During a daily run, ask:
 
 - Is this claim new for this voice?
@@ -48,5 +59,9 @@ Use `narrative-geopolitics/voices/_template.md` when adding a new voice.
 Voice continuity is not source truth. It interprets recurring patterns after the source floor is identified.
 
 Voice continuity is also not final judgment. It informs synthesis and briefs, but the daily run still has to name the crisis object, actor incentives, uncertainty, and forecast/review hook.
+
+Voice continuity is not a persona specification. It must not license stylistic
+impersonation, invented present opinion, or an inference presented as a quote.
+Dialogical use is governed by [dialogue-contract.md](dialogue-contract.md).
 
 Voice continuity is not channel conditioning. Use [../channels/](../channels/README.md) when the key question is how a host, show, or channel reshaped a guest's claims.

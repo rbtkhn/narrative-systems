@@ -25,6 +25,7 @@ central archive.
 | `archive/sources/2026-07-08/source-breaking-u-s-bombing-iran-now-w-robert-barnes-2026-07-08.md` | cleaned-transcript | `imported` | `yes` | Barnes | Mario Nawfal | Same-day escalation reading centered on oil leverage, U.S. deal incapacity, and the danger of further strikes during the funeral surge. |
 | `archive/sources/2026-07-08/source-alexander-mercouris-russia-gives-ww3-warning-prepares-kiev-orekhov-offensives-nato-meeting-bust-trump-talks-greenland-2026-07-08.md` | cleaned-transcript | `imported` | `yes` | Mercouris | Alexander Mercouris | Secondary same-day context on NATO, Ukraine, and cross-theater strain reducing U.S. room for a durable second front. |
 | `archive/sources/2026-07-08/source-live-from-russia-stanislav-krapivnik-latest-on-the-war-w-ukraine-2026-07-08.md` | cleaned-transcript | `imported` | `yes` | Krapivnik | Daniel Davis | Secondary pressure source on Russia/Ukraine battlefield momentum and the limits of Western leverage. |
+| `archive/sources/2026-07-08/source-situation-report-special-edition-2026-07-08.md` | substack-post | `imported` | `yes` | Pape | escalationtrap.substack.com | Authored forecast mechanism; maps the ceasefire breakdown into a coming escalation trap centered on Hormuz and possible terrain seizure. |
 
 ## Run Source Set
 
@@ -37,6 +38,7 @@ central archive.
 | `SRC-05` | Barnes | Mario Nawfal | cleaned-transcript | [2026-07-08 Barnes](../../../archive/sources/2026-07-08/source-breaking-u-s-bombing-iran-now-w-robert-barnes-2026-07-08.md) | Supplies a same-day escalation warning that renewed bombing during the funeral surge raises rather than lowers economic and geopolitical risk. |
 | `SRC-06` | Mercouris | Alexander Mercouris | cleaned-transcript | [2026-07-08 Mercouris](../../../archive/sources/2026-07-08/source-alexander-mercouris-russia-gives-ww3-warning-prepares-kiev-orekhov-offensives-nato-meeting-bust-trump-talks-greenland-2026-07-08.md) | Supplies the cross-theater room test: NATO/Ukraine strain persists while Trump is also trying to manage Iran and alliance disorder. |
 | `SRC-07` | Krapivnik | Daniel Davis | cleaned-transcript | [2026-07-08 Krapivnik](../../../archive/sources/2026-07-08/source-live-from-russia-stanislav-krapivnik-latest-on-the-war-w-ukraine-2026-07-08.md) | Secondary battlefield pressure source suggesting Russia still sees time on its side, which narrows Western freedom to expand elsewhere. |
+| `SRC-08` | Pape | escalationtrap.substack.com | substack-post | [2026-07-08 Pape](../../../archive/sources/2026-07-08/source-situation-report-special-edition-2026-07-08.md) | Gives the clearest mechanism write-up for why the ceasefire collapse creates incentives for larger U.S. operations around Qeshm, Kharg, and Hormuz. |
 
 ## Load-Bearing Quotes
 
@@ -52,6 +54,8 @@ central archive.
 | `SRC-05` | "Iran has always had the escalatory edge." | Barnes sharpens the same-day warning that economic leverage still sits with Iran more than with Washington. |
 | `SRC-06` | "The funeral... has buried once and for all any plan or hope... that regime change in Iran was possible." | Mercouris adds a same-day read that the regime-change premise has been visibly weakened. |
 | `SRC-07` | "This is a war." | Krapivnik's value is not on the Iran file directly, but in showing a second live theater where escalation logic is also hardening. |
+| `SRC-08` | "The war has entered a new phase." | Pape gives the cleanest authored compression of the shift from uneasy ceasefire back to open military confrontation. |
+| `SRC-08` | "Escalation is no longer being driven solely by Iranian incentives." | Most concise formulation of the new U.S. political incentive to seek visible military success. |
 
 ## Initial Claims
 
@@ -63,10 +67,11 @@ central archive.
 | `CLM-04` | `SRC-02`, `SRC-04`, `SRC-05` | The U.S. side of the July 8 batch is converging on a narrower failure mode: coercive strikes may punish, but they are not restoring a durable transit order and may be worsening the economic trap. | Davis is most practical; Hoh and Barnes sharpen the political and oil-risk critique. | `active-careful` |
 | `CLM-05` | `SRC-01`, `SRC-06` | The visible funeral mobilization weakens the regime-change assumption and raises the political cost of reading Iranian pressure as a near-collapse symptom. | Marandi provides internal legitimacy language; Mercouris frames the same public signal externally. | `candidate` |
 | `CLM-06` | `SRC-06`, `SRC-07` | Cross-theater NATO/Ukraine pressure does not own the day, but it reduces confidence that Washington can absorb another long coercive campaign at tolerable cost. | Secondary room claim only. | `candidate` |
+| `CLM-07` | `SRC-08`, `SRC-02`, `SRC-05` | The next escalation danger is not just more strikes but U.S. preparation for visible strategic seizure operations around Qeshm or Kharg to restore political credibility. | Pape supplies the mechanism; Davis and Barnes support the logic that simple punishment has not restored leverage. | `candidate` |
 
 ## Source Hygiene
 
-- All seven July 8 sources are imported central archive sources with manifest rows.
+- All eight July 8 sources are imported central archive sources with manifest rows.
 - The owning object is Iran/Hormuz/MOU breakdown; the Russia/Ukraine sources are included only as room and cross-theater pressure tests.
 - Several claims in the batch are still unverified operational assertions and should be treated as judgment inputs, not settled facts.
 - `review_state` remains `unreviewed` across the day batch, so wording in synthesis should distinguish source claims from independently confirmed events.

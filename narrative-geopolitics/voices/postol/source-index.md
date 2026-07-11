@@ -4,7 +4,7 @@ This index routes the unified local Postol corpus for `postol` to the central Na
 
 Source basis: `strategy-codex/statecraft/voices/postol/postol-index.md` plus already-local matching archive rows.
 
-Corpus: 6 local route rows across 6 central archive source files.
+Corpus: 7 local route rows across 7 central archive source files.
 
 Status: `imported-corpus`
 
@@ -25,8 +25,8 @@ Status: `imported-corpus`
 | `2026-05-15` | Bombs Will Not End Iran War MIT Professsor Ted Postol | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-15/source-daniel-davis-bombs-will-not-end-iran-war-mit-professsor-ted-postol-2026-05-15.md) |
 | `2026-06-23` | MIT Professor Ted Postol: Patriot Missile Capabilities | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-06-23/source-daniel-davis-postol-patriot-missile-capabilities-2026-06-23.md) |
 | `2026-06-29` | Patriot Missiles Fail Miserably, Here's the Video Evidence / MIT Prof Ted Postol | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-06-29/source-daniel-davis-ted-postol-patriot-missiles-fail-video-evidence-2026-06-29.md) |
+| `2026-07-02` | Prof. Ted Postol: It's Over: Israel Faces Total Collapse if War Escalates | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-02/source-prof-ted-postol-it-s-over-israel-faces-total-collapse-if-war-escalates-2026-07-02.md) |
 
 ## Import Boundary
 
 This import followed the strategy-codex Postol index and copied source captures into `archive/sources/YYYY-MM-DD/` while preserving already-local matching archive rows.
-

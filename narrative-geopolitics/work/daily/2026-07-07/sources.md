@@ -25,6 +25,7 @@ landed into the central archive on `2026-07-08` for a `2026-07-07` judgment run.
 | `archive/sources/2026-07-07/source-daniel-davis-breaking-us-new-strikes-on-iran-2026-07-07.md` | cleaned-transcript | `imported` | `yes` | Davis | Daniel Davis | Same-day U.S. solo breaking source on renewed strikes, waiver reversal, and inventory/economic constraint. |
 | `archive/sources/2026-07-07/source-dialogue-works-robert-barnes-u-s-just-revoked-iran-waivers-we-heading-to-war-2026-07-07.md` | cleaned-transcript | `imported` | `yes` | Barnes | Dialogue Works | Deal-breakdown read centered on waivers, Hormuz, and Lebanon sequencing. |
 | `archive/sources/2026-07-07/source-mario-nawfal-brandon-weichert-breaking-trump-strikes-irans-kharg-island-for-first-time-since-ceasefire-2026-07-07.md` | cleaned-transcript | `imported` | `yes` | Weichert | Mario Nawfal | Political-war-persistence read on Hormuz control, punishment logic, and Trump escalation posture. |
+| `archive/sources/2026-07-07/source-how-the-us-iran-fight-in-the-strait-of-hormuz-can-be-resolved-before-it-blows-up-the-mou-2026-07-07.md` | substack-post | `imported` | `yes` | Parsi | tritaparsi.substack.com | authored de-escalation mechanism; dual-notification compromise clarifies the narrow operational dispute inside a broader sovereignty fight. |
 
 ## Run Source Set
 
@@ -37,6 +38,7 @@ landed into the central archive on `2026-07-08` for a `2026-07-07` judgment run.
 | `SRC-05` | Helmer | Dialogue Works | cleaned-transcript | [2026-07-07 Helmer](../../../archive/sources/2026-07-07/source-dialogue-works-john-helmer-trump-signs-nato-escalation-putins-demilitarization-order-to-poland-2026-07-07.md) | Adds NATO summit and imperial-protectorate context around Trumpâ€™s wider bargaining style. |
 | `SRC-06` | Mercouris | Alexander Mercouris | cleaned-transcript | [2026-07-07 Mercouris](../../../archive/sources/2026-07-07/source-mercouris-russia-destroys-arms-dump-zelensky-begs-patriots-2026-07-07.md) | Secondary context: a simultaneous Russia/NATO pressure field limits U.S. room and inventory confidence. |
 | `SRC-07` | Weichert | Mario Nawfal | cleaned-transcript | [2026-07-07 Weichert](../../../archive/sources/2026-07-07/source-mario-nawfal-brandon-weichert-breaking-trump-strikes-irans-kharg-island-for-first-time-since-ceasefire-2026-07-07.md) | Adds a same-day U.S./Trump-side political frame that the Hormuz issue is the whole dispute and not a negotiable side clause. |
+| `SRC-08` | Parsi | tritaparsi.substack.com | substack-post | [2026-07-07 Parsi](../../../archive/sources/2026-07-07/source-how-the-us-iran-fight-in-the-strait-of-hormuz-can-be-resolved-before-it-blows-up-the-mou-2026-07-07.md) | Parsi provides the clearest authored compromise mechanism: dual notification preserves traffic while deferring the sovereignty fight over nominal control of the Strait. |
 
 ## Load-Bearing Quotes
 
@@ -54,6 +56,8 @@ landed into the central archive on `2026-07-08` for a `2026-07-07` judgment run.
 | `SRC-06` | "Today... happens to be the first day of what looks like a very short NATO summit meeting in Anchora in Turkey." | Marks the same-day broader strategic backdrop of NATO summit timing. |
 | `SRC-07` | "It is the whole thing." | Weichert's strongest compression that Hormuz control is the dispute, not just one sticking point among others. |
 | `SRC-07` | "The war is back on the menu." | Useful same-day pressure quote for escalation persistence even if treated as a host-conditioned political read. |
+| `SRC-08` | "Requiring vessels to notify both Iran and a designated GCC maritime authority would defer the sovereignty dispute without prejudging its outcome." | Names the most concrete off-ramp in the batch rather than leaving the day at pure escalation description. |
+| `SRC-08` | "Sacrificing the entire MOU... over the question of who nominally manages the Strait for the next few weeks would be a costly and unnecessary mistake." | Compresses why the Strait dispute should be treated as a narrow operational fight with outsized strategic risk. |
 
 ## Initial Claims
 
@@ -64,11 +68,13 @@ landed into the central archive on `2026-07-08` for a `2026-07-07` judgment run.
 | `CLM-03` | `SRC-02`, `SRC-04`, `SRC-05` | Trumpâ€™s wider bargaining style increases crisis instability because it mixes coercion, public improvisation, weak commitment discipline, and limited material room. | Barnes reads it as deal incapacity; Davis adds inventory/economic constraint; Helmer reads it as imperial arm-twisting. | `active-careful` |
 | `CLM-04` | `SRC-05`, `SRC-06` | NATO/Russia pressure is not the owning object of the day, but it reduces confidence that the U.S. can casually reopen a second durable military front. | Secondary cross-theater pressure claim. | `candidate` |
 | `CLM-05` | `SRC-01`, `SRC-07` | The July 7 dispute is being framed from both Iran-side and Trump-side commentary as irreducibly centered on Hormuz control rather than a narrow technical compliance fight. | Marandi supplies the adversary-side floor; Weichert pressure-tests how the same issue is being read from a pro-Trump escalation frame. | `candidate` |
+| `CLM-06` | `SRC-01`, `SRC-08` | A viable near-term off-ramp still exists if both sides treat the Strait dispute as a temporary dual-notification problem rather than a precedent-setting sovereignty settlement. | Marandi establishes the Iranian leverage floor; Parsi supplies the clearest authored compromise design. | `candidate` |
 
 ## Source Hygiene
 
-- All seven July 7 sources are imported central archive sources with manifest rows.
+- All eight July 7 sources are imported central archive sources with manifest rows.
 - The day is synthesis-ready, but several sources remain `review_state: unreviewed`.
 - `voice_slugs` for `barnes`, `helmer`, `macgregor`, and `weichert` are present in the manifest; `weichert` now functions as a secondary pressure voice rather than an omitted landing.
+- `voice_slugs` for `parsi` and host/channel routing for `tritaparsi.substack.com` are present in the manifest.
 - Channel conditioning exists for `dialogue-works`, `daniel-davis`, and `glenn-diesen`.
 

@@ -91,6 +91,111 @@ def test_broken_non_archive_markdown_link_is_detected(monkeypatch, tmp_path: Pat
     ]
 
 
+def test_reader_facing_title_contract_rejects_placeholder_and_missing_rationale(
+    monkeypatch, tmp_path: Path
+) -> None:
+    docs = tmp_path / "docs"
+    docs.mkdir()
+    ng_root = tmp_path / "narrative-geopolitics"
+    briefs = ng_root / "public" / "briefs"
+    briefs.mkdir(parents=True)
+    predictive = tmp_path / "predictive-history"
+    predictive.mkdir()
+    bad = briefs / "bad.md"
+    bad.write_text(
+        "# [Working title]\n\nTitle standard: `reader-facing`\n",
+        encoding="utf-8",
+    )
+    monkeypatch.setattr(integrity, "REPO_ROOT", tmp_path)
+    monkeypatch.setattr(integrity, "NG_ROOT", ng_root)
+    monkeypatch.setattr(integrity, "ARCHIVE_SOURCES", ng_root / "archive" / "sources")
+    monkeypatch.setattr(integrity, "PUBLIC_BRIEFS_ROOT", briefs)
+
+    failures = integrity.editorial_title_failures()
+
+    assert any("placeholder title" in item for item in failures)
+    assert any("missing substantive title rationale" in item for item in failures)
+
+
+def test_reader_facing_title_contract_accepts_compressed_argument(
+    monkeypatch, tmp_path: Path
+) -> None:
+    docs = tmp_path / "docs"
+    docs.mkdir()
+    ng_root = tmp_path / "narrative-geopolitics"
+    briefs = ng_root / "public" / "briefs"
+    briefs.mkdir(parents=True)
+    predictive = tmp_path / "predictive-history"
+    predictive.mkdir()
+    good = briefs / "good.md"
+    good.write_text(
+        "# The Burden of Normalizing Hormuz\n\n"
+        "Title standard: `reader-facing`\n\n"
+        "Title rationale: `Names the asymmetric burden that structures the central judgment of the brief.`\n",
+        encoding="utf-8",
+    )
+    monkeypatch.setattr(integrity, "REPO_ROOT", tmp_path)
+    monkeypatch.setattr(integrity, "NG_ROOT", ng_root)
+    monkeypatch.setattr(integrity, "ARCHIVE_SOURCES", ng_root / "archive" / "sources")
+    monkeypatch.setattr(integrity, "PUBLIC_BRIEFS_ROOT", briefs)
+
+    assert integrity.editorial_title_failures() == []
+
+
+def test_reader_facing_contract_rejects_generic_analytical_heading(
+    monkeypatch, tmp_path: Path
+) -> None:
+    docs = tmp_path / "docs"
+    docs.mkdir()
+    ng_root = tmp_path / "narrative-geopolitics"
+    briefs = ng_root / "public" / "briefs"
+    briefs.mkdir(parents=True)
+    predictive = tmp_path / "predictive-history"
+    predictive.mkdir()
+    bad = briefs / "generic-heading.md"
+    bad.write_text(
+        "# The Burden of Normalizing Hormuz\n\n"
+        "Title standard: `reader-facing`\n\n"
+        "Title rationale: `Names the asymmetric burden that structures the central judgment of the brief.`\n\n"
+        "## Analysis\n\nBody.\n",
+        encoding="utf-8",
+    )
+    monkeypatch.setattr(integrity, "REPO_ROOT", tmp_path)
+    monkeypatch.setattr(integrity, "NG_ROOT", ng_root)
+    monkeypatch.setattr(integrity, "ARCHIVE_SOURCES", ng_root / "archive" / "sources")
+    monkeypatch.setattr(integrity, "PUBLIC_BRIEFS_ROOT", briefs)
+
+    assert integrity.editorial_title_failures() == [
+        "reader-facing document uses generic analytical heading: "
+        "narrative-geopolitics/public/briefs/generic-heading.md -> Analysis"
+    ]
+
+
+def test_analytical_interface_templates_preserve_required_prompts() -> None:
+    method = (
+        REPO_ROOT / "narrative-geopolitics" / "method" / "analytical-interfaces.md"
+    ).read_text(encoding="utf-8")
+    synthesis = (
+        REPO_ROOT / "narrative-geopolitics" / "templates" / "synthesis.md"
+    ).read_text(encoding="utf-8")
+    forecast = (
+        REPO_ROOT / "narrative-geopolitics" / "templates" / "forecast.md"
+    ).read_text(encoding="utf-8")
+    dialogue = (
+        REPO_ROOT / "narrative-geopolitics" / "work" / "dialogues" / "_template.md"
+    ).read_text(encoding="utf-8")
+    voice = (
+        REPO_ROOT / "narrative-geopolitics" / "voices" / "_template.md"
+    ).read_text(encoding="utf-8")
+
+    assert "Every analytical label should help the next reader recover the judgment" in method
+    assert "Crisis object:" in synthesis
+    assert "Causal mechanism" in forecast
+    assert "Resolution criteria" in forecast
+    assert "Analytical question:" in dialogue
+    assert "Recurring intellectual operation expressed as a verb phrase" in voice
+
+
 def test_only_portable_skills_are_deployable() -> None:
     assert set(skill_registry.DEPLOYABLE_SKILL_NAMES) == {
         "best-intake",
@@ -190,6 +295,8 @@ def test_range_mode_skips_empty_dates_without_writes() -> None:
         "process_daily_stack.py",
         "geopolitical_synthesis.py",
         "geo_synthesis.py",
+        "canonicalize_voice_metadata.py",
+        "sync_voice_indexes.py",
     ],
 )
 def test_existing_cli_filename_remains_available(script_name: str) -> None:

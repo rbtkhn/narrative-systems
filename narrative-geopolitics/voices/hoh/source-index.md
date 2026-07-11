@@ -4,7 +4,7 @@ This index routes the unified local Hoh corpus for `hoh` to the central Narrativ
 
 Source basis: `strategy-codex/statecraft/voices/hoh/hoh-index.md` plus already-local matching archive rows.
 
-Corpus: 14 local route rows across 14 central archive source files.
+Corpus: 15 local route rows across 15 central archive source files.
 
 Status: `imported-corpus`
 
@@ -33,6 +33,7 @@ Status: `imported-corpus`
 | `2026-06-17` | Matthew Hoh: \"CHANGE COURSE OR ELSE!\" – Trump to Israel | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-17/source-dialogue-works-matthew-hoh-change-course-or-else-trump-to-israel-2026-06-17.md) |
 | `2026-06-23` | Matt Hoh: How the Empire Recruits Its Soldiers | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-23/source-judging-freedom-hoh-how-empire-recruits-soldiers-2026-06-23.md) |
 | `2026-06-30` | Matt Hoh: Trump's MoU is a Pause Not Peace | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-30/source-judging-freedom-hoh-trump-mou-pause-not-peace-2026-06-30.md) |
+| `2026-07-08` | Matthew Hoh: Iran & US Hit Absolute ROCK BOTTOM | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-08/source-matthew-hoh-iran-us-hit-absolute-rock-bottom-2026-07-08.md) |
 
 ## Import Boundary
 

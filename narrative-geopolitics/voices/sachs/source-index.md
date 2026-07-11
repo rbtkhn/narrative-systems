@@ -4,7 +4,7 @@ This index routes the unified local Sachs corpus for `sachs` to the central Narr
 
 Source basis: `strategy-codex/statecraft/voices/sachs/sachs-index.md`.
 
-Corpus: 92 local route rows across 92 central archive source files.
+Corpus: 93 local route rows across 93 central archive source files.
 
 Status: `imported-corpus`
 
@@ -111,6 +111,7 @@ Status: `imported-corpus`
 | `2026-06-15` | Jeffrey Sachs: US-Iran Deal Reached - Peace or Tactical Pause? | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-06-15/source-diesen-sachs-us-iran-deal-reached-peace-or-tactical-pause-2026-06-15.md) |
 | `2026-06-15` | Prof. Jeffrey Sachs: Netanyahu vs. Trump | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-15/source-judging-freedom-sachs-netanyahu-vs-trump-2026-06-15.md) |
 | `2026-06-22` | Jeffrey Sachs: Why Iran Can't Trust Trump | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-22/source-judging-freedom-sachs-why-iran-cant-trust-trump-2026-06-22.md) |
+| `2026-07-09` | Jeffrey Sachs: Disastrous NATO Summit: Toward Nuclear War with Russia | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-09/source-jeffrey-sachs-disastrous-nato-summit-toward-nuclear-war-with-russia-2026-07-09.md) |
 
 ## Import Boundary
 

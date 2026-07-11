@@ -25,6 +25,9 @@ This run is grounded in the `2026-07-09` day batch already landed in the central
 | `archive/sources/2026-07-09/source-navy-combat-vet-the-coming-european-war-w-russia-steve-jermy-lt-col-daniel-davis-2026-07-09.md` | cleaned-transcript | `imported` | `yes` | Jermy | Daniel Davis | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-07-09/source-seyed-m-marandi-breaking-u-s-renews-bombing-of-iran-as-millions-flood-mashhad-2026-07-09.md` | cleaned-transcript | `imported` | `yes` | Marandi | Dialogue Works | regional-red-line spine; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-07-09/source-u-s-plan-ground-invasion-w-col-anthony-aguilar-2026-07-09.md` | cleaned-transcript | `imported` | `yes` | Aguilar | Moral Resistance | guest interview pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-07-09/source-iran-war-3-0-2026-07-09.md` | substack-post | `imported` | `yes` | Crooke | conflictsforum.substack.com | authored forecast mechanism; Hormuz-control logic, MoU breakdown, and low-intensity escalation trap through Crooke. |
+
+| `archive/sources/2026-07-09/source-the-patriot-trap-2026-07-09.md` | substack-post | `imported` | `yes` | Ritter | scottritter.substack.com | authored force-generation critique; Patriot co-production framed as attritional signaling rather than realizable battlefield recovery. |
 
 ## Run Source Set
 
@@ -38,6 +41,9 @@ This run is grounded in the `2026-07-09` day batch already landed in the central
 | `SRC-06` | Jermy | Daniel Davis | cleaned-transcript | [2026-07-09 Jermy](../../../archive/sources/2026-07-09/source-navy-combat-vet-the-coming-european-war-w-russia-steve-jermy-lt-col-daniel-davis-2026-07-09.md) | Navy Combat Vet: The Coming European War w/Russia Steve Jermy & Lt Col Daniel Davis |
 | `SRC-07` | Marandi | Dialogue Works | cleaned-transcript | [2026-07-09 Marandi](../../../archive/sources/2026-07-09/source-seyed-m-marandi-breaking-u-s-renews-bombing-of-iran-as-millions-flood-mashhad-2026-07-09.md) | Seyed M. Marandi: BREAKING: U.S. Renews Bombing of Iran as MILLIONS Flood Mashhad |
 | `SRC-08` | Aguilar | Moral Resistance | cleaned-transcript | [2026-07-09 Aguilar](../../../archive/sources/2026-07-09/source-u-s-plan-ground-invasion-w-col-anthony-aguilar-2026-07-09.md) | U.S PLAN GROUND INVASION w/ Col Anthony Aguilar |
+| `SRC-09` | Crooke | conflictsforum.substack.com | substack-post | [2026-07-09 Crooke](../../../archive/sources/2026-07-09/source-iran-war-3-0-2026-07-09.md) | Crooke supplies the clearest authored mechanism for Trump’s Hormuz ploy failing and the conflict settling into a new low-intensity escalation trap. |
+
+| `SRC-10` | Ritter | scottritter.substack.com | substack-post | [2026-07-09 Ritter](../../../archive/sources/2026-07-09/source-the-patriot-trap-2026-07-09.md) | Ritter argues Patriot co-production is a signaling trap that cannot materially alter the war because timelines, supply chains, and Russian interdiction make Ukrainian output non-credible. |
 
 ## Load-Bearing Quotes
 
@@ -53,6 +59,9 @@ Use short direct quotes only when wording matters. Keep quotes brief and tie eac
 | `SRC-06` |  |  |
 | `SRC-07` |  |  |
 | `SRC-08` |  |  |
+| `SRC-09` |  |  |
+
+| `SRC-10` |  |  |
 
 ## Initial Claims
 
@@ -66,6 +75,9 @@ Use short direct quotes only when wording matters. Keep quotes brief and tie eac
 | `CLM-06` | `SRC-06` |  | Jermy via Daniel Davis | `candidate` |
 | `CLM-07` | `SRC-07` |  | Marandi via Dialogue Works | `candidate` |
 | `CLM-08` | `SRC-08` |  | Aguilar via Moral Resistance | `candidate` |
+| `CLM-09` | `SRC-09` |  | Crooke via conflictsforum.substack.com | `candidate` |
+
+| `CLM-10` | `SRC-10` |  | Ritter via scottritter.substack.com | `candidate` |
 
 ## Source Hygiene
 

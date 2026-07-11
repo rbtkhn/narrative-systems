@@ -29,6 +29,7 @@ automated or routinized.
 | `archive/sources/2026-03-25/source-dialogue-works-lt-col-daniel-davis-iran-s-trap-is-already-set-and-the-u-s-is-2026-03-25.md` | transcript | `already-imported` | `yes` | Davis | Dialogue Works | Practical-room and force-posture pressure test. |
 | `archive/sources/2026-06-22/source-duran-mercouris-us-iran-ceasefire-talks-conflict-round-3-2026-06-22.md` | cleaned-transcript | `already-imported` | `yes` | Mercouris | The Duran | Diplomatic-sequence pressure test. |
 | `archive/sources/2026-05-31/source-mario-nawfal-diesen-breaking-iran-collects-tolls-from-28-ships-in-past-24-hours-2026-05-31.md` | cleaned-transcript | `already-imported` | `yes` | Diesen | Mario Nawfal | Order-transition pressure test. |
+| `archive/sources/2026-06-30/source-alexander-mercouris-a-new-putin-from-diplomacy-to-war-2026-06-30.md` | cleaned-transcript | `imported` | `yes` | Mercouris | Glenn Diesen | Host-conditioned escalation frame; Russian shift from diplomacy to victory politics and wider-war deterrence logic. |
 
 ## Run Source Set
 
@@ -44,6 +45,7 @@ automated or routinized.
 | `SRC-08` | Davis | Dialogue Works | transcript | [2026-03-25](../../../archive/sources/2026-03-25/source-dialogue-works-lt-col-daniel-davis-iran-s-trap-is-already-set-and-the-u-s-is-2026-03-25.md) | Practical-room check: force posture, Hormuz control, and naval escort feasibility make "reopening" nontrivial. |
 | `SRC-09` | Mercouris | The Duran | cleaned-transcript | [2026-06-22](../../../archive/sources/2026-06-22/source-duran-mercouris-us-iran-ceasefire-talks-conflict-round-3-2026-06-22.md) | Sequence pressure: negotiations appear to follow Iran's agenda while U.S. domestic pressure works against durability. |
 | `SRC-10` | Diesen | Mario Nawfal | cleaned-transcript | [2026-05-31](../../../archive/sources/2026-05-31/source-mario-nawfal-diesen-breaking-iran-collects-tolls-from-28-ships-in-past-24-hours-2026-05-31.md) | Order-transition pressure: Hormuz control is framed as a new status quo and U.S. decoupling mechanism. |
+| `SRC-11` | Mercouris | Glenn Diesen | cleaned-transcript | [2026-06-30 Mercouris](../../../archive/sources/2026-06-30/source-alexander-mercouris-a-new-putin-from-diplomacy-to-war-2026-06-30.md) | Mercouris sharpens the Russia-side escalation frame: diplomacy is receding, victory logic is consolidating, and Europe is being read as a direct war-preparation actor. |
 
 ## Load-Bearing Quotes
 
@@ -60,6 +62,8 @@ Use short direct quotes only when wording matters.
 | `SRC-08` | "There is panic in the White House." | Davis pressure-tests whether U.S. force posture is strategy or reaction. |
 | `SRC-09` | "Conflict Round 3 Is Coming." | Mercouris frames the deal sequence as temporary rather than settled. |
 | `SRC-10` | "This is the new status quo." | Diesen turns Hormuz control into wider order-transition framing. |
+| `SRC-11` | "He is a Putin who no longer is talking diplomacy." | Mercouris crisply states the claim that Moscow has shifted from bargaining posture to victory posture. |
+| `SRC-11` | "We are very close to doing is sealing the fate of Ukraine." | The strongest compression of the Europe-side escalation logic producing a larger Russian end-state. |
 
 ## Initial Claims
 
@@ -69,10 +73,11 @@ Use short direct quotes only when wording matters.
 | `CLM-02` | `SRC-04`, `SRC-05`, `SRC-08` | U.S. coercive pressure lacks a clean off-ramp because Iran can absorb punishment and impose regional/economic costs. | Mearsheimer structure plus Davis practical-room check. | `active` |
 | `CLM-03` | `SRC-06`, `SRC-07` | Iran-facing acceptable settlement requires more than a narrow nuclear or navigation deal. | Marandi red-line lens through Dialogue Works. | `active-careful` |
 | `CLM-04` | `SRC-09`, `SRC-10` | Even if talks continue, the sequence is moving toward renewed confrontation unless the new Hormuz/security status is accepted. | Mercouris sequence plus Diesen order-transition frame. | `active-careful` |
+| `CLM-05` | `SRC-09`, `SRC-11` | Russia-side elite discourse is shifting from provisional diplomacy to a wider victory framework because Western escalation is being read as direct-war preparation rather than bargaining pressure. | Mercouris appears in two different host settings, letting us compare sequence logic with explicit escalation framing. | `candidate` |
 
 ## Source Hygiene
 
-- All 10 sources are imported central archive sources.
+- All 11 sources are imported central archive sources.
 - All sources have manifest rows with `import_status: "imported"`.
 - Host-conditioned sources require opening their channel shelves before public synthesis.
 - This pilot is retrospective; future daily runs should import same-day source material before synthesis.

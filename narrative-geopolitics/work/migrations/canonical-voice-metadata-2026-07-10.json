@@ -1,0 +1,298 @@
+{
+  "changes": [
+    {
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-09/source-the-patriot-trap-2026-07-09.md",
+      "manifest_voice_slugs": {
+        "before": [
+          "scott-ritter"
+        ],
+        "after": [
+          "ritter"
+        ]
+      },
+      "frontmatter": [
+        {
+          "field": "thread",
+          "before": "scott-ritter",
+          "after": "ritter"
+        }
+      ],
+      "body_sha256": "97be0df94c79e00c3af2356429bbb41628af49226f22711a60c28048cc5d82db",
+      "body_preserved": true
+    },
+    {
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-07/source-how-the-us-iran-fight-in-the-strait-of-hormuz-can-be-resolved-before-it-blows-up-the-mou-2026-07-07.md",
+      "manifest_voice_slugs": {
+        "before": [
+          "trita-parsi"
+        ],
+        "after": [
+          "parsi"
+        ]
+      },
+      "frontmatter": [
+        {
+          "field": "thread",
+          "before": "trita-parsi",
+          "after": "parsi"
+        }
+      ],
+      "body_sha256": "e8bc11416ad2ba1a58e0d75adb5be9434c7f2ddbd2f0f0929a61bedb74b3da98",
+      "body_preserved": true
+    },
+    {
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-06/source-the-middle-east-is-leaping-toward-a-new-order-but-an-anti-abaraham-accords-would-be-a-mistake-2026-07-06.md",
+      "manifest_voice_slugs": {
+        "before": [
+          "trita-parsi"
+        ],
+        "after": [
+          "parsi"
+        ]
+      },
+      "frontmatter": [
+        {
+          "field": "thread",
+          "before": "trita-parsi",
+          "after": "parsi"
+        }
+      ],
+      "body_sha256": "c5dc5a7c11a87d8cd320a82fbb9a20feda9e57a06881e5710818882ed2049ace",
+      "body_preserved": true
+    },
+    {
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-01/source-why-iran-believes-israel-will-attack-again-before-october-2026-07-01.md",
+      "manifest_voice_slugs": {
+        "before": [
+          "trita-parsi"
+        ],
+        "after": [
+          "parsi"
+        ]
+      },
+      "frontmatter": [
+        {
+          "field": "thread",
+          "before": "trita-parsi",
+          "after": "parsi"
+        }
+      ],
+      "body_sha256": "ea30eeeb66a20db34bdba7917dc2db58758b7a0bb9a1de2c9676261f97dd5366",
+      "body_preserved": true
+    },
+    {
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-01/source-syrsky-refutes-zelensky-russia-plans-kiev-capture-ukraine-army-situation-bad-kiev-drone-war-falters-2026-07-01.md",
+      "manifest_voice_slugs": {
+        "before": [
+          "alexander-mercouris"
+        ],
+        "after": [
+          "mercouris"
+        ]
+      },
+      "frontmatter": [
+        {
+          "field": "thread",
+          "before": "alexander-mercouris",
+          "after": "mercouris"
+        }
+      ],
+      "body_sha256": "a76fd7057461afd70f65c55f3a57021ba9402bd4c519587a4ec230ea9690fd98",
+      "body_preserved": true
+    },
+    {
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-02/source-russia-conducts-massive-kiev-strike-plans-ground-operation-zelensky-demands-more-eu-money-drones-2026-07-02.md",
+      "manifest_voice_slugs": {
+        "before": [
+          "alexander-mercouris"
+        ],
+        "after": [
+          "mercouris"
+        ]
+      },
+      "frontmatter": [
+        {
+          "field": "thread",
+          "before": "alexander-mercouris",
+          "after": "mercouris"
+        }
+      ],
+      "body_sha256": "245c232afefbc88164346f695eee67ed5c4652323694b7f6638315521e6b4ff8",
+      "body_preserved": true
+    },
+    {
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-03/source-russian-warship-warns-off-german-ship-russia-defends-belarus-baltic-tensions-soar-medvedev-in-iran-2026-07-03.md",
+      "manifest_voice_slugs": {
+        "before": [
+          "alexander-mercouris"
+        ],
+        "after": [
+          "mercouris"
+        ]
+      },
+      "frontmatter": [
+        {
+          "field": "thread",
+          "before": "alexander-mercouris",
+          "after": "mercouris"
+        }
+      ],
+      "body_sha256": "cd2fe003fcaeacbb6bbee59b4f1f382596d03a082fdb3725348cb29b4d03f4a7",
+      "body_preserved": true
+    },
+    {
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-04/source-konstantinovka-falls-final-donbas-battle-begins-putin-says-kharkov-sumy-are-russian-drone-war-fail-2026-07-04.md",
+      "manifest_voice_slugs": {
+        "before": [
+          "alexander-mercouris"
+        ],
+        "after": [
+          "mercouris"
+        ]
+      },
+      "frontmatter": [
+        {
+          "field": "thread",
+          "before": "alexander-mercouris",
+          "after": "mercouris"
+        }
+      ],
+      "body_sha256": "da55cf7c0a9c078c0a8dd3926b6d0c12856f9fb564d232cc6a2223e70cbf2e62",
+      "body_preserved": true
+    },
+    {
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-05/source-west-in-shock-after-konstantinovka-fall-putin-resists-us-pressure-during-tense-trump-call-kharkov-2026-07-05.md",
+      "manifest_voice_slugs": {
+        "before": [
+          "alexander-mercouris"
+        ],
+        "after": [
+          "mercouris"
+        ]
+      },
+      "frontmatter": [
+        {
+          "field": "thread",
+          "before": "alexander-mercouris",
+          "after": "mercouris"
+        }
+      ],
+      "body_sha256": "a8dcb07dfd1c03bccc16f4affd49098d3a1d5ef80191b2e9b05c9d61a7921257",
+      "body_preserved": true
+    },
+    {
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-06/source-russia-biggest-ever-missile-strike-hammers-kiev-ad-total-fail-will-upgrade-smo-to-actual-war-nato-2026-07-06.md",
+      "manifest_voice_slugs": {
+        "before": [
+          "alexander-mercouris"
+        ],
+        "after": [
+          "mercouris"
+        ]
+      },
+      "frontmatter": [
+        {
+          "field": "thread",
+          "before": "alexander-mercouris",
+          "after": "mercouris"
+        }
+      ],
+      "body_sha256": "a8b0f7e5609b215f19da77be5696e24d293db58b4589167ca214aa0297a66c4a",
+      "body_preserved": true
+    },
+    {
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-04/source-stanislav-krapivnik-will-russia-strike-first-as-nato-prepares-for-war-2026-07-04.md",
+      "manifest_voice_slugs": {
+        "before": [
+          "stanislav-krapivnik"
+        ],
+        "after": [
+          "krapivnik"
+        ]
+      },
+      "frontmatter": [
+        {
+          "field": "thread",
+          "before": "stanislav-krapivnik",
+          "after": "krapivnik"
+        }
+      ],
+      "body_sha256": "42eefb67ae6ba9f3627d01ff0643f4a6c44b0c2cc3343abbadacbcd15f581d44",
+      "body_preserved": true
+    },
+    {
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-04/source-larry-johnson-bait-switch-u-s-efforts-to-renegotiate-the-mou-with-iran-2026-07-04.md",
+      "manifest_voice_slugs": {
+        "before": [
+          "larry-johnson"
+        ],
+        "after": [
+          "johnson"
+        ]
+      },
+      "frontmatter": [
+        {
+          "field": "thread",
+          "before": "larry-johnson",
+          "after": "johnson"
+        }
+      ],
+      "body_sha256": "82c62ca501606f4d62ca22f7633fb1184209e2ee668bc5fe0e8c8ba392d714f1",
+      "body_preserved": true
+    },
+    {
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-05/source-steve-jermy-warning-nato-can-t-win-a-war-with-russia-2026-07-05.md",
+      "manifest_voice_slugs": {
+        "before": [
+          "steve-jermy"
+        ],
+        "after": [
+          "jermy"
+        ]
+      }
+    },
+    {
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-01/source-scott-ritter-trump-briefed-on-all-out-war-scenario-in-iran-2026-07-01.md",
+      "manifest_voice_slugs": {
+        "before": [
+          "scott-ritter"
+        ],
+        "after": [
+          "ritter"
+        ]
+      }
+    },
+    {
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-02/source-prof-ted-postol-it-s-over-israel-faces-total-collapse-if-war-escalates-2026-07-02.md",
+      "manifest_voice_slugs": {
+        "before": [
+          "ted-postol"
+        ],
+        "after": [
+          "postol"
+        ]
+      }
+    },
+    {
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-05/source-stanislav-krapivnik-geran-4-obliterates-ukraine-fuel-storage-in-seconds-2026-07-05.md",
+      "manifest_voice_slugs": {
+        "before": [
+          "stanislav-krapivnik"
+        ],
+        "after": [
+          "krapivnik"
+        ]
+      },
+      "frontmatter": [
+        {
+          "field": "thread",
+          "before": "stanislav-krapivnik",
+          "after": "krapivnik"
+        }
+      ],
+      "body_sha256": "7b068eb2e3d81c88e9929d50821d4b3ce6f01c20bf7d1e8c88aade8bdff21e70",
+      "body_preserved": true
+    }
+  ],
+  "failures": []
+}

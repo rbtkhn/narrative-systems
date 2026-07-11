@@ -8,7 +8,7 @@ Status: `internal`
 | --- | --- |
 | Name |  |
 | Slug |  |
-| Role |  |
+| Role | `[Recurring intellectual operation expressed as a verb phrase, not a persona or topical label.]` |
 | Source basis |  |
 | Public summary status | `none` / `draft` / `published` |
 | First added | `YYYY-MM-DD` |
@@ -30,6 +30,8 @@ Check every modality that applies.
 | Mixed |  |  |
 
 ## Core Frame
+
+State the operation this voice repeatedly performs on evidence—for example, `tests political objectives against force capacity`—before describing favored topics.
 
 What this voice tends to notice:
 

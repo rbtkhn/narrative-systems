@@ -25,7 +25,7 @@ Status: `first-slice-parity`
 | Date | Source | Role | Host slug | Archive link |
 | --- | --- | --- | --- | --- |
 | `2026-03-11` | IRANIAN HATRED for THEIR GOV OVERBLOWN /Glenn Diesen & Lt Col Daniel Davis | `multipolar-order spine` | `daniel-davis` | [source](../../archive/sources/2026-03-11/source-daniel-davis-diesen-iranian-hatred-for-their-gov-overblown-2026-03-11.md) |
-| `2026-05-31` | BREAKING: IRAN COLLECTS TOLLS FROM 28 SHIPS IN PAST 24 HOURS - w/ Analyst Glenn D... | `multipolar-order spine` | `mario-nawfal` | [source](../../archive/sources/2026-05-31/source-mario-nawfal-diesen-breaking-iran-collects-tolls-from-28-ships-in-past-24-hours-2026-05-31.md) |
+| `2026-05-31` | BREAKING: IRAN COLLECTS TOLLS FROM 28 SHIPS IN PAST 24 HOURS - w/ Analyst Glenn Diesen | `multipolar-order spine` | `mario-nawfal` | [source](../../archive/sources/2026-05-31/source-mario-nawfal-diesen-breaking-iran-collects-tolls-from-28-ships-in-past-24-hours-2026-05-31.md) |
 | `2026-06-24` | Prof. Glenn Diesen : Is Europe Preparing for War? | `multipolar-order spine` | `judging-freedom` | [source](../../archive/sources/2026-06-24/source-judging-freedom-diesen-europe-preparing-war-2026-06-24.md) |
 
 ## Import Boundary

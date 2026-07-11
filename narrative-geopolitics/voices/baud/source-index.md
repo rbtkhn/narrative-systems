@@ -4,7 +4,7 @@ This index routes the unified local Baud corpus for `baud` to the central Narrat
 
 Source basis: `strategy-codex/statecraft/voices/baud/baud-index.md`.
 
-Corpus: 34 local route rows across 34 central archive source files.
+Corpus: 35 local route rows across 35 central archive source files.
 
 Status: `imported-corpus`
 
@@ -41,8 +41,8 @@ Status: `imported-corpus`
 | `2026-03-31` | IRAN WAR LATEST /Col Jacques Baud & Lt Col Daniel Davis | `post` | `daniel-davis` | [source](../../archive/sources/2026-03-31/source-daniel-davis-baud-iran-war-latest-2026-03-31.md) |
 | `2026-04-06` | Col. Jacques Baud: Iran HAMMERS Israel AND GCC Countries After US-Israel Attacks on Key Facilities | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-04-06/source-dialogue-works-col-jacques-baud-iran-hammers-israel-and-gcc-countries-after-us-israel-attacks-2026-04-06.md) |
 | `2026-04-13` | Col. Jacques Baud: EU Destroys Trump's War Fantasy - Leaves Him HUMILIATED | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-04-13/source-dialogue-works-col-jacques-baud-eu-destroys-trump-s-war-fantasy-leaves-him-humiliated-2026-04-13.md) |
-| `2026-04-20` | Col. Jacques Baud: DESPERATE Move? Israel Just LOST - Trump's Last-Minute Move Changes Everything | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-04-20/source-dialogue-works-col-jacques-baud-desperate-move-israel-just-lost-trump-s-last-minute-mov-2026-04-20.md) |
 | `2026-04-20` | Reigniting the Iran War / Col Jacques Baud & Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-20/source-daniel-davis-baud-iran-pakistan-diplomacy-2026-04-20.md) |
+| `2026-04-20` | Col. Jacques Baud: DESPERATE Move? Israel Just LOST - Trump's Last-Minute Move Changes Everything | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-04-20/source-dialogue-works-col-jacques-baud-desperate-move-israel-just-lost-trump-s-last-minute-mov-2026-04-20.md) |
 | `2026-04-27` | Trump's Final Card Just Ended Israel — Full Breakdown | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-04-27/source-baud-dialogue-works-nima-2026-04-27.md) |
 | `2026-05-04` | Col. Jacques Baud: Project Freedom, Hormuz blockade, and Chinese sanctions | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-05-04/source-baud-dialogue-works-nima-2026-05-04.md) |
 | `2026-05-11` | Hormuz, Iran, France, and the New Security Architecture | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-05-11/source-dialogue-works-baud-hormuz-security-architecture-2026-05-11.md) |
@@ -53,8 +53,8 @@ Status: `imported-corpus`
 | `2026-06-08` | Col. Jacques Baud: Iran & Israel Just Opened a NEW WAR FRONT in the Mediterranean | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-08/source-dialogue-works-baud-iran-israel-new-war-front-mediterranean-2026-06-08.md) |
 | `2026-06-15` | Col. Jacques Baud: US & Iran Reach MoU – War Ends IMMEDIATELY on All Fronts (Lebanon Included) | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-15/source-dialogue-works-baud-us-iran-reach-mou-war-ends-immediately-2026-06-15.md) |
 | `2026-06-22` | Col. Jacques Baud: BREAKING: Starmer Steps Down Effective Immediately — Iran & US Agree to New Terms | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-22/source-dialogue-works-baud-starmer-steps-down-iran-us-new-terms-2026-06-22.md) |
+| `2026-07-06` | Col. Jacques Baud: The FINAL CARD is Played: Trump ENDS Israel's Push | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-06/source-col-jacques-baud-the-final-card-is-played-trump-ends-israel-s-push-2026-07-06.md) |
 
 ## Import Boundary
 
 This import followed the strategy-codex Baud index and copied source captures into `archive/sources/YYYY-MM-DD/` while preserving already-local matching archive rows.
-

@@ -1,0 +1,48 @@
+{
+  "migration_id": "jiang-external-interviews-2026-07-11",
+  "migrated_at": "2026-07-11",
+  "source_index": "C:/dev/strategy-codex/statecraft/voices/jiang/jiang-index.md",
+  "boundary": "Six third-party guest interviews only; upstream Predictive History-owned material excluded.",
+  "canonical_voice_slug": "jiang",
+  "historical_aliases": [
+    "jiang-xueqin"
+  ],
+  "files": [
+    {
+      "date": "2026-01-05",
+      "filename": "source-diesen-jiang-predictions-2026-empire-rivalry-collapse-2026-01-05.md",
+      "sha256": "FB54D88372AAA0E30ED45E71C007DEB89D8CB9889811C7BB3DD8FBAE89DD5AA5"
+    },
+    {
+      "date": "2026-01-26",
+      "filename": "source-diesen-jiang-great-power-wars-new-world-order-2026-01-26.md",
+      "sha256": "2D377A355A0C98AF45D8E28213BD74007A04471C7BBFEF2C075993D6AB8CB288"
+    },
+    {
+      "date": "2026-04-11",
+      "filename": "source-diesen-jiang-iran-war-battle-petrodollar-2026-04-11.md",
+      "sha256": "52EDDB58647F769FEF33FAC1075F5B4D808FC9E339247E71558A3F99BDA22083"
+    },
+    {
+      "date": "2026-04-14",
+      "filename": "source-interviews-15-sneako-jiang-dugin-eschatology-2026-04-14.md",
+      "sha256": "4DC3594A9E06E3A572377795BB51D79B90892E31805103C859FAE9EDB7A166E5"
+    },
+    {
+      "date": "2026-05-11",
+      "filename": "source-diesen-jiang-world-war-three-empire-republic-2026-05-11.md",
+      "sha256": "44F0733DA2DD1E6F628EBBFA7A705D3BC87EF8FE9D6D2F7AEC1BA8E59839F084"
+    },
+    {
+      "date": "2026-06-01",
+      "filename": "source-diesen-jiang-u-s-trapped-in-iran-europe-s-war-against-russia-grand-bargain-with-china-2026-06-01.md",
+      "sha256": "78A63C424393FF8D822DB96315B2A1FDE5F6459B69EFF098AB04947F82794BE6"
+    }
+  ],
+  "verification": {
+    "source_bytes_preserved": true,
+    "duplicate_source_urls_found": 0,
+    "archive_paths_renamed": 0,
+    "private_intake_changed": false
+  }
+}

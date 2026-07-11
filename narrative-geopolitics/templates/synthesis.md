@@ -4,13 +4,17 @@ Date: `YYYY-MM-DD`
 
 Status: `template`
 
+Analytical language contract: [labels as analytical interfaces](../method/analytical-interfaces.md)
+
 ## Lead Judgment
 
-State the bounded internal judgment in one paragraph.
+State what changed, why it matters, and the mechanism or asymmetry governing the change. Do not open with a summary of what sources discussed.
 
 ## Crisis Object
 
-Name what is actually being contested.
+State the contested relationship as one answerable question or dynamic proposition. Do not use a country, region, or conflict name by itself.
+
+Crisis object: `[Who can do what, under which constraint, and what observable change would alter the answer?]`
 
 ## Primary Voices
 
@@ -41,10 +45,14 @@ Name what is actually being contested.
 
 ## Uncertainty
 
-Write uncertainty naturally. Distinguish source disagreement, missing live facts, host compression, and forecast uncertainty.
+Attach every uncertainty to its cause. Distinguish source disagreement, missing operational verification, inferred intent, host compression, timing ambiguity, and forecast uncertainty.
+
+| Status | Cause | Consequence for judgment | What would reduce it |
+| --- | --- | --- | --- |
+| `unknown—...` / `contested—...` / `uncertain—...` / `unresolved—...` |  |  |  |
 
 ## Forecast Candidates
 
-| Hook ID | Claim | Probability Band | Review Date |
-| --- | --- | --- | --- |
-| `NG-YYYYMMDD-F01` |  |  |  |
+| Hook ID | Observable claim | Causal mechanism | Probability Band | Review Date | Principal alternative |
+| --- | --- | --- | --- | --- | --- |
+| `NG-YYYYMMDD-F01` |  |  |  |  |  |

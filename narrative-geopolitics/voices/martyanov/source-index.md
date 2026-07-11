@@ -4,7 +4,7 @@ This index routes the unified local Martyanov corpus for `martyanov` to the cent
 
 Source basis: `strategy-codex/statecraft/voices/martyanov/martyanov-index.md` plus already-local matching archive rows.
 
-Corpus: 34 local route rows across 34 central archive source files.
+Corpus: 35 local route rows across 35 central archive source files.
 
 Status: `imported-corpus`
 
@@ -53,6 +53,7 @@ Status: `imported-corpus`
 | `2026-06-04` | Andrei Martyanov: Israel's Military JUST Got HUMILIATED on EVERY Front | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-04/source-dialogue-works-andrei-martyanov-israel-s-military-just-got-humiliated-on-every-front-2026-06-04.md) |
 | `2026-06-11` | Andrei Martyanov: US Strikes Iran – Iran Hits Back at CRITICAL Targets IMMEDIATELY | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-11/source-dialogue-works-andrei-martyanov-us-strikes-iran-iran-hits-back-critical-targets-2026-06-11.md) |
 | `2026-06-18` | Andrei Martyanov: Israel Just Dealt a Defeat to the US | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-18/source-dialogue-works-andrei-martyanov-israel-just-dealt-defeat-to-us-2026-06-18.md) |
+| `2026-07-09` | Andrei Martyanov: IRAN BOMBSHELL: Hypersonic Missile Hit U.S. Targets in 6 Minutes - Trump WARNED! | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-09/source-andrei-martyanov-iran-bombshell-hypersonic-missile-hit-u-s-targets-in-6-minutes-trump-warned-2026-07-09.md) |
 
 ## Import Boundary
 

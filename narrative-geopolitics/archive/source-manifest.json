@@ -2,7 +2,7 @@
   "manifest_id": "narrative-geopolitics-source-manifest-v1",
   "source_basis": "central archive with completed historical strategy-codex imports",
   "imported_at": "2026-07-09",
-  "source_count": 1007,
+  "source_count": 1046,
   "boundary": {
     "archive": "source truth",
     "voices": "voice continuity and routing",
@@ -1866,7 +1866,7 @@
       "import_status": "imported"
     },
     {
-      "date": "2026-07-07",
+      "date": "2026-07-04",
       "title": "Russia Destroys Arms Dump Huge Blast; Zelensky Begs Patriots Says Russia Ground Advance Unimportant",
       "local_path": "narrative-geopolitics/archive/sources/2026-07-07/source-mercouris-russia-destroys-arms-dump-zelensky-begs-patriots-2026-07-07.md",
       "voice_index_path": "../../archive/sources/2026-07-07/source-mercouris-russia-destroys-arms-dump-zelensky-begs-patriots-2026-07-07.md",
@@ -2393,7 +2393,8 @@
       "source_class": "host-pressure test",
       "modality": "cleaned-transcript",
       "voice_slugs": [
-        "mearsheimer"
+        "davis",
+        "macgregor"
       ],
       "host_slug": "daniel-davis",
       "import_status": "imported"
@@ -2477,7 +2478,8 @@
       "source_class": "host-pressure test",
       "modality": "cleaned-transcript",
       "voice_slugs": [
-        "davis"
+        "davis",
+        "macgregor"
       ],
       "host_slug": "daniel-davis",
       "import_status": "imported"
@@ -2520,7 +2522,8 @@
       "source_class": "host-pressure test",
       "modality": "cleaned-transcript",
       "voice_slugs": [
-        "davis"
+        "davis",
+        "mearsheimer"
       ],
       "host_slug": "daniel-davis",
       "import_status": "imported"
@@ -2534,7 +2537,8 @@
       "source_class": "host-pressure test",
       "modality": "cleaned-transcript",
       "voice_slugs": [
-        "davis"
+        "davis",
+        "johnson"
       ],
       "host_slug": "daniel-davis",
       "import_status": "imported"
@@ -2661,7 +2665,8 @@
       "source_class": "host-pressure test",
       "modality": "cleaned-transcript",
       "voice_slugs": [
-        "davis"
+        "davis",
+        "macgregor"
       ],
       "host_slug": "daniel-davis",
       "import_status": "imported"
@@ -2731,7 +2736,8 @@
       "source_class": "host-pressure test",
       "modality": "cleaned-transcript",
       "voice_slugs": [
-        "davis"
+        "davis",
+        "macgregor"
       ],
       "host_slug": "daniel-davis",
       "import_status": "imported"
@@ -2775,7 +2781,8 @@
       "source_class": "host-pressure test",
       "modality": "cleaned-transcript",
       "voice_slugs": [
-        "davis"
+        "davis",
+        "johnson"
       ],
       "host_slug": "daniel-davis",
       "import_status": "imported"
@@ -2789,7 +2796,8 @@
       "source_class": "host-pressure test",
       "modality": "cleaned-transcript",
       "voice_slugs": [
-        "davis"
+        "davis",
+        "mearsheimer"
       ],
       "host_slug": "daniel-davis",
       "import_status": "imported"
@@ -2847,7 +2855,8 @@
       "source_class": "host-pressure test",
       "modality": "cleaned-transcript",
       "voice_slugs": [
-        "davis"
+        "davis",
+        "macgregor"
       ],
       "host_slug": "daniel-davis",
       "import_status": "imported"
@@ -14150,6 +14159,553 @@
         "aguilar"
       ],
       "host_slug": "moral-resistance",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "Lavrov Says West Lies No Talks Ever Again; Kremlin Says US Duplicitous; West Faces Diesel Shortage",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-10/source-lavrov-says-west-lies-no-talks-ever-again-kremlin-says-us-duplicitous-west-faces-diesel-shortage-2026-07-10.md",
+      "voice_index_path": "../../archive/sources/2026-07-10/source-lavrov-says-west-lies-no-talks-ever-again-kremlin-says-us-duplicitous-west-faces-diesel-shortage-2026-07-10.md",
+      "upstream_path": "operator-paste://2026-07-10/lavrov-says-west-lies-no-talks-ever-again-kremlin-says-us-duplicitous-west-faces-diesel-shortage",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "Prof John Mearsheimer Iran Hardliners Proven Right",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-10/source-prof-john-mearsheimer-iran-hardliners-proven-right-2026-07-10.md",
+      "voice_index_path": "../../archive/sources/2026-07-10/source-prof-john-mearsheimer-iran-hardliners-proven-right-2026-07-10.md",
+      "upstream_path": "operator-paste://2026-07-10/prof-john-mearsheimer-iran-hardliners-proven-right",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "Alastair Crooke: U.S. and Iran Exchange Massive Strikes as Hormuz War Continues",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-10/source-alastair-crooke-u-s-and-iran-exchange-massive-strikes-as-hormuz-war-continues-2026-07-10.md",
+      "voice_index_path": "../../archive/sources/2026-07-10/source-alastair-crooke-u-s-and-iran-exchange-massive-strikes-as-hormuz-war-continues-2026-07-10.md",
+      "upstream_path": "operator-paste://2026-07-10/alastair-crooke-u-s-and-iran-exchange-massive-strikes-as-hormuz-war-continues",
+      "source_class": "regional-red-line spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "crooke"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "Douglas Macgregor: Disastrous NATO Summit - Renewed War on Iran & Russia",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-10/source-douglas-macgregor-disastrous-nato-summit-renewed-war-on-iran-russia-2026-07-10.md",
+      "voice_index_path": "../../archive/sources/2026-07-10/source-douglas-macgregor-disastrous-nato-summit-renewed-war-on-iran-russia-2026-07-10.md",
+      "upstream_path": "operator-paste://2026-07-10/douglas-macgregor-disastrous-nato-summit-renewed-war-on-iran-russia",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "macgregor"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "NATO Summit Descends Into Total Farce. Trump Mocks Europe, Rutte Panic",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-10/source-nato-summit-descends-into-total-farce-trump-mocks-europe-rutte-panic-2026-07-10.md",
+      "voice_index_path": "../../archive/sources/2026-07-10/source-nato-summit-descends-into-total-farce-trump-mocks-europe-rutte-panic-2026-07-10.md",
+      "upstream_path": "operator-paste://2026-07-10/nato-summit-descends-into-total-farce-trump-mocks-europe-rutte-panic",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "the-duran",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "Situation Report - Special Edition",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-08/source-situation-report-special-edition-2026-07-08.md",
+      "voice_index_path": "../../archive/sources/2026-07-08/source-situation-report-special-edition-2026-07-08.md",
+      "upstream_path": "operator-paste://2026-07-10/situation-report-special-edition",
+      "source_class": "authored forecast mechanism",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "pape"
+      ],
+      "host_slug": "pape",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "The Gathering Storm: Iran's Funeral and the Coming August Shock",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-06/source-the-gathering-storm-iran-s-funeral-and-the-coming-august-shock-2026-07-06.md",
+      "voice_index_path": "../../archive/sources/2026-07-06/source-the-gathering-storm-iran-s-funeral-and-the-coming-august-shock-2026-07-06.md",
+      "upstream_path": "operator-paste://2026-07-10/the-gathering-storm-iran-s-funeral-and-the-coming-august-shock",
+      "source_class": "authored forecast mechanism",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "pape"
+      ],
+      "host_slug": "pape",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Iran War 3.0",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-09/source-iran-war-3-0-2026-07-09.md",
+      "voice_index_path": "../../archive/sources/2026-07-09/source-iran-war-3-0-2026-07-09.md",
+      "upstream_path": "operator-paste://2026-07-10/iran-war-3-0",
+      "source_class": "authored forecast mechanism",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "crooke"
+      ],
+      "host_slug": "crooke",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "MoU Stacked in Holding Pattern as US Pivots to Plan 'B'",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-03/source-mou-stacked-in-holding-pattern-as-us-pivots-to-plan-b-2026-07-03.md",
+      "voice_index_path": "../../archive/sources/2026-07-03/source-mou-stacked-in-holding-pattern-as-us-pivots-to-plan-b-2026-07-03.md",
+      "upstream_path": "operator-paste://2026-07-03/mou-stacked-in-holding-pattern-as-us-pivots-to-plan-b",
+      "source_class": "authored forecast mechanism",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "crooke"
+      ],
+      "host_slug": "crooke",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "The Patriot Trap",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-09/source-the-patriot-trap-2026-07-09.md",
+      "voice_index_path": "../../archive/sources/2026-07-09/source-the-patriot-trap-2026-07-09.md",
+      "upstream_path": "operator-paste://2026-07-09/the-patriot-trap",
+      "source_class": "authored forecast mechanism",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "scott-ritter",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "How the US-Iran fight in the Strait of Hormuz can be resolved before it blows up the MOU",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-07/source-how-the-us-iran-fight-in-the-strait-of-hormuz-can-be-resolved-before-it-blows-up-the-mou-2026-07-07.md",
+      "voice_index_path": "../../archive/sources/2026-07-07/source-how-the-us-iran-fight-in-the-strait-of-hormuz-can-be-resolved-before-it-blows-up-the-mou-2026-07-07.md",
+      "upstream_path": "operator-paste://2026-07-07/how-the-us-iran-fight-in-the-strait-of-hormuz-can-be-resolved-before-it-blows-up-the-mou",
+      "source_class": "authored forecast mechanism",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "parsi"
+      ],
+      "host_slug": "trita-parsi",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "The Middle East is leaping toward a New Order. But an anti-Abaraham Accords would be a mistake.",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-06/source-the-middle-east-is-leaping-toward-a-new-order-but-an-anti-abaraham-accords-would-be-a-mistake-2026-07-06.md",
+      "voice_index_path": "../../archive/sources/2026-07-06/source-the-middle-east-is-leaping-toward-a-new-order-but-an-anti-abaraham-accords-would-be-a-mistake-2026-07-06.md",
+      "upstream_path": "operator-paste://2026-07-06/the-middle-east-is-leaping-toward-a-new-order-but-an-anti-abaraham-accords-would-be-a-mistake",
+      "source_class": "authored forecast mechanism",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "parsi"
+      ],
+      "host_slug": "trita-parsi",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Why Iran believes Israel will attack again before October",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-01/source-why-iran-believes-israel-will-attack-again-before-october-2026-07-01.md",
+      "voice_index_path": "../../archive/sources/2026-07-01/source-why-iran-believes-israel-will-attack-again-before-october-2026-07-01.md",
+      "upstream_path": "operator-paste://2026-07-01/why-iran-believes-israel-will-attack-again-before-october",
+      "source_class": "authored forecast mechanism",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "parsi"
+      ],
+      "host_slug": "trita-parsi",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Syrsky Refutes Zelensky Russia Plans Kiev Capture Ukraine Army Situation Bad; Kiev Drone War Falters",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-01/source-syrsky-refutes-zelensky-russia-plans-kiev-capture-ukraine-army-situation-bad-kiev-drone-war-falters-2026-07-01.md",
+      "voice_index_path": "../../archive/sources/2026-07-01/source-syrsky-refutes-zelensky-russia-plans-kiev-capture-ukraine-army-situation-bad-kiev-drone-war-falters-2026-07-01.md",
+      "upstream_path": "operator-paste://2026-07-01/syrsky-refutes-zelensky-russia-plans-kiev-capture-ukraine-army-situation-bad-kiev-drone-war-falters",
+      "source_class": "geopolitical commentary",
+      "modality": "youtube-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-02",
+      "title": "Russia Conducts Massive Kiev Strike; Plans Ground Operation; Zelensky Demands More EU Money; Drones",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-02/source-russia-conducts-massive-kiev-strike-plans-ground-operation-zelensky-demands-more-eu-money-drones-2026-07-02.md",
+      "voice_index_path": "../../archive/sources/2026-07-02/source-russia-conducts-massive-kiev-strike-plans-ground-operation-zelensky-demands-more-eu-money-drones-2026-07-02.md",
+      "upstream_path": "operator-paste://2026-07-02/russia-conducts-massive-kiev-strike-plans-ground-operation-zelensky-demands-more-eu-money-drones",
+      "source_class": "geopolitical commentary",
+      "modality": "youtube-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "Russian Warship Warns Off German Ship Russia Defends Belarus Baltic Tensions Soar; Medvedev In Iran",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-03/source-russian-warship-warns-off-german-ship-russia-defends-belarus-baltic-tensions-soar-medvedev-in-iran-2026-07-03.md",
+      "voice_index_path": "../../archive/sources/2026-07-03/source-russian-warship-warns-off-german-ship-russia-defends-belarus-baltic-tensions-soar-medvedev-in-iran-2026-07-03.md",
+      "upstream_path": "operator-paste://2026-07-03/russian-warship-warns-off-german-ship-russia-defends-belarus-baltic-tensions-soar-medvedev-in-iran",
+      "source_class": "geopolitical commentary",
+      "modality": "youtube-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "Konstantinovka Falls Final Donbas Battle Begins; Putin Says Kharkov Sumy Are Russian; Drone War Fail",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-04/source-konstantinovka-falls-final-donbas-battle-begins-putin-says-kharkov-sumy-are-russian-drone-war-fail-2026-07-04.md",
+      "voice_index_path": "../../archive/sources/2026-07-04/source-konstantinovka-falls-final-donbas-battle-begins-putin-says-kharkov-sumy-are-russian-drone-war-fail-2026-07-04.md",
+      "upstream_path": "operator-paste://2026-07-04/konstantinovka-falls-final-donbas-battle-begins-putin-says-kharkov-sumy-are-russian-drone-war-fail",
+      "source_class": "geopolitical commentary",
+      "modality": "youtube-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "West In Shock After Konstantinovka Fall; Putin Resists US Pressure During Tense Trump Call; Kharkov",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-05/source-west-in-shock-after-konstantinovka-fall-putin-resists-us-pressure-during-tense-trump-call-kharkov-2026-07-05.md",
+      "voice_index_path": "../../archive/sources/2026-07-05/source-west-in-shock-after-konstantinovka-fall-putin-resists-us-pressure-during-tense-trump-call-kharkov-2026-07-05.md",
+      "upstream_path": "operator-paste://2026-07-05/west-in-shock-after-konstantinovka-fall-putin-resists-us-pressure-during-tense-trump-call-kharkov",
+      "source_class": "geopolitical commentary",
+      "modality": "youtube-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "Russia Biggest Ever Missile Strike Hammers Kiev AD Total Fail; Will Upgrade SMO To Actual War; NATO",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-06/source-russia-biggest-ever-missile-strike-hammers-kiev-ad-total-fail-will-upgrade-smo-to-actual-war-nato-2026-07-06.md",
+      "voice_index_path": "../../archive/sources/2026-07-06/source-russia-biggest-ever-missile-strike-hammers-kiev-ad-total-fail-will-upgrade-smo-to-actual-war-nato-2026-07-06.md",
+      "upstream_path": "operator-paste://2026-07-06/russia-biggest-ever-missile-strike-hammers-kiev-ad-total-fail-will-upgrade-smo-to-actual-war-nato",
+      "source_class": "geopolitical commentary",
+      "modality": "youtube-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Alexander Mercouris: A New Putin? From Diplomacy to War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-30/source-alexander-mercouris-a-new-putin-from-diplomacy-to-war-2026-06-30.md",
+      "voice_index_path": "../../archive/sources/2026-06-30/source-alexander-mercouris-a-new-putin-from-diplomacy-to-war-2026-06-30.md",
+      "upstream_path": "operator-paste://2026-06-30/alexander-mercouris-a-new-putin-from-diplomacy-to-war",
+      "source_class": "geopolitical commentary",
+      "modality": "youtube-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Jiang Xueqin: Trump's World Order & Normalising Insanity",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-01/source-jiang-xueqin-trump-s-world-order-normalising-insanity-2026-07-01.md",
+      "voice_index_path": "../../archive/sources/2026-07-01/source-jiang-xueqin-trump-s-world-order-normalising-insanity-2026-07-01.md",
+      "upstream_path": "operator-paste://2026-07-01/jiang-xueqin-trump-s-world-order-normalising-insanity",
+      "source_class": "geopolitical commentary",
+      "modality": "youtube-transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Douglas Macgregor: Putin's New War Objective - Capturing All of Novorossiya",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-01/source-douglas-macgregor-putin-s-new-war-objective-capturing-all-of-novorossiya-2026-07-01.md",
+      "voice_index_path": "../../archive/sources/2026-07-01/source-douglas-macgregor-putin-s-new-war-objective-capturing-all-of-novorossiya-2026-07-01.md",
+      "upstream_path": "operator-paste://2026-07-01/douglas-macgregor-putin-s-new-war-objective-capturing-all-of-novorossiya",
+      "source_class": "geopolitical commentary",
+      "modality": "youtube-transcript",
+      "voice_slugs": [
+        "macgregor"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "John Mearsheimer: The End of Russian Restraint & New U.S. Grand Strategy",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-03/source-john-mearsheimer-the-end-of-russian-restraint-new-u-s-grand-strategy-2026-07-03.md",
+      "voice_index_path": "../../archive/sources/2026-07-03/source-john-mearsheimer-the-end-of-russian-restraint-new-u-s-grand-strategy-2026-07-03.md",
+      "upstream_path": "operator-paste://2026-07-03/john-mearsheimer-the-end-of-russian-restraint-new-u-s-grand-strategy",
+      "source_class": "geopolitical commentary",
+      "modality": "youtube-transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Stanislav Krapivnik: Will Russia Strike First as NATO Prepares for War?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-04/source-stanislav-krapivnik-will-russia-strike-first-as-nato-prepares-for-war-2026-07-04.md",
+      "voice_index_path": "../../archive/sources/2026-07-04/source-stanislav-krapivnik-will-russia-strike-first-as-nato-prepares-for-war-2026-07-04.md",
+      "upstream_path": "operator-paste://2026-07-04/stanislav-krapivnik-will-russia-strike-first-as-nato-prepares-for-war",
+      "source_class": "geopolitical commentary",
+      "modality": "youtube-transcript",
+      "voice_slugs": [
+        "krapivnik"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "Larry Johnson: Bait & Switch - U.S. Efforts to Renegotiate the MoU with Iran",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-04/source-larry-johnson-bait-switch-u-s-efforts-to-renegotiate-the-mou-with-iran-2026-07-04.md",
+      "voice_index_path": "../../archive/sources/2026-07-04/source-larry-johnson-bait-switch-u-s-efforts-to-renegotiate-the-mou-with-iran-2026-07-04.md",
+      "upstream_path": "operator-paste://2026-07-04/larry-johnson-bait-switch-u-s-efforts-to-renegotiate-the-mou-with-iran",
+      "source_class": "geopolitical commentary",
+      "modality": "youtube-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Steve Jermy: Warning! NATO Can't Win a War with Russia",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-05/source-steve-jermy-warning-nato-can-t-win-a-war-with-russia-2026-07-05.md",
+      "voice_index_path": "../../archive/sources/2026-07-05/source-steve-jermy-warning-nato-can-t-win-a-war-with-russia-2026-07-05.md",
+      "upstream_path": "operator-paste://2026-07-05/steve-jermy-warning-nato-can-t-win-a-war-with-russia",
+      "source_class": "geopolitical commentary",
+      "modality": "youtube-transcript",
+      "voice_slugs": [
+        "jermy"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Scott Ritter: Trump Briefed on All-Out War Scenario in Iran",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-01/source-scott-ritter-trump-briefed-on-all-out-war-scenario-in-iran-2026-07-01.md",
+      "voice_index_path": "../../archive/sources/2026-07-01/source-scott-ritter-trump-briefed-on-all-out-war-scenario-in-iran-2026-07-01.md",
+      "upstream_path": "operator-paste://2026-07-01/scott-ritter-trump-briefed-on-all-out-war-scenario-in-iran",
+      "source_class": "geopolitical commentary",
+      "modality": "youtube-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "garland-nixon",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "Col. Jacques Baud: The FINAL CARD is Played: Trump ENDS Israel's Push",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-06/source-col-jacques-baud-the-final-card-is-played-trump-ends-israel-s-push-2026-07-06.md",
+      "voice_index_path": "../../archive/sources/2026-07-06/source-col-jacques-baud-the-final-card-is-played-trump-ends-israel-s-push-2026-07-06.md",
+      "upstream_path": "operator-paste://2026-07-06/col-jacques-baud-the-final-card-is-played-trump-ends-israel-s-push",
+      "source_class": "geopolitical commentary",
+      "modality": "youtube-transcript",
+      "voice_slugs": [
+        "baud"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-02",
+      "title": "Prof. Ted Postol: It's Over: Israel Faces Total Collapse if War Escalates",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-02/source-prof-ted-postol-it-s-over-israel-faces-total-collapse-if-war-escalates-2026-07-02.md",
+      "voice_index_path": "../../archive/sources/2026-07-02/source-prof-ted-postol-it-s-over-israel-faces-total-collapse-if-war-escalates-2026-07-02.md",
+      "upstream_path": "operator-paste://2026-07-02/prof-ted-postol-it-s-over-israel-faces-total-collapse-if-war-escalates",
+      "source_class": "geopolitical commentary",
+      "modality": "youtube-transcript",
+      "voice_slugs": [
+        "postol"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Stanislav Krapivnik: Geran-4 Obliterates Ukraine Fuel Storage in SECONDS",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-05/source-stanislav-krapivnik-geran-4-obliterates-ukraine-fuel-storage-in-seconds-2026-07-05.md",
+      "voice_index_path": "../../archive/sources/2026-07-05/source-stanislav-krapivnik-geran-4-obliterates-ukraine-fuel-storage-in-seconds-2026-07-05.md",
+      "upstream_path": "operator-paste://2026-07-05/stanislav-krapivnik-geran-4-obliterates-ukraine-fuel-storage-in-seconds",
+      "source_class": "geopolitical commentary",
+      "modality": "youtube-transcript",
+      "voice_slugs": [
+        "krapivnik"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Larry Johnson: 8 US A-10 Warthogs Deploy to Jordan, Ground War Next?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-05/source-larry-johnson-8-us-a-10-warthogs-deploy-to-jordan-ground-war-next-2026-07-05.md",
+      "voice_index_path": "../../archive/sources/2026-07-05/source-larry-johnson-8-us-a-10-warthogs-deploy-to-jordan-ground-war-next-2026-07-05.md",
+      "upstream_path": "operator-paste://2026-07-05/larry-johnson-8-us-a-10-warthogs-deploy-to-jordan-ground-war-next",
+      "source_class": "geopolitical commentary",
+      "modality": "youtube-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "Larry Johnson: Iran's Qhalibaf Fires Back at Trump — Not a Proclamation, It's a Projection",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-04/source-larry-johnson-iran-s-qhalibaf-fires-back-at-trump-not-a-proclamation-it-s-a-projection-2026-07-04.md",
+      "voice_index_path": "../../archive/sources/2026-07-04/source-larry-johnson-iran-s-qhalibaf-fires-back-at-trump-not-a-proclamation-it-s-a-projection-2026-07-04.md",
+      "upstream_path": "operator-paste://2026-07-04/larry-johnson-iran-s-qhalibaf-fires-back-at-trump-not-a-proclamation-it-s-a-projection",
+      "source_class": "geopolitical commentary",
+      "modality": "youtube-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "Larry Johnson: Iran Rejects Hormuz Deal, US Surges Forces, Israel Expands Targets",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-03/source-larry-johnson-iran-rejects-hormuz-deal-us-surges-forces-israel-expands-targets-2026-07-03.md",
+      "voice_index_path": "../../archive/sources/2026-07-03/source-larry-johnson-iran-rejects-hormuz-deal-us-surges-forces-israel-expands-targets-2026-07-03.md",
+      "upstream_path": "operator-paste://2026-07-03/larry-johnson-iran-rejects-hormuz-deal-us-surges-forces-israel-expands-targets",
+      "source_class": "geopolitical commentary",
+      "modality": "youtube-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-05",
+      "title": "Predictions for 2026 (Empire, Rivalry & Collapse)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-05/source-diesen-jiang-predictions-2026-empire-rivalry-collapse-2026-01-05.md",
+      "voice_index_path": "../../archive/sources/2026-01-05/source-diesen-jiang-predictions-2026-empire-rivalry-collapse-2026-01-05.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-05/source-diesen-jiang-predictions-2026-empire-rivalry-collapse-2026-01-05.md",
+      "source_class": "cross-host pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-26",
+      "title": "Great Power Wars Over a New World Order",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-26/source-diesen-jiang-great-power-wars-new-world-order-2026-01-26.md",
+      "voice_index_path": "../../archive/sources/2026-01-26/source-diesen-jiang-great-power-wars-new-world-order-2026-01-26.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-26/source-diesen-jiang-great-power-wars-new-world-order-2026-01-26.md",
+      "source_class": "cross-host pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "Diesen with Jiang Xueqin - The Iran War & the Battle for the Petrodollar",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-11/source-diesen-jiang-iran-war-battle-petrodollar-2026-04-11.md",
+      "voice_index_path": "../../archive/sources/2026-04-11/source-diesen-jiang-iran-war-battle-petrodollar-2026-04-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-11/source-diesen-jiang-iran-war-battle-petrodollar-2026-04-11.md",
+      "source_class": "cross-host pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-14",
+      "title": "Interviews #15: Sneako — Jiang Xueqin & Aleksandr Dugin (Eschatology & Geopolitics)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-14/source-interviews-15-sneako-jiang-dugin-eschatology-2026-04-14.md",
+      "voice_index_path": "../../archive/sources/2026-04-14/source-interviews-15-sneako-jiang-dugin-eschatology-2026-04-14.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-14/source-interviews-15-sneako-jiang-dugin-eschatology-2026-04-14.md",
+      "source_class": "cross-host pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang",
+        "dugin"
+      ],
+      "host_slug": "sneako",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-11",
+      "title": "Jiang Xueqin: World War III, Empire & Republic",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-11/source-diesen-jiang-world-war-three-empire-republic-2026-05-11.md",
+      "voice_index_path": "../../archive/sources/2026-05-11/source-diesen-jiang-world-war-three-empire-republic-2026-05-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-11/source-diesen-jiang-world-war-three-empire-republic-2026-05-11.md",
+      "source_class": "cross-host pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-01",
+      "title": "Jiang Xueqin: U.S. Trapped In Iran, Europe's War Against Russia & a Grand Bargain With China",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-01/source-diesen-jiang-u-s-trapped-in-iran-europe-s-war-against-russia-grand-bargain-with-china-2026-06-01.md",
+      "voice_index_path": "../../archive/sources/2026-06-01/source-diesen-jiang-u-s-trapped-in-iran-europe-s-war-against-russia-grand-bargain-with-china-2026-06-01.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-01/source-diesen-jiang-u-s-trapped-in-iran-europe-s-war-against-russia-grand-bargain-with-china-2026-06-01.md",
+      "source_class": "cross-host pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "glenn-diesen",
       "import_status": "imported"
     }
   ]

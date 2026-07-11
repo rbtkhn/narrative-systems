@@ -16,7 +16,7 @@ This keeps interview context from being flattened into `voices/`.
 archive/  = source truth
 voices/   = whole-source-person continuity
 channels/ = host, show, and channel conditioning
-work/     = daily synthesis
+work/     = dialogue, synthesis, experiments, and forecast review
 public/   = published briefs
 ```
 
@@ -25,7 +25,7 @@ Read in this order when layers blur:
 1. `archive/` for source truth.
 2. `voices/` for whole-person continuity.
 3. `channels/` for host-conditioned guest transformation.
-4. `work/` for synthesis and judgment.
+4. `work/` for reconstructed dialogue, synthesis, and judgment.
 
 ## What Belongs Here
 

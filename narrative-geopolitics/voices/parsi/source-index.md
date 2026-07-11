@@ -4,7 +4,7 @@ This index routes the unified local Parsi corpus for `parsi` to the central Narr
 
 Source basis: `strategy-codex/statecraft/voices/parsi/parsi-index.md` plus already-local matching archive rows.
 
-Corpus: 51 local route rows across 51 central archive source files.
+Corpus: 54 local route rows across 54 central archive source files.
 
 Status: `imported-corpus`
 
@@ -55,11 +55,11 @@ Status: `imported-corpus`
 | `2026-06-07` | After Israel strikes Beirut, Iran strikes Israel. What's Trump's next move? | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-06-07/source-parsi-after-israel-strikes-beirut-iran-whats-trumps-next-move-2026-06-07.md) |
 | `2026-06-07` | Netanyahu defies Trump and strikes back at Iran - but can he take on Tehran without the US? | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-06-07/source-parsi-netanyahu-defies-trump-and-strikes-back-at-iran-2026-06-07.md) |
 | `2026-06-07` | The profound geopolitical implications of Iran's strikes on Israel | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-06-07/source-parsi-the-profound-geopolitical-implications-of-irans-strikes-on-israel-2026-06-07.md) |
-| `2026-06-08` | Did Iran establish a new equation in the Middle East through its attacks on Israel? | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-06-08/source-parsi-did-iran-establish-a-new-equation-2026-06-08.md) |
 | `2026-06-08` | ISRAEL TORPEDOES TRUMP'S IRAN DEAL OVERNIGHT – w/ Trita Parsi (Quincy Institute) | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-08/source-mario-nawfal-parsi-israel-torpedoes-trump-iran-deal-overnight-2026-06-08.md) |
+| `2026-06-08` | Did Iran establish a new equation in the Middle East through its attacks on Israel? | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-06-08/source-parsi-did-iran-establish-a-new-equation-2026-06-08.md) |
 | `2026-06-12` | BREAKING: IRAN DEAL LEAKED – w/ Trita Parsi | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-12/source-mario-nawfal-parsi-breaking-iran-deal-leaked-2026-06-12.md) |
-| `2026-06-13` | So they tried to deport me… | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-06-13/source-parsi-so-they-tried-to-deport-me-2026-06-13.md) |
 | `2026-06-13` | Trita Parsi: Iran War Ends Today? Threats of Deporting Trita Parsi | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-06-13/source-glenn-diesen-trita-parsi-iran-war-mou-deportation-threat-2026-06-13.md) |
+| `2026-06-13` | So they tried to deport me… | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-06-13/source-parsi-so-they-tried-to-deport-me-2026-06-13.md) |
 | `2026-06-14` | With one strike, Netanyahu tries to kill two peace deals | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-06-14/source-parsi-with-one-strike-netanyahu-tries-to-kill-two-peace-deals-2026-06-14.md) |
 | `2026-06-15` | UPDATE: Trump's Iran Peace Deal, Israel's Move to Sabotage It and What to Expect Next | `host-pressure test` | `tucker` | [source](../../archive/sources/2026-06-15/source-tucker-parsi-trump-iran-peace-deal-israel-sabotage-2026-06-15.md) |
 | `2026-06-16` | GIANT L': Ben Shapiro MELTS DOWN Over Iran Deal | `host-pressure test` | `breaking-points` | [source](../../archive/sources/2026-06-16/source-breaking-points-parsi-giant-l-ben-shapiro-melts-down-iran-deal-2026-06-16.md) |
@@ -70,6 +70,9 @@ Status: `imported-corpus`
 | `2026-06-24` | BREAKING: ISRAEL \"WILL NOT WITHDRAW FROM LEBANON\" - w/ Trita Parsi | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-24/source-mario-nawfal-parsi-israel-will-not-withdraw-lebanon-2026-06-24.md) |
 | `2026-06-24` | ISRAEL REFUSE TO LEAVE LEBANON, WILL IRAN RESPOND? w/ GEOPOLITICS EXPERT TRITA PARSI | `host-pressure test` | `moral-resistance` | [source](../../archive/sources/2026-06-24/source-moral-resistance-parsi-israel-refuse-leave-lebanon-will-iran-respond-2026-06-24.md) |
 | `2026-06-26` | BREAKING: ISRAEL AND LEBANON SIGN PEACE AGREEMENT, BREACHING IRANIAN MOU - w/ Trita Parsi | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-26/source-mario-nawfal-trita-parsi-israel-lebanon-peace-agreement-mou-breach-2026-06-26.md) |
+| `2026-07-01` | Why Iran believes Israel will attack again before October | `authored` | `trita-parsi` | [source](../../archive/sources/2026-07-01/source-why-iran-believes-israel-will-attack-again-before-october-2026-07-01.md) |
+| `2026-07-06` | The Middle East is leaping toward a New Order. But an anti-Abaraham Accords would be a mistake. | `authored` | `trita-parsi` | [source](../../archive/sources/2026-07-06/source-the-middle-east-is-leaping-toward-a-new-order-but-an-anti-abaraham-accords-would-be-a-mistake-2026-07-06.md) |
+| `2026-07-07` | How the US-Iran fight in the Strait of Hormuz can be resolved before it blows up the MOU | `authored` | `trita-parsi` | [source](../../archive/sources/2026-07-07/source-how-the-us-iran-fight-in-the-strait-of-hormuz-can-be-resolved-before-it-blows-up-the-mou-2026-07-07.md) |
 
 ## Import Boundary
 

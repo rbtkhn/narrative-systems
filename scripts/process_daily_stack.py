@@ -5,6 +5,9 @@ import importlib.util
 from pathlib import Path
 from typing import Any
 
+import voice_indexes
+import voice_metadata
+
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SCRIPTS_ROOT = REPO_ROOT / "scripts"
@@ -91,6 +94,17 @@ def run_bootstrap(args: argparse.Namespace) -> dict[str, Any]:
     return {"rows": len(rows), "actions": actions}
 
 
+def run_voice_reconciliation(run_date: str) -> dict[str, Any]:
+    manifest = voice_metadata.load_manifest()
+    metadata = voice_metadata.apply_metadata(manifest, run_date=run_date)
+    if metadata["failures"]:
+        return {"metadata": metadata, "indexes": {"failures": []}}
+    if metadata["changes"]:
+        voice_metadata.write_manifest(manifest)
+    indexes = voice_indexes.reconcile(manifest, run_date=run_date, write=True)
+    return {"metadata": metadata, "indexes": indexes}
+
+
 def run_validation(run_date: str, stage: str = "synthesis") -> dict[str, Any]:
     return VALIDATOR.validate_run(run_date, stage)
 
@@ -125,6 +139,16 @@ def run_ledger_sync(args: argparse.Namespace) -> dict[str, Any]:
 
 def main() -> None:
     args = parse_args()
+
+    reconciliation = run_voice_reconciliation(args.date)
+    reconciliation_failures = [
+        *reconciliation["metadata"]["failures"],
+        *reconciliation["indexes"]["failures"],
+    ]
+    if reconciliation_failures:
+        for item in reconciliation_failures:
+            print(f"FAIL {item}")
+        raise SystemExit(1)
 
     bootstrap = run_bootstrap(args)
     run_dir = BOOTSTRAP.DAILY_ROOT / args.date

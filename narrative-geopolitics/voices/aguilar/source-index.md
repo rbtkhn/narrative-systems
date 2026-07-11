@@ -4,7 +4,7 @@ This index routes the unified local Aguilar corpus for `aguilar` to the central 
 
 Source basis: `strategy-codex/statecraft/voices/aguilar/aguilar-index.md`.
 
-Corpus: 19 local route rows across 19 central archive source files.
+Corpus: 20 local route rows across 20 central archive source files.
 
 Status: `imported-corpus`
 
@@ -38,6 +38,7 @@ Status: `imported-corpus`
 | `2026-06-27` | BREAKING: IRAN STRIKE KUWAIT & BAHRAIN, RUSSIA STRIKES KHARKOV AND KIEV w/LT Col Anthony Aguilar | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-27/source-dialogue-works-anthony-aguilar-iran-strike-kuwait-bahrain-russia-strikes-kharkov-kiev-2026-06-27.md) |
 | `2026-06-27` | Lt. Col. Anthony Aguilar: U.S. Airstrikes Hit Southern Iran; Tehran's 'Hard' Retaliation on US Bases | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-27/source-dialogue-works-anthony-aguilar-us-airstrikes-southern-iran-tehran-retaliation-us-bases-2026-06-27.md) |
 | `2026-06-28` | BREAKING: ISRAEL GROUND ATTACK IN SYRIA, SAUDI-YEMEN NEW WAR, IRAN CEASEFIRE w/ Col Anthony Aguilar | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-28/source-dialogue-works-anthony-aguilar-israel-ground-attack-syria-saudi-yemen-war-iran-ceasefire-2026-06-28.md) |
+| `2026-07-09` | U.S PLAN GROUND INVASION w/ Col Anthony Aguilar | `host-pressure test` | `moral-resistance` | [source](../../archive/sources/2026-07-09/source-u-s-plan-ground-invasion-w-col-anthony-aguilar-2026-07-09.md) |
 
 ## Import Boundary
 

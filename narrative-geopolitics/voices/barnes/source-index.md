@@ -4,7 +4,7 @@ This index routes the unified local Barnes corpus for `barnes` to the central Na
 
 Source basis: `strategy-codex/statecraft/voices/barnes/barnes-index.md` plus already-local matching archive rows.
 
-Corpus: 24 local route rows across 24 central archive source files.
+Corpus: 25 local route rows across 25 central archive source files.
 
 Status: `imported-corpus`
 
@@ -33,16 +33,17 @@ Status: `imported-corpus`
 | `2026-05-28` | Reports: IRAN ATTACKS U.S. SHIPS - w/ Political Analyst Robert Barnes | `authored interview` | `barnes` | [source](../../archive/sources/2026-05-28/source-barnes-mario-nawfal-reports-iran-attacks-u-s-ships-2026-05-28.md) |
 | `2026-05-30` | IRAN WAR - NO DECISION MADE /Lt Col Daniel Davis & Robert Barnes | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-30/source-daniel-davis-iran-war-no-decision-made-lt-col-daniel-davis-robert-barnes-2026-05-30.md) |
 | `2026-05-31` | BREAKING: U.S. TO MERGE MILITARY WITH ISRAEL - w/ Political Analyst Robert Barnes | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-05-31/source-mario-nawfal-barnes-breaking-u-s-to-merge-military-with-israel-2026-05-31.md) |
-| `2026-06-03` | Robert Barnes: The Iranian Navy announces it targeted a U.S. warship in the Sea of Oman | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-03/source-dialogue-works-barnes-the-iranian-navy-announces-it-targeted-a-us-warship-in-the-sea-of-oman-2026-06-03.md) |
 | `2026-06-03` | TRUMP INFORMED \\\"IRAN MAY HAVE NUKES\\\" - w/ Political Analyst Robert Barnes | `authored interview` | `barnes` | [source](../../archive/sources/2026-06-03/source-barnes-trump-informed-iran-may-have-nukes-2026-06-03.md) |
+| `2026-06-03` | Robert Barnes: The Iranian Navy announces it targeted a U.S. warship in the Sea of Oman | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-03/source-dialogue-works-barnes-the-iranian-navy-announces-it-targeted-a-us-warship-in-the-sea-of-oman-2026-06-03.md) |
 | `2026-06-08` | BREAKING: IRAN LAUNCHES ATTACK ON U.S. BASES – w/ Political Analyst Robert Barnes | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-08/source-mario-nawfal-barnes-breaking-iran-launches-attack-on-u-s-bases-2026-06-08.md) |
-| `2026-06-10` | Robert Barnes : How Trump Makes Decisions | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-10/source-judging-freedom-barnes-how-trump-makes-decisions-2026-06-10.md) |
 | `2026-06-10` | Robert Barnes: US Attacks Iran: Jordan, Bahrain & Kuwait Were Hit Within Hours | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-10/source-dialogue-works-barnes-us-attacks-iran-jordan-bahrain-kuwait-hit-within-hours-2026-06-10.md) |
+| `2026-06-10` | Robert Barnes : How Trump Makes Decisions | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-10/source-judging-freedom-barnes-how-trump-makes-decisions-2026-06-10.md) |
 | `2026-06-11` | Robert Barnes: Shifting Goal Posts w/Iran War | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-06-11/source-daniel-davis-robert-barnes-shifting-goal-posts-iran-war-2026-06-11.md) |
 | `2026-06-25` | BREAKING: GCC ATTACK IRAN AFTER MARCO RUBIO MEETING, IRAN STRIKE VESSEL IN HORMUZ w/ Robert Barnes | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-25/source-mario-nawfal-barnes-breaking-gcc-attack-iran-rubio-meeting-iran-strike-vessel-hormuz-2026-06-25.md) |
 | `2026-06-26` | Iran Deal Miscalculations / Robert Barnes & Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-06-26/source-daniel-davis-robert-barnes-iran-deal-miscalculations-2026-06-26.md) |
 | `2026-06-26` | Robert Barnes: Iran Drones Attack Ship WITHOUT State Approval! | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-26/source-dialogue-works-robert-barnes-iran-drones-ship-without-state-approval-2026-06-26.md) |
 | `2026-07-07` | Robert Barnes: U.S. Just REVOKED Iran Waivers - We Heading to War | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-07/source-dialogue-works-robert-barnes-u-s-just-revoked-iran-waivers-we-heading-to-war-2026-07-07.md) |
+| `2026-07-08` | BREAKING: U.S. BOMBING IRAN NOW - w/ Robert Barnes | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-07-08/source-breaking-u-s-bombing-iran-now-w-robert-barnes-2026-07-08.md) |
 
 ## Import Boundary
 

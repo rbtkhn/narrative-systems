@@ -1,10 +1,16 @@
 # narrative-systems
 
-An archive-first geopolitical research workbench.
+An archive-first, source-grounded dialogical workbench for geopolitical
+judgment.
 
 The executable center is [Narrative Geopolitics](narrative-geopolitics/README.md):
-a source-bounded system for transcript intake, voice and channel continuity,
-daily synthesis, accountable forecasts, and selective public briefs.
+a source-bounded system for curating intellectual voices, testing their
+continuity across time and channels, bringing their distinct frameworks into
+disciplined dialogue, producing synthesis, and holding forecasts accountable.
+
+The archive is the evidence floor. Voice reconstruction and council dialogue
+are interpretive work products, never claims about what a living person
+currently thinks.
 
 [Predictive History](predictive-history/README.md) remains a sibling study of
 public historical and civilizational corpus traversal.
@@ -40,6 +46,6 @@ newer. Private intake behavior is documented separately under
 
 - `archive/` owns source truth.
 - `voices/` and `channels/` own continuity and conditioning.
-- `work/` owns internal judgment and forecast review.
+- `work/` owns internal dialogue, judgment, experiments, and forecast review.
 - `public/` contains intentionally promoted reader-facing material.
 - Empty dates create no daily directory.

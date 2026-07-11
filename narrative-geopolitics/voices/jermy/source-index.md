@@ -4,7 +4,7 @@ This index routes the unified local Jermy corpus for `jermy` to the central Narr
 
 Source basis: `strategy-codex/statecraft/voices/jermy/jermy-index.md`.
 
-Corpus: 12 local route rows across 12 central archive source files.
+Corpus: 14 local route rows across 14 central archive source files.
 
 Status: `imported-corpus`
 
@@ -31,8 +31,9 @@ Status: `imported-corpus`
 | `2026-03-18` | The US already LOST the Naval War \| Commodore Steve Jermy | `host-pressure test` | `neutrality-studies` | [source](../../archive/sources/2026-03-18/source-neutrality-studies-us-already-lost-naval-war-steve-jermy-2026-03-18.md) |
 | `2026-04-28` | Iran War's Real Ticking Timebomb: Imminent Energy & Food Crisis \| Steve Jermy & Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-28/source-daniel-davis-iran-wars-real-ticking-timebomb-imminent-energy-food-crisis-steve-jermy-lt-col-daniel-davis-2026-04-28.md) |
 | `2026-06-20` | Collapse Has Begun. NOW Global Recession Is Unavoidable \| Cdre. Steve Jermy | `host-pressure test` | `neutrality-studies` | [source](../../archive/sources/2026-06-20/source-neutrality-studies-collapse-global-recession-unavoidable-steve-jermy-2026-06-20.md) |
+| `2026-07-05` | Steve Jermy: Warning! NATO Can't Win a War with Russia | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-05/source-steve-jermy-warning-nato-can-t-win-a-war-with-russia-2026-07-05.md) |
+| `2026-07-09` | Navy Combat Vet: The Coming European War w/Russia Steve Jermy & Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-09/source-navy-combat-vet-the-coming-european-war-w-russia-steve-jermy-lt-col-daniel-davis-2026-07-09.md) |
 
 ## Import Boundary
 
 This import followed the strategy-codex Jermy index and copied source captures into `archive/sources/YYYY-MM-DD/` while preserving already-local matching archive rows.
-
