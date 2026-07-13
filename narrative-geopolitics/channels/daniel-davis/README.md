@@ -1,6 +1,6 @@
 # Channel Shelf: Daniel Davis
 
-Status: `lightweight`
+Status: `transcript-bearing-upstream-parity`
 
 ## Profile
 
@@ -10,13 +10,23 @@ Status: `lightweight`
 | Channel / show | Daniel Davis Deep Dive |
 | Host people | Lt. Col. Daniel Davis |
 | Source basis | [../../archive/source-manifest.json](../../archive/source-manifest.json) |
-| Shelf status | `lightweight-active` |
+| Shelf status | `transcript-bearing-upstream-parity` |
+| Manifest-backed host rows | 203 |
+| Upstream channel-index audit | 236 links; 233 unique files; 143 transcript-bearing sources |
 
 ## Channel Role
 
 Feasibility and settlement-room pressure; tests guests against military practicality, bargaining geometry, and ground-war risk.
 
-## Source Links
+## Corpus Boundary
+
+The manifest is the exhaustive local authority for the 203 sources routed through `host_slug: daniel-davis`. This shelf remains a selective conditioning surface and does not duplicate every host route into a second manually maintained index.
+
+The bounded upstream channel migration reached transcript-bearing parity across 143 substantive captures: 72 sources were imported and 71 already existed. It excluded 79 metadata stubs, one derived transcript-notes summary, one notebook routing surface, and nine generated helper files. Three repeated link occurrences in the upstream index were recorded without duplicating sources.
+
+Davis's solo and self-analysis programs belong to `voice_slugs: [davis]` as authored continuity. Interviews with substantive guests retain the guest identity without adding Davis merely because he hosts them.
+
+## Selected Source Links
 
 | Date | Guest / Voice | Source |
 | --- | --- | --- |

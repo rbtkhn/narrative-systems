@@ -4,7 +4,7 @@ This index routes the unified local Freeman corpus for `freeman` to the central 
 
 Source basis: `strategy-codex/statecraft/voices/freeman/freeman-index.md` plus already-local matching archive rows.
 
-Corpus: 150 local route rows across 150 central archive source files.
+Corpus: 151 local route rows across 151 central archive source files.
 
 Status: `imported-corpus`
 
@@ -142,6 +142,7 @@ Status: `imported-corpus`
 | `2026-04-03` | Amb. Chas Freeman: Trump PUSHES ESCALATION \u2014 Israel\u2019s Strategy COLLAPSES Overnight | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-04-03/source-dialogue-works-amb-chas-freeman-trump-pushes-escalation-israel-s-strategy-collapses-ove-2026-04-03.md) |
 | `2026-04-03` | Chas Freeman: World Disorder - Global Nuclear Proliferation Coming | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-04-03/source-glenn-diesen-chas-freeman-world-disorder-global-nuclear-proliferation-coming-2026-04-03.md) |
 | `2026-04-10` | Amb. Chas Freeman: Israel\u2019s STRATEGY in TATTERS - Trump TAKES OVER | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-04-10/source-dialogue-works-amb-chas-freeman-israel-s-strategy-in-tatters-trump-takes-over-2026-04-10.md) |
+| `2026-04-13` | Iran War: Whoever Drops the Most Bombs Wins? /Lt Col Daniel Davis & Chas Freeman | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-13/source-daniel-davis-iran-war-whoever-drops-the-most-bombs-wins-lt-col-daniel-davis-chas-free-2026-04-13.md) |
 | `2026-04-14` | AMB. Chas Freeman: Israel's Strategy Collapsing | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-04-14/source-judging-freedom-freeman-israels-strategy-collapsing-2026-04-14.md) |
 | `2026-04-21` | AMB. Chas Freeman: US Diplomacy Is Dead - And the World Knows It | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-04-21/source-judging-freedom-freeman-us-diplomacy-is-dead-2026-04-21.md) |
 | `2026-04-24` | Nima × Chas W. Freeman — Israel’s Agenda Is Collapsing Faster Than Anyone Expected (operator transcript) | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-04-24/source-nima-freeman-israel-agenda-collapsing-2026-04-24.md) |

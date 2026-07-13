@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `mearsheimer` to th
 
 Source basis: `strategy-codex/statecraft/voices/mearsheimer/mearsheimer-index.md`.
 
-Corpus: 40 local route rows across 40 central archive source files.
+Corpus: 49 local route rows across 49 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -25,8 +25,13 @@ Status: `first-slice-parity`
 
 | Date | Source | Role | Host slug | Archive link |
 | --- | --- | --- | --- | --- |
+| `2025-01-17` | John Mearsheimer: Russia & Iran a NEW Nuclear Alliance | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2025-01-17/source-daniel-davis-john-mearsheimer-russia-iran-a-new-nuclear-alliance-2025-01-17.md) |
+| `2025-01-19` | John Mearsheimer: There'll be No Ceasefire in Ukraine | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2025-01-19/source-daniel-davis-john-mearsheimer-there-ll-be-no-ceasefire-in-ukraine-2025-01-19.md) |
+| `2025-01-19` | Maximum Pressure' on IRAN a Good Idea? John Mearsheimer | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2025-01-19/source-daniel-davis-maximum-pressure-on-iran-a-good-idea-john-mearsheimer-2025-01-19.md) |
+| `2025-01-29` | John Mearsheimer - PUTIN: Peace Can Only Happen On My Terms | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2025-01-29/source-daniel-davis-john-mearsheimer-putin-peace-can-only-happen-on-my-terms-2025-01-29.md) |
 | `2025-02-15` | Trump To Force Ukraine Peace on Europe - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2025-02-15/source-diesen-mearsheimer-mercouris-trump-to-force-ukraine-peace-on-europe-2025-02-15.md) |
 | `2025-03-08` | The US Push for Peace & Europe Panics - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-03-08/source-diesen-mearsheimer-mercouris-the-us-push-for-peace-and-europe-panics-2025-03-08.md) |
+| `2025-03-20` | John Mearsheimer \"There'll be NO Meaningfulf CeaseFire\" in Ukraine Russia War | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2025-03-20/source-daniel-davis-john-mearsheimer-therell-be-no-meaningfulf-ceasefire-in-ukraine-russia-war-2025-03-20.md) |
 | `2025-05-02` | Ukraine is Now Trump's War - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-05-02/source-diesen-mearsheimer-mercouris-ukraine-is-now-trumps-war-2025-05-02.md) |
 | `2025-05-29` | Russia Won the War - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-05-29/source-diesen-mearsheimer-mercouris-russia-won-the-war-2025-05-29.md) |
 | `2025-06-20` | \"Israel Has Walked Off a Cliff\" - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2025-06-20/source-diesen-mearsheimer-mercouris-israel-has-walked-off-a-cliff-2025-06-20.md) |
@@ -39,16 +44,20 @@ Status: `first-slice-parity`
 | `2026-01-07` | source-diesen-mearsheimer-venezuela-greenland-nato-2026-01-07 | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-01-07/source-diesen-mearsheimer-venezuela-greenland-nato-2026-01-07.md) |
 | `2026-01-14` | Prof John Mearsheimer: CLASSIC U.S. REGIME CHANGE in IRAN | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-01-14/source-daniel-davis-prof-john-mearsheimer-classic-u-s-regime-change-in-iran-2026-01-14.md) |
 | `2026-01-15` | Prof John Mearsheimer: DISMANTLING IRAN, The Four Part Strategy | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-01-15/source-daniel-davis-prof-john-mearsheimer-dismantling-iran-the-four-part-strategy-2026-01-15.md) |
+| `2026-01-29` | John Mearsheimer: There's NO DECISIVE WIN for TRUMP w/IRAN | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-01-29/source-daniel-davis-john-mearsheimer-there-s-no-decisive-win-for-trump-w-iran-2026-01-29.md) |
 | `2026-01-31` | source-diesen-mearsheimer-cold-war-nato-ukraine-2026-01-31 | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-01-31/source-diesen-mearsheimer-cold-war-nato-ukraine-2026-01-31.md) |
 | `2026-02-24` | John Mearsheimer: Trump Has No Offramp | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-02-24/source-judging-freedom-mearsheimer-trump-has-no-offramp-2026-02-24.md) |
 | `2026-02-25` | John Mearsheimer: The Case for a Nuclear Iran | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-02-25/source-diesen-mearsheimer-case-for-nuclear-iran-2026-02-25.md) |
+| `2026-03-04` | Prof John Mearsheimer NEXT MOVE in IRAN, U.S. Causing INSURRECTION | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-03-04/source-daniel-davis-mearsheimer-next-move-in-iran-us-causing-insurrection-2026-03-04.md) |
 | `2026-03-10` | John Mearsheimer: U.S. Already Lost Iran War â€” No Off-Ramp in Sight | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-03-10/source-diesen-mearsheimer-us-already-lost-no-offramp-2026-03-10.md) |
 | `2026-03-27` | source-diesen-mearsheimer-iran-holds-all-the-cards-2026-03-27 | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-03-27/source-diesen-mearsheimer-iran-holds-all-the-cards-2026-03-27.md) |
+| `2026-04-01` | Professor John Mearsheimer : Trump PULLING OUT of NATO? | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-01/source-daniel-davis-professor-john-mearsheimer-trump-pulling-out-of-nato-2026-04-01.md) |
 | `2026-04-10` | John Mearsheimer: World Changed Forever as Iran Defeated the U.S. | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-04-10/source-diesen-mearsheimer-world-changed-forever-2026-04-10.md) |
 | `2026-04-13` | Prof John Mearsheimer: The HORRIBLE NAVAL BLOCKADE in Hormuz Strait | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-13/source-daniel-davis-prof-john-mearsheimer-the-horrible-naval-blockade-in-hormuz-strait-2026-04-13.md) |
 | `2026-04-30` | Prof John Mearsheimer: Weâ€™ve Lost the Iran War, Weâ€™re Screwed | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-30/source-daniel-davis-mearsheimer-weve-lost-the-iran-war-were-screwed-2026-04-30.md) |
 | `2026-05-04` | John Mearsheimer: World Order Ending & Risk of Nuclear War | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-05-04/source-diesen-mearsheimer-world-order-ending-risk-nuclear-war-2026-05-04.md) |
 | `2026-05-13` | Prof John Mearsheimer TRUMP WILL BE FORCED TO CUT A DEAL w/IRAN | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-13/source-daniel-davis-prof-john-mearsheimer-trump-will-be-forced-to-cut-a-deal-w-iran-2026-05-13.md) |
+| `2026-05-13` | Prof Mearsheimer: Shock Analysis: Russia Considers NUCLEAR ESCALATION v Europe | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-13/source-daniel-davis-prof-mearsheimer-shock-analysis-russia-considers-nuclear-escalation-v-eu-2026-05-13.md) |
 | `2026-05-18` | John Mearsheimer: Toward All-Out War With Both Russia & Iran | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-05-18/source-glenn-diesen-john-mearsheimer-toward-all-out-war-with-both-russia-and-iran-2026-05-18.md) |
 | `2026-05-28` | Prof John Mearsheimer: IRAN CEASEFIRE HANGS by a THREAD | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-28/source-daniel-davis-mearsheimer-iran-ceasefire-hangs-by-a-thread-2026-05-28.md) |
 | `2026-06-01` | BREAKING: Iran Suspends Talks w/US over Israel's strikes on Lebanon Matt Hoh & Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-06-01/source-daniel-davis-breaking-iran-suspends-talks-w-us-over-israel-s-strikes-on-lebanon-matt-hoh-lt-col-daniel-davis-2026-06-01.md) |

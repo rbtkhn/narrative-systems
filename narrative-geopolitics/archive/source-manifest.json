@@ -2,7 +2,7 @@
   "manifest_id": "narrative-geopolitics-source-manifest-v1",
   "source_basis": "central archive with completed historical strategy-codex imports",
   "imported_at": "2026-07-09",
-  "source_count": 1391,
+  "source_count": 1463,
   "boundary": {
     "archive": "source truth",
     "voices": "voice continuity and routing",
@@ -19546,6 +19546,1014 @@
         "marandi"
       ],
       "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-01-10",
+      "title": "How Biden, NATO & the West DESTROYED UKRAINE",
+      "local_path": "narrative-geopolitics/archive/sources/2025-01-10/source-daniel-davis-how-biden-nato-the-west-destroyed-ukraine-2025-01-10.md",
+      "voice_index_path": "../../archive/sources/2025-01-10/source-daniel-davis-how-biden-nato-the-west-destroyed-ukraine-2025-01-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-01-10/source-daniel-davis-how-biden-nato-the-west-destroyed-ukraine-2025-01-10.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-01-17",
+      "title": "John Mearsheimer: Russia & Iran a NEW Nuclear Alliance",
+      "local_path": "narrative-geopolitics/archive/sources/2025-01-17/source-daniel-davis-john-mearsheimer-russia-iran-a-new-nuclear-alliance-2025-01-17.md",
+      "voice_index_path": "../../archive/sources/2025-01-17/source-daniel-davis-john-mearsheimer-russia-iran-a-new-nuclear-alliance-2025-01-17.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-01-17/source-daniel-davis-john-mearsheimer-russia-iran-a-new-nuclear-alliance-2025-01-17.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-01-19",
+      "title": "John Mearsheimer: There'll be No Ceasefire in Ukraine",
+      "local_path": "narrative-geopolitics/archive/sources/2025-01-19/source-daniel-davis-john-mearsheimer-there-ll-be-no-ceasefire-in-ukraine-2025-01-19.md",
+      "voice_index_path": "../../archive/sources/2025-01-19/source-daniel-davis-john-mearsheimer-there-ll-be-no-ceasefire-in-ukraine-2025-01-19.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-01-19/source-daniel-davis-john-mearsheimer-there-ll-be-no-ceasefire-in-ukraine-2025-01-19.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-01-19",
+      "title": "Maximum Pressure' on IRAN a Good Idea? John Mearsheimer",
+      "local_path": "narrative-geopolitics/archive/sources/2025-01-19/source-daniel-davis-maximum-pressure-on-iran-a-good-idea-john-mearsheimer-2025-01-19.md",
+      "voice_index_path": "../../archive/sources/2025-01-19/source-daniel-davis-maximum-pressure-on-iran-a-good-idea-john-mearsheimer-2025-01-19.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-01-19/source-daniel-davis-maximum-pressure-on-iran-a-good-idea-john-mearsheimer-2025-01-19.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-01-20",
+      "title": "UKRAINE Eastern Front in Danger of Collapse as Trump Takes Reigns",
+      "local_path": "narrative-geopolitics/archive/sources/2025-01-20/source-daniel-davis-ukraine-eastern-front-in-danger-of-collapse-as-trump-takes-reigns-2025-01-20.md",
+      "voice_index_path": "../../archive/sources/2025-01-20/source-daniel-davis-ukraine-eastern-front-in-danger-of-collapse-as-trump-takes-reigns-2025-01-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-01-20/source-daniel-davis-ukraine-eastern-front-in-danger-of-collapse-as-trump-takes-reigns-2025-01-20.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-01-29",
+      "title": "John Mearsheimer - PUTIN: Peace Can Only Happen On My Terms",
+      "local_path": "narrative-geopolitics/archive/sources/2025-01-29/source-daniel-davis-john-mearsheimer-putin-peace-can-only-happen-on-my-terms-2025-01-29.md",
+      "voice_index_path": "../../archive/sources/2025-01-29/source-daniel-davis-john-mearsheimer-putin-peace-can-only-happen-on-my-terms-2025-01-29.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-01-29/source-daniel-davis-john-mearsheimer-putin-peace-can-only-happen-on-my-terms-2025-01-29.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-02-20",
+      "title": "Trump FORCES Ukraine Strategy The World Rejects it",
+      "local_path": "narrative-geopolitics/archive/sources/2025-02-20/source-daniel-davis-trump-forces-ukraine-strategy-the-world-rejects-it-2025-02-20.md",
+      "voice_index_path": "../../archive/sources/2025-02-20/source-daniel-davis-trump-forces-ukraine-strategy-the-world-rejects-it-2025-02-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-02-20/source-daniel-davis-trump-forces-ukraine-strategy-the-world-rejects-it-2025-02-20.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-03-10",
+      "title": "BREAKING: Ukraine Army Collapsing in Kursk /Russia Surrounds Ukrainian Soldiers",
+      "local_path": "narrative-geopolitics/archive/sources/2025-03-10/source-daniel-davis-breaking-ukraine-army-collapsing-in-kursk-russia-surrounds-ukrainian-soldiers-2025-03-10.md",
+      "voice_index_path": "../../archive/sources/2025-03-10/source-daniel-davis-breaking-ukraine-army-collapsing-in-kursk-russia-surrounds-ukrainian-soldiers-2025-03-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-03-10/source-daniel-davis-breaking-ukraine-army-collapsing-in-kursk-russia-surrounds-ukrainian-soldiers-2025-03-10.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "vilano"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-03-20",
+      "title": "John Mearsheimer \\\"There'll be NO Meaningfulf CeaseFire\\\" in Ukraine Russia War",
+      "local_path": "narrative-geopolitics/archive/sources/2025-03-20/source-daniel-davis-john-mearsheimer-therell-be-no-meaningfulf-ceasefire-in-ukraine-russia-war-2025-03-20.md",
+      "voice_index_path": "../../archive/sources/2025-03-20/source-daniel-davis-john-mearsheimer-therell-be-no-meaningfulf-ceasefire-in-ukraine-russia-war-2025-03-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-03-20/source-daniel-davis-john-mearsheimer-therell-be-no-meaningfulf-ceasefire-in-ukraine-russia-war-2025-03-20.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-04-10",
+      "title": "Russian Forces March On While Western Leaders seem Paralyzed",
+      "local_path": "narrative-geopolitics/archive/sources/2025-04-10/source-daniel-davis-russian-forces-march-on-while-western-leaders-seem-paralyzed-2025-04-10.md",
+      "voice_index_path": "../../archive/sources/2025-04-10/source-daniel-davis-russian-forces-march-on-while-western-leaders-seem-paralyzed-2025-04-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-04-10/source-daniel-davis-russian-forces-march-on-while-western-leaders-seem-paralyzed-2025-04-10.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-06-20",
+      "title": "Lt Col Daniel Davis: Iran-Israel War - DON'T ENTER into IT",
+      "local_path": "narrative-geopolitics/archive/sources/2025-06-20/source-daniel-davis-lt-col-daniel-davis-iran-israel-war-dont-enter-into-it-2025-06-20.md",
+      "voice_index_path": "../../archive/sources/2025-06-20/source-daniel-davis-lt-col-daniel-davis-iran-israel-war-dont-enter-into-it-2025-06-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-06-20/source-daniel-davis-lt-col-daniel-davis-iran-israel-war-dont-enter-into-it-2025-06-20.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-10-15",
+      "title": "U.S. War Dept v. Russia /Larry Johnson & Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2025-10-15/source-daniel-davis-larry-johnson-u-s-war-dept-v-russia-larry-johnson-lt-col-daniel-davis-2025-10-15.md",
+      "voice_index_path": "../../archive/sources/2025-10-15/source-daniel-davis-larry-johnson-u-s-war-dept-v-russia-larry-johnson-lt-col-daniel-davis-2025-10-15.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-10-15/source-daniel-davis-larry-johnson-u-s-war-dept-v-russia-larry-johnson-lt-col-daniel-davis-2025-10-15.md",
+      "source_class": "host-pressure test",
+      "modality": "youtube-auto-captions",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-10-30",
+      "title": "Ukraine Russia War Update: Just Back from Russia: Larry Johnson",
+      "local_path": "narrative-geopolitics/archive/sources/2025-10-30/source-daniel-davis-larry-johnson-ukraine-russia-war-update-just-back-from-russia-larry-johnson-2025-10-30.md",
+      "voice_index_path": "../../archive/sources/2025-10-30/source-daniel-davis-larry-johnson-ukraine-russia-war-update-just-back-from-russia-larry-johnson-2025-10-30.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-10-30/source-daniel-davis-larry-johnson-ukraine-russia-war-update-just-back-from-russia-larry-johnson-2025-10-30.md",
+      "source_class": "host-pressure test",
+      "modality": "youtube-auto-captions",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-11-28",
+      "title": "Putin to Ukraine: Withdraw or We'll Take it by FORCE /Larry Johnson",
+      "local_path": "narrative-geopolitics/archive/sources/2025-11-28/source-daniel-davis-larry-johnson-putin-to-ukraine-withdraw-or-we-ll-take-it-by-force-larry-johnson-2025-11-28.md",
+      "voice_index_path": "../../archive/sources/2025-11-28/source-daniel-davis-larry-johnson-putin-to-ukraine-withdraw-or-we-ll-take-it-by-force-larry-johnson-2025-11-28.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-11-28/source-daniel-davis-larry-johnson-putin-to-ukraine-withdraw-or-we-ll-take-it-by-force-larry-johnson-2025-11-28.md",
+      "source_class": "host-pressure test",
+      "modality": "youtube-auto-captions",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-12-10",
+      "title": "The War We Cannot Win / Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2025-12-10/source-daniel-davis-the-war-we-cannot-win-lt-col-daniel-davis-2025-12-10.md",
+      "voice_index_path": "../../archive/sources/2025-12-10/source-daniel-davis-the-war-we-cannot-win-lt-col-daniel-davis-2025-12-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-12-10/source-daniel-davis-the-war-we-cannot-win-lt-col-daniel-davis-2025-12-10.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-12-20",
+      "title": "Ukraine Russia War Reporting Hoax /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2025-12-20/source-daniel-davis-ukraine-russia-war-reporting-hoax-lt-col-daniel-davis-2025-12-20.md",
+      "voice_index_path": "../../archive/sources/2025-12-20/source-daniel-davis-ukraine-russia-war-reporting-hoax-lt-col-daniel-davis-2025-12-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-12-20/source-daniel-davis-ukraine-russia-war-reporting-hoax-lt-col-daniel-davis-2025-12-20.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-29",
+      "title": "John Mearsheimer: There's NO DECISIVE WIN for TRUMP w/IRAN",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-29/source-daniel-davis-john-mearsheimer-there-s-no-decisive-win-for-trump-w-iran-2026-01-29.md",
+      "voice_index_path": "../../archive/sources/2026-01-29/source-daniel-davis-john-mearsheimer-there-s-no-decisive-win-for-trump-w-iran-2026-01-29.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-29/source-daniel-davis-john-mearsheimer-there-s-no-decisive-win-for-trump-w-iran-2026-01-29.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-11",
+      "title": "Prof Seyed Marandi: War w/Iran Will Be CATASTROPHIC FOR EVERYONE",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-11/source-daniel-davis-prof-seyed-marandi-war-w-iran-will-be-catastrophic-for-everyone-2026-02-11.md",
+      "voice_index_path": "../../archive/sources/2026-02-11/source-daniel-davis-prof-seyed-marandi-war-w-iran-will-be-catastrophic-for-everyone-2026-02-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-11/source-daniel-davis-prof-seyed-marandi-war-w-iran-will-be-catastrophic-for-everyone-2026-02-11.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-28",
+      "title": "source-daniel-davis-us-at-war-w-iran-iranian-leader-dead-2026-02-28",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-28/source-daniel-davis-us-at-war-w-iran-iranian-leader-dead-2026-02-28.md",
+      "voice_index_path": "../../archive/sources/2026-02-28/source-daniel-davis-us-at-war-w-iran-iranian-leader-dead-2026-02-28.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-28/source-daniel-davis-us-at-war-w-iran-iranian-leader-dead-2026-02-28.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-02",
+      "title": "source-daniel-davis-iran-war-new-phase-oil-in-the-persian-gulf-2026-03-02",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-02/source-daniel-davis-iran-war-new-phase-oil-in-the-persian-gulf-2026-03-02.md",
+      "voice_index_path": "../../archive/sources/2026-03-02/source-daniel-davis-iran-war-new-phase-oil-in-the-persian-gulf-2026-03-02.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-02/source-daniel-davis-iran-war-new-phase-oil-in-the-persian-gulf-2026-03-02.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-03",
+      "title": "source-daniel-davis-henningsen-us-iran-war-engulfs-middle-east-2026-03-03",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-03/source-daniel-davis-henningsen-us-iran-war-engulfs-middle-east-2026-03-03.md",
+      "voice_index_path": "../../archive/sources/2026-03-03/source-daniel-davis-henningsen-us-iran-war-engulfs-middle-east-2026-03-03.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-03/source-daniel-davis-henningsen-us-iran-war-engulfs-middle-east-2026-03-03.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "henningsen"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-03",
+      "title": "source-daniel-davis-us-navy-may-secure-strait-of-hormuz-2026-03-03",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-03/source-daniel-davis-us-navy-may-secure-strait-of-hormuz-2026-03-03.md",
+      "voice_index_path": "../../archive/sources/2026-03-03/source-daniel-davis-us-navy-may-secure-strait-of-hormuz-2026-03-03.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-03/source-daniel-davis-us-navy-may-secure-strait-of-hormuz-2026-03-03.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-04",
+      "title": "source-daniel-davis-deeper-strikes-in-iran-coming-2026-03-04",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-04/source-daniel-davis-deeper-strikes-in-iran-coming-2026-03-04.md",
+      "voice_index_path": "../../archive/sources/2026-03-04/source-daniel-davis-deeper-strikes-in-iran-coming-2026-03-04.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-04/source-daniel-davis-deeper-strikes-in-iran-coming-2026-03-04.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-04",
+      "title": "source-daniel-davis-iran-war-narrative-battles-2026-03-04",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-04/source-daniel-davis-iran-war-narrative-battles-2026-03-04.md",
+      "voice_index_path": "../../archive/sources/2026-03-04/source-daniel-davis-iran-war-narrative-battles-2026-03-04.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-04/source-daniel-davis-iran-war-narrative-battles-2026-03-04.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-04",
+      "title": "Prof John Mearsheimer NEXT MOVE in IRAN, U.S. Causing INSURRECTION",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-04/source-daniel-davis-mearsheimer-next-move-in-iran-us-causing-insurrection-2026-03-04.md",
+      "voice_index_path": "../../archive/sources/2026-03-04/source-daniel-davis-mearsheimer-next-move-in-iran-us-causing-insurrection-2026-03-04.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-04/source-daniel-davis-mearsheimer-next-move-in-iran-us-causing-insurrection-2026-03-04.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-07",
+      "title": "COMPLETE DESTRUCTION AND CERTAIN DEATH': Trump's Newest Threat to Iran /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-07/source-daniel-davis-complete-destruction-and-certain-death-trumps-newest-threat-to-iran-2026-03-07.md",
+      "voice_index_path": "../../archive/sources/2026-03-07/source-daniel-davis-complete-destruction-and-certain-death-trumps-newest-threat-to-iran-2026-03-07.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-07/source-daniel-davis-complete-destruction-and-certain-death-trumps-newest-threat-to-iran-2026-03-07.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-07",
+      "title": "Deep Dive Intel Briefing: What We Learned This Week 3/7/2026 Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-07/source-daniel-davis-intel-briefing-what-we-learned-this-week-2026-03-07.md",
+      "voice_index_path": "../../archive/sources/2026-03-07/source-daniel-davis-intel-briefing-what-we-learned-this-week-2026-03-07.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-07/source-daniel-davis-intel-briefing-what-we-learned-this-week-2026-03-07.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-09",
+      "title": "IRAN WAR: Where's the War Going? /Patrick Henningsen & Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-09/source-daniel-davis-henningsen-wheres-the-war-going-2026-03-09.md",
+      "voice_index_path": "../../archive/sources/2026-03-09/source-daniel-davis-henningsen-wheres-the-war-going-2026-03-09.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-09/source-daniel-davis-henningsen-wheres-the-war-going-2026-03-09.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-09",
+      "title": "IRAN Has a NEW LEADER /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-09/source-daniel-davis-iran-has-a-new-leader-2026-03-09.md",
+      "voice_index_path": "../../archive/sources/2026-03-09/source-daniel-davis-iran-has-a-new-leader-2026-03-09.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-09/source-daniel-davis-iran-has-a-new-leader-2026-03-09.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-09",
+      "title": "TRUMP: IRAN WAR BASICALLY OVER & ENDING SOON /Generals Argue for Ground Forces",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-09/source-daniel-davis-trump-iran-war-basically-over-and-ending-soon-generals-argue-for-ground-forces-2026-03-09.md",
+      "voice_index_path": "../../archive/sources/2026-03-09/source-daniel-davis-trump-iran-war-basically-over-and-ending-soon-generals-argue-for-ground-forces-2026-03-09.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-09/source-daniel-davis-trump-iran-war-basically-over-and-ending-soon-generals-argue-for-ground-forces-2026-03-09.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-10",
+      "title": "Trump & Hegseth Try to Sell War Strength - but Expose US Weaknesses",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-10/source-daniel-davis-trump-hegseth-try-to-sell-war-strength-expose-us-weaknesses-2026-03-10.md",
+      "voice_index_path": "../../archive/sources/2026-03-10/source-daniel-davis-trump-hegseth-try-to-sell-war-strength-expose-us-weaknesses-2026-03-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-10/source-daniel-davis-trump-hegseth-try-to-sell-war-strength-expose-us-weaknesses-2026-03-10.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "IRAN WAR: Trump's LOST CONTROL /fmr CIA Analyst Larry Johnson",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-11/source-daniel-davis-johnson-trumps-lost-control-2026-03-11.md",
+      "voice_index_path": "../../archive/sources/2026-03-11/source-daniel-davis-johnson-trumps-lost-control-2026-03-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-11/source-daniel-davis-johnson-trumps-lost-control-2026-03-11.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "IRAN VOWS REVENGE /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-12/source-daniel-davis-iran-vows-revenge-2026-03-12.md",
+      "voice_index_path": "../../archive/sources/2026-03-12/source-daniel-davis-iran-vows-revenge-2026-03-12.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-12/source-daniel-davis-iran-vows-revenge-2026-03-12.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "IRAN WAR SEA BATTLE The Battle for Persian Gulf /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-12/source-daniel-davis-iran-war-sea-battle-the-battle-for-persian-gulf-2026-03-12.md",
+      "voice_index_path": "../../archive/sources/2026-03-12/source-daniel-davis-iran-war-sea-battle-the-battle-for-persian-gulf-2026-03-12.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-12/source-daniel-davis-iran-war-sea-battle-the-battle-for-persian-gulf-2026-03-12.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-13",
+      "title": "Iran War: Finishing the Job /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-13/source-daniel-davis-finishing-the-job-2026-03-13.md",
+      "voice_index_path": "../../archive/sources/2026-03-13/source-daniel-davis-finishing-the-job-2026-03-13.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-13/source-daniel-davis-finishing-the-job-2026-03-13.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-14",
+      "title": "Deep Dive Intel Briefing: What We Learned This Week 3/14/26 Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-14/source-daniel-davis-intel-briefing-what-we-learned-this-week-2026-03-14.md",
+      "voice_index_path": "../../archive/sources/2026-03-14/source-daniel-davis-intel-briefing-what-we-learned-this-week-2026-03-14.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-14/source-daniel-davis-intel-briefing-what-we-learned-this-week-2026-03-14.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-15",
+      "title": "Iran & Trump: WHO WILL BLINK FIRST? Psychological /Economic Warfare",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-15/source-daniel-davis-iran-trump-who-will-blink-first-psychological-economic-warfare-2026-03-15.md",
+      "voice_index_path": "../../archive/sources/2026-03-15/source-daniel-davis-iran-trump-who-will-blink-first-psychological-economic-warfare-2026-03-15.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-15/source-daniel-davis-iran-trump-who-will-blink-first-psychological-economic-warfare-2026-03-15.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-15",
+      "title": "US & Israel Hit Over 15,000 Targets in IRAN /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-15/source-daniel-davis-us-israel-hit-over-15-000-targets-in-iran-lt-col-daniel-davis-2026-03-15.md",
+      "voice_index_path": "../../archive/sources/2026-03-15/source-daniel-davis-us-israel-hit-over-15-000-targets-in-iran-lt-col-daniel-davis-2026-03-15.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-15/source-daniel-davis-us-israel-hit-over-15-000-targets-in-iran-lt-col-daniel-davis-2026-03-15.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "We Can't Even Think About Boots on the Ground in IRAN /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-16/source-daniel-davis-we-can-t-even-think-about-boots-on-the-ground-in-iran-lt-col-daniel-davi-2026-03-16.md",
+      "voice_index_path": "../../archive/sources/2026-03-16/source-daniel-davis-we-can-t-even-think-about-boots-on-the-ground-in-iran-lt-col-daniel-davi-2026-03-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-16/source-daniel-davis-we-can-t-even-think-about-boots-on-the-ground-in-iran-lt-col-daniel-davi-2026-03-16.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-17",
+      "title": "IRAN WAR GLOBAL RESET /Patrick Henningsen & Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-17/source-daniel-davis-iran-war-global-reset-patrick-henningsen-lt-col-daniel-davis-2026-03-17.md",
+      "voice_index_path": "../../archive/sources/2026-03-17/source-daniel-davis-iran-war-global-reset-patrick-henningsen-lt-col-daniel-davis-2026-03-17.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-17/source-daniel-davis-iran-war-global-reset-patrick-henningsen-lt-col-daniel-davis-2026-03-17.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "henningsen"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "Joe Kent: The Truth of the Iran War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-26/source-daniel-davis-joe-kent-the-truth-of-the-iran-war-2026-03-26.md",
+      "voice_index_path": "../../archive/sources/2026-03-26/source-daniel-davis-joe-kent-the-truth-of-the-iran-war-2026-03-26.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-26/source-daniel-davis-joe-kent-the-truth-of-the-iran-war-2026-03-26.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "kent"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-01",
+      "title": "Professor John Mearsheimer : Trump PULLING OUT of NATO?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-01/source-daniel-davis-professor-john-mearsheimer-trump-pulling-out-of-nato-2026-04-01.md",
+      "voice_index_path": "../../archive/sources/2026-04-01/source-daniel-davis-professor-john-mearsheimer-trump-pulling-out-of-nato-2026-04-01.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-01/source-daniel-davis-professor-john-mearsheimer-trump-pulling-out-of-nato-2026-04-01.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "Latest Goals in Iran War /Lt Col Daniel Davis & Joe Kent",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-02/source-daniel-davis-latest-goals-in-iran-war-lt-col-daniel-davis-joe-kent-2026-04-02.md",
+      "voice_index_path": "../../archive/sources/2026-04-02/source-daniel-davis-latest-goals-in-iran-war-lt-col-daniel-davis-joe-kent-2026-04-02.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-02/source-daniel-davis-latest-goals-in-iran-war-lt-col-daniel-davis-joe-kent-2026-04-02.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "kent"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "You Call This a CeaseFire? /Fmr CIA Analyst Larry Johnson",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-08/source-daniel-davis-you-call-this-a-ceasefire-fmr-cia-analyst-larry-johnson-2026-04-08.md",
+      "voice_index_path": "../../archive/sources/2026-04-08/source-daniel-davis-you-call-this-a-ceasefire-fmr-cia-analyst-larry-johnson-2026-04-08.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-08/source-daniel-davis-you-call-this-a-ceasefire-fmr-cia-analyst-larry-johnson-2026-04-08.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "Iran War: Whoever Drops the Most Bombs Wins? /Lt Col Daniel Davis & Chas Freeman",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-13/source-daniel-davis-iran-war-whoever-drops-the-most-bombs-wins-lt-col-daniel-davis-chas-free-2026-04-13.md",
+      "voice_index_path": "../../archive/sources/2026-04-13/source-daniel-davis-iran-war-whoever-drops-the-most-bombs-wins-lt-col-daniel-davis-chas-free-2026-04-13.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-13/source-daniel-davis-iran-war-whoever-drops-the-most-bombs-wins-lt-col-daniel-davis-chas-free-2026-04-13.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "freeman"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "fmr CIA Analyst Larry Johnson: IRAN DEMANDS NOT CHANGING",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-16/source-daniel-davis-fmr-cia-analyst-larry-johnson-iran-demands-not-changing-2026-04-16.md",
+      "voice_index_path": "../../archive/sources/2026-04-16/source-daniel-davis-fmr-cia-analyst-larry-johnson-iran-demands-not-changing-2026-04-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-16/source-daniel-davis-fmr-cia-analyst-larry-johnson-iran-demands-not-changing-2026-04-16.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "HORMUZ OPENING, CEASEFIRE ENDING: Conflicting Messages /Lt Col Daniel Davis & Larry Johnson",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-17/source-daniel-davis-hormuz-opening-ceasefire-ending-conflicting-messages-lt-col-daniel-davis-2026-04-17.md",
+      "voice_index_path": "../../archive/sources/2026-04-17/source-daniel-davis-hormuz-opening-ceasefire-ending-conflicting-messages-lt-col-daniel-davis-2026-04-17.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-17/source-daniel-davis-hormuz-opening-ceasefire-ending-conflicting-messages-lt-col-daniel-davis-2026-04-17.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "IRAN: MORE WAR SEEMS LIKELY /Professor Marandi",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-17/source-daniel-davis-iran-more-war-seems-likely-professor-marandi-2026-04-17.md",
+      "voice_index_path": "../../archive/sources/2026-04-17/source-daniel-davis-iran-more-war-seems-likely-professor-marandi-2026-04-17.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-17/source-daniel-davis-iran-more-war-seems-likely-professor-marandi-2026-04-17.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "source-deepdive-iran-closes-hormuz-2026-04-18-verbatim-2026-04-18",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-18/source-deepdive-iran-closes-hormuz-2026-04-18-verbatim-2026-04-18.md",
+      "voice_index_path": "../../archive/sources/2026-04-18/source-deepdive-iran-closes-hormuz-2026-04-18-verbatim-2026-04-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-18/source-deepdive-iran-closes-hormuz-2026-04-18-verbatim-2026-04-18.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-19",
+      "title": "Back on the Warpath in Iran /Prof Marandi & Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-19/source-daniel-davis-back-on-the-warpath-in-iran-prof-marandi-lt-col-daniel-davis-2026-04-19.md",
+      "voice_index_path": "../../archive/sources/2026-04-19/source-daniel-davis-back-on-the-warpath-in-iran-prof-marandi-lt-col-daniel-davis-2026-04-19.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-19/source-daniel-davis-back-on-the-warpath-in-iran-prof-marandi-lt-col-daniel-davis-2026-04-19.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "Iran War End: Best Case Scenario /Larry Johnson & Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-22/source-daniel-davis-iran-war-end-best-case-scenario-larry-johnson-lt-col-daniel-davis-2026-04-22.md",
+      "voice_index_path": "../../archive/sources/2026-04-22/source-daniel-davis-iran-war-end-best-case-scenario-larry-johnson-lt-col-daniel-davis-2026-04-22.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-22/source-daniel-davis-iran-war-end-best-case-scenario-larry-johnson-lt-col-daniel-davis-2026-04-22.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "Professor Seyed Marandi: Iran's Resilient Leadership",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-22/source-daniel-davis-professor-seyed-marandi-iran-s-resilient-leadership-2026-04-22.md",
+      "voice_index_path": "../../archive/sources/2026-04-22/source-daniel-davis-professor-seyed-marandi-iran-s-resilient-leadership-2026-04-22.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-22/source-daniel-davis-professor-seyed-marandi-iran-s-resilient-leadership-2026-04-22.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-23",
+      "title": "Trump Says He's Got 'All the Time in the World' / Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-23/source-daniel-davis-trump-all-time-in-the-world-2026-04-23.md",
+      "voice_index_path": "../../archive/sources/2026-04-23/source-daniel-davis-trump-all-time-in-the-world-2026-04-23.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-23/source-daniel-davis-trump-all-time-in-the-world-2026-04-23.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-29",
+      "title": "source-daniel-davis-johnson-iran-war-global-economic-shockwave-2026-04-29",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-29/source-daniel-davis-johnson-iran-war-global-economic-shockwave-2026-04-29.md",
+      "voice_index_path": "../../archive/sources/2026-04-29/source-daniel-davis-johnson-iran-war-global-economic-shockwave-2026-04-29.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-29/source-daniel-davis-johnson-iran-war-global-economic-shockwave-2026-04-29.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-05",
+      "title": "Mike Adams on famine and food-chain risk",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-05/source-daniel-davis-adams-famine-food-chain-2026-05-05.md",
+      "voice_index_path": "../../archive/sources/2026-05-05/source-daniel-davis-adams-famine-food-chain-2026-05-05.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-05/source-daniel-davis-adams-famine-food-chain-2026-05-05.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "adams"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-05",
+      "title": "source-daniel-davis-johnson-hormuz-freedom-2026-05-05",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-05/source-daniel-davis-johnson-hormuz-freedom-2026-05-05.md",
+      "voice_index_path": "../../archive/sources/2026-05-05/source-daniel-davis-johnson-hormuz-freedom-2026-05-05.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-05/source-daniel-davis-johnson-hormuz-freedom-2026-05-05.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-07",
+      "title": "source-marandi-too-late-for-ground-attack-in-iran-2026-05-07",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-07/source-marandi-too-late-for-ground-attack-in-iran-2026-05-07.md",
+      "voice_index_path": "../../archive/sources/2026-05-07/source-marandi-too-late-for-ground-attack-in-iran-2026-05-07.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-07/source-marandi-too-late-for-ground-attack-in-iran-2026-05-07.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "CONTROLLED BY THE DONOR CLASS: US Iran Negotiations /Joe Kent & Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-08/source-daniel-davis-controlled-by-the-donor-class-us-iran-negotiations-joe-kent-lt-col-danie-2026-05-08.md",
+      "voice_index_path": "../../archive/sources/2026-05-08/source-daniel-davis-controlled-by-the-donor-class-us-iran-negotiations-joe-kent-lt-col-danie-2026-05-08.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-08/source-daniel-davis-controlled-by-the-donor-class-us-iran-negotiations-joe-kent-lt-col-danie-2026-05-08.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "kent"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "source-daniel-davis-kent-hormuz-blockade-walkaway-2026-05-08",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-08/source-daniel-davis-kent-hormuz-blockade-walkaway-2026-05-08.md",
+      "voice_index_path": "../../archive/sources/2026-05-08/source-daniel-davis-kent-hormuz-blockade-walkaway-2026-05-08.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-08/source-daniel-davis-kent-hormuz-blockade-walkaway-2026-05-08.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "kent"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "Iran's Power Is a Fact, Not a Debate /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-12/source-daniel-davis-iran-s-power-is-a-fact-not-a-debate-lt-col-daniel-davis-2026-05-12.md",
+      "voice_index_path": "../../archive/sources/2026-05-12/source-daniel-davis-iran-s-power-is-a-fact-not-a-debate-lt-col-daniel-davis-2026-05-12.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-12/source-daniel-davis-iran-s-power-is-a-fact-not-a-debate-lt-col-daniel-davis-2026-05-12.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-13",
+      "title": "Prof Mearsheimer: Shock Analysis: Russia Considers NUCLEAR ESCALATION v Europe",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-13/source-daniel-davis-prof-mearsheimer-shock-analysis-russia-considers-nuclear-escalation-v-eu-2026-05-13.md",
+      "voice_index_path": "../../archive/sources/2026-05-13/source-daniel-davis-prof-mearsheimer-shock-analysis-russia-considers-nuclear-escalation-v-eu-2026-05-13.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-13/source-daniel-davis-prof-mearsheimer-shock-analysis-russia-considers-nuclear-escalation-v-eu-2026-05-13.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-15",
+      "title": "IRAN WAR WALK AWAY: The Only Way /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-15/source-daniel-davis-iran-war-walk-away-the-only-way-lt-col-daniel-davis-2026-05-15.md",
+      "voice_index_path": "../../archive/sources/2026-05-15/source-daniel-davis-iran-war-walk-away-the-only-way-lt-col-daniel-davis-2026-05-15.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-15/source-daniel-davis-iran-war-walk-away-the-only-way-lt-col-daniel-davis-2026-05-15.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-15",
+      "title": "Russia-West Confrontation Fast Approaching /Dmitry Polyanskiy",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-15/source-daniel-davis-russia-west-confrontation-fast-approaching-dmitry-polyanskiy-2026-05-15.md",
+      "voice_index_path": "../../archive/sources/2026-05-15/source-daniel-davis-russia-west-confrontation-fast-approaching-dmitry-polyanskiy-2026-05-15.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-15/source-daniel-davis-russia-west-confrontation-fast-approaching-dmitry-polyanskiy-2026-05-15.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "polyanskiy"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-16",
+      "title": "Bombs Away or Walk Away in Iran /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-16/source-daniel-davis-bombs-away-or-walk-away-in-iran-lt-col-daniel-davis-2026-05-16.md",
+      "voice_index_path": "../../archive/sources/2026-05-16/source-daniel-davis-bombs-away-or-walk-away-in-iran-lt-col-daniel-davis-2026-05-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-16/source-daniel-davis-bombs-away-or-walk-away-in-iran-lt-col-daniel-davis-2026-05-16.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-16",
+      "title": "Deep Dive Intel Briefing 5/16/2026  Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-16/source-daniel-davis-intel-briefing-5-16-2026-lt-col-daniel-davis-2026-05-16.md",
+      "voice_index_path": "../../archive/sources/2026-05-16/source-daniel-davis-intel-briefing-5-16-2026-lt-col-daniel-davis-2026-05-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-16/source-daniel-davis-intel-briefing-5-16-2026-lt-col-daniel-davis-2026-05-16.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-16",
+      "title": "Iran War - Post China Trip /Lt Col Daniel Davis & Mario Nawfal",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-16/source-daniel-davis-iran-war-post-china-trip-lt-col-daniel-davis-mario-nawfal-2026-05-16.md",
+      "voice_index_path": "../../archive/sources/2026-05-16/source-daniel-davis-iran-war-post-china-trip-lt-col-daniel-davis-mario-nawfal-2026-05-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-16/source-daniel-davis-iran-war-post-china-trip-lt-col-daniel-davis-mario-nawfal-2026-05-16.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-16",
+      "title": "Rising Anger in Russia /Dmitry Polyanskiy & Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-16/source-daniel-davis-rising-anger-in-russia-dmitry-polyanskiy-2026-05-16.md",
+      "voice_index_path": "../../archive/sources/2026-05-16/source-daniel-davis-rising-anger-in-russia-dmitry-polyanskiy-2026-05-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-16/source-daniel-davis-rising-anger-in-russia-dmitry-polyanskiy-2026-05-16.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "polyanskiy"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-18",
+      "title": "Clock is Ticking: Next Round of Iran War /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-18/source-daniel-davis-clock-is-ticking-next-round-of-iran-war-2026-05-18.md",
+      "voice_index_path": "../../archive/sources/2026-05-18/source-daniel-davis-clock-is-ticking-next-round-of-iran-war-2026-05-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-18/source-daniel-davis-clock-is-ticking-next-round-of-iran-war-2026-05-18.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-18",
+      "title": "Russia Ukraine Trade More Drones, Pressure Building in Moscow for Escalation /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-18/source-daniel-davis-russia-ukraine-trade-more-drones-pressure-building-in-moscow-for-escalation-2026-05-18.md",
+      "voice_index_path": "../../archive/sources/2026-05-18/source-daniel-davis-russia-ukraine-trade-more-drones-pressure-building-in-moscow-for-escalation-2026-05-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-18/source-daniel-davis-russia-ukraine-trade-more-drones-pressure-building-in-moscow-for-escalation-2026-05-18.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-19",
+      "title": "Iran Attack On Hold /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-19/source-daniel-davis-iran-attack-on-hold-2026-05-19.md",
+      "voice_index_path": "../../archive/sources/2026-05-19/source-daniel-davis-iran-attack-on-hold-2026-05-19.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-19/source-daniel-davis-iran-attack-on-hold-2026-05-19.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-23",
+      "title": "Deep Dive Intel Briefing 5/23/2026 Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-23/source-daniel-davis-intel-briefing-5-23-2026-lt-col-daniel-davis-2026-05-23.md",
+      "voice_index_path": "../../archive/sources/2026-05-23/source-daniel-davis-intel-briefing-5-23-2026-lt-col-daniel-davis-2026-05-23.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-23/source-daniel-davis-intel-briefing-5-23-2026-lt-col-daniel-davis-2026-05-23.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-27",
+      "title": "IRAN: Trump Has No Good Military Options /Fmr CIA Analyst Larry Johnson",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-27/source-daniel-davis-iran-trump-has-no-good-military-options-fmr-cia-analyst-larry-johnson-2026-05-27.md",
+      "voice_index_path": "../../archive/sources/2026-05-27/source-daniel-davis-iran-trump-has-no-good-military-options-fmr-cia-analyst-larry-johnson-2026-05-27.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-27/source-daniel-davis-iran-trump-has-no-good-military-options-fmr-cia-analyst-larry-johnson-2026-05-27.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "daniel-davis",
       "import_status": "imported"
     }
   ]

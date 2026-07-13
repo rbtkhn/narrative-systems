@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `marandi` to the ce
 
 Source basis: `strategy-codex/statecraft/voices/marandi/marandi-index.md`.
 
-Corpus: 32 local route rows across 32 central archive source files.
+Corpus: 37 local route rows across 37 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -25,6 +25,7 @@ Status: `first-slice-parity`
 | Date | Source | Role | Host slug | Archive link |
 | --- | --- | --- | --- | --- |
 | `2025-03-20` | Seyed Marandi: Is Israel Destroying Itself? | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-03-20/source-glenn-diesen-seyed-marandi-is-israel-destroying-itself-2025-03-20.md) |
+| `2026-02-11` | Prof Seyed Marandi: War w/Iran Will Be CATASTROPHIC FOR EVERYONE | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-02-11/source-daniel-davis-prof-seyed-marandi-war-w-iran-will-be-catastrophic-for-everyone-2026-02-11.md) |
 | `2026-02-17` | Mohammad Marandi: Iran JUST Closed the Strait of Hormuz - Wiped Out: Iran Plans to Sink the US Navy | `regional-red-line spine` | `dialogue-works` | [source](../../archive/sources/2026-02-17/source-dialogue-works-mohammad-marandi-iran-just-closed-the-strait-of-hormuz-wiped-out-iran-pl-2026-02-17.md) |
 | `2026-03-03` | Seyed M. Marandi: Iran's Military Strategy & U.S. Miscalculations | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-03-03/source-glenn-diesen-seyed-m-marandi-iran-s-military-strategy-u-s-miscalculations-2026-03-03.md) |
 | `2026-03-18` | Seyed M. Marandi: U.S. Attacked World's Largest Gas Field & Iran Declares Economic War | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-03-18/source-glenn-diesen-seyed-m-marandi-u-s-attacked-world-s-largest-gas-field-iran-declares-eco-2026-03-18.md) |
@@ -37,10 +38,14 @@ Status: `first-slice-parity`
 | `2026-04-13` | Professor Seyed Marandi: Why the Iran Talks Failed | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-13/source-daniel-davis-professor-seyed-marandi-why-the-iran-talks-failed-2026-04-13.md) |
 | `2026-04-13` | Seyed M. Marandi: US Blockade on Iran Just Triggered Iran\u2019s HARSHEST Response Yet | `regional-red-line spine` | `dialogue-works` | [source](../../archive/sources/2026-04-13/source-dialogue-works-seyed-m-marandi-us-blockade-on-iran-just-triggered-iran-s-harshest-respo-2026-04-13.md) |
 | `2026-04-16` | Seyed M. Marandi: U.S. Naval Blockade & Ground Invasion of Iran? | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-04-16/source-glenn-diesen-seyed-m-marandi-u-s-naval-blockade-ground-invasion-of-iran-2026-04-16.md) |
+| `2026-04-17` | IRAN: MORE WAR SEEMS LIKELY /Professor Marandi | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-17/source-daniel-davis-iran-more-war-seems-likely-professor-marandi-2026-04-17.md) |
 | `2026-04-18` | Seyed M. Marandi: Iran Just Put the Strait of Hormuz on LIMITED MODE - Signs Point MAJOR Escalation | `regional-red-line spine` | `dialogue-works` | [source](../../archive/sources/2026-04-18/source-dialogue-works-seyed-m-marandi-iran-just-put-the-strait-of-hormuz-on-limited-mode-signs-2026-04-18.md) |
+| `2026-04-19` | Back on the Warpath in Iran /Prof Marandi & Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-19/source-daniel-davis-back-on-the-warpath-in-iran-prof-marandi-lt-col-daniel-davis-2026-04-19.md) |
+| `2026-04-22` | Professor Seyed Marandi: Iran's Resilient Leadership | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-22/source-daniel-davis-professor-seyed-marandi-iran-s-resilient-leadership-2026-04-22.md) |
 | `2026-05-01` | Seyed M. Marandi: U.S. Attack On Iran Could Be Imminent | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-05-01/source-glenn-diesen-seyed-m-marandi-u-s-attack-on-iran-could-be-imminent-2026-05-01.md) |
 | `2026-05-05` | Dialogue Works - Marandi on Hormuz, UAE, and China - 2026-05-05 | `regional-red-line spine` | `dialogue-works` | [source](../../archive/sources/2026-05-05/source-dialogue-works-marandi-hormuz-uae-china-2026-05-05.md) |
 | `2026-05-05` | Diesen, Marandi, Hormuz, All-Out War - 2026-05-05 | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-05-05/source-diesen-marandi-hormuz-all-out-war-2026-05-05.md) |
+| `2026-05-07` | source-marandi-too-late-for-ground-attack-in-iran-2026-05-07 | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-07/source-marandi-too-late-for-ground-attack-in-iran-2026-05-07.md) |
 | `2026-05-09` | Hormuz, UAE, Ceasefire, and the New Security Architecture | `regional-red-line spine` | `dialogue-works` | [source](../../archive/sources/2026-05-09/source-dialogue-works-marandi-hormuz-uae-ceasefire-occupied-country-2026-05-09.md) |
 | `2026-05-09` | Seyed M. Marandi: Iran Rejects U.S. Deal - War Is Likely Imminent | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-05-09/source-glenn-diesen-seyed-m-marandi-iran-rejects-u-s-deal-war-is-likely-imminent-2026-05-09.md) |
 | `2026-05-10` | Iran Intimidation Has Failed /Professor Seyed Marandi | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-10/source-daniel-davis-iran-intimidation-has-failed-professor-seyed-marandi-2026-05-10.md) |

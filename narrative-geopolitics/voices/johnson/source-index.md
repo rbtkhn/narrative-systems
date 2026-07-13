@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `johnson` to the ce
 
 Source basis: `narrative-geopolitics/archive/source-manifest.json`.
 
-Corpus: 46 local route rows across 46 central archive source files.
+Corpus: 58 local route rows across 58 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -24,17 +24,29 @@ Status: `first-slice-parity`
 
 | Date | Source | Role | Host slug | Archive link |
 | --- | --- | --- | --- | --- |
+| `2025-04-10` | Russian Forces March On While Western Leaders seem Paralyzed | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2025-04-10/source-daniel-davis-russian-forces-march-on-while-western-leaders-seem-paralyzed-2025-04-10.md) |
 | `2025-06-16` | Larry Johnson: Trump - Negotiator or Warmonger? | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-06-16/source-glenn-diesen-larry-johnson-larry-johnson-trump-negotiator-or-warmonger-2025-06-16.md) |
 | `2025-07-02` | Larry Johnson: Extensive Damage to Israel’s Defense Industry & Economy | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-07-02/source-glenn-diesen-larry-johnson-larry-johnson-extensive-damage-to-israel-s-defense-industry-economy-2025-07-02.md) |
 | `2025-07-22` | Larry Johnson: West Doubles Down on Failed Wars in Ukraine & Middle East | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-07-22/source-glenn-diesen-larry-johnson-larry-johnson-west-doubles-down-on-failed-wars-in-ukraine-middle-east-2025-07-22.md) |
 | `2025-08-14` | Larry Johnson: What to Expect From Putin-Trump Meeting in Alaska | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-08-14/source-glenn-diesen-larry-johnson-what-to-expect-from-putin-trump-meeting-in-alaska-2025-08-14.md) |
+| `2025-10-15` | U.S. War Dept v. Russia /Larry Johnson & Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2025-10-15/source-daniel-davis-larry-johnson-u-s-war-dept-v-russia-larry-johnson-lt-col-daniel-davis-2025-10-15.md) |
+| `2025-10-30` | Ukraine Russia War Update: Just Back from Russia: Larry Johnson | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2025-10-30/source-daniel-davis-larry-johnson-ukraine-russia-war-update-just-back-from-russia-larry-johnson-2025-10-30.md) |
+| `2025-11-28` | Putin to Ukraine: Withdraw or We'll Take it by FORCE /Larry Johnson | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2025-11-28/source-daniel-davis-larry-johnson-putin-to-ukraine-withdraw-or-we-ll-take-it-by-force-larry-johnson-2025-11-28.md) |
+| `2026-02-28` | source-daniel-davis-us-at-war-w-iran-iranian-leader-dead-2026-02-28 | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-02-28/source-daniel-davis-us-at-war-w-iran-iranian-leader-dead-2026-02-28.md) |
 | `2026-03-15` | Larry Johnson: U.S. Attack on Kharg Island Will Destroy the Gulf States | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-03-15/source-glenn-diesen-larry-johnson-u-s-attack-on-kharg-island-will-destroy-the-gulf-states-2026-03-15.md) |
 | `2026-03-21` | Larry Johnson: Trump & Netanyahu Seek Exit Ramp in Iran | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-03-21/source-glenn-diesen-larry-johnson-trump-netanyahu-seek-exit-ramp-in-iran-2026-03-21.md) |
 | `2026-04-06` | Larry Johnson: Iran Destroys U.S. Aircraft - Trump Will Expand the War | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-04-06/source-glenn-diesen-larry-johnson-iran-destroys-u-s-aircraft-trump-will-expand-the-war-2026-04-06.md) |
+| `2026-04-08` | You Call This a CeaseFire? /Fmr CIA Analyst Larry Johnson | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-08/source-daniel-davis-you-call-this-a-ceasefire-fmr-cia-analyst-larry-johnson-2026-04-08.md) |
 | `2026-04-15` | Larry Johnson: Trump's Naval Blockade & Ceasefire Collapse | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-04-15/source-glenn-diesen-larry-johnson-trump-s-naval-blockade-ceasefire-collapse-2026-04-15.md) |
+| `2026-04-16` | fmr CIA Analyst Larry Johnson: IRAN DEMANDS NOT CHANGING | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-16/source-daniel-davis-fmr-cia-analyst-larry-johnson-iran-demands-not-changing-2026-04-16.md) |
+| `2026-04-17` | HORMUZ OPENING, CEASEFIRE ENDING: Conflicting Messages /Lt Col Daniel Davis & Larry Johnson | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-17/source-daniel-davis-hormuz-opening-ceasefire-ending-conflicting-messages-lt-col-daniel-davis-2026-04-17.md) |
+| `2026-04-22` | Iran War End: Best Case Scenario /Larry Johnson & Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-22/source-daniel-davis-iran-war-end-best-case-scenario-larry-johnson-lt-col-daniel-davis-2026-04-22.md) |
+| `2026-04-29` | source-daniel-davis-johnson-iran-war-global-economic-shockwave-2026-04-29 | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-29/source-daniel-davis-johnson-iran-war-global-economic-shockwave-2026-04-29.md) |
 | `2026-04-30` | source-diesen-johnson-iran-winning-2026-04-30 | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-04-30/source-diesen-johnson-iran-winning-2026-04-30.md) |
+| `2026-05-05` | source-daniel-davis-johnson-hormuz-freedom-2026-05-05 | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-05/source-daniel-davis-johnson-hormuz-freedom-2026-05-05.md) |
 | `2026-05-08` | Diesen with Larry Johnson on Iran War Creates a New Middle East | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-05-08/source-diesen-johnson-iran-war-creates-a-new-middle-east-2026-05-08.md) |
 | `2026-05-22` | Larry Johnson: Defeat in the Iran War Will End the U.S. Empire | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-05-22/source-glenn-diesen-larry-johnson-defeat-in-the-iran-war-will-end-the-u-s-empire-2026-05-22.md) |
+| `2026-05-27` | IRAN: Trump Has No Good Military Options /Fmr CIA Analyst Larry Johnson | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-27/source-daniel-davis-iran-trump-has-no-good-military-options-fmr-cia-analyst-larry-johnson-2026-05-27.md) |
 | `2026-06-01` | Nima Alkhorshid with Larry Johnson: The Strait of Hormuz Is a Ticking Time Bomb, The U.S. and Iran Just Threw Down | `guest interview pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-01/source-dialogue-works-johnson-strait-of-hormuz-ticking-time-bomb-us-iran-threw-down-2026-06-01.md) |
 | `2026-06-02` | BREAKING: IRAN ATTACKS KUWAIT - w/ Fmr. CIA Larry Johnson | `guest interview pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-02/source-mario-nawfal-larry-johnson-breaking-iran-attacks-kuwait-2026-06-02.md) |
 | `2026-06-03` | Larry Johnson : Does Iran Have the Bomb? Part 2 | `guest interview pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-03/source-judging-freedom-johnson-does-iran-have-the-bomb-part-2-2026-06-03.md) |
