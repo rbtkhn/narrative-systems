@@ -1,6 +1,6 @@
 # Channel Shelf: Glenn Diesen
 
-Status: `lightweight`
+Status: `transcript-bearing-upstream-parity`
 
 ## Profile
 
@@ -10,13 +10,23 @@ Status: `lightweight`
 | Channel / show | Glenn Diesen |
 | Host people | Glenn Diesen |
 | Source basis | [../../archive/source-manifest.json](../../archive/source-manifest.json) |
-| Shelf status | `lightweight-active` |
+| Shelf status | `transcript-bearing-upstream-parity` |
+| Manifest-backed host rows | 238 |
+| Upstream channel-index audit | 214 evaluated; 210 transcript-bearing; 4 metadata-only placeholders excluded |
 
 ## Channel Role
 
 Order-transition and Eurasian-institutional host frame; lifts guests toward multipolar consequence and Western legitimacy erosion.
 
-## Source Links
+## Corpus Boundary
+
+The manifest is the exhaustive local authority for the 238 sources routed through `host_slug: glenn-diesen`. This shelf remains a selective conditioning surface and does not duplicate those routes into a second manually maintained index.
+
+The bounded upstream channel migration reached transcript-bearing parity across 210 of 214 evaluated captures: 53 sources were imported, 157 already existed in the archive, and four frontmatter-only Macgregor placeholders were excluded. Additional local host rows may postdate or sit outside that upstream index.
+
+Diesen's presence as interviewer establishes channel conditioning, not person-level voice membership. Guest analysts retain independent `voice_slugs`; Diesen enters `voice_slugs` only when a source substantively routes his own analytical voice.
+
+## Selected Source Links
 
 | Date | Guest / Voice | Source |
 | --- | --- | --- |

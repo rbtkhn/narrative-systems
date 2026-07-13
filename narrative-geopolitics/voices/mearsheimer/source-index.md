@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `mearsheimer` to th
 
 Source basis: `strategy-codex/statecraft/voices/mearsheimer/mearsheimer-index.md`.
 
-Corpus: 34 local route rows across 34 central archive source files.
+Corpus: 40 local route rows across 40 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -31,13 +31,19 @@ Status: `first-slice-parity`
 | `2025-05-29` | Russia Won the War - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-05-29/source-diesen-mearsheimer-mercouris-russia-won-the-war-2025-05-29.md) |
 | `2025-06-20` | \"Israel Has Walked Off a Cliff\" - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2025-06-20/source-diesen-mearsheimer-mercouris-israel-has-walked-off-a-cliff-2025-06-20.md) |
 | `2025-07-25` | Ukraine War Will Now Be Resolved on Battlefield John Mearsheimer, Alexander Mercouris & Glenn Diesen | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-07-25/source-diesen-mearsheimer-mercouris-ukraine-war-will-now-be-resolved-on-battlefield-2025-07-25.md) |
+| `2025-09-07` | John Mearsheimer: West's Failure to Adjust to a Multipolar World | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-09-07/source-glenn-diesen-john-mearsheimer-john-mearsheimer-west-s-failure-to-adjust-to-a-multipolar-world-2025-09-07.md) |
+| `2025-10-08` | John Mearsheimer: West Destroying Itself in Ukraine & Gaza | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-10-08/source-glenn-diesen-john-mearsheimer-john-mearsheimer-west-destroying-itself-in-ukraine-gaza-2025-10-08.md) |
 | `2025-10-22` | Window of Opportunity for Peace is Closing - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-10-22/source-diesen-mearsheimer-mercouris-window-of-opportunity-for-peace-is-closing-2025-10-22.md) |
+| `2025-11-26` | John Mearsheimer: Bleak Future of Europe - Defeated & Broken | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-11-26/source-diesen-mearsheimer-bleak-future-of-europe-defeated-broken-2025-11-26.md) |
 | `2025-12-19` | Fake Diplomacy & Permanent Conflict - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-12-19/source-diesen-mearsheimer-mercouris-fake-diplomacy-and-permanent-conflict-2025-12-19.md) |
+| `2026-01-07` | source-diesen-mearsheimer-venezuela-greenland-nato-2026-01-07 | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-01-07/source-diesen-mearsheimer-venezuela-greenland-nato-2026-01-07.md) |
 | `2026-01-14` | Prof John Mearsheimer: CLASSIC U.S. REGIME CHANGE in IRAN | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-01-14/source-daniel-davis-prof-john-mearsheimer-classic-u-s-regime-change-in-iran-2026-01-14.md) |
 | `2026-01-15` | Prof John Mearsheimer: DISMANTLING IRAN, The Four Part Strategy | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-01-15/source-daniel-davis-prof-john-mearsheimer-dismantling-iran-the-four-part-strategy-2026-01-15.md) |
+| `2026-01-31` | source-diesen-mearsheimer-cold-war-nato-ukraine-2026-01-31 | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-01-31/source-diesen-mearsheimer-cold-war-nato-ukraine-2026-01-31.md) |
 | `2026-02-24` | John Mearsheimer: Trump Has No Offramp | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-02-24/source-judging-freedom-mearsheimer-trump-has-no-offramp-2026-02-24.md) |
 | `2026-02-25` | John Mearsheimer: The Case for a Nuclear Iran | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-02-25/source-diesen-mearsheimer-case-for-nuclear-iran-2026-02-25.md) |
 | `2026-03-10` | John Mearsheimer: U.S. Already Lost Iran War â€” No Off-Ramp in Sight | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-03-10/source-diesen-mearsheimer-us-already-lost-no-offramp-2026-03-10.md) |
+| `2026-03-27` | source-diesen-mearsheimer-iran-holds-all-the-cards-2026-03-27 | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-03-27/source-diesen-mearsheimer-iran-holds-all-the-cards-2026-03-27.md) |
 | `2026-04-10` | John Mearsheimer: World Changed Forever as Iran Defeated the U.S. | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-04-10/source-diesen-mearsheimer-world-changed-forever-2026-04-10.md) |
 | `2026-04-13` | Prof John Mearsheimer: The HORRIBLE NAVAL BLOCKADE in Hormuz Strait | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-13/source-daniel-davis-prof-john-mearsheimer-the-horrible-naval-blockade-in-hormuz-strait-2026-04-13.md) |
 | `2026-04-30` | Prof John Mearsheimer: Weâ€™ve Lost the Iran War, Weâ€™re Screwed | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-30/source-daniel-davis-mearsheimer-weve-lost-the-iran-war-were-screwed-2026-04-30.md) |

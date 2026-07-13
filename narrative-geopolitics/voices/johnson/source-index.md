@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `johnson` to the ce
 
 Source basis: `narrative-geopolitics/archive/source-manifest.json`.
 
-Corpus: 35 local route rows across 35 central archive source files.
+Corpus: 46 local route rows across 46 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -24,6 +24,17 @@ Status: `first-slice-parity`
 
 | Date | Source | Role | Host slug | Archive link |
 | --- | --- | --- | --- | --- |
+| `2025-06-16` | Larry Johnson: Trump - Negotiator or Warmonger? | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-06-16/source-glenn-diesen-larry-johnson-larry-johnson-trump-negotiator-or-warmonger-2025-06-16.md) |
+| `2025-07-02` | Larry Johnson: Extensive Damage to Israel’s Defense Industry & Economy | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-07-02/source-glenn-diesen-larry-johnson-larry-johnson-extensive-damage-to-israel-s-defense-industry-economy-2025-07-02.md) |
+| `2025-07-22` | Larry Johnson: West Doubles Down on Failed Wars in Ukraine & Middle East | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-07-22/source-glenn-diesen-larry-johnson-larry-johnson-west-doubles-down-on-failed-wars-in-ukraine-middle-east-2025-07-22.md) |
+| `2025-08-14` | Larry Johnson: What to Expect From Putin-Trump Meeting in Alaska | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-08-14/source-glenn-diesen-larry-johnson-what-to-expect-from-putin-trump-meeting-in-alaska-2025-08-14.md) |
+| `2026-03-15` | Larry Johnson: U.S. Attack on Kharg Island Will Destroy the Gulf States | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-03-15/source-glenn-diesen-larry-johnson-u-s-attack-on-kharg-island-will-destroy-the-gulf-states-2026-03-15.md) |
+| `2026-03-21` | Larry Johnson: Trump & Netanyahu Seek Exit Ramp in Iran | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-03-21/source-glenn-diesen-larry-johnson-trump-netanyahu-seek-exit-ramp-in-iran-2026-03-21.md) |
+| `2026-04-06` | Larry Johnson: Iran Destroys U.S. Aircraft - Trump Will Expand the War | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-04-06/source-glenn-diesen-larry-johnson-iran-destroys-u-s-aircraft-trump-will-expand-the-war-2026-04-06.md) |
+| `2026-04-15` | Larry Johnson: Trump's Naval Blockade & Ceasefire Collapse | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-04-15/source-glenn-diesen-larry-johnson-trump-s-naval-blockade-ceasefire-collapse-2026-04-15.md) |
+| `2026-04-30` | source-diesen-johnson-iran-winning-2026-04-30 | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-04-30/source-diesen-johnson-iran-winning-2026-04-30.md) |
+| `2026-05-08` | Diesen with Larry Johnson on Iran War Creates a New Middle East | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-05-08/source-diesen-johnson-iran-war-creates-a-new-middle-east-2026-05-08.md) |
+| `2026-05-22` | Larry Johnson: Defeat in the Iran War Will End the U.S. Empire | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-05-22/source-glenn-diesen-larry-johnson-defeat-in-the-iran-war-will-end-the-u-s-empire-2026-05-22.md) |
 | `2026-06-01` | Nima Alkhorshid with Larry Johnson: The Strait of Hormuz Is a Ticking Time Bomb, The U.S. and Iran Just Threw Down | `guest interview pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-01/source-dialogue-works-johnson-strait-of-hormuz-ticking-time-bomb-us-iran-threw-down-2026-06-01.md) |
 | `2026-06-02` | BREAKING: IRAN ATTACKS KUWAIT - w/ Fmr. CIA Larry Johnson | `guest interview pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-02/source-mario-nawfal-larry-johnson-breaking-iran-attacks-kuwait-2026-06-02.md) |
 | `2026-06-03` | Larry Johnson : Does Iran Have the Bomb? Part 2 | `guest interview pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-03/source-judging-freedom-johnson-does-iran-have-the-bomb-part-2-2026-06-03.md) |
