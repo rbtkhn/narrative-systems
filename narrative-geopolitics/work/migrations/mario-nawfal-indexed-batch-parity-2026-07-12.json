@@ -1,0 +1,61 @@
+{
+  "migration_id": "mario-nawfal-indexed-batch-parity-2026-07-12",
+  "migrated_at": "2026-07-12",
+  "source_index": "C:/dev/strategy-codex/statecraft/channels/mario-nawfal/mario-nawfal-channel-index.md",
+  "boundary": "Complete parity with the 48 primary transcript bullets; preserve later local captures and do not overwrite divergent archive copies.",
+  "counts": {
+    "evaluated_primary_entries": 48,
+    "imported": 9,
+    "existing_exact_unchanged": 30,
+    "host_corrected": 2,
+    "existing_byte_divergent_preserved": 7,
+    "manifest_before": 1523,
+    "manifest_after": 1532,
+    "host_rows_before": 45,
+    "host_rows_after": 56,
+    "johnson_before": 77,
+    "johnson_after": 81,
+    "kent_before": 6,
+    "kent_after": 10,
+    "polyanskiy_before": 3,
+    "polyanskiy_after": 4
+  },
+  "invariants": {
+    "private_intake_changed": false,
+    "existing_archive_sources_changed": false,
+    "imported_source_bytes_preserved": true,
+    "existing_manifest_changes_limited_to_two_host_slugs": true,
+    "shelf_less_voices_created": false
+  },
+  "imports": [
+    {"date":"2026-05-14","filename":"source-larry-johnson-mario-nawfal-trump-xi-offered-to-help-open-strait-of-hormuz-w-ex-cia-larry-johnson-2026-05-14.md","voice_slug":"johnson","sha256":"DD89D0D347B2F48778CE406833464331E71669B5C4F2A8ED7C54E750EB476AFB"},
+    {"date":"2026-05-15","filename":"source-mario-nawfal-trump-stuck-in-a-war-he-doesnt-want-to-continue-w-ex-head-of-counter-terrorism-joe-kent-2026-05-15.md","voice_slug":"kent","youtube_id":"hJuCBS9jPn0","sha256":"0BEF8791C8570976A560CBF1932B45903114C1CB7D0D86152AAC874281550739"},
+    {"date":"2026-05-28","filename":"source-mario-nawfal-kent-trumps-life-is-under-threat-2026-05-28.md","voice_slug":"kent","youtube_id":"pwT2ipwrUJs","sha256":"AD4DA1290859D1E1AC4619EFFF519B1D44D0B3D2B7632202022475C4992C2D9F"},
+    {"date":"2026-05-29","filename":"source-mario-nawfal-larry-johnson-breaking-us-declares-military-operations-in-hormuz-2026-05-29.md","voice_slug":"johnson","youtube_id":"mRgCzrreKu4","sha256":"6BC6B8DD100DD6F5801233640CEB6603DAE95EEA8B05393FF929A791DC2E64CC"},
+    {"date":"2026-05-30","filename":"source-mario-nawfal-larry-johnson-iran-ceasefire-on-edge-w-fmr-cia-larry-johnson-2026-05-30.md","voice_slug":"johnson","youtube_id":"5jtUBd7QDR0","sha256":"C464D6943E2CDC2B9BCBA820614F3B487CA67B0F48176F67A477A968F7A65952"},
+    {"date":"2026-05-31","filename":"source-mario-nawfal-larry-johnson-israel-asks-trump-to-escalate-2026-05-31.md","voice_slug":"johnson","youtube_id":"MjXkaxgk1EE","sha256":"5E50E4BA2DB14188FBA68B33407B91497D6334505E0522B9138D13F276E9C7B6"},
+    {"date":"2026-06-06","filename":"source-mario-nawfal-polyanskiy-the-decision-in-europe-has-already-been-made-2026-06-06.md","voice_slug":"polyanskiy","youtube_id":"R5jhGeaW4DQ","sha256":"E4E9A6644D5BBDCBCA8EA68F828A422AB25C4F2DB6BDCD2415B7382B0D18CD75"},
+    {"date":"2026-06-10","filename":"source-mario-nawfal-kent-breaking-us-israeli-attack-likely-tonight-2026-06-10.md","voice_slug":"kent","youtube_id":"_pQ2Ia-rBIA","sha256":"2DD8B063DB9D17E880769E4C3CA89B3D7817439A0D79CE8F92C2EDCFCD06A87B"},
+    {"date":"2026-06-16","filename":"source-mario-nawfal-kent-tucker-trump-stopped-butler-investigation-mou-2026-06-16.md","voice_slug":"kent","youtube_id":"staieGr89Jg","sha256":"F4ABAC0E2C9EA8D47F1341C04C74CC16DF611444E961880EDCA360F91D0A7575"}
+  ],
+  "host_corrections": [
+    {"filename":"source-barnes-mario-nawfal-reports-iran-attacks-u-s-ships-2026-05-28.md","before":"barnes","after":"mario-nawfal","voice_slug":"barnes"},
+    {"filename":"source-barnes-trump-informed-iran-may-have-nukes-2026-06-03.md","before":"barnes","after":"mario-nawfal","voice_slug":"barnes"}
+  ],
+  "preserved_byte_divergences": [
+    "source-pape-professor-pape-iran-has-become-fourth-world-superpower-due-to-trump-war-failures-2026-06-04.md",
+    "source-mario-nawfal-anthony-aguilar-breaking-explosions-now-in-iran-2026-06-11.md",
+    "source-mario-nawfal-robert-pape-cia-chief-warns-iran-not-serious-mou-2026-06-16.md",
+    "source-mario-nawfal-weichert-breaking-full-iran-mou-leaked-axios-2026-06-16.md",
+    "source-mario-nawfal-weichert-tucker-mtg-abandon-republican-party-maga-falling-apart-2026-06-23.md",
+    "source-mario-nawfal-parsi-israel-will-not-withdraw-lebanon-2026-06-24.md",
+    "source-mario-nawfal-barnes-breaking-gcc-attack-iran-rubio-meeting-iran-strike-vessel-hormuz-2026-06-25.md"
+  ],
+  "deferred": {
+    "duplicate_pair": "source-mario-nawfal-weichert-iran-us-rearming-for-war-2026-05-31.md and its .cleaned.md compatibility copy remain a separate cleanup decision",
+    "post_index_missing": [
+      "source-mario-nawfal-daniel-davis-us-boots-lebanon-israel-recognition-mou-2026-06-26.md",
+      "source-mario-nawfal-kent-israel-oligarchs-hijacked-us-government-2026-06-29.md"
+    ]
+  }
+}

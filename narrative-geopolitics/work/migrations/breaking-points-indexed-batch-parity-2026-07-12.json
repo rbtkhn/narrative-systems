@@ -1,0 +1,35 @@
+{
+  "migration_id": "breaking-points-indexed-batch-parity-2026-07-12",
+  "migrated_at": "2026-07-12",
+  "source_index": "C:/dev/strategy-codex/statecraft/channels/breaking-points/breaking-points-channel-index.md",
+  "boundary": "Complete the nine-source Breaking Points indexed transcript batch without importing cross-references.",
+  "counts": {
+    "evaluated": 9,
+    "imported": 1,
+    "existing_exact": 8,
+    "manifest_before": 1522,
+    "manifest_after": 1523,
+    "host_rows_before": 8,
+    "host_rows_after": 9,
+    "marandi_before": 54,
+    "marandi_after": 55
+  },
+  "invariants": {
+    "private_intake_changed": false,
+    "existing_archive_sources_changed": false,
+    "existing_manifest_rows_changed": false,
+    "imported_source_bytes_preserved": true,
+    "cross_referenced_moral_resistance_source_imported": false
+  },
+  "evaluated_files": [
+    {"filename": "source-pape-grim-nuclear-iran-inevitable-2026-04-29.md", "disposition": "existing_exact", "sha256": "108E4444BFA6167ACF8BB232B038D2A95629501748F4DFD8804B8029FD457CA3"},
+    {"filename": "source-pape-breaking-points-iran-drivers-seat-shocking-deal-emerges-2026-05-27.md", "disposition": "existing_exact", "sha256": "4EABDF350925D00A461A7AEDBC8E4DAEEF7F576446D7F4E3D83305193E6CF623"},
+    {"filename": "source-pape-breaking-points-axis-of-resistance-security-belt-2026-06-09.md", "disposition": "existing_exact", "sha256": "02487F609E181D897083F99B24DC2BE40F10EAFCA3A19E9769CF6A34D8F08AEC"},
+    {"filename": "source-breaking-points-marandi-iran-welcomes-us-invasion-2026-06-11.md", "date": "2026-06-11", "disposition": "imported", "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-11/source-breaking-points-marandi-iran-welcomes-us-invasion-2026-06-11.md", "destination_path": "narrative-geopolitics/archive/sources/2026-06-11/source-breaking-points-marandi-iran-welcomes-us-invasion-2026-06-11.md", "voice_slugs": ["marandi"], "host_slug": "breaking-points", "youtube_id": "8BazmIsPpwk", "source_sha256": "424AE3AC2769BD3881363817D649DD25D3FA8C21E0560D18A1BE42844F4CBB55", "destination_sha256": "424AE3AC2769BD3881363817D649DD25D3FA8C21E0560D18A1BE42844F4CBB55"},
+    {"filename": "source-breaking-points-weichert-trump-strongly-considered-nuking-iran-2026-06-11.md", "disposition": "existing_exact", "sha256": "160D8C5F81C095F37FA0EB6D3CDBF9788E6D4DAEFAF41F1A49204887BA68DA89"},
+    {"filename": "source-breaking-points-parsi-giant-l-ben-shapiro-melts-down-iran-deal-2026-06-16.md", "disposition": "existing_exact", "sha256": "C55F28759B9D7A7BE739D208A11EFD0463A47E78692E1BD2EDF40FEACC559565"},
+    {"filename": "source-pape-breaking-points-trump-unconditional-surrender-iran-2026-06-17.md", "disposition": "existing_exact", "sha256": "C389B0058F83C038829AA3B8D4ECF28E7CFE8698FD883956674213F66627C198"},
+    {"filename": "source-breaking-points-mearsheimer-slippery-slope-oblivion-russia-ukraine-2026-06-23.md", "disposition": "existing_exact", "sha256": "72FEF2711329417B2BADC8E6E64D447F53744A6C0531E06A5073EBE5A946AC91"},
+    {"filename": "source-breaking-points-mearsheimer-trump-lost-iran-spoils-sanctions-relief-2026-06-23.md", "disposition": "existing_exact", "sha256": "A50C6CD37A920006A0B84E4E15BEBEB4E3CDDA8BC21AB6C43634694CF838E9DC"}
+  ]
+}

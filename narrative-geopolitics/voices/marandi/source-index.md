@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `marandi` to the ce
 
 Source basis: `strategy-codex/statecraft/voices/marandi/marandi-index.md`.
 
-Corpus: 54 local route rows across 54 central archive source files.
+Corpus: 55 local route rows across 55 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -67,6 +67,7 @@ Status: `first-slice-parity`
 | `2026-06-06` | Seyed M. Marandi: Iran Strikes BACK – Missiles Hit Kuwait & U.S. 5th Fleet in Bahrain! | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-06/source-dialogue-works-marandi-iran-strikes-back-missiles-hit-kuwait-us-5th-fleet-in-bahrain-2026-06-06.md) |
 | `2026-06-08` | Seyed M. Marandi: Iran-Israel Strikes, Trump Humiliated & Yemen Restricts Red Sea Access | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-06-08/source-glenn-diesen-seyed-m-marandi-iran-israel-strikes-trump-humiliated-yemen-red-sea-2026-06-08.md) |
 | `2026-06-09` | Seyed M. Marandi: Iran Drops a New Equation on the Face of War – Israel Goes Against, Trump Escapes | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-09/source-dialogue-works-marandi-iran-drops-new-equation-israel-goes-against-trump-escapes-2026-06-09.md) |
+| `2026-06-11` | Professor Marandi: Iran WELCOMES US Invasion | `host-pressure test` | `breaking-points` | [source](../../archive/sources/2026-06-11/source-breaking-points-marandi-iran-welcomes-us-invasion-2026-06-11.md) |
 | `2026-06-13` | Seyed M. Marandi: BREAKING: US & Iran on Brink of FINAL Deal – Here's What We Know | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-13/source-dialogue-works-marandi-breaking-us-iran-brink-final-deal-2026-06-13.md) |
 | `2026-06-14` | Larry Johnson & Mohammad Marandi: BREAKING: US and Iran Reach Deal - Full Details Inside | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-14/source-dialogue-works-johnson-marandi-us-iran-reach-deal-full-details-2026-06-14.md) |
 | `2026-06-14` | Seyed M. Marandi: Israel's Attack on Beirut to Sabotage US-Iran Deal | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-06-14/source-glenn-diesen-seyed-m-marandi-israels-attack-on-beirut-sabotage-us-iran-deal-2026-06-14.md) |

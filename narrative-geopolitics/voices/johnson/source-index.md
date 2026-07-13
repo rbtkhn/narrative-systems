@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `johnson` to the ce
 
 Source basis: `narrative-geopolitics/archive/source-manifest.json`.
 
-Corpus: 77 local route rows across 77 central archive source files.
+Corpus: 81 local route rows across 81 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -59,12 +59,16 @@ Status: `first-slice-parity`
 | `2026-05-08` | source-dialogue-works-johnson-hormuz-qatar-brics-trump-china-2026-05-08 | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-05-08/source-dialogue-works-johnson-hormuz-qatar-brics-trump-china-2026-05-08.md) |
 | `2026-05-08` | Diesen with Larry Johnson on Iran War Creates a New Middle East | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-05-08/source-diesen-johnson-iran-war-creates-a-new-middle-east-2026-05-08.md) |
 | `2026-05-11` | Larry Johnson: Netanyahu, Hormuz, China, and Israel's Strategic Failure | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-05-11/source-dialogue-works-johnson-netanyahu-hormuz-china-israel-2026-05-11.md) |
+| `2026-05-14` | TRUMP: XI OFFERED TO HELP OPEN STRAIT OF HORMUZ - w/ Ex-CIA Larry Johnson | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-05-14/source-larry-johnson-mario-nawfal-trump-xi-offered-to-help-open-strait-of-hormuz-w-ex-cia-larry-johnson-2026-05-14.md) |
 | `2026-05-16` | Jiang Xueqin's Most Embarrassing Prediction Exposed (Larry Johnson & Nima Alkhorshid Break It Down) | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-05-16/source-dialogue-works-jiang-xueqin-most-embarrassing-prediction-exposed-larry-johnson-nima-alkhorshid-2026-05-16.md) |
 | `2026-05-18` | Larry Johnson: Giant Mushroom Cloud Blasts Over Israeli Defense Company – What We Know | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-05-18/source-dialogue-works-larry-johnson-giant-mushroom-cloud-blasts-over-israeli-defense-company-what-we-know-2026-05-18.md) |
 | `2026-05-18` | Larry Johnson: US Getting Ready for More War | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-05-18/source-judging-freedom-johnson-us-getting-ready-for-more-war-2026-05-18.md) |
 | `2026-05-22` | Larry Johnson: Defeat in the Iran War Will End the U.S. Empire | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-05-22/source-glenn-diesen-larry-johnson-defeat-in-the-iran-war-will-end-the-u-s-empire-2026-05-22.md) |
 | `2026-05-25` | source-dialogue-works-johnson-us-iran-throw-down-over-the-strait-of-hormuz-ticking-time-bomb-2026-05-25 | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-05-25/source-dialogue-works-johnson-us-iran-throw-down-over-the-strait-of-hormuz-ticking-time-bomb-2026-05-25.md) |
 | `2026-05-27` | IRAN: Trump Has No Good Military Options /Fmr CIA Analyst Larry Johnson | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-27/source-daniel-davis-iran-trump-has-no-good-military-options-fmr-cia-analyst-larry-johnson-2026-05-27.md) |
+| `2026-05-29` | BREAKING: U.S DECLARES MILITARY OPERATIONS IN HORMUZ! - w/ Fmr. CIA Larry Johnson | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-05-29/source-mario-nawfal-larry-johnson-breaking-us-declares-military-operations-in-hormuz-2026-05-29.md) |
+| `2026-05-30` | IRAN CEASEFIRE ON EDGE - w/ Fmr. CIA Larry Johnson | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-05-30/source-mario-nawfal-larry-johnson-iran-ceasefire-on-edge-w-fmr-cia-larry-johnson-2026-05-30.md) |
+| `2026-05-31` | ISRAEL ASKS TRUMP TO ESCALATE - w/ Fmr. CIA Larry Johnson | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-05-31/source-mario-nawfal-larry-johnson-israel-asks-trump-to-escalate-2026-05-31.md) |
 | `2026-06-01` | Nima Alkhorshid with Larry Johnson: The Strait of Hormuz Is a Ticking Time Bomb, The U.S. and Iran Just Threw Down | `guest interview pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-01/source-dialogue-works-johnson-strait-of-hormuz-ticking-time-bomb-us-iran-threw-down-2026-06-01.md) |
 | `2026-06-02` | BREAKING: IRAN ATTACKS KUWAIT - w/ Fmr. CIA Larry Johnson | `guest interview pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-02/source-mario-nawfal-larry-johnson-breaking-iran-attacks-kuwait-2026-06-02.md) |
 | `2026-06-03` | Larry Johnson : Does Iran Have the Bomb? Part 2 | `guest interview pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-03/source-judging-freedom-johnson-does-iran-have-the-bomb-part-2-2026-06-03.md) |

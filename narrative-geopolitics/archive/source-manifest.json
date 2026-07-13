@@ -2,7 +2,7 @@
   "manifest_id": "narrative-geopolitics-source-manifest-v1",
   "source_basis": "central archive with completed historical strategy-codex imports",
   "imported_at": "2026-07-09",
-  "source_count": 1522,
+  "source_count": 1532,
   "boundary": {
     "archive": "source truth",
     "voices": "voice continuity and routing",
@@ -12282,7 +12282,7 @@
       "voice_slugs": [
         "barnes"
       ],
-      "host_slug": "barnes",
+      "host_slug": "mario-nawfal",
       "import_status": "imported"
     },
     {
@@ -12310,7 +12310,7 @@
       "voice_slugs": [
         "barnes"
       ],
-      "host_slug": "barnes",
+      "host_slug": "mario-nawfal",
       "import_status": "imported"
     },
     {
@@ -21384,6 +21384,128 @@
         "marandi"
       ],
       "host_slug": "india-global-left",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "Professor Marandi: Iran WELCOMES US Invasion",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-11/source-breaking-points-marandi-iran-welcomes-us-invasion-2026-06-11.md",
+      "voice_index_path": "../../archive/sources/2026-06-11/source-breaking-points-marandi-iran-welcomes-us-invasion-2026-06-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-11/source-breaking-points-marandi-iran-welcomes-us-invasion-2026-06-11.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "breaking-points",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-14",
+      "title": "TRUMP: XI OFFERED TO HELP OPEN STRAIT OF HORMUZ - w/ Ex-CIA Larry Johnson",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-14/source-larry-johnson-mario-nawfal-trump-xi-offered-to-help-open-strait-of-hormuz-w-ex-cia-larry-johnson-2026-05-14.md",
+      "voice_index_path": "../../archive/sources/2026-05-14/source-larry-johnson-mario-nawfal-trump-xi-offered-to-help-open-strait-of-hormuz-w-ex-cia-larry-johnson-2026-05-14.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-14/source-larry-johnson-mario-nawfal-trump-xi-offered-to-help-open-strait-of-hormuz-w-ex-cia-larry-johnson-2026-05-14.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": ["johnson"],
+      "host_slug": "mario-nawfal",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-15",
+      "title": "Trump Stuck in a War He Doesn't Want to Continue - w/ Ex-Head of Counter-Terrorism Joe Kent",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-15/source-mario-nawfal-trump-stuck-in-a-war-he-doesnt-want-to-continue-w-ex-head-of-counter-terrorism-joe-kent-2026-05-15.md",
+      "voice_index_path": "../../archive/sources/2026-05-15/source-mario-nawfal-trump-stuck-in-a-war-he-doesnt-want-to-continue-w-ex-head-of-counter-terrorism-joe-kent-2026-05-15.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-15/source-mario-nawfal-trump-stuck-in-a-war-he-doesnt-want-to-continue-w-ex-head-of-counter-terrorism-joe-kent-2026-05-15.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": ["kent"],
+      "host_slug": "mario-nawfal",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-28",
+      "title": "TRUMP'S LIFE IS UNDER THREAT - w/ Ex-Head of Counter-Terrorism Joe Kent",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-28/source-mario-nawfal-kent-trumps-life-is-under-threat-2026-05-28.md",
+      "voice_index_path": "../../archive/sources/2026-05-28/source-mario-nawfal-kent-trumps-life-is-under-threat-2026-05-28.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-28/source-mario-nawfal-kent-trumps-life-is-under-threat-2026-05-28.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": ["kent"],
+      "host_slug": "mario-nawfal",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-29",
+      "title": "BREAKING: U.S DECLARES MILITARY OPERATIONS IN HORMUZ! - w/ Fmr. CIA Larry Johnson",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-29/source-mario-nawfal-larry-johnson-breaking-us-declares-military-operations-in-hormuz-2026-05-29.md",
+      "voice_index_path": "../../archive/sources/2026-05-29/source-mario-nawfal-larry-johnson-breaking-us-declares-military-operations-in-hormuz-2026-05-29.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-29/source-mario-nawfal-larry-johnson-breaking-us-declares-military-operations-in-hormuz-2026-05-29.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": ["johnson"],
+      "host_slug": "mario-nawfal",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-30",
+      "title": "IRAN CEASEFIRE ON EDGE - w/ Fmr. CIA Larry Johnson",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-30/source-mario-nawfal-larry-johnson-iran-ceasefire-on-edge-w-fmr-cia-larry-johnson-2026-05-30.md",
+      "voice_index_path": "../../archive/sources/2026-05-30/source-mario-nawfal-larry-johnson-iran-ceasefire-on-edge-w-fmr-cia-larry-johnson-2026-05-30.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-30/source-mario-nawfal-larry-johnson-iran-ceasefire-on-edge-w-fmr-cia-larry-johnson-2026-05-30.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": ["johnson"],
+      "host_slug": "mario-nawfal",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-31",
+      "title": "ISRAEL ASKS TRUMP TO ESCALATE - w/ Fmr. CIA Larry Johnson",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-31/source-mario-nawfal-larry-johnson-israel-asks-trump-to-escalate-2026-05-31.md",
+      "voice_index_path": "../../archive/sources/2026-05-31/source-mario-nawfal-larry-johnson-israel-asks-trump-to-escalate-2026-05-31.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-31/source-mario-nawfal-larry-johnson-israel-asks-trump-to-escalate-2026-05-31.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": ["johnson"],
+      "host_slug": "mario-nawfal",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-06",
+      "title": "The Decision in Europe Has Already Been Made - w/ OSCE Rep Dmitry Polyanskiy",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-06/source-mario-nawfal-polyanskiy-the-decision-in-europe-has-already-been-made-2026-06-06.md",
+      "voice_index_path": "../../archive/sources/2026-06-06/source-mario-nawfal-polyanskiy-the-decision-in-europe-has-already-been-made-2026-06-06.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-06/source-mario-nawfal-polyanskiy-the-decision-in-europe-has-already-been-made-2026-06-06.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": ["polyanskiy"],
+      "host_slug": "mario-nawfal",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-10",
+      "title": "BREAKING: U.S. AND ISRAELI ATTACK LIKELY TONIGHT - w/ Joe Kent",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-10/source-mario-nawfal-kent-breaking-us-israeli-attack-likely-tonight-2026-06-10.md",
+      "voice_index_path": "../../archive/sources/2026-06-10/source-mario-nawfal-kent-breaking-us-israeli-attack-likely-tonight-2026-06-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-10/source-mario-nawfal-kent-breaking-us-israeli-attack-likely-tonight-2026-06-10.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": ["kent"],
+      "host_slug": "mario-nawfal",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "TUCKER: TRUMP STOPPED HIS OWN SHOOTING INVESTIGATION - w/ Joe Kent",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-16/source-mario-nawfal-kent-tucker-trump-stopped-butler-investigation-mou-2026-06-16.md",
+      "voice_index_path": "../../archive/sources/2026-06-16/source-mario-nawfal-kent-tucker-trump-stopped-butler-investigation-mou-2026-06-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-16/source-mario-nawfal-kent-tucker-trump-stopped-butler-investigation-mou-2026-06-16.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": ["kent"],
+      "host_slug": "mario-nawfal",
       "import_status": "imported"
     }
   ]

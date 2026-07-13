@@ -1,6 +1,6 @@
 # Channel Shelf: Mario Nawfal
 
-Status: `pilot`
+Status: `indexed-batch-parity`
 
 ## Profile
 
@@ -10,13 +10,15 @@ Status: `pilot`
 | Channel / show | Mario Nawfal |
 | Host people | Mario Nawfal |
 | Source basis | [../../archive/source-manifest.json](../../archive/source-manifest.json) |
-| Shelf status | `pilot-active` |
+| Shelf status | `indexed-batch-parity` |
+| Indexed batch | 48 substantive captures |
+| Manifest host routes | 56, including later/local captures |
 
 ## Channel Role
 
-Mario Nawfal is the first full channel pilot because the Pape import contains seven Pape-on-Nawfal captures.
+Mario Nawfal began as the first full channel pilot around seven Pape-on-Nawfal captures. It now has parity with the upstream index's 48 primary transcript entries while retaining later local captures outside that bounded batch.
 
-For Narrative Geopolitics, this shelf tracks Pape-on-Nawfal as escalation-trap, MOU, and Hormuz-oil pressure tests in a breaking-headline register. It now also carries a lightweight Diesen guest route for breaking-news Hormuz / toll mechanics pressure.
+For Narrative Geopolitics, this shelf conditions a multi-guest breaking-headline register: Pape on escalation traps, Johnson on operational and intelligence claims, Kent on walk-away and domestic constraint, Parsi on deal politics, and other specialists on military or institutional feasibility. The manifest—not this selective shelf—is the exhaustive channel-membership authority.
 
 The shelf is not a Mario Nawfal voice record. It is a host/channel conditioning surface for how Nawfal frames, sequences, compresses, and amplifies guest claims.
 
@@ -33,7 +35,7 @@ The shelf is not a Mario Nawfal voice record. It is a host/channel conditioning 
 
 See [source-index.md](source-index.md) for the Pape pilot source route.
 
-## Added First-Slice Parity Sources
+## Selected Cross-Voice Route
 
 | Date | Guest / Voice | Source |
 | --- | --- | --- |
@@ -46,3 +48,5 @@ Use [../../voices/pape/README.md](../../voices/pape/README.md) for Pape's whole-
 Use [../../voices/diesen/README.md](../../voices/diesen/README.md) for Diesen's whole-voice continuity.
 
 Use this shelf when the question is what Nawfal's breaking-headline format does to a guest's claims.
+
+Repeated appearances on this channel strengthen voice continuity but never constitute independent operational confirmation.
