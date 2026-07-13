@@ -13,6 +13,7 @@ if str(SCRIPTS_ROOT) not in sys.path:
 
 import voice_indexes
 import voice_metadata
+import verification
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -217,6 +218,16 @@ def validate_run(run_date: str, stage: str = "intake") -> dict[str, Any]:
             voices_root=NG_ROOT / "voices",
         )
         failures.extend(voice_report["failures"])
+
+    if downstream and (run_path / "synthesis.md").exists():
+        failures.extend(
+            verification.validate_day_claims(
+                run_date,
+                stage,
+                daily_root=DAILY_ROOT,
+                packets_root=verification.PACKETS_ROOT,
+            )
+        )
 
     return {
         "date": run_date,

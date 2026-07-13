@@ -29,6 +29,10 @@ Current judgment:
 
 - [The Burden of Normalizing Hormuz](briefs/hormuz-transit-governance-2026-07-09.md)
 
+Operational verification pilot:
+
+- [VER-20260710-01](../work/verification/packets/VER-20260710-01-hormuz-bypass-test/README.md) supports three damaged vessels along the Oman-side route but leaves deliberate US-backed bypass intent and Iranian attribution contested; it does not resolve `NG-20260708-F02`.
+
 Next review triggers:
 
 - public Iran-facing language still links Hormuz and Lebanon;
@@ -155,6 +159,8 @@ A watch candidate becomes an active dossier only when all are true:
 4. Continuity changes judgment, confidence, contradiction handling, or
    falsifiability.
 5. At least one observable review condition exists; a new forecast is optional.
+
+When promotion depends on a concrete operational event rather than a narrative or source-position change, the promotion review must cite an assessed `VER-*` packet from [operational verification](../work/verification/README.md).
 
 An active dossier returns to watch status when new intake no longer changes its
 judgment, its review hooks become unresolvable, or it is sustained mainly by

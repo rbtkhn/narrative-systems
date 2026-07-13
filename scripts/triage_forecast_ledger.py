@@ -28,6 +28,13 @@ RESOLUTION_STATUSES = {
     "excluded_retrospective",
     "excluded_unscorable",
 }
+VERIFICATION_REQUIRED_STATUSES = {
+    "hit",
+    "miss",
+    "mixed",
+    "unresolvable_with_authorized_evidence",
+}
+VERIFICATION_RE = re.compile(r"VER-\d{8}-\d{2}")
 
 ENTRY_RE = re.compile(
     r"^\|\s*`(NG-\d{8}-F\d{2})`\s*\|\s*`([^`]+)`\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|"
@@ -123,6 +130,14 @@ def validate_triage(
             failures.append(f"only ex_ante forecasts may be accountable: {row.hook_id}")
         if row.accountable and row.resolution_status.startswith("excluded_"):
             failures.append(f"accountable forecast cannot be excluded: {row.hook_id}")
+        if (
+            row.accountable
+            and row.resolution_status in VERIFICATION_REQUIRED_STATUSES
+            and not VERIFICATION_RE.search(row.review_note)
+        ):
+            failures.append(
+                f"resolved accountable forecast missing verification packet: {row.hook_id}"
+            )
         entry = entries_by_id.get(row.hook_id)
         if entry and row.accountable and entry.review_date <= as_of and row.resolution_status == "open":
             failures.append(f"overdue accountable forecast remains open: {row.hook_id}")

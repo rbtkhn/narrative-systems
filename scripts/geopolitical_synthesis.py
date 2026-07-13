@@ -4,6 +4,7 @@ import argparse
 from datetime import date, timedelta
 
 import process_daily_stack as stack
+import verification
 
 
 def parse_args() -> argparse.Namespace:
@@ -88,6 +89,7 @@ def gather_context(run_date: str) -> dict[str, object]:
         "run_exists": run_exists,
         "awaiting_intake": not rows,
         "validation": validation,
+        "verification": verification.day_payload(run_date),
     }
 
 
@@ -101,7 +103,35 @@ def recommend_choice(context: dict[str, object]) -> str:
         return "A"
     if validation["failures"] or validation["warnings"]:
         return "B"
+    verification_state = context["verification"]
+    if not verification_state["claims"] or any(
+        item["verification"] in {"request", "none"} and item["consequence"] == "high"
+        for item in verification_state["claims"]
+    ):
+        return "C"
+    if verification_state["forecast_dependencies"] or any(
+        item["packet_state"] in {"assessed", "closed"} for item in verification_state["claims"]
+    ):
+        return "D"
     return "C"
+
+
+def print_verification_view(run_date: str, forecast_focus: bool = False) -> None:
+    payload = verification.day_payload(run_date)
+    print(f"date={run_date}")
+    print(f"operational_claims={len(payload['claims'])}")
+    for item in payload["claims"]:
+        hooks = ",".join(item["forecast_hooks"]) or "none"
+        blocks = ",".join(item["blocking_reasons"]) or "none"
+        print(f"{item['claim_id']} status={item['status']} consequence={item['consequence']} public={item['public_use']} verification={item['verification']} packet={item['packet_state']} outcome={item['packet_outcome'] or 'none'} hooks={hooks} blocking={blocks}")
+        if not forecast_focus and item["verification"] == "request":
+            print(f"REQUEST .\\scripts\\python.ps1 scripts\\verification.py new --date {run_date} --slug \"{item['claim']}\"")
+    if forecast_focus:
+        print(f"forecast_dependencies={len(payload['forecast_dependencies'])}")
+        for item in payload["forecast_dependencies"]:
+            print(f"{item['hook']} dependency={item['dependency']}")
+    for dependency in payload["unknown_dependencies"]:
+        print(f"FAIL unknown forecast dependency {dependency}")
 
 
 def print_menu(run_date: str, context: dict[str, object], choice: str | None) -> None:
@@ -208,6 +238,20 @@ def main() -> None:
                 print(f"FAIL {item}")
             if failures:
                 raise SystemExit(1)
+        elif args.choice == "C":
+            validation = stack.run_validation(run_date)
+            for item in validation["failures"]:
+                print(f"FAIL {item}")
+            if validation["failures"]:
+                raise SystemExit(1)
+            print_verification_view(run_date)
+        elif args.choice == "D":
+            validation = stack.run_validation(run_date, "forecast")
+            for item in validation["failures"]:
+                print(f"FAIL {item}")
+            if validation["failures"]:
+                raise SystemExit(1)
+            print_verification_view(run_date, forecast_focus=True)
         elif args.execute:
             execute_date(run_date, args)
         else:

@@ -107,6 +107,19 @@ Use `--dry-run` before ledger synchronization. When authorized evidence cannot
 resolve an observable, record `unresolvable_with_authorized_evidence` rather
 than forcing a result.
 
+## Operational Verification
+
+Use [verification](verification/README.md) only for a selected load-bearing operational claim. Requests are explicit, web research is bounded to named observables, and evidence remains a work packet rather than archive truth.
+
+```powershell
+.\scripts\python.ps1 scripts\verification.py new --date YYYY-MM-DD --slug TEXT
+.\scripts\python.ps1 scripts\verification.py list --json
+.\scripts\python.ps1 scripts\verification.py check
+.\scripts\python.ps1 scripts\verification.py day --date YYYY-MM-DD --json
+```
+
+Daily synthesis uses `Operational Claim Triage` as an exception gate, not a fact inventory. Retain a row only when the claim controls planned public factual use, concrete-event watch promotion, or an accountable forecast dependency; validation rejects internal-only orphan rows. Choice `C` reports unresolved requests and choice `D` reports forecast dependencies; both are read-only. Attributed narrative claims do not require packets.
+
 ## Skill Deployment
 
 Only the portable, repo-owned `best-intake` and `geopolitical-synthesis` drafts

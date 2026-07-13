@@ -9,12 +9,12 @@ Status: `internal`
 | Name | Douglas Macgregor |
 | Slug | `macgregor` |
 | Role | Escalation-pressure / regime-fragility / war-termination skeptic voice |
-| Source basis | `narrative-geopolitics/archive/source-manifest.json` |
+| Source basis | Transcript-bearing appearances migrated from `strategy-codex/statecraft/voices/macgregor/macgregor-index.md` plus subsequent local intake |
 | Public summary status | `none` |
-| Parity status | `first-slice-parity` |
-| Imported source rows | 6 |
-| Central archive files | 6 |
-| Last reviewed | `2026-07-08` |
+| Parity status | `transcript-bearing-upstream-parity` |
+| Imported source rows | 77 |
+| Central archive files | 77 |
+| Last reviewed | `2026-07-12` |
 
 ## Routing
 
@@ -27,9 +27,9 @@ Status: `internal`
 
 ## Source Modalities
 
-Imported modalities in this first slice: `cleaned-transcript`, `transcript`.
+Imported modalities include `transcript`, `cleaned-transcript`, `operator-transcript`, and `youtube-auto-captions`. Metadata-only, aired-pending, and web-summary surfaces were deliberately excluded.
 
-Active host/channel shelves in this first slice: [`daniel-davis`](../../channels/daniel-davis/README.md).
+The corpus spans Davis, Diesen, Judging Freedom, Cyrus Janssen, Mario Nawfal, Redacted News, Tucker Carlson, Counter Currents, and Neutrality Studies. Host identity is preserved in the manifest even where no dedicated channel shelf exists.
 
 ## Core Frame
 
@@ -53,6 +53,6 @@ Evidence needed before relying on this voice:
 
 ## Parity Note
 
-This voice now has Pape-style operational shape: central archive evidence, manifest coverage, complete local routing for the imported slice, two retrieval lenses, and channel-aware pressure separation.
+This voice now has transcript-bearing parity with the upstream 91-entry route map: 68 unique captures were added, five transcript-bearing duplicates were preserved in place, and 18 thin or summary surfaces were excluded. The result is 77 central archive sources with complete local routing, two retrieval lenses, and channel-aware pressure separation.
 
-It does not yet have full-source parity with Pape's 75-source corpus.
+Corpus depth improves continuity analysis; repeated appearances and shared hosts do not constitute independent operational confirmation.

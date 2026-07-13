@@ -22,3 +22,5 @@ Public briefs should be source-heavy, quote-aware, calm, and bounded. They may u
 `source-bounded` means the brief accurately represents and differentiates the
 authorized archive but does not claim independent verification of operating
 facts that the archive cannot establish.
+
+A brief may describe a concrete claim as `operationally_supported` only when it links an assessed packet under [work/verification](../work/verification/README.md). The packet supports a bounded claim; it does not convert the repository into a generalized OSINT product.

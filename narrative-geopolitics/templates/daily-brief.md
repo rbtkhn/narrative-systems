@@ -18,6 +18,10 @@ State what changed, why it matters, and the governing mechanism or asymmetry in 
 
 Use the most important source evidence, including short direct quotes when wording matters.
 
+If the brief adopts a concrete event as operational fact, add an assessed verification packet using the marker defined in [work/verification](../work/verification/README.md). Attributed `source_assertion` does not require a packet.
+
+When material operational claims exist, add an optional `Verification Boundary` section listing what is supported, contested, or expressly uninvestigated. Omit it when no operational claim affects the brief.
+
 ## Crisis Object
 
 Name the contested relationship or threshold, not merely the country, region, or conflict.

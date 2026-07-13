@@ -171,6 +171,21 @@ def test_reader_facing_contract_rejects_generic_analytical_heading(
     ]
 
 
+def test_operationally_supported_claim_requires_packet_link(monkeypatch, tmp_path: Path) -> None:
+    ng_root = tmp_path / "narrative-geopolitics"
+    brief = ng_root / "public" / "briefs" / "claim.md"
+    brief.parent.mkdir(parents=True)
+    brief.write_text("# Claim\n\nOperational status: `operationally_supported`\n", encoding="utf-8")
+    monkeypatch.setattr(integrity, "REPO_ROOT", tmp_path)
+    monkeypatch.setattr(integrity, "NG_ROOT", ng_root)
+    monkeypatch.setattr(integrity, "ARCHIVE_SOURCES", ng_root / "archive" / "sources")
+    monkeypatch.setattr(integrity.verification_packets, "VERIFICATION_ROOT", ng_root / "work" / "verification")
+
+    assert integrity.operational_claim_failures() == [
+        "operationally supported claim missing verification packet: narrative-geopolitics/public/briefs/claim.md"
+    ]
+
+
 def test_analytical_interface_templates_preserve_required_prompts() -> None:
     method = (
         REPO_ROOT / "narrative-geopolitics" / "method" / "analytical-interfaces.md"
@@ -297,6 +312,7 @@ def test_range_mode_skips_empty_dates_without_writes() -> None:
         "geo_synthesis.py",
         "canonicalize_voice_metadata.py",
         "sync_voice_indexes.py",
+        "verification.py",
     ],
 )
 def test_existing_cli_filename_remains_available(script_name: str) -> None:

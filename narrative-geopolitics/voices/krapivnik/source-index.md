@@ -4,7 +4,7 @@ This index routes the imported seeded corpus for `krapivnik` to the central Narr
 
 Source basis: `strategy-codex/source-archive/statecraft` plus local July 2026 intake.
 
-Corpus: 3 local route rows across 3 central archive source files.
+Corpus: 5 local route rows across 5 central archive source files.
 
 Status: `seeded`
 
@@ -19,6 +19,8 @@ Status: `seeded`
 
 | Date | Source | Role | Host slug | Archive link |
 | --- | --- | --- | --- | --- |
+| `2025-02-25` | The Duran / Alexander Mercouris / Stanislav Krapivnik - Ukraine frontline update and peace deal (Live) | `host-pressure test` | `the-duran` | [source](../../archive/sources/2025-02-25/source-duran-mercouris-ukraine-frontline-update-and-peace-deal-stanislav-krapivnik-live-2025-02-25.md) |
+| `2026-05-10` | Russia, Ukraine, Drones, and the Shape of War | `host-pressure test` | `the-duran` | [source](../../archive/sources/2026-05-10/source-duran-mercouris-stanislav-krapivnik-russia-ukraine-drones-world-war-2026-05-10.md) |
 | `2026-07-05` | Stanislav Krapivnik: Geran-4 Obliterates Ukraine Fuel Storage in SECONDS | `guest interview pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-05/source-stanislav-krapivnik-geran-4-obliterates-ukraine-fuel-storage-in-seconds-2026-07-05.md) |
 | `2026-07-07` | Stanislav Krapivnik: Will Russia Strike First as NATO Prepares for War? | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-04/source-stanislav-krapivnik-will-russia-strike-first-as-nato-prepares-for-war-2026-07-04.md) |
 | `2026-07-08` | LIVE From Russia Stanislav Krapivnik - Latest on the War w/Ukraine | `guest interview pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-08/source-live-from-russia-stanislav-krapivnik-latest-on-the-war-w-ukraine-2026-07-08.md) |

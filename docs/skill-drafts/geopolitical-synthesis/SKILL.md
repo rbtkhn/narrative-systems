@@ -46,8 +46,8 @@ Month and range modes process only dates with manifest rows. The deprecated
 
 - `A` bootstrap or refresh the run;
 - `B` reconcile intake coverage and routing;
-- `C` deepen the owning crisis object;
-- `D` sharpen forecast hooks and review logic;
+- `C` deepen the owning crisis object and report exception-only operational-claim triage;
+- `D` sharpen forecast hooks and report their `OPC-*` dependencies;
 - `E` execute the full stack.
 
 ## Guardrails
@@ -58,3 +58,7 @@ Month and range modes process only dates with manifest rows. The deprecated
 - Keep `daily-brief.md` internal until intentionally promoted.
 - Do not revive the old `public-brief.md` contract.
 - Do not alter private intake behavior.
+- Do not browse, create verification packets, or assign operational truth automatically.
+- Print an explicit packet-request command for `request` rows; operator action remains required.
+- Permit bounded internal synthesis with unresolved claims. Block high-consequence public factual use and accountable forecast resolution until packet requirements are met.
+- Reject orphan `OPC-*` rows: every retained claim must control planned public factual use, watch promotion, or a forecast dependency.

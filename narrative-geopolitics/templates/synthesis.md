@@ -51,8 +51,25 @@ Attach every uncertainty to its cause. Distinguish source disagreement, missing 
 | --- | --- | --- | --- |
 | `unknown—...` / `contested—...` / `uncertain—...` / `unresolved—...` |  |  |  |
 
+When the judgment adopts a concrete operating fact rather than attributing it, add:
+
+```markdown
+Operational status: [use `operationally_supported` only after assessment]
+Verification packet: [add the VER ID and resolving relative path]
+```
+
+Do not use this marker for `source_assertion` or interpretive convergence.
+
+## Operational Claim Triage
+
+Record only concrete operating facts that control planned public factual use, watch promotion, or an accountable forecast dependency. Do not inventory facts merely because they are uncertain or interesting. Interpretive, structural, voice-continuity, and internal-only nondependent claims do not belong here. Packet creation remains an explicit operator action.
+
+| Claim ID | Operational claim | Current status | Consequence if false | Public use | Verification |
+| --- | --- | --- | --- | --- | --- |
+| `OPC-YYYYMMDD-01` | Bounded claim controlling planned public use | `source_assertion` | `high` | `yes` | `request` |
+
 ## Forecast Candidates
 
-| Hook ID | Observable claim | Causal mechanism | Probability Band | Review Date | Principal alternative |
-| --- | --- | --- | --- | --- | --- |
-| `NG-YYYYMMDD-F01` |  |  |  |  |  |
+| Hook ID | Observable claim | Causal mechanism | Probability Band | Review Date | Principal alternative | Operational Dependency |
+| --- | --- | --- | --- | --- | --- | --- |
+| `NG-YYYYMMDD-F01` |  |  |  |  |  | `none` |

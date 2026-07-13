@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `mearsheimer` to th
 
 Source basis: `strategy-codex/statecraft/voices/mearsheimer/mearsheimer-index.md`.
 
-Corpus: 31 local route rows across 31 central archive source files.
+Corpus: 34 local route rows across 34 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -27,8 +27,11 @@ Status: `first-slice-parity`
 | --- | --- | --- | --- | --- |
 | `2025-02-15` | Trump To Force Ukraine Peace on Europe - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2025-02-15/source-diesen-mearsheimer-mercouris-trump-to-force-ukraine-peace-on-europe-2025-02-15.md) |
 | `2025-03-08` | The US Push for Peace & Europe Panics - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-03-08/source-diesen-mearsheimer-mercouris-the-us-push-for-peace-and-europe-panics-2025-03-08.md) |
+| `2025-05-02` | Ukraine is Now Trump's War - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-05-02/source-diesen-mearsheimer-mercouris-ukraine-is-now-trumps-war-2025-05-02.md) |
 | `2025-05-29` | Russia Won the War - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-05-29/source-diesen-mearsheimer-mercouris-russia-won-the-war-2025-05-29.md) |
 | `2025-06-20` | \"Israel Has Walked Off a Cliff\" - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2025-06-20/source-diesen-mearsheimer-mercouris-israel-has-walked-off-a-cliff-2025-06-20.md) |
+| `2025-07-25` | Ukraine War Will Now Be Resolved on Battlefield John Mearsheimer, Alexander Mercouris & Glenn Diesen | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-07-25/source-diesen-mearsheimer-mercouris-ukraine-war-will-now-be-resolved-on-battlefield-2025-07-25.md) |
+| `2025-10-22` | Window of Opportunity for Peace is Closing - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-10-22/source-diesen-mearsheimer-mercouris-window-of-opportunity-for-peace-is-closing-2025-10-22.md) |
 | `2025-12-19` | Fake Diplomacy & Permanent Conflict - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-12-19/source-diesen-mearsheimer-mercouris-fake-diplomacy-and-permanent-conflict-2025-12-19.md) |
 | `2026-01-14` | Prof John Mearsheimer: CLASSIC U.S. REGIME CHANGE in IRAN | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-01-14/source-daniel-davis-prof-john-mearsheimer-classic-u-s-regime-change-in-iran-2026-01-14.md) |
 | `2026-01-15` | Prof John Mearsheimer: DISMANTLING IRAN, The Four Part Strategy | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-01-15/source-daniel-davis-prof-john-mearsheimer-dismantling-iran-the-four-part-strategy-2026-01-15.md) |

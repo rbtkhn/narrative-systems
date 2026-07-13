@@ -43,6 +43,21 @@ def test_accountable_ex_ante_forecast_passes_before_due_date() -> None:
     assert failures == []
 
 
+def test_resolved_accountable_forecast_requires_verification_packet() -> None:
+    text = ledger_text().replace("`open` | `yes`", "`hit` | `yes`")
+    entries = triage.parse_entries(text)
+    rows = triage.parse_triage(text)
+    failures = triage.validate_triage(entries, rows, "2026-08-01")
+    assert "resolved accountable forecast missing verification packet: NG-20260707-F01" in failures
+
+
+def test_resolved_accountable_forecast_accepts_verification_reference() -> None:
+    text = ledger_text().replace("`open` | `yes`", "`hit` | `yes`").replace(
+        "Prospective review.", "Prospective review. VER-20260710-01"
+    )
+    assert triage.validate_triage(triage.parse_entries(text), triage.parse_triage(text), "2026-08-01") == []
+
+
 def test_overdue_accountable_forecast_fails() -> None:
     text = ledger_text(review_date="2026-07-09")
     failures = triage.validate_triage(

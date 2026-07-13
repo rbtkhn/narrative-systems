@@ -9,12 +9,12 @@ Status: `internal`
 | Name | Alexander Mercouris |
 | Slug | `mercouris` |
 | Role | Room / sequence / legitimacy / diplomatic-process voice |
-| Source basis | `strategy-codex/statecraft/voices/mercouris` |
+| Source basis | Transcript-bearing guest and solo-channel captures migrated from `strategy-codex`, plus subsequent local intake |
 | Public summary status | `none` |
-| Parity status | `first-slice-parity` |
-| Imported source rows | 17 |
-| Central archive files | 17 |
-| Last reviewed | `2026-07-08` |
+| Parity status | `transcript-bearing-upstream-parity` |
+| Imported source rows | 285 |
+| Central archive files | 285 |
+| Last reviewed | `2026-07-12` |
 
 ## Routing
 
@@ -27,9 +27,9 @@ Status: `internal`
 
 ## Source Modalities
 
-Imported modalities in this first slice: `cleaned-transcript`, `operator-transcript`, `panel`, `transcript`.
+Imported modalities include `transcript`, `cleaned-transcript`, `operator-transcript`, and transcript-bearing YouTube captures. Thin metadata, placeholder, lens-fold, and partial surfaces were deliberately excluded.
 
-Active host/channel shelves in this first slice: [`daniel-davis`](../../channels/daniel-davis/README.md), [`glenn-diesen`](../../channels/glenn-diesen/README.md), [`the-duran`](../../channels/the-duran/README.md).
+Active host/channel shelves include [`alexander-mercouris`](../../channels/alexander-mercouris/README.md), [`daniel-davis`](../../channels/daniel-davis/README.md), [`glenn-diesen`](../../channels/glenn-diesen/README.md), and [`the-duran`](../../channels/the-duran/README.md).
 
 ## Core Frame
 
@@ -53,6 +53,6 @@ Evidence needed before relying on this voice:
 
 ## Parity Note
 
-This voice now has Pape-style operational shape: central archive evidence, manifest coverage, complete local routing for the imported slice, two retrieval lenses, and channel-aware pressure separation.
+This voice now has transcript-bearing parity with both upstream route maps: 45 substantive cross-host guest captures and 227 substantive indexed solo-channel captures. Thirteen additional local routes remain valid beyond those indexes, including eleven later solo-channel captures.
 
-It does not yet have full-source parity with Pape's 75-source corpus.
+The 285-source corpus improves sequence memory but creates no independent operational confirmation. Repetition inside one channel must be treated as longitudinal continuity, not corroboration.

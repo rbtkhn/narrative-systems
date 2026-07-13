@@ -13,6 +13,7 @@ if str(SCRIPTS_ROOT) not in sys.path:
 from codex_skill_registry import DEPLOYABLE_SKILL_NAMES, discover_repo_skill_names
 import voice_indexes
 import voice_metadata
+import verification as verification_packets
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -35,6 +36,8 @@ ADMIN_TITLE_RE = re.compile(
     re.IGNORECASE,
 )
 PLACEHOLDER_TITLE_RE = re.compile(r"\[[^\]]+\]|<[^>]+>|YYYY(?:-MM-DD)?", re.IGNORECASE)
+OPERATIONAL_STATUS_RE = re.compile(r"^Operational status:\s*`operationally_supported`\s*$", re.MULTILINE)
+VERIFICATION_LINK_RE = re.compile(r"^Verification packet:\s*\[(VER-\d{8}-\d{2})\]\(([^)]+)\)\s*$", re.MULTILINE)
 GENERIC_READER_HEADING_RE = re.compile(
     r"^##\s+(?:background|analysis|discussion|conclusion|what happens next)\s*$",
     re.IGNORECASE | re.MULTILINE,
@@ -187,6 +190,38 @@ def editorial_title_failures() -> list[str]:
     return failures
 
 
+def operational_claim_failures() -> list[str]:
+    failures: list[str] = []
+    for path in markdown_files():
+        if verification_packets.VERIFICATION_ROOT in path.parents:
+            continue
+        text = path.read_text(encoding="utf-8")
+        if not OPERATIONAL_STATUS_RE.search(text):
+            continue
+        match = VERIFICATION_LINK_RE.search(text)
+        label = relative(path)
+        if not match:
+            failures.append(f"operationally supported claim missing verification packet: {label}")
+            continue
+        packet_id, raw_link = match.groups()
+        target = (path.parent / raw_link).resolve()
+        if not target.exists():
+            failures.append(f"operational verification link does not resolve: {label} -> {raw_link}")
+            continue
+        packet = verification_packets.parse_packet(target)
+        if packet.packet_id != packet_id:
+            failures.append(f"operational verification ID/link mismatch: {label} -> {packet_id}")
+        if packet.fields.get("status") not in {"assessed", "closed"}:
+            failures.append(f"operational verification packet is not assessed: {label} -> {packet_id}")
+        if packet.fields.get("assessment_outcome") != "operationally_supported":
+            failures.append(f"operational verification outcome is not supporting: {label} -> {packet_id}")
+    return failures
+
+
+def verification_packet_failures() -> list[str]:
+    return verification_packets.validate_all()
+
+
 def skill_sync_failures() -> list[str]:
     failures: list[str] = []
     deployable = set(DEPLOYABLE_SKILL_NAMES)
@@ -245,6 +280,8 @@ def validate_repository() -> list[str]:
         forecast_ledger_failures,
         markdown_link_failures,
         editorial_title_failures,
+        operational_claim_failures,
+        verification_packet_failures,
         skill_sync_failures,
         tracked_artifact_failures,
         voice_routing_failures,
