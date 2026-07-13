@@ -1,6 +1,6 @@
 # Channel Shelf: Dialogue Works
 
-Status: `lightweight`
+Status: `transcript-bearing-upstream-parity`
 
 ## Profile
 
@@ -10,13 +10,23 @@ Status: `lightweight`
 | Channel / show | Dialogue Works |
 | Host people | Nima Alkhorshid |
 | Source basis | [../../archive/source-manifest.json](../../archive/source-manifest.json) |
-| Shelf status | `lightweight-active` |
+| Shelf status | `transcript-bearing-upstream-parity` |
+| Manifest-backed host rows | 323 |
+| Upstream channel-index audit | 297 unique files; 283 transcript-bearing evidence chains |
 
 ## Channel Role
 
 Long-form escalation and regional-pressure interview frame; often lets guests develop red-line and crisis-continuity claims.
 
-## Source Links
+## Corpus Boundary
+
+The manifest is the exhaustive local authority for the 323 sources routed through `host_slug: dialogue-works`. This shelf remains a selective conditioning surface and does not duplicate every route into a second manually maintained index.
+
+The bounded upstream migration reached transcript-bearing parity across 283 unique evidence chains: 55 sources were imported and 228 substantive sources already existed. It excluded five metadata stubs, one inventory helper, and one alternate-filename source already represented by the same URL. Seven thin legacy surfaces already in the archive remain preserved for provenance but are excluded from transcript-bearing claims.
+
+Guest panels retain every substantive participant as an independent voice route. Four Nima Alkhorshid solo programs route to `alkhorshid`; all Dialogue Works appearances remain one channel-conditioned evidence family rather than independent operational confirmation.
+
+## Selected Source Links
 
 | Date | Guest / Voice | Source |
 | --- | --- | --- |

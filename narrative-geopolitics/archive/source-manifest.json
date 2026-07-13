@@ -2,7 +2,7 @@
   "manifest_id": "narrative-geopolitics-source-manifest-v1",
   "source_basis": "central archive with completed historical strategy-codex imports",
   "imported_at": "2026-07-09",
-  "source_count": 1463,
+  "source_count": 1518,
   "boundary": {
     "archive": "source truth",
     "voices": "voice continuity and routing",
@@ -20554,6 +20554,780 @@
         "johnson"
       ],
       "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-02-19",
+      "title": "Martin Armstrong: Trump vs. BRICS: Is He Leading the U.S. to Power or Collapse?",
+      "local_path": "narrative-geopolitics/archive/sources/2025-02-19/source-dialogue-works-martin-armstrong-trump-vs-brics-is-he-leading-the-u-s-to-power-or-collapse-2025-02-19.md",
+      "voice_index_path": "../../archive/sources/2025-02-19/source-dialogue-works-martin-armstrong-trump-vs-brics-is-he-leading-the-u-s-to-power-or-collapse-2025-02-19.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-02-19/source-dialogue-works-martin-armstrong-trump-vs-brics-is-he-leading-the-u-s-to-power-or-collapse-2025-02-19.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "armstrong"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-07-24",
+      "title": "Martin A. Armstrong: NATO Plans MASSIVE Troop Surge into Ukraine",
+      "local_path": "narrative-geopolitics/archive/sources/2025-07-24/source-dialogue-works-martin-armstrong-nato-plans-massive-troop-surge-into-ukraine-2025-07-24.md",
+      "voice_index_path": "../../archive/sources/2025-07-24/source-dialogue-works-martin-armstrong-nato-plans-massive-troop-surge-into-ukraine-2025-07-24.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-07-24/source-dialogue-works-martin-armstrong-nato-plans-massive-troop-surge-into-ukraine-2025-07-24.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "armstrong"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-08-21",
+      "title": "Martin Armstrong: The Cold Reality: Peace With Russia Will NEVER Happen",
+      "local_path": "narrative-geopolitics/archive/sources/2025-08-21/source-dialogue-works-martin-armstrong-the-cold-reality-peace-with-russia-will-never-happen-2025-08-21.md",
+      "voice_index_path": "../../archive/sources/2025-08-21/source-dialogue-works-martin-armstrong-the-cold-reality-peace-with-russia-will-never-happen-2025-08-21.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-08-21/source-dialogue-works-martin-armstrong-the-cold-reality-peace-with-russia-will-never-happen-2025-08-21.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "armstrong"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-10-03",
+      "title": "Martin Armstrong: Trump Taking Us Into World War III",
+      "local_path": "narrative-geopolitics/archive/sources/2025-10-03/source-dialogue-works-martin-armstrong-trump-taking-us-into-world-war-iii-2025-10-03.md",
+      "voice_index_path": "../../archive/sources/2025-10-03/source-dialogue-works-martin-armstrong-trump-taking-us-into-world-war-iii-2025-10-03.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-10-03/source-dialogue-works-martin-armstrong-trump-taking-us-into-world-war-iii-2025-10-03.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "armstrong"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-10-31",
+      "title": "Martin Armstrong: This Is How World War III Starts… And It Already Has",
+      "local_path": "narrative-geopolitics/archive/sources/2025-10-31/source-dialogue-works-martin-armstrong-this-is-how-world-war-iii-starts-and-it-already-has-2025-10-31.md",
+      "voice_index_path": "../../archive/sources/2025-10-31/source-dialogue-works-martin-armstrong-this-is-how-world-war-iii-starts-and-it-already-has-2025-10-31.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-10-31/source-dialogue-works-martin-armstrong-this-is-how-world-war-iii-starts-and-it-already-has-2025-10-31.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "armstrong"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-12-03",
+      "title": "Martin Armstrong: Where Is America Headed Under Trump? Is this WW3?",
+      "local_path": "narrative-geopolitics/archive/sources/2025-12-03/source-dialogue-works-martin-armstrong-where-is-america-headed-under-trump-is-this-ww3-2025-12-03.md",
+      "voice_index_path": "../../archive/sources/2025-12-03/source-dialogue-works-martin-armstrong-where-is-america-headed-under-trump-is-this-ww3-2025-12-03.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-12-03/source-dialogue-works-martin-armstrong-where-is-america-headed-under-trump-is-this-ww3-2025-12-03.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "armstrong"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-12-15",
+      "title": "Larry C. Johnson: Russia Launches Largest Missile & Drone Attack Yet",
+      "local_path": "narrative-geopolitics/archive/sources/2025-12-15/source-dialogue-works-larry-johnson-larry-c-johnson-russia-launches-largest-missile-drone-attack-yet-2025-12-15.md",
+      "voice_index_path": "../../archive/sources/2025-12-15/source-dialogue-works-larry-johnson-larry-c-johnson-russia-launches-largest-missile-drone-attack-yet-2025-12-15.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-12-15/source-dialogue-works-larry-johnson-larry-c-johnson-russia-launches-largest-missile-drone-attack-yet-2025-12-15.md",
+      "source_class": "host-pressure test",
+      "modality": "youtube-auto-captions",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-10",
+      "title": "Mohammad Marandi & Larry C. Johnson: U.S. & Iran on the Brink as Critical Negotiations Unfold LIVE",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-10/source-dialogue-works-mohammad-marandi-larry-c-johnson-u-s-iran-on-the-brink-as-critical-negot-2026-02-10.md",
+      "voice_index_path": "../../archive/sources/2026-02-10/source-dialogue-works-mohammad-marandi-larry-c-johnson-u-s-iran-on-the-brink-as-critical-negot-2026-02-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-10/source-dialogue-works-mohammad-marandi-larry-c-johnson-u-s-iran-on-the-brink-as-critical-negot-2026-02-10.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "marandi",
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-27",
+      "title": "Martin Armstrong: How World War III Begins — And Why It’s Happening Now",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-27/source-dialogue-works-martin-armstrong-how-world-war-iii-begins-and-why-it-s-happening-now-2026-02-27.md",
+      "voice_index_path": "../../archive/sources/2026-02-27/source-dialogue-works-martin-armstrong-how-world-war-iii-begins-and-why-it-s-happening-now-2026-02-27.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-27/source-dialogue-works-martin-armstrong-how-world-war-iii-begins-and-why-it-s-happening-now-2026-02-27.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "armstrong"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-02",
+      "title": "Pepe Escobar & Larry C. Johnson: US-Israel HIT Tehran, Iran DESTROYS Tel Aviv, Hezbollah NOW Joins",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-02/source-dialogue-works-pepe-escobar-larry-c-johnson-us-israel-hit-tehran-iran-destroys-tel-aviv-hezbollah-now-joins-2026-03-02.md",
+      "voice_index_path": "../../archive/sources/2026-03-02/source-dialogue-works-pepe-escobar-larry-c-johnson-us-israel-hit-tehran-iran-destroys-tel-aviv-hezbollah-now-joins-2026-03-02.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-02/source-dialogue-works-pepe-escobar-larry-c-johnson-us-israel-hit-tehran-iran-destroys-tel-aviv-hezbollah-now-joins-2026-03-02.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "escobar",
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-03",
+      "title": "Mohammad Marandi: Tehran Under FIRE & Israel Faces OBLITERATION",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-03/source-dialogue-works-mohammad-marandi-tehran-under-fire-israel-faces-obliteration-2026-03-03.md",
+      "voice_index_path": "../../archive/sources/2026-03-03/source-dialogue-works-mohammad-marandi-tehran-under-fire-israel-faces-obliteration-2026-03-03.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-03/source-dialogue-works-mohammad-marandi-tehran-under-fire-israel-faces-obliteration-2026-03-03.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-15",
+      "title": "Stanislav Krapivnik: IRAN TO UAE: 'Evacuate Now' After US Kharg Island Strike",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-15/source-dialogue-works-stanislav-krapivnik-iran-to-uae-evacuate-now-after-us-kharg-island-strike-2026-03-15.md",
+      "voice_index_path": "../../archive/sources/2026-03-15/source-dialogue-works-stanislav-krapivnik-iran-to-uae-evacuate-now-after-us-kharg-island-strike-2026-03-15.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-15/source-dialogue-works-stanislav-krapivnik-iran-to-uae-evacuate-now-after-us-kharg-island-strike-2026-03-15.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "krapivnik"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "Pepe Escobar & Larry C. Johnson: Trump is LOSING Control - Iran WIPES OUT Strategic Military Targets",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-16/source-dialogue-works-pepe-escobar-larry-c-johnson-trump-is-losing-control-iran-wipes-out-strategic-military-targets-2026-03-16.md",
+      "voice_index_path": "../../archive/sources/2026-03-16/source-dialogue-works-pepe-escobar-larry-c-johnson-trump-is-losing-control-iran-wipes-out-strategic-military-targets-2026-03-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-16/source-dialogue-works-pepe-escobar-larry-c-johnson-trump-is-losing-control-iran-wipes-out-strategic-military-targets-2026-03-16.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "escobar",
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-28",
+      "title": "Seyed M. Marandi: Yemen Enters the War - US-Israeli Strikes on Energy Sites Spark IRAN\\u2019S RETALIATION",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-28/source-dialogue-works-seyed-m-marandi-yemen-enters-the-war-us-israeli-strikes-on-energy-sites-2026-03-28.md",
+      "voice_index_path": "../../archive/sources/2026-03-28/source-dialogue-works-seyed-m-marandi-yemen-enters-the-war-us-israeli-strikes-on-energy-sites-2026-03-28.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-28/source-dialogue-works-seyed-m-marandi-yemen-enters-the-war-us-israeli-strikes-on-energy-sites-2026-03-28.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-30",
+      "title": "Larry C. Johnson: FULL ESCALATION: Yemen Joins, Hezbollah Crushes Tanks, US–Iran on Brink",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-30/source-dialogue-works-larry-c-johnson-full-escalation-yemen-joins-hezbollah-crushes-tanks-us-iran-on-brink-2026-03-30.md",
+      "voice_index_path": "../../archive/sources/2026-03-30/source-dialogue-works-larry-c-johnson-full-escalation-yemen-joins-hezbollah-crushes-tanks-us-iran-on-brink-2026-03-30.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-30/source-dialogue-works-larry-c-johnson-full-escalation-yemen-joins-hezbollah-crushes-tanks-us-iran-on-brink-2026-03-30.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-31",
+      "title": "Seyed M. Marandi: Yemen STRIKES Israel - They Hit Iran\\u2019s WATER & POWER\\u2026 Now RETALIATION Has Started",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-31/source-dialogue-works-seyed-m-marandi-yemen-strikes-israel-they-hit-iran-s-water-power-now-ret-2026-03-31.md",
+      "voice_index_path": "../../archive/sources/2026-03-31/source-dialogue-works-seyed-m-marandi-yemen-strikes-israel-they-hit-iran-s-water-power-now-ret-2026-03-31.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-31/source-dialogue-works-seyed-m-marandi-yemen-strikes-israel-they-hit-iran-s-water-power-now-ret-2026-03-31.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-06",
+      "title": "Larry C. Johnson: Iran's 'Dead' Defense WIPES OUT US Jets & Black Hawks - Trump Ultimatum FAILS",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-06/source-dialogue-works-larry-c-johnson-irans-dead-defense-wipes-out-us-jets-and-black-hawks-2026-04-06.md",
+      "voice_index_path": "../../archive/sources/2026-04-06/source-dialogue-works-larry-c-johnson-irans-dead-defense-wipes-out-us-jets-and-black-hawks-2026-04-06.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-06/source-dialogue-works-larry-c-johnson-irans-dead-defense-wipes-out-us-jets-and-black-hawks-2026-04-06.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "Larry Johnson: Will Trump\\u2019s Iran Port Blockade Work\\u2026 or End in Total DISASTER?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-13/source-dialogue-works-larry-johnson-will-trump-s-iran-port-blockade-work-or-end-in-total-disas-2026-04-13.md",
+      "voice_index_path": "../../archive/sources/2026-04-13/source-dialogue-works-larry-johnson-will-trump-s-iran-port-blockade-work-or-end-in-total-disas-2026-04-13.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-13/source-dialogue-works-larry-johnson-will-trump-s-iran-port-blockade-work-or-end-in-total-disas-2026-04-13.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-20",
+      "title": "Larry Johnson: The Strait of Hormuz Just Became a GRAVEYARD for US DOMINANCE",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-20/source-dialogue-works-larry-johnson-the-strait-of-hormuz-just-became-a-graveyard-for-us-domina-2026-04-20.md",
+      "voice_index_path": "../../archive/sources/2026-04-20/source-dialogue-works-larry-johnson-the-strait-of-hormuz-just-became-a-graveyard-for-us-domina-2026-04-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-20/source-dialogue-works-larry-johnson-the-strait-of-hormuz-just-became-a-graveyard-for-us-domina-2026-04-20.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "Larry Johnson: Iran JUST Escorted Tankers Past US Blockade \\u2013 Israel Waiting for Greenlight to ATTACK",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-24/source-dialogue-works-larry-johnson-iran-just-escorted-tankers-past-us-blockade-israel-waiting-2026-04-24.md",
+      "voice_index_path": "../../archive/sources/2026-04-24/source-dialogue-works-larry-johnson-iran-just-escorted-tankers-past-us-blockade-israel-waiting-2026-04-24.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-24/source-dialogue-works-larry-johnson-iran-just-escorted-tankers-past-us-blockade-israel-waiting-2026-04-24.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-27",
+      "title": "Larry Johnson Drops a BOMBSHELL: Generals Just Told Trump to STAND DOWN",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-27/source-dialogue-works-larry-johnson-drops-a-bombshell-generals-just-told-trump-to-stand-down-2026-04-27.md",
+      "voice_index_path": "../../archive/sources/2026-04-27/source-dialogue-works-larry-johnson-drops-a-bombshell-generals-just-told-trump-to-stand-down-2026-04-27.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-27/source-dialogue-works-larry-johnson-drops-a-bombshell-generals-just-told-trump-to-stand-down-2026-04-27.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-02",
+      "title": "Seyed M. Marandi: Hezbollah\\u2019s FPV Drones Just ROCKED Israel \\u2013 Multi-Front War ESCALATES",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-02/source-dialogue-works-seyed-m-marandi-hezbollah-s-fpv-drones-just-rocked-israel-multi-front-wa-2026-05-02.md",
+      "voice_index_path": "../../archive/sources/2026-05-02/source-dialogue-works-seyed-m-marandi-hezbollah-s-fpv-drones-just-rocked-israel-multi-front-wa-2026-05-02.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-02/source-dialogue-works-seyed-m-marandi-hezbollah-s-fpv-drones-just-rocked-israel-multi-front-wa-2026-05-02.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-04",
+      "title": "Larry Johnson: Project Freedom, the USS Canberra, Hormuz, and the Strait Blockade",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-04/source-dialogue-works-larry-johnson-hormuz-canberra-blockade-2026-05-04.md",
+      "voice_index_path": "../../archive/sources/2026-05-04/source-dialogue-works-larry-johnson-hormuz-canberra-blockade-2026-05-04.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-04/source-dialogue-works-larry-johnson-hormuz-canberra-blockade-2026-05-04.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "source-dialogue-works-johnson-hormuz-qatar-brics-trump-china-2026-05-08",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-08/source-dialogue-works-johnson-hormuz-qatar-brics-trump-china-2026-05-08.md",
+      "voice_index_path": "../../archive/sources/2026-05-08/source-dialogue-works-johnson-hormuz-qatar-brics-trump-china-2026-05-08.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-08/source-dialogue-works-johnson-hormuz-qatar-brics-trump-china-2026-05-08.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-10",
+      "title": "Iran-U.S. Blockade, China, and Israel's Veto Power",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-10/source-dialogue-works-patrick-henningsen-iran-us-blockade-china-israel-2026-05-10.md",
+      "voice_index_path": "../../archive/sources/2026-05-10/source-dialogue-works-patrick-henningsen-iran-us-blockade-china-israel-2026-05-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-10/source-dialogue-works-patrick-henningsen-iran-us-blockade-china-israel-2026-05-10.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "henningsen"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-11",
+      "title": "Larry Johnson: Netanyahu, Hormuz, China, and Israel's Strategic Failure",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-11/source-dialogue-works-johnson-netanyahu-hormuz-china-israel-2026-05-11.md",
+      "voice_index_path": "../../archive/sources/2026-05-11/source-dialogue-works-johnson-netanyahu-hormuz-china-israel-2026-05-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-11/source-dialogue-works-johnson-netanyahu-hormuz-china-israel-2026-05-11.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "Seyed M. Marandi: Hezbollah\\u2019s FPV Drones HUMILIATE Israeli Air Defenses \\u2013 Multi-Front War ESCALATES",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-12/source-dialogue-works-seyed-m-marandi-hezbollah-s-fpv-drones-humiliate-israeli-air-defenses-mu-2026-05-12.md",
+      "voice_index_path": "../../archive/sources/2026-05-12/source-dialogue-works-seyed-m-marandi-hezbollah-s-fpv-drones-humiliate-israeli-air-defenses-mu-2026-05-12.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-12/source-dialogue-works-seyed-m-marandi-hezbollah-s-fpv-drones-humiliate-israeli-air-defenses-mu-2026-05-12.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-13",
+      "title": "Laith Marouf: Israel's Buffer Zone COLLAPSES as Hezbollah Launches Fierce Iron Dome & Ground Assault",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-13/source-dialogue-works-laith-marouf-israels-buffer-zone-collapses-2026-05-13.md",
+      "voice_index_path": "../../archive/sources/2026-05-13/source-dialogue-works-laith-marouf-israels-buffer-zone-collapses-2026-05-13.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-13/source-dialogue-works-laith-marouf-israels-buffer-zone-collapses-2026-05-13.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "marouf"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-16",
+      "title": "Jiang Xueqin's Most Embarrassing Prediction Exposed (Larry Johnson & Nima Alkhorshid Break It Down)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-16/source-dialogue-works-jiang-xueqin-most-embarrassing-prediction-exposed-larry-johnson-nima-alkhorshid-2026-05-16.md",
+      "voice_index_path": "../../archive/sources/2026-05-16/source-dialogue-works-jiang-xueqin-most-embarrassing-prediction-exposed-larry-johnson-nima-alkhorshid-2026-05-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-16/source-dialogue-works-jiang-xueqin-most-embarrassing-prediction-exposed-larry-johnson-nima-alkhorshid-2026-05-16.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-16",
+      "title": "Seyed M. Marandi: Iran Just Warned: Next Attack Will Be MET WITH TOTAL OBLITERATION",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-16/source-dialogue-works-seyed-m-marandi-iran-just-warned-next-attack-total-obliteration-2026-05-16.md",
+      "voice_index_path": "../../archive/sources/2026-05-16/source-dialogue-works-seyed-m-marandi-iran-just-warned-next-attack-total-obliteration-2026-05-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-16/source-dialogue-works-seyed-m-marandi-iran-just-warned-next-attack-total-obliteration-2026-05-16.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-18",
+      "title": "Larry Johnson: Giant Mushroom Cloud Blasts Over Israeli Defense Company – What We Know",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-18/source-dialogue-works-larry-johnson-giant-mushroom-cloud-blasts-over-israeli-defense-company-what-we-know-2026-05-18.md",
+      "voice_index_path": "../../archive/sources/2026-05-18/source-dialogue-works-larry-johnson-giant-mushroom-cloud-blasts-over-israeli-defense-company-what-we-know-2026-05-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-18/source-dialogue-works-larry-johnson-giant-mushroom-cloud-blasts-over-israeli-defense-company-what-we-know-2026-05-18.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-21",
+      "title": "Pepe Escobar: Iran Wipes Out Trump's Attack - Russia & China's Massive Move",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-21/source-dialogue-works-pepe-escobar-iran-wipes-out-trumps-attack-russia-chinas-massive-move-2026-05-21.md",
+      "voice_index_path": "../../archive/sources/2026-05-21/source-dialogue-works-pepe-escobar-iran-wipes-out-trumps-attack-russia-chinas-massive-move-2026-05-21.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-21/source-dialogue-works-pepe-escobar-iran-wipes-out-trumps-attack-russia-chinas-massive-move-2026-05-21.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "escobar"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-23",
+      "title": "Seyed M. Marandi: Iran’s Armed Forces Enter HIGHEST State of Alert – War Next?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-23/source-dialogue-works-marandi-irans-armed-forces-enter-highest-state-of-alert-war-next-2026-05-23.md",
+      "voice_index_path": "../../archive/sources/2026-05-23/source-dialogue-works-marandi-irans-armed-forces-enter-highest-state-of-alert-war-next-2026-05-23.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-23/source-dialogue-works-marandi-irans-armed-forces-enter-highest-state-of-alert-war-next-2026-05-23.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-25",
+      "title": "source-dialogue-works-johnson-us-iran-throw-down-over-the-strait-of-hormuz-ticking-time-bomb-2026-05-25",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-25/source-dialogue-works-johnson-us-iran-throw-down-over-the-strait-of-hormuz-ticking-time-bomb-2026-05-25.md",
+      "voice_index_path": "../../archive/sources/2026-05-25/source-dialogue-works-johnson-us-iran-throw-down-over-the-strait-of-hormuz-ticking-time-bomb-2026-05-25.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-25/source-dialogue-works-johnson-us-iran-throw-down-over-the-strait-of-hormuz-ticking-time-bomb-2026-05-25.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "Seyed M. Marandi: Iran Opens Fire on American Fighter Jets",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-26/source-dialogue-works-marandi-iran-opens-fire-on-american-fighter-jets-2026-05-26.md",
+      "voice_index_path": "../../archive/sources/2026-05-26/source-dialogue-works-marandi-iran-opens-fire-on-american-fighter-jets-2026-05-26.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-dialogue-works-marandi-iran-opens-fire-on-american-fighter-jets-2026-05-26.md",
+      "source_class": "host-pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-30",
+      "title": "Seyed M. Marandi: Iran DROPPED THE HAMMER in Strait of Hormuz - Trump's 'No Tolls' Plan Backfires",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-30/source-dialogue-works-seyed-m-marandi-iran-dropped-the-hammer-in-strait-of-hormuz-trump-s-no-tolls-plan-backfires-2026-05-30.md",
+      "voice_index_path": "../../archive/sources/2026-05-30/source-dialogue-works-seyed-m-marandi-iran-dropped-the-hammer-in-strait-of-hormuz-trump-s-no-tolls-plan-backfires-2026-05-30.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-30/source-dialogue-works-seyed-m-marandi-iran-dropped-the-hammer-in-strait-of-hormuz-trump-s-no-tolls-plan-backfires-2026-05-30.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-31",
+      "title": "Nima R. Alkhorshid: \\\"TOTAL SURRENDER\\\" � Trump Dares Iran, But They Just DISMANTLED His Every Move",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-31/source-dialogue-works-total-surrender-trump-dares-iran-but-they-just-dismantled-his-every-move-2026-05-31.md",
+      "voice_index_path": "../../archive/sources/2026-05-31/source-dialogue-works-total-surrender-trump-dares-iran-but-they-just-dismantled-his-every-move-2026-05-31.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-31/source-dialogue-works-total-surrender-trump-dares-iran-but-they-just-dismantled-his-every-move-2026-05-31.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "alkhorshid"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-01",
+      "title": "Nima R. Alkhorshid: BREAKING: IRAN QUITS ALL PEACE TALKS EFFECTIVE IMMEDIATELY - w/ Joe Kent",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-01/source-dialogue-works-kent-breaking-iran-quits-all-peace-talks-effective-immediately-2026-06-01.md",
+      "voice_index_path": "../../archive/sources/2026-06-01/source-dialogue-works-kent-breaking-iran-quits-all-peace-talks-effective-immediately-2026-06-01.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-01/source-dialogue-works-kent-breaking-iran-quits-all-peace-talks-effective-immediately-2026-06-01.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "kent"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "Seyed M. Marandi: Rockets from Lebanon Strike Deep in Israel - Decisive Iran-US Clash Imminent",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-02/source-dialogue-works-marandi-rockets-from-lebanon-strike-deep-in-israel-decisive-iran-us-clash-imminent-2026-06-02.md",
+      "voice_index_path": "../../archive/sources/2026-06-02/source-dialogue-works-marandi-rockets-from-lebanon-strike-deep-in-israel-decisive-iran-us-clash-imminent-2026-06-02.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-02/source-dialogue-works-marandi-rockets-from-lebanon-strike-deep-in-israel-decisive-iran-us-clash-imminent-2026-06-02.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-04",
+      "title": "Patrick Henningsen: Hezbollah Just Drew the Line: 'Israel Out of Lebanon Completely",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-04/source-dialogue-works-patrick-henningsen-hezbollah-just-drew-the-line-israel-out-of-lebanon-completely-2026-06-04.md",
+      "voice_index_path": "../../archive/sources/2026-06-04/source-dialogue-works-patrick-henningsen-hezbollah-just-drew-the-line-israel-out-of-lebanon-completely-2026-06-04.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-04/source-dialogue-works-patrick-henningsen-hezbollah-just-drew-the-line-israel-out-of-lebanon-completely-2026-06-04.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "henningsen"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-04",
+      "title": "Stanislav Krapivnik: How Firepower Just Broke Two Wars (Ukraine & Middle East)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-04/source-dialogue-works-stanislav-krapivnik-how-firepower-just-broke-two-wars-ukraine-middle-east-2026-06-04.md",
+      "voice_index_path": "../../archive/sources/2026-06-04/source-dialogue-works-stanislav-krapivnik-how-firepower-just-broke-two-wars-ukraine-middle-east-2026-06-04.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-04/source-dialogue-works-stanislav-krapivnik-how-firepower-just-broke-two-wars-ukraine-middle-east-2026-06-04.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "krapivnik"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-06",
+      "title": "Seyed M. Marandi: Iran Strikes BACK – Missiles Hit Kuwait & U.S. 5th Fleet in Bahrain!",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-06/source-dialogue-works-marandi-iran-strikes-back-missiles-hit-kuwait-us-5th-fleet-in-bahrain-2026-06-06.md",
+      "voice_index_path": "../../archive/sources/2026-06-06/source-dialogue-works-marandi-iran-strikes-back-missiles-hit-kuwait-us-5th-fleet-in-bahrain-2026-06-06.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-06/source-dialogue-works-marandi-iran-strikes-back-missiles-hit-kuwait-us-5th-fleet-in-bahrain-2026-06-06.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-07",
+      "title": "URGENT: Iran & Israel Trade Blows – Yemen Launches, Iran Hits Saudi",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-07/source-dialogue-works-nima-urgent-iran-israel-trade-blows-yemen-launches-iran-hits-saudi-2026-06-07.md",
+      "voice_index_path": "../../archive/sources/2026-06-07/source-dialogue-works-nima-urgent-iran-israel-trade-blows-yemen-launches-iran-hits-saudi-2026-06-07.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-07/source-dialogue-works-nima-urgent-iran-israel-trade-blows-yemen-launches-iran-hits-saudi-2026-06-07.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "alkhorshid"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "Iran LAUNCHES Immediate Retaliation: Explosions Rock Bahrain After US Strikes",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-09/source-dialogue-works-iran-launches-immediate-retaliation-explosions-rock-bahrain-after-us-strikes-2026-06-09.md",
+      "voice_index_path": "../../archive/sources/2026-06-09/source-dialogue-works-iran-launches-immediate-retaliation-explosions-rock-bahrain-after-us-strikes-2026-06-09.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-09/source-dialogue-works-iran-launches-immediate-retaliation-explosions-rock-bahrain-after-us-strikes-2026-06-09.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "alkhorshid"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "Seyed M. Marandi: Iran Drops a New Equation on the Face of War – Israel Goes Against, Trump Escapes",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-09/source-dialogue-works-marandi-iran-drops-new-equation-israel-goes-against-trump-escapes-2026-06-09.md",
+      "voice_index_path": "../../archive/sources/2026-06-09/source-dialogue-works-marandi-iran-drops-new-equation-israel-goes-against-trump-escapes-2026-06-09.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-09/source-dialogue-works-marandi-iran-drops-new-equation-israel-goes-against-trump-escapes-2026-06-09.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "Stanislav Krapivnik: Breaking: US attacks Iran - Russia: No Deal Coming",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-09/source-dialogue-works-stanislav-krapivnik-breaking-us-attacks-iran-russia-no-deal-coming-2026-06-09.md",
+      "voice_index_path": "../../archive/sources/2026-06-09/source-dialogue-works-stanislav-krapivnik-breaking-us-attacks-iran-russia-no-deal-coming-2026-06-09.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-09/source-dialogue-works-stanislav-krapivnik-breaking-us-attacks-iran-russia-no-deal-coming-2026-06-09.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "krapivnik"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-10",
+      "title": "Patrick Henningsen: Iran Strikes US Bases in Jordan – Retaliation Begins & Talks DEAD",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-10/source-dialogue-works-patrick-henningsen-iran-strikes-us-bases-jordan-retaliation-begins-talks-dead-2026-06-10.md",
+      "voice_index_path": "../../archive/sources/2026-06-10/source-dialogue-works-patrick-henningsen-iran-strikes-us-bases-jordan-retaliation-begins-talks-dead-2026-06-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-10/source-dialogue-works-patrick-henningsen-iran-strikes-us-bases-jordan-retaliation-begins-talks-dead-2026-06-10.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "henningsen"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "Pepe Escobar: 12 Ballistic Missiles Struck a US Major Airbase (Jordan)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-11/source-dialogue-works-pepe-escobar-12-ballistic-missiles-struck-us-major-airbase-jordan-2026-06-11.md",
+      "voice_index_path": "../../archive/sources/2026-06-11/source-dialogue-works-pepe-escobar-12-ballistic-missiles-struck-us-major-airbase-jordan-2026-06-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-11/source-dialogue-works-pepe-escobar-12-ballistic-missiles-struck-us-major-airbase-jordan-2026-06-11.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "escobar"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-13",
+      "title": "Seyed M. Marandi: BREAKING: US & Iran on Brink of FINAL Deal – Here's What We Know",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-13/source-dialogue-works-marandi-breaking-us-iran-brink-final-deal-2026-06-13.md",
+      "voice_index_path": "../../archive/sources/2026-06-13/source-dialogue-works-marandi-breaking-us-iran-brink-final-deal-2026-06-13.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-13/source-dialogue-works-marandi-breaking-us-iran-brink-final-deal-2026-06-13.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-14",
+      "title": "BREAKING: Iran Deputy Commander: 'Beirut attack won't go unanswered",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-14/source-dialogue-works-nima-beirut-attack-wont-go-unanswered-deputy-commander-2026-06-14.md",
+      "voice_index_path": "../../archive/sources/2026-06-14/source-dialogue-works-nima-beirut-attack-wont-go-unanswered-deputy-commander-2026-06-14.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-14/source-dialogue-works-nima-beirut-attack-wont-go-unanswered-deputy-commander-2026-06-14.md",
+      "source_class": "authored stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "alkhorshid"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "Seyed M. Marandi: Iran Steps In – Israel Refuses to Withdraw as Hezbollah CRUSHES the Buffer Zone",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-16/source-dialogue-works-marandi-iran-steps-in-israel-refuses-withdraw-hezbollah-crushes-buffer-zone-2026-06-16.md",
+      "voice_index_path": "../../archive/sources/2026-06-16/source-dialogue-works-marandi-iran-steps-in-israel-refuses-withdraw-hezbollah-crushes-buffer-zone-2026-06-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-16/source-dialogue-works-marandi-iran-steps-in-israel-refuses-withdraw-hezbollah-crushes-buffer-zone-2026-06-16.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "Patrick Henningsen: Israel's Plot FAILS – Iran and US Advance MoU Despite Sabotage Attempt",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-16/source-dialogue-works-patrick-henningsen-israel-plot-fails-iran-us-advance-mou-despite-sabotage-2026-06-16.md",
+      "voice_index_path": "../../archive/sources/2026-06-16/source-dialogue-works-patrick-henningsen-israel-plot-fails-iran-us-advance-mou-despite-sabotage-2026-06-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-16/source-dialogue-works-patrick-henningsen-israel-plot-fails-iran-us-advance-mou-despite-sabotage-2026-06-16.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "henningsen"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "Pepe Escobar: Israel Just Got Outplayed - The MoU That 'Beat' Israel Where It Hurts",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-17/source-dialogue-works-pepe-escobar-israel-outplayed-mou-beat-israel-2026-06-17.md",
+      "voice_index_path": "../../archive/sources/2026-06-17/source-dialogue-works-pepe-escobar-israel-outplayed-mou-beat-israel-2026-06-17.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-17/source-dialogue-works-pepe-escobar-israel-outplayed-mou-beat-israel-2026-06-17.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "escobar"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "Seyed M. Marandi & Larry Johnson: BREAKING: Iran SHUTS DOWN Geneva Talks Over MoU Implementation",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-19/source-dialogue-works-seyed-m-marandi-larry-johnson-iran-shuts-down-geneva-talks-mou-2026-06-19.md",
+      "voice_index_path": "../../archive/sources/2026-06-19/source-dialogue-works-seyed-m-marandi-larry-johnson-iran-shuts-down-geneva-talks-mou-2026-06-19.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-19/source-dialogue-works-seyed-m-marandi-larry-johnson-iran-shuts-down-geneva-talks-mou-2026-06-19.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "marandi",
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Patrick Henningsen: Israel's Losses Continue to Get Worse – New Numbers Just Dropped",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-23/source-dialogue-works-henningsen-israels-losses-lebanon-hezbollah-iran-geneva-talks-2026-06-23.md",
+      "voice_index_path": "../../archive/sources/2026-06-23/source-dialogue-works-henningsen-israels-losses-lebanon-hezbollah-iran-geneva-talks-2026-06-23.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-23/source-dialogue-works-henningsen-israels-losses-lebanon-hezbollah-iran-geneva-talks-2026-06-23.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "henningsen"
+      ],
+      "host_slug": "dialogue-works",
       "import_status": "imported"
     }
   ]
