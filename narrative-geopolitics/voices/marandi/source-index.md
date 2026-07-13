@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `marandi` to the ce
 
 Source basis: `strategy-codex/statecraft/voices/marandi/marandi-index.md`.
 
-Corpus: 53 local route rows across 53 central archive source files.
+Corpus: 54 local route rows across 54 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -60,6 +60,7 @@ Status: `first-slice-parity`
 | `2026-05-23` | Seyed M. Marandi: Iran’s Armed Forces Enter HIGHEST State of Alert – War Next? | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-05-23/source-dialogue-works-marandi-irans-armed-forces-enter-highest-state-of-alert-war-next-2026-05-23.md) |
 | `2026-05-23` | Seyed M. Marandi: Iran Closes Its Airspace as Negotiations Fail and the U.S. Prepares to Strike | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-05-23/source-glenn-diesen-seyed-m-marandi-iran-closes-its-airspace-as-negotiations-fail-and-the-u-s-prepares-to-strike-2026-05-23.md) |
 | `2026-05-26` | Seyed M. Marandi: Iran Opens Fire on American Fighter Jets | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-05-26/source-dialogue-works-marandi-iran-opens-fire-on-american-fighter-jets-2026-05-26.md) |
+| `2026-05-29` | Is Israel Blocking Trump From Ending the Iran Conflict? \| Mohammad Marandi | `host-pressure test` | `india-global-left` | [source](../../archive/sources/2026-05-29/source-india-global-left-is-israel-blocking-trump-from-ending-the-iran-conflict-mohammad-marandi-2026-05-29.md) |
 | `2026-05-30` | Seyed M. Marandi: Iran DROPPED THE HAMMER in Strait of Hormuz - Trump's 'No Tolls' Plan Backfires | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-05-30/source-dialogue-works-seyed-m-marandi-iran-dropped-the-hammer-in-strait-of-hormuz-trump-s-no-tolls-plan-backfires-2026-05-30.md) |
 | `2026-06-02` | Seyed M. Marandi: Rockets from Lebanon Strike Deep in Israel - Decisive Iran-US Clash Imminent | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-02/source-dialogue-works-marandi-rockets-from-lebanon-strike-deep-in-israel-decisive-iran-us-clash-imminent-2026-06-02.md) |
 | `2026-06-05` | Seyed M. Marandi: Hormuz Toll, Strike On Kuwait, Israel Decline & Iranian Nuclear Bomb? | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-06-05/source-glenn-diesen-seyed-m-marandi-hormuz-toll-strike-on-kuwait-israel-decline-iranian-nuclear-bomb-2026-06-05.md) |

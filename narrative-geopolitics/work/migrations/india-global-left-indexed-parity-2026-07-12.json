@@ -1,0 +1,342 @@
+{
+  "migration_id": "india-global-left-indexed-parity-2026-07-12",
+  "migrated_at": "2026-07-12",
+  "source_index": "C:/dev/strategy-codex/statecraft/channels/india-global-left/india-global-left-channel-index.md",
+  "boundary": "Complete 21-source India and Global Left indexed transcript parity.",
+  "counts": {
+    "evaluated": 21,
+    "imported": 2,
+    "existing_exact": 19,
+    "manifest_before": 1520,
+    "manifest_after": 1522,
+    "host_rows_before": 19,
+    "host_rows_after": 21,
+    "mearsheimer_before": 49,
+    "mearsheimer_after": 50,
+    "marandi_before": 53,
+    "marandi_after": 54
+  },
+  "invariants": {
+    "private_intake_changed": false,
+    "existing_archive_sources_changed": false,
+    "existing_manifest_rows_changed": false,
+    "imported_source_bytes_preserved": true
+  },
+  "evaluated_files": [
+    {
+      "filename": "source-india-global-left-trump-russia-ukraine-war-scott-ritter-2025-02-22.md",
+      "date": "2025-02-22",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-02-22/source-india-global-left-trump-russia-ukraine-war-scott-ritter-2025-02-22.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2025-02-22/source-india-global-left-trump-russia-ukraine-war-scott-ritter-2025-02-22.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=D2zRRr0CkmU",
+      "youtube_id": "D2zRRr0CkmU",
+      "source_sha256": "FAB55CCB7D713ED0B5CF7683AFB17DC5A635309CCBF2AFF2B45316A655BFAF66",
+      "destination_sha256": "FAB55CCB7D713ED0B5CF7683AFB17DC5A635309CCBF2AFF2B45316A655BFAF66"
+    },
+    {
+      "filename": "source-india-global-left-trump-zelensky-oval-office-chas-freeman-2025-03-01.md",
+      "date": "2025-03-01",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-03-01/source-india-global-left-trump-zelensky-oval-office-chas-freeman-2025-03-01.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2025-03-01/source-india-global-left-trump-zelensky-oval-office-chas-freeman-2025-03-01.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "freeman"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=ZPyoLPEroOo",
+      "youtube_id": "ZPyoLPEroOo",
+      "source_sha256": "34E5E18C956C07BBBFEFCBEDB670C5DDFC11E3772B4687024504F4DC8C4FFF40",
+      "destination_sha256": "34E5E18C956C07BBBFEFCBEDB670C5DDFC11E3772B4687024504F4DC8C4FFF40"
+    },
+    {
+      "filename": "source-india-global-left-trump-zelensky-fiasco-scott-ritter-2025-03-02.md",
+      "date": "2025-03-02",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-03-02/source-india-global-left-trump-zelensky-fiasco-scott-ritter-2025-03-02.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2025-03-02/source-india-global-left-trump-zelensky-fiasco-scott-ritter-2025-03-02.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=J15KBqfx1Ic",
+      "youtube_id": "J15KBqfx1Ic",
+      "source_sha256": "499E07606CECABFB6274ADA65CBAF0F396C06D1274016020113FE9CB6847BF82",
+      "destination_sha256": "499E07606CECABFB6274ADA65CBAF0F396C06D1274016020113FE9CB6847BF82"
+    },
+    {
+      "filename": "source-india-global-left-trump-rubio-ukraine-peace-talks-scott-ritter-2025-03-21.md",
+      "date": "2025-03-21",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-03-21/source-india-global-left-trump-rubio-ukraine-peace-talks-scott-ritter-2025-03-21.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2025-03-21/source-india-global-left-trump-rubio-ukraine-peace-talks-scott-ritter-2025-03-21.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=llyBcKg6tNg",
+      "youtube_id": "llyBcKg6tNg",
+      "source_sha256": "1689007D39C581ED35DBA3EE0DF9AF11684B440882F775EFF184EC2272F91FD4",
+      "destination_sha256": "1689007D39C581ED35DBA3EE0DF9AF11684B440882F775EFF184EC2272F91FD4"
+    },
+    {
+      "filename": "source-india-global-left-trump-peace-chaos-middle-east-scott-ritter-2025-03-28.md",
+      "date": "2025-03-28",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-03-28/source-india-global-left-trump-peace-chaos-middle-east-scott-ritter-2025-03-28.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2025-03-28/source-india-global-left-trump-peace-chaos-middle-east-scott-ritter-2025-03-28.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=5DNyWcXQwRQ",
+      "youtube_id": "5DNyWcXQwRQ",
+      "source_sha256": "B9B3EE193B6C81EC4DA8F44BD42E2526ED7927CB1F6C42E416EAB774F7A15506",
+      "destination_sha256": "B9B3EE193B6C81EC4DA8F44BD42E2526ED7927CB1F6C42E416EAB774F7A15506"
+    },
+    {
+      "filename": "source-india-global-left-heated-us-china-debate-john-mearsheimer-2025-04-14.md",
+      "date": "2025-04-14",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-04-14/source-india-global-left-heated-us-china-debate-john-mearsheimer-2025-04-14.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2025-04-14/source-india-global-left-heated-us-china-debate-john-mearsheimer-2025-04-14.md",
+      "disposition": "imported",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=NV2FBf_cOg8",
+      "youtube_id": "NV2FBf_cOg8",
+      "source_sha256": "44FEB8750178B4E929815053325DA33104A269C6CC60096C0910972051EA98C4",
+      "destination_sha256": "44FEB8750178B4E929815053325DA33104A269C6CC60096C0910972051EA98C4"
+    },
+    {
+      "filename": "source-india-global-left-trump-gulf-visit-us-israel-gulf-shift-chas-freeman-2025-05-15.md",
+      "date": "2025-05-15",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-05-15/source-india-global-left-trump-gulf-visit-us-israel-gulf-shift-chas-freeman-2025-05-15.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2025-05-15/source-india-global-left-trump-gulf-visit-us-israel-gulf-shift-chas-freeman-2025-05-15.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "freeman"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=iTn-CqdOA8Y",
+      "youtube_id": "iTn-CqdOA8Y",
+      "source_sha256": "73F6661B7D6819C828E92FE4F7955983DF27B0BC8C01444A195F1D2E129079D6",
+      "destination_sha256": "73F6661B7D6819C828E92FE4F7955983DF27B0BC8C01444A195F1D2E129079D6"
+    },
+    {
+      "filename": "source-india-global-left-push-war-iran-chas-freeman-2025-06-21.md",
+      "date": "2025-06-21",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-06-21/source-india-global-left-push-war-iran-chas-freeman-2025-06-21.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2025-06-21/source-india-global-left-push-war-iran-chas-freeman-2025-06-21.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "freeman"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=4yt1Vq3BruA",
+      "youtube_id": "4yt1Vq3BruA",
+      "source_sha256": "2D2262E502A6F561D41EC42C0F109CF18558A88DFEE2BF28C11783564DB23E18",
+      "destination_sha256": "2D2262E502A6F561D41EC42C0F109CF18558A88DFEE2BF28C11783564DB23E18"
+    },
+    {
+      "filename": "source-india-global-left-europe-snapback-sanctions-israel-war-trita-parsi-2025-09-02.md",
+      "date": "2025-09-02",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-09-02/source-india-global-left-europe-snapback-sanctions-israel-war-trita-parsi-2025-09-02.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2025-09-02/source-india-global-left-europe-snapback-sanctions-israel-war-trita-parsi-2025-09-02.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "parsi"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=9YRw0U4wyV4",
+      "youtube_id": "9YRw0U4wyV4",
+      "source_sha256": "DFA763E2326E9969EE0EE462A9434DF4CEE98B4F83916CD2F3467E58FB726268",
+      "destination_sha256": "DFA763E2326E9969EE0EE462A9434DF4CEE98B4F83916CD2F3467E58FB726268"
+    },
+    {
+      "filename": "source-india-global-left-gaza-ceasefire-wont-last-chas-freeman-2025-10-10.md",
+      "date": "2025-10-10",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-10-10/source-india-global-left-gaza-ceasefire-wont-last-chas-freeman-2025-10-10.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2025-10-10/source-india-global-left-gaza-ceasefire-wont-last-chas-freeman-2025-10-10.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "freeman"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=jm1kxCygFmw",
+      "youtube_id": "jm1kxCygFmw",
+      "source_sha256": "2354A36EB1B04D85B591D4FF1712C80F1D45052C4B26EDC78584D85711DF242D",
+      "destination_sha256": "2354A36EB1B04D85B591D4FF1712C80F1D45052C4B26EDC78584D85711DF242D"
+    },
+    {
+      "filename": "source-india-global-left-us-security-strategy-china-war-chas-freeman-2025-12-09.md",
+      "date": "2025-12-09",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-12-09/source-india-global-left-us-security-strategy-china-war-chas-freeman-2025-12-09.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2025-12-09/source-india-global-left-us-security-strategy-china-war-chas-freeman-2025-12-09.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "freeman"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=ln_XXosCoi8",
+      "youtube_id": "ln_XXosCoi8",
+      "source_sha256": "D2A6C9896B3C5668383D36D65D7AC98DBDF296414A401B666A5126816EC8873A",
+      "destination_sha256": "D2A6C9896B3C5668383D36D65D7AC98DBDF296414A401B666A5126816EC8873A"
+    },
+    {
+      "filename": "source-india-global-left-us-foreign-policy-cia-venezuela-iran-ukraine-scott-ritter-2026-02-20.md",
+      "date": "2026-02-20",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-20/source-india-global-left-us-foreign-policy-cia-venezuela-iran-ukraine-scott-ritter-2026-02-20.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-02-20/source-india-global-left-us-foreign-policy-cia-venezuela-iran-ukraine-scott-ritter-2026-02-20.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=6ZagJb5RwMA",
+      "youtube_id": "6ZagJb5RwMA",
+      "source_sha256": "F2305DCFC64CC16921FDE17A01C92C846C8D610E6B0493BA140BC09F916DBFC5",
+      "destination_sha256": "F2305DCFC64CC16921FDE17A01C92C846C8D610E6B0493BA140BC09F916DBFC5"
+    },
+    {
+      "filename": "source-india-global-left-war-iran-inevitable-chas-freeman-2026-02-24.md",
+      "date": "2026-02-24",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-24/source-india-global-left-war-iran-inevitable-chas-freeman-2026-02-24.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-02-24/source-india-global-left-war-iran-inevitable-chas-freeman-2026-02-24.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "freeman"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=E0JqaiO8IQA",
+      "youtube_id": "E0JqaiO8IQA",
+      "source_sha256": "24B5B44644A6E77C69E6465CB16479D315AEF923EAA0844A5A9468B1B4B010A7",
+      "destination_sha256": "24B5B44644A6E77C69E6465CB16479D315AEF923EAA0844A5A9468B1B4B010A7"
+    },
+    {
+      "filename": "source-india-global-left-prove-me-wrong-scott-ritter-2026-03-02.md",
+      "date": "2026-03-02",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-02/source-india-global-left-prove-me-wrong-scott-ritter-2026-03-02.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-03-02/source-india-global-left-prove-me-wrong-scott-ritter-2026-03-02.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=JOjz-R3twTc",
+      "youtube_id": "JOjz-R3twTc",
+      "source_sha256": "91D9706A34BD9D196279B8B874C25E2210F9758D23240B122B59871DAAA23362",
+      "destination_sha256": "91D9706A34BD9D196279B8B874C25E2210F9758D23240B122B59871DAAA23362"
+    },
+    {
+      "filename": "source-india-global-left-iran-strategy-pezeshkian-gulf-halt-chas-freeman-2026-03-07.md",
+      "date": "2026-03-07",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-07/source-india-global-left-iran-strategy-pezeshkian-gulf-halt-chas-freeman-2026-03-07.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-03-07/source-india-global-left-iran-strategy-pezeshkian-gulf-halt-chas-freeman-2026-03-07.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "freeman"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=gltqzfUnhFg",
+      "youtube_id": "gltqzfUnhFg",
+      "source_sha256": "87AE80FDA1FF4FD5B4456DE5FA76754BB03739E312B0100C90F377D8BB8C18D6",
+      "destination_sha256": "87AE80FDA1FF4FD5B4456DE5FA76754BB03739E312B0100C90F377D8BB8C18D6"
+    },
+    {
+      "filename": "source-india-global-left-geo-historical-shift-chas-freeman-2026-03-23.md",
+      "date": "2026-03-23",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-23/source-india-global-left-geo-historical-shift-chas-freeman-2026-03-23.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-03-23/source-india-global-left-geo-historical-shift-chas-freeman-2026-03-23.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "freeman"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=m3J53lNJiFk",
+      "youtube_id": "m3J53lNJiFk",
+      "source_sha256": "FE32CF1B27E708E7395A25C5BE56E3F935CDA93A09765925B048302C856F8CDA",
+      "destination_sha256": "FE32CF1B27E708E7395A25C5BE56E3F935CDA93A09765925B048302C856F8CDA"
+    },
+    {
+      "filename": "source-india-global-left-no-ceasefire-scott-ritter-2026-04-09.md",
+      "date": "2026-04-09",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-09/source-india-global-left-no-ceasefire-scott-ritter-2026-04-09.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-04-09/source-india-global-left-no-ceasefire-scott-ritter-2026-04-09.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=W93WyoC-2lQ",
+      "youtube_id": "W93WyoC-2lQ",
+      "source_sha256": "9AD760ACED2C5F4044EB2A94F052CB31465DD897661E933BF3374460E336DAFE",
+      "destination_sha256": "9AD760ACED2C5F4044EB2A94F052CB31465DD897661E933BF3374460E336DAFE"
+    },
+    {
+      "filename": "source-india-global-left-four-endgames-iran-war-chas-freeman-2026-05-11.md",
+      "date": "2026-05-11",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-11/source-india-global-left-four-endgames-iran-war-chas-freeman-2026-05-11.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-05-11/source-india-global-left-four-endgames-iran-war-chas-freeman-2026-05-11.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "freeman"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=x1JHpJ4Glt8",
+      "youtube_id": "x1JHpJ4Glt8",
+      "source_sha256": "9A23A7A5BBF35FBA2815893FDB13022607907CBB22BC5E83561FB0E7AC6C3A19",
+      "destination_sha256": "9A23A7A5BBF35FBA2815893FDB13022607907CBB22BC5E83561FB0E7AC6C3A19"
+    },
+    {
+      "filename": "source-india-global-left-is-iran-now-a-world-power-chas-freeman-2026-05-20.md",
+      "date": "2026-05-20",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-20/source-india-global-left-is-iran-now-a-world-power-chas-freeman-2026-05-20.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-05-20/source-india-global-left-is-iran-now-a-world-power-chas-freeman-2026-05-20.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "freeman"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=Thy3e6ququ8",
+      "youtube_id": "Thy3e6ququ8",
+      "source_sha256": "86C4C36E6C77057CE848EE678312FCF5041D246C000738A283B1A5F448C94C9C",
+      "destination_sha256": "86C4C36E6C77057CE848EE678312FCF5041D246C000738A283B1A5F448C94C9C"
+    },
+    {
+      "filename": "source-india-global-left-is-israel-blocking-trump-from-ending-the-iran-conflict-mohammad-marandi-2026-05-29.md",
+      "date": "2026-05-29",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-29/source-india-global-left-is-israel-blocking-trump-from-ending-the-iran-conflict-mohammad-marandi-2026-05-29.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-05-29/source-india-global-left-is-israel-blocking-trump-from-ending-the-iran-conflict-mohammad-marandi-2026-05-29.md",
+      "disposition": "imported",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=4yvbGF6vn0I",
+      "youtube_id": "4yvbGF6vn0I",
+      "source_sha256": "19AC72849CD7FAEC490A2070176ADF5BDAB710875E3507BA00451015DA45F18E",
+      "destination_sha256": "19AC72849CD7FAEC490A2070176ADF5BDAB710875E3507BA00451015DA45F18E"
+    },
+    {
+      "filename": "source-india-global-left-freeman-regional-fallout-us-iran-war-2026-06-11.md",
+      "date": "2026-06-11",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-11/source-india-global-left-freeman-regional-fallout-us-iran-war-2026-06-11.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-06-11/source-india-global-left-freeman-regional-fallout-us-iran-war-2026-06-11.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "freeman"
+      ],
+      "host_slug": "india-global-left",
+      "source_url": "https://www.youtube.com/watch?v=X1ulonrAgbo",
+      "youtube_id": "X1ulonrAgbo",
+      "source_sha256": "946969DFB9CF6967C4E4C93F2C65FD55EEABDE43757EFE050B882B9FF7C66A1C",
+      "destination_sha256": "946969DFB9CF6967C4E4C93F2C65FD55EEABDE43757EFE050B882B9FF7C66A1C"
+    }
+  ]
+}

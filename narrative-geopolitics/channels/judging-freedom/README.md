@@ -1,6 +1,6 @@
 # Channel Shelf: Judging Freedom
 
-Status: `lightweight`
+Status: `indexed-batch-parity`
 
 ## Profile
 
@@ -10,13 +10,23 @@ Status: `lightweight`
 | Channel / show | Judge Napolitano - Judging Freedom |
 | Host people | Judge Andrew Napolitano |
 | Source basis | [../../archive/source-manifest.json](../../archive/source-manifest.json) |
-| Shelf status | `lightweight-active` |
+| Shelf status | `indexed-batch-parity` |
+| Manifest-backed host rows | 189 |
+| Upstream indexed batch | 23 substantive transcripts; 23 represented locally |
 
 ## Channel Role
 
 Legal, constitutional, and defeat-accounting frame; compresses claims through responsibility, legality, and Washington-policy failure.
 
-## Source Links
+## Corpus Boundary
+
+The manifest is the exhaustive local authority for the 189 sources routed through `host_slug: judging-freedom`. This shelf remains a selective conditioning surface and does not duplicate every route into a second manually maintained index.
+
+The bounded upstream index contains 23 substantive transcripts rather than the full channel corpus. Indexed-batch parity required two Johnson imports and correction of one existing Wilkerson host route; the other 20 entries already existed. This status must not be described as exhaustive channel parity.
+
+Napolitano's legal and responsibility frame is channel conditioning. Guest analysts retain their person-level `voice_slugs`, and repeated Judging Freedom appearances remain one channel-conditioned evidence family rather than independent operational confirmation.
+
+## Selected Source Links
 
 | Date | Guest / Voice | Source |
 | --- | --- | --- |

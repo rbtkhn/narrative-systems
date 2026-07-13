@@ -1,0 +1,396 @@
+{
+  "migration_id": "judging-freedom-indexed-batch-parity-2026-07-12",
+  "migrated_at": "2026-07-12",
+  "source_index": "C:/dev/strategy-codex/statecraft/channels/judging-freedom/judging-freedom-channel-index.md",
+  "boundary": "Bounded 23-entry Judging Freedom index parity; not exhaustive channel parity.",
+  "counts": {
+    "evaluated": 23,
+    "imported": 2,
+    "existing_exact": 20,
+    "host_corrected": 1,
+    "manifest_before": 1518,
+    "manifest_after": 1520,
+    "host_rows_before": 186,
+    "host_rows_after": 189,
+    "johnson_before": 75,
+    "johnson_after": 77,
+    "wilkerson_before": 95,
+    "wilkerson_after": 95
+  },
+  "invariants": {
+    "private_intake_changed": false,
+    "imported_source_bytes_preserved": true,
+    "existing_source_bodies_changed": false,
+    "only_existing_manifest_change": "source-wilkerson-judging-freedom-iran-new-friend-2026-04-30.md: host_slug wilkerson -> judging-freedom"
+  },
+  "evaluated_files": [
+    {
+      "filename": "source-judging-freedom-amb-chas-freeman-trump-and-xi-who-won-2025-11-04.md",
+      "date": "2025-11-04",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-11-04/source-judging-freedom-amb-chas-freeman-trump-and-xi-who-won-2025-11-04.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2025-11-04/source-judging-freedom-amb-chas-freeman-trump-and-xi-who-won-2025-11-04.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "freeman"
+      ],
+      "host_slug_before": "judging-freedom",
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=SWg6IdcsUFg",
+      "youtube_id": "SWg6IdcsUFg",
+      "source_sha256": "EADE22E75A904D2C76FCCBBF1B9F6B645BDFABA4071CB66170DF3CA4E47B9B7B",
+      "destination_sha256": "EADE22E75A904D2C76FCCBBF1B9F6B645BDFABA4071CB66170DF3CA4E47B9B7B"
+    },
+    {
+      "filename": "source-judging-freedom-freeman-trump-israel-or-america-first-2025-11-10.md",
+      "date": "2025-11-10",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-11-10/source-judging-freedom-freeman-trump-israel-or-america-first-2025-11-10.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2025-11-10/source-judging-freedom-freeman-trump-israel-or-america-first-2025-11-10.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "freeman"
+      ],
+      "host_slug_before": "judging-freedom",
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=lhvwsU2ab7E",
+      "youtube_id": "lhvwsU2ab7E",
+      "source_sha256": "D3911C229795BED37DE589B2A4F202E828FA56FE5F06E12B010FE303633C63AC",
+      "destination_sha256": "D3911C229795BED37DE589B2A4F202E828FA56FE5F06E12B010FE303633C63AC"
+    },
+    {
+      "filename": "source-judging-freedom-amb-chas-freeman-mi6-and-venezuela-what-the-brits-know-2025-11-18.md",
+      "date": "2025-11-18",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-11-18/source-judging-freedom-amb-chas-freeman-mi6-and-venezuela-what-the-brits-know-2025-11-18.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2025-11-18/source-judging-freedom-amb-chas-freeman-mi6-and-venezuela-what-the-brits-know-2025-11-18.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "freeman"
+      ],
+      "host_slug_before": "judging-freedom",
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=CvA4TXxVxlQ",
+      "youtube_id": "CvA4TXxVxlQ",
+      "source_sha256": "1070AB6B3573E867FD160BC6DBB9D1F8371662F6CAD375E3A06DFEE2D3C864F0",
+      "destination_sha256": "1070AB6B3573E867FD160BC6DBB9D1F8371662F6CAD375E3A06DFEE2D3C864F0"
+    },
+    {
+      "filename": "source-judging-freedom-amb-chas-freeman-zelensky-s-self-caused-dilemma-2025-11-25.md",
+      "date": "2025-11-25",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-11-25/source-judging-freedom-amb-chas-freeman-zelensky-s-self-caused-dilemma-2025-11-25.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2025-11-25/source-judging-freedom-amb-chas-freeman-zelensky-s-self-caused-dilemma-2025-11-25.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "freeman"
+      ],
+      "host_slug_before": "judging-freedom",
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=dibo37W3Lhc",
+      "youtube_id": "dibo37W3Lhc",
+      "source_sha256": "215D14256F1BEF46F28ABB702E45BE3FBD10E34546F68C1E5DD07790A398B060",
+      "destination_sha256": "215D14256F1BEF46F28ABB702E45BE3FBD10E34546F68C1E5DD07790A398B060"
+    },
+    {
+      "filename": "source-judging-freedom-freeman-does-anyone-want-peace-2025-12-09.md",
+      "date": "2025-12-09",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-12-09/source-judging-freedom-freeman-does-anyone-want-peace-2025-12-09.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2025-12-09/source-judging-freedom-freeman-does-anyone-want-peace-2025-12-09.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "freeman"
+      ],
+      "host_slug_before": "judging-freedom",
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=RQmrO_UfRTA",
+      "youtube_id": "RQmrO_UfRTA",
+      "source_sha256": "3C4E12733C204894BB26C3DAE4FE4BEDB13CBB5F2A0B246AD07529B0B2A905ED",
+      "destination_sha256": "3C4E12733C204894BB26C3DAE4FE4BEDB13CBB5F2A0B246AD07529B0B2A905ED"
+    },
+    {
+      "filename": "source-judging-freedom-freeman-trump-and-us-hegemony-2025-12-16.md",
+      "date": "2025-12-16",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-12-16/source-judging-freedom-freeman-trump-and-us-hegemony-2025-12-16.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2025-12-16/source-judging-freedom-freeman-trump-and-us-hegemony-2025-12-16.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "freeman"
+      ],
+      "host_slug_before": "judging-freedom",
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=n05ufH9BHjw",
+      "youtube_id": "n05ufH9BHjw",
+      "source_sha256": "1FC0B9FE8A9A2F947869E9AC44F60DE99D084D4FF5C08721CD689C3DAC2FF518",
+      "destination_sha256": "1FC0B9FE8A9A2F947869E9AC44F60DE99D084D4FF5C08721CD689C3DAC2FF518"
+    },
+    {
+      "filename": "source-judging-freedom-crooke-trumps-plan-is-to-have-no-plan-2026-03-16.md",
+      "date": "2026-03-16",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-16/source-judging-freedom-crooke-trumps-plan-is-to-have-no-plan-2026-03-16.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-03-16/source-judging-freedom-crooke-trumps-plan-is-to-have-no-plan-2026-03-16.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "crooke"
+      ],
+      "host_slug_before": "judging-freedom",
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=MvGS6u-WcvM",
+      "youtube_id": "MvGS6u-WcvM",
+      "source_sha256": "ACDA9227374C52CA43EEC1585C53DF13A11B97D8B81F6DF4E55115C514149945",
+      "destination_sha256": "ACDA9227374C52CA43EEC1585C53DF13A11B97D8B81F6DF4E55115C514149945"
+    },
+    {
+      "filename": "source-judging-freedom-johnson-trumps-trapped-and-doesnt-know-it-2026-03-16.md",
+      "date": "2026-03-16",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-16/source-judging-freedom-johnson-trumps-trapped-and-doesnt-know-it-2026-03-16.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-03-16/source-judging-freedom-johnson-trumps-trapped-and-doesnt-know-it-2026-03-16.md",
+      "disposition": "imported",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug_before": null,
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=Ip-7CuiBIE0",
+      "youtube_id": "Ip-7CuiBIE0",
+      "source_sha256": "15B2D2CA126B82EAD95503681705786DA6583072E61D1DB8B3A979BE08420F69",
+      "destination_sha256": "15B2D2CA126B82EAD95503681705786DA6583072E61D1DB8B3A979BE08420F69"
+    },
+    {
+      "filename": "source-judging-freedom-mcgovern-trumps-war-putins-advantage-2026-03-16.md",
+      "date": "2026-03-16",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-16/source-judging-freedom-mcgovern-trumps-war-putins-advantage-2026-03-16.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-03-16/source-judging-freedom-mcgovern-trumps-war-putins-advantage-2026-03-16.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "mcgovern"
+      ],
+      "host_slug_before": "judging-freedom",
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=PbiY9tyUZ2A",
+      "youtube_id": "PbiY9tyUZ2A",
+      "source_sha256": "135F3124D331685A4C2BF844897A96380F2EE15FB856CB72F2BF6AA2FAB11056",
+      "destination_sha256": "135F3124D331685A4C2BF844897A96380F2EE15FB856CB72F2BF6AA2FAB11056"
+    },
+    {
+      "filename": "source-judging-freedom-parsi-how-washington-underestimated-iran-2026-03-16.md",
+      "date": "2026-03-16",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-16/source-judging-freedom-parsi-how-washington-underestimated-iran-2026-03-16.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-03-16/source-judging-freedom-parsi-how-washington-underestimated-iran-2026-03-16.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "parsi"
+      ],
+      "host_slug_before": "judging-freedom",
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=btfqR-LV7sk",
+      "youtube_id": "btfqR-LV7sk",
+      "source_sha256": "A5255BA133212128190FE5F9325E3DE25CF3BB51468BC1687ED45CC50D1269E0",
+      "destination_sha256": "A5255BA133212128190FE5F9325E3DE25CF3BB51468BC1687ED45CC50D1269E0"
+    },
+    {
+      "filename": "source-judging-freedom-sachs-are-we-drifting-toward-a-global-war-2026-03-16.md",
+      "date": "2026-03-16",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-16/source-judging-freedom-sachs-are-we-drifting-toward-a-global-war-2026-03-16.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-03-16/source-judging-freedom-sachs-are-we-drifting-toward-a-global-war-2026-03-16.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "sachs"
+      ],
+      "host_slug_before": "judging-freedom",
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=1n0Lt1MExlw",
+      "youtube_id": "1n0Lt1MExlw",
+      "source_sha256": "087E8F762213287B9A850446C23009ABA1CD1E0BAE19ACD2729A112C6EAC68A8",
+      "destination_sha256": "087E8F762213287B9A850446C23009ABA1CD1E0BAE19ACD2729A112C6EAC68A8"
+    },
+    {
+      "filename": "source-judging-freedom-freeman-will-china-dump-trump-2026-03-17.md",
+      "date": "2026-03-17",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-17/source-judging-freedom-freeman-will-china-dump-trump-2026-03-17.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-03-17/source-judging-freedom-freeman-will-china-dump-trump-2026-03-17.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "freeman"
+      ],
+      "host_slug_before": "judging-freedom",
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=cmRk47ySaps",
+      "youtube_id": "cmRk47ySaps",
+      "source_sha256": "A1F71730A9432B6C23B153FF37CF61138D46E2D310AC018BDA2E6A71F302E56D",
+      "destination_sha256": "A1F71730A9432B6C23B153FF37CF61138D46E2D310AC018BDA2E6A71F302E56D"
+    },
+    {
+      "filename": "source-judging-freedom-hoh-trump-believes-his-own-propaganda-2026-03-17.md",
+      "date": "2026-03-17",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-17/source-judging-freedom-hoh-trump-believes-his-own-propaganda-2026-03-17.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-03-17/source-judging-freedom-hoh-trump-believes-his-own-propaganda-2026-03-17.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "hoh"
+      ],
+      "host_slug_before": "judging-freedom",
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=OtAj89I_yjw",
+      "youtube_id": "OtAj89I_yjw",
+      "source_sha256": "AD7478051588211E7AB73CF702D44A73550558A2205274837C5B468F437AA8C7",
+      "destination_sha256": "AD7478051588211E7AB73CF702D44A73550558A2205274837C5B468F437AA8C7"
+    },
+    {
+      "filename": "source-judging-freedom-mate-is-kushner-netanyahus-agent-2026-03-17.md",
+      "date": "2026-03-17",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-17/source-judging-freedom-mate-is-kushner-netanyahus-agent-2026-03-17.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-03-17/source-judging-freedom-mate-is-kushner-netanyahus-agent-2026-03-17.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "mate"
+      ],
+      "host_slug_before": "judging-freedom",
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=Uwz0eR4THnc",
+      "youtube_id": "Uwz0eR4THnc",
+      "source_sha256": "E4BDD6C608B9DD788A36F96C94C198A34A44078ED0A0B249CE46EE041B201268",
+      "destination_sha256": "E4BDD6C608B9DD788A36F96C94C198A34A44078ED0A0B249CE46EE041B201268"
+    },
+    {
+      "filename": "source-judging-freedom-ritter-could-us-officials-face-war-crime-charges-2026-03-17.md",
+      "date": "2026-03-17",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-17/source-judging-freedom-ritter-could-us-officials-face-war-crime-charges-2026-03-17.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-03-17/source-judging-freedom-ritter-could-us-officials-face-war-crime-charges-2026-03-17.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug_before": "judging-freedom",
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=-49oaeHDMH4",
+      "youtube_id": "-49oaeHDMH4",
+      "source_sha256": "E746A16E1F155B3DDF3DEC003DCE510CE8E91E1717BBD0469E001320B0AD0D4F",
+      "destination_sha256": "E746A16E1F155B3DDF3DEC003DCE510CE8E91E1717BBD0469E001320B0AD0D4F"
+    },
+    {
+      "filename": "source-trump-hegseth-2026-04-20.md",
+      "date": "2026-04-20",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-20/source-trump-hegseth-2026-04-20.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-04-20/source-trump-hegseth-2026-04-20.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug_before": "judging-freedom",
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=QRkC8xniXkQ",
+      "youtube_id": "QRkC8xniXkQ",
+      "source_sha256": "A39812161A35E460EAEC59CD795E1F5526E40B65D65FB4D4EDA0E3D78CE0DC83",
+      "destination_sha256": "A39812161A35E460EAEC59CD795E1F5526E40B65D65FB4D4EDA0E3D78CE0DC83"
+    },
+    {
+      "filename": "source-judging-freedom-macgregor-pentagon-terrible-war-planning-2026-04-23.md",
+      "date": "2026-04-23",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-23/source-judging-freedom-macgregor-pentagon-terrible-war-planning-2026-04-23.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-04-23/source-judging-freedom-macgregor-pentagon-terrible-war-planning-2026-04-23.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "macgregor"
+      ],
+      "host_slug_before": "judging-freedom",
+      "host_slug_after": "judging-freedom",
+      "source_url": "TBD",
+      "youtube_id": null,
+      "source_sha256": "41846A7560E69C1A59E1C3E1C1EE92FEAADA5DC5D57D667AD9606CC619AC762A",
+      "destination_sha256": "41846A7560E69C1A59E1C3E1C1EE92FEAADA5DC5D57D667AD9606CC619AC762A"
+    },
+    {
+      "filename": "source-wilkerson-judging-freedom-iran-new-friend-2026-04-30.md",
+      "date": "2026-04-30",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-30/source-wilkerson-judging-freedom-iran-new-friend-2026-04-30.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-04-30/source-wilkerson-judging-freedom-iran-new-friend-2026-04-30.md",
+      "disposition": "host_corrected",
+      "voice_slugs": [
+        "wilkerson"
+      ],
+      "host_slug_before": "wilkerson",
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=0SRam9rvSug",
+      "youtube_id": "0SRam9rvSug",
+      "source_sha256": "43DE786501C735C5F9F4EC1B66D1750A16F3C67879DBA4A6996BDDA17879C0DD",
+      "destination_sha256": "43DE786501C735C5F9F4EC1B66D1750A16F3C67879DBA4A6996BDDA17879C0DD"
+    },
+    {
+      "filename": "source-judging-freedom-crooke-israels-war-unraveling-america-2026-05-18.md",
+      "date": "2026-05-18",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-18/source-judging-freedom-crooke-israels-war-unraveling-america-2026-05-18.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-05-18/source-judging-freedom-crooke-israels-war-unraveling-america-2026-05-18.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "crooke"
+      ],
+      "host_slug_before": "judging-freedom",
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=tOfZZaWHyHM",
+      "youtube_id": "tOfZZaWHyHM",
+      "source_sha256": "681428E829B3B0170131C3BCC509C9E43A7C9E1FA919BDCE2028FFC724227435",
+      "destination_sha256": "681428E829B3B0170131C3BCC509C9E43A7C9E1FA919BDCE2028FFC724227435"
+    },
+    {
+      "filename": "source-judging-freedom-johnson-us-getting-ready-for-more-war-2026-05-18.md",
+      "date": "2026-05-18",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-18/source-judging-freedom-johnson-us-getting-ready-for-more-war-2026-05-18.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-05-18/source-judging-freedom-johnson-us-getting-ready-for-more-war-2026-05-18.md",
+      "disposition": "imported",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug_before": null,
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=zpX2t1KWNbo",
+      "youtube_id": "zpX2t1KWNbo",
+      "source_sha256": "BFEB1102834BC80DABACB4AD5585709FDBF7128E7A949B03694CC81C0AA2E071",
+      "destination_sha256": "BFEB1102834BC80DABACB4AD5585709FDBF7128E7A949B03694CC81C0AA2E071"
+    },
+    {
+      "filename": "source-judging-freedom-mcgovern-trumps-trip-a-win-for-china-2026-05-18.md",
+      "date": "2026-05-18",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-18/source-judging-freedom-mcgovern-trumps-trip-a-win-for-china-2026-05-18.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-05-18/source-judging-freedom-mcgovern-trumps-trip-a-win-for-china-2026-05-18.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "mcgovern"
+      ],
+      "host_slug_before": "judging-freedom",
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=z968wCMjRec",
+      "youtube_id": "z968wCMjRec",
+      "source_sha256": "360AEB49B11D28F480C2DC1D6EFD5E8D65AAF42717D5535A2B1EC1E6FFFE5D77",
+      "destination_sha256": "360AEB49B11D28F480C2DC1D6EFD5E8D65AAF42717D5535A2B1EC1E6FFFE5D77"
+    },
+    {
+      "filename": "source-judging-freedom-ritter-the-us-will-never-learn-2026-05-18.md",
+      "date": "2026-05-18",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-18/source-judging-freedom-ritter-the-us-will-never-learn-2026-05-18.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-05-18/source-judging-freedom-ritter-the-us-will-never-learn-2026-05-18.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug_before": "judging-freedom",
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=Y0W2vpjIQoM",
+      "youtube_id": "Y0W2vpjIQoM",
+      "source_sha256": "4F8370F685CB49ADD5D41FFD5D2CC97CC5876C7881B112981037C26BDB1B4240",
+      "destination_sha256": "4F8370F685CB49ADD5D41FFD5D2CC97CC5876C7881B112981037C26BDB1B4240"
+    },
+    {
+      "filename": "source-blumenthal-judging-freedom-us-consumers-paying-for-trump-s-war-2026-05-20.md",
+      "date": "2026-05-20",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-20/source-blumenthal-judging-freedom-us-consumers-paying-for-trump-s-war-2026-05-20.md",
+      "destination_path": "narrative-geopolitics/archive/sources/2026-05-20/source-blumenthal-judging-freedom-us-consumers-paying-for-trump-s-war-2026-05-20.md",
+      "disposition": "existing_exact",
+      "voice_slugs": [
+        "blumenthal"
+      ],
+      "host_slug_before": "judging-freedom",
+      "host_slug_after": "judging-freedom",
+      "source_url": "https://www.youtube.com/watch?v=xJf5IWVpn_M",
+      "youtube_id": "xJf5IWVpn_M",
+      "source_sha256": "34319310EF07FED6818A142A95E0D73D1E9C2C1F8501BF688605978C94B7DB20",
+      "destination_sha256": "34319310EF07FED6818A142A95E0D73D1E9C2C1F8501BF688605978C94B7DB20"
+    }
+  ]
+}

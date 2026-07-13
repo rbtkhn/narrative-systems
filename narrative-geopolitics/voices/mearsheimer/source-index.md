@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `mearsheimer` to th
 
 Source basis: `strategy-codex/statecraft/voices/mearsheimer/mearsheimer-index.md`.
 
-Corpus: 49 local route rows across 49 central archive source files.
+Corpus: 50 local route rows across 50 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -32,6 +32,7 @@ Status: `first-slice-parity`
 | `2025-02-15` | Trump To Force Ukraine Peace on Europe - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2025-02-15/source-diesen-mearsheimer-mercouris-trump-to-force-ukraine-peace-on-europe-2025-02-15.md) |
 | `2025-03-08` | The US Push for Peace & Europe Panics - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-03-08/source-diesen-mearsheimer-mercouris-the-us-push-for-peace-and-europe-panics-2025-03-08.md) |
 | `2025-03-20` | John Mearsheimer \"There'll be NO Meaningfulf CeaseFire\" in Ukraine Russia War | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2025-03-20/source-daniel-davis-john-mearsheimer-therell-be-no-meaningfulf-ceasefire-in-ukraine-russia-war-2025-03-20.md) |
+| `2025-04-14` | Heated US-China Debate: Prof. John Mearsheimer Pulls No Punches | `host-pressure test` | `india-global-left` | [source](../../archive/sources/2025-04-14/source-india-global-left-heated-us-china-debate-john-mearsheimer-2025-04-14.md) |
 | `2025-05-02` | Ukraine is Now Trump's War - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-05-02/source-diesen-mearsheimer-mercouris-ukraine-is-now-trumps-war-2025-05-02.md) |
 | `2025-05-29` | Russia Won the War - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-05-29/source-diesen-mearsheimer-mercouris-russia-won-the-war-2025-05-29.md) |
 | `2025-06-20` | \"Israel Has Walked Off a Cliff\" - John Mearsheimer, Alexander Mercouris & Glenn Diesen | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2025-06-20/source-diesen-mearsheimer-mercouris-israel-has-walked-off-a-cliff-2025-06-20.md) |

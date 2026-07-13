@@ -2,7 +2,7 @@
   "manifest_id": "narrative-geopolitics-source-manifest-v1",
   "source_basis": "central archive with completed historical strategy-codex imports",
   "imported_at": "2026-07-09",
-  "source_count": 1518,
+  "source_count": 1522,
   "boundary": {
     "archive": "source truth",
     "voices": "voice continuity and routing",
@@ -10922,7 +10922,7 @@
       "voice_slugs": [
         "wilkerson"
       ],
-      "host_slug": "wilkerson",
+      "host_slug": "judging-freedom",
       "import_status": "imported"
     },
     {
@@ -21328,6 +21328,62 @@
         "henningsen"
       ],
       "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "Larry Johnson : Trump's Trapped and Doesn't Know It",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-16/source-judging-freedom-johnson-trumps-trapped-and-doesnt-know-it-2026-03-16.md",
+      "voice_index_path": "../../archive/sources/2026-03-16/source-judging-freedom-johnson-trumps-trapped-and-doesnt-know-it-2026-03-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-16/source-judging-freedom-johnson-trumps-trapped-and-doesnt-know-it-2026-03-16.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-18",
+      "title": "Larry Johnson: US Getting Ready for More War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-18/source-judging-freedom-johnson-us-getting-ready-for-more-war-2026-05-18.md",
+      "voice_index_path": "../../archive/sources/2026-05-18/source-judging-freedom-johnson-us-getting-ready-for-more-war-2026-05-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-18/source-judging-freedom-johnson-us-getting-ready-for-more-war-2026-05-18.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-04-14",
+      "title": "Heated US-China Debate: Prof. John Mearsheimer Pulls No Punches",
+      "local_path": "narrative-geopolitics/archive/sources/2025-04-14/source-india-global-left-heated-us-china-debate-john-mearsheimer-2025-04-14.md",
+      "voice_index_path": "../../archive/sources/2025-04-14/source-india-global-left-heated-us-china-debate-john-mearsheimer-2025-04-14.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2025-04-14/source-india-global-left-heated-us-china-debate-john-mearsheimer-2025-04-14.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "india-global-left",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-29",
+      "title": "Is Israel Blocking Trump From Ending the Iran Conflict? | Mohammad Marandi",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-29/source-india-global-left-is-israel-blocking-trump-from-ending-the-iran-conflict-mohammad-marandi-2026-05-29.md",
+      "voice_index_path": "../../archive/sources/2026-05-29/source-india-global-left-is-israel-blocking-trump-from-ending-the-iran-conflict-mohammad-marandi-2026-05-29.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-29/source-india-global-left-is-israel-blocking-trump-from-ending-the-iran-conflict-mohammad-marandi-2026-05-29.md",
+      "source_class": "host-pressure test",
+      "modality": "operator-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "india-global-left",
       "import_status": "imported"
     }
   ]

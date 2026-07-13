@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `johnson` to the ce
 
 Source basis: `narrative-geopolitics/archive/source-manifest.json`.
 
-Corpus: 75 local route rows across 75 central archive source files.
+Corpus: 77 local route rows across 77 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -38,6 +38,7 @@ Status: `first-slice-parity`
 | `2026-03-02` | Pepe Escobar & Larry C. Johnson: US-Israel HIT Tehran, Iran DESTROYS Tel Aviv, Hezbollah NOW Joins | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-03-02/source-dialogue-works-pepe-escobar-larry-c-johnson-us-israel-hit-tehran-iran-destroys-tel-aviv-hezbollah-now-joins-2026-03-02.md) |
 | `2026-03-15` | Larry Johnson: U.S. Attack on Kharg Island Will Destroy the Gulf States | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-03-15/source-glenn-diesen-larry-johnson-u-s-attack-on-kharg-island-will-destroy-the-gulf-states-2026-03-15.md) |
 | `2026-03-16` | Pepe Escobar & Larry C. Johnson: Trump is LOSING Control - Iran WIPES OUT Strategic Military Targets | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-03-16/source-dialogue-works-pepe-escobar-larry-c-johnson-trump-is-losing-control-iran-wipes-out-strategic-military-targets-2026-03-16.md) |
+| `2026-03-16` | Larry Johnson : Trump's Trapped and Doesn't Know It | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-03-16/source-judging-freedom-johnson-trumps-trapped-and-doesnt-know-it-2026-03-16.md) |
 | `2026-03-21` | Larry Johnson: Trump & Netanyahu Seek Exit Ramp in Iran | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-03-21/source-glenn-diesen-larry-johnson-trump-netanyahu-seek-exit-ramp-in-iran-2026-03-21.md) |
 | `2026-03-30` | Larry C. Johnson: FULL ESCALATION: Yemen Joins, Hezbollah Crushes Tanks, US–Iran on Brink | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-03-30/source-dialogue-works-larry-c-johnson-full-escalation-yemen-joins-hezbollah-crushes-tanks-us-iran-on-brink-2026-03-30.md) |
 | `2026-04-06` | Larry C. Johnson: Iran's 'Dead' Defense WIPES OUT US Jets & Black Hawks - Trump Ultimatum FAILS | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-04-06/source-dialogue-works-larry-c-johnson-irans-dead-defense-wipes-out-us-jets-and-black-hawks-2026-04-06.md) |
@@ -60,6 +61,7 @@ Status: `first-slice-parity`
 | `2026-05-11` | Larry Johnson: Netanyahu, Hormuz, China, and Israel's Strategic Failure | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-05-11/source-dialogue-works-johnson-netanyahu-hormuz-china-israel-2026-05-11.md) |
 | `2026-05-16` | Jiang Xueqin's Most Embarrassing Prediction Exposed (Larry Johnson & Nima Alkhorshid Break It Down) | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-05-16/source-dialogue-works-jiang-xueqin-most-embarrassing-prediction-exposed-larry-johnson-nima-alkhorshid-2026-05-16.md) |
 | `2026-05-18` | Larry Johnson: Giant Mushroom Cloud Blasts Over Israeli Defense Company – What We Know | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-05-18/source-dialogue-works-larry-johnson-giant-mushroom-cloud-blasts-over-israeli-defense-company-what-we-know-2026-05-18.md) |
+| `2026-05-18` | Larry Johnson: US Getting Ready for More War | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-05-18/source-judging-freedom-johnson-us-getting-ready-for-more-war-2026-05-18.md) |
 | `2026-05-22` | Larry Johnson: Defeat in the Iran War Will End the U.S. Empire | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-05-22/source-glenn-diesen-larry-johnson-defeat-in-the-iran-war-will-end-the-u-s-empire-2026-05-22.md) |
 | `2026-05-25` | source-dialogue-works-johnson-us-iran-throw-down-over-the-strait-of-hormuz-ticking-time-bomb-2026-05-25 | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-05-25/source-dialogue-works-johnson-us-iran-throw-down-over-the-strait-of-hormuz-ticking-time-bomb-2026-05-25.md) |
 | `2026-05-27` | IRAN: Trump Has No Good Military Options /Fmr CIA Analyst Larry Johnson | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-27/source-daniel-davis-iran-trump-has-no-good-military-options-fmr-cia-analyst-larry-johnson-2026-05-27.md) |
