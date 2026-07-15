@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `marandi` to the ce
 
 Source basis: `strategy-codex/statecraft/voices/marandi/marandi-index.md`.
 
-Corpus: 56 local route rows across 56 central archive source files.
+Corpus: 57 local route rows across 57 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -80,6 +80,7 @@ Status: `first-slice-parity`
 | `2026-07-08` | Prof. S. M. Marandi: Iran War Round 3? US Desperation Setting In | `host-pressure test` | `neutrality-studies` | [source](../../archive/sources/2026-07-08/source-prof-s-m-marandi-iran-war-round-3-us-desperation-setting-in-2026-07-08.md) |
 | `2026-07-09` | Seyed M. Marandi: BREAKING: U.S. Renews Bombing of Iran as MILLIONS Flood Mashhad | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-09/source-seyed-m-marandi-breaking-u-s-renews-bombing-of-iran-as-millions-flood-mashhad-2026-07-09.md) |
 | `2026-07-13` | BREAKING: TRUMP BLOCKS HORMUZ AGAIN /Prof Seyed Marandi Live from Tehran | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-07-13/source-breaking-trump-blocks-hormuz-again-prof-seyed-marandi-live-from-tehran-2026-07-13.md) |
+| `2026-07-14` | Seyed M. Marandi: Iran Launches 30+ Missiles and Drones at Bahrain as Explosions Rock the Gulf | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-14/source-seyed-m-marandi-iran-launches-30-missiles-and-drones-at-bahrain-as-explosions-rock-the-gulf-2026-07-14.md) |
 
 ## Import Boundary
 
