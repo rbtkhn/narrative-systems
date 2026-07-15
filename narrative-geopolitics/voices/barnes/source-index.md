@@ -4,7 +4,7 @@ This index routes the unified local Barnes corpus for `barnes` to the central Na
 
 Source basis: `strategy-codex/statecraft/voices/barnes/barnes-index.md` plus already-local matching archive rows.
 
-Corpus: 25 local route rows across 25 central archive source files.
+Corpus: 27 local route rows across 27 central archive source files.
 
 Status: `imported-corpus`
 
@@ -23,9 +23,9 @@ Status: `imported-corpus`
 | `2026-02-16` | Robert Barnes on Pam Bondi, Epstein, and Iran | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-02-16/source-daniel-davis-robert-barnes-pam-bondi-epstein-iran-2026-02-16.md) |
 | `2026-03-04` | Open-ended Iran War (Live) with Matthew Ehret & Robert Barnes | `cross-voice panel` | `the-duran` | [source](../../archive/sources/2026-03-04/source-duran-mercouris-barnes-open-ended-iran-war-2026-03-04.md) |
 | `2026-04-03` | Robert Barnes on war crimes, Iran, and Hormuz | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-03/source-daniel-davis-robert-barnes-war-crimes-hormuz-2026-04-03.md) |
-| `2026-04-17` | source-barnes-2026-04-17 | `post` | `barnes` | [source](../../archive/sources/2026-04-17/source-barnes-2026-04-17.md) |
-| `2026-04-18` | source-barnes-2026-04-18 | `post` | `barnes` | [source](../../archive/sources/2026-04-18/source-barnes-2026-04-18.md) |
-| `2026-04-21` | Robert Barnes (@barnes_law) — QT Joe Kent — exit ramp vs escalation ramp (2026-04-21) | `solo` | `barnes` | [source](../../archive/sources/2026-04-21/source-barnes-kent-exit-ramp-qt-2026-04-21.md) |
+| `2026-04-17` | source-barnes-2026-04-17 | `post` | `none` | [source](../../archive/sources/2026-04-17/source-barnes-2026-04-17.md) |
+| `2026-04-18` | source-barnes-2026-04-18 | `post` | `none` | [source](../../archive/sources/2026-04-18/source-barnes-2026-04-18.md) |
+| `2026-04-21` | Robert Barnes (@barnes_law) — QT Joe Kent — exit ramp vs escalation ramp (2026-04-21) | `solo` | `none` | [source](../../archive/sources/2026-04-21/source-barnes-kent-exit-ramp-qt-2026-04-21.md) |
 | `2026-04-23` | Fractured Iran or fractured Trump? w/ Robert Barnes (Live) | `cross-voice panel` | `the-duran` | [source](../../archive/sources/2026-04-23/source-duran-mercouris-barnes-fractured-iran-trump-2026-04-23.md) |
 | `2026-04-24` | Robert Barnes on Iran, market manipulation, and behavioral decline | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-24/source-daniel-davis-robert-barnes-iran-rug-pull-behavioral-dementia-2026-04-24.md) |
 | `2026-05-12` | Iran War Plans on the Table/ Robert Barnes & Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-12/source-daniel-davis-iran-war-plans-on-the-table-robert-barnes-and-lt-col-daniel-davis-2026-05-12.md) |
@@ -44,8 +44,9 @@ Status: `imported-corpus`
 | `2026-06-26` | Robert Barnes: Iran Drones Attack Ship WITHOUT State Approval! | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-26/source-dialogue-works-robert-barnes-iran-drones-ship-without-state-approval-2026-06-26.md) |
 | `2026-07-07` | Robert Barnes: U.S. Just REVOKED Iran Waivers - We Heading to War | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-07/source-dialogue-works-robert-barnes-u-s-just-revoked-iran-waivers-we-heading-to-war-2026-07-07.md) |
 | `2026-07-08` | BREAKING: U.S. BOMBING IRAN NOW - w/ Robert Barnes | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-07-08/source-breaking-u-s-bombing-iran-now-w-robert-barnes-2026-07-08.md) |
+| `2026-07-13` | Robert Barnes: Yemen Strikes Saudi Airport and Air Base After Sana'a Bombing | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-13/source-robert-barnes-yemen-strikes-saudi-airport-and-air-base-after-sana-a-bombing-2026-07-13.md) |
+| `2026-07-14` | LINDSAY GRAHAM DEAD, IRAN PLANNED TO KILL TRUMP, MAGA DESTROYED - w/ Robert Barnes | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-07-14/source-lindsay-graham-dead-iran-planned-to-kill-trump-maga-destroyed-w-robert-barnes-2026-07-14.md) |
 
 ## Import Boundary
 
 This import followed the strategy-codex Barnes index and copied source captures into `archive/sources/YYYY-MM-DD/` while preserving already-local matching archive rows.
-

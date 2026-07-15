@@ -4,7 +4,7 @@ This index routes the unified local Helmer corpus for `helmer` to the central Na
 
 Source basis: `strategy-codex/statecraft/voices/helmer/helmer-index.md`.
 
-Corpus: 18 local route rows across 18 central archive source files.
+Corpus: 19 local route rows across 19 central archive source files.
 
 Status: `imported-corpus`
 
@@ -37,6 +37,7 @@ Status: `imported-corpus`
 | `2026-06-25` | Trump's Goal Remains the Same: Destroy Russia and Iran w/ John Helmer | `host-pressure test` | `reason-resist` | [source](../../archive/sources/2026-06-25/source-lascaris-helmer-trump-goal-destroy-russia-iran-2026-06-25.md) |
 | `2026-06-30` | John Helmer: Russia on the Verge of Major Escalation — Europe Braces for Retaliation | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-30/source-dialogue-works-helmer-russia-verge-major-escalation-europe-braces-retaliation-2026-06-30.md) |
 | `2026-07-07` | John Helmer: Trump Signs NATO Escalation! Putin's DEMILITARIZATION Order (To Poland!) | `guest interview pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-07/source-dialogue-works-john-helmer-trump-signs-nato-escalation-putins-demilitarization-order-to-poland-2026-07-07.md) |
+| `2026-07-14` | John Helmer: Russia and Iran Double Down as the West Enters a Prolonged Confrontation | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-14/source-john-helmer-russia-and-iran-double-down-as-the-west-enters-a-prolonged-confrontation-2026-07-14.md) |
 
 ## Import Boundary
 

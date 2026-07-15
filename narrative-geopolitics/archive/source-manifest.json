@@ -2,7 +2,7 @@
   "manifest_id": "narrative-geopolitics-source-manifest-v1",
   "source_basis": "central archive with completed historical strategy-codex imports",
   "imported_at": "2026-07-09",
-  "source_count": 1532,
+  "source_count": 1562,
   "boundary": {
     "archive": "source truth",
     "voices": "voice continuity and routing",
@@ -12366,7 +12366,7 @@
       "voice_slugs": [
         "barnes"
       ],
-      "host_slug": "barnes",
+      "host_slug": null,
       "import_status": "imported"
     },
     {
@@ -12380,7 +12380,7 @@
       "voice_slugs": [
         "barnes"
       ],
-      "host_slug": "barnes",
+      "host_slug": null,
       "import_status": "imported"
     },
     {
@@ -12394,7 +12394,7 @@
       "voice_slugs": [
         "barnes"
       ],
-      "host_slug": "barnes",
+      "host_slug": null,
       "import_status": "imported"
     },
     {
@@ -14247,7 +14247,7 @@
       "voice_slugs": [
         "pape"
       ],
-      "host_slug": "pape",
+      "host_slug": null,
       "import_status": "imported"
     },
     {
@@ -14261,7 +14261,7 @@
       "voice_slugs": [
         "pape"
       ],
-      "host_slug": "pape",
+      "host_slug": null,
       "import_status": "imported"
     },
     {
@@ -14317,7 +14317,7 @@
       "voice_slugs": [
         "parsi"
       ],
-      "host_slug": "trita-parsi",
+      "host_slug": null,
       "import_status": "imported"
     },
     {
@@ -14331,7 +14331,7 @@
       "voice_slugs": [
         "parsi"
       ],
-      "host_slug": "trita-parsi",
+      "host_slug": null,
       "import_status": "imported"
     },
     {
@@ -14345,7 +14345,7 @@
       "voice_slugs": [
         "parsi"
       ],
-      "host_slug": "trita-parsi",
+      "host_slug": null,
       "import_status": "imported"
     },
     {
@@ -21408,7 +21408,9 @@
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-14/source-larry-johnson-mario-nawfal-trump-xi-offered-to-help-open-strait-of-hormuz-w-ex-cia-larry-johnson-2026-05-14.md",
       "source_class": "host-pressure test",
       "modality": "transcript",
-      "voice_slugs": ["johnson"],
+      "voice_slugs": [
+        "johnson"
+      ],
       "host_slug": "mario-nawfal",
       "import_status": "imported"
     },
@@ -21420,7 +21422,9 @@
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-15/source-mario-nawfal-trump-stuck-in-a-war-he-doesnt-want-to-continue-w-ex-head-of-counter-terrorism-joe-kent-2026-05-15.md",
       "source_class": "host-pressure test",
       "modality": "transcript",
-      "voice_slugs": ["kent"],
+      "voice_slugs": [
+        "kent"
+      ],
       "host_slug": "mario-nawfal",
       "import_status": "imported"
     },
@@ -21432,7 +21436,9 @@
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-28/source-mario-nawfal-kent-trumps-life-is-under-threat-2026-05-28.md",
       "source_class": "host-pressure test",
       "modality": "transcript",
-      "voice_slugs": ["kent"],
+      "voice_slugs": [
+        "kent"
+      ],
       "host_slug": "mario-nawfal",
       "import_status": "imported"
     },
@@ -21444,7 +21450,9 @@
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-29/source-mario-nawfal-larry-johnson-breaking-us-declares-military-operations-in-hormuz-2026-05-29.md",
       "source_class": "host-pressure test",
       "modality": "transcript",
-      "voice_slugs": ["johnson"],
+      "voice_slugs": [
+        "johnson"
+      ],
       "host_slug": "mario-nawfal",
       "import_status": "imported"
     },
@@ -21456,7 +21464,9 @@
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-30/source-mario-nawfal-larry-johnson-iran-ceasefire-on-edge-w-fmr-cia-larry-johnson-2026-05-30.md",
       "source_class": "host-pressure test",
       "modality": "transcript",
-      "voice_slugs": ["johnson"],
+      "voice_slugs": [
+        "johnson"
+      ],
       "host_slug": "mario-nawfal",
       "import_status": "imported"
     },
@@ -21468,7 +21478,9 @@
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-31/source-mario-nawfal-larry-johnson-israel-asks-trump-to-escalate-2026-05-31.md",
       "source_class": "host-pressure test",
       "modality": "cleaned-transcript",
-      "voice_slugs": ["johnson"],
+      "voice_slugs": [
+        "johnson"
+      ],
       "host_slug": "mario-nawfal",
       "import_status": "imported"
     },
@@ -21480,7 +21492,9 @@
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-06/source-mario-nawfal-polyanskiy-the-decision-in-europe-has-already-been-made-2026-06-06.md",
       "source_class": "host-pressure test",
       "modality": "cleaned-transcript",
-      "voice_slugs": ["polyanskiy"],
+      "voice_slugs": [
+        "polyanskiy"
+      ],
       "host_slug": "mario-nawfal",
       "import_status": "imported"
     },
@@ -21492,7 +21506,9 @@
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-10/source-mario-nawfal-kent-breaking-us-israeli-attack-likely-tonight-2026-06-10.md",
       "source_class": "host-pressure test",
       "modality": "cleaned-transcript",
-      "voice_slugs": ["kent"],
+      "voice_slugs": [
+        "kent"
+      ],
       "host_slug": "mario-nawfal",
       "import_status": "imported"
     },
@@ -21504,8 +21520,430 @@
       "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-16/source-mario-nawfal-kent-tucker-trump-stopped-butler-investigation-mou-2026-06-16.md",
       "source_class": "host-pressure test",
       "modality": "cleaned-transcript",
-      "voice_slugs": ["kent"],
+      "voice_slugs": [
+        "kent"
+      ],
       "host_slug": "mario-nawfal",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-18",
+      "title": "The War On Iran Is Far From Over w/ Patrick Henningsen",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-18/source-lascaris-henningsen-war-on-iran-far-from-over-2026-06-18.md",
+      "voice_index_path": "../../archive/sources/2026-06-18/source-lascaris-henningsen-war-on-iran-far-from-over-2026-06-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-18/source-lascaris-henningsen-war-on-iran-far-from-over-2026-06-18.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "henningsen"
+      ],
+      "host_slug": "reason-resist",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "Russia Prepares New Big Kiev Strike; China Stops Helium Exports; US Plans More Anti Russia Sanctions",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-11/source-russia-prepares-new-big-kiev-strike-china-stops-helium-exports-us-plans-more-anti-russia-sanctions-2026-07-11.md",
+      "voice_index_path": "../../archive/sources/2026-07-11/source-russia-prepares-new-big-kiev-strike-china-stops-helium-exports-us-plans-more-anti-russia-sanctions-2026-07-11.md",
+      "upstream_path": "operator-paste://2026-07-14/russia-prepares-new-big-kiev-strike-china-stops-helium-exports-us-plans-more-anti-russia-sanctions",
+      "source_class": "transcript",
+      "modality": "video",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "Putin Says Bigger Russia Strikes To Hammer Kiev Hints At Oreshnik Use; Zelensky Says Kiev Out Of AD",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-13/source-putin-says-bigger-russia-strikes-to-hammer-kiev-hints-at-oreshnik-use-zelensky-says-kiev-out-of-ad-2026-07-13.md",
+      "voice_index_path": "../../archive/sources/2026-07-13/source-putin-says-bigger-russia-strikes-to-hammer-kiev-hints-at-oreshnik-use-zelensky-says-kiev-out-of-ad-2026-07-13.md",
+      "upstream_path": "operator-paste://2026-07-14/putin-says-bigger-russia-strikes-to-hammer-kiev-hints-at-oreshnik-use-zelensky-says-kiev-out-of-ad",
+      "source_class": "transcript",
+      "modality": "video",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "BREAKING: TRUMP REINSTATES IRANIAN BLOCKADE, SAYS HORMUZ OPEN- w/ Geopolitical Analyst Robert Pape",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-13/source-breaking-trump-reinstates-iranian-blockade-says-hormuz-open-w-geopolitical-analyst-robert-pape-2026-07-13.md",
+      "voice_index_path": "../../archive/sources/2026-07-13/source-breaking-trump-reinstates-iranian-blockade-says-hormuz-open-w-geopolitical-analyst-robert-pape-2026-07-13.md",
+      "upstream_path": "operator-paste://2026-07-14/breaking-trump-reinstates-iranian-blockade-says-hormuz-open-w-geopolitical-analyst-robert-pape",
+      "source_class": "transcript",
+      "modality": "video",
+      "voice_slugs": [
+        "pape"
+      ],
+      "host_slug": "mario-nawfal",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "BREAKING: TRUMP BLOCKS HORMUZ AGAIN /Prof Seyed Marandi Live from Tehran",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-13/source-breaking-trump-blocks-hormuz-again-prof-seyed-marandi-live-from-tehran-2026-07-13.md",
+      "voice_index_path": "../../archive/sources/2026-07-13/source-breaking-trump-blocks-hormuz-again-prof-seyed-marandi-live-from-tehran-2026-07-13.md",
+      "upstream_path": "operator-paste://2026-07-14/breaking-trump-blocks-hormuz-again-prof-seyed-marandi-live-from-tehran",
+      "source_class": "transcript",
+      "modality": "video",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "mario-nawfal",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "Col. Jacques Baud: U.S. Strikes Iran's Nuclear Plant Ã¢â‚¬â€ Iran Unleashes Massive Gulf Retaliation",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-13/source-col-jacques-baud-u-s-strikes-iran-s-nuclear-plant-iran-unleashes-massive-gulf-retaliation-2026-07-13.md",
+      "voice_index_path": "../../archive/sources/2026-07-13/source-col-jacques-baud-u-s-strikes-iran-s-nuclear-plant-iran-unleashes-massive-gulf-retaliation-2026-07-13.md",
+      "upstream_path": "operator-paste://2026-07-14/col-jacques-baud-u-s-strikes-iran-s-nuclear-plant-iran-unleashes-massive-gulf-retaliation",
+      "source_class": "transcript",
+      "modality": "video",
+      "voice_slugs": [
+        "baud"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "BREAKING: U.S. HEAVILY BOMBING IRAN NOW â€“ w/ Geopolitical Analyst Brandon Weichert",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-12/source-breaking-u-s-heavily-bombing-iran-now-w-geopolitical-analyst-brandon-weichert-2026-07-12.md",
+      "voice_index_path": "../../archive/sources/2026-07-12/source-breaking-u-s-heavily-bombing-iran-now-w-geopolitical-analyst-brandon-weichert-2026-07-12.md",
+      "upstream_path": "operator-paste://2026-07-14/breaking-u-s-heavily-bombing-iran-now-w-geopolitical-analyst-brandon-weichert",
+      "source_class": "transcript",
+      "modality": "video",
+      "voice_slugs": [
+        "weichert"
+      ],
+      "host_slug": "mario-nawfal",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "ðŸ”´ LIVE: Scott Ritter - Russia Ukraine Now Enters the Most Dangerous Phase!",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-12/source-live-scott-ritter-russia-ukraine-now-enters-the-most-dangerous-phase-2026-07-12.md",
+      "voice_index_path": "../../archive/sources/2026-07-12/source-live-scott-ritter-russia-ukraine-now-enters-the-most-dangerous-phase-2026-07-12.md",
+      "upstream_path": "operator-paste://2026-07-14/live-scott-ritter-russia-ukraine-now-enters-the-most-dangerous-phase",
+      "source_class": "transcript",
+      "modality": "video",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "cyrus-janssen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "Putin's Hopes for a Trump Security Deal Fade",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-12/source-putin-s-hopes-for-a-trump-security-deal-fade-2026-07-12.md",
+      "voice_index_path": "../../archive/sources/2026-07-12/source-putin-s-hopes-for-a-trump-security-deal-fade-2026-07-12.md",
+      "upstream_path": "operator-paste://2026-07-14/putin-s-hopes-for-a-trump-security-deal-fade",
+      "source_class": "transcript",
+      "modality": "video",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "the-duran",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "BREAKING: IRAN STRIKING JORDAN & BAHRAIN RIGHT NOW, SAUDI ATTACK YEMEN, w/ Col Anthony Aguilar",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-13/source-breaking-iran-striking-jordan-bahrain-right-now-saudi-attack-yemen-w-col-anthony-aguilar-2026-07-13.md",
+      "voice_index_path": "../../archive/sources/2026-07-13/source-breaking-iran-striking-jordan-bahrain-right-now-saudi-attack-yemen-w-col-anthony-aguilar-2026-07-13.md",
+      "upstream_path": "operator-paste://2026-07-14/breaking-iran-striking-jordan-bahrain-right-now-saudi-attack-yemen-w-col-anthony-aguilar",
+      "source_class": "transcript",
+      "modality": "video",
+      "voice_slugs": [
+        "aguilar"
+      ],
+      "host_slug": "moral-resistance",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-01",
+      "title": "Iran Defiant After Khamenei Death; Picks New Leaders, Closes Hormuz, Continues Strikes; Russia Backs Iran",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-01/source-khamenei-strike-hormuz-russia-2026-03-01.md",
+      "voice_index_path": "../../archive/sources/2026-03-01/source-khamenei-strike-hormuz-russia-2026-03-01.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-01/source-khamenei-strike-hormuz-russia-2026-03-01.md",
+      "source_class": "transcript",
+      "modality": "video",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "the-duran",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-05",
+      "title": "Iran Destroys Multiple US Aircraft; US Rescues F-15 Pilot; US Readies Huge Bombing; US Abandons Kiev",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-05/source-f15-rescue-hormuz-nato-kiev-2026-04-05.md",
+      "voice_index_path": "../../archive/sources/2026-04-05/source-f15-rescue-hormuz-nato-kiev-2026-04-05.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-05/source-f15-rescue-hormuz-nato-kiev-2026-04-05.md",
+      "source_class": "transcript",
+      "modality": "video",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "the-duran",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-07",
+      "title": "US Prepares Huge Iran Strike; Russian Spy Satellite Data Helps Iran; Kiev Fears Big Oreshnik Strike",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-07/source-hormuz-deadline-satellites-oreshnik-2026-04-07.md",
+      "voice_index_path": "../../archive/sources/2026-04-07/source-hormuz-deadline-satellites-oreshnik-2026-04-07.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-07/source-hormuz-deadline-satellites-oreshnik-2026-04-07.md",
+      "source_class": "transcript",
+      "modality": "video",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "the-duran",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-20",
+      "title": "Russia Says US Blockade Failing; 40 Iran Ships Transit Hormuz; US Mulls Retreat; Kiev Army Dwindles",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-20/source-russia-blockade-40-ships-hormuz-2026-04-20.md",
+      "voice_index_path": "../../archive/sources/2026-04-20/source-russia-blockade-40-ships-hormuz-2026-04-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-20/source-russia-blockade-40-ships-hormuz-2026-04-20.md",
+      "source_class": "transcript",
+      "modality": "video",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "the-duran",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "Larry Johnson: U.S. Attacks Iran NOW | Iran Hits Back as Hormuz Turns Into a Firing Hell",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-13/source-larry-johnson-u-s-attacks-iran-now-iran-hits-back-as-hormuz-turns-into-a-firing-hell-2026-07-13.md",
+      "voice_index_path": "../../archive/sources/2026-07-13/source-larry-johnson-u-s-attacks-iran-now-iran-hits-back-as-hormuz-turns-into-a-firing-hell-2026-07-13.md",
+      "upstream_path": "operator-paste://2026-07-13/larry-johnson-u-s-attacks-iran-now-iran-hits-back-as-hormuz-turns-into-a-firing-hell",
+      "source_class": "transcript",
+      "modality": "video",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "Robert Barnes: Yemen Strikes Saudi Airport and Air Base After Sana'a Bombing",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-13/source-robert-barnes-yemen-strikes-saudi-airport-and-air-base-after-sana-a-bombing-2026-07-13.md",
+      "voice_index_path": "../../archive/sources/2026-07-13/source-robert-barnes-yemen-strikes-saudi-airport-and-air-base-after-sana-a-bombing-2026-07-13.md",
+      "upstream_path": "operator-paste://2026-07-13/robert-barnes-yemen-strikes-saudi-airport-and-air-base-after-sana-a-bombing",
+      "source_class": "transcript",
+      "modality": "video",
+      "voice_slugs": [
+        "barnes"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "Chas Freeman: All-Out War With Iran & Dark Future for Israel",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-13/source-chas-freeman-all-out-war-with-iran-dark-future-for-israel-2026-07-13.md",
+      "voice_index_path": "../../archive/sources/2026-07-13/source-chas-freeman-all-out-war-with-iran-dark-future-for-israel-2026-07-13.md",
+      "upstream_path": "operator-paste://2026-07-13/chas-freeman-all-out-war-with-iran-dark-future-for-israel",
+      "source_class": "transcript",
+      "modality": "video",
+      "voice_slugs": [
+        "freeman"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "\\\"What was it all for?\\\" Joe Kent on Iran Peace Deal and Israel's sabotage",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-16/source-redacted-kent-iran-peace-deal-israel-sabotage-2026-06-16.md",
+      "voice_index_path": "../../archive/sources/2026-06-16/source-redacted-kent-iran-peace-deal-israel-sabotage-2026-06-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-16/source-redacted-kent-iran-peace-deal-israel-sabotage-2026-06-16.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "kent"
+      ],
+      "host_slug": "redacted-news",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-20",
+      "title": "Drone Escalation: Russia Will Strike NATO | Stas Krapivnik",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-20/source-neutrality-studies-drone-escalation-russia-will-strike-nato-stanislav-krapivnik-2026-06-20.md",
+      "voice_index_path": "../../archive/sources/2026-06-20/source-neutrality-studies-drone-escalation-russia-will-strike-nato-stanislav-krapivnik-2026-06-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-20/source-neutrality-studies-drone-escalation-russia-will-strike-nato-stanislav-krapivnik-2026-06-20.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "krapivnik"
+      ],
+      "host_slug": "neutrality-studies",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "Iran Negotiation DESASTER & Russia in Full War Mode | Larry C. Johnson",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-22/source-neutrality-studies-larry-johnson-iran-negotiation-disaster-russia-full-war-mode-2026-06-22.md",
+      "voice_index_path": "../../archive/sources/2026-06-22/source-neutrality-studies-larry-johnson-iran-negotiation-disaster-russia-full-war-mode-2026-06-22.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-22/source-neutrality-studies-larry-johnson-iran-negotiation-disaster-russia-full-war-mode-2026-06-22.md",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "neutrality-studies",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "Why Is Trump Escalating When Everyone Says He Won't?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-13/source-why-is-trump-escalating-when-everyone-says-he-won-t-2026-07-13.md",
+      "voice_index_path": "../../archive/sources/2026-07-13/source-why-is-trump-escalating-when-everyone-says-he-won-t-2026-07-13.md",
+      "upstream_path": "operator-paste://2026-07-14/why-is-trump-escalating-when-everyone-says-he-won-t",
+      "source_class": "authored forecast mechanism",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "pape"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "A new U.S.-Iran war would end where the last one did",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-13/source-a-new-u-s-iran-war-would-end-where-the-last-one-did-2026-07-13.md",
+      "voice_index_path": "../../archive/sources/2026-07-13/source-a-new-u-s-iran-war-would-end-where-the-last-one-did-2026-07-13.md",
+      "upstream_path": "operator-paste://2026-07-13/a-new-u-s-iran-war-would-end-where-the-last-one-did",
+      "source_class": "authored forecast mechanism",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "parsi"
+      ],
+      "host_slug": null,
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Zelensky Panics Orders Big Kiev Reshuffle Flees To Paris Begs UK/EU Aid; Russia Hammers Odessa; Iran",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-14/source-zelensky-panics-orders-big-kiev-reshuffle-flees-to-paris-begs-uk-eu-aid-russia-hammers-odessa-iran-2026-07-14.md",
+      "voice_index_path": "../../archive/sources/2026-07-14/source-zelensky-panics-orders-big-kiev-reshuffle-flees-to-paris-begs-uk-eu-aid-russia-hammers-odessa-iran-2026-07-14.md",
+      "upstream_path": "operator-paste://2026-07-14/zelensky-panics-orders-big-kiev-reshuffle-flees-to-paris-begs-uk-eu-aid-russia-hammers-odessa-iran",
+      "source_class": "transcript",
+      "modality": "video",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Larry Johnson: 50,000+ U.S. Troops Deployed as Iran Pounds American Bases Across the Gulf",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-14/source-larry-johnson-50-000-u-s-troops-deployed-as-iran-pounds-american-bases-across-the-gulf-2026-07-14.md",
+      "voice_index_path": "../../archive/sources/2026-07-14/source-larry-johnson-50-000-u-s-troops-deployed-as-iran-pounds-american-bases-across-the-gulf-2026-07-14.md",
+      "upstream_path": "operator-paste://2026-07-14/larry-johnson-50-000-u-s-troops-deployed-as-iran-pounds-american-bases-across-the-gulf",
+      "source_class": "guest interview pressure test",
+      "modality": "video",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "John Helmer: Russia and Iran Double Down as the West Enters a Prolonged Confrontation",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-14/source-john-helmer-russia-and-iran-double-down-as-the-west-enters-a-prolonged-confrontation-2026-07-14.md",
+      "voice_index_path": "../../archive/sources/2026-07-14/source-john-helmer-russia-and-iran-double-down-as-the-west-enters-a-prolonged-confrontation-2026-07-14.md",
+      "upstream_path": "operator-paste://2026-07-14/john-helmer-russia-and-iran-double-down-as-the-west-enters-a-prolonged-confrontation",
+      "source_class": "guest interview pressure test",
+      "modality": "video",
+      "voice_slugs": [
+        "helmer"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "LINDSAY GRAHAM DEAD, IRAN PLANNED TO KILL TRUMP, MAGA DESTROYED - w/ Robert Barnes",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-14/source-lindsay-graham-dead-iran-planned-to-kill-trump-maga-destroyed-w-robert-barnes-2026-07-14.md",
+      "voice_index_path": "../../archive/sources/2026-07-14/source-lindsay-graham-dead-iran-planned-to-kill-trump-maga-destroyed-w-robert-barnes-2026-07-14.md",
+      "upstream_path": "operator-paste://2026-07-14/lindsay-graham-dead-iran-planned-to-kill-trump-maga-destroyed-w-robert-barnes",
+      "source_class": "host-pressure test",
+      "modality": "video",
+      "voice_slugs": [
+        "barnes"
+      ],
+      "host_slug": "mario-nawfal",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Third Straight Night US Attacks Iran / Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-14/source-third-straight-night-us-attacks-iran-lt-col-daniel-davis-2026-07-14.md",
+      "voice_index_path": "../../archive/sources/2026-07-14/source-third-straight-night-us-attacks-iran-lt-col-daniel-davis-2026-07-14.md",
+      "upstream_path": "operator-paste://2026-07-14/third-straight-night-us-attacks-iran-lt-col-daniel-davis",
+      "source_class": "stream-sequence spine",
+      "modality": "video",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Col. Larry Wilkerson: Full-Scale U.S.-Iran War Erupts, Every Front Now Active",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-14/source-col-larry-wilkerson-full-scale-u-s-iran-war-erupts-every-front-now-active-2026-07-14.md",
+      "voice_index_path": "../../archive/sources/2026-07-14/source-col-larry-wilkerson-full-scale-u-s-iran-war-erupts-every-front-now-active-2026-07-14.md",
+      "upstream_path": "operator-paste://2026-07-14/col-larry-wilkerson-full-scale-u-s-iran-war-erupts-every-front-now-active",
+      "source_class": "host-pressure test",
+      "modality": "video",
+      "voice_slugs": [
+        "wilkerson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "IRAN WAR REPERCUSSIONS, THE US WILL BE BLAMED /The Duran's Alexander Mercouris",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-14/source-iran-war-repercussions-the-us-will-be-blamed-the-duran-s-alexander-mercouris-2026-07-14.md",
+      "voice_index_path": "../../archive/sources/2026-07-14/source-iran-war-repercussions-the-us-will-be-blamed-the-duran-s-alexander-mercouris-2026-07-14.md",
+      "upstream_path": "operator-paste://2026-07-14/iran-war-repercussions-the-us-will-be-blamed-the-duran-s-alexander-mercouris",
+      "source_class": "cross-host pressure test",
+      "modality": "video",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Pepe Escobar: Yemen Joins the War, and the Entire Middle East Could Go Up in Flames",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-14/source-pepe-escobar-yemen-joins-the-war-and-the-entire-middle-east-could-go-up-in-flames-2026-07-14.md",
+      "voice_index_path": "../../archive/sources/2026-07-14/source-pepe-escobar-yemen-joins-the-war-and-the-entire-middle-east-could-go-up-in-flames-2026-07-14.md",
+      "upstream_path": "operator-paste://2026-07-14/pepe-escobar-yemen-joins-the-war-and-the-entire-middle-east-could-go-up-in-flames",
+      "source_class": "cross-host pressure test",
+      "modality": "video",
+      "voice_slugs": [
+        "escobar"
+      ],
+      "host_slug": "glenn-diesen",
       "import_status": "imported"
     }
   ]

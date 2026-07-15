@@ -11,7 +11,7 @@ Status: `transcript-bearing-upstream-parity`
 | Host people | Lt. Col. Daniel Davis |
 | Source basis | [../../archive/source-manifest.json](../../archive/source-manifest.json) |
 | Shelf status | `transcript-bearing-upstream-parity` |
-| Manifest-backed host rows | 203 |
+| Manifest-backed host rows | 205 |
 | Upstream channel-index audit | 236 links; 233 unique files; 143 transcript-bearing sources |
 
 ## Channel Role
@@ -20,7 +20,7 @@ Feasibility and settlement-room pressure; tests guests against military practica
 
 ## Corpus Boundary
 
-The manifest is the exhaustive local authority for the 203 sources routed through `host_slug: daniel-davis`. This shelf remains a selective conditioning surface and does not duplicate every host route into a second manually maintained index.
+The manifest is the exhaustive local authority for the 205 sources routed through `host_slug: daniel-davis`. This shelf remains a selective conditioning surface and does not duplicate every host route into a second manually maintained index.
 
 The bounded upstream channel migration reached transcript-bearing parity across 143 substantive captures: 72 sources were imported and 71 already existed. It excluded 79 metadata stubs, one derived transcript-notes summary, one notebook routing surface, and nine generated helper files. Three repeated link occurrences in the upstream index were recorded without duplicating sources.
 
@@ -44,6 +44,8 @@ Davis's solo and self-analysis programs belong to `voice_slugs: [davis]` as auth
 | `2026-05-13` | mearsheimer | [Prof John Mearsheimer TRUMP WILL BE FORCED TO CUT A DEAL w/IRAN](../../archive/sources/2026-05-13/source-daniel-davis-prof-john-mearsheimer-trump-will-be-forced-to-cut-a-deal-w-iran-2026-05-13.md) |
 | `2026-05-27` | mercouris | [Ukraine Russia War Expansion /The Duran's Alexander Mercouris & Lt Col Daniel Dav...](../../archive/sources/2026-05-27/source-daniel-davis-ukraine-russia-war-expansion-the-duran-s-alexander-mercouris-lt-col-daniel-davis-2026-05-27.md) |
 | `2026-05-28` | mearsheimer | [Prof John Mearsheimer: IRAN CEASEFIRE HANGS by a THREAD](../../archive/sources/2026-05-28/source-daniel-davis-mearsheimer-iran-ceasefire-hangs-by-a-thread-2026-05-28.md) |
+| `2026-07-14` | davis | [Third Straight Night US Attacks Iran / Lt Col Daniel Davis](../../archive/sources/2026-07-14/source-third-straight-night-us-attacks-iran-lt-col-daniel-davis-2026-07-14.md) |
+| `2026-07-14` | mercouris | [IRAN WAR REPERCUSSIONS, THE US WILL BE BLAMED /The Duran's Alexander Mercouris](../../archive/sources/2026-07-14/source-iran-war-repercussions-the-us-will-be-blamed-the-duran-s-alexander-mercouris-2026-07-14.md) |
 
 ## Host-Conditioning Notes
 

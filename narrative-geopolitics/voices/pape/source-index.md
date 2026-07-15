@@ -4,7 +4,7 @@ This index routes Robert Pape voice work to the central Narrative Geopolitics so
 
 Source basis: `strategy-codex/statecraft/voices/pape/pape-index.md`.
 
-Corpus: 60 authored sources, 17 guest appearances, 77 total imported sources.
+Corpus: 61 authored sources, 18 guest appearances, 79 total imported sources.
 
 ## Reading Rule
 
@@ -113,3 +113,5 @@ Corpus: 60 authored sources, 17 guest appearances, 77 total imported sources.
 
 - [2026-07-06 — The Gathering Storm: Iran's Funeral and the Coming August Shock](../../archive/sources/2026-07-06/source-the-gathering-storm-iran-s-funeral-and-the-coming-august-shock-2026-07-06.md) — **authored** · substack-post
 - [2026-07-08 — Situation Report - Special Edition](../../archive/sources/2026-07-08/source-situation-report-special-edition-2026-07-08.md) — **authored** · substack-post
+- [2026-07-13 — BREAKING: TRUMP REINSTATES IRANIAN BLOCKADE, SAYS HORMUZ OPEN- w/ Geopolitical Analyst Robert Pape](../../archive/sources/2026-07-13/source-breaking-trump-reinstates-iranian-blockade-says-hormuz-open-w-geopolitical-analyst-robert-pape-2026-07-13.md) — **guest** · cleaned-transcript · host: `mario-nawfal`
+- [2026-07-13 — Why Is Trump Escalating When Everyone Says He Won't?](../../archive/sources/2026-07-13/source-why-is-trump-escalating-when-everyone-says-he-won-t-2026-07-13.md) — **authored** · substack-post

@@ -4,7 +4,7 @@ This index routes the unified local Freeman corpus for `freeman` to the central 
 
 Source basis: `strategy-codex/statecraft/voices/freeman/freeman-index.md` plus already-local matching archive rows.
 
-Corpus: 151 local route rows across 151 central archive source files.
+Corpus: 152 local route rows across 152 central archive source files.
 
 Status: `imported-corpus`
 
@@ -170,8 +170,8 @@ Status: `imported-corpus`
 | `2026-06-26` | Amb. Chas Freeman — The Collapse Of Israel's Agenda | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-26/source-dialogue-works-chas-freeman-collapse-israel-agenda-2026-06-26.md) |
 | `2026-06-29` | Chas Freeman: U.S. & Iran Resume War; Israel Attempts to Instigate Civil War in Lebanon | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-06-29/source-glenn-diesen-chas-freeman-us-iran-resume-war-israel-lebanon-civil-war-2026-06-29.md) |
 | `2026-06-30` | AMB. Chas Freeman: Can Trump Save Lebanon? | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-30/source-judging-freedom-freeman-can-trump-save-lebanon-2026-06-30.md) |
+| `2026-07-13` | Chas Freeman: All-Out War With Iran & Dark Future for Israel | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-13/source-chas-freeman-all-out-war-with-iran-dark-future-for-israel-2026-07-13.md) |
 
 ## Import Boundary
 
 This import followed the strategy-codex Freeman index and copied source captures into `archive/sources/YYYY-MM-DD/` while preserving already-local matching archive rows.
-

@@ -1,0 +1,211 @@
+# The Repository Remembers; the Agent Receives a Mandate
+
+Status: `canonical-operating-contract`
+
+## Principle
+
+Narrative Systems uses **contractual continuity under bounded agency**. The
+repository holds durable memory, authority, provenance, and review state. An
+agent receives a temporary mandate to perform one phase of work without
+silently redefining the system.
+
+The governing rule is:
+
+> Move continuity, rules, and epistemic boundaries out of model memory and
+> into an inspectable, executable operating contract.
+
+## Architectural Roles
+
+| Surface | Architectural role |
+| --- | --- |
+| `archive/` | Preserved source truth and provenance. |
+| `archive/source-manifest.json` | Authoritative source membership and person/channel routing. |
+| `voices/` | Derived whole-person continuity. Never a second transcript archive. |
+| `channels/` | Derived host and format conditioning. Never independent confirmation. |
+| `work/daily/` | Date-bounded synthesis state derived from manifest-backed sources. |
+| `work/forecasts/` | Durable forecast authorship, timing, and accountability state. |
+| `work/verification/` | Bounded operational assessments; not canonical archive evidence. |
+| `public/` | Intentionally promoted, source-bounded reader products. |
+| `scripts/` | Named capabilities with explicit mutation scope. |
+| skills and startup prompts | Session-scale authority envelopes and stop conditions. |
+| validators and tests | Executable invariants across phases. |
+| coffee/dream handoff | Advisory, verified continuity; never research evidence. |
+| operator | Authorization boundary for widening scope or changing phases. |
+
+## Mandatory Session Contract
+
+Every operational session must make seven things legible before mutation:
+
+1. **Objective** — the bounded outcome of this phase.
+2. **Authoritative inputs** — which repository surfaces may be trusted.
+3. **Permitted reads and writes** — the capability envelope.
+4. **Protected surfaces** — what requires explicit additional authorization.
+5. **Invariants** — what must remain true when the phase ends.
+6. **Stop condition** — when adequate work becomes unauthorized expansion.
+7. **Handoff** — the validated state inherited by the next phase.
+
+Agents may make conservative, reversible assumptions inside the envelope.
+They must stop when an ambiguity would change identity, provenance, public
+factual adoption, forecast resolution, publication, or Git/external state.
+
+## Phase Ownership
+
+| Phase | May mutate | Must preserve | Ends when |
+| --- | --- | --- | --- |
+| `best-intake` | New archive source and its manifest row. | Source body, private workflow, downstream judgment surfaces. | The supplied source is truthfully archived and manifest-backed. |
+| identity canonicalization | Declared alias-valued person metadata. | Paths, filenames, hosts, bodies, unrelated rows. | Selected metadata is canonical and idempotent. |
+| continuity reconciliation | Existing voice shelves derived from the manifest. | Archive evidence and manually assigned roles. | Existing shelves match manifest membership. |
+| geopolitical synthesis | Selected-date person-alias metadata, existing voice routes, the four-file daily contract, and new forecast hooks. | Private intake, source bodies beyond declared aliases, channel shelves, verification packets, forecast resolutions, public products, and unresolved uncertainty. | A manifest-backed day has a bounded internal judgment and synchronized open hooks. |
+| operational verification | Explicit `VER-*` packets. | Archive evidence and human assessment authority. | The selected claim is assessed or honestly unresolved. |
+| forecast review | Ledger resolution metadata with packet support when required. | Authorship timing and excluded retrospective entries. | A due accountable hook is reviewed without forced certainty. |
+| publication | Intentionally selected public documents. | Source bounds, verification gates, as-of date, revision history. | Reader-facing claims satisfy the public contract. |
+| coffee/dream | Ignored advisory cadence handoff only. | Research, forecasts, publication, Git state. | One verified lesson and inheritance sentence are recorded. |
+
+## Best-Intake Authority Envelope
+
+`best-intake` may read repository state, the manifest, existing archive paths
+for duplicate detection, routing records, and intake method documents. It may
+write only:
+
+- `archive/sources/YYYY-MM-DD/source-*.md` for an operator-supplied source;
+- the corresponding row in `archive/source-manifest.json`.
+
+Without explicit authorization it does not write voice shelves, channel
+shelves, daily synthesis, forecasts, verification packets, public documents,
+or Git state. It does not fetch a missing source merely because a reference
+exists.
+
+The dynamic preflight is:
+
+```powershell
+.\scripts\python.ps1 scripts\cadence.py startup best-intake --json
+```
+
+The command is read-only. It reports current Git state, archive/manifest
+parity, recent intake dates, the latest daily run, cadence staleness, permitted
+mutation surfaces, warnings, blockers, and the next action. A startup prompt
+must use this live context instead of embedding a commit hash or source count
+as durable truth.
+
+## Geopolitical-Synthesis Authority Envelope
+
+`geopolitical-synthesis` is explicitly date-scoped. It may read the manifest,
+the selected date's manifest-backed archive sources, person and channel
+conditioning, and existing daily, forecast, verification, method, and template
+state. Within the guided workflow it may write only:
+
+- declared alias-valued person metadata for the selected date;
+- routes in already-existing `voices/*/source-index.md` shelves;
+- the selected date's `sources.md`, `synthesis.md`, `forecast.md`, and
+  `daily-brief.md`;
+- new open forecast hooks in the forecast ledger.
+
+Without explicit additional authorization it does not change private intake,
+new archive source bodies, channel shelves, verification packets, forecast
+resolutions or accountability classifications, public products, external
+systems, web evidence, or Git state.
+
+The dynamic preflight is:
+
+```powershell
+.\scripts\python.ps1 scripts\cadence.py startup geopolitical-synthesis --date YYYY-MM-DD --json
+```
+
+The command is read-only. A date with no manifest rows, or with missing
+manifest-backed archive sources, is blocking. An absent or partial four-file
+daily contract routes the operator to guided Choice `A`; reconciliation or
+validation debt routes to Choice `B`; a clean complete contract routes to
+operational-claim triage at Choice `C`. These recommendations describe the
+next authorized phase action; they do not execute it.
+
+## Operational-Verification Authority Envelope
+
+Operational verification is scoped to one explicitly created `VER-*` packet.
+It may read the source registry, that packet's named artifacts and forecast
+hooks, and bounded external evidence responsive to its declared observables.
+It may write only the selected packet. It does not inherit authority to alter
+archive evidence, synthesis, publication, the forecast ledger, other packets,
+the registry, or generalized collection machinery.
+
+The dynamic preflight is:
+
+```powershell
+.\scripts\python.ps1 scripts\cadence.py startup operational-verification --packet VER-YYYYMMDD-NN --json
+```
+
+The command is read-only. A missing or ambiguous packet, an invalid registry,
+or an invalid assessed packet is blocking. A requested packet routes first to
+observable definition and then bounded research; a researching packet remains
+inside that boundary; an assessed packet routes to downstream human review.
+Supported, contested, disconfirmed, and unresolvable outcomes all preserve the
+same rule: an assessment constrains judgment but never resolves a forecast by
+itself.
+
+## Forecast-Review Authority Envelope
+
+Forecast review is scoped to one `NG-*` hook and an explicit as-of date. It may
+read the selected entry, its accountability row, source run, operational
+dependencies, and completed packets that cite the hook. It may write only the
+selected hook's resolution status and review note. It does not inherit
+authority to rewrite the forecast, probability, review date, authorship,
+classification, verification evidence, other ledger rows, synthesis, or
+publication.
+
+The dynamic preflight is:
+
+```powershell
+.\scripts\python.ps1 scripts\cadence.py startup forecast-review --hook NG-YYYYMMDD-FNN --as-of YYYY-MM-DD --json
+```
+
+The command is read-only. It rejects missing or duplicated ledger state,
+preserves non-accountable classifications, waits when a hook is not due, and
+routes a due accountable hook without completed verification back to the
+operational-verification phase. A completed packet permits review, not an
+automatic `hit`, `miss`, `mixed`, or
+`unresolvable_with_authorized_evidence` result.
+
+## Invariants and Gates
+
+- Archive files, manifest rows, and the manifest header remain one-to-one.
+- Source bodies are not rewritten by downstream interpretation.
+- Person identity and host/channel identity remain separate.
+- Derived voice and channel surfaces never outrank the manifest.
+- Repeated commentary never becomes independent operational confirmation.
+- Unresolved claims remain labeled; uncertainty is not repaired by prose.
+- Operational factual adoption and accountable forecast resolution obey
+  verification packet gates.
+- Publication, forecast resolution, intake, and Git operations are separate
+  authorities.
+- A cadence handoff is inherited only when its Git fingerprint and
+  verification remain current.
+
+## Failure Recovery
+
+If a phase fails between writes, stop further phase expansion and restore the
+smallest invariant boundary:
+
+1. Preserve the source body and existing operator work.
+2. Identify which authoritative surface was written.
+3. Run the relevant check mode and repository integrity validator.
+4. Complete or reverse only the incomplete phase-local write; never repair by
+   broad regeneration.
+5. Record unresolved ambiguity instead of inventing provenance.
+6. Resume only when the phase input and output contract is again explicit.
+
+For intake, an archive file without its manifest row—or a manifest row without
+its archive file—is blocking. Staleness in downstream synthesis is reported as
+`stale-after-intake` and remains nonblocking during source landing.
+
+## Handoff Law
+
+Each phase hands off facts about repository state, not confidence in the agent
+that produced them. A valid handoff names:
+
+- what changed;
+- what was verified;
+- what remains provisional or deferred;
+- which surface is authoritative;
+- which next phase now owns the work.
+
+The system is continuous because contracts and state survive. Agents remain
+replaceable, adaptive operators within that continuity.

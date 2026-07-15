@@ -34,7 +34,12 @@ Commands:
 .\scripts\python.ps1 scripts\verification.py check [VER-ID] --json
 .\scripts\python.ps1 scripts\verification.py close VER-ID
 .\scripts\python.ps1 scripts\verification.py sources --domain maritime_incident --json
+.\scripts\python.ps1 scripts\cadence.py startup operational-verification --packet VER-ID --json
 ```
+
+The startup preflight is read-only. It binds a session to one existing packet,
+reports its live state and validation boundary, and does not browse or create a
+request. Packet creation remains the explicit `verification.py new` action.
 
 ## Source Registry and Coverage
 
@@ -60,3 +65,13 @@ Verification packet: VER-YYYYMMDD-NN plus its resolving relative Markdown link
 ```
 
 Watch promotion and publication templates must use the same gate when a concrete event carries the decision. Accountable forecast resolutions cite a completed `VER-*` packet in the ledger review note.
+
+Before forecast review, use:
+
+```powershell
+.\scripts\python.ps1 scripts\cadence.py startup forecast-review --hook NG-YYYYMMDD-FNN --as-of YYYY-MM-DD --json
+```
+
+The preflight discovers completed packets both from ledger citations and from
+packets that name the hook. Discovery supplies admissible evidence for human
+review; it never converts a packet outcome into a forecast score.

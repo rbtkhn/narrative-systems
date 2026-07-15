@@ -11,7 +11,7 @@ Status: `transcript-bearing-upstream-parity`
 | Host people | Glenn Diesen |
 | Source basis | [../../archive/source-manifest.json](../../archive/source-manifest.json) |
 | Shelf status | `transcript-bearing-upstream-parity` |
-| Manifest-backed host rows | 238 |
+| Manifest-backed host rows | 240 |
 | Upstream channel-index audit | 214 evaluated; 210 transcript-bearing; 4 metadata-only placeholders excluded |
 
 ## Channel Role
@@ -20,7 +20,7 @@ Order-transition and Eurasian-institutional host frame; lifts guests toward mult
 
 ## Corpus Boundary
 
-The manifest is the exhaustive local authority for the 238 sources routed through `host_slug: glenn-diesen`. This shelf remains a selective conditioning surface and does not duplicate those routes into a second manually maintained index.
+The manifest is the exhaustive local authority for the 240 sources routed through `host_slug: glenn-diesen`. This shelf remains a selective conditioning surface and does not duplicate those routes into a second manually maintained index.
 
 The bounded upstream channel migration reached transcript-bearing parity across 210 of 214 evaluated captures: 53 sources were imported, 157 already existed in the archive, and four frontmatter-only Macgregor placeholders were excluded. Additional local host rows may postdate or sit outside that upstream index.
 
@@ -51,6 +51,8 @@ Diesen's presence as interviewer establishes channel conditioning, not person-le
 | `2026-05-09` | marandi | [Seyed M. Marandi: Iran Rejects U.S. Deal - War Is Likely Imminent](../../archive/sources/2026-05-09/source-glenn-diesen-seyed-m-marandi-iran-rejects-u-s-deal-war-is-likely-imminent-2026-05-09.md) |
 | `2026-05-18` | mearsheimer | [John Mearsheimer: Toward All-Out War With Both Russia & Iran](../../archive/sources/2026-05-18/source-glenn-diesen-john-mearsheimer-toward-all-out-war-with-both-russia-and-iran-2026-05-18.md) |
 | `2026-06-13` | mearsheimer | [John Mearsheimer & Sergey Karaganov: Nuclear Strike on Europe to Restore Deterren...](../../archive/sources/2026-06-13/source-glenn-diesen-mearsheimer-karaganov-nuclear-strike-europe-restore-deterrence-2026-06-13.md) |
+| `2026-07-13` | freeman | [Chas Freeman: All-Out War With Iran & Dark Future for Israel](../../archive/sources/2026-07-13/source-chas-freeman-all-out-war-with-iran-dark-future-for-israel-2026-07-13.md) |
+| `2026-07-14` | escobar | [Pepe Escobar: Yemen Joins the War, and the Entire Middle East Could Go Up in Flames](../../archive/sources/2026-07-14/source-pepe-escobar-yemen-joins-the-war-and-the-entire-middle-east-could-go-up-in-flames-2026-07-14.md) |
 
 ## Host-Conditioning Notes
 

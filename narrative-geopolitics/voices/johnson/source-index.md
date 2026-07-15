@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `johnson` to the ce
 
 Source basis: `narrative-geopolitics/archive/source-manifest.json`.
 
-Corpus: 81 local route rows across 81 central archive source files.
+Corpus: 84 local route rows across 84 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -93,6 +93,7 @@ Status: `first-slice-parity`
 | `2026-06-19` | INTEL Roundtable w/ Johnson & McGovern : Weekly Wrap 19-June | `guest interview pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-19/source-judging-freedom-johnson-mcgovern-intel-roundtable-weekly-wrap-19-june-2026-06-19.md) |
 | `2026-06-20` | Larry Johnson: Iran Closes Hormuz AND Ends Israel's Combat Ops - US Rushes to Talks! | `guest interview pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-20/source-dialogue-works-larry-johnson-iran-closes-hormuz-ends-israel-combat-ops-us-rushes-talks-2026-06-20.md) |
 | `2026-06-22` | Larry Johnson: Why Iran Still Controls Hormuz | `guest interview pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-22/source-judging-freedom-johnson-why-iran-still-controls-hormuz-2026-06-22.md) |
+| `2026-06-22` | Iran Negotiation DESASTER & Russia in Full War Mode \| Larry C. Johnson | `host-pressure test` | `neutrality-studies` | [source](../../archive/sources/2026-06-22/source-neutrality-studies-larry-johnson-iran-negotiation-disaster-russia-full-war-mode-2026-06-22.md) |
 | `2026-06-24` | fmr CIA Analyst Larry Johnson: Iran Deal, Trump's Making it Up As He Goes Along | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-06-24/source-daniel-davis-larry-johnson-iran-deal-trump-making-it-up-2026-06-24.md) |
 | `2026-06-24` | Larry Johnson: Israel Just Triggered the NEXT WAR - Preparing to Bomb Yemen | `guest interview pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-24/source-dialogue-works-johnson-israel-next-war-preparing-bomb-yemen-2026-06-24.md) |
 | `2026-06-25` | Larry Johnson: The U.S. Is Now Directly Calling Iran (Vance's Switzerland Bombshell) | `guest interview pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-25/source-dialogue-works-larry-johnson-us-directly-calling-iran-vance-switzerland-bombshell-2026-06-25.md) |
@@ -105,6 +106,8 @@ Status: `first-slice-parity`
 | `2026-07-04` | Larry Johnson: Iran's Qhalibaf Fires Back at Trump — Not a Proclamation, It's a Projection | `guest interview pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-04/source-larry-johnson-iran-s-qhalibaf-fires-back-at-trump-not-a-proclamation-it-s-a-projection-2026-07-04.md) |
 | `2026-07-05` | Larry Johnson: 8 US A-10 Warthogs Deploy to Jordan, Ground War Next? | `guest interview pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-05/source-larry-johnson-8-us-a-10-warthogs-deploy-to-jordan-ground-war-next-2026-07-05.md) |
 | `2026-07-08` | Larry Johnson: Iran Strikes US Bases in Bahrain & Kuwait After US Strikes South Iran - Hormuz CLOSED | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-08/source-larry-johnson-iran-strikes-us-bases-in-bahrain-kuwait-after-us-strikes-south-iran-hormuz-closed-2026-07-08.md) |
+| `2026-07-13` | Larry Johnson: U.S. Attacks Iran NOW \| Iran Hits Back as Hormuz Turns Into a Firing Hell | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-13/source-larry-johnson-u-s-attacks-iran-now-iran-hits-back-as-hormuz-turns-into-a-firing-hell-2026-07-13.md) |
+| `2026-07-14` | Larry Johnson: 50,000+ U.S. Troops Deployed as Iran Pounds American Bases Across the Gulf | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-14/source-larry-johnson-50-000-u-s-troops-deployed-as-iran-pounds-american-bases-across-the-gulf-2026-07-14.md) |
 
 ## Import Boundary
 

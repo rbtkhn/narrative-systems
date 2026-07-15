@@ -4,7 +4,7 @@ This index routes the unified local Wilkerson corpus for `wilkerson` to the cent
 
 Source basis: `strategy-codex/statecraft/voices/wilkerson/wilkerson-index.md` plus already-local matching archive rows.
 
-Corpus: 95 local route rows across 95 central archive source files.
+Corpus: 96 local route rows across 96 central archive source files.
 
 Status: `imported-corpus`
 
@@ -114,6 +114,7 @@ Status: `imported-corpus`
 | `2026-06-09` | Col. Larry Wilkerson: Israel's Grand Strategy Is Coming Apart – Here's Why It Matters | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-09/source-dialogue-works-wilkerson-israels-grand-strategy-coming-apart-2026-06-09.md) |
 | `2026-06-11` | COL. Lawrence Wilkerson : Israel's Collapsing Strategy | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-11/source-judging-freedom-wilkerson-israels-collapsing-strategy-2026-06-11.md) |
 | `2026-06-12` | Larry Johnson & Col. Wilkerson: Iran Just Fired at U.S.-Guided Ships: Trump REVEALS Final Decision | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-12/source-dialogue-works-johnson-wilkerson-iran-fired-us-guided-ships-trump-final-decision-2026-06-12.md) |
+| `2026-07-14` | Col. Larry Wilkerson: Full-Scale U.S.-Iran War Erupts, Every Front Now Active | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-14/source-col-larry-wilkerson-full-scale-u-s-iran-war-erupts-every-front-now-active-2026-07-14.md) |
 
 ## Import Boundary
 

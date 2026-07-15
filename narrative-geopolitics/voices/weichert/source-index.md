@@ -4,7 +4,7 @@ This index routes the unified local Weichert corpus for `weichert` to the centra
 
 Source basis: `strategy-codex/statecraft/voices/weichert/weichert-index.md`.
 
-Corpus: 17 local route rows across 17 central archive source files.
+Corpus: 18 local route rows across 18 central archive source files.
 
 Status: `imported-corpus`
 
@@ -36,8 +36,8 @@ Status: `imported-corpus`
 | `2026-06-27` | BREAKING: NEGOTIATIONS CANCELLED AFTER U.S STRIKE IRAN, IRAN HIT U.S BASES w/ BRANDON WEICHERT | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-27/source-dialogue-works-brandon-weichert-negotiations-cancelled-us-strike-iran-iran-hit-us-bases-2026-06-27.md) |
 | `2026-06-30` | CHINA IS THE REAL WINNER OF THE IRAN CRISIS – w/ Brandon Weichert | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-30/source-mario-nawfal-weichert-china-real-winner-iran-crisis-2026-06-30.md) |
 | `2026-07-07` | BREAKING: TRUMP STRIKES IRAN'S KHARG ISLAND FOR FIRST TIME SINCE CEASEFIRE w/Brandon Weichert | `guest interview pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-07-07/source-mario-nawfal-brandon-weichert-breaking-trump-strikes-irans-kharg-island-for-first-time-since-ceasefire-2026-07-07.md) |
+| `2026-07-12` | BREAKING: U.S. HEAVILY BOMBING IRAN NOW â€“ w/ Geopolitical Analyst Brandon Weichert | `guest interview pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-07-12/source-breaking-u-s-heavily-bombing-iran-now-w-geopolitical-analyst-brandon-weichert-2026-07-12.md) |
 
 ## Import Boundary
 
 This import followed the strategy-codex Weichert index and copied source captures into `archive/sources/YYYY-MM-DD/` while preserving already-local matching archive rows.
-

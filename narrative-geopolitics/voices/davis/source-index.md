@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `davis` to the cent
 
 Source basis: `strategy-codex/statecraft/voices/davis/davis-index.md`.
 
-Corpus: 79 local route rows across 79 central archive source files.
+Corpus: 80 local route rows across 80 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -103,6 +103,7 @@ Status: `first-slice-parity`
 | `2026-07-07` | BREAKING: US NEW STRIKES ON IRAN /Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-07/source-daniel-davis-breaking-us-new-strikes-on-iran-2026-07-07.md) |
 | `2026-07-08` | Trump Declares CEASEFIRE OVER w/IRAN Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-08/source-trump-declares-ceasefire-over-w-iran-lt-col-daniel-davis-2026-07-08.md) |
 | `2026-07-09` | Daniel Davis: Trump Says the Ceasefire Is Over With Iran & Escalates the War With Russia | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-09/source-daniel-davis-trump-says-the-ceasefire-is-over-with-iran-escalates-the-war-with-russia-2026-07-09.md) |
+| `2026-07-14` | Third Straight Night US Attacks Iran / Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-14/source-third-straight-night-us-attacks-iran-lt-col-daniel-davis-2026-07-14.md) |
 
 ## June 2026 Expansion
 

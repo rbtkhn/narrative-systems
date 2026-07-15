@@ -32,6 +32,10 @@ across voices without flattening their disagreements into a house view.
 
 ## Operating Modes
 
+All operating modes inherit [The Repository Remembers; the Agent Receives a
+Mandate](method/bounded-agency-contract.md), the canonical contract for
+authority, phase ownership, invariants, stop conditions, and handoffs.
+
 The proven daily judgment loop is:
 
 ```text

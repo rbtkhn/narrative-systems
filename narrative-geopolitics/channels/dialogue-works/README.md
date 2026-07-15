@@ -11,7 +11,7 @@ Status: `transcript-bearing-upstream-parity`
 | Host people | Nima Alkhorshid |
 | Source basis | [../../archive/source-manifest.json](../../archive/source-manifest.json) |
 | Shelf status | `transcript-bearing-upstream-parity` |
-| Manifest-backed host rows | 323 |
+| Manifest-backed host rows | 329 |
 | Upstream channel-index audit | 297 unique files; 283 transcript-bearing evidence chains |
 
 ## Channel Role
@@ -20,7 +20,7 @@ Long-form escalation and regional-pressure interview frame; often lets guests de
 
 ## Corpus Boundary
 
-The manifest is the exhaustive local authority for the 323 sources routed through `host_slug: dialogue-works`. This shelf remains a selective conditioning surface and does not duplicate every route into a second manually maintained index.
+The manifest is the exhaustive local authority for the 329 sources routed through `host_slug: dialogue-works`. This shelf remains a selective conditioning surface and does not duplicate every route into a second manually maintained index.
 
 The bounded upstream migration reached transcript-bearing parity across 283 unique evidence chains: 55 sources were imported and 228 substantive sources already existed. It excluded five metadata stubs, one inventory helper, and one alternate-filename source already represented by the same URL. Seven thin legacy surfaces already in the archive remain preserved for provenance but are excluded from transcript-bearing claims.
 
@@ -39,6 +39,12 @@ Guest panels retain every substantive participant as an independent voice route.
 | `2026-05-05` | marandi | [Dialogue Works - Marandi on Hormuz, UAE, and China - 2026-05-05](../../archive/sources/2026-05-05/source-dialogue-works-marandi-hormuz-uae-china-2026-05-05.md) |
 | `2026-05-09` | marandi | [Hormuz, UAE, Ceasefire, and the New Security Architecture](../../archive/sources/2026-05-09/source-dialogue-works-marandi-hormuz-uae-ceasefire-occupied-country-2026-05-09.md) |
 | `2026-06-23` | marandi | [Seyed M. Marandi: New Hormuz mechanism - IAEA access put on hold](../../archive/sources/2026-06-23/source-dialogue-works-marandi-new-hormuz-mechanism-iaea-access-put-on-hold-2026-06-23.md) |
+| `2026-07-13` | baud | [Col. Jacques Baud: U.S. Strikes Iran's Nuclear Plant - Iran Unleashes Massive Gulf Retaliation](../../archive/sources/2026-07-13/source-col-jacques-baud-u-s-strikes-iran-s-nuclear-plant-iran-unleashes-massive-gulf-retaliation-2026-07-13.md) |
+| `2026-07-13` | johnson | [Larry Johnson: U.S. Attacks Iran NOW \| Iran Hits Back as Hormuz Turns Into a Firing Hell](../../archive/sources/2026-07-13/source-larry-johnson-u-s-attacks-iran-now-iran-hits-back-as-hormuz-turns-into-a-firing-hell-2026-07-13.md) |
+| `2026-07-13` | barnes | [Robert Barnes: Yemen Strikes Saudi Airport and Air Base After Sana'a Bombing](../../archive/sources/2026-07-13/source-robert-barnes-yemen-strikes-saudi-airport-and-air-base-after-sana-a-bombing-2026-07-13.md) |
+| `2026-07-14` | johnson | [Larry Johnson: 50,000+ U.S. Troops Deployed as Iran Pounds American Bases Across the Gulf](../../archive/sources/2026-07-14/source-larry-johnson-50-000-u-s-troops-deployed-as-iran-pounds-american-bases-across-the-gulf-2026-07-14.md) |
+| `2026-07-14` | helmer | [John Helmer: Russia and Iran Double Down as the West Enters a Prolonged Confrontation](../../archive/sources/2026-07-14/source-john-helmer-russia-and-iran-double-down-as-the-west-enters-a-prolonged-confrontation-2026-07-14.md) |
+| `2026-07-14` | wilkerson | [Col. Larry Wilkerson: Full-Scale U.S.-Iran War Erupts, Every Front Now Active](../../archive/sources/2026-07-14/source-col-larry-wilkerson-full-scale-u-s-iran-war-erupts-every-front-now-active-2026-07-14.md) |
 
 ## Host-Conditioning Notes
 

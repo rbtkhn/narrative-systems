@@ -4,7 +4,7 @@ This index routes the unified local Baud corpus for `baud` to the central Narrat
 
 Source basis: `strategy-codex/statecraft/voices/baud/baud-index.md`.
 
-Corpus: 35 local route rows across 35 central archive source files.
+Corpus: 36 local route rows across 36 central archive source files.
 
 Status: `imported-corpus`
 
@@ -54,6 +54,7 @@ Status: `imported-corpus`
 | `2026-06-15` | Col. Jacques Baud: US & Iran Reach MoU – War Ends IMMEDIATELY on All Fronts (Lebanon Included) | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-15/source-dialogue-works-baud-us-iran-reach-mou-war-ends-immediately-2026-06-15.md) |
 | `2026-06-22` | Col. Jacques Baud: BREAKING: Starmer Steps Down Effective Immediately — Iran & US Agree to New Terms | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-22/source-dialogue-works-baud-starmer-steps-down-iran-us-new-terms-2026-06-22.md) |
 | `2026-07-06` | Col. Jacques Baud: The FINAL CARD is Played: Trump ENDS Israel's Push | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-06/source-col-jacques-baud-the-final-card-is-played-trump-ends-israel-s-push-2026-07-06.md) |
+| `2026-07-13` | Col. Jacques Baud: U.S. Strikes Iran's Nuclear Plant Ã¢â‚¬â€ Iran Unleashes Massive Gulf Retaliation | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-13/source-col-jacques-baud-u-s-strikes-iran-s-nuclear-plant-iran-unleashes-massive-gulf-retaliation-2026-07-13.md) |
 
 ## Import Boundary
 

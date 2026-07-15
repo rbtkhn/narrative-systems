@@ -4,7 +4,7 @@ This index routes the unified local Parsi corpus for `parsi` to the central Narr
 
 Source basis: `strategy-codex/statecraft/voices/parsi/parsi-index.md` plus already-local matching archive rows.
 
-Corpus: 54 local route rows across 54 central archive source files.
+Corpus: 55 local route rows across 55 central archive source files.
 
 Status: `imported-corpus`
 
@@ -70,11 +70,11 @@ Status: `imported-corpus`
 | `2026-06-24` | BREAKING: ISRAEL \"WILL NOT WITHDRAW FROM LEBANON\" - w/ Trita Parsi | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-24/source-mario-nawfal-parsi-israel-will-not-withdraw-lebanon-2026-06-24.md) |
 | `2026-06-24` | ISRAEL REFUSE TO LEAVE LEBANON, WILL IRAN RESPOND? w/ GEOPOLITICS EXPERT TRITA PARSI | `host-pressure test` | `moral-resistance` | [source](../../archive/sources/2026-06-24/source-moral-resistance-parsi-israel-refuse-leave-lebanon-will-iran-respond-2026-06-24.md) |
 | `2026-06-26` | BREAKING: ISRAEL AND LEBANON SIGN PEACE AGREEMENT, BREACHING IRANIAN MOU - w/ Trita Parsi | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-26/source-mario-nawfal-trita-parsi-israel-lebanon-peace-agreement-mou-breach-2026-06-26.md) |
-| `2026-07-01` | Why Iran believes Israel will attack again before October | `authored` | `trita-parsi` | [source](../../archive/sources/2026-07-01/source-why-iran-believes-israel-will-attack-again-before-october-2026-07-01.md) |
-| `2026-07-06` | The Middle East is leaping toward a New Order. But an anti-Abaraham Accords would be a mistake. | `authored` | `trita-parsi` | [source](../../archive/sources/2026-07-06/source-the-middle-east-is-leaping-toward-a-new-order-but-an-anti-abaraham-accords-would-be-a-mistake-2026-07-06.md) |
-| `2026-07-07` | How the US-Iran fight in the Strait of Hormuz can be resolved before it blows up the MOU | `authored` | `trita-parsi` | [source](../../archive/sources/2026-07-07/source-how-the-us-iran-fight-in-the-strait-of-hormuz-can-be-resolved-before-it-blows-up-the-mou-2026-07-07.md) |
+| `2026-07-01` | Why Iran believes Israel will attack again before October | `authored` | `none` | [source](../../archive/sources/2026-07-01/source-why-iran-believes-israel-will-attack-again-before-october-2026-07-01.md) |
+| `2026-07-06` | The Middle East is leaping toward a New Order. But an anti-Abaraham Accords would be a mistake. | `authored` | `none` | [source](../../archive/sources/2026-07-06/source-the-middle-east-is-leaping-toward-a-new-order-but-an-anti-abaraham-accords-would-be-a-mistake-2026-07-06.md) |
+| `2026-07-07` | How the US-Iran fight in the Strait of Hormuz can be resolved before it blows up the MOU | `authored` | `none` | [source](../../archive/sources/2026-07-07/source-how-the-us-iran-fight-in-the-strait-of-hormuz-can-be-resolved-before-it-blows-up-the-mou-2026-07-07.md) |
+| `2026-07-13` | A new U.S.-Iran war would end where the last one did | `authored` | `none` | [source](../../archive/sources/2026-07-13/source-a-new-u-s-iran-war-would-end-where-the-last-one-did-2026-07-13.md) |
 
 ## Import Boundary
 
 This import followed the strategy-codex Parsi index and copied source captures into `archive/sources/YYYY-MM-DD/` while preserving already-local matching archive rows.
-

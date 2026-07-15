@@ -11,7 +11,20 @@ Purpose: route Pape-on-Nawfal sources to the central Narrative Geopolitics archi
 - [2026-06-09 - BREAKING: HEZBOLLAH INFILTRATES ISRAEL, APACHE SHOT DOWN - w/ Prof. Robert Pape](../../archive/sources/2026-06-09/source-mario-nawfal-pape-hezbollah-infiltrates-israel-apache-shot-down-2026-06-09.md)
 - [2026-06-16 - CIA CHIEF WARNS: IRAN NOT SERIOUS ABOUT COMMITTING TO MoU - w/ Prof. Analyst Robert Pape](../../archive/sources/2026-06-16/source-mario-nawfal-robert-pape-cia-chief-warns-iran-not-serious-mou-2026-06-16.md)
 - [2026-06-30 - TRUMP SAYS TALKS ON, IRAN SAYS NO - WHO'S CONTROLLING ESCALATION?](../../archive/sources/2026-06-30/source-mario-nawfal-robert-pape-trump-says-talks-on-iran-says-no-controlling-escalation-2026-06-30.md)
+- [2026-07-13 - BREAKING: TRUMP REINSTATES IRANIAN BLOCKADE, SAYS HORMUZ OPEN- w/ Geopolitical Analyst Robert Pape](../../archive/sources/2026-07-13/source-breaking-trump-reinstates-iranian-blockade-says-hormuz-open-w-geopolitical-analyst-robert-pape-2026-07-13.md)
+
+## Marandi Sources
+
+- [2026-07-13 - BREAKING: TRUMP BLOCKS HORMUZ AGAIN /Prof Seyed Marandi Live from Tehran](../../archive/sources/2026-07-13/source-breaking-trump-blocks-hormuz-again-prof-seyed-marandi-live-from-tehran-2026-07-13.md)
+
+## Weichert Sources
+
+- [2026-07-12 - BREAKING: U.S. HEAVILY BOMBING IRAN NOW – w/ Geopolitical Analyst Brandon Weichert](../../archive/sources/2026-07-12/source-breaking-u-s-heavily-bombing-iran-now-w-geopolitical-analyst-brandon-weichert-2026-07-12.md)
+
+## Barnes Sources
+
+- [2026-07-14 - LINDSAY GRAHAM DEAD, IRAN PLANNED TO KILL TRUMP, MAGA DESTROYED - w/ Robert Barnes](../../archive/sources/2026-07-14/source-lindsay-graham-dead-iran-planned-to-kill-trump-maga-destroyed-w-robert-barnes-2026-07-14.md)
 
 ## Reading Rule
 
-Use this index for host-conditioned routing only. Use [../../voices/pape/source-index.md](../../voices/pape/source-index.md) for the full Pape source route map.
+Use this index for host-conditioned routing only. Use the relevant voice source index for full voice route maps.

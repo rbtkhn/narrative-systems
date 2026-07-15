@@ -56,10 +56,13 @@ Pape is currently `full-source-parity`. The other core voices are `first-slice-p
 | Alexander Mercouris | [mercouris/README.md](mercouris/README.md) | [mercouris/source-index.md](mercouris/source-index.md) | internal / first-slice-parity |
 | Daniel Davis | [davis/README.md](davis/README.md) | [davis/source-index.md](davis/source-index.md) | internal / first-slice-parity |
 | Douglas Macgregor | [macgregor/README.md](macgregor/README.md) | [macgregor/source-index.md](macgregor/source-index.md) | internal / first-slice-parity |
+| Pepe Escobar | [escobar/README.md](escobar/README.md) | [escobar/source-index.md](escobar/source-index.md) | internal / lightweight |
 | Glenn Diesen | [diesen/README.md](diesen/README.md) | [diesen/source-index.md](diesen/source-index.md) | internal / first-slice-parity |
 | Larry Johnson | [johnson/README.md](johnson/README.md) | [johnson/source-index.md](johnson/source-index.md) | internal / first-slice-parity |
 | John Mearsheimer | [mearsheimer/README.md](mearsheimer/README.md) | [mearsheimer/source-index.md](mearsheimer/source-index.md) | internal / first-slice-parity |
 | Jiang Xueqin | [jiang/README.md](jiang/README.md) | [jiang/source-index.md](jiang/source-index.md) | internal / imported-corpus |
+| Joe Kent | [kent/README.md](kent/README.md) | [kent/source-index.md](kent/source-index.md) | internal / imported-corpus |
+| Patrick Henningsen | [henningsen/README.md](henningsen/README.md) | [henningsen/source-index.md](henningsen/source-index.md) | internal / lightweight |
 | Seyed Mohammad Marandi | [marandi/README.md](marandi/README.md) | [marandi/source-index.md](marandi/source-index.md) | internal / first-slice-parity |
 | Robert Pape | [pape/README.md](pape/README.md) | [pape/source-index.md](pape/source-index.md) | internal / full-source-parity |
 

@@ -4,7 +4,7 @@ This index routes the imported Ritter corpus for `ritter` to the central Narrati
 
 Source basis: `strategy-codex/statecraft/voices/ritter/ritter-index.md`.
 
-Corpus: 101 local route rows across 101 central archive source files.
+Corpus: 102 local route rows across 102 central archive source files.
 
 Status: `imported-corpus`
 
@@ -120,6 +120,7 @@ Status: `imported-corpus`
 | `2026-06-23` | Scott Ritter: Russia and US/Iran MoU; Ukraine Attacks Moscow | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-23/source-judging-freedom-ritter-russia-us-iran-mou-ukraine-attacks-moscow-2026-06-23.md) |
 | `2026-07-01` | Scott Ritter: Trump Briefed on All-Out War Scenario in Iran | `guest interview pressure test` | `garland-nixon` | [source](../../archive/sources/2026-07-01/source-scott-ritter-trump-briefed-on-all-out-war-scenario-in-iran-2026-07-01.md) |
 | `2026-07-09` | The Patriot Trap | `authored` | `scott-ritter` | [source](../../archive/sources/2026-07-09/source-the-patriot-trap-2026-07-09.md) |
+| `2026-07-12` | ðŸ”´ LIVE: Scott Ritter - Russia Ukraine Now Enters the Most Dangerous Phase! | `guest interview pressure test` | `cyrus-janssen` | [source](../../archive/sources/2026-07-12/source-live-scott-ritter-russia-ukraine-now-enters-the-most-dangerous-phase-2026-07-12.md) |
 
 ## Import Boundary
 

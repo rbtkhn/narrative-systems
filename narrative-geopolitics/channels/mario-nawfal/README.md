@@ -12,7 +12,7 @@ Status: `indexed-batch-parity`
 | Source basis | [../../archive/source-manifest.json](../../archive/source-manifest.json) |
 | Shelf status | `indexed-batch-parity` |
 | Indexed batch | 48 substantive captures |
-| Manifest host routes | 56, including later/local captures |
+| Manifest host routes | 60, including later/local captures |
 
 ## Channel Role
 
@@ -40,6 +40,7 @@ See [source-index.md](source-index.md) for the Pape pilot source route.
 | Date | Guest / Voice | Source |
 | --- | --- | --- |
 | `2026-05-31` | Diesen | [BREAKING: IRAN COLLECTS TOLLS FROM 28 SHIPS IN PAST 24 HOURS](../../archive/sources/2026-05-31/source-mario-nawfal-diesen-breaking-iran-collects-tolls-from-28-ships-in-past-24-hours-2026-05-31.md) |
+| `2026-07-14` | Barnes | [LINDSAY GRAHAM DEAD, IRAN PLANNED TO KILL TRUMP, MAGA DESTROYED - w/ Robert Barnes](../../archive/sources/2026-07-14/source-lindsay-graham-dead-iran-planned-to-kill-trump-maga-destroyed-w-robert-barnes-2026-07-14.md) |
 
 ## Boundary
 
