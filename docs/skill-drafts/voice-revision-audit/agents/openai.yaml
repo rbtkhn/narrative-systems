@@ -1,0 +1,4 @@
+interface:
+  display_name: "Voice Revision Audit"
+  short_description: "Find and adjudicate admissions and revised predictions"
+  default_prompt: "Use $voice-revision-audit to audit a date range for voices admitting error or transparently revising positions and predictions."

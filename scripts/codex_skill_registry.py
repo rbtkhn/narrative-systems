@@ -7,7 +7,12 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SKILL_DRAFT_ROOT = REPO_ROOT / "docs" / "skill-drafts"
 CODEX_SKILLS_ROOT = Path.home() / ".codex" / "skills"
-DEPLOYABLE_SKILL_NAMES = ("best-intake", "geopolitical-synthesis", "reality-check")
+DEPLOYABLE_SKILL_NAMES = (
+    "best-intake",
+    "geopolitical-synthesis",
+    "reality-check",
+    "voice-revision-audit",
+)
 
 
 @dataclass(frozen=True)

@@ -264,7 +264,12 @@ def reality_lattice_failures() -> list[str]:
 def skill_contract_failures() -> list[str]:
     failures: list[str] = []
     deployable = set(DEPLOYABLE_SKILL_NAMES)
-    if deployable != {"best-intake", "geopolitical-synthesis", "reality-check"}:
+    if deployable != {
+        "best-intake",
+        "geopolitical-synthesis",
+        "reality-check",
+        "voice-revision-audit",
+    }:
         failures.append(f"unexpected deployable skill allowlist: {sorted(deployable)}")
     repo_skills = set(discover_repo_skill_names())
     if not LOCAL_SKILLS <= repo_skills:

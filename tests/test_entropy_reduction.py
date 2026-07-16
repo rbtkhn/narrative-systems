@@ -216,11 +216,13 @@ def test_only_portable_skills_are_deployable() -> None:
         "best-intake",
         "geopolitical-synthesis",
         "reality-check",
+        "voice-revision-audit",
     }
     assert set(skill_registry.build_registry()) == {
         "best-intake",
         "geopolitical-synthesis",
         "reality-check",
+        "voice-revision-audit",
     }
 
 
