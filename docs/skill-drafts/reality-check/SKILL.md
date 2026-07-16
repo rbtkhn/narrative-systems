@@ -35,6 +35,11 @@ If no claim ID is supplied, search existing claim records and ask the operator
 to choose among genuine matches. Never create a claim merely to resolve
 ambiguity.
 
+Archive density may help prioritize which `OPC-*` claims deserve attention
+first, especially dense days with many dependent claims or thin days carrying a
+large operational burden. Density never verifies truth, supplies lineage
+independence, or substitutes for lattice evidence.
+
 ## Explicit investigation
 
 Escalate only when the operator explicitly asks to investigate or collect

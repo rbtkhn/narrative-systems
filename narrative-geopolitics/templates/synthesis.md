@@ -6,6 +6,8 @@ Status: `template`
 
 Analytical language contract: [labels as analytical interfaces](../method/analytical-interfaces.md)
 
+Density triage: use [archive-density](../method/archive-density.md) after validation and before deepening to check whether the day is thin, dense, overclaim-prone, underused, or verification-heavy. Density guides triage only; it does not promote source assertions into facts.
+
 ## Lead Judgment
 
 State what changed, why it matters, and the mechanism or asymmetry governing the change. Do not open with a summary of what sources discussed.

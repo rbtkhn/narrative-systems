@@ -56,6 +56,23 @@ Month and range modes process only dates with manifest rows. The deprecated
 - `D` sharpen forecast hooks and report their `OPC-*` dependencies;
 - `E` execute the full stack.
 
+## Density Triage
+
+After validation and before deepening, use archive density as a review guide.
+Run a range or day check when source load may affect judgment:
+
+```powershell
+.\scripts\python.ps1 scripts\report_archive_density.py --start-date YYYY-MM-DD --end-date YYYY-MM-DD
+```
+
+Use [archive-density](../../../narrative-geopolitics/method/archive-density.md)
+rules this way:
+
+- thin days: check overclaim risk, hook necessity, and caveat language;
+- dense days: check voice triangulation, issue selection, and held-story logic;
+- `OPC-*` days: prioritize verification review, but do not assign operational truth;
+- carried-hook days: avoid duplicate forecasts unless a new wager is genuinely created.
+
 ## Guardrails
 
 - Require exact manifest coverage in the Intake Batch before synthesis.

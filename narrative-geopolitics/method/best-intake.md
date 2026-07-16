@@ -259,6 +259,10 @@ Current approved auto-ASR-repair hosts:
 `best-intake` ends when the source is safely archived and manifest-backed.
 
 The next job is usually `geopolitical-synthesis`, not more intake polishing.
+Source density is created by intake because every manifest row changes the
+day's source count, but density is not interpreted during landing. Use
+[archive-density](archive-density.md) during synthesis or audit to decide
+whether a day is thin, dense, overclaim-prone, underused, or verification-heavy.
 
 Short rule:
 

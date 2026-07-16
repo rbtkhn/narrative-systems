@@ -118,6 +118,11 @@ Short rule:
 
 `best-intake lands the day; geopolitical-synthesis judges the day`
 
+Intake creates the manifest row count that later density review uses, but it
+does not interpret source density. Do not add hooks, issue weight, operational
+truth, or synthesis confidence during landing merely because a batch is thin or
+dense. Density review belongs to `geopolitical-synthesis` or audit work.
+
 ## Repo surfaces
 
 - `narrative-geopolitics/method/best-intake.md`
