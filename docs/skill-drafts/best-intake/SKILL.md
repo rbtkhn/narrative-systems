@@ -4,7 +4,7 @@ description: "Narrative Geopolitics source landing skill. Use when the operator 
 preferred_activation: best-intake
 activation: best-intake
 portable: false
-version: 0.1.0
+version: 0.2.0
 category: narrative-geopolitics
 status: active
 ---
@@ -45,7 +45,7 @@ A `best-intake` land is adequate when it has:
 - a real archive file
 - preserved source body
 - a truthful title and date
-- a source URL when available
+- a source URL when available, or an explicit unavailable status
 - at least one provisional `voice_slug`
 - a `host_slug` when clear
 - a manifest row
@@ -74,6 +74,15 @@ Current approved auto-section hosts:
 - `alexander-mercouris`
 - `mario-nawfal`
 
+Current approved auto-ASR-repair hosts:
+
+- `dialogue-works`
+- `glenn-diesen`
+- `daniel-davis`
+- `judging-freedom`
+- `alexander-mercouris`
+- `mario-nawfal`
+
 If the cut depends on judgment, do not automate it during intake.
 
 ## Workflow
@@ -82,10 +91,19 @@ If the cut depends on judgment, do not automate it during intake.
 2. Land the source under `archive/sources/YYYY-MM-DD/source-*.md`.
 3. Preserve the pasted body with minimal rewriting.
 4. Apply only approved deterministic trim when the host rule matches.
-5. Apply conservative semantic sectioning only when the host is approved and the transcript has strong cues.
-6. Append or normalize the manifest row.
-7. Mark uncertainty honestly instead of stalling on enrichment.
-8. Stop once the day batch is archive-grounded.
+5. Apply conservative ASR repair only for approved hosts and obvious low-risk corruption.
+6. Apply conservative semantic sectioning only when the host is approved and the transcript has strong cues.
+7. Append or normalize the manifest row.
+8. Mark uncertainty honestly instead of stalling on enrichment.
+9. Stop once the day batch is archive-grounded.
+
+The executable order is always:
+
+`deterministic trim -> conservative ASR repair -> conservative sectioning`
+
+Preflight the complete batch before publishing. New source files and the
+manifest are staged together; a handled publication failure must leave the
+original manifest intact and remove newly published source files.
 
 ## Handoff
 

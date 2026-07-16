@@ -36,7 +36,11 @@ py -3 -m venv .venv
 .\scripts\python.ps1 -m pip install -e ".[test]"
 .\scripts\python.ps1 -m pytest
 .\scripts\python.ps1 scripts\validate_repository.py
+.\scripts\python.ps1 scripts\audit_ai_harness.py
 ```
+
+The harness audit is read-only. Add `--json` for machine output or
+`--write-receipt` to write the ignored `tmp/ai-harness/latest.json` receipt.
 
 If `py` is unavailable during environment creation, install Python 3.10 or
 newer. Private intake behavior is documented separately under

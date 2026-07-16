@@ -4,6 +4,8 @@ This directory holds working notes for the research side of the project. The not
 
 ## Current Notes
 
+- [Repository-native AI harness contract](ai-harness.md)
+
 - [Working vocabulary](working-vocabulary.md)
 
 ## Project Surfaces

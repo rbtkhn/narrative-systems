@@ -1,6 +1,8 @@
 from __future__ import annotations
 
 import importlib.util
+import json
+import os
 import shutil
 import sys
 import uuid
@@ -95,6 +97,39 @@ def build_fast_args(pub_date: str, url: str, title: str, body_text: str) -> Simp
         asr_repair_applied=False,
         asr_repair_pass="",
     )
+
+
+def configure_transaction_root(monkeypatch, tmp_path: Path) -> tuple[Path, Path]:
+    archive = tmp_path / "narrative-geopolitics" / "archive"
+    sources = archive / "sources"
+    sources.mkdir(parents=True)
+    manifest_path = archive / "source-manifest.json"
+    manifest_path.write_text('{"source_count": 0, "sources": []}\n', encoding="utf-8")
+    monkeypatch.setattr(land_best_intake, "REPO_ROOT", tmp_path)
+    monkeypatch.setattr(land_best_intake, "NG_ROOT", tmp_path / "narrative-geopolitics")
+    monkeypatch.setattr(land_best_intake, "ARCHIVE_ROOT", archive)
+    monkeypatch.setattr(land_best_intake, "ARCHIVE_SOURCES_ROOT", sources)
+    monkeypatch.setattr(land_best_intake, "MANIFEST_PATH", manifest_path)
+    return sources, manifest_path
+
+
+def transaction_args(pub_date: str, title: str, url: str = "https://example.com") -> SimpleNamespace:
+    args = build_fast_args(pub_date, url, title, "Material source body.\n")
+    args.host_slug = "audit-host"
+    args.voice_slugs = ["audit-voice"]
+    return land_best_intake.normalize_args(args)
+
+
+def documented_hosts(text: str, label: str) -> set[str]:
+    lines = text.splitlines()
+    start = lines.index(label) + 1
+    values: set[str] = set()
+    for line in lines[start:]:
+        if line.startswith("- `") and line.endswith("`"):
+            values.add(line[3:-1])
+        elif values and line.strip():
+            break
+    return values
 
 
 def test_mario_opening_trim_applies_before_substance() -> None:
@@ -352,6 +387,15 @@ def test_frontmatter_includes_rule_and_metric_fields() -> None:
     assert "closing_trim_words_saved: 10" in doc
     assert "transcript_curation: curated_sectioned" in doc
     assert "section_count: 3" in doc
+    assert 'source_url: "https://example.com"' in doc
+    assert "source_url_status: provided" in doc
+
+    args.url = ""
+    unavailable = land_best_intake.build_frontmatter(
+        args, "transcript-example", "Body\n"
+    )
+    assert 'source_url: ""' in unavailable
+    assert "source_url_status: unavailable" in unavailable
 
 
 def stale_section_transcript_creates_show_open_and_segments_for_clear_dialogue_works_shape() -> None:
@@ -1030,3 +1074,171 @@ def test_fast_intake_real_july_moral_resistance_aguilar_infers_host_and_guest() 
     assert normalized.host == "Sulaiman Ahmed"
     assert normalized.voice_slugs == ["aguilar"]
     assert normalized.thread == "aguilar"
+
+
+@pytest.mark.parametrize(
+    "value",
+    ["2026-7-01", "2026-02-30", "..\\..\\outside", "2026/07/01", ""],
+)
+def test_date_validation_rejects_malformed_impossible_and_escaping_values(value: str) -> None:
+    with pytest.raises(ValueError, match="valid YYYY-MM-DD"):
+        land_best_intake.validate_iso_date(value, "pub_date")
+
+
+def test_backfill_rejects_reversed_range_before_scanning(monkeypatch, tmp_path: Path) -> None:
+    sources, _ = configure_transaction_root(monkeypatch, tmp_path)
+
+    with pytest.raises(ValueError, match="must not be earlier"):
+        land_best_intake.backfill_sources("2026-07-10", "2026-07-09")
+
+    assert list(sources.iterdir()) == []
+
+
+def test_url_is_optional_and_upstream_provenance_remains_distinct(monkeypatch, tmp_path: Path) -> None:
+    _, _ = configure_transaction_root(monkeypatch, tmp_path)
+    args = transaction_args("2026-07-15", "URL unavailable", url="")
+
+    plans, proposed = land_best_intake.prepare_batch([args], {"source_count": 0, "sources": []})
+
+    assert 'source_url: ""' in plans[0].source_text
+    assert "source_url_status: unavailable" in plans[0].source_text
+    assert plans[0].manifest_row["upstream_path"].startswith("operator-paste://")
+    assert proposed["source_count"] == 1
+
+
+def test_batch_preflight_rejects_duplicate_and_existing_targets_without_writes(
+    monkeypatch, tmp_path: Path
+) -> None:
+    sources, _ = configure_transaction_root(monkeypatch, tmp_path)
+    first = transaction_args("2026-07-15", "Duplicate")
+    second = transaction_args("2026-07-15", "Duplicate")
+
+    with pytest.raises(ValueError, match="duplicate source path"):
+        land_best_intake.prepare_batch([first, second], {"source_count": 0, "sources": []})
+    assert list(sources.iterdir()) == []
+
+    target, _, _ = land_best_intake.source_plan(first)
+    target.parent.mkdir()
+    target.write_text("existing\n", encoding="utf-8")
+    with pytest.raises(FileExistsError, match="Refusing to overwrite"):
+        land_best_intake.prepare_batch([first], {"source_count": 0, "sources": []})
+    assert target.read_text(encoding="utf-8") == "existing\n"
+
+
+def test_batch_preflight_rejects_manifest_path_collision(monkeypatch, tmp_path: Path) -> None:
+    configure_transaction_root(monkeypatch, tmp_path)
+    args = transaction_args("2026-07-15", "Manifest duplicate")
+    target, _, _ = land_best_intake.source_plan(args)
+    relative = target.relative_to(tmp_path).as_posix()
+    manifest = {"source_count": 1, "sources": [{"local_path": relative}]}
+
+    with pytest.raises(ValueError, match="Manifest already contains"):
+        land_best_intake.prepare_batch([args], manifest)
+
+    duplicated = {
+        "source_count": 2,
+        "sources": [{"local_path": relative}, {"local_path": relative}],
+    }
+    with pytest.raises(ValueError, match="duplicate source paths"):
+        land_best_intake.prepare_batch([args], duplicated)
+
+
+def test_dry_run_preparation_creates_no_directories(monkeypatch, tmp_path: Path) -> None:
+    sources, _ = configure_transaction_root(monkeypatch, tmp_path)
+    args = transaction_args("2026-07-15", "Dry run")
+
+    plans, _ = land_best_intake.prepare_batch([args], {"source_count": 0, "sources": []})
+    messages = land_best_intake.dry_run_messages(plans)
+
+    assert messages[0].startswith("DRY RUN:")
+    assert list(sources.iterdir()) == []
+
+
+def test_successful_batch_publishes_sources_and_manifest_atomically(
+    monkeypatch, tmp_path: Path
+) -> None:
+    _, manifest_path = configure_transaction_root(monkeypatch, tmp_path)
+    args = [
+        transaction_args("2026-07-15", "First source"),
+        transaction_args("2026-07-15", "Second source"),
+    ]
+    original = json.loads(manifest_path.read_text(encoding="utf-8"))
+    plans, proposed = land_best_intake.prepare_batch(args, original)
+
+    messages = land_best_intake.publish_batch(plans, proposed)
+
+    assert len(messages) == 2
+    assert all(plan.source_path.exists() for plan in plans)
+    assert json.loads(manifest_path.read_text(encoding="utf-8"))["source_count"] == 2
+    assert not list(manifest_path.parent.rglob("*.stage"))
+
+
+def test_source_publication_failure_rolls_back_prior_sources_and_manifest(
+    monkeypatch, tmp_path: Path
+) -> None:
+    _, manifest_path = configure_transaction_root(monkeypatch, tmp_path)
+    args = [
+        transaction_args("2026-07-15", "First source"),
+        transaction_args("2026-07-15", "Second source"),
+    ]
+    original_text = manifest_path.read_text(encoding="utf-8")
+    plans, proposed = land_best_intake.prepare_batch(
+        args, json.loads(original_text)
+    )
+    real_replace = os.replace
+
+    def fail_second(source, destination):
+        if Path(destination) == plans[1].source_path:
+            raise OSError("simulated source publication failure")
+        return real_replace(source, destination)
+
+    monkeypatch.setattr(land_best_intake.os, "replace", fail_second)
+    with pytest.raises(OSError, match="simulated source"):
+        land_best_intake.publish_batch(plans, proposed)
+
+    assert all(not plan.source_path.exists() for plan in plans)
+    assert manifest_path.read_text(encoding="utf-8") == original_text
+    assert not list(manifest_path.parent.rglob("*.stage"))
+
+
+def test_manifest_publication_failure_rolls_back_all_sources(
+    monkeypatch, tmp_path: Path
+) -> None:
+    _, manifest_path = configure_transaction_root(monkeypatch, tmp_path)
+    args = [transaction_args("2026-07-15", "Manifest failure")]
+    original_text = manifest_path.read_text(encoding="utf-8")
+    plans, proposed = land_best_intake.prepare_batch(
+        args, json.loads(original_text)
+    )
+    real_replace = os.replace
+
+    def fail_manifest(source, destination):
+        if Path(destination) == manifest_path:
+            raise OSError("simulated manifest publication failure")
+        return real_replace(source, destination)
+
+    monkeypatch.setattr(land_best_intake.os, "replace", fail_manifest)
+    with pytest.raises(OSError, match="simulated manifest"):
+        land_best_intake.publish_batch(plans, proposed)
+
+    assert not plans[0].source_path.exists()
+    assert manifest_path.read_text(encoding="utf-8") == original_text
+    assert not list(manifest_path.parent.rglob("*.stage"))
+
+
+def test_documented_host_allowlists_match_executable_contracts() -> None:
+    skill = (REPO_ROOT / "docs" / "skill-drafts" / "best-intake" / "SKILL.md").read_text(
+        encoding="utf-8"
+    )
+    method = (
+        REPO_ROOT / "narrative-geopolitics" / "method" / "best-intake.md"
+    ).read_text(encoding="utf-8")
+    expected = {
+        "Current approved hosts:": set(land_best_intake.HOST_TRIM_RULES),
+        "Current approved auto-section hosts:": land_best_intake.SECTIONING_APPROVED_HOSTS,
+        "Current approved auto-ASR-repair hosts:": land_best_intake.ASR_REPAIR_APPROVED_HOSTS,
+    }
+
+    for label, hosts in expected.items():
+        assert documented_hosts(skill, label) == hosts
+        assert documented_hosts(method, label) == hosts

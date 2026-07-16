@@ -42,8 +42,12 @@ For batch work, save one filled sidecar per source in a folder and run:
 Same-day one-off intake needs:
 
 - `pub_date` or `ingest_date`;
-- `url`;
+- `url` when recoverable;
 - source body through `--body-file` or `--body-text`.
+
+If no public URL is recoverable, leave `url` blank. The landed source records
+`source_url_status: unavailable`; it does not promote the generated
+`operator-paste://` provenance URI into a source URL.
 
 Title, voice, host, and source form are inferred when the body is clear. A
 single clarification is allowed when host or primary voice ownership is truly

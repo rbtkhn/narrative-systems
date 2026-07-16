@@ -82,6 +82,11 @@ longer the preferred same-day one-off flow.
 
 If optional fields are unclear, preserve uncertainty instead of inventing precision.
 
+When no recoverable public URL exists, intake remains valid. New source
+frontmatter records `source_url: ""` and `source_url_status: unavailable`.
+When a URL is present it records `source_url_status: provided`. The generated
+`operator-paste://` upstream path is provenance, not a substitute public URL.
+
 The central manifest is authoritative for host and voice routing. Archive
 frontmatter may duplicate those fields for convenience, but older sources do
 not need retroactive header rewrites when their manifest routes are complete.
@@ -99,6 +104,19 @@ not need retroactive header rewrites when their manifest routes are complete.
 7. Add only enough frontmatter to keep provenance and retrieval usable.
 8. Append a manifest row.
 9. Mark uncertainty explicitly when classification is provisional.
+
+The executable transformation order is fixed:
+
+```text
+deterministic trim -> conservative ASR repair -> conservative sectioning
+```
+
+Before writing, the helper preflights the full batch, generated paths, existing
+manifest paths, and collisions. It stages all source files and the proposed
+manifest, publishes the sources, then atomically replaces the manifest. A
+handled failure before manifest publication removes newly published sources
+and preserves the original manifest. Process or power-loss recovery is outside
+this exception-safe guarantee.
 
 ## What Best-Intake Defers
 

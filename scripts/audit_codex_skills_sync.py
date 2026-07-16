@@ -6,7 +6,7 @@ from codex_skill_registry import (
     build_registry,
     discover_codex_skill_names,
     discover_repo_skill_names,
-    read_text,
+    skill_mirror_state,
 )
 
 
@@ -36,10 +36,13 @@ def main() -> None:
     missing_dest: list[str] = []
 
     for name, entry in registry.items():
-        if not entry.dest.exists():
+        status = skill_mirror_state(entry).status
+        if status == "MISSING_DEST":
             missing_dest.append(name)
             continue
-        if read_text(entry.source) == read_text(entry.dest):
+        if status == "MISSING_SOURCE":
+            repo_only.append(name)
+        elif status == "IN_SYNC":
             in_sync.append(name)
         else:
             drift.append(name)

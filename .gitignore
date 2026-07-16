@@ -24,3 +24,6 @@ Thumbs.db
 
 # Local advisory cadence state (never research evidence)
 /narrative-geopolitics/work/cadence/last-dream.json
+
+# Optional read-only AI harness receipt
+/tmp/ai-harness/

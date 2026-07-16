@@ -155,11 +155,11 @@ ASR repair is now also part of landing, but only in a conservative form:
 - avoid semantic rewriting
 - skip anything that depends on judgment
 
-## Next Improvements
+## Remaining Improvement
 
-1. Add a manifest regeneration command so the central manifest stops being a
-   high-friction hand-edited surface.
-2. Add lightweight tests for archive-file generation and manifest append logic.
+Add a manifest regeneration command if central-manifest repair remains a
+recurring operator cost. Archive generation, manifest publication, and failure
+rollback now have dedicated tests.
 
 ## Success Standard
 

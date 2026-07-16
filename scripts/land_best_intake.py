@@ -1,10 +1,14 @@
 from __future__ import annotations
 
 import argparse
+import copy
 import json
+import os
 import re
 import sys
+import tempfile
 from dataclasses import dataclass
+from datetime import date
 from pathlib import Path
 from types import SimpleNamespace
 
@@ -303,6 +307,13 @@ class HostProfile:
     default_source_form: str = "interview"
 
 
+@dataclass(frozen=True)
+class LandingPlan:
+    source_path: Path
+    source_text: str
+    manifest_row: dict[str, object]
+
+
 HOST_TRIM_RULES: dict[str, HostTrimRule] = {
     "mario-nawfal": HostTrimRule(
         slug="mario-nawfal",
@@ -523,6 +534,7 @@ def build_frontmatter(args: SimpleNamespace, title_slug: str, body: str) -> str:
             f"guest: {yaml_quote(args.guest)}",
             f"thread: {args.thread or args.voice_slugs[0]}",
             f"source_url: {yaml_quote(args.url)}",
+            f"source_url_status: {'provided' if args.url else 'unavailable'}",
             f"source_note: {yaml_quote(args.source_note)}",
             f"title_slug: {title_slug}",
             f"editorial_note: {yaml_quote(args.editorial_note)}",
@@ -559,9 +571,28 @@ def load_manifest() -> dict:
 
 
 def write_manifest(manifest: dict) -> None:
-    with MANIFEST_PATH.open("w", encoding="utf-8", newline="\n") as handle:
-        json.dump(manifest, handle, indent=2, ensure_ascii=False)
-        handle.write("\n")
+    payload = manifest_bytes(manifest)
+    descriptor, temporary_name = tempfile.mkstemp(
+        prefix=f".{MANIFEST_PATH.name}.", suffix=".stage", dir=MANIFEST_PATH.parent
+    )
+    try:
+        with os.fdopen(descriptor, "wb") as handle:
+            handle.write(payload)
+            handle.flush()
+            os.fsync(handle.fileno())
+        os.replace(temporary_name, MANIFEST_PATH)
+    except BaseException:
+        try:
+            os.unlink(temporary_name)
+        except FileNotFoundError:
+            pass
+        raise
+
+
+def manifest_bytes(manifest: dict) -> bytes:
+    payload = (json.dumps(manifest, indent=2, ensure_ascii=False) + "\n").encode("utf-8")
+    json.loads(payload.decode("utf-8"))
+    return payload
 
 
 def build_manifest_row(
@@ -677,8 +708,6 @@ def ensure_required_fields(args: SimpleNamespace) -> None:
         missing.append("ingest_date")
     if not getattr(args, "title", None):
         missing.append("title")
-    if not getattr(args, "url", None):
-        missing.append("url")
     body_file = getattr(args, "body_file", None)
     body_text = getattr(args, "body_text", None)
     if not body_file and not body_text:
@@ -687,6 +716,21 @@ def ensure_required_fields(args: SimpleNamespace) -> None:
         missing.append("voice_slug")
     if missing:
         raise ValueError(f"Missing required fields: {', '.join(missing)}")
+    args.pub_date = validate_iso_date(args.pub_date, "pub_date")
+    args.ingest_date = validate_iso_date(args.ingest_date, "ingest_date")
+    args.url = (getattr(args, "url", None) or "").strip()
+
+
+def validate_iso_date(value: object, label: str) -> str:
+    if not isinstance(value, str) or re.fullmatch(r"\d{4}-\d{2}-\d{2}", value) is None:
+        raise ValueError(f"{label} must be a valid YYYY-MM-DD date")
+    try:
+        parsed = date.fromisoformat(value)
+    except ValueError as exc:
+        raise ValueError(f"{label} must be a valid YYYY-MM-DD date") from exc
+    if parsed.isoformat() != value:
+        raise ValueError(f"{label} must be a valid YYYY-MM-DD date")
+    return value
 
 
 def normalize_args(args: SimpleNamespace) -> SimpleNamespace:
@@ -1528,6 +1572,11 @@ def backfill_sources(
     force_sections: bool = False,
     sectioning: str = "auto",
 ) -> list[str]:
+    since_date = validate_iso_date(since_date, "backfill_since")
+    if until_date is not None:
+        until_date = validate_iso_date(until_date, "backfill_until")
+        if until_date < since_date:
+            raise ValueError("backfill_until must not be earlier than backfill_since")
     messages: list[str] = []
     for path in sorted(ARCHIVE_SOURCES_ROOT.rglob("source-*.md")):
         result = retrofit_source(
@@ -1545,15 +1594,21 @@ def backfill_sources(
 
 def source_plan(args: SimpleNamespace) -> tuple[Path, str, str]:
     title_core_slug = slugify(args.title)
+    if not title_core_slug:
+        raise ValueError("title must contain at least one letter or number")
     file_slug = f"source-{title_core_slug}-{args.pub_date}.md"
     title_slug = f"transcript-{title_core_slug}-{args.pub_date}"
-    day_dir = ARCHIVE_ROOT / "sources" / args.pub_date
+    day_dir = ARCHIVE_SOURCES_ROOT / args.pub_date
     source_path = day_dir / file_slug
+    expected_parent = day_dir.resolve()
+    sources_root = ARCHIVE_SOURCES_ROOT.resolve()
+    if expected_parent.parent != sources_root or source_path.resolve().parent != expected_parent:
+        raise ValueError("generated source path must stay under archive/sources/YYYY-MM-DD")
     upstream_path = args.upstream_path or f"operator-paste://{args.ingest_date}/{title_core_slug}"
     return source_path, title_slug, upstream_path
 
 
-def land_one(args: SimpleNamespace, manifest: dict) -> tuple[str, int]:
+def prepare_landing(args: SimpleNamespace) -> LandingPlan:
     if getattr(args, "body_file", None):
         body_path = Path(args.body_file)
         if not body_path.is_file():
@@ -1567,31 +1622,115 @@ def land_one(args: SimpleNamespace, manifest: dict) -> tuple[str, int]:
     args.editorial_note = update_editorial_note(args.editorial_note, args.transcript_curation, args.section_count)
     frontmatter_doc = build_frontmatter(args, title_slug, body)
     manifest_row = build_manifest_row(args, source_path, upstream_path)
+    return LandingPlan(source_path, frontmatter_doc, manifest_row)
 
-    if args.dry_run:
-        return (
-            f"DRY RUN: {source_path.relative_to(REPO_ROOT).as_posix()}\n"
-            f"{json.dumps(manifest_row, indent=2)}",
-            len(manifest.get("sources", [])),
-        )
 
-    if source_path.exists():
-        raise FileExistsError(f"Refusing to overwrite existing source file: {source_path}")
-
-    day_dir = source_path.parent
-    day_dir.mkdir(parents=True, exist_ok=True)
-    source_path.write_text(frontmatter_doc, encoding="utf-8", newline="\n")
-
+def prepare_batch(source_args: list[SimpleNamespace], manifest: dict) -> tuple[list[LandingPlan], dict]:
     manifest_sources = manifest.get("sources")
     if not isinstance(manifest_sources, list):
         raise ValueError("Manifest format error: 'sources' is not a list.")
+    existing_path_list = [
+        item.get("local_path")
+        for item in manifest_sources
+        if isinstance(item, dict) and item.get("local_path")
+    ]
+    if len(existing_path_list) != len(set(existing_path_list)):
+        raise ValueError("Manifest contains duplicate source paths")
+    existing_paths = set(existing_path_list)
+    plans: list[LandingPlan] = []
+    planned_paths: set[str] = set()
+    for args in source_args:
+        plan = prepare_landing(args)
+        relative_path = plan.source_path.relative_to(REPO_ROOT).as_posix()
+        if relative_path in existing_paths:
+            raise ValueError(f"Manifest already contains source path: {relative_path}")
+        if relative_path in planned_paths:
+            raise ValueError(f"Batch contains duplicate source path: {relative_path}")
+        if plan.source_path.exists():
+            raise FileExistsError(f"Refusing to overwrite existing source file: {relative_path}")
+        planned_paths.add(relative_path)
+        plans.append(plan)
+    proposed = copy.deepcopy(manifest)
+    proposed_sources = proposed["sources"]
+    proposed_sources.extend(copy.deepcopy(plan.manifest_row) for plan in plans)
+    proposed["source_count"] = len(proposed_sources)
+    manifest_bytes(proposed)
+    return plans, proposed
 
-    manifest_sources.append(manifest_row)
-    manifest["source_count"] = len(manifest_sources)
-    return (
-        f"Landed source: {source_path.relative_to(REPO_ROOT).as_posix()}",
-        manifest["source_count"],
+
+def dry_run_messages(plans: list[LandingPlan]) -> list[str]:
+    return [
+        f"DRY RUN: {plan.source_path.relative_to(REPO_ROOT).as_posix()}\n"
+        f"{json.dumps(plan.manifest_row, indent=2)}"
+        for plan in plans
+    ]
+
+
+def stage_bytes(path: Path, payload: bytes) -> Path:
+    descriptor, temporary_name = tempfile.mkstemp(
+        prefix=f".{path.name}.", suffix=".stage", dir=path.parent
     )
+    temporary = Path(temporary_name)
+    try:
+        with os.fdopen(descriptor, "wb") as handle:
+            handle.write(payload)
+            handle.flush()
+            os.fsync(handle.fileno())
+    except BaseException:
+        temporary.unlink(missing_ok=True)
+        raise
+    return temporary
+
+
+def publish_batch(plans: list[LandingPlan], manifest: dict) -> list[str]:
+    staged_sources: list[tuple[Path, Path]] = []
+    published_sources: list[Path] = []
+    created_directories: list[Path] = []
+    staged_manifest: Path | None = None
+    manifest_published = False
+    try:
+        for plan in plans:
+            parent = plan.source_path.parent
+            if not parent.exists():
+                parent.mkdir(parents=True)
+                created_directories.append(parent)
+            staged_sources.append(
+                (
+                    stage_bytes(plan.source_path, plan.source_text.encode("utf-8")),
+                    plan.source_path,
+                )
+            )
+        staged_manifest = stage_bytes(MANIFEST_PATH, manifest_bytes(manifest))
+        for staged, target in staged_sources:
+            if target.exists():
+                raise FileExistsError(
+                    "Refusing to overwrite existing source file: "
+                    f"{target.relative_to(REPO_ROOT).as_posix()}"
+                )
+            os.replace(staged, target)
+            published_sources.append(target)
+        os.replace(staged_manifest, MANIFEST_PATH)
+        manifest_published = True
+    except BaseException:
+        if not manifest_published:
+            for target in reversed(published_sources):
+                target.unlink(missing_ok=True)
+        raise
+    finally:
+        for staged, _ in staged_sources:
+            staged.unlink(missing_ok=True)
+        if staged_manifest is not None:
+            staged_manifest.unlink(missing_ok=True)
+        if not manifest_published:
+            for directory in reversed(created_directories):
+                try:
+                    directory.rmdir()
+                except OSError:
+                    pass
+    return [
+        f"Landed source: {plan.source_path.relative_to(REPO_ROOT).as_posix()}"
+        for plan in plans
+    ]
 
 
 def metadata_files_from_batch_dir(batch_dir: Path) -> list[Path]:
@@ -1644,13 +1783,12 @@ def main() -> int:
             return 0
         source_args = gather_sources(cli_args)
         manifest = load_manifest()
-        messages: list[str] = []
-        for item in source_args:
-            message, manifest_count = land_one(item, manifest)
-            messages.append(message)
-        if not cli_args.dry_run:
-            write_manifest(manifest)
-            messages.append(f"Manifest count: {manifest_count}")
+        plans, proposed_manifest = prepare_batch(source_args, manifest)
+        if cli_args.dry_run:
+            messages = dry_run_messages(plans)
+        else:
+            messages = publish_batch(plans, proposed_manifest)
+            messages.append(f"Manifest count: {proposed_manifest['source_count']}")
         print("\n".join(messages))
         return 0
     except Exception as exc:  # noqa: BLE001

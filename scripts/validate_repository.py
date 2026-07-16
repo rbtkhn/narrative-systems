@@ -10,7 +10,12 @@ SCRIPTS_ROOT = Path(__file__).resolve().parent
 if str(SCRIPTS_ROOT) not in sys.path:
     sys.path.insert(0, str(SCRIPTS_ROOT))
 
-from codex_skill_registry import DEPLOYABLE_SKILL_NAMES, discover_repo_skill_names
+from codex_skill_registry import (
+    DEPLOYABLE_SKILL_NAMES,
+    SKILL_DRAFT_ROOT,
+    discover_repo_skill_names,
+    parse_skill_frontmatter,
+)
 import voice_indexes
 import voice_metadata
 import verification as verification_packets
@@ -238,7 +243,7 @@ def reality_lattice_failures() -> list[str]:
     return reality.validate_all()
 
 
-def skill_sync_failures() -> list[str]:
+def skill_contract_failures() -> list[str]:
     failures: list[str] = []
     deployable = set(DEPLOYABLE_SKILL_NAMES)
     if deployable != {"best-intake", "geopolitical-synthesis", "reality-check"}:
@@ -256,7 +261,33 @@ def skill_sync_failures() -> list[str]:
             expected = f"docs/skill-drafts/{name}/SKILL.md"
             if expected not in router:
                 failures.append(f"local cadence trigger missing route: {expected}")
+    governed = deployable | LOCAL_SKILLS
+    if repo_skills != governed:
+        failures.append(
+            f"repo skill drafts differ from governed set: expected={sorted(governed)} actual={sorted(repo_skills)}"
+        )
+    if deployable & LOCAL_SKILLS:
+        failures.append("deployable and local-only skill sets overlap")
+    router = LOCAL_ROUTER_PATH.read_text(encoding="utf-8") if LOCAL_ROUTER_PATH.exists() else ""
+    if "harness audit" not in router or "scripts/audit_ai_harness.py" not in router:
+        failures.append("repository-local harness audit route is missing")
+    for name in sorted(repo_skills):
+        path = SKILL_DRAFT_ROOT / name / "SKILL.md"
+        metadata = parse_skill_frontmatter(path)
+        label = relative(path)
+        if metadata.get("name") != name:
+            failures.append(f"skill frontmatter name does not match directory: {label}")
+        if not metadata.get("description"):
+            failures.append(f"skill frontmatter description is missing: {label}")
+    for name in sorted(deployable):
+        if not (SKILL_DRAFT_ROOT / name / "SKILL.md").exists():
+            failures.append(f"deployable skill missing canonical source: {name}")
     return failures
+
+
+def skill_sync_failures() -> list[str]:
+    """Compatibility name for callers that predate the broader contract check."""
+    return skill_contract_failures()
 
 
 def tracked_artifact_failures() -> list[str]:
@@ -299,7 +330,7 @@ def validate_repository() -> list[str]:
         operational_claim_failures,
         verification_packet_failures,
         reality_lattice_failures,
-        skill_sync_failures,
+        skill_contract_failures,
         tracked_artifact_failures,
         voice_routing_failures,
     ):

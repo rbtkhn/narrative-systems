@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import argparse
-from codex_skill_registry import build_registry, skill_files
+from codex_skill_registry import build_registry, skill_mirror_state
 
 
 def parse_args() -> argparse.Namespace:
@@ -31,15 +31,12 @@ def resolve_skills(requested: list[str] | None) -> list[str]:
 
 def check_skill(name: str) -> tuple[str, bool]:
     entry = build_registry()[name]
-    if not entry.source.exists():
+    state = skill_mirror_state(entry)
+    if state.status == "MISSING_SOURCE":
         return (f"MISSING-SOURCE {name} -> {entry.source_dir}", False)
-    if not entry.dest.exists():
+    if state.status == "MISSING_DEST":
         return (f"MISSING-DEST {name} -> {entry.dest_dir}", False)
-    source_files = skill_files(entry.source_dir)
-    dest_files = skill_files(entry.dest_dir)
-    if set(source_files) != set(dest_files):
-        return (f"DRIFT {name} -> {entry.dest_dir}", False)
-    if any(source_files[path].read_bytes() != dest_files[path].read_bytes() for path in source_files):
+    if state.status == "DRIFT":
         return (f"DRIFT {name} -> {entry.dest_dir}", False)
     return (f"IN-SYNC {name} -> {entry.dest_dir}", True)
 
