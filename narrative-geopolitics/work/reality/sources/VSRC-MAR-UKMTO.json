@@ -1,0 +1,40 @@
+{
+  "access": "open",
+  "access_languages": [
+    "en"
+  ],
+  "appropriate_uses": "Time and location of maritime incidents.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.ukmto.org/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "maritime_incident",
+  "evidence_class": "observational_registry",
+  "geography": "Middle East maritime",
+  "geopolitical_environment": "western_state",
+  "id": "VSRC-MAR-UKMTO",
+  "inappropriate_uses": "Proving attacker identity alone.",
+  "kind": "source",
+  "known_failure_modes": "Reporter dependence; names may be withheld; attribution cautious.",
+  "latency": "minutes-hours",
+  "name": "UKMTO / JMIC",
+  "observables": "warnings, positions, damage, incident chronology",
+  "open_fallback": "self",
+  "order": 2,
+  "origin_languages": [
+    "en"
+  ],
+  "originating_chain_rule": "Updates derived from one master report remain one chain.",
+  "perspective": "western_state",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "not_required"
+}

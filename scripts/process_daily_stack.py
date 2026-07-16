@@ -7,6 +7,7 @@ from typing import Any
 
 import voice_indexes
 import voice_metadata
+import render_daily_issue as ISSUE
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -137,6 +138,24 @@ def run_ledger_sync(args: argparse.Namespace) -> dict[str, Any]:
     return {"hooks": len(hooks), "new_rows": len(new_rows), "rows": new_rows}
 
 
+def run_issue_render(run_date: str, dry_run: bool = False) -> dict[str, str]:
+    try:
+        model = ISSUE.load_model(run_date)
+        failures = ISSUE.model_failures(
+            model,
+            ISSUE.LEDGER_PATH.read_text(encoding="utf-8"),
+        )
+        if failures:
+            return {"action": "blocked", "detail": "; ".join(failures)}
+        issue_path = ISSUE.DAILY_ROOT / run_date / "issue.md"
+        if dry_run:
+            return {"action": "plan", "detail": str(issue_path.relative_to(REPO_ROOT))}
+        issue_path.write_text(ISSUE.render_model(model), encoding="utf-8", newline="\n")
+        return {"action": "write", "detail": str(issue_path.relative_to(REPO_ROOT))}
+    except ISSUE.IssueError as exc:
+        return {"action": "deferred", "detail": str(exc)}
+
+
 def main() -> None:
     args = parse_args()
 
@@ -166,6 +185,10 @@ def main() -> None:
         if can_validate:
             validation = run_validation(args.date, "forecast")
 
+    issue = run_issue_render(args.date, args.dry_run)
+    if issue["action"] == "write":
+        validation = run_validation(args.date, "issue")
+
     print(f"date={args.date}")
     print(f"bootstrap_rows={bootstrap['rows']}")
     for action in bootstrap["actions"]:
@@ -180,6 +203,8 @@ def main() -> None:
         print(f"WARN {item}")
     print(f"ledger_hooks={ledger_sync['hooks']}")
     print(f"ledger_new_rows={ledger_sync['new_rows']}")
+    print(f"issue_action={issue['action']}")
+    print(f"issue_detail={issue['detail']}")
     for row in ledger_sync["rows"]:
         print(row)
 

@@ -54,6 +54,14 @@ The archive cannot yet discriminate decisively among them because the same missi
 | --- | --- | --- | --- | --- | --- |
 | `OPC-20260710-02` | A coordinated US-backed bypass attempt triggered Iranian coercive action and renewed US strikes. | `contested` | `high` | `no` | `VER-20260710-01` |
 
+## Issue Story Desk
+
+| Story ID | Placement | Argument headline | Crisis object | Evidence posture | Source IDs | Voices | Forecast hooks | Operational claims | Selection rationale |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `NGI-20260710-S01` | `lead` | The Bypass Test Sharpens Hormuz without Settling It | Can commercially tolerable passage occur without Iranian coordination, and did a documented bypass produce a coercive response? | `verification-contested` | `SRC-02`, `SRC-03`, `SRC-04` | Crooke; Mearsheimer; Macgregor | `NG-20260708-F01`, `NG-20260708-F02` | `OPC-20260710-02` | The alleged episode directly tests the live transit-governance mechanism, while the completed packet preserves the unresolved command and attribution boundary. |
+| `NGI-20260710-S02` | `brief` | Coercion Still Lacks a Clean Political End-State | Can military pressure restore an uncontested transit baseline or credible settlement terms? | `bounded-analysis` | `SRC-02`, `SRC-03`, `SRC-04` | Crooke; Mearsheimer; Macgregor | `none` | `none` | Functional convergence across structure, regional incentives, and force feasibility adds a distinct analytical consequence without claiming operational confirmation. |
+| `NGI-20260710-S03` | `brief` | NATO Rhetoric Has Not Yet Become Deployable Capacity | Did summit language and support promises produce a force-posture change capable of altering battlefield or settlement terms? | `bounded-analysis` | `SRC-01`, `SRC-04`, `SRC-05` | Macgregor; Mercouris | `none` | `none` | Retains the day's second source cluster at watch status because no new capability threshold is established. |
+
 ## Forecast Decision
 
 No new forecast is authorized. The July 10 event overlaps directly with existing accountable hooks `NG-20260708-F01` and `NG-20260708-F02`; adding another would duplicate rather than improve the ledger. `NG-20260708-F02` remains open under [VER-20260710-01](../../verification/packets/VER-20260710-01-hormuz-bypass-test/README.md): incident occurrence is supported, while deliberate trigger and attributable response remain contested.

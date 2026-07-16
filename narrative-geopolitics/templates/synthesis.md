@@ -68,6 +68,14 @@ Record only concrete operating facts that control planned public factual use, wa
 | --- | --- | --- | --- | --- | --- |
 | `OPC-YYYYMMDD-01` | Bounded claim controlling planned public use | `source_assertion` | `high` | `yes` | `request` |
 
+## Issue Story Desk
+
+Declare the reader-facing lineup only after the synthesis, forecast, and operational-claim triage are stable. Use one `lead`, no more than four `brief` rows, and `hold` for candidates excluded from the issue. Three to five selected stories is a target, not a quota.
+
+| Story ID | Placement | Argument headline | Crisis object | Evidence posture | Source IDs | Voices | Forecast hooks | Operational claims | Selection rationale |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `NGI-YYYYMMDD-S01` | `lead` |  |  | `bounded-analysis` | `SRC-01` |  | `none` | `none` |  |
+
 ## Forecast Candidates
 
 | Hook ID | Observable claim | Causal mechanism | Probability Band | Review Date | Principal alternative | Operational Dependency |

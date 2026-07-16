@@ -1,0 +1,40 @@
+{
+  "access": "open_limited",
+  "access_languages": [
+    "en"
+  ],
+  "appropriate_uses": "US policy leads and attributed official intent.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.axios.com/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "professional_reporting",
+  "evidence_class": "independent_professional_reporting",
+  "geography": "US and Middle East",
+  "geopolitical_environment": "western_independent",
+  "id": "VSRC-RPT-AXIOS",
+  "inappropriate_uses": "Operational confirmation without disclosed evidence.",
+  "kind": "source",
+  "known_failure_modes": "Insider-source dependence; narrow sourcing; framing compression.",
+  "latency": "minutes-hours",
+  "name": "Axios",
+  "observables": "US policy, official deliberation, diplomatic claims",
+  "open_fallback": "VSRC-RPT-AP",
+  "order": 31,
+  "origin_languages": [
+    "en"
+  ],
+  "originating_chain_rule": "Reports resting on the same unnamed official are one chain.",
+  "perspective": "western_independent",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "not_required"
+}

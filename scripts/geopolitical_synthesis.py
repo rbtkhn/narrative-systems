@@ -197,6 +197,9 @@ def execute_date(run_date: str, args: argparse.Namespace) -> None:
     if not args.skip_ledger_sync:
         ledger_sync = stack.run_ledger_sync(current)
         validation = stack.run_validation(run_date)
+    issue = stack.run_issue_render(run_date, args.dry_run)
+    if issue["action"] == "write":
+        validation = stack.run_validation(run_date, "issue")
 
     print(f"date={run_date}")
     print(f"bootstrap_rows={bootstrap['rows']}")
@@ -206,6 +209,8 @@ def execute_date(run_date: str, args: argparse.Namespace) -> None:
     print(f"validation_warnings={len(validation['warnings'])}")
     print(f"ledger_hooks={ledger_sync['hooks']}")
     print(f"ledger_new_rows={ledger_sync['new_rows']}")
+    print(f"issue_action={issue['action']}")
+    print(f"issue_detail={issue['detail']}")
     for item in validation["failures"]:
         print(f"FAIL {item}")
     for item in validation["warnings"]:

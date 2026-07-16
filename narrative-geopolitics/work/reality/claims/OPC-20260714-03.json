@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "as_of": "2026-07-14",
+  "claim_type": "operational_factual",
+  "claimant_refs": [],
+  "consequence": "high",
+  "created_at": "2026-07-14T00:00:00Z",
+  "created_by": "pilot-migration",
+  "crisis_object": "Hormuz regional participation",
+  "empirical_eligibility": true,
+  "id": "OPC-20260714-03",
+  "kind": "claim",
+  "revision_of": null,
+  "schema_version": 1,
+  "scope": "regional participation",
+  "source_refs": [],
+  "status": "open",
+  "text": "A Saudi/Yemen event chain moved Bab al-Mandab or Saudi infrastructure toward active participation in the transit contest."
+}

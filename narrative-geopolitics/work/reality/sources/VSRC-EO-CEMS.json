@@ -1,0 +1,40 @@
+{
+  "access": "open",
+  "access_languages": [
+    "en"
+  ],
+  "appropriate_uses": "Mapped physical consequences.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.copernicus.eu/en/copernicus-services/emergency",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "satellite_observation",
+  "evidence_class": "multilateral_primary",
+  "geography": "global",
+  "geopolitical_environment": "multilateral",
+  "id": "VSRC-EO-CEMS",
+  "inappropriate_uses": "Tactical attribution or intent.",
+  "kind": "source",
+  "known_failure_modes": "Activation dependence; lag; analytic uncertainty.",
+  "latency": "hours-days",
+  "name": "Copernicus EMS",
+  "observables": "damage, disaster extent, infrastructure",
+  "open_fallback": "self",
+  "order": 12,
+  "origin_languages": [
+    "en"
+  ],
+  "originating_chain_rule": "Products using the same activation and imagery are one chain.",
+  "perspective": "multilateral",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "not_required"
+}

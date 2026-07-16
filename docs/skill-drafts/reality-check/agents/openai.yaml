@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reality Check"
+  short_description: "Audit claims through the reality lattice"
+  default_prompt: "Use $reality-check to audit a lattice claim and identify the next bounded verification step."

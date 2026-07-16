@@ -25,6 +25,7 @@ The governing rule is:
 | `work/daily/` | Date-bounded synthesis state derived from manifest-backed sources. |
 | `work/forecasts/` | Durable forecast authorship, timing, and accountability state. |
 | `work/verification/` | Bounded operational assessments; not canonical archive evidence. |
+| `work/reality/` | Structured adjudication state for explicitly migrated claims; never archive evidence. |
 | `public/` | Intentionally promoted, source-bounded reader products. |
 | `scripts/` | Named capabilities with explicit mutation scope. |
 | skills and startup prompts | Session-scale authority envelopes and stop conditions. |
@@ -55,7 +56,8 @@ factual adoption, forecast resolution, publication, or Git/external state.
 | `best-intake` | New archive source and its manifest row. | Source body, private workflow, downstream judgment surfaces. | The supplied source is truthfully archived and manifest-backed. |
 | identity canonicalization | Declared alias-valued person metadata. | Paths, filenames, hosts, bodies, unrelated rows. | Selected metadata is canonical and idempotent. |
 | continuity reconciliation | Existing voice shelves derived from the manifest. | Archive evidence and manually assigned roles. | Existing shelves match manifest membership. |
-| geopolitical synthesis | Selected-date person-alias metadata, existing voice routes, the four-file daily contract, and new forecast hooks. | Private intake, source bodies beyond declared aliases, channel shelves, verification packets, forecast resolutions, public products, and unresolved uncertainty. | A manifest-backed day has a bounded internal judgment and synchronized open hooks. |
+| geopolitical synthesis | Selected-date person-alias metadata, existing voice routes, the four-file canonical daily contract, its generated `issue.md`, and new forecast hooks. | Private intake, source bodies beyond declared aliases, channel shelves, verification packets, forecast resolutions, public products, and unresolved uncertainty. | A manifest-backed day has a bounded internal judgment, synchronized open hooks, and an optional current reader-facing issue. |
+| `reality-check` | Nothing during the default audit; explicitly named lattice records only after the operator requests investigation or assessment. | Archive evidence, source admission, human identity, publication, forecast scoring, and downstream prose. | The claim has a validated decision brief and one bounded next action. |
 | operational verification | Explicit `VER-*` packets. | Archive evidence and human assessment authority. | The selected claim is assessed or honestly unresolved. |
 | forecast review | Ledger resolution metadata with packet support when required. | Authorship timing and excluded retrospective entries. | A due accountable hook is reviewed without forced certainty. |
 | publication | Intentionally selected public documents. | Source bounds, verification gates, as-of date, revision history. | Reader-facing claims satisfy the public contract. |
@@ -98,6 +100,7 @@ state. Within the guided workflow it may write only:
 - routes in already-existing `voices/*/source-index.md` shelves;
 - the selected date's `sources.md`, `synthesis.md`, `forecast.md`, and
   `daily-brief.md`;
+- the selected date's generated `issue.md` after the canonical files declare a complete issue lineup;
 - new open forecast hooks in the forecast ledger.
 
 Without explicit additional authorization it does not change private intake,
@@ -117,6 +120,38 @@ daily contract routes the operator to guided Choice `A`; reconciliation or
 validation debt routes to Choice `B`; a clean complete contract routes to
 operational-claim triage at Choice `C`. These recommendations describe the
 next authorized phase action; they do not execute it.
+
+The four daily files remain canonical. `issue.md` is a deterministic internal
+reader-facing rendering governed by [the daily-issue method](daily-issue.md);
+creating it is not public promotion.
+
+## Reality-Check Authority Envelope
+
+`reality-check` is scoped to an existing `OPC-*`, `CLM-*`, or `NG-*` lattice
+claim. Its default invocation is read-only: validate the repository and
+lattice, check generated-view currency, run `reality.py audit CLAIM_ID`, and
+report epistemic state, evidence posture, multilingual and lineage coverage,
+authorization boundaries, and the next bounded action.
+
+External research or lattice mutation requires an explicit operator request.
+Before browsing, the phase must declare atomic observables, target original-
+language environments, independence and interested-source restrictions, the
+time window, and a stop condition. It may then write only the named
+investigation and its claim, observable, evidence, relation, assessment, and
+transition records. Unregistered sources remain leads pending separate source
+admission.
+
+After a valid assessment, the agent asks whether the operator wants to sign.
+It records a signature only after confirmation and a supplied reviewer name;
+it never infers human identity or supplies a second signer. No assessment,
+signature, or waiver automatically authorizes publication, forecast scoring,
+archive mutation, source admission, or downstream prose changes.
+
+The audit entrypoint is:
+
+```powershell
+.\scripts\python.ps1 scripts\reality.py audit CLAIM-ID --json
+```
 
 ## Operational-Verification Authority Envelope
 
@@ -140,6 +175,12 @@ inside that boundary; an assessed packet routes to downstream human review.
 Supported, contested, disconfirmed, and unresolvable outcomes all preserve the
 same rule: an assessment constrains judgment but never resolves a forecast by
 itself.
+
+For a lattice-migrated investigation, the same envelope applies to its
+structured `VER-*` record and named graph dependencies. Automation may validate
+multilingual and lineage coverage, but only named humans may sign assessments.
+High-consequence publication or forecast scoring requires canonical lattice
+adjudication under the [reality-lattice method](reality-verification-lattice.md).
 
 ## Forecast-Review Authority Envelope
 

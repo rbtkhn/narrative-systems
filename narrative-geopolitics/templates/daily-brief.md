@@ -46,3 +46,20 @@ Include at least one probability-bearing review hook using a coarse band:
 - `plausible`: roughly 30-45%
 - `likely`: roughly 55-70%
 - `high`: roughly 70-85%
+
+## Issue Copy
+
+Write one section for every `lead` or `brief` row in the synthesis `Issue Story Desk`. The Story ID must match exactly. Held stories receive no issue copy.
+
+### NGI-YYYYMMDD-S01 — [Argument headline]
+
+Write calm reader-facing prose for the declared story. Keep source assertions attributed and do not convert analysis or forecast into reported fact.
+
+## Revision Log
+
+No revisions.
+
+When an issued day changes, append a row; do not silently replace an earlier entry.
+
+| Timestamp (UTC) | Type | Note |
+| --- | --- | --- |

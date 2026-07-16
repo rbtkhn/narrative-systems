@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "as_of": "2026-07-08",
+  "claim_type": "forecast",
+  "claimant_refs": [],
+  "consequence": "high",
+  "created_at": "2026-07-08T00:00:00Z",
+  "created_by": "pilot-migration",
+  "crisis_object": "Hormuz transit governance",
+  "empirical_eligibility": true,
+  "id": "NG-20260708-F01",
+  "kind": "claim",
+  "revision_of": null,
+  "schema_version": 1,
+  "scope": "Existing accountable forecast hook.",
+  "source_refs": [],
+  "status": "open",
+  "text": "Major public handling continues to treat Hormuz as a governed bargaining lane rather than a binary open or closed chokepoint."
+}

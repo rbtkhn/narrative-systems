@@ -1,0 +1,26 @@
+{
+  "affected_refs": [
+    "OPC-20260710-02"
+  ],
+  "as_of": "2026-07-15",
+  "authority": "operator human adjudication",
+  "cause_refs": [
+    "ADJ-20260715-001"
+  ],
+  "created_at": "2026-07-15T00:00:00Z",
+  "created_by": "operator",
+  "id": "EPT-20260715-001",
+  "kind": "transition",
+  "new_state": "operator-judged provisional support under ADJ-20260715-001",
+  "note": "The operator judges the warning-sequence claim confirmed. This changes human adjudicative state, not evidence state, and does not authorize publication or forecast scoring.",
+  "prior_state": "provisional contested under ADJ-20260710-005",
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "subject_id": "CLM-20260710-004",
+  "transition_types": [
+    "interpretation",
+    "confidence",
+    "authorization"
+  ]
+}

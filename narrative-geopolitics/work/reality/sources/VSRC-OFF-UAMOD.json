@@ -1,0 +1,41 @@
+{
+  "access": "open",
+  "access_languages": [
+    "uk",
+    "en"
+  ],
+  "appropriate_uses": "Ukrainian position and claimed action.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://mod.gov.ua/en",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "military_activity",
+  "evidence_class": "official_interested_primary",
+  "geography": "Ukraine",
+  "geopolitical_environment": "ukrainian_state",
+  "id": "VSRC-OFF-UAMOD",
+  "inappropriate_uses": "Independent operational confirmation.",
+  "kind": "source",
+  "known_failure_modes": "Wartime messaging; selective evidence; BDA uncertainty.",
+  "latency": "minutes-hours",
+  "name": "Ukrainian Ministry of Defence",
+  "observables": "Ukrainian claimed actions, losses, warnings",
+  "open_fallback": "self",
+  "order": 28,
+  "origin_languages": [
+    "uk"
+  ],
+  "originating_chain_rule": "Repetition by Ukrainian official organs is one chain.",
+  "perspective": "ukrainian_state",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "official_edition"
+}

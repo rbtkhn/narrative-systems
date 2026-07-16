@@ -1,7 +1,9 @@
 from __future__ import annotations
 
 import argparse
-from codex_skill_registry import build_registry, read_text
+import shutil
+
+from codex_skill_registry import build_registry, skill_files
 
 
 def parse_args() -> argparse.Namespace:
@@ -32,23 +34,35 @@ def resolve_skills(requested: list[str] | None) -> list[str]:
 
 def sync_skill(name: str, dry_run: bool) -> str:
     entry = build_registry()[name]
-    source = entry.source
-    dest = entry.dest
-    if not source.exists():
-        raise SystemExit(f"Missing repo skill draft for {name}: {source}")
+    if not entry.source.exists():
+        raise SystemExit(f"Missing repo skill draft for {name}: {entry.source_dir}")
 
-    source_text = read_text(source)
-    if dest.exists():
-        dest_text = read_text(dest)
-        if dest_text == source_text:
-            return f"UNCHANGED {name} -> {dest}"
+    source_files = skill_files(entry.source_dir)
+    dest_files = skill_files(entry.dest_dir)
+    if set(source_files) == set(dest_files) and all(
+        source_files[path].read_bytes() == dest_files[path].read_bytes()
+        for path in source_files
+    ):
+        return f"UNCHANGED {name} -> {entry.dest_dir}"
 
     if dry_run:
-        return f"WOULD-SYNC {name} -> {dest}"
+        return f"WOULD-SYNC {name} -> {entry.dest_dir}"
 
-    dest.parent.mkdir(parents=True, exist_ok=True)
-    dest.write_text(source_text, encoding="utf-8", newline="\n")
-    return f"SYNCED {name} -> {dest}"
+    entry.dest_dir.mkdir(parents=True, exist_ok=True)
+    for relative_path in sorted(set(dest_files) - set(source_files)):
+        dest_files[relative_path].unlink()
+    for directory in sorted(
+        (path for path in entry.dest_dir.rglob("*") if path.is_dir()),
+        key=lambda path: len(path.parts),
+        reverse=True,
+    ):
+        if not any(directory.iterdir()):
+            directory.rmdir()
+    for relative_path, source_path in source_files.items():
+        destination = entry.dest_dir / relative_path
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(source_path, destination)
+    return f"SYNCED {name} -> {entry.dest_dir}"
 
 
 def main() -> None:

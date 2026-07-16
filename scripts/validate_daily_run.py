@@ -14,6 +14,7 @@ if str(SCRIPTS_ROOT) not in sys.path:
 import voice_indexes
 import voice_metadata
 import verification
+import render_daily_issue as daily_issue
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -37,7 +38,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--date", required=True, help="Run date in YYYY-MM-DD format.")
     parser.add_argument(
         "--stage",
-        choices=("intake", "synthesis", "forecast", "publication"),
+        choices=("intake", "synthesis", "forecast", "issue", "publication"),
         default="intake",
         help=(
             "Validation stage. Intake reports stale coverage without blocking; "
@@ -135,7 +136,7 @@ def coverage_differences(
 
 
 def validate_run(run_date: str, stage: str = "intake") -> dict[str, Any]:
-    if stage not in {"intake", "synthesis", "forecast", "publication"}:
+    if stage not in {"intake", "synthesis", "forecast", "issue", "publication"}:
         raise ValueError(f"unsupported validation stage: {stage}")
 
     manifest = load_manifest()
@@ -228,6 +229,15 @@ def validate_run(run_date: str, stage: str = "intake") -> dict[str, Any]:
                 packets_root=verification.PACKETS_ROOT,
             )
         )
+
+    issue_failures, issue_warnings = daily_issue.validate_issue(
+        run_date,
+        require=stage == "issue",
+        daily_root=DAILY_ROOT,
+        ledger_path=LEDGER_PATH,
+    )
+    failures.extend(f"issue.md: {item}" for item in issue_failures)
+    warnings.extend(f"issue.md: {item}" for item in issue_warnings)
 
     return {
         "date": run_date,

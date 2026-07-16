@@ -1,0 +1,14 @@
+{
+  "as_of": "2026-07-14",
+  "created_at": "2026-07-14T00:00:00Z",
+  "created_by": "pilot-migration",
+  "from_id": "NG-20260708-F02",
+  "id": "REL-20260714-001",
+  "kind": "relation",
+  "relation_type": "depends_on",
+  "revision_of": null,
+  "schema_version": 1,
+  "scope": "July 14 forecast dependency; source assertions do not score the hook.",
+  "status": "active",
+  "to_id": "OPC-20260714-02"
+}

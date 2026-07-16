@@ -1,0 +1,41 @@
+{
+  "access": "open",
+  "access_languages": [
+    "he",
+    "en"
+  ],
+  "appropriate_uses": "Israeli claims, alerts, and official chronology.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.idf.il/en/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "military_activity",
+  "evidence_class": "official_interested_primary",
+  "geography": "Israel and region",
+  "geopolitical_environment": "israeli_state",
+  "id": "VSRC-OFF-IDF",
+  "inappropriate_uses": "Independent operational confirmation.",
+  "kind": "source",
+  "known_failure_modes": "Wartime messaging; selective evidence; attribution incentives.",
+  "latency": "minutes-hours",
+  "name": "Israel Defense Forces",
+  "observables": "Israeli claimed actions, alerts, deployments",
+  "open_fallback": "self",
+  "order": 27,
+  "origin_languages": [
+    "he"
+  ],
+  "originating_chain_rule": "Repetition by Israeli official organs is one chain.",
+  "perspective": "israeli_state",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "official_edition"
+}

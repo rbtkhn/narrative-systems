@@ -69,6 +69,16 @@ Packet-request commands:
 .\scripts\python.ps1 scripts\verification.py new --date 2026-07-14 --slug yemen-saudi-bab-al-mandab-participation
 ```
 
+## Issue Story Desk
+
+| Story ID | Placement | Argument headline | Crisis object | Evidence posture | Source IDs | Voices | Forecast hooks | Operational claims | Selection rationale |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `NGI-20260714-S01` | `lead` | The Strait Becomes a Regional Participation Test | Can commercially tolerable Gulf passage be restored without accepting Iranian coordination or widening regional costs? | `mixed` | `SRC-01`, `SRC-04`, `SRC-06`, `SRC-08`, `SRC-09` | Marandi; Johnson; Escobar; Wilkerson; Davis | `NG-20260708-F01`, `NG-20260708-F02` | `OPC-20260714-01`, `OPC-20260714-02`, `OPC-20260714-03` | Owns the day because it connects maritime permission, coercive pressure, and regional participation while preserving every operational gate. |
+| `NGI-20260714-S02` | `brief` | Gulf-Base Claims Define the Threshold They Cannot Yet Prove | Would independently supported strikes across Gulf facilities move the judgment from participation pressure to open regional war? | `source-assertion` | `SRC-01`, `SRC-04`, `SRC-05`, `SRC-08`, `SRC-09` | Marandi; Johnson; Barnes; Wilkerson; Davis | `none` | `OPC-20260714-01` | The claim is too consequential to omit and too weakly verified to promote; the brief makes that boundary useful to readers. |
+| `NGI-20260714-S03` | `brief` | A Second Transit Front Remains a Watch, Not a Finding | Can Yemen/Saudi pressure make Bab al-Mandab part of the same passage-governance contest? | `mixed` | `SRC-05`, `SRC-06`, `SRC-08` | Barnes; Escobar; Marandi | `NG-20260708-F01` | `OPC-20260714-03` | The candidate could widen the crisis object, but event, attribution, and commercial effects remain unresolved. |
+| `NGI-20260714-S04` | `brief` | Russia Pressure Persists without a New NATO Capability Threshold | Has Western rhetoric produced deployable capacity or a settlement-changing threshold in Ukraine? | `bounded-analysis` | `SRC-02`, `SRC-03`, `SRC-07`, `SRC-10` | Ritter; Mercouris; Helmer | `none` | `none` | Preserves a substantial secondary archive cluster without allowing breadth to displace the better-evidenced Gulf mechanism. |
+| `NGI-20260714-S05` | `hold` | Domestic Fracture Raises Pressure without Owning the Day | Does U.S. coalition conflict materially alter the passage contest or only its political narration? | `bounded-analysis` | `SRC-05` | Barnes | `none` | `none` | Held because the batch supplies political pressure and polemic but not a separate bounded mechanism strong enough for issue copy. |
+
 ## Forecast Decision
 
 No new forecast is authorized. July 14 strengthens the existing Hormuz hooks rather than creating a distinct wager. `NG-20260708-F01` remains the broad governance hook: major public handling should treat Hormuz as a governed bargaining lane rather than a simple open/closed chokepoint. `NG-20260708-F02` remains the bypass-punishment hook and depends on operational evidence for `OPC-20260714-02` alongside the earlier [VER-20260710-01](../../verification/packets/VER-20260710-01-hormuz-bypass-test/README.md).

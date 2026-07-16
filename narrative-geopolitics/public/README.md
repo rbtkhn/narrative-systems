@@ -13,6 +13,10 @@ Current crisis brief:
 
 - [The Burden of Normalizing Hormuz](briefs/hormuz-transit-governance-2026-07-09.md)
 
+Current conceptual essay:
+
+- [The Nervous System of Knowing](briefs/the-nervous-system-of-knowing.md)
+
 Current watch surface:
 
 - [Active dossier and trigger-bound watch candidates](watch.md)

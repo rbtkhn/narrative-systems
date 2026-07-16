@@ -1,0 +1,14 @@
+{
+  "as_of": "2026-07-10",
+  "created_at": "2026-07-10T00:00:00Z",
+  "created_by": "legacy-pilot-migration",
+  "from_id": "EVD-20260710-004",
+  "id": "REL-20260710-006",
+  "kind": "relation",
+  "relation_type": "contextualizes",
+  "revision_of": null,
+  "schema_version": 1,
+  "scope": "Migrated from the bounded July 10 packet; probative force follows its stated limitation.",
+  "status": "active",
+  "to_id": "CLM-20260710-004"
+}

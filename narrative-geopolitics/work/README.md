@@ -45,6 +45,16 @@ Execute the full stack:
 .\scripts\python.ps1 scripts\geopolitical_synthesis.py --date YYYY-MM-DD --execute
 ```
 
+The four daily Markdown inputs remain canonical. A completed run declares its
+lineup in `synthesis.md`, carries matching copy and an append-only UTC revision
+log in `daily-brief.md`, and generates `issue.md` as its internal reader-facing
+layer. See [the daily-issue method](../method/daily-issue.md).
+
+```powershell
+.\scripts\python.ps1 scripts\render_daily_issue.py --date YYYY-MM-DD
+.\scripts\python.ps1 scripts\validate_daily_run.py --date YYYY-MM-DD --stage issue
+```
+
 Date-range and month modes skip dates without manifest rows. The legacy
 `--scaffold-empty` flag is accepted for compatibility but writes nothing.
 
@@ -82,6 +92,7 @@ Validate a day at the relevant stage:
 - `intake` reports stale coverage and a refresh instruction without blocking
   source landing;
 - `synthesis`, `forecast`, and `publication` require exact Intake Batch coverage;
+- `issue` additionally requires a current deterministic `issue.md`;
 - the Run Source Set may be a documented analytical subset.
 
 Validate the repository boundary:
@@ -111,6 +122,12 @@ than forcing a result.
 
 Use [verification](verification/README.md) only for a selected load-bearing operational claim. Requests are explicit, web research is bounded to named observables, and evidence remains a work packet rather than archive truth.
 
+New and explicitly migrated claims use the canonical JSON graph in
+[reality](reality/README.md). The lattice preserves source lineage, original-
+language environments, atomic assessments, human signatures, and append-only
+epistemic transitions. Legacy packets retain authority until migration; their
+Markdown must not be silently rewritten during migration.
+
 ```powershell
 .\scripts\python.ps1 scripts\verification.py new --date YYYY-MM-DD --slug TEXT
 .\scripts\python.ps1 scripts\verification.py list --json
@@ -122,8 +139,10 @@ Daily synthesis uses `Operational Claim Triage` as an exception gate, not a fact
 
 ## Skill Deployment
 
-Only the portable, repo-owned `best-intake` and `geopolitical-synthesis` drafts
-are eligible for user-level synchronization:
+The repo-owned `best-intake`, `geopolitical-synthesis`, and `reality-check`
+drafts are eligible for user-level synchronization. Synchronization mirrors
+the complete registered skill directory, including `agents/openai.yaml` when
+present:
 
 ```powershell
 .\scripts\python.ps1 scripts\check_codex_skills_sync.py

@@ -37,3 +37,51 @@ No new forecast is added. Existing hook `NG-20260708-F02` already asks whether a
 - `contested` — `OPC-20260710-02`: the coordinated US-backed trigger-response sequence remains unproven under `VER-20260710-01`.
 
 Revision note: first July 10 synthesis using the analytical-interface method; internal only.
+
+## Issue Copy
+
+### NGI-20260710-S01 — The Bypass Test Sharpens Hormuz without Settling It
+
+The July 10 archive supplies the clearest test yet of the Hormuz governance thesis: an alleged attempt to send vessels through an Oman-side route without Iranian coordination, followed by coercive action and renewed U.S. strikes. If the full sequence occurred as described, nominally open water would still be politically governed because passage outside the claimed permission regime would carry a visible cost.
+
+The completed verification packet makes the judgment narrower and more useful. `VER-20260710-01` supports three damaged vessels along the Oman-side route and the timing of subsequent U.S. strikes. It does not establish a coordinated U.S.-backed bypass operation, vessel-specific warning compliance, Iranian attribution for each incident, or the proposed trigger-response chain. The event therefore sharpens the mechanism without settling it.
+
+Crooke provides the detailed sequence, Mearsheimer explains why disputed transit terms would strengthen Iranian hardliners and weaken bargaining trust, and Macgregor tests military alternatives against attainable political ends. Their functional convergence supports the question the archive should ask. It cannot substitute for the tracks, orders, warnings, damage evidence, and attribution needed to answer it as an operational fact.
+
+The episode matters because it distinguishes governance from disruption. Under a temporary-disruption account, traffic should normalize once immediate fighting subsides, without durable Iranian permission or repeated punishment of alternative routes. Under a managed-passage account, nominal openness coexists with a practical rule: actors that ignore the claimed coordination regime incur costs. The Oman-side incidents are consistent with the latter account, but consistency is weaker than proof of the proposed cause.
+
+The verification packet makes that gap auditable. Maritime reporting establishes incidents and damage along the relevant route; interested official claims and commentary supply the proposed intent and attribution. Those are not equivalent evidence chains. A future review would need vessel tracks, specific warnings, operational orders, or independently supported attribution to connect the physical incidents to the strategic test. Without them, the forecast remains open rather than scored by narrative fit.
+
+Commercial behavior is the other missing half of the judgment. Passage becomes politically consequential when routing, insurance, cargo flows, port calls, or operator guidance change in response to the contested authority. The July 10 batch contains none of those measures. It can therefore identify a mechanism-bearing episode and preserve its uncertainty, but it cannot determine whether the episode created a commercially tolerable operating regime or merely a dangerous interruption.
+
+This is why no new forecast belongs to July 10. `NG-20260708-F02` already states the discriminating wager: a visible attempt to weaken or bypass Iranian transit authority should produce a visible coercive test. Creating another hook after reports of a possible test would duplicate the mechanism and blur the boundary between an ex-ante wager and retrospective description. The accountable move is to keep the existing authorship date, attach the operational dependency, and wait for evidence capable of resolving both the attempted bypass and the response.
+
+The principal alternative remains mutual signaling without stable control. Washington and Tehran may each conduct limited tests, narrate them as demonstrations of authority, and still lack a durable capacity to impose rules on commercial actors. Repeated passage behavior matters more than a single dramatic sequence because governance requires persistence. Evidence of normalization outside Iranian coordination would weaken the lead; verified repeated enforcement against documented bypasses would strengthen it.
+
+### NGI-20260710-S02 — Coercion Still Lacks a Clean Political End-State
+
+Across the Hormuz material, a second judgment survives even if the alleged bypass sequence remains contested: additional force has not supplied an uncontested transit baseline or a credible route to settlement. Mearsheimer emphasizes the incentives created when a claimed arrangement is violated. Crooke reads the regional response through legitimacy and resistance. Macgregor argues that proposals for seizure, special operations, or decisive escalation fail the feasibility test.
+
+This is bounded analysis rather than event verification. The voices share a critical view of U.S. strategy and appear in overlapping media environments, so agreement cannot be counted as institutional independence. Their value lies in performing different analytical operations on the same problem. Structure, regional incentive, and force capacity all point toward the absence of a clean end-state, while the exact operating sequence remains unresolved.
+
+The structural problem is circular. If Washington uses force to demonstrate that passage cannot depend on Tehran, a coercive response can make commercial passage less predictable and Iranian coordination more salient. If it accepts coordination to restore traffic, it concedes part of the political authority it sought to deny. Military action can alter costs inside that dilemma without necessarily resolving who sets the operating terms.
+
+That does not establish that Iranian governance is stable or complete. Selective enforcement may fail, commercial actors may normalize around alternative protections, or both sides may settle into tacit rules that neither publicly acknowledges. The point is narrower: the archive does not yet show how additional strikes produce a political baseline superior to the one they are contesting. Feasibility must be judged by the resulting arrangement, not by the capacity to conduct another operation.
+
+This brief also guards against converting strategic criticism into a prediction of inevitable failure. The source set is concentrated, and its speakers may understate adaptive capacity or bargaining room on the opposing side. Evidence of durable passage outside Iranian coordination, a credible limited agreement, or a force posture that changes Tehran's incentives would weaken the judgment. Those possibilities remain live alternatives rather than rhetorical concessions.
+
+### NGI-20260710-S03 — NATO Rhetoric Has Not Yet Become Deployable Capacity
+
+The NATO and Russia material carries intense language about Patriot production, drone support, possible escalation, and exhausted negotiating trust. Mercouris supplies most of the diplomatic sequence, while Macgregor pressures the practical military assumptions. The cluster warrants continued attention because harder rhetoric and support commitments can eventually alter force posture or settlement expectations.
+
+July 10 does not establish that threshold. The archive lacks a confirmed new deployment, an adjudicated capability change, or a formal policy move that changes battlefield direction. Two Mercouris programs also represent continuity of one interpretive lane rather than independent confirmation. The issue therefore keeps NATO-Russia as a bounded secondary story and declines to let rhetorical intensity displace the more discriminating Hormuz test.
+
+This is a sequencing judgment, not a claim that the NATO material is unimportant. Production commitments, air-defense allocation, drone programs, and changes in targeting policy could accumulate into a capability shift even when no single announcement is decisive. The daily archive should retain those indicators so a later threshold is not missed. On July 10, however, the sources mainly interpret promises and official language; they do not establish delivery, integration, readiness, or battlefield effect.
+
+The same rule applies to claims that Russian negotiating trust is exhausted. Mercouris attributes hardening language to Russian officials, and the language is analytically relevant to diplomatic room. In this archive it remains secondhand, and even confirmed rhetoric would not by itself prove that all negotiating pathways are closed. Official texts, subsequent conduct, and changes in settlement demands would be needed to turn a rhetorical watch into a durable diplomatic finding.
+
+Keeping this lane brief preserves the purpose of a multi-story issue. Readers can see that the day contained a second serious geopolitical cluster and understand the observable that would promote it, while the issue still makes an editorial judgment about what changed most. Breadth becomes useful when it exposes thresholds and alternatives, not when every source cluster receives equal weight by default.
+
+## Revision Log
+
+No revisions.

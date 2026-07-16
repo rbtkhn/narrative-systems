@@ -1,0 +1,40 @@
+{
+  "access": "open",
+  "access_languages": [
+    "en"
+  ],
+  "appropriate_uses": "Producer position and published production.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.opec.org/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "energy_market",
+  "evidence_class": "official_interested_primary",
+  "geography": "OPEC members and global",
+  "geopolitical_environment": "middle_east_regional",
+  "id": "VSRC-ECO-OPEC",
+  "inappropriate_uses": "Independent verification of member compliance.",
+  "kind": "source",
+  "known_failure_modes": "Strategic reporting incentives; lag; revisions.",
+  "latency": "days-months",
+  "name": "OPEC",
+  "observables": "member production, forecasts, official policy",
+  "open_fallback": "self",
+  "order": 17,
+  "origin_languages": [
+    "en"
+  ],
+  "originating_chain_rule": "Member submissions repeated across releases remain one chain.",
+  "perspective": "middle_east_regional",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "not_required"
+}

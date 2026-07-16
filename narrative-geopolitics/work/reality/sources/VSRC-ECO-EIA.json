@@ -1,0 +1,40 @@
+{
+  "access": "open",
+  "access_languages": [
+    "en"
+  ],
+  "appropriate_uses": "Energy baselines and market consequences.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.eia.gov/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "energy_market",
+  "evidence_class": "official_interested_primary",
+  "geography": "US and global",
+  "geopolitical_environment": "western_state",
+  "id": "VSRC-ECO-EIA",
+  "inappropriate_uses": "Real-time physical verification.",
+  "kind": "source",
+  "known_failure_modes": "Lag; revisions; US-centered collection.",
+  "latency": "days-months",
+  "name": "US EIA",
+  "observables": "production, stocks, flows, prices",
+  "open_fallback": "self",
+  "order": 15,
+  "origin_languages": [
+    "en"
+  ],
+  "originating_chain_rule": "Releases drawing on the same survey are one chain.",
+  "perspective": "western_state",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "not_required"
+}

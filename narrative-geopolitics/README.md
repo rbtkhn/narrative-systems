@@ -35,6 +35,12 @@ across voices without flattening their disagreements into a house view.
 All operating modes inherit [The Repository Remembers; the Agent Receives a
 Mandate](method/bounded-agency-contract.md), the canonical contract for
 authority, phase ownership, invariants, stop conditions, and handoffs.
+Across those modes, the provisional [Epistemic Constitution](method/epistemic-constitution.md)
+governs how claim state and consequences travel without allowing downstream
+repetition or presentation to manufacture evidentiary warrant.
+The [Reality Verification Lattice](method/reality-verification-lattice.md)
+provides structured, multilingual, human-signed adjudication for claims
+explicitly migrated into that layer.
 
 The proven daily judgment loop is:
 
@@ -47,6 +53,8 @@ best-intake through the day
 -> work/daily/YYYY-MM-DD/synthesis.md
 -> work/daily/YYYY-MM-DD/daily-brief.md
 -> work/daily/YYYY-MM-DD/forecast.md
+-> work/daily/YYYY-MM-DD/issue.md (generated internal reader edition)
+-> work/reality/ (claim, evidence, outcome, and transition graph where migrated)
 -> work/forecasts/forecast-ledger.md
 -> public/briefs/daily/YYYY-MM-DD.md (only when intentionally promoted)
 ```

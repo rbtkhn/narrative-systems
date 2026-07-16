@@ -16,6 +16,7 @@ if str(SCRIPTS_ROOT) not in sys.path:
 
 import triage_forecast_ledger as forecast_triage
 import verification as verification_packets
+import reality
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -306,6 +307,35 @@ def scoped_synthesis_authority(run_date: str) -> dict:
 def verification_state(packet_id: str) -> dict:
     path = verification_packets.find_packet(packet_id)
     if path is None:
+        records = reality.load_records()
+        investigation = records.get(packet_id)
+        if investigation and investigation.get("kind") == "investigation":
+            observables = [
+                records[item].get("question", item)
+                for item in investigation.get("observable_ids", [])
+                if item in records
+            ]
+            evidence_ids = {
+                item.get("from_id")
+                for item in records.values()
+                if item.get("kind") == "relation"
+                and item.get("to_id") in investigation.get("claim_ids", [])
+                and records.get(item.get("from_id"), {}).get("kind") == "evidence"
+            }
+            return {
+                "packet_id": packet_id,
+                "exists": True,
+                "path": reality.record_path("investigation", packet_id).relative_to(REPO_ROOT).as_posix(),
+                "status": investigation.get("status"),
+                "assessment_outcome": None,
+                "observables": observables,
+                "evidence_records": len(evidence_ids),
+                "evidence_chains": len({records[item].get("originating_chain") for item in evidence_ids}),
+                "affected_forecast_hooks": investigation.get("affected_forecast_hooks", []),
+                "validation_failures": reality.validate_record(investigation, records),
+                "registry_failures": verification_packets.validate_registry(),
+                "lattice": True,
+            }
         return {
             "packet_id": packet_id,
             "exists": False,
@@ -318,6 +348,7 @@ def verification_state(packet_id: str) -> dict:
             "affected_forecast_hooks": [],
             "validation_failures": [f"packet not found or ambiguous: {packet_id}"],
             "registry_failures": verification_packets.validate_registry(),
+            "lattice": False,
         }
     packet = verification_packets.parse_packet(path)
     return {
@@ -336,14 +367,24 @@ def verification_state(packet_id: str) -> dict:
         ),
         "validation_failures": verification_packets.validate_packet(packet),
         "registry_failures": verification_packets.validate_registry(),
+        "lattice": bool(reality.load_records().get(packet.packet_id)),
     }
 
 
-def scoped_verification_authority(packet_id: str) -> dict:
-    return {
+def scoped_verification_authority(packet_id: str, *, lattice: bool = False) -> dict:
+    authority = {
         key: [value.format(packet_id=packet_id) for value in values]
         for key, values in OPERATIONAL_VERIFICATION_AUTHORITY.items()
     }
+    if lattice:
+        authority["may_write"] = [
+            f"narrative-geopolitics/work/reality/investigations/{packet_id}.json",
+            "new named observable, evidence, relation, assessment, and transition records under narrative-geopolitics/work/reality/",
+        ]
+        authority["must_not_write_without_explicit_authorization"].append(
+            "unrelated reality-lattice records or signed assessment history"
+        )
+    return authority
 
 
 def forecast_review_state(
@@ -383,6 +424,7 @@ def forecast_review_state(
         )
     entry = entries[0] if len(entries) == 1 else None
     triage = triage_rows[0] if len(triage_rows) == 1 else None
+    lattice = reality.claim_state(hook_id)
     return {
         "hook_id": hook_id,
         "as_of": as_of,
@@ -397,6 +439,7 @@ def forecast_review_state(
         "accountable": triage.accountable if triage else None,
         "review_note": triage.review_note if triage else None,
         "verification_packets": packets,
+        "lattice": lattice,
     }
 
 
@@ -470,7 +513,7 @@ def startup_state(
     elif mode == "operational-verification":
         assert packet_id is not None
         phase = verification_state(packet_id)
-        authority = scoped_verification_authority(packet_id)
+        authority = scoped_verification_authority(packet_id, lattice=phase.get("lattice", False))
         if not phase["exists"]:
             blockers.append("verification_packet_missing_or_ambiguous")
         if phase["registry_failures"]:
@@ -522,6 +565,13 @@ def startup_state(
         )
         if resolved and not completed_packets:
             blockers.append("resolved_accountable_forecast_lacks_completed_packet")
+        lattice_assessment = (phase.get("lattice") or {}).get("assessment")
+        if resolved and phase.get("lattice") and not (
+            lattice_assessment
+            and lattice_assessment.get("status") in {"canonical_assessed", "canonical_with_language_waiver"}
+            and lattice_assessment.get("authorizes_forecast_scoring") is True
+        ):
+            blockers.append("resolved_accountable_forecast_lacks_canonical_multilingual_adjudication")
         if phase["accountable"] is False:
             next_action = "preserve_non_accountable_classification"
         elif phase["resolution_status"] != "open":

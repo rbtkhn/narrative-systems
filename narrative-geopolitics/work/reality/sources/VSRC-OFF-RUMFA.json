@@ -1,0 +1,41 @@
+{
+  "access": "open",
+  "access_languages": [
+    "ru",
+    "en"
+  ],
+  "appropriate_uses": "Russian position and contradiction testing.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://mid.ru/en/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "diplomatic_position",
+  "evidence_class": "official_interested_primary",
+  "geography": "Russia and global",
+  "geopolitical_environment": "russian_state_affiliated",
+  "id": "VSRC-OFF-RUMFA",
+  "inappropriate_uses": "Independent operational fact.",
+  "kind": "source",
+  "known_failure_modes": "Strategic messaging; selective evidence.",
+  "latency": "hours-days",
+  "name": "Russian Ministry of Foreign Affairs",
+  "observables": "Russian policy, claims, warnings, denials",
+  "open_fallback": "self",
+  "order": 23,
+  "origin_languages": [
+    "ru"
+  ],
+  "originating_chain_rule": "Russian state outlets repeating the ministry are one chain.",
+  "perspective": "russian_state_affiliated",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "official_edition"
+}

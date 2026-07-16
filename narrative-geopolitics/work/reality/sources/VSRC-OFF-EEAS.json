@@ -1,0 +1,40 @@
+{
+  "access": "open",
+  "access_languages": [
+    "multilingual"
+  ],
+  "appropriate_uses": "EU position and official documents.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.eeas.europa.eu/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "diplomatic_position",
+  "evidence_class": "official_interested_primary",
+  "geography": "Europe and global",
+  "geopolitical_environment": "western_state",
+  "id": "VSRC-OFF-EEAS",
+  "inappropriate_uses": "Operational confirmation alone.",
+  "kind": "source",
+  "known_failure_modes": "Consensus language; policy lag.",
+  "latency": "hours-days",
+  "name": "EU External Action Service",
+  "observables": "EU policy, diplomacy, sanctions, monitoring",
+  "open_fallback": "self",
+  "order": 22,
+  "origin_languages": [
+    "multilingual"
+  ],
+  "originating_chain_rule": "Member repetition of one EU statement is one chain.",
+  "perspective": "western_state",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "official_edition"
+}

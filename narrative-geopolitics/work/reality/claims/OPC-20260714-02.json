@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "as_of": "2026-07-14",
+  "claim_type": "operational_factual",
+  "claimant_refs": [],
+  "consequence": "high",
+  "created_at": "2026-07-14T00:00:00Z",
+  "created_by": "pilot-migration",
+  "crisis_object": "Hormuz regional participation",
+  "empirical_eligibility": true,
+  "id": "OPC-20260714-02",
+  "kind": "claim",
+  "revision_of": null,
+  "schema_version": 1,
+  "scope": "maritime routing",
+  "source_refs": [],
+  "status": "open",
+  "text": "Tankers or corridor traffic attempting to bypass Iranian coordination were warned, mined, struck, or deterred with measurable commercial effect."
+}

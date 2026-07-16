@@ -1,0 +1,43 @@
+{
+  "access": "open",
+  "access_languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "appropriate_uses": "Locate original humanitarian reports.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://reliefweb.int/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "humanitarian_event",
+  "evidence_class": "multilateral_primary",
+  "geography": "global",
+  "geopolitical_environment": "multilateral",
+  "id": "VSRC-HUM-RELIEFWEB",
+  "inappropriate_uses": "Independent confirmation of reposted claims.",
+  "kind": "source",
+  "known_failure_modes": "Aggregation is not independence; uneven local coverage.",
+  "latency": "hours-days",
+  "name": "ReliefWeb",
+  "observables": "displacement, casualties, access, needs",
+  "open_fallback": "self",
+  "order": 3,
+  "origin_languages": [
+    "fr",
+    "es"
+  ],
+  "originating_chain_rule": "Reposts retain the originating organization's chain.",
+  "perspective": "multilateral",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "official_edition"
+}

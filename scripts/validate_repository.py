@@ -14,6 +14,8 @@ from codex_skill_registry import DEPLOYABLE_SKILL_NAMES, discover_repo_skill_nam
 import voice_indexes
 import voice_metadata
 import verification as verification_packets
+import render_daily_issue as daily_issue
+import reality
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -95,6 +97,16 @@ def daily_run_failures() -> list[str]:
             encoding="utf-8"
         ).lower():
             failures.append(f"placeholder daily run: {relative(run_dir)}")
+        if "issue.md" in files:
+            issue_failures, _ = daily_issue.validate_issue(
+                run_dir.name,
+                daily_root=DAILY_ROOT,
+                ledger_path=LEDGER_PATH,
+            )
+            failures.extend(
+                f"daily issue invalid: {relative(run_dir / 'issue.md')} -> {item}"
+                for item in issue_failures
+            )
     return failures
 
 
@@ -222,10 +234,14 @@ def verification_packet_failures() -> list[str]:
     return verification_packets.validate_all()
 
 
+def reality_lattice_failures() -> list[str]:
+    return reality.validate_all()
+
+
 def skill_sync_failures() -> list[str]:
     failures: list[str] = []
     deployable = set(DEPLOYABLE_SKILL_NAMES)
-    if deployable != {"best-intake", "geopolitical-synthesis"}:
+    if deployable != {"best-intake", "geopolitical-synthesis", "reality-check"}:
         failures.append(f"unexpected deployable skill allowlist: {sorted(deployable)}")
     repo_skills = set(discover_repo_skill_names())
     if not LOCAL_SKILLS <= repo_skills:
@@ -282,6 +298,7 @@ def validate_repository() -> list[str]:
         editorial_title_failures,
         operational_claim_failures,
         verification_packet_failures,
+        reality_lattice_failures,
         skill_sync_failures,
         tracked_artifact_failures,
         voice_routing_failures,

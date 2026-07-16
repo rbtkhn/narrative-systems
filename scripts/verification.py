@@ -17,6 +17,7 @@ PACKETS_ROOT = VERIFICATION_ROOT / "packets"
 TEMPLATE_PATH = VERIFICATION_ROOT / "_packet-template.md"
 LEDGER_PATH = NG_ROOT / "work" / "forecasts" / "forecast-ledger.md"
 REGISTRY_PATH = VERIFICATION_ROOT / "source-registry.md"
+REALITY_ROOT = NG_ROOT / "work" / "reality"
 
 WORKFLOW_STATES = {"requested", "researching", "assessed", "closed"}
 OUTCOMES = {
@@ -32,7 +33,7 @@ PERSPECTIVES = {"multilateral", "commercial", "western_state", "western_independ
 ACCESS_CLASSES = {"open", "open_limited", "registration", "subscription"}
 LANGUAGES = {"en", "fr", "es", "ar", "zh", "ru", "fa", "he", "uk", "tr", "multilingual"}
 TRANSLATION_PROVENANCE = {"not_required", "official_english_available", "official_english_edition", "operator_translation_required"}
-STATUSES = {"active", "degraded", "retired"}
+STATUSES = {"candidate", "active", "degraded", "retired"}
 DIRECTIONS = {"supports", "challenges", "context_only"}
 VER_RE = re.compile(r"VER-\d{8}-\d{2}")
 HOOK_RE = re.compile(r"NG-\d{8}-F\d{2}")
@@ -113,6 +114,29 @@ class OperationalClaim:
 
 
 def parse_registry(path: Path = REGISTRY_PATH) -> list[SourceRecord]:
+    structured_root = REALITY_ROOT / "sources"
+    if path == REGISTRY_PATH and structured_root.exists() and any(structured_root.glob("*.json")):
+        translation_map = {
+            "not_required": "not_required",
+            "official_edition": "official_english_available",
+            "named_human_translation": "operator_translation_required",
+            "operator_translation": "operator_translation_required",
+            "machine_assisted_disclosed": "operator_translation_required",
+        }
+        records = []
+        for source_path in sorted(structured_root.glob("*.json")):
+            item = json.loads(source_path.read_text(encoding="utf-8"))
+            review_history = item.get("review_history", [])
+            reviewed = review_history[-1].get("date", "") if review_history else ""
+            records.append(SourceRecord(
+                item["id"], item["name"], item["canonical_url"], item["domain"], item["observables"],
+                item["evidence_class"], item["perspective"], item["geography"],
+                tuple(item["access_languages"]), translation_map.get(item["translation_provenance"], item["translation_provenance"]),
+                item["access"], item["open_fallback"], item["latency"], item["originating_chain_rule"],
+                item["known_failure_modes"], item["appropriate_uses"], item["inappropriate_uses"],
+                reviewed, item["status"],
+            ))
+        return sorted(records, key=lambda record: record.source_id)
     records = []
     for match in REGISTRY_ROW_RE.finditer(path.read_text(encoding="utf-8")):
         cells = [cell.strip().strip("`") for cell in match.group("rest").split("|")]
@@ -128,8 +152,8 @@ def validate_registry(path: Path = REGISTRY_PATH) -> list[str]:
         return ["verification source registry is missing"]
     records = parse_registry(path)
     ids = [record.source_id for record in records]
-    if len(records) != 36:
-        failures.append(f"source registry requires 36 entries; found {len(records)}")
+    if not records:
+        failures.append("source registry has no entries")
     for source_id in sorted({item for item in ids if ids.count(item) > 1}):
         failures.append(f"duplicate registry source ID: {source_id}")
     by_id = {record.source_id: record for record in records}
@@ -188,6 +212,12 @@ def day_payload(
             by_claim.setdefault(item["dependency"], []).append(item["hook"])
     rows = []
     for claim in claims:
+        lattice = None
+        try:
+            import reality
+            lattice = reality.claim_state(claim.claim_id)
+        except (ImportError, ValueError, OSError, json.JSONDecodeError):
+            lattice = None
         packet = None
         packet_state = "not_requested"
         packet_outcome = None
@@ -203,8 +233,19 @@ def day_payload(
                 packet_state = "missing"
         blocking = []
         assessed = packet_state in {"assessed", "closed"}
+        lattice_assessment = lattice.get("assessment") if lattice else None
+        lattice_support = bool(
+            lattice_assessment
+            and lattice_assessment.get("outcome") == "supported"
+            and lattice_assessment.get("status") in {"canonical_assessed", "canonical_with_language_waiver"}
+        )
+        effective_status = claim.status
+        if lattice_assessment and lattice_assessment.get("outcome") in {"contested", "disconfirmed", "unresolvable"}:
+            effective_status = lattice_assessment["outcome"]
+        elif lattice_support:
+            effective_status = "operationally_supported"
         if claim.status == "operationally_supported" and not (
-            assessed and packet_outcome == "operationally_supported"
+            lattice_support if lattice else (assessed and packet_outcome == "operationally_supported")
         ):
             blocking.append("unsupported_operational_status")
         if claim.consequence == "high" and claim.public_use == "yes" and not assessed:
@@ -213,6 +254,7 @@ def day_payload(
             "claim_id": claim.claim_id,
             "claim": claim.claim,
             "status": claim.status,
+            "effective_status": effective_status,
             "consequence": claim.consequence,
             "public_use": claim.public_use,
             "verification": claim.verification,
@@ -220,6 +262,7 @@ def day_payload(
             "packet_outcome": packet_outcome,
             "forecast_hooks": sorted(by_claim.get(claim.claim_id, [])),
             "blocking_reasons": blocking,
+            "lattice": lattice,
         })
     unknown_dependencies = sorted({item["dependency"] for item in dependencies if item["dependency"] != "none"} - {claim.claim_id for claim in claims})
     return {"date": run_date, "claims": rows, "forecast_dependencies": dependencies, "unknown_dependencies": unknown_dependencies}
@@ -258,6 +301,8 @@ def validate_day_claims(run_date: str, stage: str, daily_root: Path | None = Non
             failures.append(f"{item['claim_id']}: verification packet not found {verification}")
         if "unsupported_operational_status" in item["blocking_reasons"]:
             failures.append(f"{item['claim_id']}: operationally_supported requires a supporting assessed packet")
+        if item["lattice"] and item["status"] == "operationally_supported" and item["effective_status"] != "operationally_supported":
+            failures.append(f"{item['claim_id']}: migrated claim lacks canonical multilingual lattice support")
         if item["public_use"] == "no" and not item["forecast_hooks"]:
             failures.append(
                 f"{item['claim_id']}: orphan operational claim; retain only claims controlling public use or a forecast dependency"

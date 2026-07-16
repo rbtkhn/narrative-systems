@@ -1,0 +1,41 @@
+{
+  "access": "open",
+  "access_languages": [
+    "zh",
+    "en"
+  ],
+  "appropriate_uses": "Chinese position, diplomatic wording, local leads.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://english.news.cn/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "professional_reporting",
+  "evidence_class": "state_affiliated_reporting",
+  "geography": "China and global",
+  "geopolitical_environment": "chinese_state_affiliated",
+  "id": "VSRC-RPT-XINHUA",
+  "inappropriate_uses": "Independent operational confirmation alone.",
+  "kind": "source",
+  "known_failure_modes": "State control; selective framing; official dependence.",
+  "latency": "minutes-hours",
+  "name": "Xinhua",
+  "observables": "Chinese official claims, diplomacy, selected field reports",
+  "open_fallback": "self",
+  "order": 36,
+  "origin_languages": [
+    "zh"
+  ],
+  "originating_chain_rule": "Language editions and state-media repetition are one chain.",
+  "perspective": "chinese_state_affiliated",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "official_edition"
+}

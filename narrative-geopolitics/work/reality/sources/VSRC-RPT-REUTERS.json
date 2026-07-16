@@ -1,0 +1,40 @@
+{
+  "access": "open_limited",
+  "access_languages": [
+    "en"
+  ],
+  "appropriate_uses": "Fast attributed chronology and market facts.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.reuters.com/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "professional_reporting",
+  "evidence_class": "independent_professional_reporting",
+  "geography": "global",
+  "geopolitical_environment": "western_independent",
+  "id": "VSRC-RPT-REUTERS",
+  "inappropriate_uses": "Counting customers' rewrites independently.",
+  "kind": "source",
+  "known_failure_modes": "Anonymous officials; access gaps; version changes.",
+  "latency": "minutes-hours",
+  "name": "Reuters",
+  "observables": "event chronology, markets, field and official sourcing",
+  "open_fallback": "self",
+  "order": 30,
+  "origin_languages": [
+    "en"
+  ],
+  "originating_chain_rule": "Syndications and rewrites of one Reuters dispatch are one chain.",
+  "perspective": "western_independent",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "not_required"
+}

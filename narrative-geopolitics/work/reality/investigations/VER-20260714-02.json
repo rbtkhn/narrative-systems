@@ -1,0 +1,25 @@
+{
+  "affected_artifacts": [
+    "narrative-geopolitics/work/daily/2026-07-14/synthesis.md",
+    "narrative-geopolitics/work/daily/2026-07-14/forecast.md",
+    "narrative-geopolitics/work/daily/2026-07-14/issue.md"
+  ],
+  "affected_forecast_hooks": [
+    "NG-20260708-F02"
+  ],
+  "as_of": "2026-07-14",
+  "claim_ids": [
+    "OPC-20260714-02"
+  ],
+  "created_at": "2026-07-14T00:00:00Z",
+  "created_by": "pilot-migration",
+  "id": "VER-20260714-02",
+  "kind": "investigation",
+  "observable_ids": [
+    "OBS-20260714-002"
+  ],
+  "research_boundary": "Require three independent original-language environments, including affected-region and external perspectives, plus the closest available physical or registry evidence.",
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "requested"
+}

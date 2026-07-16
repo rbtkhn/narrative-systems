@@ -1,0 +1,40 @@
+{
+  "access": "open_limited",
+  "access_languages": [
+    "en"
+  ],
+  "appropriate_uses": "Inspecting geolocated physical change.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://apps.sentinel-hub.com/eo-browser/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "satellite_observation",
+  "evidence_class": "sensor_or_tracking_data",
+  "geography": "global",
+  "geopolitical_environment": "commercial",
+  "id": "VSRC-EO-SENTINEL",
+  "inappropriate_uses": "Confident attribution without expert analysis.",
+  "kind": "source",
+  "known_failure_modes": "Cloud, resolution, revisit, analyst error.",
+  "latency": "hours-days",
+  "name": "Sentinel Hub EO Browser",
+  "observables": "optical and radar change, infrastructure, vessels",
+  "open_fallback": "VSRC-EO-CEMS",
+  "order": 13,
+  "origin_languages": [
+    "en"
+  ],
+  "originating_chain_rule": "Images from the same pass are one chain regardless of viewer.",
+  "perspective": "commercial",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "not_required"
+}

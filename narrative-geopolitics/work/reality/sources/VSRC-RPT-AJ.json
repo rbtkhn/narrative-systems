@@ -1,0 +1,41 @@
+{
+  "access": "open",
+  "access_languages": [
+    "ar",
+    "en"
+  ],
+  "appropriate_uses": "Regional voices, field leads, contradiction testing.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.aljazeera.com/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "professional_reporting",
+  "evidence_class": "independent_professional_reporting",
+  "geography": "Middle East and global",
+  "geopolitical_environment": "middle_east_regional",
+  "id": "VSRC-RPT-AJ",
+  "inappropriate_uses": "Independent proof where sourcing is only interested officials.",
+  "kind": "source",
+  "known_failure_modes": "Qatar-related framing; access asymmetry; live-report errors.",
+  "latency": "minutes-hours",
+  "name": "Al Jazeera",
+  "observables": "regional field reporting, official and local voices",
+  "open_fallback": "self",
+  "order": 33,
+  "origin_languages": [
+    "ar"
+  ],
+  "originating_chain_rule": "Arabic and English versions of one report are one chain.",
+  "perspective": "middle_east_regional",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "official_edition"
+}

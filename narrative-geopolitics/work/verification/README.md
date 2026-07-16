@@ -4,6 +4,11 @@ Status: `active work contract`
 
 Operational verification tests a selected claim against bounded external evidence. It does not turn repeated commentary into fact, replace archive provenance, or authorize generalized collection.
 
+This packet interface remains canonical for unmigrated historical claims and a
+compatibility surface for migrated claims. New adjudication state lives in the
+[Reality Verification Lattice](../reality/README.md). Existing `VER-*` IDs and
+the assessed July 10 packet are preserved.
+
 ## Boundary
 
 - Requests are created explicitly for load-bearing claims.
@@ -14,6 +19,9 @@ Operational verification tests a selected claim against bounded external evidenc
 - The source registry records capability and situated perspective, never a universal trust score.
 - Perspective diversity improves access and contradiction detection; observable evidence still governs the assessment.
 - Automation validates packet completeness; a human owns the assessment.
+- For migrated positive empirical claims, multilingual lattice gates also
+  require two languages and chains for ordinary claims or three for
+  high-consequence claims.
 
 ## Workflow
 

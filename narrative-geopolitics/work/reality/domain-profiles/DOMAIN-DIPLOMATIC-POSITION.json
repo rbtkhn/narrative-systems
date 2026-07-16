@@ -1,0 +1,37 @@
+{
+  "admissible_evidence_roles": [
+    "context_only",
+    "observational",
+    "official_position",
+    "professional_reporting"
+  ],
+  "as_of": "2026-07-15",
+  "created_at": "2026-07-15T00:00:00Z",
+  "created_by": "migration",
+  "domain": "diplomatic_position",
+  "external_environment_required": true,
+  "high_chain_count": 3,
+  "high_language_count": 3,
+  "id": "DOMAIN-DIPLOMATIC-POSITION",
+  "kind": "domain_profile",
+  "ordinary_chain_count": 2,
+  "ordinary_language_count": 2,
+  "permitted_outcomes": [
+    "supported",
+    "contested",
+    "disconfirmed",
+    "unresolvable"
+  ],
+  "regional_environment_required": true,
+  "required_observables": [
+    "primary statement",
+    "speaker or institution",
+    "date",
+    "translation",
+    "subsequent revision"
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "waiver_policy": "Two distinct reviewers may approve unusually strong primary physical evidence after a documented multilingual search failure."
+}

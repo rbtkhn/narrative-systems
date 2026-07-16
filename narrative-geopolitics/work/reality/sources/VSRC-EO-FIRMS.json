@@ -1,0 +1,40 @@
+{
+  "access": "open",
+  "access_languages": [
+    "en"
+  ],
+  "appropriate_uses": "Time-bounded thermal anomaly detection.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://firms.modaps.eosdis.nasa.gov/map/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "satellite_observation",
+  "evidence_class": "sensor_or_tracking_data",
+  "geography": "global",
+  "geopolitical_environment": "western_state",
+  "id": "VSRC-EO-FIRMS",
+  "inappropriate_uses": "Identifying cause alone.",
+  "kind": "source",
+  "known_failure_modes": "Clouds; false positives; no attribution.",
+  "latency": "hours",
+  "name": "NASA FIRMS",
+  "observables": "thermal anomalies, fires",
+  "open_fallback": "self",
+  "order": 11,
+  "origin_languages": [
+    "en"
+  ],
+  "originating_chain_rule": "Detections from one satellite overpass are one chain.",
+  "perspective": "western_state",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "not_required"
+}

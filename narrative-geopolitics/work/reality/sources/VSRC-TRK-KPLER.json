@@ -1,0 +1,40 @@
+{
+  "access": "subscription",
+  "access_languages": [
+    "en"
+  ],
+  "appropriate_uses": "Flow estimates and route changes.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.kpler.com/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "maritime_tracking",
+  "evidence_class": "commercial_operational_data",
+  "geography": "global",
+  "geopolitical_environment": "commercial",
+  "id": "VSRC-TRK-KPLER",
+  "inappropriate_uses": "Exact cargo fact without qualification.",
+  "kind": "source",
+  "known_failure_modes": "Model inference; proprietary corrections; revisions.",
+  "latency": "near-real-time",
+  "name": "Kpler",
+  "observables": "cargo flows, tanker movement, commodity volumes",
+  "open_fallback": "VSRC-TRK-MARINETRAFFIC",
+  "order": 9,
+  "origin_languages": [
+    "en"
+  ],
+  "originating_chain_rule": "Derived voyages sharing AIS and cargo assumptions are one chain.",
+  "perspective": "commercial",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "not_required"
+}

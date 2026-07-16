@@ -1,0 +1,41 @@
+{
+  "access": "open",
+  "access_languages": [
+    "en",
+    "fr"
+  ],
+  "appropriate_uses": "Alliance position and announced posture.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.nato.int/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "military_activity",
+  "evidence_class": "official_interested_primary",
+  "geography": "Euro-Atlantic",
+  "geopolitical_environment": "western_state",
+  "id": "VSRC-OFF-NATO",
+  "inappropriate_uses": "Independent verification of contested action.",
+  "kind": "source",
+  "known_failure_modes": "Coalition messaging; selective detail.",
+  "latency": "hours-days",
+  "name": "NATO",
+  "observables": "alliance posture, exercises, warnings",
+  "open_fallback": "self",
+  "order": 21,
+  "origin_languages": [
+    "fr"
+  ],
+  "originating_chain_rule": "Allied repetition of one NATO release is one chain.",
+  "perspective": "western_state",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "official_edition"
+}

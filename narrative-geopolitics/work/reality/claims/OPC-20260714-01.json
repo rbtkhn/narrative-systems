@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "as_of": "2026-07-14",
+  "claim_type": "operational_factual",
+  "claimant_refs": [],
+  "consequence": "high",
+  "created_at": "2026-07-14T00:00:00Z",
+  "created_by": "pilot-migration",
+  "crisis_object": "Hormuz regional participation",
+  "empirical_eligibility": true,
+  "id": "OPC-20260714-01",
+  "kind": "claim",
+  "revision_of": null,
+  "schema_version": 1,
+  "scope": "military activity",
+  "source_refs": [],
+  "status": "open",
+  "text": "Iran struck US or Gulf-linked bases and facilities across the named regional cluster, with material air-defense failure."
+}

@@ -1,0 +1,40 @@
+{
+  "access": "open_limited",
+  "access_languages": [
+    "en"
+  ],
+  "appropriate_uses": "Movement hypotheses and vessel identification.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.marinetraffic.com/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "maritime_tracking",
+  "evidence_class": "commercial_operational_data",
+  "geography": "global",
+  "geopolitical_environment": "commercial",
+  "id": "VSRC-TRK-MARINETRAFFIC",
+  "inappropriate_uses": "Treating missing AIS as absence.",
+  "kind": "source",
+  "known_failure_modes": "AIS gaps, spoofing, delayed terrestrial coverage.",
+  "latency": "near-real-time",
+  "name": "MarineTraffic",
+  "observables": "AIS position, port calls, vessel identity",
+  "open_fallback": "self",
+  "order": 7,
+  "origin_languages": [
+    "en"
+  ],
+  "originating_chain_rule": "Mirrors of the same AIS transmission are one chain.",
+  "perspective": "commercial",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "not_required"
+}

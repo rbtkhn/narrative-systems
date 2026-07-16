@@ -25,10 +25,16 @@ for a date without manifest rows.
 
 ## Daily Contract
 
+Canonical:
+
 - `sources.md`
 - `synthesis.md`
 - `forecast.md`
 - `daily-brief.md`
+
+Generated after the canonical files are issue-ready:
+
+- `issue.md`
 
 There is no tracked session receipt or placeholder-day state.
 
@@ -56,6 +62,8 @@ Month and range modes process only dates with manifest rows. The deprecated
 - Permit a documented Run Source Set subset.
 - Treat retrospective forecasts as retrospective unless timing proves otherwise.
 - Keep `daily-brief.md` internal until intentionally promoted.
+- Keep `issue.md` internal reader-facing; generation is not publication.
+- Declare issue membership in the synthesis `Issue Story Desk`; require matching `Issue Copy` in `daily-brief.md` and regenerate rather than hand-editing `issue.md`.
 - Do not revive the old `public-brief.md` contract.
 - Do not alter private intake behavior.
 - Do not browse, create verification packets, or assign operational truth automatically.

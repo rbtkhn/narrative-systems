@@ -1,0 +1,48 @@
+{
+  "as_of": "2026-07-15",
+  "authorizes_forecast_scoring": false,
+  "authorizes_public": false,
+  "calibration_eligible": false,
+  "claim_id": "CLM-20260710-004",
+  "confidence_boundary": "The operator adjudicates the warning-sequence claim as confirmed. The lattice records this as provisional support because no supporting provenance edge or multilingual corroboration presently establishes delivery, receipt, specificity, timing, and defiance for all three vessels.",
+  "created_at": "2026-07-15T00:00:00Z",
+  "created_by": "operator",
+  "evidence_ids": [
+    "EVD-20260710-001",
+    "EVD-20260710-002",
+    "EVD-20260710-003",
+    "EVD-20260710-004",
+    "EVD-20260710-005",
+    "EVD-20260710-006"
+  ],
+  "id": "ADJ-20260715-001",
+  "kind": "assessment",
+  "language_audit": {
+    "external_environment_present": false,
+    "missing_environments": [
+      "direct affected-region supporting source",
+      "external supporting source",
+      "third independent original-language environment"
+    ],
+    "origin_languages": [],
+    "originating_chains": [],
+    "regional_environment_present": false
+  },
+  "language_search_record": "Legacy research was English-dominant with one French-origin contextual report; the operator override adds no evidence and requests no waiver.",
+  "observable_ids": [
+    "OBS-20260710-004"
+  ],
+  "outcome": "supported",
+  "physical_evidence_exception": false,
+  "rationale": "Human adjudicator operator overrides ADJ-20260710-005's contested outcome and judges the claim confirmed. This revision records human authority separately from evidentiary support; existing warning material remains contextual rather than an independent supporting provenance edge.",
+  "revision_of": "ADJ-20260710-005",
+  "schema_version": 1,
+  "signoffs": [
+    {
+      "reviewer": "operator",
+      "signed_at": "2026-07-16T00:32:21Z"
+    }
+  ],
+  "status": "provisional_assessed",
+  "updated_at": "2026-07-16T00:32:21Z"
+}

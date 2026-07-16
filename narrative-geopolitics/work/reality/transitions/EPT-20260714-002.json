@@ -1,0 +1,25 @@
+{
+  "affected_refs": [
+    "narrative-geopolitics/work/daily/2026-07-14/issue.md"
+  ],
+  "as_of": "2026-07-14",
+  "authority": "daily-issue-v1 rendering contract",
+  "cause_refs": [
+    "EPT-20260714-001"
+  ],
+  "created_at": "2026-07-14T00:00:00Z",
+  "created_by": "pilot-migration",
+  "id": "EPT-20260714-002",
+  "kind": "transition",
+  "new_state": "generated internal daily issue",
+  "note": "Issue rendering changed presentation and internal use only; it added no evidence.",
+  "prior_state": "canonical daily files",
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "subject_id": "CLM-20260714-001",
+  "transition_types": [
+    "presentation",
+    "authorization"
+  ]
+}

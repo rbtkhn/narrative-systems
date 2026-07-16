@@ -1,0 +1,41 @@
+{
+  "access": "open",
+  "access_languages": [
+    "tr",
+    "en"
+  ],
+  "appropriate_uses": "Turkish position, regional leads, local access.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.aa.com.tr/en",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "professional_reporting",
+  "evidence_class": "state_affiliated_reporting",
+  "geography": "Turkey and region",
+  "geopolitical_environment": "turkish_state_affiliated",
+  "id": "VSRC-RPT-ANADOLU",
+  "inappropriate_uses": "Independent operational confirmation alone.",
+  "kind": "source",
+  "known_failure_modes": "State alignment; official-source dependence; selective framing.",
+  "latency": "minutes-hours",
+  "name": "Anadolu Agency",
+  "observables": "Turkish and regional official/local reporting",
+  "open_fallback": "self",
+  "order": 34,
+  "origin_languages": [
+    "tr"
+  ],
+  "originating_chain_rule": "Translations and syndications of one dispatch are one chain.",
+  "perspective": "turkish_state_affiliated",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "official_edition"
+}

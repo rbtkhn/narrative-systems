@@ -1,0 +1,40 @@
+{
+  "access": "open",
+  "access_languages": [
+    "en"
+  ],
+  "appropriate_uses": "Geolocated change and damage estimates.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://unosat.org/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "satellite_observation",
+  "evidence_class": "multilateral_primary",
+  "geography": "global",
+  "geopolitical_environment": "multilateral",
+  "id": "VSRC-EO-UNOSAT",
+  "inappropriate_uses": "Intent or attribution without corroboration.",
+  "kind": "source",
+  "known_failure_modes": "Tasking and publication lag; interpretation uncertainty.",
+  "latency": "days",
+  "name": "UNOSAT",
+  "observables": "damage, flooding, displacement, infrastructure change",
+  "open_fallback": "self",
+  "order": 4,
+  "origin_languages": [
+    "en"
+  ],
+  "originating_chain_rule": "Products using the same imagery and analysis are one chain.",
+  "perspective": "multilateral",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "not_required"
+}

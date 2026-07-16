@@ -1,0 +1,40 @@
+{
+  "access": "open",
+  "access_languages": [
+    "en"
+  ],
+  "appropriate_uses": "Vessel and incident baselines.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://gisis.imo.org/Public/Default.aspx",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "maritime_incident",
+  "evidence_class": "multilateral_primary",
+  "geography": "global",
+  "geopolitical_environment": "multilateral",
+  "id": "VSRC-MAR-IMO",
+  "inappropriate_uses": "Actor intent or tactical attribution.",
+  "kind": "source",
+  "known_failure_modes": "Reporting lag; member-state dependence; limited attribution.",
+  "latency": "days-weeks",
+  "name": "IMO / GISIS",
+  "observables": "casualties, vessel identity, safety notices",
+  "open_fallback": "self",
+  "order": 1,
+  "origin_languages": [
+    "en"
+  ],
+  "originating_chain_rule": "Registry entries sharing one submitted incident report are one chain.",
+  "perspective": "multilateral",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "not_required"
+}

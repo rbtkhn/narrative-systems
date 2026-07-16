@@ -1,0 +1,40 @@
+{
+  "access": "open_limited",
+  "access_languages": [
+    "en"
+  ],
+  "appropriate_uses": "Professionally reported chronology and attribution.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://apnews.com/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "professional_reporting",
+  "evidence_class": "independent_professional_reporting",
+  "geography": "global",
+  "geopolitical_environment": "western_independent",
+  "id": "VSRC-RPT-AP",
+  "inappropriate_uses": "Counting syndications as confirmations.",
+  "kind": "source",
+  "known_failure_modes": "Official-source dependence; access gaps; updates obscure versions.",
+  "latency": "minutes-hours",
+  "name": "Associated Press",
+  "observables": "event chronology, interviews, field reporting",
+  "open_fallback": "self",
+  "order": 29,
+  "origin_languages": [
+    "en"
+  ],
+  "originating_chain_rule": "Syndications and rewrites of one AP dispatch are one chain.",
+  "perspective": "western_independent",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "not_required"
+}

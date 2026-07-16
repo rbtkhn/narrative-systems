@@ -1,0 +1,41 @@
+{
+  "access": "open",
+  "access_languages": [
+    "zh",
+    "en"
+  ],
+  "appropriate_uses": "Chinese position and official wording.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.mfa.gov.cn/eng/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "diplomatic_position",
+  "evidence_class": "official_interested_primary",
+  "geography": "China and global",
+  "geopolitical_environment": "chinese_state_affiliated",
+  "id": "VSRC-OFF-CNMFA",
+  "inappropriate_uses": "Independent operational fact.",
+  "kind": "source",
+  "known_failure_modes": "Strategic messaging; translation nuance.",
+  "latency": "hours-days",
+  "name": "Chinese Ministry of Foreign Affairs",
+  "observables": "Chinese policy, warnings, denials",
+  "open_fallback": "self",
+  "order": 24,
+  "origin_languages": [
+    "zh"
+  ],
+  "originating_chain_rule": "State-media repetition of one ministry statement is one chain.",
+  "perspective": "chinese_state_affiliated",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "official_edition"
+}

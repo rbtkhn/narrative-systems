@@ -1,0 +1,40 @@
+{
+  "access": "subscription",
+  "access_languages": [
+    "en"
+  ],
+  "appropriate_uses": "Shipping context and ownership research.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.lloydslist.com/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "maritime_tracking",
+  "evidence_class": "commercial_operational_data",
+  "geography": "global",
+  "geopolitical_environment": "commercial",
+  "id": "VSRC-TRK-LLOYDS",
+  "inappropriate_uses": "Independent confirmation when sharing feeds.",
+  "kind": "source",
+  "known_failure_modes": "Paywall; proprietary methods; shared AIS inputs.",
+  "latency": "hours",
+  "name": "Lloyd's List Intelligence",
+  "observables": "fleet movement, ownership, casualty intelligence",
+  "open_fallback": "VSRC-TRK-MARINETRAFFIC",
+  "order": 8,
+  "origin_languages": [
+    "en"
+  ],
+  "originating_chain_rule": "Reports inheriting one casualty or AIS feed remain one chain.",
+  "perspective": "commercial",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "not_required"
+}

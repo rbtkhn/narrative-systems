@@ -1,0 +1,41 @@
+{
+  "access": "open",
+  "access_languages": [
+    "ru",
+    "en"
+  ],
+  "appropriate_uses": "Russian official position, warning language, leads.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://tass.com/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "professional_reporting",
+  "evidence_class": "state_affiliated_reporting",
+  "geography": "Russia and global",
+  "geopolitical_environment": "russian_state_affiliated",
+  "id": "VSRC-RPT-TASS",
+  "inappropriate_uses": "Independent operational confirmation alone.",
+  "kind": "source",
+  "known_failure_modes": "State control; propaganda; selective or false claims.",
+  "latency": "minutes-hours",
+  "name": "TASS",
+  "observables": "Russian official claims, local access, warnings",
+  "open_fallback": "self",
+  "order": 35,
+  "origin_languages": [
+    "ru"
+  ],
+  "originating_chain_rule": "TASS versions and state-media repetition are one chain.",
+  "perspective": "russian_state_affiliated",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "official_edition"
+}

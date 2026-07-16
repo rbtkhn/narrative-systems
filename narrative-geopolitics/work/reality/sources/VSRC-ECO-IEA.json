@@ -1,0 +1,40 @@
+{
+  "access": "open_limited",
+  "access_languages": [
+    "en"
+  ],
+  "appropriate_uses": "Cross-market energy assessment.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.iea.org/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "energy_market",
+  "evidence_class": "multilateral_primary",
+  "geography": "global",
+  "geopolitical_environment": "multilateral",
+  "id": "VSRC-ECO-IEA",
+  "inappropriate_uses": "Incident attribution.",
+  "kind": "source",
+  "known_failure_modes": "Paywalled detail; revisions; member dependence.",
+  "latency": "days-months",
+  "name": "IEA",
+  "observables": "supply, demand, stocks, disruption estimates",
+  "open_fallback": "VSRC-ECO-EIA",
+  "order": 16,
+  "origin_languages": [
+    "en"
+  ],
+  "originating_chain_rule": "Products sharing member submissions are one chain.",
+  "perspective": "multilateral",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "not_required"
+}

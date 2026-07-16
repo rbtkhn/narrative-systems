@@ -1,0 +1,41 @@
+{
+  "access": "open_limited",
+  "access_languages": [
+    "fr",
+    "en"
+  ],
+  "appropriate_uses": "European reporting perspective and field context.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.lemonde.fr/en/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "professional_reporting",
+  "evidence_class": "independent_professional_reporting",
+  "geography": "France and global",
+  "geopolitical_environment": "european_independent",
+  "id": "VSRC-RPT-LEMONDE",
+  "inappropriate_uses": "Treating translated edition as a second chain.",
+  "kind": "source",
+  "known_failure_modes": "Paywall; analysis/reporting boundary; source opacity.",
+  "latency": "hours-days",
+  "name": "Le Monde",
+  "observables": "European and international reporting, analysis",
+  "open_fallback": "VSRC-RPT-REUTERS",
+  "order": 32,
+  "origin_languages": [
+    "fr"
+  ],
+  "originating_chain_rule": "Translations of one Le Monde report are one chain.",
+  "perspective": "european_independent",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "official_edition"
+}

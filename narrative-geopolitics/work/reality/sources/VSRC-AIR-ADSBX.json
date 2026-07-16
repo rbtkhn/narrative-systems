@@ -1,0 +1,40 @@
+{
+  "access": "open_limited",
+  "access_languages": [
+    "en"
+  ],
+  "appropriate_uses": "Aircraft movement and timing leads.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://globe.adsbexchange.com/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "aviation_tracking",
+  "evidence_class": "sensor_or_tracking_data",
+  "geography": "global",
+  "geopolitical_environment": "commercial",
+  "id": "VSRC-AIR-ADSBX",
+  "inappropriate_uses": "Inferring mission or payload alone.",
+  "kind": "source",
+  "known_failure_modes": "Coverage gaps; transponders off; spoofing.",
+  "latency": "near-real-time",
+  "name": "ADS-B Exchange",
+  "observables": "aircraft position, callsign, track",
+  "open_fallback": "self",
+  "order": 14,
+  "origin_languages": [
+    "en"
+  ],
+  "originating_chain_rule": "Rebroadcasts of one ADS-B message are one chain.",
+  "perspective": "commercial",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "not_required"
+}

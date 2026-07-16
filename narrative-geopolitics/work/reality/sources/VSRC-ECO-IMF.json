@@ -1,0 +1,40 @@
+{
+  "access": "open",
+  "access_languages": [
+    "en"
+  ],
+  "appropriate_uses": "Macro consequence and baseline.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.imf.org/en/Data",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "macroeconomic",
+  "evidence_class": "multilateral_primary",
+  "geography": "global",
+  "geopolitical_environment": "multilateral",
+  "id": "VSRC-ECO-IMF",
+  "inappropriate_uses": "Operational event confirmation.",
+  "kind": "source",
+  "known_failure_modes": "Lag; revision; national-data dependence.",
+  "latency": "weeks-months",
+  "name": "IMF Data",
+  "observables": "trade, prices, finance, macro indicators",
+  "open_fallback": "self",
+  "order": 18,
+  "origin_languages": [
+    "en"
+  ],
+  "originating_chain_rule": "Releases based on the same national series are one chain.",
+  "perspective": "multilateral",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "not_required"
+}

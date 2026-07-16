@@ -1,0 +1,40 @@
+{
+  "access": "open",
+  "access_languages": [
+    "ar"
+  ],
+  "appropriate_uses": "Local official position and navigation leads.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.mod.gov.om/Home/MSC",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "maritime_incident",
+  "evidence_class": "official_interested_primary",
+  "geography": "Oman and adjacent waters",
+  "geopolitical_environment": "gulf_state",
+  "id": "VSRC-OFF-OMMSC",
+  "inappropriate_uses": "Independent attribution alone.",
+  "kind": "source",
+  "known_failure_modes": "Sparse publication; Arabic-only material; state interests.",
+  "latency": "hours-days",
+  "name": "Oman Maritime Security Centre",
+  "observables": "Omani notices, maritime coordination, warnings",
+  "open_fallback": "VSRC-MAR-UKMTO",
+  "order": 26,
+  "origin_languages": [
+    "ar"
+  ],
+  "originating_chain_rule": "Repetition by Omani official channels remains one chain.",
+  "perspective": "gulf_state",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "operator_translation"
+}

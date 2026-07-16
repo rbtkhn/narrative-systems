@@ -1,0 +1,40 @@
+{
+  "access": "open_limited",
+  "access_languages": [
+    "en"
+  ],
+  "appropriate_uses": "Detecting and locating relevant physical signals.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.ctbto.org/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "nuclear_verification",
+  "evidence_class": "sensor_or_tracking_data",
+  "geography": "global",
+  "geopolitical_environment": "multilateral",
+  "id": "VSRC-NUC-CTBTO",
+  "inappropriate_uses": "Political attribution alone.",
+  "kind": "source",
+  "known_failure_modes": "Full data restricted; event classification limits.",
+  "latency": "hours-days",
+  "name": "CTBTO",
+  "observables": "seismic, hydroacoustic, radionuclide events",
+  "open_fallback": "self",
+  "order": 6,
+  "origin_languages": [
+    "en"
+  ],
+  "originating_chain_rule": "Products from the same sensor event are one chain.",
+  "perspective": "multilateral",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "not_required"
+}

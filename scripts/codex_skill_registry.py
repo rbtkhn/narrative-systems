@@ -7,7 +7,7 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SKILL_DRAFT_ROOT = REPO_ROOT / "docs" / "skill-drafts"
 CODEX_SKILLS_ROOT = Path.home() / ".codex" / "skills"
-DEPLOYABLE_SKILL_NAMES = ("best-intake", "geopolitical-synthesis")
+DEPLOYABLE_SKILL_NAMES = ("best-intake", "geopolitical-synthesis", "reality-check")
 
 
 @dataclass(frozen=True)
@@ -15,6 +15,14 @@ class SkillEntry:
     name: str
     source: Path
     dest: Path
+
+    @property
+    def source_dir(self) -> Path:
+        return self.source.parent
+
+    @property
+    def dest_dir(self) -> Path:
+        return self.dest.parent
 
 
 def discover_repo_skill_names() -> list[str]:
@@ -54,3 +62,13 @@ def build_registry(names: list[str] | None = None) -> dict[str, SkillEntry]:
 
 def read_text(path: Path) -> str:
     return path.read_text(encoding="utf-8")
+
+
+def skill_files(directory: Path) -> dict[Path, Path]:
+    if not directory.exists():
+        return {}
+    return {
+        path.relative_to(directory): path
+        for path in sorted(directory.rglob("*"))
+        if path.is_file() and "__pycache__" not in path.parts
+    }

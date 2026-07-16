@@ -1,0 +1,40 @@
+{
+  "access": "open",
+  "access_languages": [
+    "en"
+  ],
+  "appropriate_uses": "Nuclear facility and safeguards status.",
+  "as_of": "2026-07-11",
+  "canonical_url": "https://www.iaea.org/",
+  "created_at": "2026-07-11T00:00:00Z",
+  "created_by": "migration",
+  "domain": "nuclear_verification",
+  "evidence_class": "multilateral_primary",
+  "geography": "global",
+  "geopolitical_environment": "multilateral",
+  "id": "VSRC-NUC-IAEA",
+  "inappropriate_uses": "Military intent beyond mandate.",
+  "kind": "source",
+  "known_failure_modes": "Access constraints; diplomatic wording; state declarations.",
+  "latency": "hours-weeks",
+  "name": "IAEA",
+  "observables": "safeguards, facility status, radiation, access",
+  "open_fallback": "self",
+  "order": 5,
+  "origin_languages": [
+    "en"
+  ],
+  "originating_chain_rule": "Statements relying on the same inspection or state declaration are one chain.",
+  "perspective": "multilateral",
+  "review_history": [
+    {
+      "date": "2026-07-11",
+      "note": "Migrated with semantic parity.",
+      "reviewer": "legacy-registry-migration"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "not_required"
+}

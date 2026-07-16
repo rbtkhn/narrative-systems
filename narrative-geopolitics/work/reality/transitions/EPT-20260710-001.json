@@ -1,0 +1,26 @@
+{
+  "affected_refs": [
+    "NG-20260708-F02"
+  ],
+  "as_of": "2026-07-10",
+  "authority": "VER-20260710-01 legacy human assessment",
+  "cause_refs": [
+    "ADJ-20260710-001"
+  ],
+  "created_at": "2026-07-10T00:00:00Z",
+  "created_by": "legacy-pilot-migration",
+  "id": "EPT-20260710-001",
+  "kind": "transition",
+  "new_state": "contested",
+  "note": "Incident occurrence strengthened; attribution, deliberate bypass, warning sequence, and causality remain contested.",
+  "prior_state": "source_assertion",
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "subject_id": "OPC-20260710-02",
+  "transition_types": [
+    "evidence",
+    "confidence",
+    "authorization"
+  ]
+}
