@@ -17,6 +17,7 @@ if str(SCRIPTS_ROOT) not in sys.path:
 import triage_forecast_ledger as forecast_triage
 import verification as verification_packets
 import reality
+from runtime_bootstrap import BootstrapUnavailable, resolve_validation_python
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -734,13 +735,28 @@ def coffee_view(state: dict) -> dict:
 
 
 def run_verification() -> dict:
+    try:
+        python = resolve_validation_python(REPO_ROOT)
+    except BootstrapUnavailable as error:
+        unavailable = {
+            "status": "unavailable",
+            "passed": False,
+            "returncode": None,
+            "output_tail": str(error)[-2000:],
+        }
+        return {
+            "integrity": dict(unavailable),
+            "tests": dict(unavailable),
+        }
     commands = {
-        "integrity": [sys.executable, "scripts/validate_repository.py"],
+        "integrity": [str(python), "scripts/validate_repository.py"],
         "tests": [
-            sys.executable,
+            str(python),
             "-m",
             "pytest",
             "-q",
+            "-p",
+            "no:cacheprovider",
             "--basetemp=.pytest_cache/cadence-dream",
         ],
     }
@@ -754,6 +770,7 @@ def run_verification() -> dict:
         )
         output = (result.stdout + result.stderr).strip()
         results[name] = {
+            "status": "passed" if result.returncode == 0 else "failed",
             "passed": result.returncode == 0,
             "returncode": result.returncode,
             "output_tail": output[-2000:],

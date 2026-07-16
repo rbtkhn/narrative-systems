@@ -14,7 +14,7 @@ Startup contract:
 1. Read `narrative-geopolitics/method/bounded-agency-contract.md`.
 2. Run this read-only dynamic preflight before interpreting repository state:
 
-   `.\scripts\python.ps1 scripts\cadence.py startup best-intake --json`
+   `.\tools\run.ps1 cadence startup best-intake --json`
 
 3. Treat the command output—not this prompt—as authoritative for the current:
    - Git commit, branch, upstream divergence, and dirty paths;
@@ -43,7 +43,7 @@ For each supplied source:
 5. Land the source under:
    `narrative-geopolitics/archive/sources/YYYY-MM-DD/`
 6. Use `scripts/land_best_intake.py` and the repository Python wrapper:
-   `.\scripts\python.ps1`
+   `.\tools\run.ps1 intake-land`
 7. Preserve the supplied source body with minimal rewriting.
 8. Apply deterministic wrapper trimming only for approved hosts:
    - `mario-nawfal`

@@ -37,12 +37,12 @@ source_assertion
 Commands:
 
 ```powershell
-.\scripts\python.ps1 scripts\verification.py new --date YYYY-MM-DD --slug TEXT
-.\scripts\python.ps1 scripts\verification.py list --json
-.\scripts\python.ps1 scripts\verification.py check [VER-ID] --json
-.\scripts\python.ps1 scripts\verification.py close VER-ID
-.\scripts\python.ps1 scripts\verification.py sources --domain maritime_incident --json
-.\scripts\python.ps1 scripts\cadence.py startup operational-verification --packet VER-ID --json
+.\tools\run.ps1 verification new --date YYYY-MM-DD --slug TEXT
+.\tools\run.ps1 verification list --json
+.\tools\run.ps1 verification check [VER-ID] --json
+.\tools\run.ps1 verification close VER-ID
+.\tools\run.ps1 verification sources --domain maritime_incident --json
+.\tools\run.ps1 cadence startup operational-verification --packet VER-ID --json
 ```
 
 The startup preflight is read-only. It binds a session to one existing packet,
@@ -77,7 +77,7 @@ Watch promotion and publication templates must use the same gate when a concrete
 Before forecast review, use:
 
 ```powershell
-.\scripts\python.ps1 scripts\cadence.py startup forecast-review --hook NG-YYYYMMDD-FNN --as-of YYYY-MM-DD --json
+.\tools\run.ps1 cadence startup forecast-review --hook NG-YYYYMMDD-FNN --as-of YYYY-MM-DD --json
 ```
 
 The preflight discovers completed packets both from ledger citations and from

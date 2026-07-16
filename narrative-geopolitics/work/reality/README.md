@@ -45,12 +45,12 @@ provisional assessment may guide internal work but cannot cross those gates.
 ## Commands
 
 ```powershell
-.\scripts\python.ps1 scripts\reality.py check --all
-.\scripts\python.ps1 scripts\reality.py render --check
-.\scripts\python.ps1 scripts\reality.py audit OPC-YYYYMMDD-NN --json
-.\scripts\python.ps1 scripts\reality.py impact OPC-YYYYMMDD-NN --json
-.\scripts\python.ps1 scripts\reality.py profile VOICE --json
-.\scripts\python.ps1 scripts\reality.py migrate --date YYYY-MM-DD --check
+.\tools\run.ps1 reality check --all
+.\tools\run.ps1 reality render --check
+.\tools\run.ps1 reality audit OPC-YYYYMMDD-NN --json
+.\tools\run.ps1 reality impact OPC-YYYYMMDD-NN --json
+.\tools\run.ps1 reality profile VOICE --json
+.\tools\run.ps1 reality migrate --date YYYY-MM-DD --check
 ```
 
 Existing verification and forecast interfaces remain available. If a claim is

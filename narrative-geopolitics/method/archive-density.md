@@ -46,8 +46,8 @@ Use density after source-accounting validation and before synthesis deepening.
 Run the dashboard with:
 
 ```powershell
-.\scripts\python.ps1 scripts\report_archive_density.py --start-date YYYY-MM-DD --end-date YYYY-MM-DD
-.\scripts\python.ps1 scripts\report_archive_density.py --month YYYY-MM --markdown narrative-geopolitics/work/audits/YYYY-MM-density-dashboard.md
+.\tools\run.ps1 archive-density --start-date YYYY-MM-DD --end-date YYYY-MM-DD
+.\tools\run.ps1 archive-density --month YYYY-MM --markdown narrative-geopolitics/work/audits/YYYY-MM-density-dashboard.md
 ```
 
 Optional `--csv` and `--json` outputs are for downstream visualization and

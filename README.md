@@ -28,22 +28,22 @@ public historical and civilizational corpus traversal.
 
 ## Development
 
-Create the local environment once, then use the repository launcher. It resolves
-`.venv` directly, so commands do not depend on global Python or shell activation.
+Install Python 3.11 or newer. Repository commands prepare and reuse validation
+dependencies in an external user cache; no environment activation or repo-local
+`.venv` is required.
 
 ```powershell
-py -3 -m venv .venv
-.\scripts\python.ps1 -m pip install -e ".[test]"
-.\scripts\python.ps1 -m pytest
-.\scripts\python.ps1 scripts\validate_repository.py
-.\scripts\python.ps1 scripts\audit_ai_harness.py
+.\tools\validate.ps1
+.\tools\run.ps1 cadence coffee --json
+.\tools\run.ps1 harness
 ```
 
 The harness audit is read-only. Add `--json` for machine output or
 `--write-receipt` to write the ignored `tmp/ai-harness/latest.json` receipt.
 
-If `py` is unavailable during environment creation, install Python 3.10 or
-newer. Private intake behavior is documented separately under
+Use `NARRATIVE_PYTHON` to select a specific Python executable and
+`NARRATIVE_VALIDATION_CACHE` to select an external cache directory. Private
+intake behavior is documented separately under
 `narrative-geopolitics/method/` and is not part of repository maintenance.
 
 ## Operating Boundary

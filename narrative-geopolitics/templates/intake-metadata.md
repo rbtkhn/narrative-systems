@@ -34,7 +34,7 @@ The helper now writes trim metrics into landed source frontmatter automatically:
 For batch work, save one filled sidecar per source in a folder and run:
 
 ```powershell
-.\scripts\python.ps1 scripts\land_best_intake.py --batch-dir C:\path\to\intake-batch
+.\tools\run.ps1 intake-land --batch-dir C:\path\to\intake-batch
 ```
 
 ## Paste-First Minimum
@@ -165,7 +165,7 @@ guest_people: Robert Barnes
 Turn the sidecar into a helper command by mapping fields directly:
 
 ```powershell
-.\scripts\python.ps1 scripts\land_best_intake.py `
+.\tools\run.ps1 intake-land `
   --pub-date 2026-07-07 `
   --ingest-date 2026-07-08 `
   --title "Robert Barnes: U.S. Just REVOKED Iran Waivers - We Heading to War" `
@@ -186,7 +186,7 @@ Turn the sidecar into a helper command by mapping fields directly:
 Or land directly from the sidecar:
 
 ```powershell
-.\scripts\python.ps1 scripts\land_best_intake.py `
+.\tools\run.ps1 intake-land `
   --metadata-file "C:\temp\2026-07-07-barnes-metadata.txt"
 ```
 

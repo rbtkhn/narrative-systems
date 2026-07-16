@@ -80,7 +80,7 @@ exists.
 The dynamic preflight is:
 
 ```powershell
-.\scripts\python.ps1 scripts\cadence.py startup best-intake --json
+.\tools\run.ps1 cadence startup best-intake --json
 ```
 
 The command is read-only. It reports current Git state, archive/manifest
@@ -111,7 +111,7 @@ systems, web evidence, or Git state.
 The dynamic preflight is:
 
 ```powershell
-.\scripts\python.ps1 scripts\cadence.py startup geopolitical-synthesis --date YYYY-MM-DD --json
+.\tools\run.ps1 cadence startup geopolitical-synthesis --date YYYY-MM-DD --json
 ```
 
 The command is read-only. A date with no manifest rows, or with missing
@@ -150,7 +150,7 @@ archive mutation, source admission, or downstream prose changes.
 The audit entrypoint is:
 
 ```powershell
-.\scripts\python.ps1 scripts\reality.py audit CLAIM-ID --json
+.\tools\run.ps1 reality audit CLAIM-ID --json
 ```
 
 ## Operational-Verification Authority Envelope
@@ -165,7 +165,7 @@ the registry, or generalized collection machinery.
 The dynamic preflight is:
 
 ```powershell
-.\scripts\python.ps1 scripts\cadence.py startup operational-verification --packet VER-YYYYMMDD-NN --json
+.\tools\run.ps1 cadence startup operational-verification --packet VER-YYYYMMDD-NN --json
 ```
 
 The command is read-only. A missing or ambiguous packet, an invalid registry,
@@ -195,7 +195,7 @@ publication.
 The dynamic preflight is:
 
 ```powershell
-.\scripts\python.ps1 scripts\cadence.py startup forecast-review --hook NG-YYYYMMDD-FNN --as-of YYYY-MM-DD --json
+.\tools\run.ps1 cadence startup forecast-review --hook NG-YYYYMMDD-FNN --as-of YYYY-MM-DD --json
 ```
 
 The command is read-only. It rejects missing or duplicated ledger state,

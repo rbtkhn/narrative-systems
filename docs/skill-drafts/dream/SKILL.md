@@ -28,13 +28,14 @@ named judgment, quality, reliability, or efficiency criterion.
 Run:
 
 ```text
-scripts/python.ps1 scripts/cadence.py dream --experiment TEXT --outcome OUTCOME --lesson TEXT --improvement TEXT --evidence-summary TEXT --artifact-ref PATH --tomorrow-inherits TEXT --json
+tools/run.ps1 cadence dream --experiment TEXT --outcome OUTCOME --lesson TEXT --improvement TEXT --evidence-summary TEXT --artifact-ref PATH --tomorrow-inherits TEXT --json
 ```
 
 Repeat `--artifact-ref` when needed. The command rejects missing, absolute, or
-repository-escaping references, runs repository integrity and tests, then
-writes the ignored local `work/cadence/last-dream.json`. If verification fails,
-report the failure and leave the lesson blocked.
+repository-escaping references, runs repository integrity and tests through one
+resolved validation interpreter, then writes the ignored local
+`work/cadence/last-dream.json`. Failed or unavailable verification is recorded,
+reported, and leaves the lesson blocked.
 
 ## Return
 

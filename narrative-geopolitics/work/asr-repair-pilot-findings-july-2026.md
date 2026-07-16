@@ -13,7 +13,7 @@ Scope:
 We executed a bounded pilot using:
 
 ```powershell
-python scripts\run_asr_repair_pilot.py --list-file narrative-geopolitics\work\asr-repair-pilot-batch-a.txt
+.\tools\run.ps1 asr-repair --list-file narrative-geopolitics\work\asr-repair-pilot-batch-a.txt
 ```
 
 This pass force-reran transcript sectioning on the six Batch A files after the

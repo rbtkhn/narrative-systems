@@ -174,7 +174,7 @@ not five bespoke archival compositions.
 Measure the actual ingestion cohort with:
 
 ```powershell
-.\scripts\python.ps1 scripts\report_trim_stats.py --ingested-since YYYY-MM-DD --json
+.\tools\run.ps1 intake-stats --ingested-since YYYY-MM-DD --json
 ```
 
 Do not use publication-date reports as a proxy for recent operator work.

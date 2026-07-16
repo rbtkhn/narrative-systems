@@ -374,9 +374,9 @@ Newly landed sources can record:
 For host-level reporting, use:
 
 ```powershell
-.\scripts\python.ps1 scripts\report_trim_stats.py
-.\scripts\python.ps1 scripts\report_trim_stats.py --host-slug mario-nawfal
-.\scripts\python.ps1 scripts\report_trim_stats.py --ingested-since YYYY-MM-DD --json
+.\tools\run.ps1 intake-stats
+.\tools\run.ps1 intake-stats --host-slug mario-nawfal
+.\tools\run.ps1 intake-stats --ingested-since YYYY-MM-DD --json
 ```
 
 Reporting interprets automatically generated section state conservatively:

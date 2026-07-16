@@ -17,10 +17,10 @@ Keep a plain reality check read-only.
 2. Run:
 
    ```powershell
-   .\scripts\python.ps1 scripts\validate_repository.py
-   .\scripts\python.ps1 scripts\reality.py check --all
-   .\scripts\python.ps1 scripts\reality.py render --check
-   .\scripts\python.ps1 scripts\reality.py audit CLAIM_ID --json
+   .\tools\validate.ps1
+   .\tools\run.ps1 reality check --all
+   .\tools\run.ps1 reality render --check
+   .\tools\run.ps1 reality audit CLAIM_ID --json
    ```
 
 3. Return five labeled elements:
@@ -68,7 +68,7 @@ forecast, or rewrite downstream prose.
 For an unresolved daily `OPC-*` request, prefer:
 
 ```powershell
-.\scripts\python.ps1 scripts\verification.py attach --date YYYY-MM-DD --claim OPC-YYYYMMDD-NN --slug bounded-claim-label
+.\tools\run.ps1 verification attach --date YYYY-MM-DD --claim OPC-YYYYMMDD-NN --slug bounded-claim-label
 ```
 
 This wires a requested packet into canonical daily files and generated issue

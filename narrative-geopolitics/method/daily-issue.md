@@ -50,10 +50,10 @@ The issue cutoff is the archive date. Later corrections and updates are appended
 ## Commands
 
 ```powershell
-.\scripts\python.ps1 scripts\render_daily_issue.py --date YYYY-MM-DD
-.\scripts\python.ps1 scripts\render_daily_issue.py --date YYYY-MM-DD --check
-.\scripts\python.ps1 scripts\render_daily_issue.py --date YYYY-MM-DD --force
-.\scripts\python.ps1 scripts\validate_daily_run.py --date YYYY-MM-DD --stage issue
+.\tools\run.ps1 issue-render --date YYYY-MM-DD
+.\tools\run.ps1 issue-render --date YYYY-MM-DD --check
+.\tools\run.ps1 issue-render --date YYYY-MM-DD --force
+.\tools\run.ps1 daily-validate --date YYYY-MM-DD --stage issue
 ```
 
 The renderer records a version marker and digest of the ordered four canonical inputs. `--check` and repository validation reject a stale or hand-edited issue. Public promotion remains a separate operator-authorized phase.

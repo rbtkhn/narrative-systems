@@ -9,7 +9,7 @@ Use only in `narrative-systems`. Coffee is read-only.
 
 ## Orient
 
-1. Run `scripts/python.ps1 scripts/cadence.py coffee --json`.
+1. Run `tools/run.ps1 cadence coffee --json`.
 2. Inspect Git status, `public/watch.md`, accountable open forecasts, the latest
    manifest-backed daily run, and any experiment named by the handoff.
 3. Treat `handoff_status` as a gate:

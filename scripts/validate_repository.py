@@ -33,6 +33,7 @@ LOCAL_SKILLS = {"coffee", "dream"}
 LOCAL_ROUTER_PATH = REPO_ROOT / "AGENTS.md"
 REQUIRED_DAILY_FILES = {"sources.md", "synthesis.md", "forecast.md", "daily-brief.md"}
 PUBLIC_BRIEFS_ROOT = NG_ROOT / "public" / "briefs"
+ACTIVE_ASR_GUIDANCE = NG_ROOT / "work" / "asr-repair-pilot-findings-july-2026.md"
 
 MARKDOWN_LINK_RE = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
 HOOK_ID_RE = re.compile(r"`(NG-\d{8}-F\d{2})`")
@@ -48,6 +49,23 @@ VERIFICATION_LINK_RE = re.compile(r"^Verification packet:\s*\[(VER-\d{8}-\d{2})\
 GENERIC_READER_HEADING_RE = re.compile(
     r"^##\s+(?:background|analysis|discussion|conclusion|what happens next)\s*$",
     re.IGNORECASE | re.MULTILINE,
+)
+OBSOLETE_GUIDANCE_PATTERNS = (
+    ("deprecated scripts/python.ps1 command", re.compile(r"scripts[\\/]python\.ps1", re.IGNORECASE)),
+    ("repo-local virtual-environment interpreter", re.compile(r"\.venv[\\/]Scripts[\\/]python\.exe", re.IGNORECASE)),
+    ("manual virtual-environment creation", re.compile(r"\bpy\s+-3(?:\.\d+)?\s+-m\s+venv\b", re.IGNORECASE)),
+    ("direct pytest command", re.compile(r"\bpython(?:3(?:\.\d+)?)?\s+-m\s+pytest\b", re.IGNORECASE)),
+    (
+        "direct repository script command",
+        re.compile(
+            r"\b(?:python(?:3(?:\.\d+)?)?|py(?:\s+-3(?:\.\d+)?)?)\s+[^\n`]*scripts[\\/][\w.-]+\.py\b",
+            re.IGNORECASE,
+        ),
+    ),
+    (
+        "machine-specific user path",
+        re.compile(r"(?:[A-Za-z]:[\\/]Users[\\/][^\\/\s`]+|/(?:Users|home)/[^/\s`]+/)", re.IGNORECASE),
+    ),
 )
 
 
@@ -269,7 +287,7 @@ def skill_contract_failures() -> list[str]:
     if deployable & LOCAL_SKILLS:
         failures.append("deployable and local-only skill sets overlap")
     router = LOCAL_ROUTER_PATH.read_text(encoding="utf-8") if LOCAL_ROUTER_PATH.exists() else ""
-    if "harness audit" not in router or "scripts/audit_ai_harness.py" not in router:
+    if "harness audit" not in router or "tools/run.ps1 harness" not in router:
         failures.append("repository-local harness audit route is missing")
     for name in sorted(repo_skills):
         path = SKILL_DRAFT_ROOT / name / "SKILL.md"
@@ -305,6 +323,45 @@ def tracked_artifact_failures() -> list[str]:
     return [f"tracked derived cadence artifact: {path}" for path in sorted(forbidden & tracked)]
 
 
+def active_guidance_files(repo_root: Path = REPO_ROOT) -> list[Path]:
+    ng_root = repo_root / "narrative-geopolitics"
+    files = {repo_root / "README.md", repo_root / "AGENTS.md"}
+    for root in (
+        repo_root / "docs",
+        ng_root / "method",
+        ng_root / "templates",
+    ):
+        if root.exists():
+            files.update(root.rglob("*.md"))
+    work_root = ng_root / "work"
+    if work_root.exists():
+        files.update(work_root.rglob("README.md"))
+    asr_guidance = ng_root / "work" / "asr-repair-pilot-findings-july-2026.md"
+    if asr_guidance.exists():
+        files.add(asr_guidance)
+    return sorted(path for path in files if path.is_file())
+
+
+def obsolete_guidance_failures(
+    paths: list[Path] | None = None,
+    repo_root: Path = REPO_ROOT,
+) -> list[str]:
+    failures: list[str] = []
+    for path in paths if paths is not None else active_guidance_files(repo_root):
+        text = path.read_text(encoding="utf-8")
+        try:
+            label = path.relative_to(repo_root).as_posix()
+        except ValueError:
+            label = path.as_posix()
+        for line_number, line in enumerate(text.splitlines(), start=1):
+            for description, pattern in OBSOLETE_GUIDANCE_PATTERNS:
+                if pattern.search(line):
+                    failures.append(
+                        f"obsolete active guidance ({description}): {label}:{line_number}"
+                    )
+    return failures
+
+
 def voice_routing_failures() -> list[str]:
     manifest = load_manifest()
     failures = voice_metadata.metadata_failures(manifest, REPO_ROOT)
@@ -332,6 +389,7 @@ def validate_repository() -> list[str]:
         reality_lattice_failures,
         skill_contract_failures,
         tracked_artifact_failures,
+        obsolete_guidance_failures,
         voice_routing_failures,
     ):
         failures.extend(check())

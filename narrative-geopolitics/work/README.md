@@ -36,13 +36,13 @@ work/daily/YYYY-MM-DD/
 Open a guided run:
 
 ```powershell
-.\scripts\python.ps1 scripts\geopolitical_synthesis.py --date YYYY-MM-DD
+.\tools\run.ps1 synthesis --date YYYY-MM-DD
 ```
 
 Execute the full stack:
 
 ```powershell
-.\scripts\python.ps1 scripts\geopolitical_synthesis.py --date YYYY-MM-DD --execute
+.\tools\run.ps1 synthesis --date YYYY-MM-DD --execute
 ```
 
 The four daily Markdown inputs remain canonical. A completed run declares its
@@ -51,8 +51,8 @@ log in `daily-brief.md`, and generates `issue.md` as its internal reader-facing
 layer. See [the daily-issue method](../method/daily-issue.md).
 
 ```powershell
-.\scripts\python.ps1 scripts\render_daily_issue.py --date YYYY-MM-DD
-.\scripts\python.ps1 scripts\validate_daily_run.py --date YYYY-MM-DD --stage issue
+.\tools\run.ps1 issue-render --date YYYY-MM-DD
+.\tools\run.ps1 daily-validate --date YYYY-MM-DD --stage issue
 ```
 
 Date-range and month modes skip dates without manifest rows. The legacy
@@ -74,8 +74,8 @@ Before synthesis, normalize provisional person identifiers and reconcile
 manifest-backed routes into voice shelves that already exist:
 
 ```powershell
-.\scripts\python.ps1 scripts\canonicalize_voice_metadata.py --date YYYY-MM-DD --check
-.\scripts\python.ps1 scripts\sync_voice_indexes.py --date YYYY-MM-DD --check
+.\tools\run.ps1 voice-canonicalize --date YYYY-MM-DD --check
+.\tools\run.ps1 voice-sync --date YYYY-MM-DD --check
 ```
 
 Guided choice `B` performs both repairs. This downstream step does not change
@@ -86,7 +86,7 @@ synthesis.
 Validate a day at the relevant stage:
 
 ```powershell
-.\scripts\python.ps1 scripts\validate_daily_run.py --date YYYY-MM-DD --stage synthesis
+.\tools\run.ps1 daily-validate --date YYYY-MM-DD --stage synthesis
 ```
 
 - `intake` reports stale coverage and a refresh instruction without blocking
@@ -98,7 +98,7 @@ Validate a day at the relevant stage:
 Validate the repository boundary:
 
 ```powershell
-.\scripts\python.ps1 scripts\validate_repository.py
+.\tools\validate.ps1
 ```
 
 This checks archive/manifest parity, daily-run grounding, forecast/triage
@@ -110,8 +110,8 @@ The Markdown ledger preserves every historical row. Only timing-reviewed
 `ex_ante` entries marked `Accountable: yes` belong in calibration.
 
 ```powershell
-.\scripts\python.ps1 scripts\triage_forecast_ledger.py --as-of YYYY-MM-DD
-.\scripts\python.ps1 scripts\sync_forecast_ledger.py --date YYYY-MM-DD --crisis-object "Bounded object"
+.\tools\run.ps1 forecast-triage --as-of YYYY-MM-DD
+.\tools\run.ps1 forecast-sync --date YYYY-MM-DD --crisis-object "Bounded object"
 ```
 
 Use `--dry-run` before ledger synchronization. When authorized evidence cannot
@@ -129,10 +129,10 @@ epistemic transitions. Legacy packets retain authority until migration; their
 Markdown must not be silently rewritten during migration.
 
 ```powershell
-.\scripts\python.ps1 scripts\verification.py new --date YYYY-MM-DD --slug TEXT
-.\scripts\python.ps1 scripts\verification.py list --json
-.\scripts\python.ps1 scripts\verification.py check
-.\scripts\python.ps1 scripts\verification.py day --date YYYY-MM-DD --json
+.\tools\run.ps1 verification new --date YYYY-MM-DD --slug TEXT
+.\tools\run.ps1 verification list --json
+.\tools\run.ps1 verification check
+.\tools\run.ps1 verification day --date YYYY-MM-DD --json
 ```
 
 Daily synthesis uses `Operational Claim Triage` as an exception gate, not a fact inventory. Retain a row only when the claim controls planned public factual use, concrete-event watch promotion, or an accountable forecast dependency; validation rejects internal-only orphan rows. Choice `C` reports unresolved requests and choice `D` reports forecast dependencies; both are read-only. Attributed narrative claims do not require packets.
@@ -145,16 +145,16 @@ the complete registered skill directory, including `agents/openai.yaml` when
 present:
 
 ```powershell
-.\scripts\python.ps1 scripts\check_codex_skills_sync.py
-.\scripts\python.ps1 scripts\sync_codex_skills.py --dry-run
+.\tools\run.ps1 skills-check
+.\tools\run.ps1 skills-sync --dry-run
 ```
 
 Coffee and dream are local operator contracts. They are not globally deployed.
 They close one advisory learning loop through an ignored local handoff:
 
 ```powershell
-.\scripts\python.ps1 scripts\cadence.py coffee --json
-.\scripts\python.ps1 scripts\cadence.py dream --experiment "TEXT" --outcome improved --lesson "TEXT" --improvement "TEXT" --evidence-summary "TEXT" --artifact-ref "PATH" --tomorrow-inherits "TEXT" --json
+.\tools\run.ps1 cadence coffee --json
+.\tools\run.ps1 cadence dream --experiment "TEXT" --outcome improved --lesson "TEXT" --improvement "TEXT" --evidence-summary "TEXT" --artifact-ref "PATH" --tomorrow-inherits "TEXT" --json
 ```
 
 Dream verifies the repository before recording one experiment, its bounded

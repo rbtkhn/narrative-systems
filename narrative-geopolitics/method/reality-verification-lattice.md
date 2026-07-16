@@ -83,7 +83,7 @@ For daily `OPC-*` rows that need a legacy verification packet, prefer the
 guided attach command:
 
 ```powershell
-.\scripts\python.ps1 scripts\verification.py attach --date YYYY-MM-DD --claim OPC-YYYYMMDD-NN --slug bounded-claim-label
+.\tools\run.ps1 verification attach --date YYYY-MM-DD --claim OPC-YYYYMMDD-NN --slug bounded-claim-label
 ```
 
 `attach` creates or reuses a requested `VER-*` packet, links it from the

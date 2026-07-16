@@ -4,7 +4,7 @@ The harness audit explains the repository controls that can shape Codex without
 changing those controls. Run it with:
 
 ```powershell
-.\scripts\python.ps1 scripts\audit_ai_harness.py
+.\tools\run.ps1 harness
 ```
 
 ## Control map

@@ -41,8 +41,8 @@ There is no tracked session receipt or placeholder-day state.
 ## Entrypoint
 
 ```powershell
-.\scripts\python.ps1 scripts\geopolitical_synthesis.py --date YYYY-MM-DD
-.\scripts\python.ps1 scripts\geopolitical_synthesis.py --date YYYY-MM-DD --execute
+.\tools\run.ps1 synthesis --date YYYY-MM-DD
+.\tools\run.ps1 synthesis --date YYYY-MM-DD --execute
 ```
 
 Month and range modes process only dates with manifest rows. The deprecated
@@ -62,7 +62,7 @@ After validation and before deepening, use archive density as a review guide.
 Run a range or day check when source load may affect judgment:
 
 ```powershell
-.\scripts\python.ps1 scripts\report_archive_density.py --start-date YYYY-MM-DD --end-date YYYY-MM-DD
+.\tools\run.ps1 archive-density --start-date YYYY-MM-DD --end-date YYYY-MM-DD
 ```
 
 Use [archive-density](../../../narrative-geopolitics/method/archive-density.md)

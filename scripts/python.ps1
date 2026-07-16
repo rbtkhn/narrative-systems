@@ -5,19 +5,26 @@ param(
 )
 
 $repoRoot = Split-Path -Parent $PSScriptRoot
-$venvPython = Join-Path $repoRoot '.venv\Scripts\python.exe'
+$bootstrap = Join-Path $PSScriptRoot 'runtime_bootstrap.py'
+[Console]::Error.WriteLine(
+    'DEPRECATED: scripts/python.ps1 is a compatibility shim; use tools/run.ps1 or tools/validate.ps1.'
+)
 
-if (-not (Test-Path -LiteralPath $venvPython -PathType Leaf)) {
-    Write-Error @"
-Repository Python was not found at:
-  $venvPython
-
-Create the environment with Python 3.10 or newer, then install test tooling:
-  py -3 -m venv .venv
-  .\.venv\Scripts\python.exe -m pip install -e ".[test]"
-"@
+if ($env:NARRATIVE_PYTHON) {
+    $python = & $env:NARRATIVE_PYTHON $bootstrap --print-python
+} elseif (Get-Command py -ErrorAction SilentlyContinue) {
+    $python = & py -3 $bootstrap --print-python
+} elseif (Get-Command python3 -ErrorAction SilentlyContinue) {
+    $python = & python3 $bootstrap --print-python
+} elseif (Get-Command python -ErrorAction SilentlyContinue) {
+    $python = & python $bootstrap --print-python
+} else {
+    Write-Error 'Python 3.11+ was not found. Install Python or set NARRATIVE_PYTHON.'
+    exit 1
+}
+if ($LASTEXITCODE -ne 0 -or -not $python) {
     exit 1
 }
 
-& $venvPython @PythonArguments
+& ($python.Trim()) @PythonArguments
 exit $LASTEXITCODE

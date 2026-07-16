@@ -26,8 +26,16 @@ cadence = load_module()
 
 def verified(value: bool = True) -> dict:
     return {
-        "integrity": {"passed": value, "returncode": 0 if value else 1},
-        "tests": {"passed": value, "returncode": 0 if value else 1},
+        "integrity": {
+            "status": "passed" if value else "failed",
+            "passed": value,
+            "returncode": 0 if value else 1,
+        },
+        "tests": {
+            "status": "passed" if value else "failed",
+            "passed": value,
+            "returncode": 0 if value else 1,
+        },
     }
 
 
@@ -111,6 +119,19 @@ def test_missing_verification_blocks_learning(monkeypatch, tmp_path: Path) -> No
     path = write_handoff(tmp_path, outcome="improved", verification={})
     state = cadence.coffee_state(path)
     assert state["handoff_status"] == "verification_failed"
+
+
+def test_unavailable_bootstrap_is_recorded_for_both_checks(monkeypatch) -> None:
+    def unavailable(repo_root):
+        raise cadence.BootstrapUnavailable("offline and no completed cache")
+
+    monkeypatch.setattr(cadence, "resolve_validation_python", unavailable)
+    result = cadence.run_verification()
+    assert result["integrity"]["status"] == "unavailable"
+    assert result["tests"]["status"] == "unavailable"
+    assert result["tests"]["returncode"] is None
+    assert "offline" in result["tests"]["output_tail"]
+    assert cadence.verification_passed(result) is False
 
 
 def test_changed_repository_state_requires_reconciliation(
@@ -321,7 +342,7 @@ def test_saved_best_intake_prompt_uses_dynamic_context_not_frozen_state() -> Non
         / "prompts"
         / "land-the-day-before-you-judge-it-best-intake-session-startup.md"
     ).read_text(encoding="utf-8")
-    assert "cadence.py startup best-intake --json" in prompt
+    assert "tools\\run.ps1 cadence startup best-intake --json" in prompt
     assert "Treat the command output—not this prompt—as authoritative" in prompt
     assert "commit: `" not in prompt
     assert "archive and manifest: 1,532" not in prompt
