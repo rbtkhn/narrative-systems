@@ -58,7 +58,7 @@ The Russia/NATO/Ukraine items are substantial but not decisive for July 14. Ritt
 | Claim ID | Operational claim | Current status | Consequence if false | Public use | Verification |
 | --- | --- | --- | --- | --- | --- |
 | `OPC-20260714-01` | Iran struck U.S. or Gulf-linked bases and facilities across Bahrain, Kuwait, Oman, Jordan, Qatar, or related corridors, and local air defenses failed materially. | `source_assertion` | `high` | `no` | `request` |
-| `OPC-20260714-02` | Tankers or corridor traffic attempting to bypass Iranian coordination were warned, mined, struck, or deterred in ways that affected sour crude, diesel, aviation fuel, or tanker movement. | `source_assertion` | `high` | `no` | `request` |
+| `OPC-20260714-02` | Tankers or corridor traffic attempting to bypass Iranian coordination were warned, mined, struck, or deterred in ways that affected sour crude, diesel, aviation fuel, or tanker movement. | `source_assertion` | `high` | `no` | `VER-20260714-01` |
 | `OPC-20260714-03` | A Saudi attack on Sana'a airport or an Iran-linked flight and a Yemeni response moved Bab al-Mandab/Saudi infrastructure toward active participation in the same transit contest. | `source_assertion` | `high` | `no` | `request` |
 
 Packet-request commands:

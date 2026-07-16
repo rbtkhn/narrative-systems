@@ -63,10 +63,19 @@ FORECAST_DEPENDENCY_RE = re.compile(
     r"^\|\s*`(?P<hook>NG-\d{8}-F\d{2})`\s*\|.*?\|\s*`(?P<dependency>OPC-\d{8}-\d{2}|none)`\s*\|\s*$",
     re.MULTILINE,
 )
+RELATED_CLAIM_RE = re.compile(r"^Related claim:\s*`(?P<claim_id>OPC-\d{8}-\d{2})`\s*$", re.MULTILINE)
 SECTION_VALUE_RE = {
     name: re.compile(rf"^{re.escape(name)}:\s*(.+?)\s*$", re.MULTILINE)
     for name in ("Conclusion", "Confidence boundary", "Downstream effect")
 }
+DEFAULT_OBSERVABLES = [
+    "Specific actor, asset, place, or route affected by the alleged event.",
+    "Event timing narrow enough to compare against independent records.",
+    "Observable mechanism that could support or challenge the claim.",
+    "Attribution basis distinguishing the claimed actor from alternatives.",
+    "Independent commercial, official, registry, sensor, or professional reporting signal.",
+    "Challenged-actor, affected-party, or alternative-explanation record.",
+]
 
 
 @dataclass(frozen=True)
@@ -352,6 +361,9 @@ def validate_packet(packet: Packet, repo_root: Path = REPO_ROOT, ledger_path: Pa
     outcome = packet.fields.get("assessment_outcome", "")
     if outcome not in OUTCOMES:
         failures.append(f"{label}: invalid assessment outcome {outcome}")
+    related_claim = packet.fields.get("related_claim")
+    if related_claim and not OPC_RE.fullmatch(related_claim):
+        failures.append(f"{label}: invalid related claim {related_claim}")
     if not packet.observables or any("[Observable" in item for item in packet.observables):
         failures.append(f"{label}: missing required observables")
     evidence_ids = [item["id"] for item in packet.evidence]
@@ -444,6 +456,158 @@ def create_packet(run_date: str, slug: str, root: Path = PACKETS_ROOT, template_
     return target
 
 
+def repo_relative(path: Path, repo_root: Path = REPO_ROOT) -> str:
+    return path.relative_to(repo_root).as_posix() if path.is_relative_to(repo_root) else path.as_posix()
+
+
+def default_affected_artifacts(run_date: str, daily_root: Path = NG_ROOT / "work" / "daily", ledger_path: Path = LEDGER_PATH, repo_root: Path = REPO_ROOT) -> list[str]:
+    run_dir = daily_root / run_date
+    paths = [run_dir / "synthesis.md", run_dir / "forecast.md"]
+    issue_path = run_dir / "issue.md"
+    if issue_path.exists():
+        paths.append(issue_path)
+    paths.append(ledger_path)
+    return [repo_relative(path, repo_root) for path in paths if path.exists()]
+
+
+def fill_requested_packet(
+    path: Path,
+    *,
+    claim_id: str,
+    claim: str,
+    hooks: list[str],
+    artifacts: list[str],
+    observables: list[str],
+) -> None:
+    text = path.read_text(encoding="utf-8")
+    packet = parse_packet(path)
+    text = text.replace("Claim: `[Exact operational claim under review.]`", f"Claim: `{claim}`")
+    text = text.replace(
+        f"Claim: `{claim}`",
+        f"Claim: `{claim}`\n\nRelated claim: `{claim_id}`",
+        1,
+    )
+    text = text.replace(
+        "Why it matters: `[Judgment, publication, promotion, or forecast consequence.]`",
+        f"Why it matters: `Verification request for {claim_id}; requested packets scope evidence collection and do not authorize public use, forecast scoring, or operational truth.`",
+    )
+    text = text.replace("Affected forecast hooks: `none`", f"Affected forecast hooks: `{', '.join(hooks) or 'none'}`")
+    text = text.replace("Affected artifacts: `none`", f"Affected artifacts: `{', '.join(artifacts) or 'none'}`")
+    observable_lines = "\n".join(f"- [ ] {item}" for item in observables)
+    text = text.replace("- [ ] `[Observable required to support or challenge the claim.]`", observable_lines)
+    text = text.replace(
+        "`[Record search boundary, important absences, and why research stopped.]`",
+        "`Packet opened and scoped only. No external evidence collection has been performed yet.`",
+    )
+    if "Related claim:" not in text:
+        text = text.replace(f"Claim: `{claim}`", f"Claim: `{claim}`\n\nRelated claim: `{claim_id}`", 1)
+    # Preserve the packet ID allocated by create_packet; parse it once to catch malformed templates.
+    if not VER_RE.fullmatch(packet.packet_id):
+        raise ValueError(f"invalid packet ID in {path}")
+    path.write_text(text, encoding="utf-8", newline="\n")
+
+
+def attach_packet_to_claim(
+    run_date: str,
+    claim_id: str,
+    slug: str,
+    *,
+    packet_id: str | None = None,
+    observables: list[str] | None = None,
+    hooks: list[str] | None = None,
+    artifacts: list[str] | None = None,
+    force: bool = False,
+    daily_root: Path = NG_ROOT / "work" / "daily",
+    packets_root: Path = PACKETS_ROOT,
+    template_path: Path = TEMPLATE_PATH,
+    ledger_path: Path = LEDGER_PATH,
+    repo_root: Path = REPO_ROOT,
+) -> dict[str, Any]:
+    run_dir = daily_root / run_date
+    synthesis_path = run_dir / "synthesis.md"
+    forecast_path = run_dir / "forecast.md"
+    issue_path = run_dir / "issue.md"
+    if not synthesis_path.exists():
+        raise ValueError(f"missing synthesis.md for {run_date}")
+    synthesis = synthesis_path.read_text(encoding="utf-8")
+    claims = {claim.claim_id: claim for claim in parse_operational_claims(synthesis)}
+    claim = claims.get(claim_id)
+    if not claim:
+        raise ValueError(f"claim not found: {claim_id}")
+    if OPC_RE.fullmatch(claim_id).group("date") != run_date.replace("-", ""):
+        raise ValueError(f"claim date does not match run date: {claim_id}")
+    if VER_RE.fullmatch(claim.verification) and claim.verification != packet_id and not force:
+        raise ValueError(f"{claim_id} already attached to {claim.verification}; pass --force to replace")
+
+    forecast = forecast_path.read_text(encoding="utf-8") if forecast_path.exists() else ""
+    selected_hooks = hooks if hooks is not None else [
+        item["hook"] for item in parse_forecast_dependencies(forecast) if item["dependency"] == claim_id
+    ]
+    selected_artifacts = artifacts if artifacts is not None else default_affected_artifacts(run_date, daily_root, ledger_path, repo_root)
+    selected_observables = observables if observables else DEFAULT_OBSERVABLES
+
+    created = False
+    if packet_id:
+        packet_path = find_packet(packet_id, packets_root)
+        if not packet_path:
+            raise ValueError(f"packet not found or ambiguous: {packet_id}")
+    else:
+        packet_path = create_packet(run_date, slug, packets_root, template_path)
+        created = True
+        packet_id = parse_packet(packet_path).packet_id
+        fill_requested_packet(
+            packet_path,
+            claim_id=claim_id,
+            claim=claim.claim.strip(),
+            hooks=selected_hooks,
+            artifacts=selected_artifacts,
+            observables=selected_observables,
+        )
+
+    packet = parse_packet(packet_path)
+    failures = validate_packet(packet, repo_root, ledger_path)
+    if failures:
+        raise ValueError("; ".join(failures))
+
+    replaced = False
+    def replace_row(match: re.Match[str]) -> str:
+        nonlocal replaced
+        if match.group("claim_id") != claim_id:
+            return match.group(0)
+        replaced = True
+        return (
+            f"| `{match.group('claim_id')}` | {match.group('claim').strip()} | "
+            f"`{match.group('status')}` | `{match.group('consequence')}` | "
+            f"`{match.group('public_use')}` | `{packet.packet_id}` |"
+        )
+
+    updated = CLAIM_ROW_RE.sub(replace_row, synthesis, count=0)
+    if not replaced:
+        raise ValueError(f"could not update claim row: {claim_id}")
+    synthesis_path.write_text(updated, encoding="utf-8", newline="\n")
+
+    issue_action = "absent"
+    if issue_path.exists():
+        import render_daily_issue
+        model = render_daily_issue.load_model(run_date, daily_root, ledger_path)
+        issue_path.write_text(render_daily_issue.render_model(model), encoding="utf-8", newline="\n")
+        issue_action = "write"
+    else:
+        issue_action = f"run .\\scripts\\python.ps1 scripts\\render_daily_issue.py --date {run_date}"
+
+    day_failures = validate_day_claims(run_date, "issue" if issue_path.exists() else "synthesis", daily_root, packets_root)
+    return {
+        "packet": packet.packet_id,
+        "packet_path": repo_relative(packet_path, repo_root),
+        "created": created,
+        "claim": claim_id,
+        "hooks": selected_hooks,
+        "artifacts": selected_artifacts,
+        "issue_action": issue_action,
+        "validation_failures": day_failures,
+    }
+
+
 def list_payload(root: Path = PACKETS_ROOT, status: str | None = None) -> list[dict[str, Any]]:
     packets = [parse_packet(path) for path in packet_paths(root)]
     if status:
@@ -496,6 +660,16 @@ def parse_args() -> argparse.Namespace:
     check.add_argument("--json", action="store_true")
     close = sub.add_parser("close")
     close.add_argument("packet_id")
+    attach = sub.add_parser("attach")
+    attach.add_argument("--date", required=True)
+    attach.add_argument("--claim", required=True)
+    attach.add_argument("--slug", required=True)
+    attach.add_argument("--packet")
+    attach.add_argument("--observable", action="append", dest="observables")
+    attach.add_argument("--hook", action="append", dest="hooks")
+    attach.add_argument("--artifact", action="append", dest="artifacts")
+    attach.add_argument("--force", action="store_true")
+    attach.add_argument("--json", action="store_true")
     sources = sub.add_parser("sources")
     sources.add_argument("--domain", choices=sorted(DOMAINS))
     sources.add_argument("--perspective", choices=sorted(PERSPECTIVES))
@@ -532,6 +706,35 @@ def main() -> None:
     if args.command == "sources":
         payload = source_payload(domain=args.domain, perspective=args.perspective, access=args.access)
         print(json.dumps(payload, indent=2) if args.json else "\n".join(f"{item['id']} {item['source']} [{item['domain']}; {item['perspective']}; {item['access']}]" for item in payload))
+        return
+    if args.command == "attach":
+        try:
+            payload = attach_packet_to_claim(
+                args.date,
+                args.claim,
+                args.slug,
+                packet_id=args.packet,
+                observables=args.observables,
+                hooks=args.hooks,
+                artifacts=args.artifacts,
+                force=args.force,
+            )
+        except ValueError as exc:
+            raise SystemExit(f"FAIL {exc}") from exc
+        if args.json:
+            print(json.dumps(payload, indent=2))
+        else:
+            print(f"packet={payload['packet']}")
+            print(f"packet_path={payload['packet_path']}")
+            print(f"created={'yes' if payload['created'] else 'no'}")
+            print(f"attached_claim={payload['claim']}")
+            print(f"affected_hooks={','.join(payload['hooks']) or 'none'}")
+            print(f"issue_action={payload['issue_action']}")
+            print(f"validation_failures={len(payload['validation_failures'])}")
+            for failure in payload["validation_failures"]:
+                print(f"FAIL {failure}")
+        if payload["validation_failures"]:
+            raise SystemExit(1)
         return
     if args.command == "day":
         payload = day_payload(args.date)

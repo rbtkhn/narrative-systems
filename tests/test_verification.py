@@ -212,3 +212,118 @@ def test_internal_claim_without_public_or_forecast_gate_is_rejected(tmp_path: Pa
     )
     failures = verification.validate_day_claims("2026-07-10", "synthesis", daily, tmp_path / "packets")
     assert any("orphan operational claim" in item for item in failures)
+
+
+def test_attach_creates_valid_packet_updates_only_target_claim_and_rerenders_issue(tmp_path: Path, monkeypatch) -> None:
+    daily = write_day(
+        tmp_path,
+        "| `OPC-20260710-01` | A vessel was attacked. | `source_assertion` | `high` | `no` | `request` |\n"
+        "| `OPC-20260710-02` | A port was delayed. | `source_assertion` | `high` | `no` | `request` |",
+        "| `NG-20260708-F02` | Claim | Mechanism | `OPC-20260710-01` |\n",
+    )
+    run = daily / "2026-07-10"
+    for name in ("sources.md", "daily-brief.md"):
+        (run / name).write_text("# Placeholder\n", encoding="utf-8")
+    (run / "issue.md").write_text("stale issue", encoding="utf-8")
+    template_path = tmp_path / "template.md"
+    template_path.write_text(template(), encoding="utf-8")
+    monkeypatch.setattr(verification, "validate_day_claims", lambda *args, **kwargs: [])
+    import types
+    fake_issue = types.SimpleNamespace(
+        load_model=lambda run_date, daily_root, ledger_path: {"run_date": run_date},
+        render_model=lambda model: f"rendered {model['run_date']}",
+    )
+    monkeypatch.setitem(sys.modules, "render_daily_issue", fake_issue)
+
+    result = verification.attach_packet_to_claim(
+        "2026-07-10",
+        "OPC-20260710-01",
+        "vessel-attack",
+        daily_root=daily,
+        packets_root=tmp_path / "packets",
+        template_path=template_path,
+        ledger_path=ledger(tmp_path / "ledger.md"),
+        repo_root=tmp_path,
+    )
+
+    assert result["created"] is True
+    assert result["packet"] == "VER-20260710-01"
+    packet = verification.parse_packet(tmp_path / "packets" / "VER-20260710-01-vessel-attack" / "README.md")
+    assert verification.validate_packet(packet, tmp_path, ledger(tmp_path / "ledger.md")) == []
+    assert packet.fields["related_claim"] == "OPC-20260710-01"
+    synthesis = (run / "synthesis.md").read_text(encoding="utf-8")
+    assert "| `OPC-20260710-01` | A vessel was attacked. | `source_assertion` | `high` | `no` | `VER-20260710-01` |" in synthesis
+    assert "| `OPC-20260710-02` | A port was delayed. | `source_assertion` | `high` | `no` | `request` |" in synthesis
+    assert (run / "issue.md").read_text(encoding="utf-8") == "rendered 2026-07-10"
+
+
+def test_attach_existing_packet_and_refuses_different_packet_without_force(tmp_path: Path, monkeypatch) -> None:
+    daily = write_day(
+        tmp_path,
+        "| `OPC-20260710-01` | A vessel was attacked. | `source_assertion` | `high` | `no` | `VER-20260710-01` |",
+        "| `NG-20260710-F01` | Claim | Mechanism | `OPC-20260710-01` |\n",
+    )
+    packets = tmp_path / "packets"
+    template_path = tmp_path / "template.md"
+    template_path.write_text(template(), encoding="utf-8")
+    first = verification.create_packet("2026-07-10", "first", packets, template_path)
+    second = verification.create_packet("2026-07-10", "second", packets, template_path)
+    for path, claim_id in ((first, "OPC-20260710-01"), (second, "OPC-20260710-01")):
+        verification.fill_requested_packet(
+            path,
+            claim_id=claim_id,
+            claim="A vessel was attacked.",
+            hooks=["NG-20260708-F02"],
+            artifacts=[],
+            observables=["Vessel identity"],
+        )
+    monkeypatch.setattr(verification, "validate_day_claims", lambda *args, **kwargs: [])
+
+    try:
+        verification.attach_packet_to_claim(
+            "2026-07-10",
+            "OPC-20260710-01",
+            "second",
+            packet_id="VER-20260710-02",
+            daily_root=daily,
+            packets_root=packets,
+            template_path=template_path,
+            ledger_path=ledger(tmp_path / "ledger.md"),
+            repo_root=tmp_path,
+        )
+    except ValueError as exc:
+        assert "already attached" in str(exc)
+    else:
+        raise AssertionError("expected refusal to replace an existing packet")
+
+    result = verification.attach_packet_to_claim(
+        "2026-07-10",
+        "OPC-20260710-01",
+        "second",
+        packet_id="VER-20260710-02",
+        force=True,
+        daily_root=daily,
+        packets_root=packets,
+        template_path=template_path,
+        ledger_path=ledger(tmp_path / "ledger.md"),
+        repo_root=tmp_path,
+    )
+
+    assert result["created"] is False
+    assert result["packet"] == "VER-20260710-02"
+    assert "VER-20260710-02" in (daily / "2026-07-10" / "synthesis.md").read_text(encoding="utf-8")
+
+
+def test_old_packets_without_related_claim_remain_valid(tmp_path: Path) -> None:
+    packet = verification.parse_packet(write_packet(tmp_path / "packets", outcome="operationally_contested"))
+    assert "related_claim" not in packet.fields
+    assert verification.validate_packet(packet, tmp_path, ledger(tmp_path / "ledger.md")) == []
+
+
+def test_invalid_related_claim_is_rejected(tmp_path: Path) -> None:
+    path = write_packet(tmp_path / "packets", outcome="operationally_contested")
+    text = path.read_text(encoding="utf-8")
+    path.write_text(text.replace("Claim: `A bounded event occurred.`", "Claim: `A bounded event occurred.`\n\nRelated claim: `NOT-AN-OPC`"), encoding="utf-8")
+    packet = verification.parse_packet(path)
+    failures = verification.validate_packet(packet, tmp_path, ledger(tmp_path / "ledger.md"))
+    assert any("invalid related claim" in item for item in failures)

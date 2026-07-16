@@ -79,6 +79,18 @@ a claim exists in the lattice, structured state controls and its Markdown
 surfaces are generated or checked. Unmigrated historical claims continue under
 the legacy verification contract until explicitly migrated.
 
+For daily `OPC-*` rows that need a legacy verification packet, prefer the
+guided attach command:
+
+```powershell
+.\scripts\python.ps1 scripts\verification.py attach --date YYYY-MM-DD --claim OPC-YYYYMMDD-NN --slug bounded-claim-label
+```
+
+`attach` creates or reuses a requested `VER-*` packet, links it from the
+canonical synthesis row, and refreshes generated issue output when present. It
+does not investigate evidence, admit sources, assess the claim, authorize
+publication, or score a forecast.
+
 The July 10 and July 14 pilots establish the boundary. July 10 preserves its
 historical assessed packet while decomposing incident occurrence, attribution,
 bypass intent, warnings, and causality. July 14 records three unresolved

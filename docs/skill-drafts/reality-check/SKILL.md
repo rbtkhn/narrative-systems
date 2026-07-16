@@ -65,6 +65,16 @@ Use the existing `new` and `add` commands. Validate every created record before
 continuing. Do not mutate the archive, admit a new source, publish, score a
 forecast, or rewrite downstream prose.
 
+For an unresolved daily `OPC-*` request, prefer:
+
+```powershell
+.\scripts\python.ps1 scripts\verification.py attach --date YYYY-MM-DD --claim OPC-YYYYMMDD-NN --slug bounded-claim-label
+```
+
+This wires a requested packet into canonical daily files and generated issue
+output. It is not investigation, assessment, publication authorization, or
+forecast scoring.
+
 ## Explicit assessment
 
 Create an assessment only on direct request. Keep every assessment atomic and

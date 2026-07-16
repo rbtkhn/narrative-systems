@@ -1,4 +1,4 @@
-<!-- daily-issue-v1 inputs-sha256: e7202db5b13a225ce0b564a3358a0f8a2eaf0e7ad4169128ffebde36c7c7e5da -->
+<!-- daily-issue-v1 inputs-sha256: 93c40857377284673417031c21ec2e0311c8c15682979f7cf1fda8a423193604 -->
 <!-- reality-lattice-sha256: eb32bb9e0fb3f82397760173e5679477f4286c0be9eb9c0a514ad73057359199 -->
 <!-- Generated file. Edit canonical daily or reality-lattice inputs, then regenerate. -->
 
@@ -118,7 +118,7 @@ Operational claims remain attributed unless canonical multilingual adjudication 
 | Claim | Bounded operational claim | Status | Lattice state | Consequence if false | Verification |
 | --- | --- | --- | --- | --- | --- |
 | `OPC-20260714-01` | Iran struck U.S. or Gulf-linked bases and facilities across Bahrain, Kuwait, Oman, Jordan, Qatar, or related corridors, and local air defenses failed materially. | `source_assertion` | `migrated: unassessed` | `high` | `request` |
-| `OPC-20260714-02` | Tankers or corridor traffic attempting to bypass Iranian coordination were warned, mined, struck, or deterred in ways that affected sour crude, diesel, aviation fuel, or tanker movement. | `source_assertion` | `migrated: unassessed` | `high` | `request` |
+| `OPC-20260714-02` | Tankers or corridor traffic attempting to bypass Iranian coordination were warned, mined, struck, or deterred in ways that affected sour crude, diesel, aviation fuel, or tanker movement. | `source_assertion` | `migrated: unassessed` | `high` | [VER-20260714-01](../../verification/packets/VER-20260714-01-hormuz-corridor-tanker-deterrence/README.md) |
 | `OPC-20260714-03` | A Saudi attack on Sana'a airport or an Iran-linked flight and a Yemeni response moved Bab al-Mandab/Saudi infrastructure toward active participation in the same transit contest. | `source_assertion` | `migrated: unassessed` | `high` | `request` |
 
 ### Missing observables
