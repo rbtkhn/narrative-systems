@@ -33,6 +33,19 @@ all point in the same direction: credibility erosion, not stabilization.
 - Cross-theater pressure matters because the same day also carries a NATO summit and renewed Russia escalation talk. Helmer says Trump is "twisting arms to show that the US runs its empire," which matters because it frames the same actor as improvising simultaneously across multiple fronts.
 - Weichert does not own the judgment, but he usefully pressure-tests it from a pro-Trump political angle by insisting that Hormuz control "is the whole thing" and that the dispute is unlikely to be bargained away as a technical side issue.
 
+## Primary Voices
+
+| Voice | Role In This Run | What It Adds | Main Risk |
+| --- | --- | --- | --- |
+| Marandi | Iran-facing bargaining floor | Names Lebanon and Hormuz as linked settlement gates. | Regime-adjacent signaling can be mistaken for verified operating fact. |
+| Barnes | U.S. commitment-failure mechanism | Connects waiver reversal, sanctions relief, and deal credibility. | Rhetorical compression can overstate permanence. |
+| Macgregor | Capacity pressure test | Tests whether force can produce a durable Hormuz settlement. | Commentary confidence exceeds verified operational evidence. |
+| Davis | Same-day U.S. escalation and inventory lane | Adds renewed-strike and replenishment pressure from the U.S. side. | Solo-source operational assertions need verification. |
+| Helmer | Cross-theater imperial-management frame | Places Iran pressure beside NATO and Russia bargaining style. | Context can outrun the owning Iran/Hormuz object. |
+| Weichert | Trump-side escalation pressure | Treats Hormuz control as the central political dispute. | Host-conditioned breaking framing can amplify claims. |
+| Mercouris | Russia/NATO room constraint | Keeps cross-theater capacity pressure visible. | Secondary to the day owner. |
+| Parsi | Authored off-ramp mechanism | Supplies the dual-notification compromise and keeps the sovereignty fight separable from immediate transit management. | Authored proposal is not evidence that actors will accept it. |
+
 ## Lane Read
 
 Primary lane pressure: `geo / war`
@@ -83,3 +96,16 @@ U.S. settlement legitimacy rather than only missile inventory.
 - Pull 2-3 comparison sources from older archive Marandi/Pape material if we want a stronger mechanism-versus-red-line comparison.
 - Track whether July 7 is the date where the MOU/deal shifts from "fragile" to "openly contested sequence."
 - Review the new forecast hooks against shipping volume, waiver behavior, and Lebanon strike patterns over the next 2-4 weeks.
+
+## Operational Claim Triage
+
+No retained operational claims. Strike, routing, ship-volume, damage, and inventory claims remain source assertions unless later verification packets control public factual use, watch promotion, or forecast resolution.
+
+## Issue Story Desk
+
+| Story ID | Placement | Argument headline | Crisis object | Evidence posture | Source IDs | Voices | Forecast hooks | Operational claims | Selection rationale |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `NGI-20260707-S01` | `lead` | Lebanon and Hormuz Break the Holding Pattern | Is the MOU/deal breaking down because Lebanon linkage, waiver reversal, and Hormuz control now act as linked settlement gates? | `bounded-analysis` | `SRC-01`, `SRC-02`, `SRC-03`, `SRC-04`, `SRC-05`, `SRC-06`, `SRC-07`, `SRC-08` | Marandi; Barnes; Macgregor; Davis; Helmer; Mercouris; Weichert; Parsi | `NG-20260707-F01`, `NG-20260707-F02`, `NG-20260707-F03` | `none` | Owns the day because it preserves the original July 7 judgment while making the issue renderer explicit. |
+| `NGI-20260707-S02` | `brief` | U.S. Commitment Discipline Becomes the Weak Point | Can coercive pressure restore credibility if sanctions and waivers can be reversed at will? | `bounded-analysis` | `SRC-02`, `SRC-03`, `SRC-04`, `SRC-05`, `SRC-08` | Barnes; Macgregor; Davis; Helmer; Parsi | `none` | `none` | Keeps the American settlement-capacity mechanism visible without displacing Hormuz/Lebanon as the owner. |
+| `NGI-20260707-S03` | `brief` | Cross-Theater Pressure Limits Escalation Room | Does NATO/Russia pressure reduce confidence that Washington can casually expand the Iran front? | `bounded-analysis` | `SRC-05`, `SRC-06` | Helmer; Mercouris | `none` | `none` | Preserves the secondary Russia/NATO pressure field as context rather than a separate lead. |
+| `NGI-20260707-S99` | `hold` | Operational strike and routing claims | Do concrete strike, route, ship-volume, or inventory claims merit promotion? | `source-assertion` | `none` | none | `none` | `none` | Held pending verification packets or explicit forecast-resolution need. |

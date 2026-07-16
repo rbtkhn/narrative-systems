@@ -61,3 +61,15 @@ transit authority should produce a visible coercive response. Both elements
 are required for a hit.
 
 See [the controlled scorecard](../../experiments/2026-07-value-test/scorecard.md).
+
+## Operational Claim Triage
+
+No retained operational claims. Shipping, military, market, and implementation claims remain source assertions unless later verification packets control public factual use, watch promotion, or forecast resolution.
+
+## Issue Story Desk
+
+| Story ID | Placement | Argument headline | Crisis object | Evidence posture | Source IDs | Voices | Forecast hooks | Operational claims | Selection rationale |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `NGI-20260709-S01` | `lead` | The Burden of Normalizing Hormuz | Who governs practical passage through Hormuz, and whether military pressure can restore a depoliticized transit baseline. | `bounded-analysis` | `SRC-04`, `SRC-07`, `SRC-08` | Marandi; Davis; Pape; Aguilar | `NG-20260708-F02` | `none` | Owns the day because the controlled value-test judgment was already promoted as the public crisis brief. |
+| `NGI-20260709-S02` | `brief` | Continuity Beats Nominal Openness | Does the source sequence show persistence of a governed-passage contest rather than a simple open-or-closed Strait? | `bounded-analysis` | `SRC-04`, `SRC-07`, `SRC-08` | Marandi; Davis; Pape; Aguilar | `none` | `none` | Preserves the value-test result without creating a new forecast hook. |
+| `NGI-20260709-S99` | `hold` | Operational shipping and military claims | Which route, pricing, damage, or military claims can be promoted later? | `source-assertion` | `none` | none | `none` | `none` | Held pending verification packets or explicit forecast-resolution need. |

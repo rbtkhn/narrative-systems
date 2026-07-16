@@ -28,6 +28,10 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-16/source-mario-nawfal-robert-pape-cia-chief-warns-iran-not-serious-mou-2026-06-16.md` | cleaned-transcript | `already-imported` | `yes` | Pape | Mario Nawfal | guest interview pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-16/source-mario-nawfal-weichert-breaking-full-iran-mou-leaked-axios-2026-06-16.md` | cleaned-transcript | `already-imported` | `yes` | Weichert | Mario Nawfal | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-16/source-redacted-brandon-weichert-collapse-96-hours-israel-bombs-lebanon-2026-06-16.md` | cleaned-transcript | `already-imported` | `yes` | Weichert | Redacted | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-16/source-dialogue-works-marandi-iran-steps-in-israel-refuses-withdraw-hezbollah-crushes-buffer-zone-2026-06-16.md` | cleaned-transcript | `already-imported` | `yes` | Marandi | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-16/source-dialogue-works-patrick-henningsen-israel-plot-fails-iran-us-advance-mou-despite-sabotage-2026-06-16.md` | cleaned-transcript | `already-imported` | `yes` | Henningsen | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-16/source-mario-nawfal-kent-tucker-trump-stopped-butler-investigation-mou-2026-06-16.md` | cleaned-transcript | `already-imported` | `yes` | Kent | Mario Nawfal | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-16/source-redacted-kent-iran-peace-deal-israel-sabotage-2026-06-16.md` | cleaned-transcript | `already-imported` | `yes` | Kent | Redacted | host-pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

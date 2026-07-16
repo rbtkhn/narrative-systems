@@ -25,6 +25,7 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-27/source-dialogue-works-ray-mcgovern-iran-missiles-force-us-retreat-bases-moving-west-escape-attacks-2026-06-27.md` | cleaned-transcript | `already-imported` | `yes` | McGovern | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-27/source-glenn-diesen-larry-johnson-putin-warns-west-russia-ready-war-2026-06-27.md` | cleaned-transcript | `already-imported` | `yes` | Johnson | Glenn Diesen | guest interview pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-27/source-pape-situation-report-special-edition-iran-war-heating-up-2026-06-27.md` | substack-post | `already-imported` | `yes` | Pape | none | authored forecast mechanism; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-27/source-duran-mercouris-russia-frontline-advance-putin-messaging-woes-lavrov-ww3-warning-ignored-2026-06-27.md` | transcript | `already-imported` | `yes` | Mercouris | The Duran | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

@@ -22,6 +22,8 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-20/source-dialogue-works-anthony-aguilar-netanyahu-orders-idf-halt-lebanon-operations-iranian-pressure-2026-06-20.md` | transcript | `already-imported` | `yes` | Aguilar | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-20/source-dialogue-works-larry-johnson-iran-closes-hormuz-ends-israel-combat-ops-us-rushes-talks-2026-06-20.md` | cleaned-transcript | `already-imported` | `yes` | Johnson | Dialogue Works | guest interview pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-20/source-neutrality-studies-collapse-global-recession-unavoidable-steve-jermy-2026-06-20.md` | cleaned-transcript | `already-imported` | `yes` | Jermy | Neutrality Studies | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-20/source-neutrality-studies-alexander-mercouris-secret-plot-destroy-russia-russophobia-2026-06-20.md` | transcript | `already-imported` | `yes` | Mercouris | Neutrality Studies | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-20/source-neutrality-studies-drone-escalation-russia-will-strike-nato-stanislav-krapivnik-2026-06-20.md` | cleaned-transcript | `already-imported` | `yes` | Krapivnik | Neutrality Studies | host-pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

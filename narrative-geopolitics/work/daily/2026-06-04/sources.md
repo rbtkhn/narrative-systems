@@ -24,6 +24,9 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-04/source-dialogue-works-matthew-hoh-section-224-the-provision-merging-the-us-and-israeli-militaries-2026-06-04.md` | cleaned-transcript | `already-imported` | `yes` | Hoh | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-04/source-pape-professor-pape-iran-has-become-fourth-world-superpower-due-to-trump-war-failures-2026-06-04.md` | cleaned-transcript | `already-imported` | `yes` | Pape | Mario Nawfal | guest interview pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-04/source-pape-the-lebanon-fuse-2026-06-04.md` | substack-post | `already-imported` | `yes` | Pape | none | authored forecast mechanism; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-04/source-dialogue-works-patrick-henningsen-hezbollah-just-drew-the-line-israel-out-of-lebanon-completely-2026-06-04.md` | cleaned-transcript | `already-imported` | `yes` | Henningsen | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-04/source-dialogue-works-stanislav-krapivnik-how-firepower-just-broke-two-wars-ukraine-middle-east-2026-06-04.md` | cleaned-transcript | `already-imported` | `yes` | Krapivnik | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-04/source-judging-freedom-macgregor-does-the-us-have-a-military-option-in-iran-2026-06-04.md` | cleaned-transcript | `already-imported` | `yes` | Macgregor | Judging Freedom | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

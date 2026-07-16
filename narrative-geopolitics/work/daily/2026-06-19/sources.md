@@ -28,6 +28,7 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-19/source-mario-nawfal-max-blumenthal-katz-defies-trump-ceasefire-2026-06-19.md` | transcript | `already-imported` | `yes` | Blumenthal | Mario Nawfal | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-19/source-mario-nawfal-parsi-breaking-trump-may-endorse-netanyahu-rival-2026-06-19.md` | transcript | `already-imported` | `yes` | Parsi | Mario Nawfal | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-19/source-ritter-a-trail-of-tears-2026-06-19.md` | substack-post | `already-imported` | `yes` | Ritter | Ritter | authored newsletter; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-19/source-dialogue-works-seyed-m-marandi-larry-johnson-iran-shuts-down-geneva-talks-mou-2026-06-19.md` | operator-transcript | `already-imported` | `yes` | Marandi / Johnson | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

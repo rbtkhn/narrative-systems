@@ -31,6 +31,8 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-02/source-mario-nawfal-wilkerson-breaking-pakistan-offered-iran-nukes-2026-06-02.md` | cleaned-transcript | `already-imported` | `yes` | Wilkerson | Mario Nawfal | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-02/source-pape-bombing-while-talking-2026-06-02.md` | substack-post | `already-imported` | `yes` | Pape | none | authored forecast mechanism; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-02/source-sachs-an-open-letter-to-chancellor-friedrich-merz-2026-06-02.md` | article | `already-imported` | `yes` | Sachs | Jeffrey Sachs | authored analysis; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-02/source-dialogue-works-marandi-rockets-from-lebanon-strike-deep-in-israel-decisive-iran-us-clash-imminent-2026-06-02.md` | cleaned-transcript | `already-imported` | `yes` | Marandi | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-02/source-diesen-krapivnik-kiev-attacked-frontlines-fall-belarus-enters-war-2026-06-02.md` | cleaned-transcript | `already-imported` | `yes` | Krapivnik | Glenn Diesen | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

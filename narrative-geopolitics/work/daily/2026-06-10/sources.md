@@ -23,6 +23,9 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-10/source-dialogue-works-matthew-hoh-us-iran-exchange-heavy-attacks-2026-06-10.md` | cleaned-transcript | `already-imported` | `yes` | Hoh | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-10/source-judging-freedom-barnes-how-trump-makes-decisions-2026-06-10.md` | cleaned-transcript | `already-imported` | `yes` | Barnes | Judging Freedom | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-10/source-ritter-shoot-the-dog-2026-06-10.md` | substack-post | `already-imported` | `yes` | Ritter | Ritter | authored newsletter; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-10/source-dialogue-works-patrick-henningsen-iran-strikes-us-bases-jordan-retaliation-begins-talks-dead-2026-06-10.md` | cleaned-transcript | `already-imported` | `yes` | Henningsen | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-10/source-glenn-diesen-patrick-henningsen-us-defeat-makes-iran-world-power-2026-06-10.md` | cleaned-transcript | `already-imported` | `yes` | Henningsen | Glenn Diesen | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-10/source-mario-nawfal-kent-breaking-us-israeli-attack-likely-tonight-2026-06-10.md` | cleaned-transcript | `already-imported` | `yes` | Kent | Mario Nawfal | host-pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

@@ -26,6 +26,9 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-18/source-dialogue-works-larry-johnson-jd-vance-slams-netanyahu-government-2026-06-18.md` | cleaned-transcript | `already-imported` | `yes` | Johnson | Dialogue Works | guest interview pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-18/source-judging-freedom-blumenthal-israel-in-panic-2026-06-18.md` | transcript | `already-imported` | `yes` | Blumenthal | Judging Freedom | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-18/source-moral-resistance-anthony-aguilar-elon-musk-attacks-israel-vance-switzerland-cancelled-2026-06-18.md` | cleaned-transcript | `already-imported` | `yes` | Aguilar | Moral Resistance | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-18/source-glenn-diesen-stanislav-krapivnik-russia-offensive-gains-speed-anger-moscow-2026-06-18.md` | cleaned-transcript | `already-imported` | `yes` | Krapivnik | Glenn Diesen | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-18/source-judging-freedom-macgregor-israel-the-real-loser-2026-06-18.md` | cleaned-transcript | `already-imported` | `yes` | Macgregor | Judging Freedom | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-18/source-lascaris-henningsen-war-on-iran-far-from-over-2026-06-18.md` | cleaned-transcript | `already-imported` | `yes` | Henningsen | Reason Resist | host-pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

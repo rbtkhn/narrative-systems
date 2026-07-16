@@ -25,6 +25,7 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-25/source-lascaris-helmer-trump-goal-destroy-russia-iran-2026-06-25.md` | cleaned-transcript | `already-imported` | `yes` | Helmer | Reason Resist | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-25/source-mario-nawfal-barnes-breaking-gcc-attack-iran-rubio-meeting-iran-strike-vessel-hormuz-2026-06-25.md` | cleaned-transcript | `already-imported` | `yes` | Barnes | Mario Nawfal | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-25/source-pape-prediction-confirmed-the-next-phase-of-the-iran-war-has-begun-2026-06-25.md` | substack-post | `already-imported` | `yes` | Pape | none | authored forecast mechanism; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-25/source-glenn-diesen-marandi-trump-lost-iran-war-must-sell-victory-2026-06-25.md` | cleaned-transcript | `already-imported` | `yes` | Marandi | Glenn Diesen | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

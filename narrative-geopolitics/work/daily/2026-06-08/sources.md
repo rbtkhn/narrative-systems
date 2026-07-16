@@ -32,6 +32,7 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-08/source-mario-nawfal-weichert-trump-calls-shots-bibi-israel-bombed-iran-2026-06-08.md` | cleaned-transcript | `already-imported` | `yes` | Weichert | Mario Nawfal | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-08/source-pape-day-100-why-irans-strategy-is-expanding-2026-06-08.md` | substack-post | `already-imported` | `yes` | Pape | none | authored forecast mechanism; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-08/source-parsi-did-iran-establish-a-new-equation-2026-06-08.md` | substack-post | `already-imported` | `yes` | Parsi | Parsi | authored newsletter; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-08/source-glenn-diesen-seyed-m-marandi-iran-israel-strikes-trump-humiliated-yemen-red-sea-2026-06-08.md` | cleaned-transcript | `already-imported` | `yes` | Marandi | Glenn Diesen | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

@@ -4,7 +4,7 @@ This index routes the unified local Kent corpus for `kent` to the central Narrat
 
 Source basis: `narrative-geopolitics/archive/source-manifest.json`.
 
-Corpus: 11 local route rows across 11 central archive source files.
+Corpus: 12 local route rows across 12 central archive source files.
 
 Status: `imported-corpus`
 
@@ -30,6 +30,7 @@ Status: `imported-corpus`
 | `2026-06-10` | BREAKING: U.S. AND ISRAELI ATTACK LIKELY TONIGHT - w/ Joe Kent | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-10/source-mario-nawfal-kent-breaking-us-israeli-attack-likely-tonight-2026-06-10.md) |
 | `2026-06-16` | TUCKER: TRUMP STOPPED HIS OWN SHOOTING INVESTIGATION - w/ Joe Kent | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-16/source-mario-nawfal-kent-tucker-trump-stopped-butler-investigation-mou-2026-06-16.md) |
 | `2026-06-16` | \"What was it all for?\" Joe Kent on Iran Peace Deal and Israel's sabotage | `host-pressure test` | `redacted-news` | [source](../../archive/sources/2026-06-16/source-redacted-kent-iran-peace-deal-israel-sabotage-2026-06-16.md) |
+| `2026-07-15` | TRUMP: OTHER PEOPLE WILL DO THE GROUND CAMPAIGN FOR US - w/ Ex-Head of Counter-Terrorism Joe Kent | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-07-15/source-trump-other-people-will-do-the-ground-campaign-for-us-w-ex-head-of-counter-terrorism-joe-kent-2026-07-15.md) |
 
 ## Import Boundary
 

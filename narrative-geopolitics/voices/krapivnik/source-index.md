@@ -28,8 +28,8 @@ Status: `seeded`
 | `2026-06-09` | Stanislav Krapivnik: Breaking: US attacks Iran - Russia: No Deal Coming | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-09/source-dialogue-works-stanislav-krapivnik-breaking-us-attacks-iran-russia-no-deal-coming-2026-06-09.md) |
 | `2026-06-18` | Stanislav Krapivnik: Russia's Offensive Gains Speed & Anger Boils Over in Moscow | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-06-18/source-glenn-diesen-stanislav-krapivnik-russia-offensive-gains-speed-anger-moscow-2026-06-18.md) |
 | `2026-06-20` | Drone Escalation: Russia Will Strike NATO \| Stas Krapivnik | `host-pressure test` | `neutrality-studies` | [source](../../archive/sources/2026-06-20/source-neutrality-studies-drone-escalation-russia-will-strike-nato-stanislav-krapivnik-2026-06-20.md) |
+| `2026-07-04` | Stanislav Krapivnik: Will Russia Strike First as NATO Prepares for War? | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-04/source-stanislav-krapivnik-will-russia-strike-first-as-nato-prepares-for-war-2026-07-04.md) |
 | `2026-07-05` | Stanislav Krapivnik: Geran-4 Obliterates Ukraine Fuel Storage in SECONDS | `guest interview pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-05/source-stanislav-krapivnik-geran-4-obliterates-ukraine-fuel-storage-in-seconds-2026-07-05.md) |
-| `2026-07-07` | Stanislav Krapivnik: Will Russia Strike First as NATO Prepares for War? | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-04/source-stanislav-krapivnik-will-russia-strike-first-as-nato-prepares-for-war-2026-07-04.md) |
 | `2026-07-08` | LIVE From Russia Stanislav Krapivnik - Latest on the War w/Ukraine | `guest interview pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-08/source-live-from-russia-stanislav-krapivnik-latest-on-the-war-w-ukraine-2026-07-08.md) |
 
 ## Import Boundary

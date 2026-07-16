@@ -30,6 +30,10 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-11/source-judging-freedom-blumenthal-israel-jeopardizes-us-troops-2026-06-11.md` | cleaned-transcript | `already-imported` | `yes` | Blumenthal | Judging Freedom | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-11/source-judging-freedom-wilkerson-israels-collapsing-strategy-2026-06-11.md` | cleaned-transcript | `already-imported` | `yes` | Wilkerson | Judging Freedom | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-11/source-mario-nawfal-anthony-aguilar-breaking-explosions-now-in-iran-2026-06-11.md` | cleaned-transcript | `already-imported` | `yes` | Aguilar | Mario Nawfal | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-11/source-breaking-points-marandi-iran-welcomes-us-invasion-2026-06-11.md` | cleaned-transcript | `already-imported` | `yes` | Marandi | Breaking Points | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-11/source-dialogue-works-pepe-escobar-12-ballistic-missiles-struck-us-major-airbase-jordan-2026-06-11.md` | cleaned-transcript | `already-imported` | `yes` | Escobar | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-11/source-judging-freedom-macgregor-trumps-biggest-mistake-2026-06-11.md` | cleaned-transcript | `already-imported` | `yes` | Macgregor | Judging Freedom | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-11/source-redacted-douglas-macgregor-this-all-about-to-collapse-trump-knows-it-2026-06-11.md` | cleaned-transcript | `already-imported` | `yes` | Macgregor | Redacted | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

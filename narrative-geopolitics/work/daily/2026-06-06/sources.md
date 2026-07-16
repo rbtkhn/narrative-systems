@@ -22,6 +22,10 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-06/source-dialogue-works-mcgovern-west-asia-changing-fast-israel-loses-big-putin-rejects-zelensky-2026-06-06.md` | cleaned-transcript | `already-imported` | `yes` | McGovern | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-06/source-glenn-diesen-chas-freeman-the-greater-israel-project-is-collapsing-2026-06-06.md` | cleaned-transcript | `already-imported` | `yes` | Freeman | Glenn Diesen | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-06/source-pape-the-new-phase-2026-06-06.md` | substack-post | `already-imported` | `yes` | Pape | none | authored forecast mechanism; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-06/source-dialogue-works-marandi-iran-strikes-back-missiles-hit-kuwait-us-5th-fleet-in-bahrain-2026-06-06.md` | cleaned-transcript | `already-imported` | `yes` | Marandi | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-06/source-duran-mercouris-putin-reveals-oreshnik-plan-west-desperate-to-get-conflict-freeze-2026-06-06.md` | transcript | `already-imported` | `yes` | Mercouris | The Duran | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-06/source-mario-nawfal-macgregor-pentagon-names-israel-top-spy-threat-iran-levels-gulf-again-2026-06-06.md` | cleaned-transcript | `already-imported` | `yes` | Macgregor | Mario Nawfal | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-06/source-mario-nawfal-polyanskiy-the-decision-in-europe-has-already-been-made-2026-06-06.md` | cleaned-transcript | `already-imported` | `yes` | Polyanskiy | Mario Nawfal | host-pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

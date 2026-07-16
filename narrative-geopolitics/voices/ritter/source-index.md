@@ -4,7 +4,7 @@ This index routes the imported Ritter corpus for `ritter` to the central Narrati
 
 Source basis: `strategy-codex/statecraft/voices/ritter/ritter-index.md`.
 
-Corpus: 103 local route rows across 103 central archive source files.
+Corpus: 104 local route rows across 104 central archive source files.
 
 Status: `imported-corpus`
 
@@ -122,6 +122,7 @@ Status: `imported-corpus`
 | `2026-07-09` | The Patriot Trap | `authored` | `scott-ritter` | [source](../../archive/sources/2026-07-09/source-the-patriot-trap-2026-07-09.md) |
 | `2026-07-12` | ðŸ”´ LIVE: Scott Ritter - Russia Ukraine Now Enters the Most Dangerous Phase! | `guest interview pressure test` | `cyrus-janssen` | [source](../../archive/sources/2026-07-12/source-live-scott-ritter-russia-ukraine-now-enters-the-most-dangerous-phase-2026-07-12.md) |
 | `2026-07-14` | Scott Ritter: Russia Is Winning the War - and Winning Decisively | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-14/source-scott-ritter-russia-is-winning-the-war-and-winning-decisively-2026-07-14.md) |
+| `2026-07-15` | Scott Ritter: Iran STRIKES Major U.S. Military Supply Hub in Kuwait | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-15/source-scott-ritter-iran-strikes-major-u-s-military-supply-hub-in-kuwait-2026-07-15.md) |
 
 ## Import Boundary
 

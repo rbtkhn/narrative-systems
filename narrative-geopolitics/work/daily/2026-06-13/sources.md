@@ -24,6 +24,7 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-13/source-glenn-diesen-trita-parsi-iran-war-mou-deportation-threat-2026-06-13.md` | cleaned-transcript | `already-imported` | `yes` | Parsi | Glenn Diesen | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-13/source-lascaris-helmer-how-will-russia-restore-deterrence-2026-06-13.md` | cleaned-transcript | `already-imported` | `yes` | Helmer | Reason Resist | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-13/source-parsi-so-they-tried-to-deport-me-2026-06-13.md` | substack-post | `already-imported` | `yes` | Parsi | Parsi | authored newsletter; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-13/source-dialogue-works-marandi-breaking-us-iran-brink-final-deal-2026-06-13.md` | cleaned-transcript | `already-imported` | `yes` | Marandi | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

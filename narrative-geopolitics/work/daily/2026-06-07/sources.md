@@ -23,6 +23,7 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-07/source-parsi-after-israel-strikes-beirut-iran-whats-trumps-next-move-2026-06-07.md` | substack-post | `already-imported` | `yes` | Parsi | Parsi | authored newsletter; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-07/source-parsi-netanyahu-defies-trump-and-strikes-back-at-iran-2026-06-07.md` | substack-post | `already-imported` | `yes` | Parsi | Parsi | authored newsletter; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-07/source-parsi-the-profound-geopolitical-implications-of-irans-strikes-on-israel-2026-06-07.md` | substack-post | `already-imported` | `yes` | Parsi | Parsi | authored newsletter; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-07/source-dialogue-works-nima-urgent-iran-israel-trade-blows-yemen-launches-iran-hits-saudi-2026-06-07.md` | cleaned-transcript | `already-imported` | `yes` | Alkhorshid | Dialogue Works | authored stream-sequence spine; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

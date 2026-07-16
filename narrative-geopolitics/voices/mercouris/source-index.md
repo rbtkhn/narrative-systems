@@ -4,7 +4,7 @@ This index routes the transcript-bearing upstream-parity corpus for `mercouris` 
 
 Source basis: `strategy-codex/statecraft/voices/mercouris/mercouris-index.md`, `strategy-codex/statecraft/channels/alexander-mercouris/alexander-mercouris-channel-index.md`, and subsequent local intake.
 
-Corpus: 294 local route rows across 294 central archive source files.
+Corpus: 295 local route rows across 295 central archive source files.
 
 Status: `transcript-bearing-upstream-parity`
 
@@ -306,9 +306,9 @@ Status: `transcript-bearing-upstream-parity`
 | `2026-07-02` | Russia Conducts Massive Kiev Strike; Plans Ground Operation; Zelensky Demands More EU Money; Drones | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-02/source-russia-conducts-massive-kiev-strike-plans-ground-operation-zelensky-demands-more-eu-money-drones-2026-07-02.md) |
 | `2026-07-03` | Russian Warship Warns Off German Ship Russia Defends Belarus Baltic Tensions Soar; Medvedev In Iran | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-03/source-russian-warship-warns-off-german-ship-russia-defends-belarus-baltic-tensions-soar-medvedev-in-iran-2026-07-03.md) |
 | `2026-07-04` | Konstantinovka Falls Final Donbas Battle Begins; Putin Says Kharkov Sumy Are Russian; Drone War Fail | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-04/source-konstantinovka-falls-final-donbas-battle-begins-putin-says-kharkov-sumy-are-russian-drone-war-fail-2026-07-04.md) |
-| `2026-07-04` | Russia Destroys Arms Dump Huge Blast; Zelensky Begs Patriots Says Russia Ground Advance Unimportant | `stream-sequence spine` | `alexander-mercouris` | [source](../../archive/sources/2026-07-07/source-mercouris-russia-destroys-arms-dump-zelensky-begs-patriots-2026-07-07.md) |
 | `2026-07-05` | West In Shock After Konstantinovka Fall; Putin Resists US Pressure During Tense Trump Call; Kharkov | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-05/source-west-in-shock-after-konstantinovka-fall-putin-resists-us-pressure-during-tense-trump-call-kharkov-2026-07-05.md) |
 | `2026-07-06` | Russia Biggest Ever Missile Strike Hammers Kiev AD Total Fail; Will Upgrade SMO To Actual War; NATO | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-06/source-russia-biggest-ever-missile-strike-hammers-kiev-ad-total-fail-will-upgrade-smo-to-actual-war-nato-2026-07-06.md) |
+| `2026-07-07` | Russia Destroys Arms Dump Huge Blast; Zelensky Begs Patriots Says Russia Ground Advance Unimportant | `stream-sequence spine` | `alexander-mercouris` | [source](../../archive/sources/2026-07-07/source-mercouris-russia-destroys-arms-dump-zelensky-begs-patriots-2026-07-07.md) |
 | `2026-07-08` | Alexander Mercouris: Russia Gives WW3 Warning; Prepares Kiev Orekhov Offensives; NATO Meeting Bust Trump Talks Greenland | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-08/source-alexander-mercouris-russia-gives-ww3-warning-prepares-kiev-orekhov-offensives-nato-meeting-bust-trump-talks-greenland-2026-07-08.md) |
 | `2026-07-09` | Alexander Mercouris: US Iran War Resumes Full Force; MoU Collapses; NATO Absurd Summit; Zaluzhny Ukraine Losing Attrition | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-09/source-alexander-mercouris-us-iran-war-resumes-full-force-mou-collapses-nato-absurd-summit-zaluzhny-ukraine-losing-attrition-2026-07-09.md) |
 | `2026-07-10` | Lavrov Says West Lies No Talks Ever Again; Kremlin Says US Duplicitous; West Faces Diesel Shortage | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-10/source-lavrov-says-west-lies-no-talks-ever-again-kremlin-says-us-duplicitous-west-faces-diesel-shortage-2026-07-10.md) |
@@ -318,6 +318,7 @@ Status: `transcript-bearing-upstream-parity`
 | `2026-07-13` | Putin Says Bigger Russia Strikes To Hammer Kiev Hints At Oreshnik Use; Zelensky Says Kiev Out Of AD | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-13/source-putin-says-bigger-russia-strikes-to-hammer-kiev-hints-at-oreshnik-use-zelensky-says-kiev-out-of-ad-2026-07-13.md) |
 | `2026-07-14` | IRAN WAR REPERCUSSIONS, THE US WILL BE BLAMED /The Duran's Alexander Mercouris | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-14/source-iran-war-repercussions-the-us-will-be-blamed-the-duran-s-alexander-mercouris-2026-07-14.md) |
 | `2026-07-14` | Zelensky Panics Orders Big Kiev Reshuffle Flees To Paris Begs UK/EU Aid; Russia Hammers Odessa; Iran | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-14/source-zelensky-panics-orders-big-kiev-reshuffle-flees-to-paris-begs-uk-eu-aid-russia-hammers-odessa-iran-2026-07-14.md) |
+| `2026-07-15` | Zelensky To Sack Kiev Defence Chief Drone War Fails; EU Faces Gas Crisis Funds Kiev Buy China Drones | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-15/source-zelensky-to-sack-kiev-defence-chief-drone-war-fails-eu-faces-gas-crisis-funds-kiev-buy-china-drones-2026-07-15.md) |
 
 ## Import Boundary
 

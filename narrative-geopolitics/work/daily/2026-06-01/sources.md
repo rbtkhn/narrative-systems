@@ -29,6 +29,9 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-01/source-pape-the-trap-gets-worse-2026-06-01.md` | substack-post | `already-imported` | `yes` | Pape | none | authored forecast mechanism; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-01/source-parsi-why-trump-may-actually-have-told-netanyahu-everybody-hates-you-2026-06-01.md` | substack-post | `already-imported` | `yes` | Parsi | Parsi | authored newsletter; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-01/source-ritter-the-revenge-tour-2026-2026-06-01.md` | cleaned-transcript | `already-imported` | `yes` | Ritter | Ritter | authored newsletter; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-01/source-dialogue-works-kent-breaking-iran-quits-all-peace-talks-effective-immediately-2026-06-01.md` | cleaned-transcript | `already-imported` | `yes` | Kent | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-01/source-diesen-jiang-u-s-trapped-in-iran-europe-s-war-against-russia-grand-bargain-with-china-2026-06-01.md` | cleaned-transcript | `already-imported` | `yes` | Jiang | Glenn Diesen | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-01/source-duran-mercouris-seeking-war-with-russia-2026-06-01.md` | cleaned-transcript | `already-imported` | `yes` | Mercouris | The Duran | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

@@ -25,6 +25,7 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-05/source-judging-freedom-johnson-mcgovern-intel-roundtable-weekly-wrap-5-june-2026-06-05.md` | cleaned-transcript | `already-imported` | `yes` | Johnson / McGovern | Judging Freedom | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-05/source-mario-nawfal-parsi-iran-goes-aggressive-trump-goes-docile-2026-06-05.md` | cleaned-transcript | `already-imported` | `yes` | Parsi | Mario Nawfal | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-05/source-mario-nawfal-weichert-israel-merge-us-army-cia-2026-06-05.md` | cleaned-transcript | `already-imported` | `yes` | Weichert | Mario Nawfal | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-05/source-glenn-diesen-seyed-m-marandi-hormuz-toll-strike-on-kuwait-israel-decline-iranian-nuclear-bomb-2026-06-05.md` | cleaned-transcript | `already-imported` | `yes` | Marandi | Glenn Diesen | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

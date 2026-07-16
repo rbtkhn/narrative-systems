@@ -26,6 +26,7 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-22/source-judging-freedom-johnson-why-iran-still-controls-hormuz-2026-06-22.md` | cleaned-transcript | `already-imported` | `yes` | Johnson | Judging Freedom | guest interview pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-22/source-judging-freedom-sachs-why-iran-cant-trust-trump-2026-06-22.md` | cleaned-transcript | `already-imported` | `yes` | Sachs | Judging Freedom | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-22/source-pape-getting-the-framework-right-why-iran-seeking-power-not-just-money-2026-06-22.md` | paste-bundle | `already-imported` | `yes` | Pape | none | authored forecast mechanism; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-22/source-neutrality-studies-larry-johnson-iran-negotiation-disaster-russia-full-war-mode-2026-06-22.md` | cleaned-transcript | `already-imported` | `yes` | Johnson | Neutrality Studies | host-pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

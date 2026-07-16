@@ -22,6 +22,8 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-14/source-dialogue-works-anthony-aguilar-iran-suspends-flights-western-region-attack-israel-imminent-2026-06-14.md` | cleaned-transcript | `already-imported` | `yes` | Aguilar | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-14/source-dialogue-works-johnson-marandi-us-iran-reach-deal-full-details-2026-06-14.md` | cleaned-transcript | `already-imported` | `yes` | Johnson / Marandi | Dialogue Works | guest interview pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-14/source-parsi-with-one-strike-netanyahu-tries-to-kill-two-peace-deals-2026-06-14.md` | substack-post | `already-imported` | `yes` | Parsi | Parsi | authored newsletter; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-14/source-dialogue-works-nima-beirut-attack-wont-go-unanswered-deputy-commander-2026-06-14.md` | cleaned-transcript | `already-imported` | `yes` | Alkhorshid | Dialogue Works | authored stream-sequence spine; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-14/source-glenn-diesen-seyed-m-marandi-israels-attack-on-beirut-sabotage-us-iran-deal-2026-06-14.md` | cleaned-transcript | `already-imported` | `yes` | Marandi | Glenn Diesen | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

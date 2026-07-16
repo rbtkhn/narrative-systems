@@ -46,6 +46,8 @@ movement counts as normal.
 | `Johnson` | Commitment-failure pressure voice | Sharp statement that sanctions rollback killed the MOU while actual shipping still follows Iranian-approved routing. | High conjecture content and speculative claims about hidden U.S. damage. |
 | `Hoh / Barnes` | Escalation-trap pressure voices | Both argue that Trump-side coercion is politically and economically self-damaging even if it produces short tactical effects. | Both are rhetorically heated and more valuable for stress-testing than for neutral verification. |
 | `Mercouris` | Cross-theater room voice | Shows the U.S. is juggling Iran, NATO, and Ukraine simultaneously, reducing confidence in disciplined sequencing. | Iran segment is secondary and mixed into a broader program. |
+| `Krapivnik` | Secondary cross-theater pressure voice | Adds a Russia/Ukraine hardening signal that narrows Western freedom to expand elsewhere. | Secondary battlefield pressure is not the owning Hormuz object. |
+| `Pape` | Authored escalation mechanism voice | Gives the cleanest mechanism for why ceasefire collapse can create incentives for larger U.S. operations around Qeshm, Kharg, and Hormuz. | Authored scenario logic is not operational proof. |
 
 Working hierarchy:
 
@@ -129,3 +131,16 @@ restored a normal transit baseline.
 | `NG-20260708-F01` | Within 14 days, major public statements on the Iran file will keep framing Hormuz as a governed bargaining mechanism rather than a fully restored free-passage lane. | `likely` | `2026-07-22` |
 | `NG-20260708-F02` | Within 21 days, at least one visible U.S. or allied attempt to restore old transit assumptions will trigger renewed coercive signaling or enforcement around shipping. | `likely` | `2026-07-29` |
 | `NG-20260708-F03` | Within 30 days, the strongest falsifier of the July 8 judgment would be sustained normalization of passage without Iranian-managed routing or Lebanon-linked bargaining pressure. | `plausible` | `2026-08-07` |
+
+## Operational Claim Triage
+
+No retained operational claims. Routing, ship-flow, strike, damage, and escalation claims remain source assertions unless later verification packets control public factual use, watch promotion, or forecast resolution.
+
+## Issue Story Desk
+
+| Story ID | Placement | Argument headline | Crisis object | Evidence posture | Source IDs | Voices | Forecast hooks | Operational claims | Selection rationale |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `NGI-20260708-S01` | `lead` | Hormuz Becomes a Transit Governance Fight | Whether the postwar Gulf order will operate under Iranian managed passage or under a restored American assumption of free passage without Iranian enforcement authority. | `bounded-analysis` | `SRC-01`, `SRC-02`, `SRC-03`, `SRC-04`, `SRC-05`, `SRC-06`, `SRC-07`, `SRC-08` | Marandi; Davis; Johnson; Hoh; Barnes; Mercouris; Krapivnik; Pape | `NG-20260708-F01`, `NG-20260708-F02`, `NG-20260708-F03` | `none` | Owns the day because the original judgment is already centered on transit governance rather than generic escalation. |
+| `NGI-20260708-S02` | `brief` | U.S. Bombing Deepens the Coercion Trap | Does renewed bombing restore control or increase economic and political exposure? | `bounded-analysis` | `SRC-02`, `SRC-04`, `SRC-05`, `SRC-08` | Davis; Hoh; Barnes; Pape | `none` | `none` | Keeps the U.S.-side failure mode visible as a pressure test on the lead. |
+| `NGI-20260708-S03` | `brief` | Ukraine and NATO Limit Strategic Room | Does simultaneous Ukraine/NATO strain reduce U.S. freedom to sustain Iran coercion? | `bounded-analysis` | `SRC-06`, `SRC-07` | Mercouris; Krapivnik | `none` | `none` | Preserves cross-theater pressure without making it the owning crisis object. |
+| `NGI-20260708-S99` | `hold` | Operational routing and strike claims | Which concrete routing, ship-flow, or strike claims can be promoted later? | `source-assertion` | `none` | none | `none` | `none` | Held pending verification packets or explicit forecast-resolution need. |

@@ -29,6 +29,10 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-09/source-mario-nawfal-pape-hezbollah-infiltrates-israel-apache-shot-down-2026-06-09.md` | cleaned-transcript | `already-imported` | `yes` | Pape | Mario Nawfal | guest interview pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-09/source-pape-breaking-points-axis-of-resistance-security-belt-2026-06-09.md` | cleaned-transcript | `already-imported` | `yes` | Pape | Breaking Points | guest interview pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-09/source-tucker-carlson-mearsheimer-us-resumes-strikes-iran-clean-exit-unlikely-2026-06-09.md` | cleaned-transcript | `already-imported` | `yes` | Mearsheimer | Tucker Carlson | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-09/source-dialogue-works-iran-launches-immediate-retaliation-explosions-rock-bahrain-after-us-strikes-2026-06-09.md` | cleaned-transcript | `already-imported` | `yes` | Alkhorshid | Dialogue Works | authored stream-sequence spine; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-09/source-dialogue-works-marandi-iran-drops-new-equation-israel-goes-against-trump-escapes-2026-06-09.md` | cleaned-transcript | `already-imported` | `yes` | Marandi | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-09/source-dialogue-works-stanislav-krapivnik-breaking-us-attacks-iran-russia-no-deal-coming-2026-06-09.md` | cleaned-transcript | `already-imported` | `yes` | Krapivnik | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-09/source-glenn-diesen-douglas-macgregor-new-world-israel-dying-nato-dead-us-defeated-iran-2026-06-09.md` | cleaned-transcript | `already-imported` | `yes` | Macgregor | Glenn Diesen | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

@@ -27,6 +27,7 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-17/source-pape-day-60-hidden-deadline-official-trump-iran-agreement-2026-06-17.md` | substack-post | `already-imported` | `yes` | Pape | none | authored forecast mechanism; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-17/source-pape-stage-iv-begins-inside-bloombergs-iran-mou-2026-06-17.md` | substack-post | `already-imported` | `yes` | Pape | none | authored forecast mechanism; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-17/source-parsi-trump-democrats-courage-end-failed-war-2026-06-17.md` | substack-post | `already-imported` | `yes` | Parsi | Parsi | authored newsletter; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-17/source-dialogue-works-pepe-escobar-israel-outplayed-mou-beat-israel-2026-06-17.md` | cleaned-transcript | `already-imported` | `yes` | Escobar | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

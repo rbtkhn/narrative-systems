@@ -29,6 +29,8 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-23/source-judging-freedom-mearsheimer-netanyahu-and-israeli-decline-2026-06-23.md` | transcript | `already-imported` | `yes` | Mearsheimer | Judging Freedom | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-23/source-judging-freedom-ritter-russia-us-iran-mou-ukraine-attacks-moscow-2026-06-23.md` | transcript | `already-imported` | `yes` | Ritter | Judging Freedom | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-23/source-mario-nawfal-weichert-tucker-mtg-abandon-republican-party-maga-falling-apart-2026-06-23.md` | transcript | `already-imported` | `yes` | Weichert | Mario Nawfal | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-23/source-dialogue-works-henningsen-israels-losses-lebanon-hezbollah-iran-geneva-talks-2026-06-23.md` | operator-transcript | `already-imported` | `yes` | Henningsen | Dialogue Works | host-pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-23/source-duran-mercouris-rubicon-crossed-zelensky-targets-belarus-2026-06-23.md` | transcript | `already-imported` | `yes` | Mercouris | The Duran | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 

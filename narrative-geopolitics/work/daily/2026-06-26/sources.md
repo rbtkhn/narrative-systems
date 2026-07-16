@@ -26,6 +26,8 @@ This run is a retrospective judgment run built from already-imported central arc
 | `archive/sources/2026-06-26/source-judging-freedom-johnson-mcgovern-intel-roundtable-weekly-wrap-26-june-2026-06-26.md` | cleaned-transcript | `already-imported` | `yes` | Johnson / McGovern | Judging Freedom | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-26/source-mario-nawfal-trita-parsi-israel-lebanon-peace-agreement-mou-breach-2026-06-26.md` | cleaned-transcript | `already-imported` | `yes` | Parsi | Mario Nawfal | host-pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-06-26/source-moral-resistance-robert-pape-us-strike-iran-lebanon-deal-violates-mou-2026-06-26.md` | cleaned-transcript | `already-imported` | `yes` | Pape | Moral Resistance | guest interview pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-26/source-judging-freedom-macgregor-judgment-day-trump-war-lost-2026-06-26.md` | cleaned-transcript | `already-imported` | `yes` | Macgregor | Judging Freedom | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-06-26/source-mario-nawfal-macgregor-israel-furious-trump-turkey-syria-lebanon-2026-06-26.md` | cleaned-transcript | `already-imported` | `yes` | Macgregor | Mario Nawfal | cross-host pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 
