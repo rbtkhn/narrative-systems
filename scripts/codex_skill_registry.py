@@ -11,7 +11,7 @@ DEPLOYABLE_SKILL_NAMES = (
     "best-intake",
     "geopolitical-synthesis",
     "reality-check",
-    "voice-revision-audit",
+    "voice-accountability",
 )
 
 

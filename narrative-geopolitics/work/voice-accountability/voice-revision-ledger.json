@@ -1,0 +1,31 @@
+{
+  "ledger_id": "narrative-geopolitics-voice-revision-ledger-v1",
+  "status": "internal-canonical",
+  "canonical_markdown": "voice-revision-ledger.md",
+  "near_misses": "voice-revision-near-misses.md",
+  "scope_note": "Strict adjudicated self-revisions only; no numeric scoring and no factual adjudication of the revised claim.",
+  "allowed_classes": [
+    "explicit-personal-admission",
+    "personal-position-revision",
+    "personal-prediction-revision",
+    "qualified-collective-revision"
+  ],
+  "entries": [
+    {
+      "id": "VR-20260716-01",
+      "date": "2026-07-16",
+      "voice_slug": "mearsheimer",
+      "host_slug": "glenn-diesen",
+      "source_title": "John Mearsheimer: All-Out War in the Middle East & Trump's War on Russia",
+      "source_path": "narrative-geopolitics/archive/sources/2026-07-16/source-john-mearsheimer-all-out-war-in-the-middle-east-trump-s-war-on-russia-2026-07-16.md",
+      "line": 123,
+      "class": "explicit-personal-admission",
+      "status": "active",
+      "prior_view": "Expected Iran to do very well and shut the Strait of Hormuz.",
+      "revised_view": "Did not fully appreciate how well Iran would perform militarily in the fighting.",
+      "excerpt": "I thought all along the Iranians would do very well. Uh I thought they would shut the Strait of Hormuz, but I I did not fully appreciate how well Iran would do in in the fighting.",
+      "adjudication_note": "This is a strict self-revision because the speaker explicitly contrasts a prior personal expectation with a stronger observed performance than he had appreciated. The prior view and revised view both appear in the same passage, the speaker is the featured voice, and the admission concerns his own analytical appreciation rather than a third party's error.",
+      "forecast_hooks": []
+    }
+  ]
+}

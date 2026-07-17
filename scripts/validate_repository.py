@@ -18,6 +18,7 @@ from codex_skill_registry import (
 )
 import voice_indexes
 import voice_metadata
+import voice_accountability
 import verification as verification_packets
 import render_daily_issue as daily_issue
 import reality
@@ -268,7 +269,7 @@ def skill_contract_failures() -> list[str]:
         "best-intake",
         "geopolitical-synthesis",
         "reality-check",
-        "voice-revision-audit",
+        "voice-accountability",
     }:
         failures.append(f"unexpected deployable skill allowlist: {sorted(deployable)}")
     repo_skills = set(discover_repo_skill_names())
@@ -381,6 +382,10 @@ def voice_routing_failures() -> list[str]:
     return sorted(set(failures))
 
 
+def voice_accountability_failures() -> list[str]:
+    return voice_accountability.validate_ledger()
+
+
 def validate_repository() -> list[str]:
     failures: list[str] = []
     for check in (
@@ -393,6 +398,7 @@ def validate_repository() -> list[str]:
         verification_packet_failures,
         reality_lattice_failures,
         skill_contract_failures,
+        voice_accountability_failures,
         tracked_artifact_failures,
         obsolete_guidance_failures,
         voice_routing_failures,

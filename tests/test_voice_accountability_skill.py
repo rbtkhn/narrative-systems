@@ -7,7 +7,7 @@ from pathlib import Path
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-SKILL_ROOT = REPO_ROOT / "docs" / "skill-drafts" / "voice-revision-audit"
+SKILL_ROOT = REPO_ROOT / "docs" / "skill-drafts" / "voice-accountability"
 SCRIPT = SKILL_ROOT / "scripts" / "find_revision_candidates.py"
 
 
@@ -57,8 +57,8 @@ def test_skill_metadata_and_deployable_contract() -> None:
     metadata = (SKILL_ROOT / "agents" / "openai.yaml").read_text(
         encoding="utf-8"
     )
-    assert 'display_name: "Voice Revision Audit"' in metadata
-    assert "$voice-revision-audit" in metadata
+    assert 'display_name: "Voice Accountability"' in metadata
+    assert "$voice-accountability" in metadata
 
 
 def test_finder_filters_dates_and_voices_and_keeps_stdout_json(tmp_path: Path) -> None:

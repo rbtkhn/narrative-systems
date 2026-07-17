@@ -36,6 +36,10 @@ Active host/channel shelves in this first slice: [`daniel-davis`](../../channels
 
 Mearsheimer supplies the structural constraint layer: why coercive projects fail when incentives, security dilemmas, and bargaining geometry point the other way.
 
+## Accountability Notes
+
+- `VR-20260716-01`: Mearsheimer explicitly revised his own appreciation of Iran's military performance, saying he had expected Iran to do very well and shut Hormuz but had not fully appreciated how well Iran would perform in the fighting. Canonical entry: [voice-revision-ledger.md](../../work/voice-accountability/voice-revision-ledger.md#vr-20260716-01---john-mearsheimer).
+
 ## Use Guidance
 
 Use this voice when:

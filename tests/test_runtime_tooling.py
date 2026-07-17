@@ -52,6 +52,7 @@ EXPECTED_SURFACES = {
     "skills-sync": "sync_codex_skills.py",
     "synthesis": "geopolitical_synthesis.py",
     "verification": "verification.py",
+    "voice-accountability": "voice_accountability.py",
     "voice-canonicalize": "canonicalize_voice_metadata.py",
     "voice-sync": "sync_voice_indexes.py",
 }

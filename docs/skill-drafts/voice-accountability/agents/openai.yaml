@@ -1,0 +1,4 @@
+interface:
+  display_name: "Voice Accountability"
+  short_description: "Find and track strict self-revision accountability findings"
+  default_prompt: "Use $voice-accountability to audit a date range for voices admitting error or transparently revising positions and predictions."

@@ -23,6 +23,7 @@ SURFACES = {
     "skills-sync": REPO_ROOT / "scripts" / "sync_codex_skills.py",
     "synthesis": REPO_ROOT / "scripts" / "geopolitical_synthesis.py",
     "verification": REPO_ROOT / "scripts" / "verification.py",
+    "voice-accountability": REPO_ROOT / "scripts" / "voice_accountability.py",
     "voice-canonicalize": REPO_ROOT / "scripts" / "canonicalize_voice_metadata.py",
     "voice-sync": REPO_ROOT / "scripts" / "sync_voice_indexes.py",
 }
