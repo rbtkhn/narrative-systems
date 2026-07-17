@@ -1,5 +1,9 @@
 # Narrative Systems Local Cadence
 
+Every assistant response to the operator in this workspace should include
+multiple-choice options for what to do next. Keep the menu concise and
+grounded in the current task.
+
 When the operator says `coffee`, read
 `docs/skill-drafts/coffee/SKILL.md` completely and follow it.
 
