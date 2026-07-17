@@ -1,0 +1,14 @@
+{
+  "as_of": "2026-07-15",
+  "created_at": "2026-07-15T00:00:00Z",
+  "created_by": "operator",
+  "from_id": "EVD-20260715-001",
+  "id": "REL-20260715-001",
+  "kind": "relation",
+  "relation_type": "supports",
+  "revision_of": null,
+  "schema_version": 1,
+  "scope": "Supports vessel identity, Omani-lane location, and physical voyage context while limiting any cargo-loss inference; does not support the alleged warning, bypass intent, or attribution.",
+  "status": "active",
+  "to_id": "OPC-20260714-02"
+}

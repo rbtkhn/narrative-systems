@@ -1,5 +1,5 @@
-<!-- daily-issue-v1 inputs-sha256: 93c40857377284673417031c21ec2e0311c8c15682979f7cf1fda8a423193604 -->
-<!-- reality-lattice-sha256: eb32bb9e0fb3f82397760173e5679477f4286c0be9eb9c0a514ad73057359199 -->
+<!-- daily-issue-v1 inputs-sha256: 18dd98cb38c8231891d38b51660fb5f696d3658b58d2765f84522a76346877f4 -->
+<!-- reality-lattice-sha256: eab6e3801f28478382776814f4718d9b75776521c146ad67b7449547e9ea4de9 -->
 <!-- Generated file. Edit canonical daily or reality-lattice inputs, then regenerate. -->
 
 Publication: **Narrative Geopolitics — Daily Issue**
@@ -75,15 +75,15 @@ Crisis object: Can commercially tolerable Gulf passage be restored without accep
 
 July 14 widens the Hormuz question without resolving its hardest factual claims. The archive's strongest judgment is that commercially tolerable passage is being narrated as a regional participation problem rather than a simple contest over whether the waterway is physically open. Gulf facilities, tanker routes, Yemen and Saudi Arabia, Israeli logistics, and American political strain all appear in the batch as possible costs of trying to restore passage without Iranian coordination.
 
-That is an analytical finding about the shape of the source record, not an operational finding that every reported strike or warning occurred as described. Marandi and Johnson supply the most detailed claims about exposed Gulf support nodes and passage discipline. Escobar extends the mechanism toward Yemen and Bab al-Mandab. Wilkerson and Davis test whether continued force can produce an attainable political result. Their accounts make permission, punishment, and participation a coherent mechanism, but their agreement does not independently establish targets, damage, vessel movements, or command chains.
+That is an analytical finding about the shape of the source record, not an operational finding that every reported strike or warning occurred as described. Marandi and Johnson supply the most detailed claims about exposed Gulf support nodes and passage discipline. Escobar extends the mechanism toward Yemen and Bab al-Mandab. Wilkerson and Davis test whether continued force can produce an attainable political result. Subsequent multilingual lattice evidence independently supports the tanker incident, vessel identity, damage, and measurable commercial deterrence, but not the claimed warning, deliberate bypass, mined-route, or vessel-level attribution chain.
 
-The distinction matters because two very different days remain possible. Independent evidence of sustained attacks on Gulf bases, enforced tanker discipline, or a widening Red Sea event chain would move the archive toward an open regional-war threshold. If those claims prove inflated, misattributed, or commercially marginal, July 14 instead records a narrative escalation around an unresolved transit-governance contest. The issue therefore keeps the regional frame while refusing the factual promotion that would make it seem settled.
+The distinction matters because the evidence now separates an incident core from a broader mechanism. Independent evidence of sustained attacks on Gulf bases, direct enforcement of tanker discipline, or a widening Red Sea event chain would move the archive toward an open regional-war threshold. Without that linkage, July 14 records a real maritime disruption inside an unresolved transit-governance contest. The issue therefore keeps the regional frame while refusing to present the compound claim as settled.
 
 This framing also explains why nominal openness is an inadequate measure. A waterway can remain physically navigable while commercial actors confront warnings, uncertain routing rules, insurance costs, or political conditions that change whether passage is tolerable. Conversely, dramatic military language can coexist with continued traffic. The governing question is therefore not whether a map labels the Strait open, but whether ships can move predictably without accepting a contested authority or triggering a repeatable coercive response.
 
-The archive does not yet contain the commercial evidence needed to score that condition. Vessel tracks, cargo identity, port calls, marine notices, insurance signals, and repeated route behavior would reveal whether the permission regime is materially governing commerce or mainly organizing commentary. Those observables would also separate a durable regional mechanism from a short-lived escalation narrative. Until they are checked, the issue can identify the test and its stakes without declaring its result.
+The lattice now contains vessel identity, location, cargo-state, damage, and commercial route-avoidance evidence sufficient to support a measurable deterrent effect. It still lacks direct warning records, proof of navigation shutdown or deliberate bypass, vessel-level weapon attribution, insurance-specific effects, and repeated commodity-flow evidence. Those remaining observables separate a durable permission regime from a serious but incompletely attributed disruption. The issue can identify the test and its stakes without declaring the forecast resolved.
 
-For a returning reader, the durable state of the day is therefore a conditional widening. Hormuz remains the organizing object, but the consequences under review now extend beyond ships in one corridor. The archive is waiting to learn whether regional facilities and a possible second transit lane are actually being incorporated into the same enforcement system. That formulation is narrower than declaring regional war and more informative than listing each reported incident separately.
+For a returning reader, the durable state of the day is therefore a conditional widening with a supported incident core. Hormuz remains the organizing object, but the consequences under review now extend beyond ships in one corridor. The archive is waiting to learn whether the named tanker incidents, regional facilities, and a possible second transit lane are actually incorporated into the same enforcement system. That formulation is narrower than declaring regional war and more informative than listing each reported incident separately.
 
 ## Source Ledger
 
@@ -118,12 +118,12 @@ Operational claims remain attributed unless canonical multilingual adjudication 
 | Claim | Bounded operational claim | Status | Lattice state | Consequence if false | Verification |
 | --- | --- | --- | --- | --- | --- |
 | `OPC-20260714-01` | Iran struck U.S. or Gulf-linked bases and facilities across Bahrain, Kuwait, Oman, Jordan, Qatar, or related corridors, and local air defenses failed materially. | `source_assertion` | `migrated: unassessed` | `high` | `request` |
-| `OPC-20260714-02` | Tankers or corridor traffic attempting to bypass Iranian coordination were warned, mined, struck, or deterred in ways that affected sour crude, diesel, aviation fuel, or tanker movement. | `source_assertion` | `migrated: unassessed` | `high` | [VER-20260714-01](../../verification/packets/VER-20260714-01-hormuz-corridor-tanker-deterrence/README.md) |
+| `OPC-20260714-02` | Tankers or corridor traffic attempting to bypass Iranian coordination were warned, mined, struck, or deterred in ways that affected sour crude, diesel, aviation fuel, or tanker movement. | `contested` | `canonical_assessed: contested` | `high` | [VER-20260714-01](../../verification/packets/VER-20260714-01-hormuz-corridor-tanker-deterrence/README.md) |
 | `OPC-20260714-03` | A Saudi attack on Sana'a airport or an Iran-linked flight and a Yemeni response moved Bab al-Mandab/Saudi infrastructure toward active participation in the same transit contest. | `source_assertion` | `migrated: unassessed` | `high` | `request` |
 
 ### Missing observables
 
-The most important absent evidence is vessel-specific: tracks, cargo, warning notices, damage reports, insurance or rerouting data, port logs, and authoritative statements on whether any passage attempt deliberately bypassed Iranian coordination. For the Gulf-base cluster, the missing observables are impact location, timing, target type, damage, interceptor activity, and chain of attribution.
+Subsequent lattice work has checked vessel identity, incident location, reported damage and casualties, cargo state, and commercial route avoidance for the tanker episode. The remaining vessel-specific gaps are direct evidence that the named ships received warnings, disabled navigation, deliberately bypassed Iranian coordination, or entered a mined route; vessel-level weapon forensics or launch-track attribution; insurance-specific effects; and a defensible linkage between the named ships and the unnamed pair in the Iranian notice. For the Gulf-base cluster, the missing observables remain impact location, timing, target type, damage, interceptor activity, and chain of attribution.
 
 ## Voices / Columns
 
@@ -156,4 +156,6 @@ Canonical inputs: [sources](sources.md), [synthesis](synthesis.md), [forecast](f
 
 ### Revision Log
 
-No revisions.
+| Timestamp (UTC) | Type | Note |
+| --- | --- | --- |
+| `2026-07-17T17:37:58Z` | `update` | Refreshed internal prose after `OPC-20260714-02` reached canonical contested status; preserved unresolved attribution and bypass linkage, no public-use authorization, and no forecast-scoring authorization. |

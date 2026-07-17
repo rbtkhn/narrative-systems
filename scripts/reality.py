@@ -92,6 +92,8 @@ TRANSLATION_PROVENANCE = {
     "machine_assisted_disclosed",
 }
 EVIDENCE_ROLES = {"observational", "official_position", "professional_reporting", "context_only", "derived_editorial"}
+CANONICAL_REVIEWER = "operator"
+REQUIRED_SIGNOFFS = 1
 COMMON_REQUIRED = {"schema_version", "id", "kind", "created_at", "created_by", "as_of", "status", "revision_of"}
 SOURCE_FIELDS = {
     "name", "canonical_url", "domain", "observables", "evidence_class", "perspective",
@@ -355,8 +357,8 @@ def validate_assessment(assessment: dict[str, Any], records: dict[str, dict[str,
     unresolved_outcomes = {"contested", "unresolvable", "unresolved", "contested_attribution"}
     if canonical and not profiles and assessment.get("outcome") not in unresolved_outcomes:
         failures.append(f"{label}: unknown or unprofiled domains may resolve only as contested or unresolvable")
-    if canonical and claim.get("consequence") == "high" and len(set(signers)) < 2:
-        failures.append(f"{label}: high-consequence canonical assessment requires two signoffs")
+    if canonical and CANONICAL_REVIEWER not in set(signers):
+        failures.append(f"{label}: canonical assessment requires {CANONICAL_REVIEWER} signoff")
     if positive and canonical and assessment.get("status") != "canonical_with_language_waiver":
         if len(languages) < required:
             failures.append(f"{label}: canonical support requires {required} origin languages")
@@ -372,8 +374,8 @@ def validate_assessment(assessment: dict[str, Any], records: dict[str, dict[str,
             failures.append(f"{label}: language waiver applies only to positive empirical outcomes")
         if len(languages) >= required:
             failures.append(f"{label}: language waiver requires an unmet language environment")
-        if len(waiver_reviewers) < 2:
-            failures.append(f"{label}: language waiver requires two reviewers")
+        if CANONICAL_REVIEWER not in waiver_reviewers:
+            failures.append(f"{label}: language waiver requires {CANONICAL_REVIEWER} approval")
         if not assessment.get("physical_evidence_exception"):
             failures.append(f"{label}: language waiver requires a physical evidence exception")
         if not any(item.get("evidence_role") == "observational" for item in evidence):
@@ -587,7 +589,7 @@ def domain_profiles(as_of: str = "2026-07-15") -> list[dict[str, Any]]:
             "regional_environment_required": True,
             "external_environment_required": True,
             "permitted_outcomes": ["supported", "contested", "disconfirmed", "unresolvable"],
-            "waiver_policy": "Two distinct reviewers may approve unusually strong primary physical evidence after a documented multilingual search failure.",
+            "waiver_policy": "The human operator may approve unusually strong primary physical evidence after a documented multilingual search failure.",
         })
         records.append(record)
     return records
@@ -887,10 +889,8 @@ def migration_record_matches(
     if not signoffs_changed:
         return actual.get("status") == expected.get("status")
 
-    claim = records.get(actual.get("claim_id"), {})
-    required_signoffs = 2 if claim.get("consequence") == "high" else 1
     expected_status = "provisional_assessed"
-    if len(set(reviewers)) >= required_signoffs:
+    if CANONICAL_REVIEWER in set(reviewers):
         candidate = dict(actual)
         candidate["status"] = "canonical_assessed"
         candidate_records = dict(records)
@@ -1054,7 +1054,8 @@ def audit_payload(claim_id: str, root: Path = REALITY_ROOT) -> dict[str, Any]:
             if item.get("reviewer")
         }
     )
-    required_signoffs = 2 if claim.get("consequence") == "high" else 1
+    required_signoffs = REQUIRED_SIGNOFFS
+    required_reviewer_present = CANONICAL_REVIEWER in signers
     canonical = bool(
         assessment
         and assessment.get("status") in {"canonical_assessed", "canonical_with_language_waiver"}
@@ -1082,7 +1083,7 @@ def audit_payload(claim_id: str, root: Path = REALITY_ROOT) -> dict[str, Any]:
         if not external_present:
             missing_gates.append("external_environment")
     if assessment:
-        if not canonical and len(signers) < required_signoffs:
+        if not canonical and not required_reviewer_present:
             missing_gates.append("human_signoff")
         if not canonical:
             missing_gates.append("canonical_assessment")
@@ -1099,7 +1100,7 @@ def audit_payload(claim_id: str, root: Path = REALITY_ROOT) -> dict[str, Any]:
         next_action = "collect_independent_lineage_evidence"
     elif not assessment:
         next_action = "create_claim_specific_assessment"
-    elif not canonical and len(signers) < required_signoffs:
+    elif not canonical and not required_reviewer_present:
         next_action = "request_explicit_human_signoff"
     elif not canonical:
         next_action = "reconcile_provisional_assessment"
@@ -1160,6 +1161,7 @@ def audit_payload(claim_id: str, root: Path = REALITY_ROOT) -> dict[str, Any]:
         },
         "authorization": {
             "required_signoffs": required_signoffs,
+            "required_reviewer": CANONICAL_REVIEWER,
             "present_signoffs": signers,
             "authorizes_public": bool(assessment and assessment.get("authorizes_public")),
             "authorizes_forecast_scoring": bool(
@@ -1312,9 +1314,7 @@ def sign_assessment(assessment_id: str, reviewer: str, root: Path = REALITY_ROOT
         record["status"] = "provisional_assessed"
         records = load_records(root)
         records[assessment_id] = record
-        claim = records.get(record.get("claim_id"), {})
-        required_signoffs = 2 if claim.get("consequence") == "high" else 1
-        if len({item.get("reviewer") for item in signoffs}) >= required_signoffs:
+        if CANONICAL_REVIEWER in {item.get("reviewer") for item in signoffs}:
             record["status"] = "canonical_assessed"
             if validate_assessment(record, records):
                 record["status"] = "provisional_assessed"
@@ -1339,7 +1339,7 @@ def waive_language(assessment_id: str, reviewer: str, reason: str, root: Path = 
         if reviewer not in {item.get("reviewer") for item in signoffs}:
             signoffs.append({"reviewer": reviewer, "signed_at": signed_at})
         record["status"] = "provisional_assessed"
-        if len({item.get("reviewer") for item in reviewers}) >= 2:
+        if CANONICAL_REVIEWER in {item.get("reviewer") for item in reviewers}:
             record["status"] = "canonical_with_language_waiver"
             records = load_records(root)
             records[assessment_id] = record

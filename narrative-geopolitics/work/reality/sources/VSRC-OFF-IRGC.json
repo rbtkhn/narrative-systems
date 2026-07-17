@@ -1,0 +1,40 @@
+{
+  "access": "open",
+  "access_languages": [
+    "fa"
+  ],
+  "appropriate_uses": "IRGC institutional position, claimed action, maritime warning language, and operational leads.",
+  "as_of": "2026-07-17",
+  "canonical_url": "https://sepahnews.ir/",
+  "created_at": "2026-07-17T00:00:00Z",
+  "created_by": "operator",
+  "domain": "military_activity",
+  "evidence_class": "official_interested_primary",
+  "geography": "Iran and the Persian Gulf",
+  "geopolitical_environment": "iranian_state",
+  "id": "VSRC-OFF-IRGC",
+  "inappropriate_uses": "Independent confirmation of attacks, attribution, vessel conduct, warning receipt, navigation status, or battle damage.",
+  "kind": "source",
+  "known_failure_modes": "Wartime strategic messaging; selective disclosure; absent vessel identifiers; attribution and battle-damage incentives; Persian-only access.",
+  "latency": "minutes-hours",
+  "name": "Sepah News / IRGC Public Relations",
+  "observables": "IRGC statements, warnings, claimed actions, and named operations",
+  "open_fallback": "self",
+  "order": 26,
+  "origin_languages": [
+    "fa"
+  ],
+  "originating_chain_rule": "Repetition of an IRGC Public Relations statement by Sepah News, Iranian state media, aggregators, or foreign reporting remains one IRGC official chain.",
+  "perspective": "iranian_state",
+  "review_history": [
+    {
+      "date": "2026-07-17",
+      "note": "Admitted after direct recovery of the Persian Sepah News primary page for Operation Nasr 2 Notice No. 6; bounded to official-position use.",
+      "reviewer": "operator-authorized-reality-check"
+    }
+  ],
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "active",
+  "translation_provenance": "machine_assisted_disclosed"
+}

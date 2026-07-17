@@ -1,0 +1,58 @@
+{
+  "as_of": "2026-07-17",
+  "authorizes_forecast_scoring": false,
+  "authorizes_public": false,
+  "calibration_eligible": false,
+  "claim_id": "OPC-20260714-02",
+  "confidence_boundary": "High confidence in the exact identities of MOMBASA B (IMO 9739501) and AL BAHYAH (IMO 9937799), their 14 July Oman-side incident location, damage, casualties, rescue or abandonment consequences, and measurable subsequent route avoidance; moderate confidence that the incidents occurred within the contested southern bypass corridor; low confidence that Iran can be attributed at vessel level through independent technical evidence or that either vessel received and ignored specific warnings, disabled navigation systems, entered a mined route, or deliberately defied Iranian coordination.",
+  "created_at": "2026-07-17T00:00:00Z",
+  "created_by": "operator",
+  "evidence_ids": [
+    "EVD-20260714-001",
+    "EVD-20260714-002",
+    "EVD-20260714-003",
+    "EVD-20260715-001",
+    "EVD-20260715-002",
+    "EVD-20260717-001",
+    "EVD-20260717-002"
+  ],
+  "id": "ADJ-20260717-002",
+  "kind": "assessment",
+  "language_audit": {
+    "external_environment_present": true,
+    "missing_environments": [],
+    "origin_languages": [
+      "ar",
+      "en",
+      "fa",
+      "fr"
+    ],
+    "originating_chains": [
+      "CHAIN-AJ-OSINT-20260715-MOMBASA-ALBAHIYAH",
+      "CHAIN-IMO-20260714-MOMBASA-ALBAHYAH",
+      "CHAIN-IRGC-NASR2-NOTICE6-20260714",
+      "CHAIN-OMAN-MSC-20260714-MOMBASA-B",
+      "CHAIN-REUTERS-20260714-TANKERS",
+      "CHAIN-REUTERS-SHIPPING-SOURCES-20260715",
+      "CHAIN-UAE-MOD-20260714"
+    ],
+    "regional_environment_present": true
+  },
+  "language_search_record": "Revision adds the IMO confirmed-incident table and an Arabic Oman Maritime Security Centre notice to the prior Arabic, English, Persian, and French review. Exact vessel names, both IMO numbers, date, Oman-side location, damage, and local response are now independently corroborated. ADNOC confirms projectile impacts and significant damage without naming an attacker; Windward labels the strikes Iranian but exposes no underlying forensic or intelligence chain and remains an unregistered lead. No primary or independent technical record links the named vessels to the unnamed pair in IRGC Notice No. 6 or resolves warning receipt, navigation shutdown, mined-route use, deliberate bypass intent, or vessel-level attribution.",
+  "observable_ids": [
+    "OBS-20260714-002"
+  ],
+  "outcome": "contested",
+  "physical_evidence_exception": false,
+  "rationale": "The IMO independently identifies MOMBASA B and AL BAHYAH by IMO number, date, Oman-side location, and incident consequences, while Oman Maritime Security Centre independently names MOMBASA B as targeted off Musandam and records the rescue response. Together with Reuters, UAE-linked reporting, Arabic tracking analysis, the Persian IRGC notice, and commercial route-avoidance reporting, this strongly supports the physical incident, vessel identity, and measurable deterrent effect. The compound linkage remains unresolved: the IRGC notice names no vessels, independent records do not establish warning receipt or deliberate defiance, and no disclosed weapon-forensics or launch-track evidence attributes the strikes at vessel level. Stronger identity evidence therefore narrows uncertainty without changing the appropriate contested outcome.",
+  "revision_of": "ADJ-20260717-001",
+  "schema_version": 1,
+  "signoffs": [
+    {
+      "reviewer": "operator",
+      "signed_at": "2026-07-17T16:54:11Z"
+    }
+  ],
+  "status": "canonical_assessed",
+  "updated_at": "2026-07-17T16:54:11Z"
+}

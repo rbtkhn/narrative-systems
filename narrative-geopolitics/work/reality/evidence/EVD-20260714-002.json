@@ -1,0 +1,23 @@
+{
+  "access_language": "fr",
+  "as_of": "2026-07-14",
+  "created_at": "2026-07-14T00:00:00Z",
+  "created_by": "operator",
+  "event_time": "2026-07-14",
+  "evidence_role": "professional_reporting",
+  "geopolitical_environment": "european_independent",
+  "id": "EVD-20260714-002",
+  "kind": "evidence",
+  "limitation": "The event detail derives from the UAE official statement and is not independent of that official lineage; it does not establish warning receipt, bypass intent, or attribution through physical evidence. AI-assisted English rendering is disclosed.",
+  "observation": "Le Monde reported in French the UAE defence statement that Mombasa and Al Bahiyah were targeted by two Iranian cruise missiles while transiting the southern Hormuz lane in Omani territorial waters.",
+  "origin_language": "fr",
+  "originating_chain": "CHAIN-UAE-MOD-20260714",
+  "representation_sha256": "57d9e7ac184ab413fcfe9486924c71f9c859b5becf625778e86d0e0a0cf79d73",
+  "retrieved_at": "2026-07-17",
+  "revision_of": null,
+  "schema_version": 1,
+  "source_id": "VSRC-RPT-LEMONDE",
+  "status": "active",
+  "translation_provenance": "machine_assisted_disclosed",
+  "url": "https://www.lemonde.fr/international/live/2026/07/14/en-direct-guerre-au-moyen-orient-des-bombardements-signales-sur-quatre-sites-de-la-ville-de-bouchehr-rapporte-l-agence-de-presse-iranienne-irna_6722873_3210.html"
+}

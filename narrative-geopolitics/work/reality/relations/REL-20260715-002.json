@@ -1,0 +1,14 @@
+{
+  "as_of": "2026-07-15",
+  "created_at": "2026-07-15T00:00:00Z",
+  "created_by": "operator",
+  "from_id": "EVD-20260715-002",
+  "id": "REL-20260715-002",
+  "kind": "relation",
+  "relation_type": "supports",
+  "revision_of": null,
+  "schema_version": 1,
+  "scope": "Supports measurable commercial deterrence and route avoidance after attacks in the Omani corridor; does not prove that every attacked vessel challenged Iranian coordination or received vessel-specific warnings.",
+  "status": "active",
+  "to_id": "OPC-20260714-02"
+}

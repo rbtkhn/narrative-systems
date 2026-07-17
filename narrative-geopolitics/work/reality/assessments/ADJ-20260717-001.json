@@ -1,0 +1,54 @@
+{
+  "as_of": "2026-07-17",
+  "authorizes_forecast_scoring": false,
+  "authorizes_public": false,
+  "calibration_eligible": false,
+  "claim_id": "OPC-20260714-02",
+  "confidence_boundary": "High confidence that identified tankers were struck and damaged in the southern Omani corridor and that subsequent attacks produced measurable route avoidance and delay; moderate confidence that the incidents formed part of a contested bypass corridor; low confidence that the same vessels deliberately bypassed Iranian coordination, received and ignored vessel-specific warnings, disabled navigation systems, entered a mined route, or can be attributed to Iran through independent vessel-level evidence.",
+  "created_at": "2026-07-17T00:00:00Z",
+  "created_by": "operator",
+  "evidence_ids": [
+    "EVD-20260714-001",
+    "EVD-20260714-002",
+    "EVD-20260714-003",
+    "EVD-20260715-001",
+    "EVD-20260715-002"
+  ],
+  "id": "ADJ-20260717-001",
+  "kind": "assessment",
+  "language_audit": {
+    "external_environment_present": true,
+    "missing_environments": [],
+    "origin_languages": [
+      "ar",
+      "en",
+      "fa",
+      "fr"
+    ],
+    "originating_chains": [
+      "CHAIN-AJ-OSINT-20260715-MOMBASA-ALBAHIYAH",
+      "CHAIN-IRGC-NASR2-NOTICE6-20260714",
+      "CHAIN-REUTERS-20260714-TANKERS",
+      "CHAIN-REUTERS-SHIPPING-SOURCES-20260715",
+      "CHAIN-UAE-MOD-20260714"
+    ],
+    "regional_environment_present": true
+  },
+  "language_search_record": "Bounded review used Arabic regional OSINT, the recovered Persian IRGC Public Relations primary notice, English Reuters reporting, and a French rendering of the UAE official statement. The French item remains in the UAE official lineage rather than an independent French event chain. Search stopped after the claim exceeded the three-language and three-lineage thresholds and both regional and external environments were represented; no independent vessel-level evidence resolved warning receipt, bypass intent, navigation shutdown, mined-route use, or attribution.",
+  "observable_ids": [
+    "OBS-20260714-002"
+  ],
+  "outcome": "contested",
+  "physical_evidence_exception": false,
+  "rationale": "The evidence converges on two named tankers being attacked in the southern Omani lane, physical damage and casualties, and a measurable commercial response in which operators avoided or delayed use of the U.S.-guided route. It does not converge on the compound claim's central linkage. The IRGC asserts warnings, navigation shutdown, a mined route, and disablement but names no vessels; UAE-linked reporting names Mombasa and Al Bahiyah but does not independently establish their intent or warning sequence; Reuters could not determine whether the Iranian and UAE statements concerned the same vessels; Arabic tracking evidence establishes voyage context rather than intent or attribution. Because supported event and consequence clauses coexist with unresolved and interested-source-dependent bypass and attribution clauses, the atomic claim is contested.",
+  "revision_of": null,
+  "schema_version": 1,
+  "signoffs": [
+    {
+      "reviewer": "operator",
+      "signed_at": "2026-07-17T16:41:54Z"
+    }
+  ],
+  "status": "provisional_assessed",
+  "updated_at": "2026-07-17T16:41:54Z"
+}

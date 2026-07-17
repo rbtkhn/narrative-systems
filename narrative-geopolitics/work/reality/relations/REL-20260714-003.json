@@ -1,0 +1,14 @@
+{
+  "as_of": "2026-07-14",
+  "created_at": "2026-07-14T00:00:00Z",
+  "created_by": "operator",
+  "from_id": "EVD-20260714-001",
+  "id": "REL-20260714-003",
+  "kind": "relation",
+  "relation_type": "supports",
+  "revision_of": null,
+  "schema_version": 1,
+  "scope": "Supports vessel-specific attack, location, casualties, damage, and the existence of an IRGC warning-route claim; does not independently establish deliberate bypass intent or attribution.",
+  "status": "active",
+  "to_id": "OPC-20260714-02"
+}

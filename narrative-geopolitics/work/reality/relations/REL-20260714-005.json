@@ -1,0 +1,14 @@
+{
+  "as_of": "2026-07-14",
+  "created_at": "2026-07-14T00:00:00Z",
+  "created_by": "operator",
+  "from_id": "EVD-20260714-002",
+  "id": "REL-20260714-005",
+  "kind": "relation",
+  "relation_type": "supports",
+  "revision_of": null,
+  "schema_version": 1,
+  "scope": "Supports only that the UAE publicly identified two tankers and the southern Omani lane; because the report inherits the UAE official lineage, it does not independently support warning receipt, bypass intent, or attribution.",
+  "status": "active",
+  "to_id": "OPC-20260714-02"
+}

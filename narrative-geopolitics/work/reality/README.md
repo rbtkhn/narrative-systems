@@ -33,14 +33,16 @@ or challenged. Translation and syndication never create independence.
 
 Language-neutral physical evidence strengthens an assessment but does not
 silently replace the language gate. A physical-evidence waiver requires a
-documented multilingual search failure and two distinct human reviewers.
+documented multilingual search failure and explicit approval from the human
+`operator`.
 
 ## Authority
 
 Automation validates records, renders views, and reports impact. It never signs
-an assessment. High-consequence public adoption or accountable forecast
-scoring requires a canonical assessment and two distinct signoffs. A
-provisional assessment may guide internal work but cannot cross those gates.
+an assessment. The human reviewer identity `operator` is the sole required
+signer for a canonical assessment, including high-consequence public adoption
+or accountable forecast scoring. A provisional assessment may guide internal
+work but cannot cross those gates.
 
 ## Commands
 

@@ -1,0 +1,14 @@
+{
+  "as_of": "2026-07-14",
+  "created_at": "2026-07-14T00:00:00Z",
+  "created_by": "operator",
+  "from_id": "EVD-20260714-002",
+  "id": "REL-20260714-004",
+  "kind": "relation",
+  "relation_type": "contextualizes",
+  "revision_of": null,
+  "schema_version": 1,
+  "scope": "Adds a French-language external rendering of the UAE event claim but shares the UAE official lineage and therefore does not add independent confirmation.",
+  "status": "active",
+  "to_id": "OPC-20260714-02"
+}

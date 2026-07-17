@@ -1,0 +1,23 @@
+{
+  "access_language": "fa",
+  "as_of": "2026-07-14",
+  "created_at": "2026-07-14T00:00:00Z",
+  "created_by": "operator",
+  "event_time": "2026-07-14",
+  "evidence_role": "official_position",
+  "geopolitical_environment": "iranian_state",
+  "id": "EVD-20260714-003",
+  "kind": "evidence",
+  "limitation": "This is an interested belligerent's official claim and names neither vessel; it does not independently establish warning receipt, navigation-system status, route condition, U.S. direction, strike attribution, or disablement.",
+  "observation": "In Persian Operation Nasr 2 Notice No. 6, IRGC Public Relations claimed that two supertankers ignored repeated Strait of Hormuz security-control warnings, switched off navigation systems, attempted a mined route after U.S. encouragement, and were struck and disabled.",
+  "origin_language": "fa",
+  "originating_chain": "CHAIN-IRGC-NASR2-NOTICE6-20260714",
+  "representation_sha256": "573b13b4483d198390180fe9c39c21ef403b6b19484337903dbfa72e378824c0",
+  "retrieved_at": "2026-07-17",
+  "revision_of": null,
+  "schema_version": 1,
+  "source_id": "VSRC-OFF-IRGC",
+  "status": "active",
+  "translation_provenance": "machine_assisted_disclosed",
+  "url": "https://sepahnews.ir/fa/news/36107/"
+}

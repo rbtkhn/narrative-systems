@@ -27,7 +27,7 @@ Can Washington and its partners restore commercially tolerable Gulf passage with
 
 ## Why This Is Not Yet an Open-War Finding
 
-The sources repeatedly describe missile and drone strikes, failed air defenses, and widening regional targets. Those claims matter, but their consequence is precisely why they cannot be promoted casually. If the Bahrain/Kuwait/Oman/Jordan/Qatar strike cluster is supported by independent evidence, July 14 would mark a much clearer regional-war threshold. If it is inflated or wrongly attributed, the day remains a narrative escalation around a still-contested maritime mechanism. The synthesis therefore keeps the operational claims gated while using them to define the required verification path.
+The sources repeatedly describe missile and drone strikes, failed air defenses, and widening regional targets. Subsequent lattice work materially supports the occurrence, vessel identity, damage, and commercial deterrent effect of the tanker episode, but leaves its warning, bypass, mined-route, and vessel-level attribution linkage contested. The broader Bahrain/Kuwait/Oman/Jordan/Qatar strike cluster still lacks equivalent independent support. The synthesis therefore distinguishes a supported incident core from an unresolved compound mechanism and keeps the wider operational claims gated.
 
 ## The Mechanism Is Permission, Punishment, and Participation
 
@@ -49,7 +49,7 @@ The Russia/NATO/Ukraine items are substantial but not decisive for July 14. Ritt
 | Status | Cause | Consequence for judgment | What would reduce it |
 | --- | --- | --- | --- |
 | `unknown-operationally` | Gulf-base strike claims are repeated across sources but lack packet evidence. | Do not publish as fact; use only as a verification object. | Target-level impact records, official statements, independent imagery, or credible local reporting. |
-| `unknown-commercially` | No authorized tanker, insurance, cargo, or routing data has been checked. | The economic severity of the passage regime cannot be scored. | AIS patterns, port calls, marine insurance signals, commodity flow data. |
+| `partially-observed-commercially` | Vessel identity, location, cargo state, damage, and commercial route avoidance have been checked, but insurance-specific effects and the claimed warning/bypass linkage remain unresolved. | A measurable deterrent effect is supported, but the economic severity and claimed permission mechanism cannot be scored. | Warning records, navigation evidence, weapon forensics, insurance signals, port calls, and repeated commodity-flow effects. |
 | `contested-attribution` | Yemen/Saudi/Bab al-Mandab claims rely on interested or commentary sources. | Treat as watch pressure, not settled participation. | Independent event confirmation and attribution. |
 | `watch-not-promoted` | Russia/NATO sources show pressure but no new capability threshold. | Maintain watch without elevating it to the day's controlling object. | Force-posture data, confirmed weapons deliveries, or official threshold changes. |
 
@@ -58,7 +58,7 @@ The Russia/NATO/Ukraine items are substantial but not decisive for July 14. Ritt
 | Claim ID | Operational claim | Current status | Consequence if false | Public use | Verification |
 | --- | --- | --- | --- | --- | --- |
 | `OPC-20260714-01` | Iran struck U.S. or Gulf-linked bases and facilities across Bahrain, Kuwait, Oman, Jordan, Qatar, or related corridors, and local air defenses failed materially. | `source_assertion` | `high` | `no` | `request` |
-| `OPC-20260714-02` | Tankers or corridor traffic attempting to bypass Iranian coordination were warned, mined, struck, or deterred in ways that affected sour crude, diesel, aviation fuel, or tanker movement. | `source_assertion` | `high` | `no` | `VER-20260714-01` |
+| `OPC-20260714-02` | Tankers or corridor traffic attempting to bypass Iranian coordination were warned, mined, struck, or deterred in ways that affected sour crude, diesel, aviation fuel, or tanker movement. | `contested` | `high` | `no` | `VER-20260714-01` |
 | `OPC-20260714-03` | A Saudi attack on Sana'a airport or an Iran-linked flight and a Yemeni response moved Bab al-Mandab/Saudi infrastructure toward active participation in the same transit contest. | `source_assertion` | `high` | `no` | `request` |
 
 Packet-request commands:
@@ -81,7 +81,7 @@ Packet-request commands:
 
 ## Forecast Decision
 
-No new forecast is authorized. July 14 strengthens the existing Hormuz hooks rather than creating a distinct wager. `NG-20260708-F01` remains the broad governance hook: major public handling should treat Hormuz as a governed bargaining lane rather than a simple open/closed chokepoint. `NG-20260708-F02` remains the bypass-punishment hook and depends on operational evidence for `OPC-20260714-02` alongside the earlier [VER-20260710-01](../../verification/packets/VER-20260710-01-hormuz-bypass-test/README.md).
+No new forecast is authorized. July 14 strengthens the existing Hormuz hooks rather than creating a distinct wager. `NG-20260708-F01` remains the broad governance hook: major public handling should treat Hormuz as a governed bargaining lane rather than a simple open/closed chokepoint. `NG-20260708-F02` remains open and unscored: the canonical contested assessment for `OPC-20260714-02` supports the incident core and measurable deterrent effect but does not resolve deliberate bypass, warning receipt, mined-route use, or vessel-level attribution. The assessment explicitly authorizes neither public factual adoption nor forecast scoring.
 
 ## Judgment
 

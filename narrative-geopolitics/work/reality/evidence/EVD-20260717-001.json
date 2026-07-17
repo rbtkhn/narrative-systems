@@ -1,0 +1,23 @@
+{
+  "access_language": "en",
+  "as_of": "2026-07-17",
+  "created_at": "2026-07-17T00:00:00Z",
+  "created_by": "operator",
+  "event_time": "2026-07-14",
+  "evidence_role": "observational",
+  "geopolitical_environment": "multilateral",
+  "id": "EVD-20260717-001",
+  "kind": "evidence",
+  "limitation": "The IMO table confirms identity, location, and incident consequences but supplies no attacker, weapon, warning, navigation-status, mined-route, or bypass-intent finding; its casualty figures differ from earlier UAE-linked reporting and may reflect later reporting.",
+  "observation": "The IMO confirmed-incident table identifies AL BAHYAH as IMO 9937799 and MOMBASA B as IMO 9739501, places both 13 nautical miles from Oman on 14 July, and records damage, casualties, no pollution, and abandonment of MOMBASA B.",
+  "origin_language": "en",
+  "originating_chain": "CHAIN-IMO-20260714-MOMBASA-ALBAHYAH",
+  "representation_sha256": "1be454b6f096f90f020c0e697296dad8e2832663feb5eac1c7fca1a3395c0022",
+  "retrieved_at": "2026-07-17",
+  "revision_of": null,
+  "schema_version": 1,
+  "source_id": "VSRC-MAR-IMO",
+  "status": "active",
+  "translation_provenance": "not_required",
+  "url": "https://www.imo.org/en/mediacentre/hottopics/pages/middle-east-highlighted-incidents.aspx"
+}

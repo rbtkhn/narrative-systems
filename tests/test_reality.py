@@ -91,7 +91,7 @@ def assessment(languages: list[str], chains: list[str], *, status: str = "canoni
         "rationale": "Independent multilingual agreement on one observable.",
         "evidence_ids": [f"EVD-20260715-{index:03d}" for index in range(1, len(languages) + 1)],
         "observable_ids": ["OBS-20260715-001"],
-        "signoffs": [{"reviewer": "one", "signed_at": "2026-07-15T12:00:00Z"}, {"reviewer": "two", "signed_at": "2026-07-15T13:00:00Z"}],
+        "signoffs": [{"reviewer": "operator", "signed_at": "2026-07-15T12:00:00Z"}],
         "authorizes_public": True,
         "authorizes_forecast_scoring": False,
         "language_audit": {
@@ -158,7 +158,7 @@ def test_contested_outcome_preserves_disagreement_without_language_upgrade(tmp_p
     assert reality.validate_assessment(item, records) == []
 
 
-def test_language_waiver_requires_physical_evidence_search_record_and_two_reviewers(tmp_path: Path) -> None:
+def test_language_waiver_requires_physical_evidence_search_record_and_operator(tmp_path: Path) -> None:
     records = graph(tmp_path, ["en"], ["CHAIN-SENSOR"])
     item = records["ADJ-20260715-001"]
     records["EVD-20260715-001"]["evidence_role"] = "observational"
@@ -167,14 +167,14 @@ def test_language_waiver_requires_physical_evidence_search_record_and_two_review
     item["language_search_record"] = "Chinese and Russian sources were sought but unavailable."
     item["language_waiver"] = {
         "reason": "Direct geolocated imagery resolves the bounded physical event.",
-        "reviewers": [{"reviewer": "one"}, {"reviewer": "two"}],
+        "reviewers": [{"reviewer": "operator"}],
     }
     assert reality.validate_assessment(item, records) == []
-    item["language_waiver"]["reviewers"] = [{"reviewer": "one"}]
-    assert "ADJ-20260715-001: language waiver requires two reviewers" in reality.validate_assessment(item, records)
+    item["language_waiver"]["reviewers"] = [{"reviewer": "reviewer-one"}]
+    assert "ADJ-20260715-001: language waiver requires operator approval" in reality.validate_assessment(item, records)
 
 
-def test_signatures_promote_only_after_consequence_and_language_gates_pass(tmp_path: Path) -> None:
+def test_operator_signature_promotes_only_after_language_gates_pass(tmp_path: Path) -> None:
     records = graph(tmp_path, ["en", "zh", "ru"], ["CHAIN-EN", "CHAIN-ZH", "CHAIN-RU"])
     item = records["ADJ-20260715-001"]
     item.update({"status": "draft", "signoffs": [], "authorizes_public": False})
@@ -182,18 +182,17 @@ def test_signatures_promote_only_after_consequence_and_language_gates_pass(tmp_p
 
     reality.sign_assessment(item["id"], "reviewer-one", tmp_path)
     assert reality.load_records(tmp_path)[item["id"]]["status"] == "provisional_assessed"
-    reality.sign_assessment(item["id"], "reviewer-two", tmp_path)
+    reality.sign_assessment(item["id"], "operator", tmp_path)
     assert reality.load_records(tmp_path)[item["id"]]["status"] == "canonical_assessed"
 
 
-def test_two_signatures_do_not_promote_language_incomplete_support(tmp_path: Path) -> None:
+def test_operator_signature_does_not_promote_language_incomplete_support(tmp_path: Path) -> None:
     records = graph(tmp_path, ["en", "zh"], ["CHAIN-EN", "CHAIN-ZH"])
     item = records["ADJ-20260715-001"]
     item.update({"status": "draft", "signoffs": [], "authorizes_public": False})
     replace_record(tmp_path, item)
 
-    reality.sign_assessment(item["id"], "reviewer-one", tmp_path)
-    reality.sign_assessment(item["id"], "reviewer-two", tmp_path)
+    reality.sign_assessment(item["id"], "operator", tmp_path)
     assert reality.load_records(tmp_path)[item["id"]]["status"] == "provisional_assessed"
 
 
@@ -206,7 +205,7 @@ def test_ordinary_claim_promotes_after_one_signature_when_gate_passes(tmp_path: 
     item.update({"status": "draft", "signoffs": [], "authorizes_public": False})
     replace_record(tmp_path, item)
 
-    reality.sign_assessment(item["id"], "reviewer-one", tmp_path)
+    reality.sign_assessment(item["id"], "operator", tmp_path)
     assert reality.load_records(tmp_path)[item["id"]]["status"] == "canonical_assessed"
     audit = reality.audit_payload("OPC-20260715-01", tmp_path)
     assert audit["coverage"]["required_origin_languages"] == 2
@@ -229,7 +228,7 @@ def test_sibling_observable_cannot_upgrade_an_atomic_claim(tmp_path: Path) -> No
     assert "ADJ-20260715-001: observable OBS-20260715-001 does not resolve this claim or one of its declared components" in reality.validate_assessment(records["ADJ-20260715-001"], records)
 
 
-def test_waiver_command_requires_prerequisites_and_two_distinct_reviewers(tmp_path: Path) -> None:
+def test_waiver_command_requires_prerequisites_and_operator(tmp_path: Path) -> None:
     records = graph(tmp_path, ["en"], ["CHAIN-SENSOR"])
     evidence_record = records["EVD-20260715-001"]
     evidence_record["evidence_role"] = "observational"
@@ -239,17 +238,15 @@ def test_waiver_command_requires_prerequisites_and_two_distinct_reviewers(tmp_pa
     replace_record(tmp_path, item)
 
     with pytest.raises(reality.RealityError, match="physical evidence exception"):
-        reality.waive_language(item["id"], "reviewer-one", "Direct sensor resolution.", tmp_path)
+        reality.waive_language(item["id"], "operator", "Direct sensor resolution.", tmp_path)
 
     item["physical_evidence_exception"] = True
     item["language_search_record"] = "Chinese and Russian environments were searched without usable results."
     replace_record(tmp_path, item)
-    reality.waive_language(item["id"], "reviewer-one", "Direct sensor resolution.", tmp_path)
-    assert reality.load_records(tmp_path)[item["id"]]["status"] == "provisional_assessed"
-    reality.waive_language(item["id"], "reviewer-two", "Direct sensor resolution.", tmp_path)
+    reality.waive_language(item["id"], "operator", "Direct sensor resolution.", tmp_path)
     waived = reality.load_records(tmp_path)[item["id"]]
     assert waived["status"] == "canonical_with_language_waiver"
-    assert {entry["reviewer"] for entry in waived["signoffs"]} == {"reviewer-one", "reviewer-two"}
+    assert {entry["reviewer"] for entry in waived["signoffs"]} == {"operator"}
 
 
 def test_derived_editorial_material_cannot_support_claim(tmp_path: Path) -> None:
@@ -353,7 +350,8 @@ def test_audit_reports_supported_multilingual_state_and_stable_brief(tmp_path: P
     assert payload["coverage"]["language_gate_satisfied"] is True
     assert payload["coverage"]["regional_environment_present"] is True
     assert payload["coverage"]["external_environment_present"] is True
-    assert payload["authorization"]["required_signoffs"] == 2
+    assert payload["authorization"]["required_signoffs"] == 1
+    assert payload["authorization"]["required_reviewer"] == "operator"
     brief = reality.render_audit_brief(payload)
     for heading in (
         "Epistemic state",
@@ -391,7 +389,8 @@ def test_audit_reports_unassessed_claim_without_mutating_records(tmp_path: Path)
     assert payload["epistemic_state"]["assessment_status"] == "unassessed"
     assert "assessment" in payload["missing_gates"]
     assert payload["coverage"]["language_gate_satisfied"] is False
-    assert payload["authorization"]["required_signoffs"] == 2
+    assert payload["authorization"]["required_signoffs"] == 1
+    assert payload["authorization"]["required_reviewer"] == "operator"
     assert before == after
 
 
@@ -424,7 +423,7 @@ def test_audit_discloses_valid_language_waiver(tmp_path: Path) -> None:
         "language_search_record": "Chinese and Russian environments were searched without usable results.",
         "language_waiver": {
             "reason": "Direct sensor evidence resolves the physical observable.",
-            "reviewers": [{"reviewer": "one"}, {"reviewer": "two"}],
+            "reviewers": [{"reviewer": "operator"}],
         },
     })
     replace_record(tmp_path, item)

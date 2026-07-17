@@ -33,5 +33,5 @@
   "revision_of": null,
   "schema_version": 1,
   "status": "active",
-  "waiver_policy": "Two distinct reviewers may approve unusually strong primary physical evidence after a documented multilingual search failure."
+  "waiver_policy": "The human operator may approve unusually strong primary physical evidence after a documented multilingual search failure."
 }

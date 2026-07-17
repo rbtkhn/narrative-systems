@@ -41,8 +41,9 @@ Sensor, registry, imagery, tracking, and commercial records can anchor the
 physical question without having a language. They strengthen an assessment but
 do not normally replace multilingual coverage. A language waiver requires
 unusually strong primary physical evidence, a documented search for the
-missing environment, and two distinct human reviewers. Waived assessments are
-visibly marked and excluded from headline voice-calibration rates.
+missing environment, and explicit approval from the human `operator`. Waived
+assessments are visibly marked and excluded from headline voice-calibration
+rates.
 
 ## Typed Claims
 
@@ -62,10 +63,13 @@ Automation may create scaffolds, validate schemas and provenance, calculate
 language and chain coverage, render views, and report downstream impact. It
 never signs an assessment.
 
-One human may assess an ordinary claim. High-consequence public adoption or
-accountable forecast scoring requires two distinct signoffs. A one-reviewer
-high-consequence result remains `provisional_assessed` and may guide internal
-research without authorizing factual publication or forecast resolution.
+The human reviewer identity `operator` is the sole required signer for every
+canonical assessment, including high-consequence public adoption and
+accountable forecast scoring. Other reviewers may contribute signoffs, but
+they are advisory and do not substitute for explicit `operator` authority. An
+unsigned or non-operator-signed result remains `provisional_assessed` and may
+guide internal research without authorizing factual publication or forecast
+resolution.
 
 Every consequential change creates an append-only transition distinguishing
 world, evidence, interpretation, confidence, authorization, and presentation.
