@@ -4,7 +4,7 @@ This index routes the unified local Helmer corpus for `helmer` to the central Na
 
 Source basis: `strategy-codex/statecraft/voices/helmer/helmer-index.md`.
 
-Corpus: 19 local route rows across 19 central archive source files.
+Corpus: 20 local route rows across 20 central archive source files.
 
 Status: `imported-corpus`
 
@@ -38,6 +38,7 @@ Status: `imported-corpus`
 | `2026-06-30` | John Helmer: Russia on the Verge of Major Escalation — Europe Braces for Retaliation | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-30/source-dialogue-works-helmer-russia-verge-major-escalation-europe-braces-retaliation-2026-06-30.md) |
 | `2026-07-07` | John Helmer: Trump Signs NATO Escalation! Putin's DEMILITARIZATION Order (To Poland!) | `guest interview pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-07/source-dialogue-works-john-helmer-trump-signs-nato-escalation-putins-demilitarization-order-to-poland-2026-07-07.md) |
 | `2026-07-14` | John Helmer: Russia and Iran Double Down as the West Enters a Prolonged Confrontation | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-14/source-john-helmer-russia-and-iran-double-down-as-the-west-enters-a-prolonged-confrontation-2026-07-14.md) |
+| `2026-07-16` | What Will It Take For Russia To End The NATO Proxy War? w/ John Helmer | `host-pressure test` | `reason-to-resist` | [source](../../archive/sources/2026-07-16/source-what-will-it-take-for-russia-to-end-the-nato-proxy-war-w-john-helmer-2026-07-16.md) |
 
 ## Import Boundary
 

@@ -4,7 +4,7 @@ This index routes the transcript-bearing upstream-parity corpus for `mercouris` 
 
 Source basis: `strategy-codex/statecraft/voices/mercouris/mercouris-index.md`, `strategy-codex/statecraft/channels/alexander-mercouris/alexander-mercouris-channel-index.md`, and subsequent local intake.
 
-Corpus: 295 local route rows across 295 central archive source files.
+Corpus: 296 local route rows across 296 central archive source files.
 
 Status: `transcript-bearing-upstream-parity`
 
@@ -319,6 +319,7 @@ Status: `transcript-bearing-upstream-parity`
 | `2026-07-14` | IRAN WAR REPERCUSSIONS, THE US WILL BE BLAMED /The Duran's Alexander Mercouris | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-14/source-iran-war-repercussions-the-us-will-be-blamed-the-duran-s-alexander-mercouris-2026-07-14.md) |
 | `2026-07-14` | Zelensky Panics Orders Big Kiev Reshuffle Flees To Paris Begs UK/EU Aid; Russia Hammers Odessa; Iran | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-14/source-zelensky-panics-orders-big-kiev-reshuffle-flees-to-paris-begs-uk-eu-aid-russia-hammers-odessa-iran-2026-07-14.md) |
 | `2026-07-15` | Zelensky To Sack Kiev Defence Chief Drone War Fails; EU Faces Gas Crisis Funds Kiev Buy China Drones | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-15/source-zelensky-to-sack-kiev-defence-chief-drone-war-fails-eu-faces-gas-crisis-funds-kiev-buy-china-drones-2026-07-15.md) |
+| `2026-07-16` | Russia Huge Strike Smashes Odessa Lyman Falls; Kiev Army Ultimatum Zelensky Fedorov Sacked; Protests | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-16/source-russia-huge-strike-smashes-odessa-lyman-falls-kiev-army-ultimatum-zelensky-fedorov-sacked-protests-2026-07-16.md) |
 
 ## Import Boundary
 

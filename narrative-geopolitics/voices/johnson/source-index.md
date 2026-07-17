@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `johnson` to the ce
 
 Source basis: `narrative-geopolitics/archive/source-manifest.json`.
 
-Corpus: 85 local route rows across 85 central archive source files.
+Corpus: 86 local route rows across 86 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -109,6 +109,7 @@ Status: `first-slice-parity`
 | `2026-07-13` | Larry Johnson: U.S. Attacks Iran NOW \| Iran Hits Back as Hormuz Turns Into a Firing Hell | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-13/source-larry-johnson-u-s-attacks-iran-now-iran-hits-back-as-hormuz-turns-into-a-firing-hell-2026-07-13.md) |
 | `2026-07-14` | Larry Johnson: 50,000+ U.S. Troops Deployed as Iran Pounds American Bases Across the Gulf | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-14/source-larry-johnson-50-000-u-s-troops-deployed-as-iran-pounds-american-bases-across-the-gulf-2026-07-14.md) |
 | `2026-07-15` | Larry Johnson: Trump Prepares DEVASTATING Strikes Deep Inside Iran as Tehran Sets a Trap | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-15/source-larry-johnson-trump-prepares-devastating-strikes-deep-inside-iran-as-tehran-sets-a-trap-2026-07-15.md) |
+| `2026-07-16` | fmr CIA Analyst Larry Johnson US CAN'T FORCE HORMUZ OPEN | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-16/source-fmr-cia-analyst-larry-johnson-us-can-t-force-hormuz-open-2026-07-16.md) |
 
 ## Import Boundary
 

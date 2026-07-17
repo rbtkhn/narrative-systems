@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `mearsheimer` to th
 
 Source basis: `strategy-codex/statecraft/voices/mearsheimer/mearsheimer-index.md`.
 
-Corpus: 50 local route rows across 50 central archive source files.
+Corpus: 51 local route rows across 51 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -75,6 +75,7 @@ Status: `first-slice-parity`
 | `2026-06-30` | Prof. John Mearsheimer: Making Sense of Iran's Victory | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-30/source-judging-freedom-mearsheimer-making-sense-of-irans-victory-2026-06-30.md) |
 | `2026-07-03` | John Mearsheimer: The End of Russian Restraint & New U.S. Grand Strategy | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-03/source-john-mearsheimer-the-end-of-russian-restraint-new-u-s-grand-strategy-2026-07-03.md) |
 | `2026-07-10` | Prof John Mearsheimer Iran Hardliners Proven Right | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-10/source-prof-john-mearsheimer-iran-hardliners-proven-right-2026-07-10.md) |
+| `2026-07-16` | John Mearsheimer: All-Out War in the Middle East & Trump's War on Russia | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-16/source-john-mearsheimer-all-out-war-in-the-middle-east-trump-s-war-on-russia-2026-07-16.md) |
 
 ## Import Boundary
 

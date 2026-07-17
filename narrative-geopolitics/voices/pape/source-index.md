@@ -4,7 +4,7 @@ This index routes Robert Pape voice work to the central Narrative Geopolitics so
 
 Source basis: `strategy-codex/statecraft/voices/pape/pape-index.md`.
 
-Corpus: 61 authored sources, 19 guest appearances, 80 total imported sources.
+Corpus: 62 authored sources, 19 guest appearances, 81 total imported sources.
 
 ## Reading Rule
 
@@ -116,3 +116,4 @@ Corpus: 61 authored sources, 19 guest appearances, 80 total imported sources.
 - [2026-07-13 — BREAKING: TRUMP REINSTATES IRANIAN BLOCKADE, SAYS HORMUZ OPEN- w/ Geopolitical Analyst Robert Pape](../../archive/sources/2026-07-13/source-breaking-trump-reinstates-iranian-blockade-says-hormuz-open-w-geopolitical-analyst-robert-pape-2026-07-13.md) — **guest** · cleaned-transcript · host: `mario-nawfal`
 - [2026-07-13 — Why Is Trump Escalating When Everyone Says He Won't?](../../archive/sources/2026-07-13/source-why-is-trump-escalating-when-everyone-says-he-won-t-2026-07-13.md) — **authored** · substack-post
 - [2026-07-15 — Robert Pape REACTS: Trump GROUND TROOPS In Iran Threat](../../archive/sources/2026-07-15/source-robert-pape-reacts-trump-ground-troops-in-iran-threat-2026-07-15.md) — **guest** · cleaned-transcript · host: `breaking-points`
+- [2026-07-16 — Breaking Analysis #3: Tehran's Second Front Heating Up Fast - Are Markets Watching?](../../archive/sources/2026-07-16/source-breaking-analysis-3-tehran-s-second-front-heating-up-fast-are-markets-watching-2026-07-16.md) — **authored** · essay

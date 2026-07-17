@@ -2,7 +2,7 @@
   "manifest_id": "narrative-geopolitics-source-manifest-v1",
   "source_basis": "central archive with completed historical strategy-codex imports",
   "imported_at": "2026-07-09",
-  "source_count": 1571,
+  "source_count": 1581,
   "boundary": {
     "archive": "source truth",
     "voices": "voice continuity and routing",
@@ -22070,6 +22070,146 @@
         "johnson"
       ],
       "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Russia Huge Strike Smashes Odessa Lyman Falls; Kiev Army Ultimatum Zelensky Fedorov Sacked; Protests",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-16/source-russia-huge-strike-smashes-odessa-lyman-falls-kiev-army-ultimatum-zelensky-fedorov-sacked-protests-2026-07-16.md",
+      "voice_index_path": "../../archive/sources/2026-07-16/source-russia-huge-strike-smashes-odessa-lyman-falls-kiev-army-ultimatum-zelensky-fedorov-sacked-protests-2026-07-16.md",
+      "upstream_path": "operator-paste://2026-07-17/russia-huge-strike-smashes-odessa-lyman-falls-kiev-army-ultimatum-zelensky-fedorov-sacked-protests",
+      "source_class": "solo analyst commentary",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "John Mearsheimer: All-Out War in the Middle East & Trump's War on Russia",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-16/source-john-mearsheimer-all-out-war-in-the-middle-east-trump-s-war-on-russia-2026-07-16.md",
+      "voice_index_path": "../../archive/sources/2026-07-16/source-john-mearsheimer-all-out-war-in-the-middle-east-trump-s-war-on-russia-2026-07-16.md",
+      "upstream_path": "operator-paste://2026-07-17/john-mearsheimer-all-out-war-in-the-middle-east-trump-s-war-on-russia",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Alex Krainer: Trump Weighs Massive Offensive Against Iran - Tehran Has a Plan to Trap Him",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-16/source-alex-krainer-trump-weighs-massive-offensive-against-iran-tehran-has-a-plan-to-trap-him-2026-07-16.md",
+      "voice_index_path": "../../archive/sources/2026-07-16/source-alex-krainer-trump-weighs-massive-offensive-against-iran-tehran-has-a-plan-to-trap-him-2026-07-16.md",
+      "upstream_path": "operator-paste://2026-07-17/alex-krainer-trump-weighs-massive-offensive-against-iran-tehran-has-a-plan-to-trap-him",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "krainer"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "The WEAK POSITION US HAS w/IRAN Patrick Henningsen Just Back From Tehran",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-16/source-the-weak-position-us-has-w-iran-patrick-henningsen-just-back-from-tehran-2026-07-16.md",
+      "voice_index_path": "../../archive/sources/2026-07-16/source-the-weak-position-us-has-w-iran-patrick-henningsen-just-back-from-tehran-2026-07-16.md",
+      "upstream_path": "operator-paste://2026-07-17/the-weak-position-us-has-w-iran-patrick-henningsen-just-back-from-tehran",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "henningsen"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "What Will It Take For Russia To End The NATO Proxy War? w/ John Helmer",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-16/source-what-will-it-take-for-russia-to-end-the-nato-proxy-war-w-john-helmer-2026-07-16.md",
+      "voice_index_path": "../../archive/sources/2026-07-16/source-what-will-it-take-for-russia-to-end-the-nato-proxy-war-w-john-helmer-2026-07-16.md",
+      "upstream_path": "operator-paste://2026-07-17/what-will-it-take-for-russia-to-end-the-nato-proxy-war-w-john-helmer",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "helmer"
+      ],
+      "host_slug": "reason-to-resist",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "fmr CIA Analyst Larry Johnson US CAN'T FORCE HORMUZ OPEN",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-16/source-fmr-cia-analyst-larry-johnson-us-can-t-force-hormuz-open-2026-07-16.md",
+      "voice_index_path": "../../archive/sources/2026-07-16/source-fmr-cia-analyst-larry-johnson-us-can-t-force-hormuz-open-2026-07-16.md",
+      "upstream_path": "operator-paste://2026-07-17/fmr-cia-analyst-larry-johnson-us-can-t-force-hormuz-open",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "REUTERS: IRAN PREPARING TO CLOSE RED SEA IF TRUMP HITS POWER GRID - w/ Trita Parsi",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-16/source-reuters-iran-preparing-to-close-red-sea-if-trump-hits-power-grid-w-trita-parsi-2026-07-16.md",
+      "voice_index_path": "../../archive/sources/2026-07-16/source-reuters-iran-preparing-to-close-red-sea-if-trump-hits-power-grid-w-trita-parsi-2026-07-16.md",
+      "upstream_path": "operator-paste://2026-07-17/reuters-iran-preparing-to-close-red-sea-if-trump-hits-power-grid-w-trita-parsi",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "parsi"
+      ],
+      "host_slug": "mario-nawfal",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Seyed M. Marandi: Plans for a U.S. Land Invasion of Iran; Yemen & Iran Enters the War?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-16/source-seyed-m-marandi-plans-for-a-u-s-land-invasion-of-iran-yemen-iran-enters-the-war-2026-07-16.md",
+      "voice_index_path": "../../archive/sources/2026-07-16/source-seyed-m-marandi-plans-for-a-u-s-land-invasion-of-iran-yemen-iran-enters-the-war-2026-07-16.md",
+      "upstream_path": "operator-paste://2026-07-17/seyed-m-marandi-plans-for-a-u-s-land-invasion-of-iran-yemen-iran-enters-the-war",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Pepe Escobar: Yemen Enters the War as the Strait of Hormuz Erupts Under Retaliatory Fire",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-16/source-pepe-escobar-yemen-enters-the-war-as-the-strait-of-hormuz-erupts-under-retaliatory-fire-2026-07-16.md",
+      "voice_index_path": "../../archive/sources/2026-07-16/source-pepe-escobar-yemen-enters-the-war-as-the-strait-of-hormuz-erupts-under-retaliatory-fire-2026-07-16.md",
+      "upstream_path": "operator-paste://2026-07-16/pepe-escobar-yemen-enters-the-war-as-the-strait-of-hormuz-erupts-under-retaliatory-fire",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "escobar"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Breaking Analysis #3: Tehran's Second Front Heating Up Fast - Are Markets Watching?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-16/source-breaking-analysis-3-tehran-s-second-front-heating-up-fast-are-markets-watching-2026-07-16.md",
+      "voice_index_path": "../../archive/sources/2026-07-16/source-breaking-analysis-3-tehran-s-second-front-heating-up-fast-are-markets-watching-2026-07-16.md",
+      "upstream_path": "operator-paste://2026-07-16/breaking-analysis-3-tehran-s-second-front-heating-up-fast-are-markets-watching",
+      "source_class": "authored-forecast-spine",
+      "modality": "essay",
+      "voice_slugs": [
+        "pape"
+      ],
+      "host_slug": "escalation-trap",
       "import_status": "imported"
     }
   ]
