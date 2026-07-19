@@ -12,6 +12,11 @@ from datetime import date
 from pathlib import Path
 from types import SimpleNamespace
 
+SCRIPT_DIR = Path(__file__).resolve().parent
+if str(SCRIPT_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_DIR))
+
+import voice_indexes
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 NG_ROOT = REPO_ROOT / "narrative-geopolitics"
@@ -1733,6 +1738,46 @@ def publish_batch(plans: list[LandingPlan], manifest: dict) -> list[str]:
     ]
 
 
+def sync_voice_indexes_for_plans(plans: list[LandingPlan], manifest: dict) -> list[str]:
+    run_dates = sorted(
+        {
+            str(plan.manifest_row.get("date", ""))
+            for plan in plans
+            if plan.manifest_row.get("date")
+        }
+    )
+    changed_shelves: set[str] = set()
+    added_routes: set[str] = set()
+    unindexed_voices: set[str] = set()
+    failures: list[str] = []
+
+    for run_date in run_dates:
+        report = voice_indexes.reconcile(
+            manifest,
+            run_date=run_date,
+            write=True,
+            repo_root=REPO_ROOT,
+            voices_root=NG_ROOT / "voices",
+        )
+        changed_shelves.update(report.get("changed_shelves", []))
+        added_routes.update(report.get("added_routes", []))
+        unindexed_voices.update(report.get("unindexed_voices", []))
+        failures.extend(report.get("failures", []))
+
+    if failures:
+        unique_failures = "\n".join(sorted(set(failures)))
+        raise ValueError(f"Voice index sync failed:\n{unique_failures}")
+
+    messages = []
+    if changed_shelves:
+        messages.append(f"Voice shelves changed: {', '.join(sorted(changed_shelves))}")
+    if added_routes:
+        messages.append(f"Voice routes added: {len(added_routes)}")
+    if unindexed_voices:
+        messages.append(f"Unindexed voices: {', '.join(sorted(unindexed_voices))}")
+    return messages
+
+
 def metadata_files_from_batch_dir(batch_dir: Path) -> list[Path]:
     if not batch_dir.is_dir():
         raise NotADirectoryError(f"Batch directory not found: {batch_dir}")
@@ -1788,6 +1833,7 @@ def main() -> int:
             messages = dry_run_messages(plans)
         else:
             messages = publish_batch(plans, proposed_manifest)
+            messages.extend(sync_voice_indexes_for_plans(plans, proposed_manifest))
             messages.append(f"Manifest count: {proposed_manifest['source_count']}")
         print("\n".join(messages))
         return 0

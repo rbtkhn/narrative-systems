@@ -1173,6 +1173,31 @@ def test_successful_batch_publishes_sources_and_manifest_atomically(
     assert not list(manifest_path.parent.rglob("*.stage"))
 
 
+def test_voice_indexes_sync_after_successful_publish(monkeypatch, tmp_path: Path) -> None:
+    _, manifest_path = configure_transaction_root(monkeypatch, tmp_path)
+    voice_root = tmp_path / "narrative-geopolitics" / "voices" / "audit-voice"
+    voice_root.mkdir(parents=True)
+    (voice_root / "source-index.md").write_text(
+        "# Audit Voice Source Index\n\n"
+        "Corpus: 0 local route rows across 0 central archive source files.\n\n"
+        "| Date | Source | Role | Host slug | Archive link |\n"
+        "| --- | --- | --- | --- | --- |\n",
+        encoding="utf-8",
+    )
+    args = [transaction_args("2026-07-15", "Voice shelf source")]
+    original = json.loads(manifest_path.read_text(encoding="utf-8"))
+    plans, proposed = land_best_intake.prepare_batch(args, original)
+
+    messages = land_best_intake.publish_batch(plans, proposed)
+    messages.extend(land_best_intake.sync_voice_indexes_for_plans(plans, proposed))
+
+    index_text = (voice_root / "source-index.md").read_text(encoding="utf-8")
+    assert "Voice shelves changed: audit-voice" in messages
+    assert "Voice routes added: 1" in messages
+    assert "Corpus: 1 local route rows across 1 central archive source files." in index_text
+    assert "| `2026-07-15` | Voice shelf source | `host-pressure test` | `audit-host` |" in index_text
+
+
 def test_source_publication_failure_rolls_back_prior_sources_and_manifest(
     monkeypatch, tmp_path: Path
 ) -> None:
