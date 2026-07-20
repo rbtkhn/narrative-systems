@@ -79,6 +79,27 @@ It automates the slowest repeated operations:
 
 ## New Fast Path
 
+For routine one-off intake, use quick mode:
+
+```powershell
+.\tools\run.ps1 intake-land --quick `
+  --date today `
+  --host-slug judging-freedom `
+  --url "https://www.youtube.com/watch?v=..." `
+  --body-file "C:\path\pasted-text.txt"
+```
+
+The host may also be supplied positionally for a compact invocation:
+
+```powershell
+.\tools\run.ps1 intake-land --quick breaking-points "https://www.youtube.com/watch?v=..." `
+  --date today --body-file "C:\path\pasted-text.txt"
+```
+
+Use `--dry-run` to inspect inferred title, routing, provenance basis, and the
+planned archive path without writing files. Quick mode preserves the same
+provisional routing and approved processing rules as full intake.
+
 For each pasted transcript:
 
 1. Provide the pasted body plus source URL and date to `best-intake`.

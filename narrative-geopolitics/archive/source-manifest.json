@@ -2,7 +2,7 @@
   "manifest_id": "narrative-geopolitics-source-manifest-v1",
   "source_basis": "central archive with completed historical strategy-codex imports",
   "imported_at": "2026-07-09",
-  "source_count": 1581,
+  "source_count": 1607,
   "boundary": {
     "archive": "source truth",
     "voices": "voice continuity and routing",
@@ -22210,6 +22210,376 @@
         "pape"
       ],
       "host_slug": "escalation-trap",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-18",
+      "title": "IRAN SAYS: FULL SCALE WAR COULD ERUPT /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-18/source-iran-says-full-scale-war-could-erupt-lt-col-daniel-davis-2026-07-18.md",
+      "voice_index_path": "../../archive/sources/2026-07-18/source-iran-says-full-scale-war-could-erupt-lt-col-daniel-davis-2026-07-18.md",
+      "upstream_path": "operator-paste://2026-07-18/iran-says-full-scale-war-could-erupt-lt-col-daniel-davis",
+      "source_class": "solo analyst briefing",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-18",
+      "title": "Kiev Political Crisis Triggers Coup Rumours; Russia Imposes Ukraine Sea Blockade; Strikes Nikolayev",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-18/source-kiev-political-crisis-triggers-coup-rumours-russia-imposes-ukraine-sea-blockade-strikes-nikolayev-2026-07-18.md",
+      "voice_index_path": "../../archive/sources/2026-07-18/source-kiev-political-crisis-triggers-coup-rumours-russia-imposes-ukraine-sea-blockade-strikes-nikolayev-2026-07-18.md",
+      "upstream_path": "operator-paste://2026-07-18/kiev-political-crisis-triggers-coup-rumours-russia-imposes-ukraine-sea-blockade-strikes-nikolayev",
+      "source_class": "solo analyst briefing",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-18",
+      "title": "BREAKING: IRAN THREATENS TO BOMB DUBAI AIRPORT - w/ Prof. Seyed Marandi",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-18/source-breaking-iran-threatens-to-bomb-dubai-airport-w-prof-seyed-marandi-2026-07-18.md",
+      "voice_index_path": "../../archive/sources/2026-07-18/source-breaking-iran-threatens-to-bomb-dubai-airport-w-prof-seyed-marandi-2026-07-18.md",
+      "upstream_path": "operator-paste://2026-07-18/breaking-iran-threatens-to-bomb-dubai-airport-w-prof-seyed-marandi",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "mario-nawfal",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-18",
+      "title": "Larry Johnson: BREAKING: U.S. Declares Critical Week as It Prepares to Expand Iran Campaign",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-18/source-larry-johnson-breaking-u-s-declares-critical-week-as-it-prepares-to-expand-iran-campaign-2026-07-18.md",
+      "voice_index_path": "../../archive/sources/2026-07-18/source-larry-johnson-breaking-u-s-declares-critical-week-as-it-prepares-to-expand-iran-campaign-2026-07-18.md",
+      "upstream_path": "operator-paste://2026-07-18/larry-johnson-breaking-u-s-declares-critical-week-as-it-prepares-to-expand-iran-campaign",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-18",
+      "title": "Jack Matlock: The Cuban Missile Crisis & NATO's War in Ukraine",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-18/source-jack-matlock-the-cuban-missile-crisis-nato-s-war-in-ukraine-2026-07-18.md",
+      "voice_index_path": "../../archive/sources/2026-07-18/source-jack-matlock-the-cuban-missile-crisis-nato-s-war-in-ukraine-2026-07-18.md",
+      "upstream_path": "operator-paste://2026-07-18/jack-matlock-the-cuban-missile-crisis-nato-s-war-in-ukraine",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "matlock"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-17",
+      "title": "Breaking Analysis #4: The Point of No Return? How Last Night's U.S. Strikes Deepened the Escalation Trap",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-17/source-breaking-analysis-4-the-point-of-no-return-how-last-night-s-u-s-strikes-deepened-the-escalation-trap-2026-07-17.md",
+      "voice_index_path": "../../archive/sources/2026-07-17/source-breaking-analysis-4-the-point-of-no-return-how-last-night-s-u-s-strikes-deepened-the-escalation-trap-2026-07-17.md",
+      "upstream_path": "operator-paste://2026-07-17/breaking-analysis-4-the-point-of-no-return-how-last-night-s-u-s-strikes-deepened-the-escalation-trap",
+      "source_class": "authored-forecast-spine",
+      "modality": "essay",
+      "voice_slugs": [
+        "pape"
+      ],
+      "host_slug": "escalation-trap",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-18",
+      "title": "Breaking Analysis #5: Iran's New Target - Drinking Water",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-18/source-breaking-analysis-5-iran-s-new-target-drinking-water-2026-07-18.md",
+      "voice_index_path": "../../archive/sources/2026-07-18/source-breaking-analysis-5-iran-s-new-target-drinking-water-2026-07-18.md",
+      "upstream_path": "operator-paste://2026-07-18/breaking-analysis-5-iran-s-new-target-drinking-water",
+      "source_class": "authored-forecast-spine",
+      "modality": "essay",
+      "voice_slugs": [
+        "pape"
+      ],
+      "host_slug": "escalation-trap",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-18",
+      "title": "Yesterday's US-Iran escalation is a mere prelude to what is likely to come",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-18/source-yesterday-s-us-iran-escalation-is-a-mere-prelude-to-what-is-likely-to-come-2026-07-18.md",
+      "voice_index_path": "../../archive/sources/2026-07-18/source-yesterday-s-us-iran-escalation-is-a-mere-prelude-to-what-is-likely-to-come-2026-07-18.md",
+      "upstream_path": "operator-paste://2026-07-18/yesterday-s-us-iran-escalation-is-a-mere-prelude-to-what-is-likely-to-come",
+      "source_class": "authored-newsletter",
+      "modality": "essay",
+      "voice_slugs": [
+        "parsi"
+      ],
+      "host_slug": "parsi",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "Russia Escalates Biggest Strikes On Kiev Odessa Huge Destruction; Kiev Protesters Demand Syrsky Quit",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-19/source-russia-escalates-biggest-strikes-on-kiev-odessa-huge-destruction-kiev-protesters-demand-syrsky-quit-2026-07-19.md",
+      "voice_index_path": "../../archive/sources/2026-07-19/source-russia-escalates-biggest-strikes-on-kiev-odessa-huge-destruction-kiev-protesters-demand-syrsky-quit-2026-07-19.md",
+      "upstream_path": "operator-paste://2026-07-19/russia-escalates-biggest-strikes-on-kiev-odessa-huge-destruction-kiev-protesters-demand-syrsky-quit",
+      "source_class": "solo analyst briefing",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "PROFESSOR MARANDI: GROUND INVASION COMING, 16 U.S SOLDIERS DEAD, F-15 FIGHTER JETS DESTROYED",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-19/source-professor-marandi-ground-invasion-coming-16-u-s-soldiers-dead-f-15-fighter-jets-destroyed-2026-07-19.md",
+      "voice_index_path": "../../archive/sources/2026-07-19/source-professor-marandi-ground-invasion-coming-16-u-s-soldiers-dead-f-15-fighter-jets-destroyed-2026-07-19.md",
+      "upstream_path": "operator-paste://2026-07-19/professor-marandi-ground-invasion-coming-16-u-s-soldiers-dead-f-15-fighter-jets-destroyed",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "moral-resistance",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "Stanislav Krapivnik: Russia's Anger Boils Over - EU-Russia War Coming?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-19/source-stanislav-krapivnik-russia-s-anger-boils-over-eu-russia-war-coming-2026-07-19.md",
+      "voice_index_path": "../../archive/sources/2026-07-19/source-stanislav-krapivnik-russia-s-anger-boils-over-eu-russia-war-coming-2026-07-19.md",
+      "upstream_path": "operator-paste://2026-07-19/stanislav-krapivnik-russia-s-anger-boils-over-eu-russia-war-coming",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "krapivnik"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "Jeffrey Sachs: U.S. Imperial Strategy - Destroy Russia, Iran & China",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-19/source-jeffrey-sachs-u-s-imperial-strategy-destroy-russia-iran-china-2026-07-19.md",
+      "voice_index_path": "../../archive/sources/2026-07-19/source-jeffrey-sachs-u-s-imperial-strategy-destroy-russia-iran-china-2026-07-19.md",
+      "upstream_path": "operator-paste://2026-07-19/jeffrey-sachs-u-s-imperial-strategy-destroy-russia-iran-china",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "sachs"
+      ],
+      "host_slug": "glenn-diesen",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "U.S TO EXPAND THE WAR, ISRAEL TO JOIN THE IRAN WAR, GROUND INVASION COMING? w/ CIA Larry Johnson",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-19/source-u-s-to-expand-the-war-israel-to-join-the-iran-war-ground-invasion-coming-w-cia-larry-johnson-2026-07-19.md",
+      "voice_index_path": "../../archive/sources/2026-07-19/source-u-s-to-expand-the-war-israel-to-join-the-iran-war-ground-invasion-coming-w-cia-larry-johnson-2026-07-19.md",
+      "upstream_path": "operator-paste://2026-07-19/u-s-to-expand-the-war-israel-to-join-the-iran-war-ground-invasion-coming-w-cia-larry-johnson",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "moral-resistance",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "Ray McGovern: Iran's Precision Strikes on Jordan Send Shockwaves Across the Gulf",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-19/source-ray-mcgovern-iran-s-precision-strikes-on-jordan-send-shockwaves-across-the-gulf-2026-07-19.md",
+      "voice_index_path": "../../archive/sources/2026-07-19/source-ray-mcgovern-iran-s-precision-strikes-on-jordan-send-shockwaves-across-the-gulf-2026-07-19.md",
+      "upstream_path": "operator-paste://2026-07-19/ray-mcgovern-iran-s-precision-strikes-on-jordan-send-shockwaves-across-the-gulf",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mcgovern"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "Russia Cuts Off Odessa; Zelensky Discusses Syrsky Sacking; EU States Split On Sanctions Russia Talks",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-20/source-russia-cuts-off-odessa-zelensky-discusses-syrsky-sacking-eu-states-split-on-sanctions-russia-talks-2026-07-20.md",
+      "voice_index_path": "../../archive/sources/2026-07-20/source-russia-cuts-off-odessa-zelensky-discusses-syrsky-sacking-eu-states-split-on-sanctions-russia-talks-2026-07-20.md",
+      "upstream_path": "operator-paste://2026-07-20/russia-cuts-off-odessa-zelensky-discusses-syrsky-sacking-eu-states-split-on-sanctions-russia-talks",
+      "source_class": "solo analyst briefing",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "Alastair Crooke: Iran War 3.0",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-20/source-alastair-crooke-iran-war-3-0-2026-07-20.md",
+      "voice_index_path": "../../archive/sources/2026-07-20/source-alastair-crooke-iran-war-3-0-2026-07-20.md",
+      "upstream_path": "operator-paste://2026-07-20/alastair-crooke-iran-war-3-0",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "crooke"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "Col. Jacques Baud: U.S. Hits Nuclear Plant, Iran Strikes Across the Gulf",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-20/source-col-jacques-baud-u-s-hits-nuclear-plant-iran-strikes-across-the-gulf-2026-07-20.md",
+      "voice_index_path": "../../archive/sources/2026-07-20/source-col-jacques-baud-u-s-hits-nuclear-plant-iran-strikes-across-the-gulf-2026-07-20.md",
+      "upstream_path": "operator-paste://2026-07-20/col-jacques-baud-u-s-hits-nuclear-plant-iran-strikes-across-the-gulf",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "baud"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "Larry Johnson: US Running Out of Ammo",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-20/source-larry-johnson-us-running-out-of-ammo-2026-07-20.md",
+      "voice_index_path": "../../archive/sources/2026-07-20/source-larry-johnson-us-running-out-of-ammo-2026-07-20.md",
+      "upstream_path": "operator-paste://2026-07-20/larry-johnson-us-running-out-of-ammo",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "Prof. John Mearsheimer: Pentagon Prepares for a Wider War as Military Build-Up Accelerates",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-20/source-prof-john-mearsheimer-pentagon-prepares-for-a-wider-war-as-military-build-up-accelerates-2026-07-20.md",
+      "voice_index_path": "../../archive/sources/2026-07-20/source-prof-john-mearsheimer-pentagon-prepares-for-a-wider-war-as-military-build-up-accelerates-2026-07-20.md",
+      "upstream_path": "operator-paste://2026-07-20/prof-john-mearsheimer-pentagon-prepares-for-a-wider-war-as-military-build-up-accelerates",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "dialogue-works",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "WAR UPDATE: Military Insider Gives Terrifying Prediction & Reveals How Unprepared America Truly Is",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-20/source-war-update-military-insider-gives-terrifying-prediction-reveals-how-unprepared-america-truly-is-2026-07-20.md",
+      "voice_index_path": "../../archive/sources/2026-07-20/source-war-update-military-insider-gives-terrifying-prediction-reveals-how-unprepared-america-truly-is-2026-07-20.md",
+      "upstream_path": "operator-paste://2026-07-20/war-update-military-insider-gives-terrifying-prediction-reveals-how-unprepared-america-truly-is",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "jermy"
+      ],
+      "host_slug": "tucker-carlson",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "John Mearsheimer DIRE WARNING Of Global Economic Calamity",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-20/source-john-mearsheimer-dire-warning-of-global-economic-calamity-2026-07-20.md",
+      "voice_index_path": "../../archive/sources/2026-07-20/source-john-mearsheimer-dire-warning-of-global-economic-calamity-2026-07-20.md",
+      "upstream_path": "operator-paste://2026-07-20/john-mearsheimer-dire-warning-of-global-economic-calamity",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "breaking-points",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "SCOTT RITTER: Graham's Legacy; Zelenskyy's Blunder; Trump's Stupidity",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-20/source-scott-ritter-graham-s-legacy-zelenskyy-s-blunder-trump-s-stupidity-2026-07-20.md",
+      "voice_index_path": "../../archive/sources/2026-07-20/source-scott-ritter-graham-s-legacy-zelenskyy-s-blunder-trump-s-stupidity-2026-07-20.md",
+      "upstream_path": "operator-paste://2026-07-20/scott-ritter-graham-s-legacy-zelenskyy-s-blunder-trump-s-stupidity",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "BREAKING: Houthis Close Babal Mandeb Strait",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-20/source-breaking-houthis-close-babal-mandeb-strait-2026-07-20.md",
+      "voice_index_path": "../../archive/sources/2026-07-20/source-breaking-houthis-close-babal-mandeb-strait-2026-07-20.md",
+      "upstream_path": "operator-paste://2026-07-20/breaking-houthis-close-babal-mandeb-strait",
+      "source_class": "solo analyst briefing",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "Max Blumenthal: How the US Suppresses Truth in the Iran War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-20/source-max-blumenthal-how-the-us-suppresses-truth-in-the-iran-war-2026-07-20.md",
+      "voice_index_path": "../../archive/sources/2026-07-20/source-max-blumenthal-how-the-us-suppresses-truth-in-the-iran-war-2026-07-20.md",
+      "upstream_path": "operator-paste://2026-07-20/max-blumenthal-how-the-us-suppresses-truth-in-the-iran-war",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "blumenthal"
+      ],
+      "host_slug": "judging-freedom",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "BREAKING: Yemeni Ansarallah Close the Bab al Mandab, U.S. Nuclear Strikes Escalation",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-20/source-breaking-yemeni-ansarallah-close-the-bab-al-mandab-u-s-nuclear-strikes-escalation-2026-07-20.md",
+      "voice_index_path": "../../archive/sources/2026-07-20/source-breaking-yemeni-ansarallah-close-the-bab-al-mandab-u-s-nuclear-strikes-escalation-2026-07-20.md",
+      "upstream_path": "operator-paste://2026-07-20/breaking-yemeni-ansarallah-close-the-bab-al-mandab-u-s-nuclear-strikes-escalation",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "escobar"
+      ],
+      "host_slug": "moral-resistance",
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "Iran War Escalation w/Robert Barnes",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-20/source-iran-war-escalation-w-robert-barnes-2026-07-20.md",
+      "voice_index_path": "../../archive/sources/2026-07-20/source-iran-war-escalation-w-robert-barnes-2026-07-20.md",
+      "upstream_path": "operator-paste://2026-07-20/iran-war-escalation-w-robert-barnes",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "barnes"
+      ],
+      "host_slug": "daniel-davis",
+      "inference_basis": [
+        "title-cue",
+        "wrapper-normalized",
+        "explicit-host",
+        "intake-assigned-today"
+      ],
       "import_status": "imported"
     }
   ]

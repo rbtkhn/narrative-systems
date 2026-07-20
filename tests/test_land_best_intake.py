@@ -6,6 +6,7 @@ import os
 import shutil
 import sys
 import uuid
+from datetime import date
 from pathlib import Path
 from types import SimpleNamespace
 
@@ -319,6 +320,31 @@ def test_dialogue_works_opening_trim_leaves_plain_transcript_alone() -> None:
     assert rule == ""
     assert chars_saved == 0
     assert words_saved == 0
+
+
+def test_moral_resistance_opening_trim_removes_youtube_transcript_wrapper() -> None:
+    body = (
+        "PROFESSOR MARANDI: GROUND INVASION COMING - YouTube\n"
+        "\n"
+        "Transcripts:\n"
+        "And we are live with Professor Marandi.\n"
+    )
+
+    trimmed, applied, rule, chars_saved, words_saved = land_best_intake.maybe_trim_opening(
+        trim_args("moral-resistance"),
+        body,
+    )
+
+    removed = (
+        "PROFESSOR MARANDI: GROUND INVASION COMING - YouTube\n"
+        "\n"
+        "Transcripts:\n"
+    )
+    assert applied is True
+    assert rule == "moral-resistance-wrapper-v1"
+    assert trimmed == "And we are live with Professor Marandi.\n"
+    assert chars_saved == len(removed)
+    assert words_saved == land_best_intake.count_words(removed)
 
 
 def test_none_mode_disables_all_trimming() -> None:
@@ -1074,6 +1100,145 @@ def test_fast_intake_real_july_moral_resistance_aguilar_infers_host_and_guest() 
     assert normalized.host == "Sulaiman Ahmed"
     assert normalized.voice_slugs == ["aguilar"]
     assert normalized.thread == "aguilar"
+
+
+def test_quick_intake_infers_metadata_and_strips_exact_wrappers() -> None:
+    body = (
+        "Larry Johnson: US Running Out of Ammo - YouTube\n"
+        "Transcripts:\n"
+        "Hi everybody. Today we have Larry Johnson back with us to discuss Iran.\n"
+    )
+    args = build_fast_args("2026-07-20", "https://www.youtube.com/watch?v=test", "", body)
+    args.quick = True
+    args.host_slug = "judging-freedom"
+    args.quick_positionals = []
+    args.date = None
+    args.inference_basis = []
+    normalized = land_best_intake.normalize_args(args)
+
+    assert normalized.title == "Larry Johnson: US Running Out of Ammo"
+    assert normalized.host_slug == "judging-freedom"
+    assert normalized.voice_slugs == ["johnson"]
+    assert normalized.guest == "Larry Johnson"
+    assert "Transcripts:" not in normalized._body_text_cache
+    assert "wrapper-normalized" in normalized.inference_basis
+
+
+def test_quick_intake_accepts_positional_host_and_url() -> None:
+    body = "John Mearsheimer: A Warning - YouTube\nProfessor John Mearsheimer discusses the war.\n"
+    args = build_fast_args("2026-07-20", "", "", body)
+    args.quick = True
+    args.host_slug = None
+    args.quick_positionals = ["breaking-points", "https://www.youtube.com/watch?v=test2"]
+    args.date = None
+    args.inference_basis = []
+    normalized = land_best_intake.normalize_args(args)
+
+    assert normalized.host_slug == "breaking-points"
+    assert normalized.url.endswith("test2")
+    assert normalized.title == "John Mearsheimer: A Warning"
+
+
+def test_quick_intake_today_records_date_basis() -> None:
+    body = "Daniel Davis: Breaking Update - YouTube\nThe latest update is on the battlefield.\n"
+    args = build_fast_args("", "https://www.youtube.com/watch?v=test3", "", body)
+    args.pub_date = ""
+    args.ingest_date = ""
+    args.quick = True
+    args.host_slug = "daniel-davis"
+    args.quick_positionals = []
+    args.date = "today"
+    args.inference_basis = []
+    normalized = land_best_intake.normalize_args(args)
+
+    assert normalized.pub_date == date.today().isoformat()
+    assert normalized.ingest_date == date.today().isoformat()
+    assert "intake-assigned-today" in normalized.inference_basis
+
+
+def test_quick_intake_dry_run_plan_has_inference_basis(monkeypatch, tmp_path: Path) -> None:
+    sources, _ = configure_transaction_root(monkeypatch, tmp_path)
+    body_file = tmp_path / "source.txt"
+    body_file.write_text(
+        "Max Blumenthal: Iran War - YouTube\n"
+        "Hi everyone, Max Blumenthal is here to discuss Iran.\n",
+        encoding="utf-8",
+    )
+    args = build_fast_args("2026-07-20", "https://www.youtube.com/watch?v=test4", "", "")
+    args.quick = True
+    args.host_slug = "judging-freedom"
+    args.body_file = str(body_file)
+    args.body_text = ""
+    args.quick_positionals = []
+    args.date = None
+    args.inference_basis = []
+    normalized = land_best_intake.normalize_args(args)
+    plans, _ = land_best_intake.prepare_batch([normalized], {"source_count": 0, "sources": []})
+    messages = land_best_intake.dry_run_messages(plans)
+
+    assert messages[0].startswith("DRY RUN:")
+    assert "inference_basis" in messages[0]
+    assert not list(sources.rglob("source-*.md"))
+
+
+def test_quick_batch_builds_one_plan_per_body_file(monkeypatch, tmp_path: Path) -> None:
+    batch_dir = tmp_path / "quick-batch"
+    batch_dir.mkdir()
+    (batch_dir / "one.txt").write_text(
+        "Larry Johnson: One - YouTube\nLarry Johnson discusses Iran.\n",
+        encoding="utf-8",
+    )
+    (batch_dir / "two.txt").write_text(
+        "Larry Johnson: Two - YouTube\nLarry Johnson discusses Russia.\n",
+        encoding="utf-8",
+    )
+    args = build_fast_args("2026-07-20", "", "", "")
+    args.quick = True
+    args.host_slug = "judging-freedom"
+    args.date = None
+    args.batch_dir = str(batch_dir)
+    args.quick_positionals = []
+    args.inference_basis = []
+    cli_args = SimpleNamespace(
+        quick=True,
+        batch_dir=str(batch_dir),
+        metadata_file=None,
+        pub_date="2026-07-20",
+        ingest_date="2026-07-20",
+        date=None,
+        title="",
+        url="",
+        body_file=None,
+        body_text=None,
+        voice_slugs=[],
+        host_slug="judging-freedom",
+        host="",
+        guest="",
+        host_people=[],
+        guest_people=[],
+        show_title="",
+        channel_name="",
+        show="",
+        thread=None,
+        kind="cleaned-transcript",
+        source_form="interview",
+        source_class="guest interview pressure test",
+        modality="cleaned-transcript",
+        review_state="unreviewed",
+        routing_state="provisional",
+        source_note="",
+        editorial_note="Preserve as raw cleaned transcript. Not human-verified verbatim.",
+        upstream_path=None,
+        dry_run=True,
+        trim_opening="auto",
+        asr_repair="auto",
+        sectioning="auto",
+        quick_positionals=[],
+    )
+    sources = land_best_intake.gather_sources(cli_args)
+
+    assert len(sources) == 2
+    assert {item.title for item in sources} == {"Larry Johnson: One", "Larry Johnson: Two"}
 
 
 @pytest.mark.parametrize(

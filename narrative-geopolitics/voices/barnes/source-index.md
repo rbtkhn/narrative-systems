@@ -4,7 +4,7 @@ This index routes the unified local Barnes corpus for `barnes` to the central Na
 
 Source basis: `strategy-codex/statecraft/voices/barnes/barnes-index.md` plus already-local matching archive rows.
 
-Corpus: 27 local route rows across 27 central archive source files.
+Corpus: 28 local route rows across 28 central archive source files.
 
 Status: `imported-corpus`
 
@@ -46,6 +46,7 @@ Status: `imported-corpus`
 | `2026-07-08` | BREAKING: U.S. BOMBING IRAN NOW - w/ Robert Barnes | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-07-08/source-breaking-u-s-bombing-iran-now-w-robert-barnes-2026-07-08.md) |
 | `2026-07-13` | Robert Barnes: Yemen Strikes Saudi Airport and Air Base After Sana'a Bombing | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-13/source-robert-barnes-yemen-strikes-saudi-airport-and-air-base-after-sana-a-bombing-2026-07-13.md) |
 | `2026-07-14` | LINDSAY GRAHAM DEAD, IRAN PLANNED TO KILL TRUMP, MAGA DESTROYED - w/ Robert Barnes | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-07-14/source-lindsay-graham-dead-iran-planned-to-kill-trump-maga-destroyed-w-robert-barnes-2026-07-14.md) |
+| `2026-07-20` | Iran War Escalation w/Robert Barnes | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-20/source-iran-war-escalation-w-robert-barnes-2026-07-20.md) |
 
 ## Import Boundary
 

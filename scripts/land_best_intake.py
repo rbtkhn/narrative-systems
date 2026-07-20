@@ -51,6 +51,7 @@ SECTIONING_APPROVED_HOSTS = {
     "glenn-diesen",
     "judging-freedom",
     "mario-nawfal",
+    "moral-resistance",
 }
 ASR_REPAIR_APPROVED_HOSTS = {
     "alexander-mercouris",
@@ -59,8 +60,16 @@ ASR_REPAIR_APPROVED_HOSTS = {
     "glenn-diesen",
     "judging-freedom",
     "mario-nawfal",
+    "moral-resistance",
 }
 SECTIONING_PASS_LABEL = "2026-07-09 semantic-section-v1"
+
+
+def safe_int(value: str | None) -> int:
+    try:
+        return int(value or 0)
+    except ValueError:
+        return 0
 ASR_REPAIR_PASS_LABEL = "2026-07-09 asr-repair-v1"
 TOPIC_STOPWORDS = {
     "a",
@@ -376,6 +385,13 @@ HOST_TRIM_RULES: dict[str, HostTrimRule] = {
             r"^[^\n]+ - YouTube\s*\n\s*Transcripts:\s*\n+",
         ),
     ),
+    "moral-resistance": HostTrimRule(
+        slug="moral-resistance",
+        label="moral-resistance-wrapper-v1",
+        opening_regexes=(
+            r"^[^\n]+ - YouTube\s*\n\s*Transcripts:\s*\n+",
+        ),
+    ),
 }
 
 HOST_PROFILES: dict[str, HostProfile] = {
@@ -483,6 +499,7 @@ VOICE_HINTS: tuple[tuple[str, str, str], ...] = (
     ("john helmer", "helmer", "John Helmer"),
     ("john mearsheimer", "mearsheimer", "John Mearsheimer"),
     ("larry johnson", "johnson", "Larry Johnson"),
+    ("max blumenthal", "blumenthal", "Max Blumenthal"),
     ("matthew hoh", "hoh", "Matthew Hoh"),
     ("prof. s. m. marandi", "marandi", "Seyed Mohammad Marandi"),
     ("prof s. m. marandi", "marandi", "Seyed Mohammad Marandi"),
@@ -541,6 +558,7 @@ def build_frontmatter(args: SimpleNamespace, title_slug: str, body: str) -> str:
             f"source_url: {yaml_quote(args.url)}",
             f"source_url_status: {'provided' if args.url else 'unavailable'}",
             f"source_note: {yaml_quote(args.source_note)}",
+            f"inference_basis: {yaml_quote(','.join(getattr(args, 'inference_basis', [])))}",
             f"title_slug: {title_slug}",
             f"editorial_note: {yaml_quote(args.editorial_note)}",
             f"review_state: {args.review_state}",
@@ -616,6 +634,7 @@ def build_manifest_row(
         "modality": args.modality,
         "voice_slugs": args.voice_slugs,
         "host_slug": args.host_slug,
+        "inference_basis": list(getattr(args, "inference_basis", [])),
         "import_status": "imported",
     }
 
@@ -626,6 +645,9 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument("--pub-date")
     parser.add_argument("--ingest-date")
+    parser.add_argument("--date", help="Convenience date for both publication and ingest date; use 'today' for the current date.")
+    parser.add_argument("--quick", action="store_true", help="Use inferred metadata with minimal required inputs.")
+    parser.add_argument("quick_positionals", nargs="*", help=argparse.SUPPRESS)
     parser.add_argument("--title")
     parser.add_argument("--url")
     parser.add_argument("--body-file")
@@ -726,6 +748,38 @@ def ensure_required_fields(args: SimpleNamespace) -> None:
     args.url = (getattr(args, "url", None) or "").strip()
 
 
+def resolve_quick_inputs(args: SimpleNamespace) -> None:
+    if not getattr(args, "quick", False):
+        if getattr(args, "quick_positionals", None):
+            raise ValueError("Positional host/URL inputs require --quick.")
+        return
+    positionals = list(getattr(args, "quick_positionals", []) or [])
+    if positionals:
+        if len(positionals) > 2:
+            raise ValueError("Quick intake accepts at most HOST and URL positionals.")
+        for value in positionals:
+            if value.startswith("http://") or value.startswith("https://"):
+                if args.url:
+                    raise ValueError("URL supplied more than once.")
+                args.url = value
+            elif not args.host_slug:
+                args.host_slug = value
+            else:
+                raise ValueError(f"Unrecognized quick positional input: {value}")
+    supplied_date = getattr(args, "date", None)
+    if supplied_date:
+        if supplied_date == "today":
+            supplied_date = date.today().isoformat()
+            args.date_assignment = "intake-assigned-today"
+        else:
+            supplied_date = validate_iso_date(supplied_date, "date")
+            args.date_assignment = "explicit-date-alias"
+        args.pub_date = args.pub_date or supplied_date
+        args.ingest_date = args.ingest_date or supplied_date
+    if not args.pub_date or not args.ingest_date:
+        raise ValueError("Quick intake requires --date, --pub-date, or --ingest-date.")
+
+
 def validate_iso_date(value: object, label: str) -> str:
     if not isinstance(value, str) or re.fullmatch(r"\d{4}-\d{2}-\d{2}", value) is None:
         raise ValueError(f"{label} must be a valid YYYY-MM-DD date")
@@ -739,6 +793,7 @@ def validate_iso_date(value: object, label: str) -> str:
 
 
 def normalize_args(args: SimpleNamespace) -> SimpleNamespace:
+    resolve_quick_inputs(args)
     infer_missing_metadata(args)
     args.host_people = [item for item in (args.host_people or []) if item]
     args.guest_people = [item for item in (args.guest_people or []) if item]
@@ -793,6 +848,9 @@ def args_from_metadata(metadata: dict[str, object], metadata_path: Path, cli_arg
         "trim_opening": "auto",
         "asr_repair": "auto",
         "sectioning": "auto",
+        "quick": False,
+        "quick_positionals": [],
+        "date": None,
     }
     mapped = defaults.copy()
     mapped.update(
@@ -824,6 +882,9 @@ def args_from_metadata(metadata: dict[str, object], metadata_path: Path, cli_arg
             "upstream_path": metadata.get("upstream_path") or None,
             "trim_opening": metadata.get("trim_opening", defaults["trim_opening"]),
             "asr_repair": metadata.get("asr_repair", defaults["asr_repair"]),
+            "quick": cli_args.quick,
+            "quick_positionals": [],
+            "date": cli_args.date,
         }
     )
     if mapped["body_file"]:
@@ -844,10 +905,12 @@ def args_from_metadata(metadata: dict[str, object], metadata_path: Path, cli_arg
     mapped["section_pass"] = SECTIONING_PASS_LABEL
     mapped["asr_repair_applied"] = False
     mapped["asr_repair_pass"] = ""
+    mapped["inference_basis"] = []
+    mapped["date_assignment"] = ""
     return normalize_args(SimpleNamespace(**mapped))
 
 
-def args_from_cli(cli_args: argparse.Namespace) -> SimpleNamespace:
+def args_from_cli(cli_args: argparse.Namespace, *, normalize: bool = True) -> SimpleNamespace:
     mapped = {
         "pub_date": cli_args.pub_date,
         "ingest_date": cli_args.ingest_date,
@@ -878,6 +941,11 @@ def args_from_cli(cli_args: argparse.Namespace) -> SimpleNamespace:
         "trim_opening": cli_args.trim_opening,
         "asr_repair": cli_args.asr_repair,
         "sectioning": cli_args.sectioning,
+        "quick": cli_args.quick,
+        "quick_positionals": cli_args.quick_positionals,
+        "date": cli_args.date,
+        "date_assignment": "",
+        "inference_basis": [],
         "opening_trim_applied": False,
         "opening_trim_rule": "",
         "opening_trim_chars_saved": 0,
@@ -892,7 +960,8 @@ def args_from_cli(cli_args: argparse.Namespace) -> SimpleNamespace:
         "asr_repair_applied": False,
         "asr_repair_pass": "",
     }
-    return normalize_args(SimpleNamespace(**mapped))
+    args = SimpleNamespace(**mapped)
+    return normalize_args(args) if normalize else args
 
 
 def count_words(text: str) -> int:
@@ -921,6 +990,17 @@ def load_body_text(args: SimpleNamespace) -> str:
     return ""
 
 
+def strip_exact_outer_wrappers(body: str) -> str:
+    lines = body.splitlines()
+    while lines and not lines[0].strip():
+        lines.pop(0)
+    if lines and re.fullmatch(r".+\s+-\s+YouTube\s*", lines[0].strip(), flags=re.IGNORECASE):
+        lines.pop(0)
+        if lines and lines[0].strip().lower() == "transcripts:":
+            lines.pop(0)
+    return normalize_body_text("\n".join(lines).lstrip("\n"))
+
+
 def parse_title_from_body(body: str) -> str:
     lines = [line.strip() for line in body.splitlines() if line.strip()]
     if not lines:
@@ -942,6 +1022,10 @@ def title_from_url(url: str) -> str:
 
 
 def apply_host_profile(args: SimpleNamespace, profile: HostProfile) -> None:
+    if getattr(args, "host_slug", None) == profile.slug:
+        args.inference_basis.append("explicit-host")
+    else:
+        args.inference_basis.append("host-profile")
     args.host_slug = args.host_slug or profile.slug
     args.host = args.host or profile.host_name
     args.host_people = [item for item in (args.host_people or profile.host_people) if item]
@@ -958,9 +1042,11 @@ def infer_host_profile(args: SimpleNamespace, body: str) -> HostProfile | None:
     ).lower()
     for pattern, slug in HOST_CUE_PATTERNS:
         if re.search(pattern, combined):
+            args.inference_basis.append("title-cue" if getattr(args, "title", "") and re.search(pattern, getattr(args, "title", "").lower()) else "body-cue")
             return HOST_PROFILES[slug]
     for profile in HOST_PROFILES.values():
         if any(alias in combined for alias in profile.aliases):
+            args.inference_basis.append("title-cue" if getattr(args, "title", "") and any(alias in getattr(args, "title", "").lower() for alias in profile.aliases) else "body-cue")
             return profile
     return None
 
@@ -1008,6 +1094,8 @@ def infer_defaults_for_source_form(args: SimpleNamespace) -> None:
 
 
 def infer_missing_metadata(args: SimpleNamespace) -> SimpleNamespace:
+    args.inference_basis = list(getattr(args, "inference_basis", []))
+    args.date_assignment = getattr(args, "date_assignment", "")
     body = load_body_text(args)
     if not body:
         return args
@@ -1017,6 +1105,12 @@ def infer_missing_metadata(args: SimpleNamespace) -> SimpleNamespace:
         args.pub_date = args.ingest_date
     if not getattr(args, "title", None):
         args.title = parse_title_from_body(body) or title_from_url(getattr(args, "url", ""))
+        args.inference_basis.append("title-cue")
+
+    if getattr(args, "quick", False):
+        body = strip_exact_outer_wrappers(body)
+        args._body_text_cache = body
+        args.inference_basis.append("wrapper-normalized")
 
     profile = infer_host_profile(args, body)
     if profile:
@@ -1050,6 +1144,8 @@ def infer_missing_metadata(args: SimpleNamespace) -> SimpleNamespace:
     infer_defaults_for_source_form(args)
     if not getattr(args, "thread", None) and getattr(args, "voice_slugs", None):
         args.thread = args.voice_slugs[0]
+    if getattr(args, "date_assignment", ""):
+        args.inference_basis.append(args.date_assignment)
     return args
 
 
@@ -1519,16 +1615,16 @@ def retrofit_source(
         host_slug=host_slug,
         trim_opening="auto",
         asr_repair="auto",
-        opening_trim_applied=False,
-        opening_trim_rule="",
-        opening_trim_chars_saved=0,
-        opening_trim_words_saved=0,
-        closing_trim_applied=False,
-        closing_trim_rule="",
-        closing_trim_chars_saved=0,
-        closing_trim_words_saved=0,
-        asr_repair_applied=False,
-        asr_repair_pass="",
+        opening_trim_applied=unquote_scalar(frontmatter.get("opening_trim_applied", "false")) == "true",
+        opening_trim_rule=unquote_scalar(frontmatter.get("opening_trim_rule", "")),
+        opening_trim_chars_saved=safe_int(frontmatter.get("opening_trim_chars_saved", "0")),
+        opening_trim_words_saved=safe_int(frontmatter.get("opening_trim_words_saved", "0")),
+        closing_trim_applied=unquote_scalar(frontmatter.get("closing_trim_applied", "false")) == "true",
+        closing_trim_rule=unquote_scalar(frontmatter.get("closing_trim_rule", "")),
+        closing_trim_chars_saved=safe_int(frontmatter.get("closing_trim_chars_saved", "0")),
+        closing_trim_words_saved=safe_int(frontmatter.get("closing_trim_words_saved", "0")),
+        asr_repair_applied=unquote_scalar(frontmatter.get("asr_repair_applied", "false")) == "true",
+        asr_repair_pass=unquote_scalar(frontmatter.get("asr_repair_pass", "")),
         title=unquote_scalar(frontmatter.get("title", path.stem)),
         source_form=unquote_scalar(frontmatter.get("source_form", "interview")),
         sectioning=sectioning,
@@ -1792,6 +1888,26 @@ def metadata_files_from_batch_dir(batch_dir: Path) -> list[Path]:
 
 
 def gather_sources(cli_args: argparse.Namespace) -> list[SimpleNamespace]:
+    if cli_args.quick and cli_args.batch_dir:
+        batch_dir = Path(cli_args.batch_dir)
+        if not batch_dir.is_dir():
+            raise FileNotFoundError(f"Quick batch directory not found: {batch_dir}")
+        body_files = sorted(
+            path for path in batch_dir.iterdir()
+            if path.is_file() and path.suffix.lower() in METADATA_SUFFIXES
+        )
+        if not body_files:
+            raise ValueError(f"Quick batch directory contains no {METADATA_SUFFIXES} body files: {batch_dir}")
+        sources: list[SimpleNamespace] = []
+        for body_file in body_files:
+            args = args_from_cli(cli_args, normalize=False)
+            args.body_file = str(body_file)
+            args.body_text = ""
+            args.title = ""
+            args.url = ""
+            args.quick_positionals = []
+            sources.append(normalize_args(args))
+        return sources
     mode_count = sum(bool(item) for item in (cli_args.metadata_file, cli_args.batch_dir))
     if mode_count > 1:
         raise ValueError("Choose only one of --metadata-file or --batch-dir.")

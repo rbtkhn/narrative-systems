@@ -64,6 +64,7 @@ Current approved hosts:
 - `daniel-davis`
 - `alexander-mercouris`
 - `dialogue-works`
+- `moral-resistance`
 
 Current approved auto-section hosts:
 
@@ -73,6 +74,7 @@ Current approved auto-section hosts:
 - `judging-freedom`
 - `alexander-mercouris`
 - `mario-nawfal`
+- `moral-resistance`
 
 Current approved auto-ASR-repair hosts:
 
@@ -82,10 +84,15 @@ Current approved auto-ASR-repair hosts:
 - `judging-freedom`
 - `alexander-mercouris`
 - `mario-nawfal`
+- `moral-resistance`
 
 If the cut depends on judgment, do not automate it during intake.
 
 ## Workflow
+
+For routine one-off sources, the repository helper supports `--quick` with a
+date, URL, body file, and optional host override; use `--dry-run` to inspect
+inferred metadata before landing.
 
 1. Confirm the source body is materially real.
 2. Land the source under `archive/sources/YYYY-MM-DD/source-*.md`.
