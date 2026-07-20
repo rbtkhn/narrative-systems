@@ -1,8 +1,9 @@
 # Narrative Systems Local Cadence
 
-Every assistant response to the operator in this workspace should include
-multiple-choice options for what to do next. Keep the menu concise and
-grounded in the current task.
+At genuine decision points, lead with one reasoned recommendation. Present
+alternatives only when the tradeoff remains genuinely unsettled or the
+operator requests them. When alternatives are necessary, make their sequence,
+dependencies, tradeoffs, and consequences explicit.
 
 When the operator says `coffee`, read
 `docs/skill-drafts/coffee/SKILL.md` completely and follow it.
