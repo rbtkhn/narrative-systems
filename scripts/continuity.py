@@ -73,7 +73,7 @@ def all_states():
 
 def parse_args():
     p = argparse.ArgumentParser(description="Audit Narrative Geopolitics voice-state continuity.")
-    p.add_argument("command", choices=("states", "revisions", "forecasts", "hosts", "convergence", "select-voices", "orthogonality", "longitudinal", "validate"))
+    p.add_argument("command", choices=("states", "revisions", "forecasts", "hosts", "convergence", "select-voices", "orthogonality", "longitudinal", "geometry", "validate"))
     p.add_argument("--voice")
     p.add_argument("--since")
     p.add_argument("--date")
@@ -687,6 +687,166 @@ def command_longitudinal():
     print(json.dumps(payload, indent=2, ensure_ascii=False) if ARGS.format == "json" else rendered)
 
 
+def geometry_object_terms(text):
+    aliases = {"red sea": "red-sea", "bab el-mandab": "bab-el-mandab", "bab al-mandab": "bab-el-mandab", "mandeb": "bab-el-mandab", "mandab": "bab-el-mandab", "hormuz": "hormuz", "basing": "basing", "bases": "basing", "base": "basing", "maritime": "maritime-access", "shipping": "maritime-access", "access": "maritime-access", "gulf": "gulf-access", "saudi": "saudi-access", "russia": "russia-nato", "nato": "russia-nato", "ukraine": "russia-nato"}
+    lowered = text.lower()
+    result = set()
+    for phrase, normalized in aliases.items():
+        if phrase in lowered:
+            result.add(normalized)
+    return sorted(result)
+
+
+def geometry_node(nodes, node_id, node_type, label, **extra):
+    nodes.setdefault(node_id, {"id": node_id, "type": node_type, "label": label, **extra})
+
+
+def geometry_edge(edges, from_id, to_id, edge_type, *, date_value, source_ids=None, hosts=None, lineage_ids=None, objects=None, classification="source-grounded association", confidence="bounded", review_required=False, basis_type="manifest_cooccurrence"):
+    source_ids = sorted(set(source_ids or [])); hosts = sorted(set(hosts or [])); lineage_ids = sorted(set(lineage_ids or [])); objects = sorted(set(objects or []))
+    if not source_ids and basis_type not in {"human_review_required", "longitudinal_link", "reality_relation"}:
+        return False
+    edges.append({"from": from_id, "to": to_id, "type": edge_type, "basis_type": basis_type, "source_ids": source_ids, "dates": [date_value], "host_ids": hosts, "lineage_ids": lineage_ids, "crisis_objects": objects, "classification": classification, "confidence": confidence, "review_required": review_required})
+    return True
+
+
+def geometry_daily(run_date):
+    source_rows = daily_source_rows(run_date)
+    nodes = {}; edges = []; gaps = []; rejected_generic = 0
+    for row_index, row in enumerate(source_rows, 1):
+        sid = row.get("id") or row.get("source_id") or row.get("source_key") or f"SRC-{run_date.replace('-', '')}-{row_index:02d}"
+        if not sid:
+            continue
+        source_id = f"source:{sid}"; host = row.get("host_slug") or "unhosted"; host_id = f"host:{host}"
+        geometry_node(nodes, source_id, "source", sid, date=run_date)
+        geometry_node(nodes, host_id, "host", host)
+        lineage = row.get("originating_chain") or row.get("lineage_id") or row.get("source_family")
+        lineage_id = None
+        if lineage:
+            lineage_id = f"lineage:{str(lineage).lower().replace(' ', '-') }"
+            geometry_node(nodes, lineage_id, "lineage", str(lineage))
+        geometry_edge(edges, source_id, host_id, "routed_through", date_value=run_date, source_ids=[sid], hosts=[host], lineage_ids=[lineage_id] if lineage_id else [], basis_type="manifest_cooccurrence")
+        if lineage_id:
+            geometry_edge(edges, source_id, lineage_id, "belongs_to_lineage", date_value=run_date, source_ids=[sid], hosts=[host], lineage_ids=[lineage_id], basis_type="shared_source_lineage")
+        title = str(row.get("title", ""))
+        objects = geometry_object_terms(title)
+        for voice in row.get("voice_slugs") or []:
+            voice_id = f"voice:{voice}"; geometry_node(nodes, voice_id, "voice", voice, axis=VOICE_PROFILES.get(voice, {}).get("axis", "unmapped"))
+            geometry_edge(edges, voice_id, source_id, "appeared_in", date_value=run_date, source_ids=[sid], hosts=[host], lineage_ids=[lineage_id] if lineage_id else [], objects=objects, basis_type="manifest_cooccurrence")
+            for obj in objects:
+                object_id = f"object:{obj}"; geometry_node(nodes, object_id, "object", obj, first_seen=run_date, last_seen=run_date)
+                geometry_edge(edges, voice_id, object_id, "addressed", date_value=run_date, source_ids=[sid], hosts=[host], lineage_ids=[lineage_id] if lineage_id else [], objects=[obj], basis_type="manifest_cooccurrence")
+    for item in daily_counter_pressure_gaps(daily_text(run_date, "sources.md"), daily_text(run_date, "synthesis.md")):
+        object_terms = geometry_object_terms(item)
+        gaps.append({"kind": "counter_pressure_gap", "object": object_terms[0] if object_terms else "unresolved-object", "missing_axis": item, "basis": "daily_orthogonality", "dates": [run_date], "action": "supply an independent counter-pressure source or retain the limitation"})
+    return {"date": run_date, "nodes": list(nodes.values()), "edges": edges, "counter_pressure_gaps": gaps, "generic_only_rejections": rejected_generic}
+
+
+def geometry_payload(start_date, end_date):
+    dates = [d for d in date_range(date.fromisoformat(start_date), date.fromisoformat(end_date)) if daily_source_rows(d)]
+    daily = [geometry_daily(d) for d in dates]
+    nodes = {}; edges = []; gaps = []; rejected = 0
+    for snapshot in daily:
+        for node in snapshot["nodes"]:
+            existing = nodes.get(node["id"])
+            if existing:
+                existing["first_seen"] = min(existing.get("first_seen", snapshot["date"]), snapshot["date"])
+                existing["last_seen"] = max(existing.get("last_seen", snapshot["date"]), snapshot["date"])
+            else:
+                nodes[node["id"]] = {**node, "first_seen": node.get("first_seen", snapshot["date"]), "last_seen": node.get("last_seen", snapshot["date"])}
+        edges.extend(snapshot["edges"]); gaps.extend(snapshot["counter_pressure_gaps"]); rejected += snapshot["generic_only_rejections"]
+    # Add explicit same-object voice relationships only from existing daily evidence.
+    seen = set()
+    for snapshot in daily:
+        by_object = defaultdict(list)
+        for edge in snapshot["edges"]:
+            if edge["type"] == "addressed": by_object[edge["to"]].append(edge)
+        for object_id, object_edges in by_object.items():
+            for left_index, left in enumerate(object_edges):
+                for right in object_edges[left_index + 1:]:
+                    pair = tuple(sorted((left["from"], right["from"], object_id, snapshot["date"])))
+                    if pair in seen or left["from"] == right["from"]: continue
+                    seen.add(pair)
+                    shared_hosts = set(left["host_ids"]) & set(right["host_ids"]); shared_lineage = set(left["lineage_ids"]) & set(right["lineage_ids"])
+                    geometry_edge(edges, left["from"], right["from"], "shared_object", date_value=snapshot["date"], source_ids=left["source_ids"] + right["source_ids"], hosts=shared_hosts, lineage_ids=shared_lineage, objects=[object_id.split(":", 1)[1]], classification="shared-lineage limitation" if shared_lineage else ("shared-host limitation" if shared_hosts else "shared object"), confidence="bounded", review_required=bool(shared_hosts or shared_lineage), basis_type="shared_source_lineage" if shared_lineage else ("shared_host" if shared_hosts else "manifest_cooccurrence"))
+    key = lambda edge: (edge["from"], edge["to"], edge["type"], tuple(edge["dates"]))
+    unique_edges = {key(edge): edge for edge in edges}
+    edges = list(unique_edges.values())
+    forecast_hooks = {key: value for key, value in parse_forecast_rows().items() if start_date <= value["date"] <= end_date}
+    state_links = parse_state_forecast_links()
+    for hook_id, hook in forecast_hooks.items():
+        forecast_id = f"forecast:{hook_id}"; geometry_node(nodes, forecast_id, "forecast", hook_id, status=hook["status"], provenance=hook["provenance"])
+        for state in state_links.get(hook_id, []):
+            source_ids = re.findall(r"SRC-[0-9]+", state["source_ids"])
+            geometry_edge(edges, f"voice:{state['voice']}", forecast_id, "forecasted", date_value=hook["date"], source_ids=source_ids, objects=geometry_object_terms(hook["crisis_object"]), classification="explicit forecast-to-voice linkage", confidence="bounded", basis_type="longitudinal_link")
+        for record in reality_records():
+            if hook_id not in json.dumps(record, ensure_ascii=False):
+                continue
+            reality_id = f"reality:{record.get('id')}"; geometry_node(nodes, reality_id, "reality", record.get("id", "unknown"), status=record.get("status"), outcome=record.get("outcome"))
+            geometry_edge(edges, forecast_id, reality_id, "linked_to", date_value=record.get("as_of", hook["date"]), source_ids=[], objects=geometry_object_terms(hook["crisis_object"]), classification="explicit forecast-to-reality record linkage", confidence="bounded", basis_type="reality_relation")
+    node_types = Counter(node["type"] for node in nodes.values()); edge_types = Counter(edge["type"] for edge in edges)
+    source_grounded = sum(bool(edge["source_ids"]) for edge in edges); lineage_edges = sum(edge["basis_type"] == "shared_source_lineage" for edge in edges)
+    quality = {"node_counts": dict(node_types), "edge_counts": dict(edge_types), "edges_with_source_ids": source_grounded, "edges_with_lineage_basis": lineage_edges, "unsupported_candidates": 0, "generic_only_rejections": rejected, "unmapped_voice_count": sum(node["type"] == "voice" and node.get("axis") == "unmapped" for node in nodes.values()), "unresolved_object_count": sum(node["type"] == "object" and node["id"] == "object:unresolved-object" for node in nodes.values()), "counter_pressure_gap_count": len(gaps), "shared_host_edges": sum(edge["basis_type"] == "shared_host" for edge in edges), "shared_lineage_edges": lineage_edges, "confidence_distribution": dict(Counter(edge["confidence"] for edge in edges))}
+    object_dates = defaultdict(list)
+    for edge in edges:
+        for obj in edge["crisis_objects"]: object_dates[obj].extend(edge["dates"])
+    transitions = [{"object": obj, "first_seen": min(ds), "last_seen": max(ds), "date_count": len(set(ds)), "state": "persistent" if len(set(ds)) > 1 else "first appearance"} for obj, ds in sorted(object_dates.items())]
+    graph_diffs = []
+    for previous, current in zip(daily, daily[1:]):
+        old_nodes = {n["id"] for n in previous["nodes"]}; new_nodes = {n["id"] for n in current["nodes"]}; old_edges = {(e["from"], e["to"], e["type"]) for e in previous["edges"]}; new_edges = {(e["from"], e["to"], e["type"]) for e in current["edges"]}
+        graph_diffs.append({"from_date": previous["date"], "to_date": current["date"], "nodes_added": sorted(new_nodes - old_nodes), "nodes_removed": sorted(old_nodes - new_nodes), "edges_added": sorted(new_edges - old_edges), "edges_removed": sorted(old_edges - new_edges)})
+    operator_queries = {"hosts_create_apparent_convergence": sorted({edge["host_ids"][0] for edge in edges if edge["type"] == "shared_object" and edge["host_ids"]}), "objects_lacking_counter_pressure": sorted({gap["object"] for gap in gaps}), "voices_remain_distinct": sorted(node["label"] for node in nodes.values() if node["type"] == "voice"), "changed_since_prior_date": graph_diffs[-1] if graph_diffs else {}, "shared_host_edges": [edge for edge in edges if edge["basis_type"] == "shared_host"], "review_required": [edge for edge in edges if edge["review_required"]]}
+    review = [{"priority": "P1", "entity": f"{edge['from']} × {edge['to']}", "reason": edge["classification"], "action": "confirm distinct mechanisms or recover independent lineage"} for edge in edges if edge["review_required"]]
+    payload = {"schema_version": 1, "range": {"start": start_date, "end": end_date}, "generated_at": datetime.now(timezone.utc).isoformat(), "nodes": sorted(nodes.values(), key=lambda n: n["id"]), "edges": sorted(edges, key=lambda e: (e["from"], e["to"], e["type"])), "counter_pressure_gaps": gaps, "graph_diffs": graph_diffs, "object_transitions": transitions, "operator_queries": operator_queries, "review_queue": review, "quality_metrics": quality, "coverage": {"audited_dates": dates, "skipped_dates": [d for d in date_range(date.fromisoformat(start_date), date.fromisoformat(end_date)) if d not in dates]}, "limitations": ["This is advisory generated state, not research evidence.", "Different voices are not independent evidence unless lineage independence has been established.", "Graph density and degree do not indicate authority, correctness, or evidentiary strength."]}
+    semantic = json.dumps({k: v for k, v in payload.items() if k not in {"generated_at", "content_hash"}}, sort_keys=True, ensure_ascii=False); payload["content_hash"] = hashlib.sha256(semantic.encode("utf-8")).hexdigest()[:16]
+    return payload
+
+
+def render_geometry(payload):
+    q = payload["operator_queries"]
+    lines = ["# Narrative Geometry", "", "## Decision Summary", "", f"- Range: {payload['range']['start']} through {payload['range']['end']}; nodes: {len(payload['nodes'])}; edges: {len(payload['edges'])}; counter-pressure gaps: {len(payload['counter_pressure_gaps'])}", f"- Graph quality: {payload['quality_metrics']}", "", "## Graph Coverage", "", f"- Audited dates: {', '.join(payload['coverage']['audited_dates']) or 'none'}", f"- Skipped dates: {', '.join(payload['coverage']['skipped_dates']) or 'none'}", "", "## Crisis-Object Geometry", ""]
+    lines.extend([f"- `{item['object']}`: {item['state']} from {item['first_seen']} to {item['last_seen']} ({item['date_count']} dates)" for item in payload["object_transitions"]] or ["- None."])
+    """
+    lines.extend(["", "## Voice–Host Conditioning", "", *[f"- {edge['from']} → {edge['to']} via {', '.join(edge['host_ids']) or 'unhosted'}; basis={edge['basis_type']}" for edge in payload["edges"] if edge["type"] == "shared_object"] or ["- No shared-object host relationships."])
+    lines.extend(["", "## Convergence and Orthogonal Pressure", "", *[f"- {edge['from']} ↔ {edge['to']}: {edge['classification']} objects={','.join(edge['crisis_objects'])}" for edge in payload["edges"] if edge["type"] == "shared_object"] or ["- None."])
+    lines.extend(["", "## Shared-Lineage Limits", "", f"- Shared-host edges: {payload['quality_metrics']['shared_host_edges']}; shared-lineage edges: {payload['quality_metrics']['shared_lineage_edges']}", "", "## Object Transitions", ""] + [f"- {item['object']}: {item['state']}" for item in payload["object_transitions"]])
+    lines.extend(["", "## Operator Queries", "", f"- Hosts creating apparent convergence: {q['hosts_create_apparent_convergence'] or 'none'}", f"- Objects lacking counter-pressure: {q['objects_lacking_counter_pressure'] or 'none'}", f"- Distinct voices present: {', '.join(q['voices_remain_distinct']) or 'none'}", f"- Changed since prior date: {q['changed_since_prior_date'] or 'none'}", "", "## Prioritized Review Queue", ""] + [f"{i}. **{item['priority']}** {item['entity']}: {item['reason']} Action: {item['action']}" for i, item in enumerate(payload["review_queue"], 1)] + ["", "## Limitations and Non-Evidence Notice", "", f"- Generated: `{payload['generated_at']}`", f"- Content hash: `{payload['content_hash']}`"] + [f"- {item}" for item in payload["limitations"]])
+    """
+    return "\n".join(lines) + "\n"
+
+
+def render_geometry_v2(payload):
+    q = payload["operator_queries"]
+    lines = ["# Narrative Geometry", "", "## Decision Summary", "", f"- Range: {payload['range']['start']} through {payload['range']['end']}; nodes: {len(payload['nodes'])}; edges: {len(payload['edges'])}; counter-pressure gaps: {len(payload['counter_pressure_gaps'])}", f"- Graph quality: {payload['quality_metrics']}", "", "## Graph Coverage", "", f"- Audited dates: {', '.join(payload['coverage']['audited_dates']) or 'none'}", f"- Skipped dates: {', '.join(payload['coverage']['skipped_dates']) or 'none'}", "", "## Crisis-Object Geometry", ""]
+    lines.extend([f"- `{item['object']}`: {item['state']} from {item['first_seen']} to {item['last_seen']} ({item['date_count']} dates)" for item in payload["object_transitions"]] or ["- None."])
+    lines.extend(["", "## Voice-Host Conditioning", ""])
+    lines.extend([f"- {edge['from']} -> {edge['to']}; hosts={','.join(edge['host_ids']) or 'unhosted'}; basis={edge['basis_type']}" for edge in payload["edges"] if edge["type"] == "shared_object"] or ["- No shared-object host relationships."])
+    lines.extend(["", "## Convergence and Orthogonal Pressure", ""])
+    lines.extend([f"- {edge['from']} <-> {edge['to']}: {edge['classification']}; objects={','.join(edge['crisis_objects'])}" for edge in payload["edges"] if edge["type"] == "shared_object"] or ["- None."])
+    lines.extend(["", "## Shared-Lineage Limits", "", f"- Shared-host edges: {payload['quality_metrics']['shared_host_edges']}; shared-lineage edges: {payload['quality_metrics']['shared_lineage_edges']}", "", "## Object Transitions", ""])
+    lines.extend([f"- {item['object']}: {item['state']}" for item in payload["object_transitions"]] or ["- None."])
+    lines.extend(["", "## Operator Queries", "", f"- Hosts creating apparent convergence: {q['hosts_create_apparent_convergence'] or 'none'}", f"- Objects lacking counter-pressure: {q['objects_lacking_counter_pressure'] or 'none'}", f"- Distinct voices present: {', '.join(q['voices_remain_distinct']) or 'none'}", f"- Changed since prior date: {q['changed_since_prior_date'] or 'none'}", "", "## Prioritized Review Queue", ""])
+    lines.extend([f"{i}. **{item['priority']}** {item['entity']}: {item['reason']} Action: {item['action']}" for i, item in enumerate(payload["review_queue"], 1)] or ["- No review items."])
+    lines.extend(["", "## Limitations and Non-Evidence Notice", "", f"- Generated: `{payload['generated_at']}`", f"- Content hash: `{payload['content_hash']}`"] + [f"- {item}" for item in payload["limitations"]])
+    return "\n".join(lines) + "\n"
+
+
+def command_geometry():
+    if ARGS.date and not (ARGS.start_date or ARGS.end_date): ARGS.start_date = ARGS.date; ARGS.end_date = ARGS.date
+    if not ARGS.start_date or not ARGS.end_date:
+        raise SystemExit(2)
+    try: start = date.fromisoformat(ARGS.start_date); end = date.fromisoformat(ARGS.end_date)
+    except ValueError: raise SystemExit(2)
+    if start > end: raise SystemExit(2)
+    payload = geometry_payload(ARGS.start_date, ARGS.end_date); rendered = render_geometry_v2(payload)
+    target = Path(ARGS.output) if ARGS.output else NG / "work" / "continuity" / "geometry" / f"geometry-{start.strftime('%Y-%m') if start != end else start.isoformat()}.md"
+    if not target.is_absolute(): target = ROOT / target
+    if not ARGS.dry_run:
+        target.parent.mkdir(parents=True, exist_ok=True); existing = target.read_text(encoding="utf-8") if target.exists() else ""
+        if re.sub(r"- Generated: `[^`]+`", "- Generated: `<normalized>`", existing) != re.sub(r"- Generated: `[^`]+`", "- Generated: `<normalized>`", rendered): target.write_text(rendered, encoding="utf-8", newline="\n")
+        json_target = target.with_suffix(".json"); json_target.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
+    print(json.dumps(payload, indent=2, ensure_ascii=False) if ARGS.format == "json" else rendered)
+
+
 def command_validate(states):
     failures = []
     ids = set()
@@ -720,6 +880,7 @@ def main():
     elif ARGS.command == "select-voices": command_select(states)
     elif ARGS.command == "orthogonality": command_orthogonality(states)
     elif ARGS.command == "longitudinal": command_longitudinal()
+    elif ARGS.command == "geometry": command_geometry()
     else: return command_validate(states)
     return 0
 

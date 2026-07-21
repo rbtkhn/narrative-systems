@@ -206,3 +206,21 @@ def test_longitudinal_markdown_output_is_persisted_and_has_required_sections(tmp
     for section in ("Forecast Accountability", "Voice-State Continuity and Revision", "Reality-Evidence Transitions", "Host-Conditioned Variation", "Prioritized Human-Review Queue", "Limitations and Non-Evidence Notice"):
         assert section in text
     assert "repeated commentary is not independent corroboration" in text
+
+
+def test_geometry_range_emits_provenance_graph_and_quality_metrics():
+    code, output = run_continuity(
+        "geometry", "--start-date", "2026-07-18", "--end-date", "2026-07-20", "--format", "json", "--dry-run"
+    )
+    assert code == 0
+    payload = json.loads(output)
+    node_ids = {node["id"] for node in payload["nodes"]}
+    assert "voice:weichert" in node_ids
+    assert "host:moral-resistance" in node_ids
+    assert "object:bab-el-mandab" in node_ids
+    assert any(node["id"] == "forecast:NG-20260720-F01" for node in payload["nodes"])
+    assert payload["edges"]
+    assert all(edge["basis_type"] and edge["source_ids"] for edge in payload["edges"] if edge["basis_type"] not in {"reality_relation"})
+    assert payload["quality_metrics"]["counter_pressure_gap_count"] > 0
+    assert payload["graph_diffs"]
+    assert payload["counter_pressure_gaps"]
