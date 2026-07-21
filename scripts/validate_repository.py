@@ -31,7 +31,7 @@ ARCHIVE_SOURCES = NG_ROOT / "archive" / "sources"
 MANIFEST_PATH = NG_ROOT / "archive" / "source-manifest.json"
 DAILY_ROOT = NG_ROOT / "work" / "daily"
 LEDGER_PATH = NG_ROOT / "work" / "forecasts" / "forecast-ledger.md"
-LOCAL_SKILLS = {"coffee", "dream"}
+LOCAL_SKILLS = {"coffee", "dream", "world-monitor"}
 LOCAL_ROUTER_PATH = REPO_ROOT / "AGENTS.md"
 REQUIRED_DAILY_FILES = {"sources.md", "synthesis.md", "forecast.md", "daily-brief.md"}
 PUBLIC_BRIEFS_ROOT = NG_ROOT / "public" / "briefs"
@@ -272,11 +272,11 @@ def skill_contract_failures() -> list[str]:
         failures.append(f"unexpected deployable skill allowlist: {sorted(deployable)}")
     repo_skills = set(discover_repo_skill_names())
     if not LOCAL_SKILLS <= repo_skills:
-        failures.append("coffee/dream local skill drafts are missing")
+        failures.append("repository-local skill drafts are missing")
     if deployable & LOCAL_SKILLS:
-        failures.append("local coffee/dream skills must not be globally deployable")
+        failures.append("repository-local skills must not be globally deployable")
     if not LOCAL_ROUTER_PATH.exists():
-        failures.append("repository-local coffee/dream trigger router is missing")
+        failures.append("repository-local skill trigger router is missing")
     else:
         router = LOCAL_ROUTER_PATH.read_text(encoding="utf-8")
         for name in sorted(LOCAL_SKILLS):

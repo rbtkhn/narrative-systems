@@ -11,6 +11,10 @@ When the operator says `coffee`, read
 When the operator says `dream`, read
 `docs/skill-drafts/dream/SKILL.md` completely and follow it.
 
+When the operator says `world-monitor`, asks for a World Monitor scan, or asks
+to use World Monitor as a Narrative Systems source, read
+`docs/skill-drafts/world-monitor/SKILL.md` completely and follow it.
+
 When the operator says `harness audit`, run
 `tools/run.ps1 harness` read-only and summarize the
 five stations, actionable findings, and coverage gaps. Do not synchronize,
