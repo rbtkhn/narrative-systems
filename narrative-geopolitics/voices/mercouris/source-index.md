@@ -4,7 +4,7 @@ This index routes the transcript-bearing upstream-parity corpus for `mercouris` 
 
 Source basis: `strategy-codex/statecraft/voices/mercouris/mercouris-index.md`, `strategy-codex/statecraft/channels/alexander-mercouris/alexander-mercouris-channel-index.md`, and subsequent local intake.
 
-Corpus: 296 local route rows across 296 central archive source files.
+Corpus: 299 local route rows across 299 central archive source files.
 
 Status: `transcript-bearing-upstream-parity`
 
@@ -320,6 +320,20 @@ Status: `transcript-bearing-upstream-parity`
 | `2026-07-14` | Zelensky Panics Orders Big Kiev Reshuffle Flees To Paris Begs UK/EU Aid; Russia Hammers Odessa; Iran | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-14/source-zelensky-panics-orders-big-kiev-reshuffle-flees-to-paris-begs-uk-eu-aid-russia-hammers-odessa-iran-2026-07-14.md) |
 | `2026-07-15` | Zelensky To Sack Kiev Defence Chief Drone War Fails; EU Faces Gas Crisis Funds Kiev Buy China Drones | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-15/source-zelensky-to-sack-kiev-defence-chief-drone-war-fails-eu-faces-gas-crisis-funds-kiev-buy-china-drones-2026-07-15.md) |
 | `2026-07-16` | Russia Huge Strike Smashes Odessa Lyman Falls; Kiev Army Ultimatum Zelensky Fedorov Sacked; Protests | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-16/source-russia-huge-strike-smashes-odessa-lyman-falls-kiev-army-ultimatum-zelensky-fedorov-sacked-protests-2026-07-16.md) |
+| `2026-07-18` | Kiev Political Crisis Triggers Coup Rumours; Russia Imposes Ukraine Sea Blockade; Strikes Nikolayev | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-18/source-kiev-political-crisis-triggers-coup-rumours-russia-imposes-ukraine-sea-blockade-strikes-nikolayev-2026-07-18.md) |
+| `2026-07-19` | Russia Escalates Biggest Strikes On Kiev Odessa Huge Destruction; Kiev Protesters Demand Syrsky Quit | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-19/source-russia-escalates-biggest-strikes-on-kiev-odessa-huge-destruction-kiev-protesters-demand-syrsky-quit-2026-07-19.md) |
+| `2026-07-20` | Russia Cuts Off Odessa; Zelensky Discusses Syrsky Sacking; EU States Split On Sanctions Russia Talks | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-20/source-russia-cuts-off-odessa-zelensky-discusses-syrsky-sacking-eu-states-split-on-sanctions-russia-talks-2026-07-20.md) |
+
+## State Continuity
+
+- [State Ledger](state-ledger.md) - dated source-backed expressed-position trajectory.
+- State IDs are the continuity keys used by daily synthesis.
+- Source rows remain the evidence floor; state entries never replace archive links.
+- Check host/channel context before classifying a proposition as voice-native.
+
+The source index owns retrieval and source-to-voice routing. The state ledger
+owns dated proposition continuity. The profile owns interpretation and use
+guidance. None of these surfaces independently establishes factual truth.
 
 ## Import Boundary
 

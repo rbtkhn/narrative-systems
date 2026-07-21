@@ -235,6 +235,7 @@ Current approved hosts:
 - `daniel-davis`
 - `alexander-mercouris`
 - `dialogue-works`
+- `moral-resistance`
 
 Current approved auto-section hosts:
 
@@ -244,6 +245,7 @@ Current approved auto-section hosts:
 - `judging-freedom`
 - `alexander-mercouris`
 - `mario-nawfal`
+- `moral-resistance`
 
 Current approved auto-ASR-repair hosts:
 
@@ -253,6 +255,7 @@ Current approved auto-ASR-repair hosts:
 - `judging-freedom`
 - `alexander-mercouris`
 - `mario-nawfal`
+- `moral-resistance`
 
 ## Handoff To Synthesis
 

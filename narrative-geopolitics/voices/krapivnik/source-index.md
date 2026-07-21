@@ -4,7 +4,7 @@ This index routes the imported seeded corpus for `krapivnik` to the central Narr
 
 Source basis: `strategy-codex/source-archive/statecraft` plus local July 2026 intake.
 
-Corpus: 12 local route rows across 12 central archive source files.
+Corpus: 13 local route rows across 13 central archive source files.
 
 Status: `seeded`
 
@@ -31,6 +31,7 @@ Status: `seeded`
 | `2026-07-04` | Stanislav Krapivnik: Will Russia Strike First as NATO Prepares for War? | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-04/source-stanislav-krapivnik-will-russia-strike-first-as-nato-prepares-for-war-2026-07-04.md) |
 | `2026-07-05` | Stanislav Krapivnik: Geran-4 Obliterates Ukraine Fuel Storage in SECONDS | `guest interview pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-05/source-stanislav-krapivnik-geran-4-obliterates-ukraine-fuel-storage-in-seconds-2026-07-05.md) |
 | `2026-07-08` | LIVE From Russia Stanislav Krapivnik - Latest on the War w/Ukraine | `guest interview pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-08/source-live-from-russia-stanislav-krapivnik-latest-on-the-war-w-ukraine-2026-07-08.md) |
+| `2026-07-19` | Stanislav Krapivnik: Russia's Anger Boils Over - EU-Russia War Coming? | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-19/source-stanislav-krapivnik-russia-s-anger-boils-over-eu-russia-war-coming-2026-07-19.md) |
 
 ## Import Boundary
 

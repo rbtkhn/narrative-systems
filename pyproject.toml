@@ -20,4 +20,3 @@ test = [
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
-addopts = "--basetemp=.codex-pytest-temp"

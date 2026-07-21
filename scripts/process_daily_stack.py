@@ -64,6 +64,11 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Skip syncing forecast hooks into the ledger.",
     )
+    parser.add_argument("--forecast-authored-at", default="")
+    parser.add_argument("--forecast-timing-provenance", default="")
+    parser.add_argument("--forecast-type", choices=sorted(LEDGER_SYNC.forecast_ledger.FORECAST_TYPES))
+    parser.add_argument("--forecast-accountable", choices=("yes", "no"))
+    parser.add_argument("--forecast-review-note", default="")
     return parser.parse_args()
 
 
@@ -125,17 +130,36 @@ def run_ledger_sync(args: argparse.Namespace) -> dict[str, Any]:
     existing = LEDGER_SYNC.existing_hook_ids(ledger_text)
     crisis_object = LEDGER_SYNC.infer_crisis_object(forecast_text, args.crisis_object)
 
+    new_hooks = [hook for hook in hooks if hook["hook_id"] not in existing]
+    metadata_args = argparse.Namespace(
+        retro=args.retro,
+        authored_at=args.forecast_authored_at,
+        timing_provenance=args.forecast_timing_provenance,
+        forecast_type=args.forecast_type,
+        accountable=args.forecast_accountable,
+        review_note=args.forecast_review_note,
+    )
+    metadata = LEDGER_SYNC.registration_metadata(metadata_args) if new_hooks else None
     new_rows = [
-        LEDGER_SYNC.build_ledger_row(run_date, crisis_object, hook)
-        for hook in hooks
-        if hook["hook_id"] not in existing
+        LEDGER_SYNC.build_ledger_row(
+            run_date, crisis_object, hook, metadata.resolution_status
+        )
+        for hook in new_hooks
+    ]
+    new_triage_rows = [
+        LEDGER_SYNC.forecast_ledger.render_triage_row(hook["hook_id"], metadata)
+        for hook in new_hooks
     ]
 
     if not args.dry_run and new_rows:
-        updated = LEDGER_SYNC.insert_rows(ledger_text, new_rows)
+        updated = LEDGER_SYNC.insert_rows(ledger_text, new_rows, new_triage_rows)
         LEDGER_SYNC.LEDGER_PATH.write_text(updated, encoding="utf-8", newline="\n")
 
-    return {"hooks": len(hooks), "new_rows": len(new_rows), "rows": new_rows}
+    return {
+        "hooks": len(hooks),
+        "new_rows": len(new_rows),
+        "rows": [*new_rows, *new_triage_rows],
+    }
 
 
 def run_issue_render(run_date: str, dry_run: bool = False) -> dict[str, str]:

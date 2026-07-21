@@ -20,6 +20,8 @@ def load_module(name: str, path: Path):
 
 triage = load_module("forecast_triage_tests", REPO_ROOT / "scripts" / "triage_forecast_ledger.py")
 bootstrap = load_module("forecast_bootstrap_tests", REPO_ROOT / "scripts" / "bootstrap_daily_run.py")
+sync = load_module("forecast_sync_tests", REPO_ROOT / "scripts" / "sync_forecast_ledger.py")
+ledger = load_module("forecast_ledger_tests", REPO_ROOT / "scripts" / "forecast_ledger.py")
 
 
 def ledger_text(review_date: str = "2026-07-10", accountable: str = "yes") -> str:
@@ -28,6 +30,8 @@ def ledger_text(review_date: str = "2026-07-10", accountable: str = "yes") -> st
 | Hook ID | Date | Crisis Object | Claim | Probability Band | Review Date | Source Run | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | `NG-20260707-F01` | `2026-07-07` | Object | Bounded claim | `likely` | `{review_date}` | [run](x) | `open` |
+
+## Accountability Triage
 
 | Hook ID | Authored No Later Than | Timing Provenance | Forecast Type | Resolution Status | Accountable | Review Note |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -44,7 +48,7 @@ def test_accountable_ex_ante_forecast_passes_before_due_date() -> None:
 
 
 def test_resolved_accountable_forecast_requires_verification_packet() -> None:
-    text = ledger_text().replace("`open` | `yes`", "`hit` | `yes`")
+    text = ledger_text().replace("`open`", "`hit`")
     entries = triage.parse_entries(text)
     rows = triage.parse_triage(text)
     failures = triage.validate_triage(entries, rows, "2026-08-01")
@@ -52,7 +56,7 @@ def test_resolved_accountable_forecast_requires_verification_packet() -> None:
 
 
 def test_resolved_accountable_forecast_accepts_verification_reference() -> None:
-    text = ledger_text().replace("`open` | `yes`", "`hit` | `yes`").replace(
+    text = ledger_text().replace("`open`", "`hit`").replace(
         "Prospective review.", "Prospective review. VER-20260710-01"
     )
     assert triage.validate_triage(triage.parse_entries(text), triage.parse_triage(text), "2026-08-01") == []
@@ -74,14 +78,93 @@ def test_non_ex_ante_row_cannot_be_accountable() -> None:
     assert "only ex_ante forecasts may be accountable: NG-20260707-F01" in failures
 
 
+def test_invalid_forecast_classification_is_rejected() -> None:
+    text = ledger_text().replace("`ex_ante`", "`verification_gated`")
+    failures = triage.validate_triage(
+        triage.parse_entries(text), triage.parse_triage(text), "2026-07-09"
+    )
+    assert "invalid forecast type for NG-20260707-F01: verification_gated" in failures
+
+
+def test_status_migration_preserves_non_status_entry_fields() -> None:
+    text = ledger_text().replace(
+        "`ex_ante` | `open` | `yes`", "`ex_ante` | `mixed` | `yes`"
+    )
+    before = ledger.parse_entries(text)[0]
+
+    after = ledger.parse_entries(ledger.align_entry_statuses(text))[0]
+
+    assert after.status == "mixed"
+    assert before.hook_id == after.hook_id
+    assert before.run_date == after.run_date
+    assert before.crisis_object == after.crisis_object
+    assert before.claim == after.claim
+    assert before.probability_band == after.probability_band
+    assert before.review_date == after.review_date
+    assert before.source_run == after.source_run
+
+
 def test_unresolvable_is_allowed_without_forcing_outcome() -> None:
     text = ledger_text(accountable="no").replace(
-        "`open` | `no`", "`unresolvable_with_authorized_evidence` | `no`"
+        "`open`", "`unresolvable_with_authorized_evidence`"
     )
     failures = triage.validate_triage(
         triage.parse_entries(text), triage.parse_triage(text), "2026-07-20"
     )
     assert failures == []
+
+
+def test_entry_and_triage_status_must_match() -> None:
+    text = ledger_text().replace("`open` | `yes`", "`hit` | `yes`")
+    failures = triage.validate_triage(
+        triage.parse_entries(text), triage.parse_triage(text), "2026-07-09"
+    )
+    assert (
+        "forecast status mismatch for NG-20260707-F01: entry=open triage=hit"
+        in failures
+    )
+
+
+def test_sync_inserts_entry_before_triage_and_triage_row_in_triage_table() -> None:
+    text = ledger_text()
+    entry = (
+        "| `NG-20260708-F01` | `2026-07-08` | Object | Claim | `likely` | "
+        "`2026-07-20` | [run](y) | `open` |"
+    )
+    triage_row = (
+        "| `NG-20260708-F01` | `2026-07-08` | `runtime_date` | `ex_ante` | "
+        "`open` | `yes` | Prospective. |"
+    )
+
+    updated = sync.insert_rows(text, [entry], [triage_row])
+    before, _, after = updated.partition("## Accountability Triage")
+
+    assert entry in before
+    assert triage_row not in before
+    assert triage_row in after
+    assert entry not in after
+
+
+def test_live_registration_requires_explicit_metadata() -> None:
+    args = type(
+        "Args",
+        (),
+        {
+            "retro": False,
+            "authored_at": "",
+            "timing_provenance": "",
+            "forecast_type": None,
+            "accountable": None,
+            "review_note": "",
+        },
+    )()
+
+    try:
+        sync.registration_metadata(args)
+    except ValueError as error:
+        assert "explicit registration metadata" in str(error)
+    else:
+        raise AssertionError("live registration metadata was not required")
 
 
 def test_due_review_carry_forward_excludes_non_accountable_rows(monkeypatch) -> None:

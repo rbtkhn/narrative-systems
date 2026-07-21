@@ -134,13 +134,18 @@ def test_standard_shelf_sync_is_idempotent_and_preserves_role(monkeypatch, tmp_p
             manifest_row(second_rel, "johnson", title="B"),
         ]
     }
+    overrides = {
+        ("johnson", first_rel): "guest interview pressure test",
+    }
 
     first = voice_indexes.reconcile(
-        manifest, run_date="2026-07-10", write=True, repo_root=tmp_path, voices_root=voices_root
+        manifest, run_date="2026-07-10", write=True, repo_root=tmp_path,
+        voices_root=voices_root, role_overrides=overrides,
     )
     after_first = index.read_text()
     second = voice_indexes.reconcile(
-        manifest, run_date="2026-07-10", write=True, repo_root=tmp_path, voices_root=voices_root
+        manifest, run_date="2026-07-10", write=True, repo_root=tmp_path,
+        voices_root=voices_root, role_overrides=overrides,
     )
 
     assert first["failures"] == []
@@ -165,3 +170,15 @@ def test_shelf_less_voice_is_reported_not_failed(monkeypatch, tmp_path: Path) ->
 
     assert report["failures"] == []
     assert report["unindexed_voices"] == ["new-voice"]
+
+
+def test_role_override_registry_rejects_orphan_path() -> None:
+    manifest = {"sources": []}
+    failures = voice_indexes.role_override_failures(
+        manifest,
+        {("johnson", "narrative-geopolitics/archive/sources/missing.md"): "curated"},
+    )
+    assert failures == [
+        "voice-role override path absent from manifest: "
+        "narrative-geopolitics/archive/sources/missing.md"
+    ]

@@ -19,6 +19,7 @@ from codex_skill_registry import (
 import voice_indexes
 import voice_metadata
 import voice_accountability
+import forecast_ledger
 import verification as verification_packets
 import render_daily_issue as daily_issue
 import reality
@@ -35,6 +36,8 @@ LOCAL_ROUTER_PATH = REPO_ROOT / "AGENTS.md"
 REQUIRED_DAILY_FILES = {"sources.md", "synthesis.md", "forecast.md", "daily-brief.md"}
 PUBLIC_BRIEFS_ROOT = NG_ROOT / "public" / "briefs"
 ACTIVE_ASR_GUIDANCE = NG_ROOT / "work" / "asr-repair-pilot-findings-july-2026.md"
+LEGACY_VERIFICATION_ROOT = NG_ROOT / "work" / "verification" / "packets"
+LEGACY_VERIFICATION_INVENTORY = NG_ROOT / "work" / "verification" / "legacy-inventory.json"
 
 MARKDOWN_LINK_RE = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
 HOOK_ID_RE = re.compile(r"`(NG-\d{8}-F\d{2})`")
@@ -136,30 +139,25 @@ def daily_run_failures() -> list[str]:
 
 def forecast_ledger_failures() -> list[str]:
     text = LEDGER_PATH.read_text(encoding="utf-8")
-    entry_text, separator, triage_text = text.partition("## Accountability Triage")
-    failures: list[str] = []
-    if not separator:
+    if forecast_ledger.TRIAGE_HEADING not in text:
         return ["forecast ledger missing Accountability Triage section"]
-
-    entry_ids = HOOK_ID_RE.findall(entry_text)
-    triage_ids = HOOK_ID_RE.findall(triage_text)
-    if len(entry_ids) != len(set(entry_ids)):
-        failures.append("forecast ledger contains duplicate entry hook IDs")
-    if len(triage_ids) != len(set(triage_ids)):
-        failures.append("forecast triage contains duplicate hook IDs")
-    failures.extend(
-        f"forecast entry missing triage row: {hook_id}"
-        for hook_id in sorted(set(entry_ids) - set(triage_ids))
+    failures = forecast_ledger.structural_failures(
+        forecast_ledger.parse_entries(text), forecast_ledger.parse_triage(text)
     )
-    failures.extend(
-        f"forecast triage row missing entry: {hook_id}"
-        for hook_id in sorted(set(triage_ids) - set(entry_ids))
-    )
-    return failures
+    return [
+        item.replace("missing triage row:", "forecast entry missing triage row:")
+        .replace("triage row has no ledger entry:", "forecast triage row missing entry:")
+        for item in failures
+    ]
 
 
 def markdown_files() -> list[Path]:
-    roots = (REPO_ROOT / "docs", NG_ROOT, REPO_ROOT / "predictive-history")
+    roots = (
+        REPO_ROOT / "docs",
+        NG_ROOT,
+        REPO_ROOT / "predictive-history",
+        REPO_ROOT / "historical-entropy",
+    )
     files: list[Path] = []
     for root in roots:
         if not root.exists():
@@ -386,6 +384,50 @@ def voice_accountability_failures() -> list[str]:
     return voice_accountability.validate_ledger()
 
 
+def legacy_verification_inventory_failures() -> list[str]:
+    if not LEGACY_VERIFICATION_INVENTORY.is_file():
+        return ["legacy verification inventory missing"]
+    try:
+        payload = json.loads(LEGACY_VERIFICATION_INVENTORY.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as exc:
+        return [f"legacy verification inventory invalid JSON: line {exc.lineno}"]
+    rows = payload.get("packets")
+    if not isinstance(rows, list):
+        return ["legacy verification inventory missing packets list"]
+    failures: list[str] = []
+    registered: set[str] = set()
+    for row in rows:
+        if not isinstance(row, dict):
+            failures.append("legacy verification inventory contains non-object row")
+            continue
+        path = str(row.get("path", ""))
+        packet_id = str(row.get("packet_id", ""))
+        condition = str(row.get("retirement_condition", "")).strip()
+        if not path or not packet_id or not condition:
+            failures.append(f"incomplete legacy verification inventory row: {packet_id or path}")
+            continue
+        if path in registered:
+            failures.append(f"duplicate legacy verification inventory path: {path}")
+        registered.add(path)
+        target = REPO_ROOT / path
+        if not target.is_dir() or target.name != packet_id:
+            failures.append(f"legacy verification inventory target mismatch: {path}")
+    actual = {
+        relative(path)
+        for path in LEGACY_VERIFICATION_ROOT.iterdir()
+        if path.is_dir()
+    }
+    failures.extend(
+        f"unregistered legacy-only verification packet: {path}"
+        for path in sorted(actual - registered)
+    )
+    failures.extend(
+        f"registered legacy verification packet missing: {path}"
+        for path in sorted(registered - actual)
+    )
+    return failures
+
+
 def validate_repository() -> list[str]:
     failures: list[str] = []
     for check in (
@@ -399,6 +441,7 @@ def validate_repository() -> list[str]:
         reality_lattice_failures,
         skill_contract_failures,
         voice_accountability_failures,
+        legacy_verification_inventory_failures,
         tracked_artifact_failures,
         obsolete_guidance_failures,
         voice_routing_failures,

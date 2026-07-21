@@ -1,7 +1,7 @@
 # narrative-systems
 
-An archive-first, source-grounded dialogical workbench for geopolitical
-judgment.
+An archive-first family of source-grounded systems for historical traversal,
+historical inheritance, and geopolitical judgment.
 
 The executable center is [Narrative Geopolitics](narrative-geopolitics/README.md):
 a source-bounded system for curating intellectual voices, testing their
@@ -15,12 +15,19 @@ currently thinks.
 [Predictive History](predictive-history/README.md) remains a sibling study of
 public historical and civilizational corpus traversal.
 
+[Historical Entropy](historical-entropy/README.md) is the third project: an
+original public lecture series and governed long-memory system for tracing how
+historical inheritance is preserved, compressed, mutated, lost, recovered, and
+reactivated. Its derived objects organize interpretation; they never become
+independent evidence for the sources from which they descend.
+
 ## Layout
 
 ```text
 .
 ├── narrative-geopolitics/  Archive, continuity, work, forecasts, and public output
 ├── predictive-history/     Sibling public-system study
+├── historical-entropy/     Governed historical inheritance and long-memory study
 ├── docs/                   Method and local skill contracts
 ├── scripts/                Operator commands and validators
 └── tests/                  Intake, synthesis, forecast, and integrity tests
@@ -52,4 +59,7 @@ intake behavior is documented separately under
 - `voices/` and `channels/` own continuity and conditioning.
 - `work/` owns internal dialogue, judgment, experiments, and forecast review.
 - `public/` contains intentionally promoted reader-facing material.
+- `historical-entropy/` may derive memory and inheritance objects from named
+  sources, but those objects are navigation and interpretation surfaces, not
+  corroborating evidence.
 - Empty dates create no daily directory.

@@ -1,0 +1,45 @@
+id: he-01
+title: "When Order Becomes Legible"
+volume: 1
+sequence: 1
+form: public-lecture
+audience: serious-public
+word_target:
+  minimum: 2000
+  maximum: 3000
+mechanism: "standardization produces administrative legibility while filtering recoverable variation"
+cases:
+  - "Qin imperial standardization"
+  - "Qianling administrative documents from Liye"
+  - "early Han adoption and adaptation"
+learning_outcomes:
+  - "explain what standardization made more ordered"
+  - "identify what became less recoverable"
+  - "distinguish transmission from uninterrupted continuity"
+  - "recover the evidence chain and counter-reading"
+  - "separate interpretation from evidence"
+paths:
+  doorway: README.md
+  manuscript: he-01-manuscript.md
+  sources: he-01-sources.md
+  commentary: he-01-commentary.md
+  external_review_brief: ../../../reviews/he-01-specialist-review-brief.md
+  simulated_specialist_review: ../../../reviews/he-01-simulated-specialist-review.md
+review:
+  status: source-review
+  source_review: internal-pass-external-specialist-pending
+  simulated_specialist_review: pass-with-revisions-applied
+  value_test: provisional-self-test
+public_readiness:
+  ready: false
+  reason: "External specialist review and independent fresh-reader test remain pending."
+canonical_before_recording: true
+transcript:
+  exists: false
+  departure_log: null
+companion:
+  predictive_history_doorway: "https://github.com/rbtkhn/predictive-history"
+candidate_queue:
+  repository: "https://github.com/rbtkhn/civilization_memory"
+  commit: "ce8ac249cdf5a3d6a840926863ce59d9d3ecbe2e"
+  evidentiary_authority: false

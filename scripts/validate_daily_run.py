@@ -29,6 +29,12 @@ ARCHIVE_LINK_RE = re.compile(r"\((\.\./\.\./\.\./archive/sources/[^)]+\.md)\)")
 INTAKE_ROW_RE = re.compile(r"\|\s*`(archive/sources/[^`]+\.md)`\s*\|")
 STATUS_RE = re.compile(r"Status:\s*`([^`]+)`")
 PLACEHOLDER_RE = re.compile(r"awaiting intake", re.IGNORECASE)
+DELTA_CONTRACT = "Synthesis contract: `delta-v1`"
+DELTA_PLACEHOLDERS = (
+    "[prior date, range, dossier, or none for a genuinely new object]",
+    "[name the new mechanism, evidence, contradiction, or judgment change; do not restate recurring crisis context]",
+    "[daily-packet or archive-only]",
+)
 
 
 def parse_args() -> argparse.Namespace:
@@ -221,6 +227,18 @@ def validate_run(run_date: str, stage: str = "intake") -> dict[str, Any]:
         failures.extend(voice_report["failures"])
 
     if downstream and (run_path / "synthesis.md").exists():
+        synthesis_text = read_text(run_path / "synthesis.md")
+        if DELTA_CONTRACT in synthesis_text:
+            for placeholder in DELTA_PLACEHOLDERS:
+                if placeholder in synthesis_text:
+                    failures.append(
+                        "delta-v1 synthesis has incomplete Distinctive Contribution"
+                    )
+                    break
+            if "Disposition: `archive-only`" in synthesis_text:
+                failures.append(
+                    "archive-only delta-v1 disposition must not become a completed daily packet"
+                )
         failures.extend(
             verification.validate_day_claims(
                 run_date,

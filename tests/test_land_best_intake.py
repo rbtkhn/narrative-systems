@@ -5,7 +5,7 @@ import json
 import os
 import shutil
 import sys
-import uuid
+import tempfile
 from datetime import date
 from pathlib import Path
 from types import SimpleNamespace
@@ -46,11 +46,7 @@ def trim_args(host_slug: str | None, mode: str = "auto") -> SimpleNamespace:
 
 
 def make_local_temp_dir() -> Path:
-    root = REPO_ROOT / ".codex-test-temp"
-    root.mkdir(exist_ok=True)
-    path = root / f"trim-{uuid.uuid4().hex}"
-    path.mkdir()
-    return path
+    return Path(tempfile.mkdtemp(prefix="narrative-systems-trim-"))
 
 
 def build_fast_args(pub_date: str, url: str, title: str, body_text: str) -> SimpleNamespace:
@@ -651,7 +647,7 @@ def test_retrofit_source_normalizes_without_trimming() -> None:
         result = land_best_intake.retrofit_source(source, "2026-06-01")
         text = source.read_text(encoding="utf-8")
 
-        expected_rel = source.relative_to(REPO_ROOT).as_posix()
+        expected_rel = source.as_posix()
         assert result == f"NORMALIZED {expected_rel}"
         assert "opening_trim_applied: false" in text
         assert 'opening_trim_rule: ""' in text
@@ -682,7 +678,7 @@ def test_retrofit_source_normalizes_dialogue_works_without_wrapper_trim() -> Non
         result = land_best_intake.retrofit_source(source, "2026-06-01")
         text = source.read_text(encoding="utf-8")
 
-        expected_rel = source.relative_to(REPO_ROOT).as_posix()
+        expected_rel = source.as_posix()
         assert result == f"NORMALIZED {expected_rel}"
         assert "Oh, I can't hear you, by the way.\n" in text
         assert "opening_trim_applied: false" in text
@@ -1353,14 +1349,54 @@ def test_voice_indexes_sync_after_successful_publish(monkeypatch, tmp_path: Path
     original = json.loads(manifest_path.read_text(encoding="utf-8"))
     plans, proposed = land_best_intake.prepare_batch(args, original)
 
-    messages = land_best_intake.publish_batch(plans, proposed)
-    messages.extend(land_best_intake.sync_voice_indexes_for_plans(plans, proposed))
+    voice_updates, voice_messages = land_best_intake.project_voice_indexes_for_plans(
+        plans, proposed
+    )
+    messages = land_best_intake.publish_batch(plans, proposed, voice_updates)
+    messages.extend(voice_messages)
 
     index_text = (voice_root / "source-index.md").read_text(encoding="utf-8")
     assert "Voice shelves changed: audit-voice" in messages
     assert "Voice routes added: 1" in messages
     assert "Corpus: 1 local route rows across 1 central archive source files." in index_text
     assert "| `2026-07-15` | Voice shelf source | `host-pressure test` | `audit-host` |" in index_text
+
+
+def test_voice_index_failure_rolls_back_sources_indexes_and_manifest(
+    monkeypatch, tmp_path: Path
+) -> None:
+    _, manifest_path = configure_transaction_root(monkeypatch, tmp_path)
+    index = (
+        tmp_path / "narrative-geopolitics" / "voices" / "audit-voice" / "source-index.md"
+    )
+    index.parent.mkdir(parents=True)
+    original_index = (
+        "# Audit Voice Source Index\n\n"
+        "Corpus: 0 local route rows across 0 central archive source files.\n\n"
+        "| Date | Source | Role | Host slug | Archive link |\n"
+        "| --- | --- | --- | --- | --- |\n"
+    )
+    index.write_text(original_index, encoding="utf-8")
+    args = [transaction_args("2026-07-15", "Rollback voice source")]
+    original_manifest = manifest_path.read_text(encoding="utf-8")
+    plans, proposed = land_best_intake.prepare_batch(
+        args, json.loads(original_manifest)
+    )
+    updates, _ = land_best_intake.project_voice_indexes_for_plans(plans, proposed)
+    real_replace = os.replace
+
+    def fail_index(source, destination):
+        if Path(destination) == index:
+            raise OSError("simulated voice index publication failure")
+        return real_replace(source, destination)
+
+    monkeypatch.setattr(land_best_intake.os, "replace", fail_index)
+    with pytest.raises(OSError, match="simulated voice index"):
+        land_best_intake.publish_batch(plans, proposed, updates)
+
+    assert not plans[0].source_path.exists()
+    assert index.read_text(encoding="utf-8") == original_index
+    assert manifest_path.read_text(encoding="utf-8") == original_manifest
 
 
 def test_source_publication_failure_rolls_back_prior_sources_and_manifest(

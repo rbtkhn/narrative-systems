@@ -103,6 +103,12 @@ state. Within the guided workflow it may write only:
 - the selected date's generated `issue.md` after the canonical files declare a complete issue lineup;
 - new open forecast hooks in the forecast ledger.
 
+A new retrospective packet must declare `Synthesis contract: delta-v1` and a
+complete Distinctive Contribution: comparison window, new mechanism, evidence,
+or contradiction, and disposition. When review finds no substantive delta,
+the authorized outcome is archive-only intake; no formulaic daily packet is
+created. Existing historical packets are grandfathered.
+
 Without explicit additional authorization it does not change private intake,
 new archive source bodies, channel shelves, verification packets, forecast
 resolutions or accountability classifications, public products, external

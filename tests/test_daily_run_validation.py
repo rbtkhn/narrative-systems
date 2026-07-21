@@ -99,6 +99,41 @@ def test_synthesis_stage_blocks_stale_after_intake(monkeypatch, tmp_path: Path) 
     assert sum("missing manifest day source" in failure for failure in result["failures"]) == 2
 
 
+def test_historical_synthesis_without_delta_contract_is_grandfathered(
+    monkeypatch, tmp_path: Path
+) -> None:
+    configure_fixture(monkeypatch, tmp_path, complete_sources_text())
+    synthesis = (
+        tmp_path / "narrative-geopolitics" / "work" / "daily" / "2026-07-09" / "synthesis.md"
+    )
+    synthesis.write_text("Status: `draft`\n\nHistorical packet.\n", encoding="utf-8")
+
+    result = validator.validate_run("2026-07-09", "synthesis")
+
+    assert not any("Distinctive Contribution" in item for item in result["failures"])
+
+
+def test_delta_contract_rejects_archive_only_daily_packet(
+    monkeypatch, tmp_path: Path
+) -> None:
+    configure_fixture(monkeypatch, tmp_path, complete_sources_text())
+    synthesis = (
+        tmp_path / "narrative-geopolitics" / "work" / "daily" / "2026-07-09" / "synthesis.md"
+    )
+    synthesis.write_text(
+        "Status: `draft`\n\nSynthesis contract: `delta-v1`\n\n"
+        "## Distinctive Contribution\n\n"
+        "Comparison window: `2026-07-08`\n\n"
+        "New contribution: A genuinely new contradiction.\n\n"
+        "Disposition: `archive-only`\n",
+        encoding="utf-8",
+    )
+
+    result = validator.validate_run("2026-07-09", "synthesis")
+
+    assert "archive-only delta-v1 disposition must not become a completed daily packet" in result["failures"]
+
+
 def test_exact_intake_coverage_is_ready(monkeypatch, tmp_path: Path) -> None:
     configure_fixture(monkeypatch, tmp_path, complete_sources_text())
 

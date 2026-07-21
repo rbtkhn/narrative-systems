@@ -61,9 +61,9 @@ def test_manifest_count_mismatch_is_detected(monkeypatch, tmp_path: Path) -> Non
 def test_forecast_triage_mismatch_is_detected(monkeypatch, tmp_path: Path) -> None:
     ledger = tmp_path / "forecast-ledger.md"
     ledger.write_text(
-        "| `NG-20260707-F01` | entry |\n\n"
+        "| `NG-20260707-F01` | `2026-07-07` | Object | Claim | `likely` | `2026-07-20` | [run](x) | `open` |\n\n"
         "## Accountability Triage\n\n"
-        "| `NG-20260708-F01` | triage |\n",
+        "| `NG-20260708-F01` | `2026-07-08` | `runtime_date` | `ex_ante` | `open` | `yes` | Review. |\n",
         encoding="utf-8",
     )
     monkeypatch.setattr(integrity, "LEDGER_PATH", ledger)
@@ -72,6 +72,22 @@ def test_forecast_triage_mismatch_is_detected(monkeypatch, tmp_path: Path) -> No
 
     assert "forecast entry missing triage row: NG-20260707-F01" in failures
     assert "forecast triage row missing entry: NG-20260708-F01" in failures
+
+
+def test_unregistered_legacy_verification_packet_is_rejected(
+    monkeypatch, tmp_path: Path
+) -> None:
+    packets = tmp_path / "packets"
+    (packets / "VER-20990101-01-new").mkdir(parents=True)
+    inventory = tmp_path / "legacy-inventory.json"
+    inventory.write_text('{"schema_version": 1, "packets": []}\n', encoding="utf-8")
+    monkeypatch.setattr(integrity, "REPO_ROOT", tmp_path)
+    monkeypatch.setattr(integrity, "LEGACY_VERIFICATION_ROOT", packets)
+    monkeypatch.setattr(integrity, "LEGACY_VERIFICATION_INVENTORY", inventory)
+
+    assert integrity.legacy_verification_inventory_failures() == [
+        "unregistered legacy-only verification packet: packets/VER-20990101-01-new"
+    ]
 
 
 def test_broken_non_archive_markdown_link_is_detected(monkeypatch, tmp_path: Path) -> None:
@@ -88,6 +104,52 @@ def test_broken_non_archive_markdown_link_is_detected(monkeypatch, tmp_path: Pat
 
     assert integrity.markdown_link_failures() == [
         "broken Markdown link: docs/readme.md -> missing.md"
+    ]
+
+
+def test_broken_historical_entropy_markdown_link_is_detected(
+    monkeypatch, tmp_path: Path
+) -> None:
+    docs = tmp_path / "docs"
+    docs.mkdir()
+    ng_root = tmp_path / "narrative-geopolitics"
+    ng_root.mkdir()
+    predictive = tmp_path / "predictive-history"
+    predictive.mkdir()
+    historical_entropy = tmp_path / "historical-entropy"
+    historical_entropy.mkdir()
+    (historical_entropy / "README.md").write_text(
+        "[missing packet](lectures/missing/README.md)\n",
+        encoding="utf-8",
+    )
+    monkeypatch.setattr(integrity, "REPO_ROOT", tmp_path)
+    monkeypatch.setattr(integrity, "NG_ROOT", ng_root)
+    monkeypatch.setattr(integrity, "ARCHIVE_SOURCES", ng_root / "archive" / "sources")
+
+    assert integrity.markdown_link_failures() == [
+        "broken Markdown link: historical-entropy/README.md -> "
+        "lectures/missing/README.md"
+    ]
+
+
+def test_sibling_markdown_roots_remain_checked_when_historical_entropy_is_empty(
+    monkeypatch, tmp_path: Path
+) -> None:
+    docs = tmp_path / "docs"
+    docs.mkdir()
+    ng_root = tmp_path / "narrative-geopolitics"
+    ng_root.mkdir()
+    predictive = tmp_path / "predictive-history"
+    predictive.mkdir()
+    historical_entropy = tmp_path / "historical-entropy"
+    historical_entropy.mkdir()
+    (predictive / "README.md").write_text("[missing](missing.md)\n", encoding="utf-8")
+    monkeypatch.setattr(integrity, "REPO_ROOT", tmp_path)
+    monkeypatch.setattr(integrity, "NG_ROOT", ng_root)
+    monkeypatch.setattr(integrity, "ARCHIVE_SOURCES", ng_root / "archive" / "sources")
+
+    assert integrity.markdown_link_failures() == [
+        "broken Markdown link: predictive-history/README.md -> missing.md"
     ]
 
 

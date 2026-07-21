@@ -4,7 +4,7 @@ This index routes the unified local Blumenthal corpus for `blumenthal` to the ce
 
 Source basis: `strategy-codex/statecraft/voices/blumenthal/blumenthal-index.md` plus already-local matching archive rows.
 
-Corpus: 8 local route rows across 8 central archive source files.
+Corpus: 9 local route rows across 9 central archive source files.
 
 Status: `imported-corpus`
 
@@ -27,6 +27,7 @@ Status: `imported-corpus`
 | `2026-06-19` | \"NOBODY TELLS US WHAT TO DO\", KATZ DEFIES TRUMP'S CEASEFIRE – w/ Max Blumenthal | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-19/source-mario-nawfal-max-blumenthal-katz-defies-trump-ceasefire-2026-06-19.md) |
 | `2026-06-24` | Max Blumenthal: 'Iran Deal' Divides the U.S. & Triggers Panic in Israel | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-06-24/source-glenn-diesen-max-blumenthal-iran-deal-divides-us-triggers-panic-israel-2026-06-24.md) |
 | `2026-06-25` | Max Blumenthal : Is Israel in Panic? | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-25/source-judging-freedom-blumenthal-israel-in-panic-2026-06-25.md) |
+| `2026-07-20` | Max Blumenthal: How the US Suppresses Truth in the Iran War | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-07-20/source-max-blumenthal-how-the-us-suppresses-truth-in-the-iran-war-2026-07-20.md) |
 
 ## Import Boundary
 

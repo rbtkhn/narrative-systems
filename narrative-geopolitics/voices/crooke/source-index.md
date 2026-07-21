@@ -4,7 +4,7 @@ This index routes the unified local Crooke corpus for `crooke` to the central Na
 
 Source basis: `strategy-codex/statecraft/voices/crooke/crooke-index.md` plus already-local 2026 Crooke archive rows.
 
-Corpus: 69 local route rows across 69 central archive source files.
+Corpus: 70 local route rows across 70 central archive source files.
 
 Status: `imported-corpus`
 
@@ -88,8 +88,19 @@ Status: `imported-corpus`
 | `2026-07-03` | MoU Stacked in Holding Pattern as US Pivots to Plan 'B' | `authored` | `crooke` | [source](../../archive/sources/2026-07-03/source-mou-stacked-in-holding-pattern-as-us-pivots-to-plan-b-2026-07-03.md) |
 | `2026-07-09` | Iran War 3.0 | `authored` | `crooke` | [source](../../archive/sources/2026-07-09/source-iran-war-3-0-2026-07-09.md) |
 | `2026-07-10` | Alastair Crooke: U.S. and Iran Exchange Massive Strikes as Hormuz War Continues | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-10/source-alastair-crooke-u-s-and-iran-exchange-massive-strikes-as-hormuz-war-continues-2026-07-10.md) |
+| `2026-07-20` | Alastair Crooke: Iran War 3.0 | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-07-20/source-alastair-crooke-iran-war-3-0-2026-07-20.md) |
+
+## State Continuity
+
+- [State Ledger](state-ledger.md) - dated source-backed expressed-position trajectory.
+- State IDs are the continuity keys used by daily synthesis.
+- Source rows remain the evidence floor; state entries never replace archive links.
+- Check host/channel context before classifying a proposition as voice-native.
+
+The source index owns retrieval and source-to-voice routing. The state ledger
+owns dated proposition continuity. The profile owns interpretation and use
+guidance. None of these surfaces independently establishes factual truth.
 
 ## Import Boundary
 
 This local shelf unifies imported Crooke sources from strategy-codex with already-present June 2026 Crooke rows already materialized in this repo.
-

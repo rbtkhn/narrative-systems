@@ -48,7 +48,12 @@ Evidence needed before relying on this voice:
 - A host/channel check whenever `host_slug` is not `crooke`.
 - Independent corroboration when authored argument and host-conditioned interview framing diverge.
 
+## State Continuity
+
+Canonical state ledger: [state-ledger.md](state-ledger.md). It records the
+dated trajectory of expressed positions, not private beliefs, moderator
+synthesis, host framing, or verified fact.
+
 ## Parity Note
 
 This voice is a unified local Crooke shelf: imported from the strategy-codex Crooke index and widened to include already-present 2026 Crooke archive rows in this repo.
-

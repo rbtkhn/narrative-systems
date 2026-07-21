@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `davis` to the cent
 
 Source basis: `strategy-codex/statecraft/voices/davis/davis-index.md`.
 
-Corpus: 80 local route rows across 80 central archive source files.
+Corpus: 82 local route rows across 82 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -104,6 +104,8 @@ Status: `first-slice-parity`
 | `2026-07-08` | Trump Declares CEASEFIRE OVER w/IRAN Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-08/source-trump-declares-ceasefire-over-w-iran-lt-col-daniel-davis-2026-07-08.md) |
 | `2026-07-09` | Daniel Davis: Trump Says the Ceasefire Is Over With Iran & Escalates the War With Russia | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-09/source-daniel-davis-trump-says-the-ceasefire-is-over-with-iran-escalates-the-war-with-russia-2026-07-09.md) |
 | `2026-07-14` | Third Straight Night US Attacks Iran / Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-14/source-third-straight-night-us-attacks-iran-lt-col-daniel-davis-2026-07-14.md) |
+| `2026-07-18` | IRAN SAYS: FULL SCALE WAR COULD ERUPT /Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-18/source-iran-says-full-scale-war-could-erupt-lt-col-daniel-davis-2026-07-18.md) |
+| `2026-07-20` | BREAKING: Houthis Close Babal Mandeb Strait | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-20/source-breaking-houthis-close-babal-mandeb-strait-2026-07-20.md) |
 
 ## June 2026 Expansion
 
@@ -120,6 +122,17 @@ Use the [../../channels/daniel-davis/README.md](../../channels/daniel-davis/READ
 ## June 2026 Route Map
 
 Routes are consolidated in the Imported Route Map above.
+
+## State Continuity
+
+- [State Ledger](state-ledger.md) - dated source-backed expressed-position trajectory.
+- State IDs are the continuity keys used by daily synthesis.
+- Source rows remain the evidence floor; state entries never replace archive links.
+- Check host/channel context before classifying a proposition as voice-native.
+
+The source index owns retrieval and source-to-voice routing. The state ledger
+owns dated proposition continuity. The profile owns interpretation and use
+guidance. None of these surfaces independently establishes factual truth.
 
 ## Import Boundary
 

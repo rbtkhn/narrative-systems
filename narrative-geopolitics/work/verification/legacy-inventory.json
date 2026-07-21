@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "policy": "New legacy-only verification packets are forbidden unless registered here explicitly.",
+  "packets": [
+    {
+      "packet_id": "VER-20260710-01-hormuz-bypass-test",
+      "path": "narrative-geopolitics/work/verification/packets/VER-20260710-01-hormuz-bypass-test",
+      "status": "compatibility-retained",
+      "retirement_condition": "Retire after every live claim and source route is represented in the Reality Verification Lattice and no active document links to this packet."
+    },
+    {
+      "packet_id": "VER-20260714-01-hormuz-corridor-tanker-deterrence",
+      "path": "narrative-geopolitics/work/verification/packets/VER-20260714-01-hormuz-corridor-tanker-deterrence",
+      "status": "compatibility-retained",
+      "retirement_condition": "Retire after every live claim and source route is represented in the Reality Verification Lattice and no active document links to this packet."
+    }
+  ]
+}

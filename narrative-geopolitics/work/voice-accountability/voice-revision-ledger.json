@@ -1,7 +1,8 @@
 {
   "ledger_id": "narrative-geopolitics-voice-revision-ledger-v1",
   "status": "internal-canonical",
-  "canonical_markdown": "voice-revision-ledger.md",
+  "canonical_source": "voice-revision-ledger.json",
+  "generated_markdown": "voice-revision-ledger.md",
   "near_misses": "voice-revision-near-misses.md",
   "scope_note": "Strict adjudicated self-revisions only; no numeric scoring and no factual adjudication of the revised claim.",
   "allowed_classes": [

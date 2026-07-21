@@ -31,6 +31,17 @@ Check every modality that applies.
 
 ## Core Frame
 
+## State Continuity
+
+Canonical state ledger after instantiation: `state-ledger.md`
+
+This ledger records the voice's documented expressed-position trajectory:
+what appears new, persistent, revised, abandoned, or unclear in the authorized
+corpus. It is not a psychological profile and does not infer change from silence.
+
+State entries remain distinct from moderator synthesis, host framing,
+operational verification, forecast outcome, and the voice's unobserved beliefs.
+
 State the operation this voice repeatedly performs on evidence—for example, `tests political objectives against force capacity`—before describing favored topics.
 
 What this voice tends to notice:
@@ -47,7 +58,7 @@ What this voice may miss or underweight:
 
 ## Recurring Claims
 
-| Claim | Pattern | Evidence / Source Links | Status |
+| Claim | Pattern | Evidence / Source Links | State IDs | Status |
 | --- | --- | --- | --- |
 |  |  |  | `active` / `revised` / `retired` |
 
@@ -59,13 +70,13 @@ What this voice may miss or underweight:
 
 ## Forecast History
 
-| Claim / Forecast | Date Made | Review Date | Outcome | Notes |
+| Claim / Forecast | State ID | Date Made | Review Date | Outcome | Notes |
 | --- | --- | --- | --- | --- |
 |  | `YYYY-MM-DD` | `YYYY-MM-DD` | `open` / `hit` / `miss` / `mixed` |  |
 
 ## Daily Run Links
 
-| Date | Run / Brief | Why This Voice Mattered |
+| Date | Run / Brief | State IDs | Why This Voice Mattered |
 | --- | --- | --- |
 | `YYYY-MM-DD` |  |  |
 

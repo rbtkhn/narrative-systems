@@ -56,6 +56,12 @@ Evidence needed before relying on this voice:
 - A modality check through the relevant voice-native lens.
 - A channel check whenever a source has a `host_slug`.
 
+## State Continuity
+
+Canonical state ledger: [state-ledger.md](state-ledger.md). It records the
+dated trajectory of expressed positions, not private beliefs, moderator
+synthesis, host framing, or verified fact.
+
 ## Parity Note
 
 This voice now has Pape-style operational shape: central archive evidence, manifest coverage, complete local routing for the imported slice, two retrieval lenses, and channel-aware pressure separation.

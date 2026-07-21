@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `marandi` to the ce
 
 Source basis: `strategy-codex/statecraft/voices/marandi/marandi-index.md`.
 
-Corpus: 58 local route rows across 58 central archive source files.
+Corpus: 60 local route rows across 60 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -82,6 +82,8 @@ Status: `first-slice-parity`
 | `2026-07-13` | BREAKING: TRUMP BLOCKS HORMUZ AGAIN /Prof Seyed Marandi Live from Tehran | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-07-13/source-breaking-trump-blocks-hormuz-again-prof-seyed-marandi-live-from-tehran-2026-07-13.md) |
 | `2026-07-14` | Seyed M. Marandi: Iran Launches 30+ Missiles and Drones at Bahrain as Explosions Rock the Gulf | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-14/source-seyed-m-marandi-iran-launches-30-missiles-and-drones-at-bahrain-as-explosions-rock-the-gulf-2026-07-14.md) |
 | `2026-07-16` | Seyed M. Marandi: Plans for a U.S. Land Invasion of Iran; Yemen & Iran Enters the War? | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-16/source-seyed-m-marandi-plans-for-a-u-s-land-invasion-of-iran-yemen-iran-enters-the-war-2026-07-16.md) |
+| `2026-07-18` | BREAKING: IRAN THREATENS TO BOMB DUBAI AIRPORT - w/ Prof. Seyed Marandi | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-07-18/source-breaking-iran-threatens-to-bomb-dubai-airport-w-prof-seyed-marandi-2026-07-18.md) |
+| `2026-07-19` | PROFESSOR MARANDI: GROUND INVASION COMING, 16 U.S SOLDIERS DEAD, F-15 FIGHTER JETS DESTROYED | `host-pressure test` | `moral-resistance` | [source](../../archive/sources/2026-07-19/source-professor-marandi-ground-invasion-coming-16-u-s-soldiers-dead-f-15-fighter-jets-destroyed-2026-07-19.md) |
 
 ## Import Boundary
 

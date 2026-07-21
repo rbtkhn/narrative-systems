@@ -4,7 +4,7 @@ This index routes the unified local Parsi corpus for `parsi` to the central Narr
 
 Source basis: `strategy-codex/statecraft/voices/parsi/parsi-index.md` plus already-local matching archive rows.
 
-Corpus: 56 local route rows across 56 central archive source files.
+Corpus: 57 local route rows across 57 central archive source files.
 
 Status: `imported-corpus`
 
@@ -75,6 +75,7 @@ Status: `imported-corpus`
 | `2026-07-07` | How the US-Iran fight in the Strait of Hormuz can be resolved before it blows up the MOU | `authored` | `none` | [source](../../archive/sources/2026-07-07/source-how-the-us-iran-fight-in-the-strait-of-hormuz-can-be-resolved-before-it-blows-up-the-mou-2026-07-07.md) |
 | `2026-07-13` | A new U.S.-Iran war would end where the last one did | `authored` | `none` | [source](../../archive/sources/2026-07-13/source-a-new-u-s-iran-war-would-end-where-the-last-one-did-2026-07-13.md) |
 | `2026-07-16` | REUTERS: IRAN PREPARING TO CLOSE RED SEA IF TRUMP HITS POWER GRID - w/ Trita Parsi | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-07-16/source-reuters-iran-preparing-to-close-red-sea-if-trump-hits-power-grid-w-trita-parsi-2026-07-16.md) |
+| `2026-07-18` | Yesterday's US-Iran escalation is a mere prelude to what is likely to come | `authored` | `parsi` | [source](../../archive/sources/2026-07-18/source-yesterday-s-us-iran-escalation-is-a-mere-prelude-to-what-is-likely-to-come-2026-07-18.md) |
 
 ## Import Boundary
 

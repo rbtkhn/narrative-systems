@@ -4,7 +4,7 @@ This index routes the unified local Jermy corpus for `jermy` to the central Narr
 
 Source basis: `strategy-codex/statecraft/voices/jermy/jermy-index.md`.
 
-Corpus: 14 local route rows across 14 central archive source files.
+Corpus: 15 local route rows across 15 central archive source files.
 
 Status: `imported-corpus`
 
@@ -33,6 +33,7 @@ Status: `imported-corpus`
 | `2026-06-20` | Collapse Has Begun. NOW Global Recession Is Unavoidable \| Cdre. Steve Jermy | `host-pressure test` | `neutrality-studies` | [source](../../archive/sources/2026-06-20/source-neutrality-studies-collapse-global-recession-unavoidable-steve-jermy-2026-06-20.md) |
 | `2026-07-05` | Steve Jermy: Warning! NATO Can't Win a War with Russia | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-05/source-steve-jermy-warning-nato-can-t-win-a-war-with-russia-2026-07-05.md) |
 | `2026-07-09` | Navy Combat Vet: The Coming European War w/Russia Steve Jermy & Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-09/source-navy-combat-vet-the-coming-european-war-w-russia-steve-jermy-lt-col-daniel-davis-2026-07-09.md) |
+| `2026-07-20` | WAR UPDATE: Military Insider Gives Terrifying Prediction & Reveals How Unprepared America Truly Is | `host-pressure test` | `tucker-carlson` | [source](../../archive/sources/2026-07-20/source-war-update-military-insider-gives-terrifying-prediction-reveals-how-unprepared-america-truly-is-2026-07-20.md) |
 
 ## Import Boundary
 

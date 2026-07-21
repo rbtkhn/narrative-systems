@@ -4,7 +4,7 @@ This index routes the unified local Matlock corpus for `matlock` to the central 
 
 Source basis: `strategy-codex/statecraft/voices/matlock/matlock-index.md` plus already-local matching archive rows.
 
-Corpus: 5 local route rows across 5 central archive source files.
+Corpus: 6 local route rows across 6 central archive source files.
 
 Status: `imported-corpus`
 
@@ -24,8 +24,8 @@ Status: `imported-corpus`
 | `2025-09-01` | Amb. Jack Matlock: Western Leaders Became Ideological War Criminals | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-09-01/source-diesen-matlock-western-leaders-ideological-war-criminals-2025-09-01.md) |
 | `2025-12-10` | Jack Matlock: NATO Expansion, Coup & Subversion of Ukraine Started the War | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-12-10/source-diesen-matlock-nato-expansion-coup-subversion-ukraine-started-war-2025-12-10.md) |
 | `2026-04-19` | Jack Matlock: How NATO Expansionism Broke European Security | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-04-19/source-diesen-matlock-how-nato-expansionism-broke-european-security-2026-04-19.md) |
+| `2026-07-18` | Jack Matlock: The Cuban Missile Crisis & NATO's War in Ukraine | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-18/source-jack-matlock-the-cuban-missile-crisis-nato-s-war-in-ukraine-2026-07-18.md) |
 
 ## Import Boundary
 
 This import followed the strategy-codex Matlock index and copied source captures into `archive/sources/YYYY-MM-DD/` while preserving already-local matching archive rows.
-

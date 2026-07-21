@@ -51,6 +51,12 @@ Evidence needed before relying on this voice:
 - A modality check through the relevant voice-native lens.
 - A channel check whenever a source has a `host_slug`.
 
+## State Continuity
+
+Canonical state ledger: [state-ledger.md](state-ledger.md). It records the
+dated trajectory of expressed positions, not private beliefs, moderator
+synthesis, host framing, or verified fact.
+
 ## Parity Note
 
 This voice now has transcript-bearing parity with both upstream route maps: 45 substantive cross-host guest captures and 227 substantive indexed solo-channel captures. Thirteen additional local routes remain valid beyond those indexes, including eleven later solo-channel captures.

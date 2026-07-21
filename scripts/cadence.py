@@ -757,7 +757,6 @@ def run_verification() -> dict:
             "-q",
             "-p",
             "no:cacheprovider",
-            "--basetemp=.pytest_cache/cadence-dream",
         ],
     }
     results: dict[str, dict] = {}

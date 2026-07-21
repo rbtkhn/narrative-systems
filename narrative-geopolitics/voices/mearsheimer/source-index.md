@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `mearsheimer` to th
 
 Source basis: `strategy-codex/statecraft/voices/mearsheimer/mearsheimer-index.md`.
 
-Corpus: 51 local route rows across 51 central archive source files.
+Corpus: 53 local route rows across 53 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -76,6 +76,19 @@ Status: `first-slice-parity`
 | `2026-07-03` | John Mearsheimer: The End of Russian Restraint & New U.S. Grand Strategy | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-03/source-john-mearsheimer-the-end-of-russian-restraint-new-u-s-grand-strategy-2026-07-03.md) |
 | `2026-07-10` | Prof John Mearsheimer Iran Hardliners Proven Right | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-10/source-prof-john-mearsheimer-iran-hardliners-proven-right-2026-07-10.md) |
 | `2026-07-16` | John Mearsheimer: All-Out War in the Middle East & Trump's War on Russia | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-16/source-john-mearsheimer-all-out-war-in-the-middle-east-trump-s-war-on-russia-2026-07-16.md) |
+| `2026-07-20` | John Mearsheimer DIRE WARNING Of Global Economic Calamity | `host-pressure test` | `breaking-points` | [source](../../archive/sources/2026-07-20/source-john-mearsheimer-dire-warning-of-global-economic-calamity-2026-07-20.md) |
+| `2026-07-20` | Prof. John Mearsheimer: Pentagon Prepares for a Wider War as Military Build-Up Accelerates | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-20/source-prof-john-mearsheimer-pentagon-prepares-for-a-wider-war-as-military-build-up-accelerates-2026-07-20.md) |
+
+## State Continuity
+
+- [State Ledger](state-ledger.md) - dated source-backed expressed-position trajectory.
+- State IDs are the continuity keys used by daily synthesis.
+- Source rows remain the evidence floor; state entries never replace archive links.
+- Check host/channel context before classifying a proposition as voice-native.
+
+The source index owns retrieval and source-to-voice routing. The state ledger
+owns dated proposition continuity. The profile owns interpretation and use
+guidance. None of these surfaces independently establishes factual truth.
 
 ## Import Boundary
 

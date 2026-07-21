@@ -8,6 +8,18 @@ Analytical language contract: [labels as analytical interfaces](../method/analyt
 
 Density triage: use [archive-density](../method/archive-density.md) after validation and before deepening to check whether the day is thin, dense, overclaim-prone, underused, or verification-heavy. Density guides triage only; it does not promote source assertions into facts.
 
+Synthesis contract: `delta-v1`
+
+## Distinctive Contribution
+
+Compared with: `[prior date, range, dossier, or none for a genuinely new object]`
+
+New contribution: `[name the new mechanism, evidence, contradiction, or judgment change; do not restate recurring crisis context]`
+
+Disposition: `[daily-packet or archive-only]`
+
+For an intentional retrospective run, complete this section before drafting the packet. If the source batch adds no substantive delta, leave it archive-only rather than manufacturing a daily synthesis.
+
 ## Lead Judgment
 
 State what changed, why it matters, and the mechanism or asymmetry governing the change. Do not open with a summary of what sources discussed.

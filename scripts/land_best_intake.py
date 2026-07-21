@@ -1591,6 +1591,10 @@ def retrofit_source(
     force_sections: bool = False,
     sectioning: str = "auto",
 ) -> str | None:
+    try:
+        path_label = path.relative_to(REPO_ROOT).as_posix()
+    except ValueError:
+        path_label = path.as_posix()
     text = path.read_text(encoding="utf-8")
     if not text.startswith("---\n"):
         return None
@@ -1607,7 +1611,7 @@ def retrofit_source(
         return None
     split = split_source_document(text)
     if split is None:
-        return f"SKIP malformed {path.relative_to(REPO_ROOT).as_posix()}"
+        return f"SKIP malformed {path_label}"
 
     _, body_prefix, body = split
 
@@ -1653,17 +1657,17 @@ def retrofit_source(
     body_changed = section_body != body
     metadata_changed = new_frontmatter_lines != frontmatter_lines
     if not body_changed and not metadata_changed:
-        return f"UNCHANGED {path.relative_to(REPO_ROOT).as_posix()}"
+        return f"UNCHANGED {path_label}"
 
     if not dry_run:
         path.write_text(new_text, encoding="utf-8", newline="\n")
 
     if body_changed:
         return (
-            f"TRIMMED {path.relative_to(REPO_ROOT).as_posix()} "
+            f"TRIMMED {path_label} "
             f"opening={args.opening_trim_chars_saved} closing={args.closing_trim_chars_saved} sections={args.section_count}"
         )
-    return f"NORMALIZED {path.relative_to(REPO_ROOT).as_posix()}"
+    return f"NORMALIZED {path_label}"
 
 
 def backfill_sources(
@@ -1783,9 +1787,17 @@ def stage_bytes(path: Path, payload: bytes) -> Path:
     return temporary
 
 
-def publish_batch(plans: list[LandingPlan], manifest: dict) -> list[str]:
+def publish_batch(
+    plans: list[LandingPlan],
+    manifest: dict,
+    voice_updates: dict[Path, str] | None = None,
+) -> list[str]:
+    voice_updates = voice_updates or {}
     staged_sources: list[tuple[Path, Path]] = []
+    staged_indexes: list[tuple[Path, Path]] = []
+    original_indexes: dict[Path, bytes] = {}
     published_sources: list[Path] = []
+    published_indexes: list[Path] = []
     created_directories: list[Path] = []
     staged_manifest: Path | None = None
     manifest_published = False
@@ -1801,6 +1813,11 @@ def publish_batch(plans: list[LandingPlan], manifest: dict) -> list[str]:
                     plan.source_path,
                 )
             )
+        for target, rendered in sorted(voice_updates.items(), key=lambda item: str(item[0])):
+            original_indexes[target] = target.read_bytes()
+            staged_indexes.append(
+                (stage_bytes(target, rendered.encode("utf-8")), target)
+            )
         staged_manifest = stage_bytes(MANIFEST_PATH, manifest_bytes(manifest))
         for staged, target in staged_sources:
             if target.exists():
@@ -1810,15 +1827,22 @@ def publish_batch(plans: list[LandingPlan], manifest: dict) -> list[str]:
                 )
             os.replace(staged, target)
             published_sources.append(target)
+        for staged, target in staged_indexes:
+            os.replace(staged, target)
+            published_indexes.append(target)
         os.replace(staged_manifest, MANIFEST_PATH)
         manifest_published = True
     except BaseException:
         if not manifest_published:
+            for target in reversed(published_indexes):
+                target.write_bytes(original_indexes[target])
             for target in reversed(published_sources):
                 target.unlink(missing_ok=True)
         raise
     finally:
         for staged, _ in staged_sources:
+            staged.unlink(missing_ok=True)
+        for staged, _ in staged_indexes:
             staged.unlink(missing_ok=True)
         if staged_manifest is not None:
             staged_manifest.unlink(missing_ok=True)
@@ -1832,6 +1856,59 @@ def publish_batch(plans: list[LandingPlan], manifest: dict) -> list[str]:
         f"Landed source: {plan.source_path.relative_to(REPO_ROOT).as_posix()}"
         for plan in plans
     ]
+
+
+def project_voice_indexes_for_plans(
+    plans: list[LandingPlan], manifest: dict
+) -> tuple[dict[Path, str], list[str]]:
+    run_dates = sorted(
+        {
+            str(plan.manifest_row.get("date", ""))
+            for plan in plans
+            if plan.manifest_row.get("date")
+        }
+    )
+    updates: dict[Path, str] = {}
+    changed_shelves: set[str] = set()
+    added_routes: set[str] = set()
+    unindexed_voices: set[str] = set()
+    failures: list[str] = []
+    for run_date in run_dates:
+        projected, report = voice_indexes.project(
+            manifest,
+            run_date=run_date,
+            repo_root=REPO_ROOT,
+            voices_root=NG_ROOT / "voices",
+        )
+        updates.update(projected)
+        changed_shelves.update(report.get("changed_shelves", []))
+        added_routes.update(report.get("added_routes", []))
+        unindexed_voices.update(report.get("unindexed_voices", []))
+        failures.extend(report.get("failures", []))
+    repairable = (
+        "manifest route missing voice shelf:",
+        "stale voice corpus count:",
+        "duplicate voice route:",
+    )
+    planned_missing = {
+        f"missing archive source file: {plan.manifest_row['local_path']}"
+        for plan in plans
+    }
+    failures = [
+        item
+        for item in failures
+        if not item.startswith(repairable) and item not in planned_missing
+    ]
+    if failures:
+        raise ValueError("Voice index projection failed:\n" + "\n".join(sorted(set(failures))))
+    messages: list[str] = []
+    if changed_shelves:
+        messages.append(f"Voice shelves changed: {', '.join(sorted(changed_shelves))}")
+    if added_routes:
+        messages.append(f"Voice routes added: {len(added_routes)}")
+    if unindexed_voices:
+        messages.append(f"Unindexed voices: {', '.join(sorted(unindexed_voices))}")
+    return updates, messages
 
 
 def sync_voice_indexes_for_plans(plans: list[LandingPlan], manifest: dict) -> list[str]:
@@ -1948,8 +2025,11 @@ def main() -> int:
         if cli_args.dry_run:
             messages = dry_run_messages(plans)
         else:
-            messages = publish_batch(plans, proposed_manifest)
-            messages.extend(sync_voice_indexes_for_plans(plans, proposed_manifest))
+            voice_updates, voice_messages = project_voice_indexes_for_plans(
+                plans, proposed_manifest
+            )
+            messages = publish_batch(plans, proposed_manifest, voice_updates)
+            messages.extend(voice_messages)
             messages.append(f"Manifest count: {proposed_manifest['source_count']}")
         print("\n".join(messages))
         return 0

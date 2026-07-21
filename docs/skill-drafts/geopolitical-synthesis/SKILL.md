@@ -78,6 +78,11 @@ rules this way:
 - Require exact manifest coverage in the Intake Batch before synthesis.
 - Permit a documented Run Source Set subset.
 - Treat retrospective forecasts as retrospective unless timing proves otherwise.
+- For a newly created retrospective packet, require a completed
+  `Synthesis contract: delta-v1` Distinctive Contribution: comparison window,
+  new mechanism/evidence/contradiction, and disposition. If there is no
+  substantive delta, keep the intake archive-only and do not create a daily
+  packet.
 - Keep `daily-brief.md` internal until intentionally promoted.
 - Keep `issue.md` internal reader-facing; generation is not publication.
 - Declare issue membership in the synthesis `Issue Story Desk`; require matching `Issue Copy` in `daily-brief.md` and regenerate rather than hand-editing `issue.md`.

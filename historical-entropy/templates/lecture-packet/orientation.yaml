@@ -1,0 +1,28 @@
+id: he-00
+title: "[Lecture title]"
+volume: 1
+sequence: 0
+form: public-lecture
+audience: serious-public
+word_target:
+  minimum: 2000
+  maximum: 3000
+mechanism: "[bounded mechanism]"
+cases: []
+learning_outcomes: []
+paths:
+  doorway: README.md
+  manuscript: manuscript.md
+  sources: sources.md
+  commentary: commentary.md
+review:
+  status: draft
+  source_review: pending
+  value_test: pending
+public_readiness:
+  ready: false
+  reason: "Source review and value test are incomplete."
+canonical_before_recording: true
+transcript:
+  exists: false
+  departure_log: null
