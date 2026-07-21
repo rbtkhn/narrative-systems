@@ -1077,6 +1077,11 @@
       "role": "guest interview pressure test"
     },
     {
+      "voice_slug": "weichert",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-20/source-u-s-out-of-oil-yemeni-houthis-close-bab-el-mandab-ground-invasion-w-brandon-weichert-2026-07-20.md",
+      "role": "guest interview pressure test"
+    },
+    {
       "voice_slug": "wilkerson",
       "local_path": "narrative-geopolitics/archive/sources/2025-04-04/source-dialogue-works-mohammad-marandi-larry-wilkerson-and-chas-freeman-on-middle-east-erupts-iran-challenges-ultimatum-2025-04-04.md",
       "role": "cross-voice panel"
