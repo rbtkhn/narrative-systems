@@ -6,7 +6,7 @@ Status: `live-intake-first`
 
 ## Lead Judgment
 
-The day's sources converge on a shift from decisive-war rhetoric to an access-and-capacity contest: U.S. and Israeli escalation is intended to restore coercive access and force Iranian capitulation, while Iran and aligned regional actors can raise the cost through controlled escalation, Gulf-base pressure, and maritime chokepoints. The asymmetry is that striking can widen the battlefield faster than it restores political or logistical control. The Ukraine material adds a parallel warning: several voices see Western ammunition, air-defense, and coalition cohesion as the limiting variables rather than headline battlefield intention.
+The day's sources converge on a shift from decisive-war rhetoric to an access-and-capacity contest: U.S. and Israeli escalation is intended to restore coercive access and force Iranian capitulation, while Iran and aligned regional actors can raise the cost through controlled escalation, Gulf-base pressure, and maritime chokepoints. The Weichert interview sharpens the sequence claim: a reported Bab el-Mandeb closure would make Saudi transit and U.S. access a political test, but its operational details remain unverified source assertions. The asymmetry is that striking can widen the battlefield faster than it restores political or logistical control. The Ukraine material adds a parallel warning: several voices see Western ammunition, air-defense, and coalition cohesion as the limiting variables rather than headline battlefield intention.
 
 ## Crisis Object
 
@@ -18,6 +18,7 @@ Can the U.S.-led coalition restore secure regional access and compel Iranian de-
 | --- | --- | --- | --- |
 | Mearsheimer | structural pressure test | links escalation to energy shock, alliance incentives, and lack of a clean U.S. exit | macro forecast may outrun observable evidence |
 | Davis | practical-force test | tests what maritime and air power can recover after escalation | breaking developments remain source assertions |
+| Weichert | escalation-sequence / capacity pressure test | connects reported Red Sea pressure to Saudi access, U.S. logistics, and escalation ladders | interview claims about oil, submarines, proxies, and nuclear options require verification |
 | Crooke | sequence and diplomacy | frames escalation as narrowing room for a negotiated settlement | interpretive compression |
 | Baud | mechanism test | emphasizes controlled escalation and military asymmetry | technical claims require verification |
 | Mercouris / Jermy / Ritter | comparative capacity lens | connects Iran crisis dynamics to Ukraine, ammunition, and coalition strain | different theaters may not be directly commensurable |
@@ -32,6 +33,7 @@ Can the U.S.-led coalition restore secure regional access and compel Iranian de-
 | Red line | Crooke / Escobar | How do regional actors define acceptable settlement? | siege-for-siege logic raises the cost of concession |
 | Order transition | Blumenthal | Does the war harden regional anti-U.S. alignment? | suggests longer political afterlife |
 | Practical room | Davis / Barnes | What can force still do, and what can it no longer recover? | decisive restoration is less likely than disruption |
+| Access sequence | Weichert | Does pressure on Saudi transit convert a military disruption into a basing and political decision? | strengthens the access-crisis mechanism while leaving event status provisional |
 
 ## Actor Map
 
@@ -76,8 +78,8 @@ The strongest bounded judgment is that escalation is more likely to redistribute
 
 | Story ID | Placement | Argument headline | Crisis object | Evidence posture | Source IDs | Voices | Forecast hooks | Operational claims | Selection rationale |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `NGI-20260720-S01` | `lead` | Escalation is becoming an access crisis | coalition access versus regional denial | `bounded-analysis` | `SRC-01,SRC-02,SRC-04,SRC-05,SRC-06,SRC-09` | Crooke, Davis, Baud, Barnes, Mearsheimer | `NG-20260720-F01` | `none` | best cross-source mechanism |
-| `NGI-20260720-S02` | `brief` | Two chokepoints turn pressure into economic exposure | maritime denial and energy risk | `source-assertion` | `SRC-02,SRC-03,SRC-06,SRC-09` | Davis, Escobar, Mearsheimer | `NG-20260720-F01` | `none` | concrete regional consequence, not promoted as fact |
+| `NGI-20260720-S01` | `lead` | Escalation is becoming an access crisis | coalition access versus regional denial | `bounded-analysis` | `SRC-01,SRC-02,SRC-04,SRC-05,SRC-06,SRC-09,SRC-13` | Crooke, Davis, Weichert, Baud, Barnes, Mearsheimer | `NG-20260720-F01` | `none` | best cross-source mechanism |
+| `NGI-20260720-S02` | `brief` | Two chokepoints turn pressure into economic exposure | maritime denial and energy risk | `source-assertion` | `SRC-02,SRC-03,SRC-06,SRC-09,SRC-13` | Davis, Escobar, Weichert, Mearsheimer | `NG-20260720-F01` | `none` | concrete regional consequence, not promoted as fact |
 | `NGI-20260720-S03` | `brief` | The parallel capacity warning from Ukraine | Western capacity and coalition cohesion | `bounded-analysis` | `SRC-07,SRC-10,SRC-11,SRC-12` | Johnson, Mercouris, Ritter, Jermy | `NG-20260720-F02` | `none` | orthogonal pressure test |
 
 ## Forecast Candidates

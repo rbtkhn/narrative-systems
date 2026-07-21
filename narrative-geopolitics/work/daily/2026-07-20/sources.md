@@ -29,6 +29,7 @@ This run is grounded in the `2026-07-20` day batch already landed in the central
 | `archive/sources/2026-07-20/source-russia-cuts-off-odessa-zelensky-discusses-syrsky-sacking-eu-states-split-on-sanctions-russia-talks-2026-07-20.md` | cleaned-transcript | `imported` | `yes` | Mercouris | Alexander Mercouris | solo analyst briefing; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-07-20/source-scott-ritter-graham-s-legacy-zelenskyy-s-blunder-trump-s-stupidity-2026-07-20.md` | cleaned-transcript | `imported` | `yes` | Ritter | Judging Freedom | guest interview pressure test; review and narrow to owning crisis object before synthesis. |
 | `archive/sources/2026-07-20/source-war-update-military-insider-gives-terrifying-prediction-reveals-how-unprepared-america-truly-is-2026-07-20.md` | cleaned-transcript | `imported` | `yes` | Jermy | Tucker Carlson | guest interview pressure test; review and narrow to owning crisis object before synthesis. |
+| `archive/sources/2026-07-20/source-u-s-out-of-oil-yemeni-houthis-close-bab-el-mandab-ground-invasion-w-brandon-weichert-2026-07-20.md` | cleaned-transcript | `imported` | `yes` | Weichert | Moral Resistance | guest interview pressure test; review and narrow to owning crisis object before synthesis. |
 
 ## Run Source Set
 
@@ -46,6 +47,7 @@ This run is grounded in the `2026-07-20` day batch already landed in the central
 | `SRC-10` | Mercouris | Alexander Mercouris | cleaned-transcript | [2026-07-20 Mercouris](../../../archive/sources/2026-07-20/source-russia-cuts-off-odessa-zelensky-discusses-syrsky-sacking-eu-states-split-on-sanctions-russia-talks-2026-07-20.md) | Russia Cuts Off Odessa; Zelensky Discusses Syrsky Sacking; EU States Split On Sanctions Russia Talks |
 | `SRC-11` | Ritter | Judging Freedom | cleaned-transcript | [2026-07-20 Ritter](../../../archive/sources/2026-07-20/source-scott-ritter-graham-s-legacy-zelenskyy-s-blunder-trump-s-stupidity-2026-07-20.md) | SCOTT RITTER: Graham's Legacy; Zelenskyy's Blunder; Trump's Stupidity |
 | `SRC-12` | Jermy | Tucker Carlson | cleaned-transcript | [2026-07-20 Jermy](../../../archive/sources/2026-07-20/source-war-update-military-insider-gives-terrifying-prediction-reveals-how-unprepared-america-truly-is-2026-07-20.md) | WAR UPDATE: Military Insider Gives Terrifying Prediction & Reveals How Unprepared America Truly Is |
+| `SRC-13` | Weichert | Moral Resistance | cleaned-transcript | [2026-07-20 Weichert](../../../archive/sources/2026-07-20/source-u-s-out-of-oil-yemeni-houthis-close-bab-el-mandab-ground-invasion-w-brandon-weichert-2026-07-20.md) | U.S Out of Oil, Yemeni Houthis Close Bab el Mandab, Ground Invasion? |
 
 ## Load-Bearing Quotes
 
@@ -82,6 +84,7 @@ Use short direct quotes only when wording matters. Keep quotes brief and tie eac
 | `CLM-10` | `SRC-10` |  | Mercouris via Alexander Mercouris | `candidate` |
 | `CLM-11` | `SRC-11` |  | Ritter via Judging Freedom | `candidate` |
 | `CLM-12` | `SRC-12` |  | Jermy via Tucker Carlson | `candidate` |
+| `CLM-13` | `SRC-13` |  | Weichert via Moral Resistance | `candidate` |
 
 ## Source Hygiene
 

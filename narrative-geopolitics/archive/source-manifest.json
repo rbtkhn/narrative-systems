@@ -2,7 +2,7 @@
   "manifest_id": "narrative-geopolitics-source-manifest-v1",
   "source_basis": "central archive with completed historical strategy-codex imports",
   "imported_at": "2026-07-09",
-  "source_count": 1607,
+  "source_count": 1608,
   "boundary": {
     "archive": "source truth",
     "voices": "voice continuity and routing",
@@ -22574,6 +22574,26 @@
         "barnes"
       ],
       "host_slug": "daniel-davis",
+      "inference_basis": [
+        "title-cue",
+        "wrapper-normalized",
+        "explicit-host",
+        "intake-assigned-today"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "U.S OUT OF OIL, YEMENI HOUTHIS CLOSE BAB EL MANDAB, GROUND INVASION? w/ BRANDON WEICHERT",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-20/source-u-s-out-of-oil-yemeni-houthis-close-bab-el-mandab-ground-invasion-w-brandon-weichert-2026-07-20.md",
+      "voice_index_path": "../../archive/sources/2026-07-20/source-u-s-out-of-oil-yemeni-houthis-close-bab-el-mandab-ground-invasion-w-brandon-weichert-2026-07-20.md",
+      "upstream_path": "operator-paste://2026-07-20/u-s-out-of-oil-yemeni-houthis-close-bab-el-mandab-ground-invasion-w-brandon-weichert",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "weichert"
+      ],
+      "host_slug": "moral-resistance",
       "inference_basis": [
         "title-cue",
         "wrapper-normalized",
