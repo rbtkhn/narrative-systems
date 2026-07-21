@@ -1,38 +1,89 @@
-# Voice Orthogonality Audit
+# Daily Voice Orthogonality Audit
 
-- **as_of:** 2026-07-20
-## Voices
+## Decision Summary
 
-- voice=pape | axis=mechanism / falsifier | scores={'native_axis_clarity': 3, 'claim_family_distinctness': 2, 'mechanism_diversity': 2, 'time_horizon_coverage': 2, 'actor_perspective_coverage': 2, 'evidence_modality_diversity': 2, 'falsifiability': 1, 'revision_transparency': 2, 'blind_spot_complementarity': 2, 'crisis_portability': 1, 'decision_usefulness': 2, 'source_sufficiency': 1} | basis=[{'state_ids': ['STATE-PAPE-0001'], 'profile_reference': 'mechanism / falsifier', 'note': 'What coercive mechanism is unfolding, and what would falsify it?'}] | confidence=supported | state_count=1
-- voice=mercouris | axis=room / sequence / legitimacy | scores={'native_axis_clarity': 3, 'claim_family_distinctness': 2, 'mechanism_diversity': 2, 'time_horizon_coverage': 2, 'actor_perspective_coverage': 2, 'evidence_modality_diversity': 2, 'falsifiability': 2, 'revision_transparency': 2, 'blind_spot_complementarity': 2, 'crisis_portability': 1, 'decision_usefulness': 2, 'source_sufficiency': 1} | basis=[{'state_ids': ['STATE-MERCOURIS-0001'], 'profile_reference': 'room / sequence / legitimacy', 'note': 'What room do actors have, and how is the institutional story moving?'}] | confidence=supported | state_count=1
-- voice=mearsheimer | axis=structure / security dilemma | scores={'native_axis_clarity': 3, 'claim_family_distinctness': 2, 'mechanism_diversity': 2, 'time_horizon_coverage': 2, 'actor_perspective_coverage': 2, 'evidence_modality_diversity': 2, 'falsifiability': 2, 'revision_transparency': 2, 'blind_spot_complementarity': 2, 'crisis_portability': 1, 'decision_usefulness': 2, 'source_sufficiency': 1} | basis=[{'state_ids': ['STATE-MEARSHEIMER-0001'], 'profile_reference': 'structure / security dilemma', 'note': 'What structural incentives make this crisis likely?'}] | confidence=supported | state_count=1
-- voice=marandi | axis=regional red line / legitimacy | scores={'native_axis_clarity': 3, 'claim_family_distinctness': 2, 'mechanism_diversity': 2, 'time_horizon_coverage': 2, 'actor_perspective_coverage': 2, 'evidence_modality_diversity': 2, 'falsifiability': 1, 'revision_transparency': 2, 'blind_spot_complementarity': 2, 'crisis_portability': 1, 'decision_usefulness': 2, 'source_sufficiency': 1} | basis=[{'state_ids': ['STATE-MARANDI-0001'], 'profile_reference': 'regional red line / legitimacy', 'note': 'How do regional actors define acceptable settlement?'}] | confidence=supported | state_count=1
-- voice=diesen | axis=multipolar order / host-convener | scores={'native_axis_clarity': 3, 'claim_family_distinctness': 2, 'mechanism_diversity': 2, 'time_horizon_coverage': 2, 'actor_perspective_coverage': 2, 'evidence_modality_diversity': 2, 'falsifiability': 1, 'revision_transparency': 2, 'blind_spot_complementarity': 2, 'crisis_portability': 1, 'decision_usefulness': 2, 'source_sufficiency': 1} | basis=[{'state_ids': ['STATE-DIESEN-0001'], 'profile_reference': 'multipolar order / host-convener', 'note': 'How does the crisis reveal order transition?'}] | confidence=supported | state_count=1
-- voice=davis | axis=practical room / military feasibility | scores={'native_axis_clarity': 3, 'claim_family_distinctness': 2, 'mechanism_diversity': 2, 'time_horizon_coverage': 2, 'actor_perspective_coverage': 2, 'evidence_modality_diversity': 2, 'falsifiability': 2, 'revision_transparency': 2, 'blind_spot_complementarity': 2, 'crisis_portability': 1, 'decision_usefulness': 2, 'source_sufficiency': 1} | basis=[{'state_ids': ['STATE-DAVIS-0001'], 'profile_reference': 'practical room / military feasibility', 'note': 'What can force still do, and what can coercion no longer recover?'}] | confidence=supported | state_count=1
-## Pairs
+- Sources: 13; distinct voices: 12; mapped: 12; unmapped: 0
+- Strongest convergence: davis and weichert converge on houthis, mandab, test; classification: convergent with distinct mechanisms.
+- Highest collapse risk: escobar × weichert
+- Top counter-pressure gap: No vessel-level or official-maritime counter-pressure is represented in the daily source ledger; maritime threat convergence must not be treated as closure evidence.
+- Recommended test: Compare the dominant maritime convergence against vessel-level AIS or official maritime observations before promoting any operational proposition.
 
-- voices=['pape', 'mercouris'] | scores={'axis_separation': 3, 'mechanism_separation': 3, 'evidence_independence': 3, 'host_independence': 3, 'actor_perspective_separation': 2, 'time_horizon_separation': 2, 'conclusion_overlap': 0, 'proposition_redundancy': 0, 'marginal_correction_value': 3, 'synthesis_marginal_value': 2, 'blind_spot_complementarity': 2, 'collapse_risk': 1} | classification=low overlap, high correction value | shared_terms=[] | shared_hosts=[] | basis=[{'profile_reference': 'mechanism / falsifier vs room / sequence / legitimacy', 'state_ids': ['STATE-PAPE-0001', 'STATE-MERCOURIS-0001'], 'note': 'Automated candidate; human review required.'}]
-- voices=['pape', 'mearsheimer'] | scores={'axis_separation': 3, 'mechanism_separation': 3, 'evidence_independence': 3, 'host_independence': 3, 'actor_perspective_separation': 2, 'time_horizon_separation': 2, 'conclusion_overlap': 2, 'proposition_redundancy': 2, 'marginal_correction_value': 3, 'synthesis_marginal_value': 2, 'blind_spot_complementarity': 2, 'collapse_risk': 1} | classification=low overlap, high correction value | shared_terms=['escalation', 'produce'] | shared_hosts=[] | basis=[{'profile_reference': 'mechanism / falsifier vs structure / security dilemma', 'state_ids': ['STATE-PAPE-0001', 'STATE-MEARSHEIMER-0001'], 'note': 'Automated candidate; human review required.'}]
-- voices=['pape', 'marandi'] | scores={'axis_separation': 3, 'mechanism_separation': 3, 'evidence_independence': 3, 'host_independence': 3, 'actor_perspective_separation': 2, 'time_horizon_separation': 2, 'conclusion_overlap': 1, 'proposition_redundancy': 1, 'marginal_correction_value': 3, 'synthesis_marginal_value': 2, 'blind_spot_complementarity': 2, 'collapse_risk': 1} | classification=low overlap, high correction value | shared_terms=['pressure'] | shared_hosts=[] | basis=[{'profile_reference': 'mechanism / falsifier vs regional red line / legitimacy', 'state_ids': ['STATE-PAPE-0001', 'STATE-MARANDI-0001'], 'note': 'Automated candidate; human review required.'}]
-- voices=['pape', 'diesen'] | scores={'axis_separation': 3, 'mechanism_separation': 3, 'evidence_independence': 3, 'host_independence': 3, 'actor_perspective_separation': 2, 'time_horizon_separation': 2, 'conclusion_overlap': 1, 'proposition_redundancy': 1, 'marginal_correction_value': 3, 'synthesis_marginal_value': 2, 'blind_spot_complementarity': 2, 'collapse_risk': 1} | classification=low overlap, high correction value | shared_terms=['pressure'] | shared_hosts=[] | basis=[{'profile_reference': 'mechanism / falsifier vs multipolar order / host-convener', 'state_ids': ['STATE-PAPE-0001', 'STATE-DIESEN-0001'], 'note': 'Automated candidate; human review required.'}]
-- voices=['pape', 'davis'] | scores={'axis_separation': 3, 'mechanism_separation': 3, 'evidence_independence': 3, 'host_independence': 3, 'actor_perspective_separation': 2, 'time_horizon_separation': 2, 'conclusion_overlap': 1, 'proposition_redundancy': 1, 'marginal_correction_value': 3, 'synthesis_marginal_value': 2, 'blind_spot_complementarity': 2, 'collapse_risk': 1} | classification=low overlap, high correction value | shared_terms=['escalation'] | shared_hosts=[] | basis=[{'profile_reference': 'mechanism / falsifier vs practical room / military feasibility', 'state_ids': ['STATE-PAPE-0001', 'STATE-DAVIS-0001'], 'note': 'Automated candidate; human review required.'}]
-- voices=['mercouris', 'mearsheimer'] | scores={'axis_separation': 3, 'mechanism_separation': 3, 'evidence_independence': 1, 'host_independence': 1, 'actor_perspective_separation': 2, 'time_horizon_separation': 2, 'conclusion_overlap': 0, 'proposition_redundancy': 0, 'marginal_correction_value': 3, 'synthesis_marginal_value': 2, 'blind_spot_complementarity': 2, 'collapse_risk': 1} | classification=low overlap, high correction value | shared_terms=[] | shared_hosts=['glenn-diesen'] | basis=[{'profile_reference': 'room / sequence / legitimacy vs structure / security dilemma', 'state_ids': ['STATE-MERCOURIS-0001', 'STATE-MEARSHEIMER-0001'], 'note': 'Automated candidate; human review required.'}]
-- voices=['mercouris', 'marandi'] | scores={'axis_separation': 3, 'mechanism_separation': 3, 'evidence_independence': 3, 'host_independence': 3, 'actor_perspective_separation': 2, 'time_horizon_separation': 2, 'conclusion_overlap': 0, 'proposition_redundancy': 0, 'marginal_correction_value': 3, 'synthesis_marginal_value': 2, 'blind_spot_complementarity': 2, 'collapse_risk': 1} | classification=low overlap, high correction value | shared_terms=[] | shared_hosts=[] | basis=[{'profile_reference': 'room / sequence / legitimacy vs regional red line / legitimacy', 'state_ids': ['STATE-MERCOURIS-0001', 'STATE-MARANDI-0001'], 'note': 'Automated candidate; human review required.'}]
-- voices=['mercouris', 'diesen'] | scores={'axis_separation': 3, 'mechanism_separation': 3, 'evidence_independence': 3, 'host_independence': 3, 'actor_perspective_separation': 2, 'time_horizon_separation': 2, 'conclusion_overlap': 0, 'proposition_redundancy': 0, 'marginal_correction_value': 3, 'synthesis_marginal_value': 2, 'blind_spot_complementarity': 2, 'collapse_risk': 1} | classification=low overlap, high correction value | shared_terms=[] | shared_hosts=[] | basis=[{'profile_reference': 'room / sequence / legitimacy vs multipolar order / host-convener', 'state_ids': ['STATE-MERCOURIS-0001', 'STATE-DIESEN-0001'], 'note': 'Automated candidate; human review required.'}]
-- voices=['mercouris', 'davis'] | scores={'axis_separation': 3, 'mechanism_separation': 3, 'evidence_independence': 3, 'host_independence': 3, 'actor_perspective_separation': 2, 'time_horizon_separation': 2, 'conclusion_overlap': 0, 'proposition_redundancy': 0, 'marginal_correction_value': 3, 'synthesis_marginal_value': 2, 'blind_spot_complementarity': 2, 'collapse_risk': 1} | classification=low overlap, high correction value | shared_terms=[] | shared_hosts=[] | basis=[{'profile_reference': 'room / sequence / legitimacy vs practical room / military feasibility', 'state_ids': ['STATE-MERCOURIS-0001', 'STATE-DAVIS-0001'], 'note': 'Automated candidate; human review required.'}]
-- voices=['mearsheimer', 'marandi'] | scores={'axis_separation': 3, 'mechanism_separation': 3, 'evidence_independence': 3, 'host_independence': 3, 'actor_perspective_separation': 2, 'time_horizon_separation': 2, 'conclusion_overlap': 0, 'proposition_redundancy': 0, 'marginal_correction_value': 3, 'synthesis_marginal_value': 2, 'blind_spot_complementarity': 2, 'collapse_risk': 1} | classification=low overlap, high correction value | shared_terms=[] | shared_hosts=[] | basis=[{'profile_reference': 'structure / security dilemma vs regional red line / legitimacy', 'state_ids': ['STATE-MEARSHEIMER-0001', 'STATE-MARANDI-0001'], 'note': 'Automated candidate; human review required.'}]
-- voices=['mearsheimer', 'diesen'] | scores={'axis_separation': 3, 'mechanism_separation': 3, 'evidence_independence': 3, 'host_independence': 3, 'actor_perspective_separation': 2, 'time_horizon_separation': 2, 'conclusion_overlap': 1, 'proposition_redundancy': 1, 'marginal_correction_value': 3, 'synthesis_marginal_value': 2, 'blind_spot_complementarity': 2, 'collapse_risk': 1} | classification=low overlap, high correction value | shared_terms=['wider'] | shared_hosts=[] | basis=[{'profile_reference': 'structure / security dilemma vs multipolar order / host-convener', 'state_ids': ['STATE-MEARSHEIMER-0001', 'STATE-DIESEN-0001'], 'note': 'Automated candidate; human review required.'}]
-- voices=['mearsheimer', 'davis'] | scores={'axis_separation': 3, 'mechanism_separation': 3, 'evidence_independence': 1, 'host_independence': 1, 'actor_perspective_separation': 2, 'time_horizon_separation': 2, 'conclusion_overlap': 1, 'proposition_redundancy': 1, 'marginal_correction_value': 3, 'synthesis_marginal_value': 2, 'blind_spot_complementarity': 2, 'collapse_risk': 1} | classification=low overlap, high correction value | shared_terms=['escalation'] | shared_hosts=['daniel-davis'] | basis=[{'profile_reference': 'structure / security dilemma vs practical room / military feasibility', 'state_ids': ['STATE-MEARSHEIMER-0001', 'STATE-DAVIS-0001'], 'note': 'Automated candidate; human review required.'}]
-- voices=['marandi', 'diesen'] | scores={'axis_separation': 3, 'mechanism_separation': 3, 'evidence_independence': 3, 'host_independence': 3, 'actor_perspective_separation': 2, 'time_horizon_separation': 2, 'conclusion_overlap': 3, 'proposition_redundancy': 3, 'marginal_correction_value': 3, 'synthesis_marginal_value': 2, 'blind_spot_complementarity': 2, 'collapse_risk': 3} | classification=high overlap, high correction value | shared_terms=['legitimacy', 'pressure', 'regional'] | shared_hosts=[] | basis=[{'profile_reference': 'regional red line / legitimacy vs multipolar order / host-convener', 'state_ids': ['STATE-MARANDI-0001', 'STATE-DIESEN-0001'], 'note': 'Automated candidate; human review required.'}]
-- voices=['marandi', 'davis'] | scores={'axis_separation': 3, 'mechanism_separation': 3, 'evidence_independence': 3, 'host_independence': 3, 'actor_perspective_separation': 2, 'time_horizon_separation': 2, 'conclusion_overlap': 1, 'proposition_redundancy': 1, 'marginal_correction_value': 3, 'synthesis_marginal_value': 2, 'blind_spot_complementarity': 2, 'collapse_risk': 1} | classification=low overlap, high correction value | shared_terms=['regional'] | shared_hosts=[] | basis=[{'profile_reference': 'regional red line / legitimacy vs practical room / military feasibility', 'state_ids': ['STATE-MARANDI-0001', 'STATE-DAVIS-0001'], 'note': 'Automated candidate; human review required.'}]
-- voices=['diesen', 'davis'] | scores={'axis_separation': 3, 'mechanism_separation': 3, 'evidence_independence': 3, 'host_independence': 3, 'actor_perspective_separation': 2, 'time_horizon_separation': 2, 'conclusion_overlap': 1, 'proposition_redundancy': 1, 'marginal_correction_value': 3, 'synthesis_marginal_value': 2, 'blind_spot_complementarity': 2, 'collapse_risk': 1} | classification=low overlap, high correction value | shared_terms=['regional'] | shared_hosts=[] | basis=[{'profile_reference': 'multipolar order / host-convener vs practical room / military feasibility', 'state_ids': ['STATE-DIESEN-0001', 'STATE-DAVIS-0001'], 'note': 'Automated candidate; human review required.'}]
-- **coverage:** {'core_voices': ['pape', 'mercouris', 'mearsheimer', 'marandi', 'diesen', 'davis'], 'ledger_coverage': 6}
-## Blind Spots
+## Audit Metadata
 
-## Recommendations
+- **Date:** `2026-07-20`
+- **Generated:** `2026-07-21T18:01:24.633167+00:00`
+- **Content hash:** `855c59d3adfffb22`
+- **Sources:** 13
+- **Voices:** 12 (12 mapped, 0 unmapped)
+
+> Same conclusion plus different mechanism can be orthogonal; same conclusion plus shared lineage is not independent corroboration.
+
+## Voice Identity and Daily Contribution
+
+| Voice | Canonical axis | Daily contribution | Risk | Sources | Hosts | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| `barnes` | legal-strategic / force feasibility | Daily source set centers on Iran War Escalation w/Robert Barnes. | Compressing legal, strategic, and operational claims into one frame. | SRC-05 | daniel-davis | distinct contribution |
+| `baud` | mechanism / military asymmetry | mechanism test: emphasizes controlled escalation and military asymmetry | Technical claims require independent verification. | SRC-04 | dialogue-works | distinct contribution |
+| `blumenthal` | ideology / political afterlife | Daily source set centers on Max Blumenthal: How the US Suppresses Truth in the Iran War. | Narrative framing may outrun observable alignment change. | SRC-08 | judging-freedom | distinct contribution |
+| `crooke` | diplomatic room / sequence | sequence and diplomacy: frames escalation as narrowing room for a negotiated settlement | Interpretive compression of complex diplomacy. | SRC-01 | judging-freedom | distinct contribution |
+| `davis` | practical room / military feasibility | practical-force test: tests what maritime and air power can recover after escalation | Over-practical skepticism or underweighting structure and legitimacy. | SRC-02 | daniel-davis | distinct contribution |
+| `escobar` | regional legitimacy / siege-for-siege | Daily source set centers on BREAKING: Yemeni Ansarallah Close the Bab al Mandab, U.S. Nuclear Strikes Escalation. | Attributed legitimacy claims can be mistaken for operational fact. | SRC-03 | moral-resistance | distinct contribution |
+| `jermy` | comparative capacity / readiness | Daily source set centers on WAR UPDATE: Military Insider Gives Terrifying Prediction & Reveals How Unprepared America Truly Is. | Theater transfer may be analytically invalid. | SRC-12 | tucker-carlson | distinct contribution |
+| `johnson` | material capacity / sustainability | Daily source set centers on Larry Johnson: US Running Out of Ammo. | Unverified stockpile and depletion claims. | SRC-07 | judging-freedom | distinct contribution |
+| `mearsheimer` | structure / security dilemma | structural pressure test: links escalation to energy shock, alliance incentives, and lack of a clean U.S. exit | Over-structuring and underweighting agency or local dynamics. | SRC-06,SRC-09 | breaking-points, dialogue-works | distinct contribution |
+| `mercouris` | room / sequence / legitimacy | Daily source set centers on Russia Cuts Off Odessa; Zelensky Discusses Syrsky Sacking; EU States Split On Sanctions Russia Talks. | Narrative over-coherence or source-frame smoothing. | SRC-10 | alexander-mercouris | distinct contribution |
+| `ritter` | historical precedent / strategic judgment | Daily source set centers on SCOTT RITTER: Graham's Legacy; Zelenskyy's Blunder; Trump's Stupidity. | Historical analogy may be overextended. | SRC-11 | judging-freedom | distinct contribution |
+| `weichert` | access sequence / capacity pressure | escalation-sequence / capacity pressure test: connects reported Red Sea pressure to Saudi access, U.S. logistics, and escalation ladders | Interview claims about oil, submarines, proxies, and nuclear options require verification. | SRC-13 | moral-resistance | distinct contribution |
+
+## Analytical Axis Coverage
+
+- `legal-strategic / force feasibility`: barnes
+- `mechanism / military asymmetry`: baud
+- `ideology / political afterlife`: blumenthal
+- `diplomatic room / sequence`: crooke
+- `practical room / military feasibility`: davis
+- `regional legitimacy / siege-for-siege`: escobar
+- `comparative capacity / readiness`: jermy
+- `material capacity / sustainability`: johnson
+- `structure / security dilemma`: mearsheimer
+- `room / sequence / legitimacy`: mercouris
+- `historical precedent / strategic judgment`: ritter
+- `access sequence / capacity pressure`: weichert
+
+## Convergence Clusters
+
+- davis and weichert converge on houthis, mandab, test; classification: convergent with distinct mechanisms.
+- escobar and weichert converge on mandab, yemeni; classification: high collapse risk.
+
+## Independence and Lineage Limits
+
+- Repeated appearances were collapsed to one voice identity but retain source multiplicity: mearsheimer.
+- Shared hosts limit evidentiary independence for: escobar × weichert.
+
+## Pairwise Collapse-Risk Candidates
+
+| Voices | Classification | Shared objects | Shared terms | Shared hosts | Reason |
+| --- | --- | --- | --- | --- | --- |
+| davis × escobar | convergent with distinct mechanisms | mandab | mandab | none | shared named crisis object/mechanism and distinct voice roles |
+| davis × weichert | convergent with distinct mechanisms | houthis, mandab | houthis, mandab, test | none | shared named crisis object/mechanism and distinct voice roles |
+| escobar × weichert | high collapse risk | mandab, yemeni | mandab, yemeni | moral-resistance | shared named crisis object/mechanism and distinct voice roles |
+
+## Prioritized Human-Review Queue
+
+1. **P1** — escobar × weichert: shared named object with shared host/lineage Action: recover independent lineage or confirm distinct mechanisms
+
+## Missing Counter-Pressure
+
+- No vessel-level or official-maritime counter-pressure is represented in the daily source ledger; maritime threat convergence must not be treated as closure evidence.
+- No independently verified basing, casualty, strike-effect, or infrastructure observations are represented; keep those reports source-attributed.
+- No independently verified force-posture or diplomatic-threshold observation is represented for the Russia/NATO secondary theater.
+
+## Recommended Orthogonal Test
+
+Compare the dominant maritime convergence against vessel-level AIS or official maritime observations before promoting any operational proposition.
 
 ## Limitations
 
-- Automated overlap is candidate evidence, not semantic adjudication.
-- Missing ledgers reduce confidence rather than proving low orthogonality.
-- Scores describe analytical roles, not private beliefs.
+- This is advisory generated state, not archive evidence or independent corroboration.
+- Daily descriptors are provisional specializations of the canonical voice map.
+- Automated overlap is a candidate for human review, not semantic adjudication.

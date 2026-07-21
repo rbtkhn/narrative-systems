@@ -1,10 +1,13 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import re
+import sys
 from collections import Counter, defaultdict
-from datetime import date
+from datetime import date, timedelta
+from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -12,6 +15,7 @@ NG = ROOT / "narrative-geopolitics"
 VOICES = NG / "voices"
 MANIFEST = NG / "archive" / "source-manifest.json"
 DAILY = NG / "work" / "daily"
+DESCRIPTOR_PATH = VOICES / "comparisons" / "voice-descriptors.json"
 STATES = {"new", "persistent", "revised", "abandoned", "unclear"}
 EXPRESSION = {"explicit", "close-paraphrase", "inference", "unknown"}
 CORE_VOICES = ["pape", "mercouris", "mearsheimer", "marandi", "diesen", "davis"]
@@ -23,6 +27,20 @@ AXES = {
     "diesen": ("multipolar order / host-convener", "How does the crisis reveal order transition?"),
     "davis": ("practical room / military feasibility", "What can force still do, and what can coercion no longer recover?"),
 }
+def descriptor_registry():
+    if not DESCRIPTOR_PATH.exists():
+        return {}
+    registry = json.loads(DESCRIPTOR_PATH.read_text(encoding="utf-8")).get("voices", {})
+    required = {"axis", "native_question", "identity_line", "primary_risk", "do_not_collapse", "status"}
+    invalid = [voice for voice, profile in registry.items() if not required.issubset(profile)]
+    if invalid:
+        raise ValueError("descriptor registry missing required fields for: " + ", ".join(sorted(invalid)))
+    return registry
+
+
+VOICE_PROFILES = descriptor_registry()
+GENERIC_TERMS = {"iran", "war", "breaking", "close", "update", "strike", "strikes", "escalation", "source", "today", "reported"}
+CRISIS_OBJECT_TERMS = {"bab", "mandab", "mandeb", "red", "sea", "maritime", "shipping", "access", "capacity", "base", "basing", "bases", "jordan", "gulf", "hormuz", "coalition", "ammunition", "diplomatic", "settlement", "houthis", "yemeni", "saudi", "russia", "nato", "ukraine", "odessa", "kiev"}
 DIMENSIONS = ("native_axis_clarity", "claim_family_distinctness", "mechanism_diversity", "time_horizon_coverage", "actor_perspective_coverage", "evidence_modality_diversity", "falsifiability", "revision_transparency", "blind_spot_complementarity", "crisis_portability", "decision_usefulness", "source_sufficiency")
 PAIR_DIMENSIONS = ("axis_separation", "mechanism_separation", "evidence_independence", "host_independence", "actor_perspective_separation", "time_horizon_separation", "conclusion_overlap", "proposition_redundancy", "marginal_correction_value", "synthesis_marginal_value", "blind_spot_complementarity", "collapse_risk")
 
@@ -55,7 +73,7 @@ def all_states():
 
 def parse_args():
     p = argparse.ArgumentParser(description="Audit Narrative Geopolitics voice-state continuity.")
-    p.add_argument("command", choices=("states", "revisions", "forecasts", "hosts", "convergence", "select-voices", "orthogonality", "validate"))
+    p.add_argument("command", choices=("states", "revisions", "forecasts", "hosts", "convergence", "select-voices", "orthogonality", "longitudinal", "validate"))
     p.add_argument("--voice")
     p.add_argument("--since")
     p.add_argument("--date")
@@ -64,6 +82,7 @@ def parse_args():
     p.add_argument("--crisis-object", default="")
     p.add_argument("--format", choices=("md", "json"), default="md")
     p.add_argument("--dry-run", action="store_true")
+    p.add_argument("--daily", action="store_true")
     p.add_argument("--pair")
     p.add_argument("--output")
     return p.parse_args()
@@ -212,6 +231,8 @@ def pair_report(left, right, voice_reports, states):
 
 
 def command_orthogonality(states):
+    if ARGS.daily:
+        return command_daily_orthogonality(states)
     voices = CORE_VOICES
     if ARGS.voice: voices = [v for v in voices if v == ARGS.voice]
     if ARGS.pair:
@@ -225,6 +246,445 @@ def command_orthogonality(states):
         if ranked: recommendations.append({"primary": ranked[0][1], "pressure_test": next((v for v in voices if v != ranked[0][1]), None), "basis": "crisis-object term overlap; review against axis and evidence coverage"})
     payload = {"as_of": ARGS.date or date.today().isoformat(), "voices": reports, "pairs": pairs, "coverage": {"core_voices": voices, "ledger_coverage": sum(bool([s for s in states if s["voice"] == v]) for v in voices)}, "blind_spots": [], "recommendations": recommendations, "limitations": ["Automated overlap is candidate evidence, not semantic adjudication.", "Missing ledgers reduce confidence rather than proving low orthogonality.", "Scores describe analytical roles, not private beliefs."]}
     emit(payload, "Voice Orthogonality Audit")
+
+
+def daily_source_rows(run_date):
+    return [row for row in manifest_rows() if row.get("date") == run_date]
+
+
+def daily_text(run_date, name):
+    path = DAILY / run_date / name
+    return path.read_text(encoding="utf-8") if path.exists() else ""
+
+
+def daily_voice_axis(voice):
+    if voice in VOICE_PROFILES:
+        profile = VOICE_PROFILES[voice]
+        return profile["axis"], profile["native_question"], profile["primary_risk"], "mapped"
+    return "unmapped", "No canonical axis assigned.", "Temporary daily identity requires human review.", "unmapped"
+
+
+def daily_tokens(value):
+    values = tokens(value) - GENERIC_TERMS - {"source", "sources", "voice", "voices", "daily", "today"}
+    aliases = {"bases": "base", "basing": "base", "basing-crisis": "base", "mandeb": "mandab", "hormuz-linked": "hormuz"}
+    return {aliases.get(item, item) for item in values}
+
+
+def daily_source_id_map(source_text):
+    result = defaultdict(list)
+    for line in source_text.splitlines():
+        if not line.startswith("|") or "Source ID" in line or set(line.replace("|", "").strip()) <= {"-", ":", " "}:
+            continue
+        cells = [cell.strip() for cell in line.strip("|").split("|")]
+        if len(cells) >= 6 and cells[0].startswith("`SRC-"):
+            result[cells[1].lower()].append({"id": cells[0].strip("`"), "host": cells[2], "why": cells[5]})
+    return result
+
+
+def daily_voice_contribution(voice, source_rows, source_map, synthesis):
+    rows = [row for row in source_rows if voice in (row.get("voice_slugs") or [])]
+    source_entries = source_map.get(voice.lower(), [])
+    ids = [entry["id"] for entry in source_entries]
+    synthesis_row = None
+    in_voice_table = False
+    for line in synthesis.splitlines():
+        if line.startswith("| Voice | Role In This Run"):
+            in_voice_table = True
+            continue
+        if in_voice_table and line.startswith("| ---"):
+            continue
+        if in_voice_table and line.startswith("|"):
+            cells = [cell.strip() for cell in line.strip("|").split("|")]
+            if len(cells) >= 4 and cells[0].lower() == voice.lower():
+                synthesis_row = cells
+                break
+        if in_voice_table and line and not line.startswith("|"):
+            in_voice_table = False
+    if synthesis_row:
+        return f"{synthesis_row[1]}: {synthesis_row[2]}", ids
+    titles = " ".join(str(row.get("title", "")) for row in rows)
+    if titles:
+        return f"Daily source set centers on {titles[:210]}.", ids
+    return "No day-specific contribution could be derived from the available synthesis.", ids
+
+
+def daily_pair_report(left, right, left_data, right_data):
+    shared_hosts = sorted(set(left_data["hosts"]) & set(right_data["hosts"]))
+    shared_terms = sorted(set(left_data["terms"]) & set(right_data["terms"]))
+    same_axis = left_data["axis"] == right_data["axis"] and left_data["axis"] != "unmapped"
+    object_terms = sorted(set(shared_terms) & CRISIS_OBJECT_TERMS)
+    if not object_terms and not same_axis:
+        return None
+    if left_data["source_count"] == 0 or right_data["source_count"] == 0:
+        classification = "insufficient evidence to classify"
+    elif shared_hosts:
+        classification = "high collapse risk" if len(object_terms) >= 2 else "orthogonal but lineage-limited"
+    elif same_axis:
+        classification = "human review required"
+    elif shared_terms:
+        classification = "convergent with distinct mechanisms"
+    else:
+        classification = "orthogonal and independently sourced"
+    return {
+        "voices": [left, right],
+        "classification": classification,
+        "shared_terms": shared_terms,
+        "shared_objects": object_terms,
+        "shared_hosts": shared_hosts,
+        "shared_lineage": bool(shared_hosts),
+        "source_ids": sorted(set(left_data["source_ids"]) | set(right_data["source_ids"])),
+        "source_roles": [left_data["daily_contribution"], right_data["daily_contribution"]],
+        "mechanism_evidence": [left_data["why_text"], right_data["why_text"]],
+        "reason": "shared named crisis object/mechanism and distinct voice roles" if shared_terms else "same canonical axis requires review",
+        "review_required": classification in {"high collapse risk", "human review required", "insufficient evidence to classify"},
+        "note": "Different voices are not independent evidence unless lineage independence is established.",
+    }
+
+
+def daily_counter_pressure_gaps(source_text, synthesis):
+    corpus = (source_text + "\n" + synthesis).lower()
+    gaps = []
+    if any(term in corpus for term in ("bab el-mandab", "bab al-mandab", "red sea", "maritime", "shipping", "houth")):
+        gaps.append("No vessel-level or official-maritime counter-pressure is represented in the daily source ledger; maritime threat convergence must not be treated as closure evidence.")
+    if any(term in corpus for term in ("base", "basing", "jordan", "gulf", "casualt", "strike", "fighter", "infrastructure")):
+        gaps.append("No independently verified basing, casualty, strike-effect, or infrastructure observations are represented; keep those reports source-attributed.")
+    if any(term in corpus for term in ("russia", "ukraine", "nato", "odessa", "kiev", "eu-russia")):
+        gaps.append("No independently verified force-posture or diplomatic-threshold observation is represented for the Russia/NATO secondary theater.")
+    if not gaps:
+        gaps.append("No named counter-pressure observable was identified; define one before treating convergence as decision-relevant.")
+    return gaps
+
+
+def daily_recommendation(source_text, synthesis):
+    corpus = (source_text + "\n" + synthesis).lower()
+    if any(term in corpus for term in ("bab el-mandab", "bab al-mandab", "red sea", "maritime", "shipping", "houth")):
+        return "Compare the dominant maritime convergence against vessel-level AIS or official maritime observations before promoting any operational proposition."
+    if any(term in corpus for term in ("base", "basing", "jordan", "gulf", "casualt", "strike", "fighter", "infrastructure")):
+        return "Compare the basing convergence against independently verified casualty, strike-effect, infrastructure, and host-posture observations."
+    if any(term in corpus for term in ("russia", "ukraine", "nato", "odessa", "kiev", "eu-russia")):
+        return "Compare the secondary-theater convergence against independently verified force-posture and diplomatic-threshold observations."
+    return "Define one observable that could falsify the dominant convergence before promoting it into judgment."
+
+
+def render_daily_orthogonality(payload):
+    strongest = payload["convergence_clusters"][0] if payload["convergence_clusters"] else "none"
+    highest = next((item for item in payload["pairs"] if item["classification"] == "high collapse risk"), None)
+    lines = ["# Daily Voice Orthogonality Audit", "", "## Decision Summary", "", f"- Sources: {payload['source_count']}; distinct voices: {payload['voice_count']}; mapped: {payload['mapped_voice_count']}; unmapped: {payload['unmapped_voice_count']}", f"- Strongest convergence: {strongest}", f"- Highest collapse risk: {' × '.join(highest['voices']) if highest else 'none'}", f"- Top counter-pressure gap: {payload['counter_pressure_gaps'][0] if payload['counter_pressure_gaps'] else 'none'}", f"- Recommended test: {payload['recommendation']}", "", "## Audit Metadata", "", f"- **Date:** `{payload['date']}`", f"- **Generated:** `{payload['generated_at']}`", f"- **Content hash:** `{payload['content_hash']}`", f"- **Sources:** {payload['source_count']}", f"- **Voices:** {payload['voice_count']} ({payload['mapped_voice_count']} mapped, {payload['unmapped_voice_count']} unmapped)", "", "> Same conclusion plus different mechanism can be orthogonal; same conclusion plus shared lineage is not independent corroboration.", "", "## Voice Identity and Daily Contribution", ""]
+    lines.append("| Voice | Canonical axis | Daily contribution | Risk | Sources | Hosts | Status |")
+    lines.append("| --- | --- | --- | --- | --- | --- | --- |")
+    for item in payload["voices"]:
+        lines.append(f"| `{item['voice']}` | {item['axis']} | {item['daily_contribution']} | {item['primary_risk']} | {','.join(item['source_ids']) or 'none'} | {', '.join(item['hosts']) or 'none'} | {item['status']} |")
+    axis_lines = [f"- `{axis}`: {', '.join(voices)}" for axis, voices in payload["axis_coverage"].items()] or ["- No mapped axes present."]
+    lines.extend(["", "## Analytical Axis Coverage", "", *axis_lines, "", "## Convergence Clusters", ""])
+    lines.extend([f"- {item}" for item in payload["convergence_clusters"]] or ["- No material convergence cluster detected."])
+    limit_lines = [f"- {item}" for item in payload["independence_limits"]] or ["- No additional lineage limits detected."]
+    lines.extend(["", "## Independence and Lineage Limits", "", *limit_lines])
+    lines.extend(["", "## Pairwise Collapse-Risk Candidates", "", "| Voices | Classification | Shared objects | Shared terms | Shared hosts | Reason |", "| --- | --- | --- | --- | --- | --- |"])
+    for item in payload["pairs"]:
+        lines.append(f"| {' × '.join(item['voices'])} | {item['classification']} | {', '.join(item['shared_objects']) or 'none'} | {', '.join(item['shared_terms']) or 'none'} | {', '.join(item['shared_hosts']) or 'none'} | {item['reason']} |")
+    if not payload["pairs"]:
+        lines.append("| none | none | none | none | none | none |")
+    lines.extend(["", "## Prioritized Human-Review Queue", ""])
+    lines.extend([f"{index}. **{item['priority']}** — {item['entity']}: {item['reason']} Action: {item['action']}" for index, item in enumerate(payload["review_queue"], 1)] or ["- No human-review items."])
+    lines.extend(["", "## Missing Counter-Pressure", "", *[f"- {item}" for item in payload["counter_pressure_gaps"]], "", "## Recommended Orthogonal Test", "", payload["recommendation"], "", "## Limitations", "", *[f"- {item}" for item in payload["limitations"]]])
+    return "\n".join(lines) + "\n"
+
+
+def daily_payload(run_date):
+    source_rows = daily_source_rows(run_date)
+    if not source_rows:
+        return None
+    source_text = daily_text(run_date, "sources.md")
+    synthesis = daily_text(run_date, "synthesis.md")
+    source_map = daily_source_id_map(source_text)
+    by_voice = defaultdict(list)
+    for row in source_rows:
+        for voice in row.get("voice_slugs") or []:
+            by_voice[voice].append(row)
+    reports = []
+    axis_coverage = defaultdict(list)
+    for voice in sorted(by_voice):
+        axis, question, risk, status = daily_voice_axis(voice)
+        contribution, source_ids = daily_voice_contribution(voice, source_rows, source_map, synthesis)
+        hosts = sorted({row.get("host_slug") or "unhosted" for row in by_voice[voice]})
+        why_text = " ".join(entry.get("why", "") for entry in source_map.get(voice.lower(), []))
+        terms = daily_tokens(" ".join(str(row.get("title", "")) for row in by_voice[voice]) + " " + contribution + " " + why_text)
+        item = {"voice": voice, "axis": axis, "question": question, "daily_contribution": contribution, "primary_risk": risk, "source_ids": sorted(set(source_ids)), "source_count": len(by_voice[voice]), "hosts": hosts, "terms": sorted(terms), "why_text": why_text, "status": "human review required" if status == "unmapped" else "distinct contribution"}
+        reports.append(item)
+        axis_coverage[axis].append(voice)
+    pairs = []
+    for index, left in enumerate(reports):
+        for right in reports[index + 1:]:
+            item = daily_pair_report(left["voice"], right["voice"], left, right)
+            if item:
+                pairs.append(item)
+    clusters = []
+    for item in pairs:
+        if item["shared_terms"] and len(item["shared_terms"]) >= 2:
+            clusters.append(f"{item['voices'][0]} and {item['voices'][1]} converge on {', '.join(item['shared_terms'])}; classification: {item['classification']}.")
+    if not clusters:
+        clusters.append("No material same-day convergence cluster was identified from available titles and synthesis text.")
+    limits = []
+    repeated = [item for item in reports if item["source_count"] > 1]
+    if repeated:
+        limits.append("Repeated appearances were collapsed to one voice identity but retain source multiplicity: " + ", ".join(item["voice"] for item in repeated) + ".")
+    shared_host_pairs = [item for item in pairs if item["shared_hosts"]]
+    if shared_host_pairs:
+        limits.append("Shared hosts limit evidentiary independence for: " + "; ".join(" × ".join(item["voices"]) for item in shared_host_pairs) + ".")
+    gaps = daily_counter_pressure_gaps(source_text, synthesis)
+    unmapped = [item["voice"] for item in reports if item["axis"] == "unmapped"]
+    if unmapped:
+        gaps.append("Unmapped voices require human review before their temporary daily contribution is treated as a stable analytical identity: " + ", ".join(unmapped) + ".")
+    review_queue = []
+    for item in reports:
+        if item["axis"] == "unmapped":
+            review_queue.append({"priority": "P2", "entity": item["voice"], "reason": "voice has no canonical descriptor", "action": "assign or review a stable voice identity"})
+        if "No day-specific" in item["daily_contribution"]:
+            review_queue.append({"priority": "P3", "entity": item["voice"], "reason": "daily contribution is missing", "action": "add a synthesis role or mark insufficient daily evidence"})
+    for item in pairs:
+        if item["classification"] == "high collapse risk":
+            review_queue.insert(0, {"priority": "P1", "entity": " × ".join(item["voices"]), "reason": "shared named object with shared host/lineage", "action": "recover independent lineage or confirm distinct mechanisms"})
+        elif item["review_required"]:
+            review_queue.append({"priority": "P3", "entity": " × ".join(item["voices"]), "reason": item["classification"], "action": "confirm the pair classification from source and synthesis evidence"})
+    recommendation = daily_recommendation(source_text, synthesis)
+    limitations = ["This is advisory generated state, not archive evidence or independent corroboration.", "Daily descriptors are provisional specializations of the canonical voice map.", "Automated overlap is a candidate for human review, not semantic adjudication."]
+    if not source_text or not synthesis:
+        limitations.append("Daily source or synthesis context is incomplete; classifications are low confidence.")
+    payload = {"date": run_date, "generated_at": datetime.now(timezone.utc).isoformat(), "source_count": len(source_rows), "voice_count": len(reports), "mapped_voice_count": sum(item["axis"] != "unmapped" for item in reports), "unmapped_voice_count": sum(item["axis"] == "unmapped" for item in reports), "voices": reports, "axis_coverage": dict(axis_coverage), "convergence_clusters": clusters, "independence_limits": limits, "pairs": pairs, "counter_pressure_gaps": gaps, "review_queue": review_queue, "recommendation": recommendation, "limitations": limitations}
+    semantic = json.dumps({key: value for key, value in payload.items() if key not in {"generated_at", "content_hash"}}, sort_keys=True, ensure_ascii=False)
+    payload["content_hash"] = hashlib.sha256(semantic.encode("utf-8")).hexdigest()[:16]
+    return payload
+
+
+def persist_daily_payload(payload, target=None):
+    rendered = render_daily_orthogonality(payload)
+    target = target or NG / "work" / "continuity" / "orthogonality" / f"orthogonality-{payload['date']}.md"
+    if not target.is_absolute():
+        target = ROOT / target
+    if not ARGS.dry_run:
+        target.parent.mkdir(parents=True, exist_ok=True)
+        existing = target.read_text(encoding="utf-8") if target.exists() else ""
+        normalized_existing = re.sub(r"- \*\*Generated:\*\* `[^`]+`", "- **Generated:** `<normalized>`", existing)
+        normalized_rendered = re.sub(r"- \*\*Generated:\*\* `[^`]+`", "- **Generated:** `<normalized>`", rendered)
+        if normalized_existing != normalized_rendered:
+            target.write_text(rendered, encoding="utf-8", newline="\n")
+    return rendered
+
+
+def date_range(start, end):
+    current = start
+    while current <= end:
+        yield current.isoformat()
+        current += timedelta(days=1)
+
+
+def monthly_rollup(payloads, skipped_dates, start_date, end_date):
+    voice_days = defaultdict(list)
+    review = []
+    gaps = Counter()
+    clusters = []
+    for payload in payloads:
+        for voice in payload["voices"]:
+            voice_days[voice["voice"]].append(payload["date"])
+        review.extend({**item, "date": payload["date"]} for item in payload["review_queue"])
+        for gap in payload["counter_pressure_gaps"]:
+            gaps[gap] += 1
+        clusters.extend({"date": payload["date"], "cluster": cluster} for cluster in payload["convergence_clusters"] if not cluster.startswith("No material"))
+    recurring = {voice: dates for voice, dates in sorted(voice_days.items()) if len(dates) > 1}
+    persistent_gaps = [{"gap": gap, "date_count": count} for gap, count in gaps.most_common() if count > 1]
+    transitions = []
+    for item in clusters:
+        if not transitions or transitions[-1]["cluster"] != item["cluster"]:
+            transitions.append(item)
+    review.sort(key=lambda item: ({"P1": 1, "P2": 2, "P3": 3}.get(item["priority"], 9), item["date"], item["entity"]))
+    recommendation = "Compare persistent counter-pressure gaps against independent observations, prioritizing P1 collapse risks and the strongest crisis-object transition."
+    payload = {"range": {"start": start_date, "end": end_date}, "generated_at": datetime.now(timezone.utc).isoformat(), "audited_dates": [p["date"] for p in payloads], "skipped_dates": skipped_dates, "missing_context_dates": [p["date"] for p in payloads if any("context is incomplete" in x for x in p["limitations"])], "daily_summaries": [{"date": p["date"], "source_count": p["source_count"], "voice_count": p["voice_count"], "mapped_voice_count": p["mapped_voice_count"], "unmapped_voice_count": p["unmapped_voice_count"], "recommendation": p["recommendation"], "content_hash": p["content_hash"]} for p in payloads], "crisis_object_transitions": transitions, "recurring_voices": recurring, "review_queue": review, "counter_pressure_gaps": persistent_gaps, "recommendation": recommendation, "limitations": ["This is advisory generated state, not archive evidence or independent corroboration.", "Different voices are not independent evidence unless lineage independence has been established.", "Monthly aggregation describes workflow patterns and does not validate operational facts."]}
+    semantic = json.dumps({k: v for k, v in payload.items() if k not in {"generated_at", "content_hash"}}, sort_keys=True, ensure_ascii=False)
+    payload["content_hash"] = hashlib.sha256(semantic.encode("utf-8")).hexdigest()[:16]
+    return payload
+
+
+def render_monthly_rollup(payload):
+    lines = ["# July 2026 Voice Orthogonality Rollup", "", "## Decision Summary", "", f"- Audited dates: {len(payload['audited_dates'])}; skipped dates: {len(payload['skipped_dates'])}; incomplete-context dates: {len(payload['missing_context_dates'])}", f"- Recurring voices: {', '.join(payload['recurring_voices']) or 'none'}", f"- Priority review items: {len(payload['review_queue'])}", f"- Recommendation: {payload['recommendation']}", "", "## Coverage and Data Availability", "", f"- Range: `{payload['range']['start']}` through `{payload['range']['end']}`", f"- Audited: {', '.join(payload['audited_dates']) or 'none'}", f"- Skipped calendar dates without manifest rows: {', '.join(payload['skipped_dates']) or 'none'}", f"- Manifest-backed dates with incomplete context: {', '.join(payload['missing_context_dates']) or 'none'}", "", "## Crisis-Object Transitions", ""]
+    lines.extend([f"- `{item['date']}`: {item['cluster']}" for item in payload["crisis_object_transitions"]] or ["- No material transition identified."])
+    lines.extend(["", "## Voice and Descriptor Coverage", ""] + ([f"- `{voice}`: {', '.join(dates)}" for voice, dates in payload["recurring_voices"].items()] or ["- No recurring voices identified."]))
+    lines.extend(["", "## Recurring Convergence Clusters", ""] + ([f"- `{item['date']}`: {item['cluster']}" for item in payload["crisis_object_transitions"]] or ["- None."]))
+    lines.extend(["", "## Lineage and Host-Dependence Patterns", "", "- Review daily independence limits for host and shared-lineage constraints; monthly aggregation does not establish evidentiary independence."])
+    lines.extend(["", "## Prioritized Month-Level Review Queue", ""])
+    lines.extend([f"{i}. **{x['priority']}** — `{x['date']}` {x['entity']}: {x['reason']} Action: {x['action']}" for i, x in enumerate(payload["review_queue"], 1)] or ["- No review items."])
+    lines.extend(["", "## Counter-Pressure Gaps by Crisis Object", ""] + ([f"- {x['gap']} (present on {x['date_count']} audited dates)" for x in payload["counter_pressure_gaps"]] or ["- No persistent gaps identified."]) + ["", "## Highest-Value Orthogonal Tests", "", payload["recommendation"], "", "## Limitations and Non-Evidence Notice", "", f"- Content hash: `{payload['content_hash']}`"] + [f"- Generated: `{payload['generated_at']}`"] + [f"- {x}" for x in payload["limitations"]])
+    return "\n".join(lines) + "\n"
+
+
+def command_daily_orthogonality(states):
+    if ARGS.start_date or ARGS.end_date:
+        if not (ARGS.start_date and ARGS.end_date) or ARGS.date:
+            raise SystemExit(2)
+        try:
+            start = date.fromisoformat(ARGS.start_date); end = date.fromisoformat(ARGS.end_date)
+        except ValueError:
+            raise SystemExit(2)
+        if start > end:
+            raise SystemExit(2)
+        manifest_dates = {row.get("date") for row in manifest_rows() if ARGS.start_date <= row.get("date", "") <= ARGS.end_date}
+        skipped = [d for d in date_range(start, end) if d not in manifest_dates]
+        payloads = [daily_payload(d) for d in sorted(manifest_dates)]
+        rollup = monthly_rollup(payloads, skipped, ARGS.start_date, ARGS.end_date)
+        target = Path(ARGS.output) if ARGS.output else NG / "work" / "continuity" / "orthogonality" / f"orthogonality-{start.strftime('%Y-%m')}.md"
+        if not ARGS.dry_run:
+            target.parent.mkdir(parents=True, exist_ok=True)
+            existing = target.read_text(encoding="utf-8") if target.exists() else ""
+            rendered_rollup = render_monthly_rollup(rollup)
+            if re.sub(r"- Generated: `[^`]+`", "- Generated: `<normalized>`", existing) != re.sub(r"- Generated: `[^`]+`", "- Generated: `<normalized>`", rendered_rollup):
+                target.write_text(rendered_rollup, encoding="utf-8", newline="\n")
+            for payload in payloads:
+                persist_daily_payload(payload)
+        print(json.dumps(rollup, indent=2, ensure_ascii=False) if ARGS.format == "json" else render_monthly_rollup(rollup))
+        return
+    run_date = ARGS.date or date.today().isoformat()
+    payload = daily_payload(run_date)
+    if payload is None:
+        error = {"error": "no_manifest_source_set", "date": run_date, "message": f"No manifest-backed source set exists for {run_date}."}
+        if ARGS.format == "json": print(json.dumps(error, ensure_ascii=False))
+        else: print(f"ERROR [{error['error']}]: {error['message']}", file=sys.stderr)
+        raise SystemExit(2)
+    rendered = persist_daily_payload(payload, Path(ARGS.output) if ARGS.output else None)
+    print(json.dumps(payload, indent=2, ensure_ascii=False) if ARGS.format == "json" else rendered)
+
+
+def parse_forecast_rows():
+    path = NG / "work" / "forecasts" / "forecast-ledger.md"
+    hooks = {}
+    if not path.exists():
+        return hooks
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if not line.startswith("|") or "Hook ID" in line or set(line.replace("|", "").strip()) <= {"-", ":", " "}:
+            continue
+        cells = [c.strip().strip("`") for c in line.strip("|").split("|")]
+        if len(cells) >= 8 and cells[0].startswith("NG-"):
+            hooks[cells[0]] = {"hook_id": cells[0], "date": cells[1], "crisis_object": cells[2], "claim": cells[3], "probability_band": cells[4], "review_date": cells[5], "source_run": cells[6], "status": cells[7], "provenance": "retrospective" if "retrospective" in cells[7] else "ex_ante"}
+    return hooks
+
+
+def parse_state_forecast_links():
+    links = defaultdict(list)
+    for voice, path in ledgers():
+        text = path.read_text(encoding="utf-8")
+        for line in text.splitlines():
+            if not line.startswith("|") or "State ID" in line or set(line.replace("|", "").strip()) <= {"-", ":", " "}:
+                continue
+            cells = [c.strip().strip("`") for c in line.strip("|").split("|")]
+            if len(cells) >= 10 and cells[0].startswith("STATE-") and cells[8].startswith("NG-"):
+                links[cells[8]].append({"voice": voice, "state_id": cells[0], "state": cells[2], "first_seen": cells[3], "last_seen": cells[4], "expression_type": cells[5], "source_ids": cells[6], "daily_blocks": cells[7], "revision_note": cells[9]})
+    return links
+
+
+def reality_records():
+    records = []
+    for folder in ("claims", "assessments", "investigations", "transitions", "observables"):
+        for path in (NG / "work" / "reality" / folder).glob("*.json"):
+            try:
+                item = json.loads(path.read_text(encoding="utf-8"))
+                item["_folder"] = folder
+                records.append(item)
+            except (OSError, json.JSONDecodeError):
+                continue
+    return records
+
+
+def longitudinal_payload(start_date, end_date):
+    hooks = {key: value for key, value in parse_forecast_rows().items() if start_date <= value["date"] <= end_date}
+    state_links = parse_state_forecast_links()
+    reality = reality_records()
+    manifest_sources = {entry.get("id"): entry for entry in manifest_rows()}
+    accountability = []
+    unresolved = []
+    retrospective = []
+    host_variation = []
+    revisions = []
+    reality_summary = Counter()
+    for hook_id, hook in sorted(hooks.items()):
+        states = state_links.get(hook_id, [])
+        source_ids = sorted({sid for state in states for sid in re.findall(r"SRC-[0-9]+", state["source_ids"])})
+        hosts = sorted({manifest_sources[sid].get("host_slug") or "unhosted" for sid in source_ids if sid in manifest_sources})
+        related = [item for item in reality if hook_id in json.dumps(item, ensure_ascii=False)]
+        outcomes = sorted({str(item.get("outcome") or item.get("status")) for item in related})
+        evidence_status = sorted({str(item.get("status")) for item in related if item.get("_folder") in {"claims", "assessments", "transitions"}})
+        item = {**hook, "states": states, "source_ids": source_ids, "hosts": hosts, "reality_records": [item.get("id") for item in related], "reality_outcomes": outcomes, "evidence_status": evidence_status, "calibration_eligible": hook["provenance"] == "ex_ante" and hook["status"] not in {"excluded_retrospective", "excluded_unscorable"}}
+        accountability.append(item)
+        if hook["provenance"] == "retrospective" or hook["status"] in {"excluded_retrospective", "excluded_unscorable"}:
+            retrospective.append({"hook_id": hook_id, "status": hook["status"], "action": "retain as historical context; exclude from calibration"})
+        if hook["status"] == "open" or not outcomes:
+            unresolved.append({"hook_id": hook_id, "reason": "open or lacks linked adjudicated outcome", "action": "adjudicate against the forecast observable without forcing an outcome"})
+        for state in states:
+            if state["state"] in {"revised", "abandoned", "unclear"} or state["revision_note"] not in {"", "—", "-"}:
+                revisions.append({"hook_id": hook_id, "voice": state["voice"], "state_id": state["state_id"], "state": state["state"], "revision_note": state["revision_note"]})
+        if len(hosts) > 1:
+            host_variation.append({"hook_id": hook_id, "voices": sorted({state["voice"] for state in states}), "hosts": hosts, "source_ids": source_ids, "classification": "host-conditioned variation requires review"})
+        for outcome in outcomes:
+            reality_summary[outcome] += 1
+    repeated_frames = []
+    by_claim = defaultdict(list)
+    for item in accountability:
+        by_claim[item["claim"].lower()].append(item)
+    for claim, items in by_claim.items():
+        if len(items) > 1 and not any(item["states"] and any(state["state"] in {"revised", "abandoned"} for state in item["states"]) for item in items):
+            repeated_frames.append({"claim": items[0]["claim"], "hook_ids": [item["hook_id"] for item in items], "action": "check for a new mechanism or evidence rather than treating repetition as confirmation"})
+    review = ([{"priority": "P1", "entity": item["hook_id"], "reason": "accountable forecast is open or linked to changed evidence state", "action": "adjudicate forecast against observable"} for item in accountability if item["calibration_eligible"] and (item["status"] == "open" or item["reality_records"])] + [{"priority": "P2", "entity": item["hook_id"], "reason": "voice state revision or abandonment is linked", "action": "confirm whether revision is substantive"} for item in revisions] + [{"priority": "P3", "entity": item["hook_id"], "reason": item["classification"], "action": "separate host framing from guest continuity"} for item in host_variation] + [{"priority": "P3", "entity": item["hook_id"], "reason": "repeated frame without new mechanism", "action": item["action"]} for item in repeated_frames])
+    payload = {"range": {"start": start_date, "end": end_date}, "generated_at": datetime.now(timezone.utc).isoformat(), "forecast_summary": {"total": len(accountability), "calibration_eligible": sum(item["calibration_eligible"] for item in accountability), "open": sum(item["status"] == "open" for item in accountability), "outcomes": dict(reality_summary)}, "voice_revision_summary": {"revisions": revisions, "linked_state_count": sum(len(item["states"]) for item in accountability)}, "reality_transition_summary": {"linked_record_count": sum(len(item["reality_records"]) for item in accountability), "outcome_counts": dict(reality_summary), "note": "Evidence status and forecast outcome remain separate classifications."}, "host_conditioning_summary": {"items": host_variation, "shared_host_or_multi_host_count": len(host_variation)}, "accountability_items": accountability, "unresolved_items": unresolved, "retrospective_items": retrospective, "recommendations": {"review_queue": review, "next_observables": ["Adjudicate open accountable forecasts against their declared observable and review date.", "Recover missing forecast-to-state and forecast-to-reality links before assessing performance."]}, "limitations": ["Forecast performance is not a complete measure of analytical quality, and repeated commentary is not independent corroboration.", "No outcome is inferred from narrative similarity or evidence status alone.", "This is advisory generated state and does not mutate research state."]}
+    semantic = json.dumps({k: v for k, v in payload.items() if k not in {"generated_at", "content_hash"}}, sort_keys=True, ensure_ascii=False)
+    payload["content_hash"] = hashlib.sha256(semantic.encode("utf-8")).hexdigest()[:16]
+    return payload
+
+
+def render_longitudinal(payload):
+    lines = ["# Longitudinal Accountability Spine", "", "## Decision Summary", "", f"- Range: {payload['range']['start']} through {payload['range']['end']}; forecasts: {payload['forecast_summary']['total']}; calibration-eligible: {payload['forecast_summary']['calibration_eligible']}; open: {payload['forecast_summary']['open']}", f"- Linked reality records: {payload['reality_transition_summary']['linked_record_count']}; host-conditioned cases: {payload['host_conditioning_summary']['shared_host_or_multi_host_count']}", f"- Review items: {len(payload['recommendations']['review_queue'])}", "", "## Forecast Accountability", ""]
+    lines.extend([f"- `{item['hook_id']}` `{item['status']}` `{item['provenance']}`: {item['crisis_object']} — linked states {len(item['states'])}, reality records {len(item['reality_records'])}" for item in payload["accountability_items"]] or ["- No forecasts in range."])
+    lines.extend(["", "## Voice-State Continuity and Revision", ""])
+    lines.extend([f"- `{item['hook_id']}` `{item['voice']}` `{item['state']}`: {item['revision_note']}" for item in payload["voice_revision_summary"]["revisions"]] or ["- No supported state revisions linked to forecasts."])
+    lines.extend(["", "## Reality-Evidence Transitions", "", f"- Linked records: {payload['reality_transition_summary']['linked_record_count']}", f"- Outcomes/statuses: {payload['reality_transition_summary']['outcome_counts']}", "- Forecast outcome and evidence status remain distinct.", "", "## Host-Conditioned Variation", ""])
+    lines.extend([f"- `{item['hook_id']}` voices={','.join(item['voices']) or 'unresolved'} hosts={','.join(item['hosts'])}; {item['classification']}" for item in payload["host_conditioning_summary"]["items"]] or ["- No multi-host forecast/state linkage identified."])
+    lines.extend(["", "## Forecasts That Survived, Failed, or Remained Unresolvable", ""])
+    lines.extend([f"- `{item['hook_id']}` status={item['status']} outcomes={','.join(item['reality_outcomes']) or 'none'}" for item in payload["accountability_items"]] or ["- None resolved by the available linkage."])
+    lines.extend(["", "## Repeated Frame Without New Evidence", "", "- Repeated hooks require mechanism and evidence comparison; repetition alone is not corroboration.", "", "## Prioritized Human-Review Queue", ""])
+    lines.extend([f"{i}. **{item['priority']}** `{item['entity']}`: {item['reason']} Action: {item['action']}" for i, item in enumerate(payload["recommendations"]["review_queue"], 1)] or ["- No review items."])
+    lines.extend(["", "## Highest-Value Next Observables", ""] + [f"- {item}" for item in payload["recommendations"]["next_observables"]] + ["", "## Limitations and Non-Evidence Notice", "", f"- Generated: `{payload['generated_at']}`", f"- Content hash: `{payload['content_hash']}`"] + [f"- {item}" for item in payload["limitations"]])
+    return "\n".join(lines) + "\n"
+
+'''legacy renderer disabled
+def render_longitudinal_legacy(payload):
+    lines = ["# Longitudinal Accountability Spine", "", "## Decision Summary", "", f"- Range: {payload['range']['start']} through {payload['range']['end']}; forecasts: {payload['forecast_summary']['total']}; calibration-eligible: {payload['forecast_summary']['calibration_eligible']}; open: {payload['forecast_summary']['open']}", f"- Linked reality records: {payload['reality_transition_summary']['linked_record_count']}; host-conditioned cases: {payload['host_conditioning_summary']['shared_host_or_multi_host_count']}", f"- Review items: {len(payload['recommendations']['review_queue'])}", "", "## Forecast Accountability", "", *[f"- `{item['hook_id']}` `{item['status']}` `{item['provenance']}`: {item['crisis_object']} — linked states {len(item['states'])}, reality records {len(item['reality_records'])}" for item in payload["accountability_items"]] or ["- No forecasts in range."], "", "## Voice-State Continuity and Revision", ""]
+    lines.extend([f"- `{item['hook_id']}` `{item['voice']}` `{item['state']}`: {item['revision_note']}" for item in payload["voice_revision_summary"]["revisions"]] or ["- No supported state revisions linked to forecasts."])
+    lines.extend(["", "## Reality-Evidence Transitions", "", f"- Linked records: {payload['reality_transition_summary']['linked_record_count']}", f"- Outcomes/statuses: {payload['reality_transition_summary']['outcome_counts']}", "- Forecast outcome and evidence status remain distinct.", "", "## Host-Conditioned Variation", ""])
+    lines.extend([f"- `{item['hook_id']}` voices={','.join(item['voices']) or 'unresolved'} hosts={','.join(item['hosts'])}; {item['classification']}" for item in payload["host_conditioning_summary"]["items"]] or ["- No multi-host forecast/state linkage identified."])
+    lines.extend(["", "## Forecasts That Survived, Failed, or Remained Unresolvable", "", *[f"- `{item['hook_id']}` status={item['status']} outcomes={','.join(item['reality_outcomes']) or 'none'}" for item in payload["accountability_items"]] or ["- None resolved by the available linkage."], "", "## Repeated Frame Without New Evidence", "", "- Repeated hooks require mechanism and evidence comparison; repetition alone is not corroboration.", "", "## Prioritized Human-Review Queue", ""])
+    lines.extend([f"{i}. **{item['priority']}** `{item['entity']}`: {item['reason']} Action: {item['action']}" for i, item in enumerate(payload["recommendations"]["review_queue"], 1)] or ["- No review items."])
+    lines.extend(["", "## Highest-Value Next Observables", "", *[f"- {item}" for item in payload["recommendations"]["next_observables"]], "", "## Limitations and Non-Evidence Notice", "", f"- Generated: `{payload['generated_at']}`", f"- Content hash: `{payload['content_hash']}`", *[f"- {item}" for item in payload["limitations"]]])
+    return "\n".join(lines) + "\n"
+'''
+
+
+def command_longitudinal():
+    if not ARGS.start_date or not ARGS.end_date:
+        error = {"error": "date_range_required", "message": "--start-date and --end-date are required for longitudinal analysis."}
+        print(json.dumps(error) if ARGS.format == "json" else error["message"], file=sys.stderr if ARGS.format != "json" else sys.stdout)
+        raise SystemExit(2)
+    try:
+        start = date.fromisoformat(ARGS.start_date); end = date.fromisoformat(ARGS.end_date)
+    except ValueError:
+        raise SystemExit(2)
+    if start > end:
+        raise SystemExit(2)
+    payload = longitudinal_payload(ARGS.start_date, ARGS.end_date)
+    rendered = render_longitudinal(payload)
+    target = Path(ARGS.output) if ARGS.output else NG / "work" / "continuity" / "longitudinal" / f"longitudinal-accountability-{start.strftime('%Y-%m')}.md"
+    if not target.is_absolute(): target = ROOT / target
+    if not ARGS.dry_run:
+        target.parent.mkdir(parents=True, exist_ok=True)
+        existing = target.read_text(encoding="utf-8") if target.exists() else ""
+        if re.sub(r"- Generated: `[^`]+`", "- Generated: `<normalized>`", existing) != re.sub(r"- Generated: `[^`]+`", "- Generated: `<normalized>`", rendered):
+            target.write_text(rendered, encoding="utf-8", newline="\n")
+    print(json.dumps(payload, indent=2, ensure_ascii=False) if ARGS.format == "json" else rendered)
 
 
 def command_validate(states):
@@ -259,6 +719,7 @@ def main():
     elif ARGS.command == "convergence": command_convergence(states)
     elif ARGS.command == "select-voices": command_select(states)
     elif ARGS.command == "orthogonality": command_orthogonality(states)
+    elif ARGS.command == "longitudinal": command_longitudinal()
     else: return command_validate(states)
     return 0
 
