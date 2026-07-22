@@ -2,7 +2,7 @@
   "manifest_id": "narrative-geopolitics-source-manifest-v1",
   "source_basis": "central archive with completed historical strategy-codex imports",
   "imported_at": "2026-07-09",
-  "source_count": 1608,
+  "source_count": 1732,
   "boundary": {
     "archive": "source truth",
     "voices": "voice continuity and routing",
@@ -22599,6 +22599,2078 @@
         "wrapper-normalized",
         "explicit-host",
         "intake-assigned-today"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "Russia Destroys Odessa Ships Brushes Off Protests; Russia Fuel Situation Stabilises; Syrsky Survives",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-21/source-russia-destroys-odessa-ships-brushes-off-protests-russia-fuel-situation-stabilises-syrsky-survives-2026-07-21.md",
+      "voice_index_path": "../../archive/sources/2026-07-21/source-russia-destroys-odessa-ships-brushes-off-protests-russia-fuel-situation-stabilises-syrsky-survives-2026-07-21.md",
+      "upstream_path": "operator-paste://2026-07-21/russia-destroys-odessa-ships-brushes-off-protests-russia-fuel-situation-stabilises-syrsky-survives",
+      "source_class": "solo geopolitical analysis",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "title-cue",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "BREAKING: TRUMP REJECTS IRAN CEASEFIRE, VOWS \"DEVASTATING BLOWS\" - w/ Robert Pape",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-21/source-breaking-trump-rejects-iran-ceasefire-vows-devastating-blows-w-robert-pape-2026-07-21.md",
+      "voice_index_path": "../../archive/sources/2026-07-21/source-breaking-trump-rejects-iran-ceasefire-vows-devastating-blows-w-robert-pape-2026-07-21.md",
+      "upstream_path": "operator-paste://2026-07-21/breaking-trump-rejects-iran-ceasefire-vows-devastating-blows-w-robert-pape",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "pape"
+      ],
+      "host_slug": "mario-nawfal",
+      "inference_basis": [
+        "title-cue",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "Prof. John Mearsheimer : More War and America’s Collapse",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-21/source-prof-john-mearsheimer-more-war-and-america-s-collapse-2026-07-21.md",
+      "voice_index_path": "../../archive/sources/2026-07-21/source-prof-john-mearsheimer-more-war-and-america-s-collapse-2026-07-21.md",
+      "upstream_path": "operator-paste://2026-07-21/prof-john-mearsheimer-more-war-and-america-s-collapse",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "title-cue",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "Seyed M. Marandi: Iran's Biggest Strike Yet - Major Blow to U.S. Bases as Yemen Imposes BLOCKADE",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-21/source-seyed-m-marandi-iran-s-biggest-strike-yet-major-blow-to-u-s-bases-as-yemen-imposes-blockade-2026-07-21.md",
+      "voice_index_path": "../../archive/sources/2026-07-21/source-seyed-m-marandi-iran-s-biggest-strike-yet-major-blow-to-u-s-bases-as-yemen-imposes-blockade-2026-07-21.md",
+      "upstream_path": "operator-paste://2026-07-21/seyed-m-marandi-iran-s-biggest-strike-yet-major-blow-to-u-s-bases-as-yemen-imposes-blockade",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "inference_basis": [
+        "title-cue",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "Press Freedom US-Israeli Partnership Threatens US Press Freedom",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-21/source-press-freedom-us-israeli-partnership-threatens-us-press-freedom-2026-07-21.md",
+      "voice_index_path": "../../archive/sources/2026-07-21/source-press-freedom-us-israeli-partnership-threatens-us-press-freedom-2026-07-21.md",
+      "upstream_path": "operator-paste://2026-07-21/press-freedom-us-israeli-partnership-threatens-us-press-freedom",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "blumenthal"
+      ],
+      "host_slug": "glenn-diesen",
+      "inference_basis": [
+        "title-cue",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "John Helmer: The Iran Model Changes Everything: Putin's Next Move Explained",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-21/source-john-helmer-the-iran-model-changes-everything-putin-s-next-move-explained-2026-07-21.md",
+      "voice_index_path": "../../archive/sources/2026-07-21/source-john-helmer-the-iran-model-changes-everything-putin-s-next-move-explained-2026-07-21.md",
+      "upstream_path": "operator-paste://2026-07-21/john-helmer-the-iran-model-changes-everything-putin-s-next-move-explained",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "helmer"
+      ],
+      "host_slug": "dialogue-works",
+      "inference_basis": [
+        "title-cue",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "Aaron Maté : Lindsey Graham: The Uniparty’s War Hawk",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-21/source-aaron-mat-lindsey-graham-the-uniparty-s-war-hawk-2026-07-21.md",
+      "voice_index_path": "../../archive/sources/2026-07-21/source-aaron-mat-lindsey-graham-the-uniparty-s-war-hawk-2026-07-21.md",
+      "upstream_path": "operator-paste://2026-07-21/aaron-mat-lindsey-graham-the-uniparty-s-war-hawk",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mate"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "title-cue",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "US Facing the Risk of a Mass Casualty Attack from Iran /Joe Kent & Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-21/source-us-facing-the-risk-of-a-mass-casualty-attack-from-iran-joe-kent-lt-col-daniel-davis-2026-07-21.md",
+      "voice_index_path": "../../archive/sources/2026-07-21/source-us-facing-the-risk-of-a-mass-casualty-attack-from-iran-joe-kent-lt-col-daniel-davis-2026-07-21.md",
+      "upstream_path": "operator-paste://2026-07-21/us-facing-the-risk-of-a-mass-casualty-attack-from-iran-joe-kent-lt-col-daniel-davis",
+      "source_class": "host monologue",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "kent"
+      ],
+      "host_slug": "daniel-davis",
+      "inference_basis": [
+        "title-cue",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "Matt Hoh : US is Unprepared for Iran War 3.0",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-21/source-matt-hoh-us-is-unprepared-for-iran-war-3-0-2026-07-21.md",
+      "voice_index_path": "../../archive/sources/2026-07-21/source-matt-hoh-us-is-unprepared-for-iran-war-3-0-2026-07-21.md",
+      "upstream_path": "operator-paste://2026-07-21/matt-hoh-us-is-unprepared-for-iran-war-3-0",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "hoh"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "title-cue",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "BREAKING: TRUMP TO BOMB IRAN'S NUCLEAR CENTRIFUGES - w/ Fmr. CIA Larry Johnson",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-21/source-breaking-trump-to-bomb-iran-s-nuclear-centrifuges-w-fmr-cia-larry-johnson-2026-07-21.md",
+      "voice_index_path": "../../archive/sources/2026-07-21/source-breaking-trump-to-bomb-iran-s-nuclear-centrifuges-w-fmr-cia-larry-johnson-2026-07-21.md",
+      "upstream_path": "operator-paste://2026-07-21/breaking-trump-to-bomb-iran-s-nuclear-centrifuges-w-fmr-cia-larry-johnson",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "mario-nawfal",
+      "inference_basis": [
+        "title-cue",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-27",
+      "title": "EU Bans All Russian Gas Imports Denies Hungary Veto; Furious Orban Fico Sue; Europe Crisis; Kupiansk",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-27/source-eu-bans-all-russian-gas-imports-denies-hungary-veto-furious-orban-fico-sue-europe-crisis-kupiansk-2026-01-27.md",
+      "voice_index_path": "../../archive/sources/2026-01-27/source-eu-bans-all-russian-gas-imports-denies-hungary-veto-furious-orban-fico-sue-europe-crisis-kupiansk-2026-01-27.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-27/source-alexander-mercouris-eu-bans-all-russian-gas-imports-denies-hungary-veto-furious-orban-fico-s-2026-01-27.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-29",
+      "title": "Iran Says Will Close Hormuz Straits As US Prepares Attack; Rubio Admits Russian Demands Unchanged",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-29/source-iran-says-will-close-hormuz-straits-as-us-prepares-attack-rubio-admits-russian-demands-unchanged-2026-01-29.md",
+      "voice_index_path": "../../archive/sources/2026-01-29/source-iran-says-will-close-hormuz-straits-as-us-prepares-attack-rubio-admits-russian-demands-unchanged-2026-01-29.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-29/source-alexander-mercouris-iran-says-will-close-hormuz-straits-as-us-prepares-attack-rubio-admits-r-2026-01-29.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-21",
+      "title": "Kiev Blackout Crisis Deepens; 600K Kievans Leave; Zelensky Cancels Davos Trip; More Oreshniks; Davos",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-21/source-kiev-blackout-crisis-deepens-600k-kievans-leave-zelensky-cancels-davos-trip-more-oreshniks-davos-2026-01-21.md",
+      "voice_index_path": "../../archive/sources/2026-01-21/source-kiev-blackout-crisis-deepens-600k-kievans-leave-zelensky-cancels-davos-trip-more-oreshniks-davos-2026-01-21.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-21/source-alexander-mercouris-kiev-blackout-crisis-deepens-600k-kievans-leave-zelensky-cancels-davos-t-2026-01-21.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-25",
+      "title": "Moscow No Concessions US Acting As Conflict Party Abu Dhabi Talks; Oreshnik Capability; Kiev Strikes",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-25/source-moscow-no-concessions-us-acting-as-conflict-party-abu-dhabi-talks-oreshnik-capability-kiev-strikes-2026-01-25.md",
+      "voice_index_path": "../../archive/sources/2026-01-25/source-moscow-no-concessions-us-acting-as-conflict-party-abu-dhabi-talks-oreshnik-capability-kiev-strikes-2026-01-25.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-25/source-alexander-mercouris-moscow-no-concessions-us-acting-as-conflict-party-abu-dhabi-talks-oreshn-2026-01-25.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-09",
+      "title": "Oreshnik Strikes Giant Ukraine Gas Plant; Mayor Urges Kiev Residents Go; Blackouts; EU Gas Shortage",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-09/source-oreshnik-strikes-giant-ukraine-gas-plant-mayor-urges-kiev-residents-go-blackouts-eu-gas-shortage-2026-01-09.md",
+      "voice_index_path": "../../archive/sources/2026-01-09/source-oreshnik-strikes-giant-ukraine-gas-plant-mayor-urges-kiev-residents-go-blackouts-eu-gas-shortage-2026-01-09.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-09/source-alexander-mercouris-oreshnik-strikes-giant-ukraine-gas-plant-mayor-urges-kiev-residents-go-b-2026-01-09.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-31",
+      "title": "Putin Meets Larijani As Iran Seeks Russia's Help; Ukraine Hit By Massive Blackout Mass Drone Strikes",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-31/source-putin-meets-larijani-as-iran-seeks-russia-s-help-ukraine-hit-by-massive-blackout-mass-drone-strikes-2026-01-31.md",
+      "voice_index_path": "../../archive/sources/2026-01-31/source-putin-meets-larijani-as-iran-seeks-russia-s-help-ukraine-hit-by-massive-blackout-mass-drone-strikes-2026-01-31.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-31/source-alexander-mercouris-putin-meets-larijani-as-iran-seeks-russia-s-help-ukraine-hit-by-massive-2026-01-31.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-16",
+      "title": "Putin New Demand As Kiev Collapses: NATO Expansion Must Be Reversed; EU In Panic; Argues Over Envoy",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-16/source-putin-new-demand-as-kiev-collapses-nato-expansion-must-be-reversed-eu-in-panic-argues-over-envoy-2026-01-16.md",
+      "voice_index_path": "../../archive/sources/2026-01-16/source-putin-new-demand-as-kiev-collapses-nato-expansion-must-be-reversed-eu-in-panic-argues-over-envoy-2026-01-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-16/source-alexander-mercouris-putin-new-demand-as-kiev-collapses-nato-expansion-must-be-reversed-eu-in-2026-01-16.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-12",
+      "title": "Russia 10 kms From Zaporozhzhye City; Evacuations Begin; Putin Returns; Iran Stabilises US Retreats",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-12/source-russia-10-kms-from-zaporozhzhye-city-evacuations-begin-putin-returns-iran-stabilises-us-retreats-2026-01-12.md",
+      "voice_index_path": "../../archive/sources/2026-01-12/source-russia-10-kms-from-zaporozhzhye-city-evacuations-begin-putin-returns-iran-stabilises-us-retreats-2026-01-12.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-12/source-alexander-mercouris-russia-10-kms-from-zaporozhzhye-city-evacuations-begin-putin-returns-ira-2026-01-12.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-13",
+      "title": "Russia Helps Iran Jam Starlink Ending Protests; Trump Hits BRICS 25% Iran Tariff; US Prepares Strike",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-13/source-russia-helps-iran-jam-starlink-ending-protests-trump-hits-brics-25-iran-tariff-us-prepares-strike-2026-01-13.md",
+      "voice_index_path": "../../archive/sources/2026-01-13/source-russia-helps-iran-jam-starlink-ending-protests-trump-hits-brics-25-iran-tariff-us-prepares-strike-2026-01-13.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-13/source-alexander-mercouris-russia-helps-iran-jam-starlink-ending-protests-trump-hits-brics-25-iran-2026-01-13.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-22",
+      "title": "Rutte Gives Trump Greenland Sovereign Bases; Shocked Denmark Cut Out; Zelensky Seethes Putin Witkoff",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-22/source-rutte-gives-trump-greenland-sovereign-bases-shocked-denmark-cut-out-zelensky-seethes-putin-witkoff-2026-01-22.md",
+      "voice_index_path": "../../archive/sources/2026-01-22/source-rutte-gives-trump-greenland-sovereign-bases-shocked-denmark-cut-out-zelensky-seethes-putin-witkoff-2026-01-22.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-22/source-alexander-mercouris-rutte-gives-trump-greenland-sovereign-bases-shocked-denmark-cut-out-zele-2026-01-22.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-05",
+      "title": "Trump Threatens Rodriguez; Says Venezuela's Oil Ours; Scorns Putin Drone Attack; Moscow Ups Demands",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-05/source-trump-threatens-rodriguez-says-venezuela-s-oil-ours-scorns-putin-drone-attack-moscow-ups-demands-2026-01-05.md",
+      "voice_index_path": "../../archive/sources/2026-01-05/source-trump-threatens-rodriguez-says-venezuela-s-oil-ours-scorns-putin-drone-attack-moscow-ups-demands-2026-01-05.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-05/source-alexander-mercouris-trump-threatens-rodriguez-says-venezuela-s-oil-ours-scorns-putin-drone-a-2026-01-05.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-03",
+      "title": "US Raids Venezuela Seizes Maduro; No Resistance; Government Retains Control; China Brazil Humiliated",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-03/source-us-raids-venezuela-seizes-maduro-no-resistance-government-retains-control-china-brazil-humiliated-2026-01-03.md",
+      "voice_index_path": "../../archive/sources/2026-01-03/source-us-raids-venezuela-seizes-maduro-no-resistance-government-retains-control-china-brazil-humiliated-2026-01-03.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-03/source-alexander-mercouris-us-raids-venezuela-seizes-maduro-no-resistance-government-retains-contro-2026-01-03.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-07",
+      "title": "US Russia Clash; US Seizes Tanker; Moscow Sends Submarine; US NO Support UK/EU Troops Ukraine Plan",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-07/source-us-russia-clash-us-seizes-tanker-moscow-sends-submarine-us-no-support-uk-eu-troops-ukraine-plan-2026-01-07.md",
+      "voice_index_path": "../../archive/sources/2026-01-07/source-us-russia-clash-us-seizes-tanker-moscow-sends-submarine-us-no-support-uk-eu-troops-ukraine-plan-2026-01-07.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-07/source-alexander-mercouris-us-russia-clash-us-seizes-tanker-moscow-sends-submarine-us-no-support-uk-2026-01-07.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-06",
+      "title": "Venezuela Debacle; US No Plan; Rodriguez Defiant; Oil Companies Skeptical; Greenland Next; NATO Risk",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-06/source-venezuela-debacle-us-no-plan-rodriguez-defiant-oil-companies-skeptical-greenland-next-nato-risk-2026-01-06.md",
+      "voice_index_path": "../../archive/sources/2026-01-06/source-venezuela-debacle-us-no-plan-rodriguez-defiant-oil-companies-skeptical-greenland-next-nato-risk-2026-01-06.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-06/source-alexander-mercouris-venezuela-debacle-us-no-plan-rodriguez-defiant-oil-companies-skeptical-g-2026-01-06.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-23",
+      "title": "Zelensky Fails In Davos, Turns On EU, Says Cannot Resist Putin Trump; Putin US Agree Dirty War Talks",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-23/source-zelensky-fails-in-davos-turns-on-eu-says-cannot-resist-putin-trump-putin-us-agree-dirty-war-talks-2026-01-23.md",
+      "voice_index_path": "../../archive/sources/2026-01-23/source-zelensky-fails-in-davos-turns-on-eu-says-cannot-resist-putin-trump-putin-us-agree-dirty-war-talks-2026-01-23.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-23/source-alexander-mercouris-zelensky-fails-in-davos-turns-on-eu-says-cannot-resist-putin-trump-putin-2026-01-23.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-12",
+      "title": "Larry Johnson: Is the CIA Fueling Iran's Chaos?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-12/source-larry-johnson-is-the-cia-fueling-iran-s-chaos-2026-01-12.md",
+      "voice_index_path": "../../archive/sources/2026-01-12/source-larry-johnson-is-the-cia-fueling-iran-s-chaos-2026-01-12.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-12/source-judging-freedom-johnson-is-the-cia-fueling-irans-chaos-2026-01-12.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-07",
+      "title": "COL. Douglas Macgregor: Trump Is Sleepwalking Into Another War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-07/source-col-douglas-macgregor-trump-is-sleepwalking-into-another-war-2026-01-07.md",
+      "voice_index_path": "../../archive/sources/2026-01-07/source-col-douglas-macgregor-trump-is-sleepwalking-into-another-war-2026-01-07.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-07/source-judging-freedom-macgregor-trump-is-sleepwalking-into-another-war-2026-01-07.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "macgregor"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-15",
+      "title": "John Mearsheimer: Foreign Wars, Domestic Crackdowns",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-15/source-john-mearsheimer-foreign-wars-domestic-crackdowns-2026-01-15.md",
+      "voice_index_path": "../../archive/sources/2026-01-15/source-john-mearsheimer-foreign-wars-domestic-crackdowns-2026-01-15.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-15/source-judging-freedom-mearsheimer-foreign-wars-domestic-crackdowns-2026-01-15.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-20",
+      "title": "Mearsheimer The Tag Team Fails In Iran",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-20/source-mearsheimer-the-tag-team-fails-in-iran-2026-01-20.md",
+      "voice_index_path": "../../archive/sources/2026-01-20/source-mearsheimer-the-tag-team-fails-in-iran-2026-01-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-01-20/source-mearsheimer-the-tag-team-fails-in-iran-2026-01-20.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "mearsheimer",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-10",
+      "title": "Lavrov Says US Seeks Global Dominance US Russia Relations Getting Worse; Russia Crushes Kiev Attack",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-10/source-lavrov-says-us-seeks-global-dominance-us-russia-relations-getting-worse-russia-crushes-kiev-attack-2026-02-10.md",
+      "voice_index_path": "../../archive/sources/2026-02-10/source-lavrov-says-us-seeks-global-dominance-us-russia-relations-getting-worse-russia-crushes-kiev-attack-2026-02-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-10/source-alexander-mercouris-lavrov-says-us-seeks-global-dominance-us-russia-relations-getting-worse-2026-02-10.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-16",
+      "title": "Putin Sends Tough Team Geneva As Russia Prepares Giant Missile Strike; Breaks Through Konstantinovka",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-16/source-putin-sends-tough-team-geneva-as-russia-prepares-giant-missile-strike-breaks-through-konstantinovka-2026-02-16.md",
+      "voice_index_path": "../../archive/sources/2026-02-16/source-putin-sends-tough-team-geneva-as-russia-prepares-giant-missile-strike-breaks-through-konstantinovka-2026-02-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-16/source-alexander-mercouris-putin-sends-tough-team-geneva-as-russia-prepares-giant-missile-strike-br-2026-02-16.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-12",
+      "title": "Russia China Rush Military Aid To Iran Trump Backs Off Argues With Netanyahu; Bondi Epstein Meltdown",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-12/source-russia-china-rush-military-aid-to-iran-trump-backs-off-argues-with-netanyahu-bondi-epstein-meltdown-2026-02-12.md",
+      "voice_index_path": "../../archive/sources/2026-02-12/source-russia-china-rush-military-aid-to-iran-trump-backs-off-argues-with-netanyahu-bondi-epstein-meltdown-2026-02-12.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-12/source-alexander-mercouris-russia-china-rush-military-aid-to-iran-trump-backs-off-argues-with-netan-2026-02-12.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-06",
+      "title": "Russia Furious As Kiev Tries To Kill Deputy Of Russia's Chief Negotiator; Lavrov Says NATO Plans War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-06/source-russia-furious-as-kiev-tries-to-kill-deputy-of-russia-s-chief-negotiator-lavrov-says-nato-plans-war-2026-02-06.md",
+      "voice_index_path": "../../archive/sources/2026-02-06/source-russia-furious-as-kiev-tries-to-kill-deputy-of-russia-s-chief-negotiator-lavrov-says-nato-plans-war-2026-02-06.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-06/source-alexander-mercouris-russia-furious-as-kiev-tries-to-kill-deputy-of-russia-s-chief-negotiator-2026-02-06.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-20",
+      "title": "Russia Iran Fleets Conduct Hormuz Exercise Trump Delays Strike: Moscow Says Kiev Army Wasting Away",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-20/source-russia-iran-fleets-conduct-hormuz-exercise-trump-delays-strike-moscow-says-kiev-army-wasting-away-2026-02-20.md",
+      "voice_index_path": "../../archive/sources/2026-02-20/source-russia-iran-fleets-conduct-hormuz-exercise-trump-delays-strike-moscow-says-kiev-army-wasting-away-2026-02-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-20/source-alexander-mercouris-russia-iran-fleets-conduct-hormuz-exercise-trump-delays-strike-moscow-sa-2026-02-20.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-07",
+      "title": "Russia Knocks Out Kiev's Nuclear Power; Zelensky Panics Blames Ukraine AD; Alexeyev Gunman Captured",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-07/source-russia-knocks-out-kiev-s-nuclear-power-zelensky-panics-blames-ukraine-ad-alexeyev-gunman-captured-2026-02-07.md",
+      "voice_index_path": "../../archive/sources/2026-02-07/source-russia-knocks-out-kiev-s-nuclear-power-zelensky-panics-blames-ukraine-ad-alexeyev-gunman-captured-2026-02-07.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-07/source-alexander-mercouris-russia-knocks-out-kiev-s-nuclear-power-zelensky-panics-blames-ukraine-ad-2026-02-07.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-18",
+      "title": "Russia Rushes Oil To China As Iran Prepares Hormuz Closure; Medinsky Crushes Kiev Hopes Geneva Talks",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-18/source-russia-rushes-oil-to-china-as-iran-prepares-hormuz-closure-medinsky-crushes-kiev-hopes-geneva-talks-2026-02-18.md",
+      "voice_index_path": "../../archive/sources/2026-02-18/source-russia-rushes-oil-to-china-as-iran-prepares-hormuz-closure-medinsky-crushes-kiev-hopes-geneva-talks-2026-02-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-18/source-alexander-mercouris-russia-rushes-oil-to-china-as-iran-prepares-hormuz-closure-medinsky-crus-2026-02-18.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-11",
+      "title": "Russia Strike Coming; Zelensky Rejects Election Call. EU Again Eyes Russian Assets; Alexeyev SBU",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-11/source-russia-strike-coming-zelensky-rejects-election-call-eu-again-eyes-russian-assets-alexeyev-sbu-2026-02-11.md",
+      "voice_index_path": "../../archive/sources/2026-02-11/source-russia-strike-coming-zelensky-rejects-election-call-eu-again-eyes-russian-assets-alexeyev-sbu-2026-02-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-11/source-alexander-mercouris-russia-strike-coming-zelensky-rejects-election-call-eu-again-eyes-russia-2026-02-11.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-05",
+      "title": "Starmer Caught Up Epstein Scandal About To Fall; Russia Plans Kiev Odessa Offensives; UAE Standstill",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-05/source-starmer-caught-up-epstein-scandal-about-to-fall-russia-plans-kiev-odessa-offensives-uae-standstill-2026-02-05.md",
+      "voice_index_path": "../../archive/sources/2026-02-05/source-starmer-caught-up-epstein-scandal-about-to-fall-russia-plans-kiev-odessa-offensives-uae-standstill-2026-02-05.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-05/source-alexander-mercouris-starmer-caught-up-epstein-scandal-about-to-fall-russia-plans-kiev-odessa-2026-02-05.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-02",
+      "title": "Trump Backs Off Iran Attack As Talks Begin; Russia Seeks Kiev Regime Change Winter Advance Quickens",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-02/source-trump-backs-off-iran-attack-as-talks-begin-russia-seeks-kiev-regime-change-winter-advance-quickens-2026-02-02.md",
+      "voice_index_path": "../../archive/sources/2026-02-02/source-trump-backs-off-iran-attack-as-talks-begin-russia-seeks-kiev-regime-change-winter-advance-quickens-2026-02-02.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-02/source-alexander-mercouris-trump-backs-off-iran-attack-as-talks-begin-russia-seeks-kiev-regime-chan-2026-02-02.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-16",
+      "title": "ALERT: What Trump Must Understand EPSTEIN CLASS v. WORKING CLASS /Robert Barnes",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-16/source-alert-what-trump-must-understand-epstein-class-v-working-class-robert-barnes-2026-02-16.md",
+      "voice_index_path": "../../archive/sources/2026-02-16/source-alert-what-trump-must-understand-epstein-class-v-working-class-robert-barnes-2026-02-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-16/source-daniel-davis-alert-what-trump-must-understand-epstein-class-v-working-class-2026-02-16.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-23",
+      "title": "Larry Johnson: Trump's Decision Making and Huckabee's Buffoonery",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-23/source-larry-johnson-trump-s-decision-making-and-huckabee-s-buffoonery-2026-02-23.md",
+      "voice_index_path": "../../archive/sources/2026-02-23/source-larry-johnson-trump-s-decision-making-and-huckabee-s-buffoonery-2026-02-23.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-23/source-judging-freedom-johnson-trumps-decision-making-and-huckabees-buffoonery-2026-02-23.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-17",
+      "title": "John Mearsheimer: How Trump Has Boxed Himself Into a Corner on Iran",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-17/source-john-mearsheimer-how-trump-has-boxed-himself-into-a-corner-on-iran-2026-02-17.md",
+      "voice_index_path": "../../archive/sources/2026-02-17/source-john-mearsheimer-how-trump-has-boxed-himself-into-a-corner-on-iran-2026-02-17.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-17/source-judging-freedom-mearsheimer-how-trump-has-boxed-himself-into-a-corner-on-iran-2026-02-17.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-20",
+      "title": "Mearsheimer Is A Peace Deal In Ukraine Possible",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-20/source-mearsheimer-is-a-peace-deal-in-ukraine-possible-2026-02-20.md",
+      "voice_index_path": "../../archive/sources/2026-02-20/source-mearsheimer-is-a-peace-deal-in-ukraine-possible-2026-02-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-02-20/source-mearsheimer-is-a-peace-deal-in-ukraine-possible-2026-02-20.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "mearsheimer",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-15",
+      "title": "EU Despair Says Iran War Disaster For Kiev; Iran Crushes US Regime Change Plan; Moscow No More Talks",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-15/source-eu-despair-says-iran-war-disaster-for-kiev-iran-crushes-us-regime-change-plan-moscow-no-more-talks-2026-03-15.md",
+      "voice_index_path": "../../archive/sources/2026-03-15/source-eu-despair-says-iran-war-disaster-for-kiev-iran-crushes-us-regime-change-plan-moscow-no-more-talks-2026-03-15.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-15/source-alexander-mercouris-eu-despair-says-iran-war-disaster-for-kiev-iran-crushes-us-regime-change-2026-03-15.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-14",
+      "title": "EU UK Furious As Russia Exports Soar Sanctions Unravel; Aid To Kiev Stops; US NO To Kiev Drone Offer",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-14/source-eu-uk-furious-as-russia-exports-soar-sanctions-unravel-aid-to-kiev-stops-us-no-to-kiev-drone-offer-2026-03-14.md",
+      "voice_index_path": "../../archive/sources/2026-03-14/source-eu-uk-furious-as-russia-exports-soar-sanctions-unravel-aid-to-kiev-stops-us-no-to-kiev-drone-offer-2026-03-14.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-14/source-alexander-mercouris-eu-uk-furious-as-russia-exports-soar-sanctions-unravel-aid-to-kiev-stops-2026-03-14.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "EU Won't Join Iran War Wants Moscow Talks; Russia Says NO Throws Out Macron Envoys; Khamenei Moscow",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-16/source-eu-won-t-join-iran-war-wants-moscow-talks-russia-says-no-throws-out-macron-envoys-khamenei-moscow-2026-03-16.md",
+      "voice_index_path": "../../archive/sources/2026-03-16/source-eu-won-t-join-iran-war-wants-moscow-talks-russia-says-no-throws-out-macron-envoys-khamenei-moscow-2026-03-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-16/source-alexander-mercouris-eu-won-t-join-iran-war-wants-moscow-talks-russia-says-no-throws-out-macr-2026-03-16.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-10",
+      "title": "Iran Debacle; US Officials Tell Trump End War; Trump Calls Putin Begs Help Tough Talks; Iran Defiant",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-10/source-iran-debacle-us-officials-tell-trump-end-war-trump-calls-putin-begs-help-tough-talks-iran-defiant-2026-03-10.md",
+      "voice_index_path": "../../archive/sources/2026-03-10/source-iran-debacle-us-officials-tell-trump-end-war-trump-calls-putin-begs-help-tough-talks-iran-defiant-2026-03-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-10/source-alexander-mercouris-iran-debacle-us-officials-tell-trump-end-war-trump-calls-putin-begs-help-2026-03-10.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-04",
+      "title": "Iran Hormuz Closure Causes Energy Supply Shock; US Mulls Invasion; Fears Long War; Tehran Devastated",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-04/source-iran-hormuz-closure-causes-energy-supply-shock-us-mulls-invasion-fears-long-war-tehran-devastated-2026-03-04.md",
+      "voice_index_path": "../../archive/sources/2026-03-04/source-iran-hormuz-closure-causes-energy-supply-shock-us-mulls-invasion-fears-long-war-tehran-devastated-2026-03-04.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-04/source-alexander-mercouris-iran-hormuz-closure-causes-energy-supply-shock-us-mulls-invasion-fears-l-2026-03-04.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "Iran Leader: Keep Hormuz Closed; Tankers Destroyed Oil Surges US No Plan; Moscow: UK Behind Bryansk",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-12/source-iran-leader-keep-hormuz-closed-tankers-destroyed-oil-surges-us-no-plan-moscow-uk-behind-bryansk-2026-03-12.md",
+      "voice_index_path": "../../archive/sources/2026-03-12/source-iran-leader-keep-hormuz-closed-tankers-destroyed-oil-surges-us-no-plan-moscow-uk-behind-bryansk-2026-03-12.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-12/source-alexander-mercouris-iran-leader-keep-hormuz-closed-tankers-destroyed-oil-surges-us-no-plan-m-2026-03-12.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "Iran Tightens Hormuz Blockade. US Strikes Intensify. Kurds IN, Ukraine OUT. EU Economic Collapse",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-05/source-iran-tightens-hormuz-blockade-us-strikes-intensify-kurds-in-ukraine-out-eu-economic-collapse-2026-03-05.md",
+      "voice_index_path": "../../archive/sources/2026-03-05/source-iran-tightens-hormuz-blockade-us-strikes-intensify-kurds-in-ukraine-out-eu-economic-collapse-2026-03-05.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-05/source-alexander-mercouris-iran-tightens-hormuz-blockade-us-strikes-intensify-kurds-in-ukraine-out-2026-03-05.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-13",
+      "title": "Russia Blamed for Iran Missile Strikes; Drones Smash Bases. Ships Burn in Hormuz. French Forces Hit",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-13/source-russia-blamed-for-iran-missile-strikes-drones-smash-bases-ships-burn-in-hormuz-french-forces-hit-2026-03-13.md",
+      "voice_index_path": "../../archive/sources/2026-03-13/source-russia-blamed-for-iran-missile-strikes-drones-smash-bases-ships-burn-in-hormuz-french-forces-hit-2026-03-13.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-13/source-alexander-mercouris-russia-blamed-for-iran-missile-strikes-drones-smash-bases-ships-burn-in-2026-03-13.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "Russia Steps Up Iran Aid; Iran Hits F35; Energy Crisis Causes Recession Fears; Neocons Want Kharg Op",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-20/source-russia-steps-up-iran-aid-iran-hits-f35-energy-crisis-causes-recession-fears-neocons-want-kharg-op-2026-03-20.md",
+      "voice_index_path": "../../archive/sources/2026-03-20/source-russia-steps-up-iran-aid-iran-hits-f35-energy-crisis-causes-recession-fears-neocons-want-kharg-op-2026-03-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-20/source-alexander-mercouris-russia-steps-up-iran-aid-iran-hits-f35-energy-crisis-causes-recession-fe-2026-03-20.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-23",
+      "title": "Trump Backs Down; Postpones Hormuz Ultimatum; Claims US Iran Talks Underway; Iran Defiant; NO Talks",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-23/source-trump-backs-down-postpones-hormuz-ultimatum-claims-us-iran-talks-underway-iran-defiant-no-talks-2026-03-23.md",
+      "voice_index_path": "../../archive/sources/2026-03-23/source-trump-backs-down-postpones-hormuz-ultimatum-claims-us-iran-talks-underway-iran-defiant-no-talks-2026-03-23.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-23/source-alexander-mercouris-trump-backs-down-postpones-hormuz-ultimatum-claims-us-iran-talks-underwa-2026-03-23.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-09",
+      "title": "US EU Panic $100 Oil Price; Khamenei's Hardline Son New Iran Leader Gets Putin Backing; Gulf Crisis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-09/source-us-eu-panic-100-oil-price-khamenei-s-hardline-son-new-iran-leader-gets-putin-backing-gulf-crisis-2026-03-09.md",
+      "voice_index_path": "../../archive/sources/2026-03-09/source-us-eu-panic-100-oil-price-khamenei-s-hardline-son-new-iran-leader-gets-putin-backing-gulf-crisis-2026-03-09.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-09/source-alexander-mercouris-us-eu-panic-100-oil-price-khamenei-s-hardline-son-new-iran-leader-gets-p-2026-03-09.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "US Iran Crisis Deepens; Iran Mines Hormuz Strait Continues Strikes Seeks Reparations; Bryansk Strike",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-11/source-us-iran-crisis-deepens-iran-mines-hormuz-strait-continues-strikes-seeks-reparations-bryansk-strike-2026-03-11.md",
+      "voice_index_path": "../../archive/sources/2026-03-11/source-us-iran-crisis-deepens-iran-mines-hormuz-strait-continues-strikes-seeks-reparations-bryansk-strike-2026-03-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-11/source-alexander-mercouris-us-iran-crisis-deepens-iran-mines-hormuz-strait-continues-strikes-seeks-2026-03-11.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-08",
+      "title": "US Israel Escalate As Iran Defiant, Fear Russia Aids Iran; Plan Kharg Island Capture; Kurds Stay Out",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-08/source-us-israel-escalate-as-iran-defiant-fear-russia-aids-iran-plan-kharg-island-capture-kurds-stay-out-2026-03-08.md",
+      "voice_index_path": "../../archive/sources/2026-03-08/source-us-israel-escalate-as-iran-defiant-fear-russia-aids-iran-plan-kharg-island-capture-kurds-stay-out-2026-03-08.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-08/source-alexander-mercouris-us-israel-escalate-as-iran-defiant-fear-russia-aids-iran-plan-kharg-isla-2026-03-08.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-08",
+      "title": "TRUMP: IRAN WAR BASICALLY OVER & ENDING SOON /Generals Argue for Ground Forces",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-08/source-trump-iran-war-basically-over-ending-soon-generals-argue-for-ground-forces-2026-03-08.md",
+      "voice_index_path": "../../archive/sources/2026-03-08/source-trump-iran-war-basically-over-ending-soon-generals-argue-for-ground-forces-2026-03-08.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-08/source-daniel-davis-trump-iran-war-basically-over-and-ending-soon-generals-argue-for-ground-forces-2026-03-08.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-30",
+      "title": "Larry Johnson: Trump's Suicide Mission of Boots on the Ground",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-30/source-larry-johnson-trump-s-suicide-mission-of-boots-on-the-ground-2026-03-30.md",
+      "voice_index_path": "../../archive/sources/2026-03-30/source-larry-johnson-trump-s-suicide-mission-of-boots-on-the-ground-2026-03-30.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-30/source-judging-freedom-johnson-trumps-suicide-mission-of-boots-on-the-ground-2026-03-30.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-31",
+      "title": "John Mearsheimer: Will Trump Go Kamikaze?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-31/source-john-mearsheimer-will-trump-go-kamikaze-2026-03-31.md",
+      "voice_index_path": "../../archive/sources/2026-03-31/source-john-mearsheimer-will-trump-go-kamikaze-2026-03-31.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-31/source-judging-freedom-mearsheimer-will-trump-go-kamikaze-2026-03-31.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-29",
+      "title": "Mearsheimer Will Trump Go Kamikaze",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-29/source-mearsheimer-will-trump-go-kamikaze-2026-03-29.md",
+      "voice_index_path": "../../archive/sources/2026-03-29/source-mearsheimer-will-trump-go-kamikaze-2026-03-29.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-29/source-mearsheimer-will-trump-go-kamikaze-2026-03-29.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "mearsheimer",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "Joe Kent Reveals All in First Interview Since Resigning as Trump's Counterterrorism Director",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-18/source-joe-kent-reveals-all-in-first-interview-since-resigning-as-trump-s-counterterrorism-director-2026-03-18.md",
+      "voice_index_path": "../../archive/sources/2026-03-18/source-joe-kent-reveals-all-in-first-interview-since-resigning-as-trump-s-counterterrorism-director-2026-03-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-03-18/source-tucker-carlson-joe-kent-reveals-all-in-first-interview-since-resigning-as-trump-s-count-2026-03-18.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "kent"
+      ],
+      "host_slug": "tucker-carlson",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-02",
+      "title": "EU Kiev Crisis; US Stops Arms Deliveries Pulls Out 5000 Troops; Merz Flounders; Russia Odessa Goal",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-02/source-eu-kiev-crisis-us-stops-arms-deliveries-pulls-out-5000-troops-merz-flounders-russia-odessa-goal-2026-05-02.md",
+      "voice_index_path": "../../archive/sources/2026-05-02/source-eu-kiev-crisis-us-stops-arms-deliveries-pulls-out-5000-troops-merz-flounders-russia-odessa-goal-2026-05-02.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-02/source-alexander-mercouris-eu-kiev-crisis-us-stops-arms-deliveries-pulls-out-5000-troops-merz-floun-2026-05-02.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-01",
+      "title": "Gulf States Follow UAE Beg US Aid; Kiev EU Row; Russia Tells Kiev Troops Konstantinovka Surrender",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-01/source-gulf-states-follow-uae-beg-us-aid-kiev-eu-row-russia-tells-kiev-troops-konstantinovka-surrender-2026-05-01.md",
+      "voice_index_path": "../../archive/sources/2026-05-01/source-gulf-states-follow-uae-beg-us-aid-kiev-eu-row-russia-tells-kiev-troops-konstantinovka-surrender-2026-05-01.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-01/source-alexander-mercouris-gulf-states-follow-uae-beg-us-aid-kiev-eu-row-russia-tells-kiev-troops-k-2026-05-01.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "Alexander Mercouris Russia Makes Strongest Threats Kiev Eu Refuses May Truce",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-08/source-alexander-mercouris-russia-makes-strongest-threats-kiev-eu-refuses-may-truce-2026-05-08.md",
+      "voice_index_path": "../../archive/sources/2026-05-08/source-alexander-mercouris-russia-makes-strongest-threats-kiev-eu-refuses-may-truce-2026-05-08.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-08/source-alexander-mercouris-russia-makes-strongest-threats-kiev-eu-refuses-may-truce-2026-05-08.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-09",
+      "title": "Victory Day, Kiev Threats, Hormuz Standoff, and Britain’s Local Elections",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-09/source-victory-day-kiev-threats-hormuz-standoff-and-britain-s-local-elections-2026-05-09.md",
+      "voice_index_path": "../../archive/sources/2026-05-09/source-victory-day-kiev-threats-hormuz-standoff-and-britain-s-local-elections-2026-05-09.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-09/source-alexander-mercouris-victory-day-kiev-hormuz-britain-local-elections-2026-05-09.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-29",
+      "title": "Iran War Never Stops While Israel Attacks Lebanon /Nima Alkhorshid & Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-29/source-iran-war-never-stops-while-israel-attacks-lebanon-nima-alkhorshid-lt-col-daniel-davis-2026-05-29.md",
+      "voice_index_path": "../../archive/sources/2026-05-29/source-iran-war-never-stops-while-israel-attacks-lebanon-nima-alkhorshid-lt-col-daniel-davis-2026-05-29.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-29/source-daniel-davis-alkorshid-iran-war-never-stops-while-israel-attacks-lebanon-nima-alkhorshid-lt-col-daniel-davis-2026-05-29.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-09",
+      "title": "Iran Response, Walk-Away Theory, and the Cost of Escalation",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-09/source-iran-response-walk-away-theory-and-the-cost-of-escalation-2026-05-09.md",
+      "voice_index_path": "../../archive/sources/2026-05-09/source-iran-response-walk-away-theory-and-the-cost-of-escalation-2026-05-09.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-09/source-daniel-davis-iran-response-proposal-walk-away-theory-2026-05-09.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-29",
+      "title": "IRAN, TRUMP & TRUST /Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-29/source-iran-trump-trust-lt-col-daniel-davis-2026-05-29.md",
+      "voice_index_path": "../../archive/sources/2026-05-29/source-iran-trump-trust-lt-col-daniel-davis-2026-05-29.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-29/source-daniel-davis-iran-trump-and-trust-2026-05-29.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-25",
+      "title": "Iran War Cheerleaders & the Mixed Messaging Surrounding a Deal",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-25/source-iran-war-cheerleaders-the-mixed-messaging-surrounding-a-deal-2026-05-25.md",
+      "voice_index_path": "../../archive/sources/2026-05-25/source-iran-war-cheerleaders-the-mixed-messaging-surrounding-a-deal-2026-05-25.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-25/source-daniel-davis-iran-war-cheerleaders-mixed-messaging-surrounding-a-deal-2026-05-25.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "US Must Stop the Siege of Iran /Professor Seyed Marandi & Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-26/source-us-must-stop-the-siege-of-iran-professor-seyed-marandi-lt-col-daniel-davis-2026-05-26.md",
+      "voice_index_path": "../../archive/sources/2026-05-26/source-us-must-stop-the-siege-of-iran-professor-seyed-marandi-lt-col-daniel-davis-2026-05-26.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-daniel-davis-us-must-stop-the-siege-of-iran-2026-05-26.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-22",
+      "title": "Stanislav Krapivnik: Tulsi Gabbard Resigns! - Hezbollah Crushes IDF - War Becomes UNAFFORDABLE",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-22/source-stanislav-krapivnik-tulsi-gabbard-resigns-hezbollah-crushes-idf-war-becomes-unaffordable-2026-05-22.md",
+      "voice_index_path": "../../archive/sources/2026-05-22/source-stanislav-krapivnik-tulsi-gabbard-resigns-hezbollah-crushes-idf-war-becomes-unaffordable-2026-05-22.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-22/source-dialogue-works-stanislav-krapivnik-tulsi-gabbard-resigns-hezbollah-crushes-idf-war-becomes-unaffordable-2026-05-22.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "krapivnik"
+      ],
+      "host_slug": "dialogue-works",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "Larry Johnson: Trump Afraid of the Zionists",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-26/source-larry-johnson-trump-afraid-of-the-zionists-2026-05-26.md",
+      "voice_index_path": "../../archive/sources/2026-05-26/source-larry-johnson-trump-afraid-of-the-zionists-2026-05-26.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-judging-freedom-johnson-trump-afraid-of-the-zionists-2026-05-26.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-28",
+      "title": "Prof. Mohammad Marandi : FROM TEHRAN: Should Iran Trust Trump?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-28/source-prof-mohammad-marandi-from-tehran-should-iran-trust-trump-2026-05-28.md",
+      "voice_index_path": "../../archive/sources/2026-05-28/source-prof-mohammad-marandi-from-tehran-should-iran-trust-trump-2026-05-28.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-28/source-judging-freedom-marandi-from-tehran-should-iran-trust-trump-2026-05-28.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "Prof. John Mearsheimer: Neocons Want More War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-26/source-prof-john-mearsheimer-neocons-want-more-war-2026-05-26.md",
+      "voice_index_path": "../../archive/sources/2026-05-26/source-prof-john-mearsheimer-neocons-want-more-war-2026-05-26.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-judging-freedom-mearsheimer-neocons-want-more-war-2026-05-26.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "Iran Defies US Refuses Talk Ceasefire About To End; Russia Warns Donbass Falling Baltics Will Follow",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-21/source-iran-defies-us-refuses-talk-ceasefire-about-to-end-russia-warns-donbass-falling-baltics-will-follow-2026-04-21.md",
+      "voice_index_path": "../../archive/sources/2026-04-21/source-iran-defies-us-refuses-talk-ceasefire-about-to-end-russia-warns-donbass-falling-baltics-will-follow-2026-04-21.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-21/source-alexander-mercouris-iran-defies-us-refuses-talk-ceasefire-about-to-end-russia-warns-donbass-2026-04-21.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "Iran Furious Shuts Hormuz Defies US Denies Trump Claims; Russia Ominous War Warning To Baltic States",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-18/source-iran-furious-shuts-hormuz-defies-us-denies-trump-claims-russia-ominous-war-warning-to-baltic-states-2026-04-18.md",
+      "voice_index_path": "../../archive/sources/2026-04-18/source-iran-furious-shuts-hormuz-defies-us-denies-trump-claims-russia-ominous-war-warning-to-baltic-states-2026-04-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-18/source-alexander-mercouris-iran-furious-shuts-hormuz-defies-us-denies-trump-claims-russia-ominous-w-2026-04-18.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "Iran Keeps Hormuz, Russia Keeps Advancing, Two Wars at a Crossroads. Russian Subs Prowl UK Seas",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-11/source-iran-keeps-hormuz-russia-keeps-advancing-two-wars-at-a-crossroads-russian-subs-prowl-uk-seas-2026-04-11.md",
+      "voice_index_path": "../../archive/sources/2026-04-11/source-iran-keeps-hormuz-russia-keeps-advancing-two-wars-at-a-crossroads-russian-subs-prowl-uk-seas-2026-04-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-11/source-alexander-mercouris-iran-keeps-hormuz-russia-keeps-advancing-two-wars-at-a-crossroads-russia-2026-04-11.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "Iran Scents Victory As Trump Backs Off Extends Ceasefire; Putin Hard Line Slaviansk Defence Crumbles",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-22/source-iran-scents-victory-as-trump-backs-off-extends-ceasefire-putin-hard-line-slaviansk-defence-crumbles-2026-04-22.md",
+      "voice_index_path": "../../archive/sources/2026-04-22/source-iran-scents-victory-as-trump-backs-off-extends-ceasefire-putin-hard-line-slaviansk-defence-crumbles-2026-04-22.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-22/source-alexander-mercouris-iran-scents-victory-as-trump-backs-off-extends-ceasefire-putin-hard-line-2026-04-22.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-27",
+      "title": "Iran Toughens Terms As Araghchi Meets Putin; Refuses Talks On Enrichment; Russia Prepares War With EU",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-27/source-iran-toughens-terms-as-araghchi-meets-putin-refuses-talks-on-enrichment-russia-prepares-war-with-eu-2026-04-27.md",
+      "voice_index_path": "../../archive/sources/2026-04-27/source-iran-toughens-terms-as-araghchi-meets-putin-refuses-talks-on-enrichment-russia-prepares-war-with-eu-2026-04-27.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-27/source-alexander-mercouris-iran-toughens-terms-as-aragchi-meets-putin-refuses-talks-on-enrichment-r-2026-04-27.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-19",
+      "title": "Lavrov Says US Iran War About Oil; Targets China; Warns Russia Will Enforce Baltic Red Line; Araghchi",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-19/source-lavrov-says-us-iran-war-about-oil-targets-china-warns-russia-will-enforce-baltic-red-line-araghchi-2026-04-19.md",
+      "voice_index_path": "../../archive/sources/2026-04-19/source-lavrov-says-us-iran-war-about-oil-targets-china-warns-russia-will-enforce-baltic-red-line-araghchi-2026-04-19.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-19/source-alexander-mercouris-lavrov-says-us-iran-war-about-oil-targets-china-warns-russia-will-enforc-2026-04-19.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-25",
+      "title": "Lavrov Warns Europe Declared War On Russia; Araghchi To Moscow Won't Talk To US; EU: Kiev Cannot Join",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-25/source-lavrov-warns-europe-declared-war-on-russia-araghchi-to-moscow-won-t-talk-to-us-eu-kiev-cannot-join-2026-04-25.md",
+      "voice_index_path": "../../archive/sources/2026-04-25/source-lavrov-warns-europe-declared-war-on-russia-araghchi-to-moscow-won-t-talk-to-us-eu-kiev-cannot-join-2026-04-25.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-25/source-alexander-mercouris-lavrov-warns-europe-declared-war-on-russia-aragchi-to-moscow-won-t-talk-2026-04-25.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-14",
+      "title": "Russia China Meet Plan Expel US Mideast; Trump Blockade Fails; EU Panics As Russia Brings Asset Case",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-14/source-russia-china-meet-plan-expel-us-mideast-trump-blockade-fails-eu-panics-as-russia-brings-asset-case-2026-04-14.md",
+      "voice_index_path": "../../archive/sources/2026-04-14/source-russia-china-meet-plan-expel-us-mideast-trump-blockade-fails-eu-panics-as-russia-brings-asset-case-2026-04-14.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-14/source-alexander-mercouris-russia-china-meet-plan-expel-us-mideast-trump-blockade-fails-eu-panics-a-2026-04-14.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "Russia: EU Makes Drones For Kiev; Medvedev Warns; Iran Welcomes Pakistan Chief; Lavrov Saudi FM Talk",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-16/source-russia-eu-makes-drones-for-kiev-medvedev-warns-iran-welcomes-pakistan-chief-lavrov-saudi-fm-talk-2026-04-16.md",
+      "voice_index_path": "../../archive/sources/2026-04-16/source-russia-eu-makes-drones-for-kiev-medvedev-warns-iran-welcomes-pakistan-chief-lavrov-saudi-fm-talk-2026-04-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-16/source-alexander-mercouris-russia-eu-makes-drones-for-kiev-medvedev-warns-iran-welcomes-pakistan-ch-2026-04-16.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "Russia Prepares Final Donbass Battle UK Drops Plan Seize Russian Ships; Hormuz Crisis Deepens; Talks",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-10/source-russia-prepares-final-donbass-battle-uk-drops-plan-seize-russian-ships-hormuz-crisis-deepens-talks-2026-04-10.md",
+      "voice_index_path": "../../archive/sources/2026-04-10/source-russia-prepares-final-donbass-battle-uk-drops-plan-seize-russian-ships-hormuz-crisis-deepens-talks-2026-04-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-10/source-alexander-mercouris-russia-prepares-final-donbass-battle-uk-drops-plan-seize-russian-ships-h-2026-04-10.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-20",
+      "title": "Russia Says US Blockade Failing; 40 Iran Ships Transit Hormuz; US Mulls Retreat; Kiev Army Dwindles",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-20/source-russia-says-us-blockade-failing-40-iran-ships-transit-hormuz-us-mulls-retreat-kiev-army-dwindles-2026-04-20.md",
+      "voice_index_path": "../../archive/sources/2026-04-20/source-russia-says-us-blockade-failing-40-iran-ships-transit-hormuz-us-mulls-retreat-kiev-army-dwindles-2026-04-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-20/source-alexander-mercouris-russia-says-us-blockade-failing-40-iran-ships-transit-hormuz-us-mulls-re-2026-04-20.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "US Gives Iran Control Of Hormuz For 2 Week Truce; Talks Iran 10 Points; US Out Of Military Options",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-08/source-us-gives-iran-control-of-hormuz-for-2-week-truce-talks-iran-10-points-us-out-of-military-options-2026-04-08.md",
+      "voice_index_path": "../../archive/sources/2026-04-08/source-us-gives-iran-control-of-hormuz-for-2-week-truce-talks-iran-10-points-us-out-of-military-options-2026-04-08.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-08/source-alexander-mercouris-us-gives-iran-control-of-hormuz-for-2-week-truce-talks-iran-10-points-us-2026-04-08.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "US Iran Sea Blockade: Talks Collapse; Iran Calls Putin, Lavrov To China; Budanov Kiev Faces Disaster",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-13/source-us-iran-sea-blockade-talks-collapse-iran-calls-putin-lavrov-to-china-budanov-kiev-faces-disaster-2026-04-13.md",
+      "voice_index_path": "../../archive/sources/2026-04-13/source-us-iran-sea-blockade-talks-collapse-iran-calls-putin-lavrov-to-china-budanov-kiev-faces-disaster-2026-04-13.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-13/source-alexander-mercouris-us-iran-sea-blockade-talks-collapse-iran-calls-putin-lavrov-to-china-bud-2026-04-13.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-07",
+      "title": "US Prepares Huge Iran Strike; Russian Spy Satellite Data Helps Iran; Kiev Fears Big Oreshnik Strike",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-07/source-us-prepares-huge-iran-strike-russian-spy-satellite-data-helps-iran-kiev-fears-big-oreshnik-strike-2026-04-07.md",
+      "voice_index_path": "../../archive/sources/2026-04-07/source-us-prepares-huge-iran-strike-russian-spy-satellite-data-helps-iran-kiev-fears-big-oreshnik-strike-2026-04-07.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-07/source-alexander-mercouris-us-prepares-huge-iran-strike-russian-spy-satellite-data-helps-iran-kiev-2026-04-07.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-16/source-daniel-davis-2026-04-16.md",
+      "voice_index_path": "../../archive/sources/2026-04-16/source-daniel-davis-2026-04-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-16/source-daniel-davis-2026-04-16.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-17/source-daniel-davis-2026-04-17.md",
+      "voice_index_path": "../../archive/sources/2026-04-17/source-daniel-davis-2026-04-17.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-17/source-daniel-davis-2026-04-17.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-18/source-daniel-davis-2026-04-18.md",
+      "voice_index_path": "../../archive/sources/2026-04-18/source-daniel-davis-2026-04-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-18/source-daniel-davis-2026-04-18.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "Diesen",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-17/source-diesen-2026-04-17.md",
+      "voice_index_path": "../../archive/sources/2026-04-17/source-diesen-2026-04-17.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-17/source-diesen-2026-04-17.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "diesen"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "Diesen 2026 04 18 Verbatim",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-18/source-diesen-2026-04-18-verbatim-2026-04-18.md",
+      "voice_index_path": "../../archive/sources/2026-04-18/source-diesen-2026-04-18-verbatim-2026-04-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-18/source-diesen-2026-04-18-verbatim-2026-04-18.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "diesen"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "Diesen",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-18/source-diesen-2026-04-18.md",
+      "voice_index_path": "../../archive/sources/2026-04-18/source-diesen-2026-04-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-18/source-diesen-2026-04-18.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "diesen"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "Duran Mercouris",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-18/source-duran-mercouris-2026-04-18.md",
+      "voice_index_path": "../../archive/sources/2026-04-18/source-duran-mercouris-2026-04-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-18/source-duran-mercouris-2026-04-18.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "the-duran",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-20",
+      "title": "Ghalibaf Marandi Repost Siege Battlefield",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-20/source-ghalibaf-marandi-repost-siege-battlefield-2026-04-20.md",
+      "voice_index_path": "../../archive/sources/2026-04-20/source-ghalibaf-marandi-repost-siege-battlefield-2026-04-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-20/source-ghalibaf-marandi-repost-siege-battlefield-2026-04-20.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-20",
+      "title": "Hedges Mearsheimer Iran",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-20/source-hedges-mearsheimer-iran-2026-04-20.md",
+      "voice_index_path": "../../archive/sources/2026-04-20/source-hedges-mearsheimer-iran-2026-04-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-20/source-hedges-mearsheimer-iran-2026-04-20.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "mearsheimer",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "Johnson",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-17/source-johnson-2026-04-17.md",
+      "voice_index_path": "../../archive/sources/2026-04-17/source-johnson-2026-04-17.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-17/source-johnson-2026-04-17.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "Johnson",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-18/source-johnson-2026-04-18.md",
+      "voice_index_path": "../../archive/sources/2026-04-18/source-johnson-2026-04-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-18/source-johnson-2026-04-18.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-26",
+      "title": "Johnson Lets Talk Geopolitics Whcd Iran",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-26/source-johnson-lets-talk-geopolitics-whcd-iran-2026-04-26.md",
+      "voice_index_path": "../../archive/sources/2026-04-26/source-johnson-lets-talk-geopolitics-whcd-iran-2026-04-26.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-26/source-johnson-lets-talk-geopolitics-whcd-iran-2026-04-26.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-20",
+      "title": "Johnson Who Controls Hormuz",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-20/source-johnson-who-controls-hormuz-2026-04-20.md",
+      "voice_index_path": "../../archive/sources/2026-04-20/source-johnson-who-controls-hormuz-2026-04-20.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-20/source-johnson-who-controls-hormuz-2026-04-20.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "John Mearsheimer: How Trump Lost His War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-28/source-john-mearsheimer-how-trump-lost-his-war-2026-04-28.md",
+      "voice_index_path": "../../archive/sources/2026-04-28/source-john-mearsheimer-how-trump-lost-his-war-2026-04-28.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-28/source-judging-freedom-mearsheimer-how-trump-lost-his-war-2026-04-28.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "Marandi",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-16/source-marandi-2026-04-16.md",
+      "voice_index_path": "../../archive/sources/2026-04-16/source-marandi-2026-04-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-16/source-marandi-2026-04-16.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "Marandi",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-17/source-marandi-2026-04-17.md",
+      "voice_index_path": "../../archive/sources/2026-04-17/source-marandi-2026-04-17.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-17/source-marandi-2026-04-17.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "Marandi",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-18/source-marandi-2026-04-18.md",
+      "voice_index_path": "../../archive/sources/2026-04-18/source-marandi-2026-04-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-18/source-marandi-2026-04-18.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "Marandi Blockade Trump Nima",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-21/source-marandi-blockade-trump-nima-2026-04-21.md",
+      "voice_index_path": "../../archive/sources/2026-04-21/source-marandi-blockade-trump-nima-2026-04-21.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-21/source-marandi-blockade-trump-nima-2026-04-21.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "Marandi Dialogue Works Trump Plan Dead After Strike",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-28/source-marandi-dialogue-works-trump-plan-dead-after-strike-2026-04-28.md",
+      "voice_index_path": "../../archive/sources/2026-04-28/source-marandi-dialogue-works-trump-plan-dead-after-strike-2026-04-28.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-28/source-marandi-dialogue-works-trump-plan-dead-after-strike-2026-04-28.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "Mearsheimer Redacted Trump Iran",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-21/source-mearsheimer-redacted-trump-iran-2026-04-21.md",
+      "voice_index_path": "../../archive/sources/2026-04-21/source-mearsheimer-redacted-trump-iran-2026-04-21.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-21/source-mearsheimer-redacted-trump-iran-2026-04-21.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "mearsheimer",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "Pape",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-17/source-pape-2026-04-17.md",
+      "voice_index_path": "../../archive/sources/2026-04-17/source-pape-2026-04-17.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-17/source-pape-2026-04-17.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "pape"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "Pape",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-18/source-pape-2026-04-18.md",
+      "voice_index_path": "../../archive/sources/2026-04-18/source-pape-2026-04-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-18/source-pape-2026-04-18.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "pape"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "Ritter",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-17/source-ritter-2026-04-17.md",
+      "voice_index_path": "../../archive/sources/2026-04-17/source-ritter-2026-04-17.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-17/source-ritter-2026-04-17.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "Ritter",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-18/source-ritter-2026-04-18.md",
+      "voice_index_path": "../../archive/sources/2026-04-18/source-ritter-2026-04-18.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-18/source-ritter-2026-04-18.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-19",
+      "title": "Ritter",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-19/source-ritter-2026-04-19.md",
+      "voice_index_path": "../../archive/sources/2026-04-19/source-ritter-2026-04-19.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-19/source-ritter-2026-04-19.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Patrick Henningsen: Greater Israel Lies in Ruins: The Inside Story of a Total Collapse",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-30/source-patrick-henningsen-greater-israel-lies-in-ruins-the-inside-story-of-a-total-collapse-2026-06-30.md",
+      "voice_index_path": "../../archive/sources/2026-06-30/source-patrick-henningsen-greater-israel-lies-in-ruins-the-inside-story-of-a-total-collapse-2026-06-30.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-30/source-dialogue-works-henningsen-greater-israel-lies-in-ruins-total-collapse-2026-06-30.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "henningsen"
+      ],
+      "host_slug": "dialogue-works",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "BREAKING: Explosions in Bahrain & Kuwait by Iran & Explosion in Kiev w/ Larry Johnson",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-28/source-breaking-explosions-in-bahrain-kuwait-by-iran-explosion-in-kiev-w-larry-johnson-2026-06-28.md",
+      "voice_index_path": "../../archive/sources/2026-06-28/source-breaking-explosions-in-bahrain-kuwait-by-iran-explosion-in-kiev-w-larry-johnson-2026-06-28.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-28/source-dialogue-works-larry-johnson-breaking-explosions-bahrain-kuwait-kiev-2026-06-28.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "dialogue-works",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "Seyed M. Marandi: Hormuz Toll, Strike On Kuwait, Israel Decline & Iranian Nuclear Bomb?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-05/source-seyed-m-marandi-hormuz-toll-strike-on-kuwait-israel-decline-iranian-nuclear-bomb-2026-06-05.md",
+      "voice_index_path": "../../archive/sources/2026-06-05/source-seyed-m-marandi-hormuz-toll-strike-on-kuwait-israel-decline-iranian-nuclear-bomb-2026-06-05.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-05/source-dialogue-works-marandi-hormuz-toll-strike-on-kuwait-israel-decline-iranian-nuclear-bomb-2026-06-05.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Seyed M. Marandi: Iran Steps In as Israel Digs In - Hezbollah Crushes the Buffer Zone Plan",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-30/source-seyed-m-marandi-iran-steps-in-as-israel-digs-in-hezbollah-crushes-the-buffer-zone-plan-2026-06-30.md",
+      "voice_index_path": "../../archive/sources/2026-06-30/source-seyed-m-marandi-iran-steps-in-as-israel-digs-in-hezbollah-crushes-the-buffer-zone-plan-2026-06-30.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-30/source-dialogue-works-marandi-iran-steps-in-as-israel-digs-in-hezbollah-crushes-buffer-zone-plan-2026-06-30.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "dialogue-works",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "Pepe Escobar : How Iran Outsmarted Trump",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-16/source-pepe-escobar-how-iran-outsmarted-trump-2026-06-16.md",
+      "voice_index_path": "../../archive/sources/2026-06-16/source-pepe-escobar-how-iran-outsmarted-trump-2026-06-16.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-16/source-judging-freedom-escobar-how-iran-outsmarted-trump-2026-06-16.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "escobar"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "Joe Kent: Why Trump Is Stuck",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-11/source-joe-kent-why-trump-is-stuck-2026-06-11.md",
+      "voice_index_path": "../../archive/sources/2026-06-11/source-joe-kent-why-trump-is-stuck-2026-06-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-11/source-judging-freedom-kent-why-trump-is-stuck-2026-06-11.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "kent"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-03",
+      "title": "Prof. Mohammad Marandi : FROM TEHRAN: How Iran Trapped Trump",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-03/source-prof-mohammad-marandi-from-tehran-how-iran-trapped-trump-2026-06-03.md",
+      "voice_index_path": "../../archive/sources/2026-06-03/source-prof-mohammad-marandi-from-tehran-how-iran-trapped-trump-2026-06-03.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-03/source-judging-freedom-marandi-from-tehran-how-iran-trapped-trump-2026-06-03.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "Prof. Mohammad Marandi : FROM TEHRAN. Why Iran Risks War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-11/source-prof-mohammad-marandi-from-tehran-why-iran-risks-war-2026-06-11.md",
+      "voice_index_path": "../../archive/sources/2026-06-11/source-prof-mohammad-marandi-from-tehran-why-iran-risks-war-2026-06-11.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-11/source-judging-freedom-marandi-from-tehran-why-iran-risks-war-2026-06-11.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Prof. Mohammad Marandi : Iran Stands Firm at Negotiations",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-24/source-prof-mohammad-marandi-iran-stands-firm-at-negotiations-2026-06-24.md",
+      "voice_index_path": "../../archive/sources/2026-06-24/source-prof-mohammad-marandi-iran-stands-firm-at-negotiations-2026-06-24.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-24/source-judging-freedom-marandi-iran-stands-firm-negotiations-2026-06-24.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "BREAKING: U.S BOOTS ON THE GROUND IN LEBANON, LEBANON RECOGNISE ISRAEL w/ LT COL DANIEL DAVIS",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-26/source-breaking-u-s-boots-on-the-ground-in-lebanon-lebanon-recognise-israel-w-lt-col-daniel-davis-2026-06-26.md",
+      "voice_index_path": "../../archive/sources/2026-06-26/source-breaking-u-s-boots-on-the-ground-in-lebanon-lebanon-recognise-israel-w-lt-col-daniel-davis-2026-06-26.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-26/source-mario-nawfal-daniel-davis-us-boots-lebanon-israel-recognition-mou-2026-06-26.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "mario-nawfal",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-29",
+      "title": "ISRAEL AND OLIGARCHS HIJACKED U.S. GOVERNMENT – w/ Ex-Head of Counter-Terrorism Joe Kent",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-29/source-israel-and-oligarchs-hijacked-u-s-government-w-ex-head-of-counter-terrorism-joe-kent-2026-06-29.md",
+      "voice_index_path": "../../archive/sources/2026-06-29/source-israel-and-oligarchs-hijacked-u-s-government-w-ex-head-of-counter-terrorism-joe-kent-2026-06-29.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-29/source-mario-nawfal-kent-israel-oligarchs-hijacked-us-government-2026-06-29.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "kent"
+      ],
+      "host_slug": "mario-nawfal",
+      "inference_basis": [
+        "explicit-host"
       ],
       "import_status": "imported"
     }

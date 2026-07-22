@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `mearsheimer` to th
 
 Source basis: `strategy-codex/statecraft/voices/mearsheimer/mearsheimer-index.md`.
 
-Corpus: 53 local route rows across 53 central archive source files.
+Corpus: 64 local route rows across 64 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -45,21 +45,31 @@ Status: `first-slice-parity`
 | `2026-01-07` | source-diesen-mearsheimer-venezuela-greenland-nato-2026-01-07 | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-01-07/source-diesen-mearsheimer-venezuela-greenland-nato-2026-01-07.md) |
 | `2026-01-14` | Prof John Mearsheimer: CLASSIC U.S. REGIME CHANGE in IRAN | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-01-14/source-daniel-davis-prof-john-mearsheimer-classic-u-s-regime-change-in-iran-2026-01-14.md) |
 | `2026-01-15` | Prof John Mearsheimer: DISMANTLING IRAN, The Four Part Strategy | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-01-15/source-daniel-davis-prof-john-mearsheimer-dismantling-iran-the-four-part-strategy-2026-01-15.md) |
+| `2026-01-15` | John Mearsheimer: Foreign Wars, Domestic Crackdowns | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-01-15/source-john-mearsheimer-foreign-wars-domestic-crackdowns-2026-01-15.md) |
+| `2026-01-20` | Mearsheimer The Tag Team Fails In Iran | `provisional-route` | `mearsheimer` | [source](../../archive/sources/2026-01-20/source-mearsheimer-the-tag-team-fails-in-iran-2026-01-20.md) |
 | `2026-01-29` | John Mearsheimer: There's NO DECISIVE WIN for TRUMP w/IRAN | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-01-29/source-daniel-davis-john-mearsheimer-there-s-no-decisive-win-for-trump-w-iran-2026-01-29.md) |
 | `2026-01-31` | source-diesen-mearsheimer-cold-war-nato-ukraine-2026-01-31 | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-01-31/source-diesen-mearsheimer-cold-war-nato-ukraine-2026-01-31.md) |
+| `2026-02-17` | John Mearsheimer: How Trump Has Boxed Himself Into a Corner on Iran | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-02-17/source-john-mearsheimer-how-trump-has-boxed-himself-into-a-corner-on-iran-2026-02-17.md) |
+| `2026-02-20` | Mearsheimer Is A Peace Deal In Ukraine Possible | `provisional-route` | `mearsheimer` | [source](../../archive/sources/2026-02-20/source-mearsheimer-is-a-peace-deal-in-ukraine-possible-2026-02-20.md) |
 | `2026-02-24` | John Mearsheimer: Trump Has No Offramp | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-02-24/source-judging-freedom-mearsheimer-trump-has-no-offramp-2026-02-24.md) |
 | `2026-02-25` | John Mearsheimer: The Case for a Nuclear Iran | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-02-25/source-diesen-mearsheimer-case-for-nuclear-iran-2026-02-25.md) |
 | `2026-03-04` | Prof John Mearsheimer NEXT MOVE in IRAN, U.S. Causing INSURRECTION | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-03-04/source-daniel-davis-mearsheimer-next-move-in-iran-us-causing-insurrection-2026-03-04.md) |
 | `2026-03-10` | John Mearsheimer: U.S. Already Lost Iran War â€” No Off-Ramp in Sight | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-03-10/source-diesen-mearsheimer-us-already-lost-no-offramp-2026-03-10.md) |
 | `2026-03-27` | source-diesen-mearsheimer-iran-holds-all-the-cards-2026-03-27 | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-03-27/source-diesen-mearsheimer-iran-holds-all-the-cards-2026-03-27.md) |
+| `2026-03-29` | Mearsheimer Will Trump Go Kamikaze | `provisional-route` | `mearsheimer` | [source](../../archive/sources/2026-03-29/source-mearsheimer-will-trump-go-kamikaze-2026-03-29.md) |
+| `2026-03-31` | John Mearsheimer: Will Trump Go Kamikaze? | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-03-31/source-john-mearsheimer-will-trump-go-kamikaze-2026-03-31.md) |
 | `2026-04-01` | Professor John Mearsheimer : Trump PULLING OUT of NATO? | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-01/source-daniel-davis-professor-john-mearsheimer-trump-pulling-out-of-nato-2026-04-01.md) |
 | `2026-04-10` | John Mearsheimer: World Changed Forever as Iran Defeated the U.S. | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-04-10/source-diesen-mearsheimer-world-changed-forever-2026-04-10.md) |
 | `2026-04-13` | Prof John Mearsheimer: The HORRIBLE NAVAL BLOCKADE in Hormuz Strait | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-13/source-daniel-davis-prof-john-mearsheimer-the-horrible-naval-blockade-in-hormuz-strait-2026-04-13.md) |
+| `2026-04-20` | Hedges Mearsheimer Iran | `provisional-route` | `mearsheimer` | [source](../../archive/sources/2026-04-20/source-hedges-mearsheimer-iran-2026-04-20.md) |
+| `2026-04-21` | Mearsheimer Redacted Trump Iran | `provisional-route` | `mearsheimer` | [source](../../archive/sources/2026-04-21/source-mearsheimer-redacted-trump-iran-2026-04-21.md) |
+| `2026-04-28` | John Mearsheimer: How Trump Lost His War | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-04-28/source-john-mearsheimer-how-trump-lost-his-war-2026-04-28.md) |
 | `2026-04-30` | Prof John Mearsheimer: Weâ€™ve Lost the Iran War, Weâ€™re Screwed | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-30/source-daniel-davis-mearsheimer-weve-lost-the-iran-war-were-screwed-2026-04-30.md) |
 | `2026-05-04` | John Mearsheimer: World Order Ending & Risk of Nuclear War | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-05-04/source-diesen-mearsheimer-world-order-ending-risk-nuclear-war-2026-05-04.md) |
 | `2026-05-13` | Prof John Mearsheimer TRUMP WILL BE FORCED TO CUT A DEAL w/IRAN | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-13/source-daniel-davis-prof-john-mearsheimer-trump-will-be-forced-to-cut-a-deal-w-iran-2026-05-13.md) |
 | `2026-05-13` | Prof Mearsheimer: Shock Analysis: Russia Considers NUCLEAR ESCALATION v Europe | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-13/source-daniel-davis-prof-mearsheimer-shock-analysis-russia-considers-nuclear-escalation-v-eu-2026-05-13.md) |
 | `2026-05-18` | John Mearsheimer: Toward All-Out War With Both Russia & Iran | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-05-18/source-glenn-diesen-john-mearsheimer-toward-all-out-war-with-both-russia-and-iran-2026-05-18.md) |
+| `2026-05-26` | Prof. John Mearsheimer: Neocons Want More War | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-05-26/source-prof-john-mearsheimer-neocons-want-more-war-2026-05-26.md) |
 | `2026-05-28` | Prof John Mearsheimer: IRAN CEASEFIRE HANGS by a THREAD | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-28/source-daniel-davis-mearsheimer-iran-ceasefire-hangs-by-a-thread-2026-05-28.md) |
 | `2026-06-01` | BREAKING: Iran Suspends Talks w/US over Israel's strikes on Lebanon Matt Hoh & Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-06-01/source-daniel-davis-breaking-iran-suspends-talks-w-us-over-israel-s-strikes-on-lebanon-matt-hoh-lt-col-daniel-davis-2026-06-01.md) |
 | `2026-06-02` | Prof. John Mearsheimer : Will Israel Veto an American Peace? | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-02/source-judging-freedom-mearsheimer-will-israel-veto-an-american-peace-2026-06-02.md) |
@@ -78,6 +88,7 @@ Status: `first-slice-parity`
 | `2026-07-16` | John Mearsheimer: All-Out War in the Middle East & Trump's War on Russia | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-16/source-john-mearsheimer-all-out-war-in-the-middle-east-trump-s-war-on-russia-2026-07-16.md) |
 | `2026-07-20` | John Mearsheimer DIRE WARNING Of Global Economic Calamity | `host-pressure test` | `breaking-points` | [source](../../archive/sources/2026-07-20/source-john-mearsheimer-dire-warning-of-global-economic-calamity-2026-07-20.md) |
 | `2026-07-20` | Prof. John Mearsheimer: Pentagon Prepares for a Wider War as Military Build-Up Accelerates | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-20/source-prof-john-mearsheimer-pentagon-prepares-for-a-wider-war-as-military-build-up-accelerates-2026-07-20.md) |
+| `2026-07-21` | Prof. John Mearsheimer : More War and America’s Collapse | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-07-21/source-prof-john-mearsheimer-more-war-and-america-s-collapse-2026-07-21.md) |
 
 ## State Continuity
 

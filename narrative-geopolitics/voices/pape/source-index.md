@@ -4,7 +4,7 @@ This index routes Robert Pape voice work to the central Narrative Geopolitics so
 
 Source basis: `strategy-codex/statecraft/voices/pape/pape-index.md`.
 
-Corpus: 64 authored sources, 19 guest appearances, 83 total imported sources.
+Corpus: 64 authored sources, 22 guest appearances, 86 total imported sources.
 
 ## Reading Rule
 
@@ -58,6 +58,8 @@ Corpus: 64 authored sources, 19 guest appearances, 83 total imported sources.
 - [2026-04-16 — Professor Robert Pape: US Has No Idea What is Coming NEXT!](../../archive/sources/2026-04-16/source-pape-cyrus-janssen-us-has-no-idea-what-is-coming-next-2026-04-16.md) — **guest** · cleaned-transcript · host: `cyrus-janssen`
 - [2026-04-16 — The Iran War Is About to Hit a Supply Wallâ€”Markets Arenâ€™t Ready](../../archive/sources/2026-04-16/source-pape-the-iran-war-is-about-to-hit-a-supply-2026-04-16.md) — **authored** · substack-post
 - [2026-04-17 — A Real-Time Test of Powerâ€”and Why Tonight Matters](../../archive/sources/2026-04-17/source-pape-a-real-time-test-of-powerand-why-2026-04-17.md) — **authored** · substack-post
+- [2026-04-17 — Pape](../../archive/sources/2026-04-17/source-pape-2026-04-17.md) — **guest** · transcript · host: `upstream-unresolved`
+- [2026-04-18 — Pape](../../archive/sources/2026-04-18/source-pape-2026-04-18.md) — **guest** · transcript · host: `upstream-unresolved`
 - [2026-04-20 — Redacted â€” *The Collapse is Now "Ahead of Schedule"* (April 20, 2026)](../../archive/sources/2026-04-20/source-pape-collapse-ahead-of-schedule-2026-04-20.md) — **guest** · transcript · host: `redacted-news`
 - [2026-04-21 — Robert A. Pape (@ProfessorPape) â€” zero-sum conflict / escalation laddâ€¦](../../archive/sources/2026-04-21/source-pape-zero-sum-escalation-ladder-2026-04-21.md) — **authored** · x-post-text
 - [2026-04-22 — The First Move Has Begun](../../archive/sources/2026-04-22/source-pape-the-first-move-has-begun-2026-04-22.md) — **authored** · substack-post
@@ -119,3 +121,4 @@ Corpus: 64 authored sources, 19 guest appearances, 83 total imported sources.
 - [2026-07-16 — Breaking Analysis #3: Tehran's Second Front Heating Up Fast - Are Markets Watching?](../../archive/sources/2026-07-16/source-breaking-analysis-3-tehran-s-second-front-heating-up-fast-are-markets-watching-2026-07-16.md) — **authored** · essay
 - [2026-07-17 — Breaking Analysis #4: The Point of No Return? How Last Night's U.S. Strikes Deepened the Escalation Trap](../../archive/sources/2026-07-17/source-breaking-analysis-4-the-point-of-no-return-how-last-night-s-u-s-strikes-deepened-the-escalation-trap-2026-07-17.md) — **authored** · essay
 - [2026-07-18 — Breaking Analysis #5: Iran's New Target - Drinking Water](../../archive/sources/2026-07-18/source-breaking-analysis-5-iran-s-new-target-drinking-water-2026-07-18.md) — **authored** · essay
+- [2026-07-21 — BREAKING: TRUMP REJECTS IRAN CEASEFIRE, VOWS "DEVASTATING BLOWS" - w/ Robert Pape](../../archive/sources/2026-07-21/source-breaking-trump-rejects-iran-ceasefire-vows-devastating-blows-w-robert-pape-2026-07-21.md) — **guest** · cleaned-transcript · host: `mario-nawfal`

@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `davis` to the cent
 
 Source basis: `strategy-codex/statecraft/voices/davis/davis-index.md`.
 
-Corpus: 82 local route rows across 82 central archive source files.
+Corpus: 93 local route rows across 93 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -32,6 +32,7 @@ Status: `first-slice-parity`
 | `2025-12-10` | The War We Cannot Win / Lt Col Daniel Davis | `authored` | `daniel-davis` | [source](../../archive/sources/2025-12-10/source-daniel-davis-the-war-we-cannot-win-lt-col-daniel-davis-2025-12-10.md) |
 | `2025-12-20` | Ukraine Russia War Reporting Hoax /Lt Col Daniel Davis | `authored` | `daniel-davis` | [source](../../archive/sources/2025-12-20/source-daniel-davis-ukraine-russia-war-reporting-hoax-lt-col-daniel-davis-2025-12-20.md) |
 | `2026-02-07` | Daniel Davis Ã— Glenn Diesen â€” Iran on a knifeâ€™s edge / objectives vs capability (operator transcript) | `practical-room spine` | `glenn-diesen` | [source](../../archive/sources/2026-02-07/source-glenn-diesen-daniel-davis-iran-knife-edge-2026-02-07.md) |
+| `2026-02-16` | ALERT: What Trump Must Understand EPSTEIN CLASS v. WORKING CLASS /Robert Barnes | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-02-16/source-alert-what-trump-must-understand-epstein-class-v-working-class-robert-barnes-2026-02-16.md) |
 | `2026-03-01` | Daniel Davis Ã— Glenn Diesen â€” U.S. strategic miscalculation / Iran war (operator cleaned transcript) | `practical-room spine` | `glenn-diesen` | [source](../../archive/sources/2026-03-01/source-glenn-diesen-daniel-davis-iran-miscalculation-2026-03-01.md) |
 | `2026-03-02` | source-daniel-davis-iran-war-new-phase-oil-in-the-persian-gulf-2026-03-02 | `authored` | `daniel-davis` | [source](../../archive/sources/2026-03-02/source-daniel-davis-iran-war-new-phase-oil-in-the-persian-gulf-2026-03-02.md) |
 | `2026-03-03` | source-daniel-davis-us-navy-may-secure-strait-of-hormuz-2026-03-03 | `authored` | `daniel-davis` | [source](../../archive/sources/2026-03-03/source-daniel-davis-us-navy-may-secure-strait-of-hormuz-2026-03-03.md) |
@@ -39,6 +40,7 @@ Status: `first-slice-parity`
 | `2026-03-04` | source-daniel-davis-iran-war-narrative-battles-2026-03-04 | `authored` | `daniel-davis` | [source](../../archive/sources/2026-03-04/source-daniel-davis-iran-war-narrative-battles-2026-03-04.md) |
 | `2026-03-07` | COMPLETE DESTRUCTION AND CERTAIN DEATH': Trump's Newest Threat to Iran /Lt Col Daniel Davis | `authored` | `daniel-davis` | [source](../../archive/sources/2026-03-07/source-daniel-davis-complete-destruction-and-certain-death-trumps-newest-threat-to-iran-2026-03-07.md) |
 | `2026-03-07` | Deep Dive Intel Briefing: What We Learned This Week 3/7/2026 Lt Col Daniel Davis | `authored` | `daniel-davis` | [source](../../archive/sources/2026-03-07/source-daniel-davis-intel-briefing-what-we-learned-this-week-2026-03-07.md) |
+| `2026-03-08` | TRUMP: IRAN WAR BASICALLY OVER & ENDING SOON /Generals Argue for Ground Forces | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-03-08/source-trump-iran-war-basically-over-ending-soon-generals-argue-for-ground-forces-2026-03-08.md) |
 | `2026-03-09` | IRAN WAR: Where's the War Going? /Patrick Henningsen & Lt Col Daniel Davis | `authored` | `daniel-davis` | [source](../../archive/sources/2026-03-09/source-daniel-davis-henningsen-wheres-the-war-going-2026-03-09.md) |
 | `2026-03-09` | IRAN Has a NEW LEADER /Lt Col Daniel Davis | `authored` | `daniel-davis` | [source](../../archive/sources/2026-03-09/source-daniel-davis-iran-has-a-new-leader-2026-03-09.md) |
 | `2026-03-09` | TRUMP: IRAN WAR BASICALLY OVER & ENDING SOON /Generals Argue for Ground Forces | `authored` | `daniel-davis` | [source](../../archive/sources/2026-03-09/source-daniel-davis-trump-iran-war-basically-over-and-ending-soon-generals-argue-for-ground-forces-2026-03-09.md) |
@@ -54,8 +56,12 @@ Status: `first-slice-parity`
 | `2026-03-18` | Daniel Davis Ã— Glenn Diesen â€” Iranâ€™s aims, Hormuz, military options, Joe Kent (operator transcript) | `practical-room spine` | `glenn-diesen` | [source](../../archive/sources/2026-03-18/source-glenn-diesen-daniel-davis-military-options-kent-2026-03-18.md) |
 | `2026-03-25` | Lt Col. Daniel Davis: Iranâ€™s Trap Is Already Setâ€¦ And the U.S. Is Moving In | `practical-room spine` | `dialogue-works` | [source](../../archive/sources/2026-03-25/source-dialogue-works-lt-col-daniel-davis-iran-s-trap-is-already-set-and-the-u-s-is-2026-03-25.md) |
 | `2026-04-02` | Daniel Davis Ã— Glenn Diesen â€” Trump war speech, Hormuz, NATO (operator transcript) | `practical-room spine` | `glenn-diesen` | [source](../../archive/sources/2026-04-02/source-glenn-diesen-daniel-davis-trump-war-speech-2026-04-02.md) |
+| `2026-04-16` | Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-16/source-daniel-davis-2026-04-16.md) |
+| `2026-04-17` | Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-17/source-daniel-davis-2026-04-17.md) |
+| `2026-04-18` | Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-18/source-daniel-davis-2026-04-18.md) |
 | `2026-04-18` | source-deepdive-iran-closes-hormuz-2026-04-18-verbatim-2026-04-18 | `authored` | `daniel-davis` | [source](../../archive/sources/2026-04-18/source-deepdive-iran-closes-hormuz-2026-04-18-verbatim-2026-04-18.md) |
 | `2026-04-23` | Trump Says He's Got 'All the Time in the World' / Lt Col Daniel Davis | `authored` | `daniel-davis` | [source](../../archive/sources/2026-04-23/source-daniel-davis-trump-all-time-in-the-world-2026-04-23.md) |
+| `2026-05-09` | Iran Response, Walk-Away Theory, and the Cost of Escalation | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-09/source-iran-response-walk-away-theory-and-the-cost-of-escalation-2026-05-09.md) |
 | `2026-05-12` | Iran's Power Is a Fact, Not a Debate /Lt Col Daniel Davis | `authored` | `daniel-davis` | [source](../../archive/sources/2026-05-12/source-daniel-davis-iran-s-power-is-a-fact-not-a-debate-lt-col-daniel-davis-2026-05-12.md) |
 | `2026-05-15` | IRAN WAR WALK AWAY: The Only Way /Lt Col Daniel Davis | `authored` | `daniel-davis` | [source](../../archive/sources/2026-05-15/source-daniel-davis-iran-war-walk-away-the-only-way-lt-col-daniel-davis-2026-05-15.md) |
 | `2026-05-16` | Bombs Away or Walk Away in Iran /Lt Col Daniel Davis | `authored` | `daniel-davis` | [source](../../archive/sources/2026-05-16/source-daniel-davis-bombs-away-or-walk-away-in-iran-lt-col-daniel-davis-2026-05-16.md) |
@@ -65,6 +71,10 @@ Status: `first-slice-parity`
 | `2026-05-18` | Russia Ukraine Trade More Drones, Pressure Building in Moscow for Escalation /Lt Col Daniel Davis | `authored` | `daniel-davis` | [source](../../archive/sources/2026-05-18/source-daniel-davis-russia-ukraine-trade-more-drones-pressure-building-in-moscow-for-escalation-2026-05-18.md) |
 | `2026-05-19` | Iran Attack On Hold /Lt Col Daniel Davis | `authored` | `daniel-davis` | [source](../../archive/sources/2026-05-19/source-daniel-davis-iran-attack-on-hold-2026-05-19.md) |
 | `2026-05-23` | Deep Dive Intel Briefing 5/23/2026 Lt Col Daniel Davis | `authored` | `daniel-davis` | [source](../../archive/sources/2026-05-23/source-daniel-davis-intel-briefing-5-23-2026-lt-col-daniel-davis-2026-05-23.md) |
+| `2026-05-25` | Iran War Cheerleaders & the Mixed Messaging Surrounding a Deal | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-25/source-iran-war-cheerleaders-the-mixed-messaging-surrounding-a-deal-2026-05-25.md) |
+| `2026-05-26` | US Must Stop the Siege of Iran /Professor Seyed Marandi & Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-26/source-us-must-stop-the-siege-of-iran-professor-seyed-marandi-lt-col-daniel-davis-2026-05-26.md) |
+| `2026-05-29` | IRAN, TRUMP & TRUST /Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-29/source-iran-trump-trust-lt-col-daniel-davis-2026-05-29.md) |
+| `2026-05-29` | Iran War Never Stops While Israel Attacks Lebanon /Nima Alkhorshid & Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-05-29/source-iran-war-never-stops-while-israel-attacks-lebanon-nima-alkhorshid-lt-col-daniel-davis-2026-05-29.md) |
 | `2026-06-01` | Iran Warhawks Delusional Fantasy /Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-06-01/source-daniel-davis-iran-warhawks-delusional-fantasy-lt-col-daniel-davis-2026-06-01.md) |
 | `2026-06-02` | America's OLD WORLD WAR MENTALITY /Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-06-02/source-daniel-davis-americas-old-world-war-mentality-lt-col-daniel-davis-2026-06-02.md) |
 | `2026-06-02` | Col Douglas Macgregor: The Israel First White House | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-06-02/source-daniel-davis-col-douglas-macgregor-the-israel-first-white-house-2026-06-02.md) |
@@ -96,6 +106,7 @@ Status: `first-slice-parity`
 | `2026-06-24` | Alastair Crooke: Iran Deal, Who's Dictating the Terms? | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-06-24/source-daniel-davis-alastair-crooke-iran-deal-who-dictating-terms-2026-06-24.md) |
 | `2026-06-24` | fmr CIA Analyst Larry Johnson: Iran Deal, Trump's Making it Up As He Goes Along | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-06-24/source-daniel-davis-larry-johnson-iran-deal-trump-making-it-up-2026-06-24.md) |
 | `2026-06-25` | John Mearsheimer: Russia's Red Lines Have Been Crossed | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-06-25/source-daniel-davis-mearsheimer-russia-red-lines-crossed-2026-06-25.md) |
+| `2026-06-26` | BREAKING: U.S BOOTS ON THE GROUND IN LEBANON, LEBANON RECOGNISE ISRAEL w/ LT COL DANIEL DAVIS | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-06-26/source-breaking-u-s-boots-on-the-ground-in-lebanon-lebanon-recognise-israel-w-lt-col-daniel-davis-2026-06-26.md) |
 | `2026-06-26` | Iran Deal Miscalculations / Robert Barnes & Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-06-26/source-daniel-davis-robert-barnes-iran-deal-miscalculations-2026-06-26.md) |
 | `2026-06-26` | Prof Seyed Marandi: WILL the US COLLAPSE the GLOBAL ECONOMY? | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-06-26/source-daniel-davis-seyed-marandi-will-us-collapse-global-economy-2026-06-26.md) |
 | `2026-06-29` | Patriot Missiles Fail Miserably, Here's the Video Evidence / MIT Prof Ted Postol | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-06-29/source-daniel-davis-ted-postol-patriot-missiles-fail-video-evidence-2026-06-29.md) |

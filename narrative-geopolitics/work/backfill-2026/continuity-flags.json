@@ -1,0 +1,354 @@
+[
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-01-29/source-iran-says-will-close-hormuz-straits-as-us-prepares-attack-rubio-admits-russian-demands-unchanged-2026-01-29.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-01-29",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-01-13/source-russia-helps-iran-jam-starlink-ending-protests-trump-hits-brics-25-iran-tariff-us-prepares-strike-2026-01-13.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-01-13",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-01-23/source-zelensky-fails-in-davos-turns-on-eu-says-cannot-resist-putin-trump-putin-us-agree-dirty-war-talks-2026-01-23.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-01-23",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-01-07/source-col-douglas-macgregor-trump-is-sleepwalking-into-another-war-2026-01-07.md",
+    "voice_slugs": [
+      "macgregor"
+    ],
+    "date": "2026-01-07",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-01-15/source-john-mearsheimer-foreign-wars-domestic-crackdowns-2026-01-15.md",
+    "voice_slugs": [
+      "mearsheimer"
+    ],
+    "date": "2026-01-15",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Unclassified geopolitical source",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-02-16/source-putin-sends-tough-team-geneva-as-russia-prepares-giant-missile-strike-breaks-through-konstantinovka-2026-02-16.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-02-16",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Russia-Ukraine territorial settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-02-06/source-russia-furious-as-kiev-tries-to-kill-deputy-of-russia-s-chief-negotiator-lavrov-says-nato-plans-war-2026-02-06.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-02-06",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Russia-Ukraine territorial settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-02-18/source-russia-rushes-oil-to-china-as-iran-prepares-hormuz-closure-medinsky-crushes-kiev-hopes-geneva-talks-2026-02-18.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-02-18",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-02-11/source-russia-strike-coming-zelensky-rejects-election-call-eu-again-eyes-russian-assets-alexeyev-sbu-2026-02-11.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-02-11",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Russia-Ukraine territorial settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-02-05/source-starmer-caught-up-epstein-scandal-about-to-fall-russia-plans-kiev-odessa-offensives-uae-standstill-2026-02-05.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-02-05",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Russia-Ukraine territorial settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-03-15/source-eu-despair-says-iran-war-disaster-for-kiev-iran-crushes-us-regime-change-plan-moscow-no-more-talks-2026-03-15.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-03-15",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-03-16/source-eu-won-t-join-iran-war-wants-moscow-talks-russia-says-no-throws-out-macron-envoys-khamenei-moscow-2026-03-16.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-03-16",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-03-10/source-iran-debacle-us-officials-tell-trump-end-war-trump-calls-putin-begs-help-tough-talks-iran-defiant-2026-03-10.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-03-10",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-03-04/source-iran-hormuz-closure-causes-energy-supply-shock-us-mulls-invasion-fears-long-war-tehran-devastated-2026-03-04.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-03-04",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-03-08/source-trump-iran-war-basically-over-ending-soon-generals-argue-for-ground-forces-2026-03-08.md",
+    "voice_slugs": [
+      "davis"
+    ],
+    "date": "2026-03-08",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-03-31/source-john-mearsheimer-will-trump-go-kamikaze-2026-03-31.md",
+    "voice_slugs": [
+      "mearsheimer"
+    ],
+    "date": "2026-03-31",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-03-29/source-mearsheimer-will-trump-go-kamikaze-2026-03-29.md",
+    "voice_slugs": [
+      "mearsheimer"
+    ],
+    "date": "2026-03-29",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-05-29/source-iran-war-never-stops-while-israel-attacks-lebanon-nima-alkhorshid-lt-col-daniel-davis-2026-05-29.md",
+    "voice_slugs": [
+      "davis"
+    ],
+    "date": "2026-05-29",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-05-25/source-iran-war-cheerleaders-the-mixed-messaging-surrounding-a-deal-2026-05-25.md",
+    "voice_slugs": [
+      "davis"
+    ],
+    "date": "2026-05-25",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-05-22/source-stanislav-krapivnik-tulsi-gabbard-resigns-hezbollah-crushes-idf-war-becomes-unaffordable-2026-05-22.md",
+    "voice_slugs": [
+      "krapivnik"
+    ],
+    "date": "2026-05-22",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Israel-Lebanon-Gaza regional war",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-05-26/source-prof-john-mearsheimer-neocons-want-more-war-2026-05-26.md",
+    "voice_slugs": [
+      "mearsheimer"
+    ],
+    "date": "2026-05-26",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Unclassified geopolitical source",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-04-21/source-iran-defies-us-refuses-talk-ceasefire-about-to-end-russia-warns-donbass-falling-baltics-will-follow-2026-04-21.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-04-21",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-04-18/source-iran-furious-shuts-hormuz-defies-us-denies-trump-claims-russia-ominous-war-warning-to-baltic-states-2026-04-18.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-04-18",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-04-11/source-iran-keeps-hormuz-russia-keeps-advancing-two-wars-at-a-crossroads-russian-subs-prowl-uk-seas-2026-04-11.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-04-11",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-04-27/source-iran-toughens-terms-as-araghchi-meets-putin-refuses-talks-on-enrichment-russia-prepares-war-with-eu-2026-04-27.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-04-27",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-04-19/source-lavrov-says-us-iran-war-about-oil-targets-china-warns-russia-will-enforce-baltic-red-line-araghchi-2026-04-19.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-04-19",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-04-25/source-lavrov-warns-europe-declared-war-on-russia-araghchi-to-moscow-won-t-talk-to-us-eu-kiev-cannot-join-2026-04-25.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-04-25",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Russia-Ukraine territorial settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-04-16/source-russia-eu-makes-drones-for-kiev-medvedev-warns-iran-welcomes-pakistan-chief-lavrov-saudi-fm-talk-2026-04-16.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-04-16",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-04-10/source-russia-prepares-final-donbass-battle-uk-drops-plan-seize-russian-ships-hormuz-crisis-deepens-talks-2026-04-10.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-04-10",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-04-07/source-us-prepares-huge-iran-strike-russian-spy-satellite-data-helps-iran-kiev-fears-big-oreshnik-strike-2026-04-07.md",
+    "voice_slugs": [
+      "mercouris"
+    ],
+    "date": "2026-04-07",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-04-28/source-john-mearsheimer-how-trump-lost-his-war-2026-04-28.md",
+    "voice_slugs": [
+      "mearsheimer"
+    ],
+    "date": "2026-04-28",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-06-11/source-prof-mohammad-marandi-from-tehran-why-iran-risks-war-2026-06-11.md",
+    "voice_slugs": [
+      "marandi"
+    ],
+    "date": "2026-06-11",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  }
+]

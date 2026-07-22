@@ -4,7 +4,7 @@ This index routes the transcript-bearing upstream-parity corpus for `macgregor` 
 
 Source basis: `narrative-geopolitics/archive/source-manifest.json`.
 
-Corpus: 78 local route rows across 78 central archive source files.
+Corpus: 79 local route rows across 79 central archive source files.
 
 Status: `transcript-bearing-upstream-parity`
 
@@ -62,6 +62,7 @@ Status: `transcript-bearing-upstream-parity`
 | `2025-10-23` | Douglas Macgregor: Broken NATO Escalates War on Russia | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-10-23/source-glenn-diesen-douglas-macgregor-douglas-macgregor-broken-nato-escalates-war-on-russia-2025-10-23.md) |
 | `2025-12-10` | Douglas Macgregor: U.S. Pivoting Away from Ukraine, Europe & NATO | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-12-10/source-glenn-diesen-douglas-macgregor-u-s-pivoting-away-from-ukraine-europe-nato-2025-12-10.md) |
 | `2025-12-20` | Why Venezuela is America's Next Disaster | `host-pressure test` | `cyrus-janssen` | [source](../../archive/sources/2025-12-20/source-macgregor-cyrus-janssen-why-venezuela-americas-next-disaster-2025-12-20.md) |
+| `2026-01-07` | COL. Douglas Macgregor: Trump Is Sleepwalking Into Another War | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-01-07/source-col-douglas-macgregor-trump-is-sleepwalking-into-another-war-2026-01-07.md) |
 | `2026-01-22` | Douglas Macgregor × Glenn Diesen — Why NATO is Finished & the Ukraine War Was Lost (operator transcript) | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-01-22/source-macgregor-diesen-nato-ukraine-lost-2026-01-22.md) |
 | `2026-02-10` | COL. Douglas Macgregor: A U.S. - Iran War Could Spiral Out of Control | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-02-10/source-judging-freedom-macgregor-us-iran-war-could-spiral-out-of-control-2026-02-10.md) |
 | `2026-02-26` | Douglas Macgregor: US-Iran Diplomacy Fail - Full-Scale War Coming Soon | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-02-26/source-glenn-diesen-douglas-macgregor-us-iran-diplomacy-fail-full-scale-war-coming-soon-2026-02-26.md) |

@@ -4,7 +4,7 @@ This index routes the imported Ritter corpus for `ritter` to the central Narrati
 
 Source basis: `strategy-codex/statecraft/voices/ritter/ritter-index.md`.
 
-Corpus: 105 local route rows across 105 central archive source files.
+Corpus: 108 local route rows across 108 central archive source files.
 
 Status: `imported-corpus`
 
@@ -96,6 +96,9 @@ Status: `imported-corpus`
 | `2026-04-13` | Scott Ritter: TRUMP's BLOCKADE IS A JOKE | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-13/source-daniel-davis-scott-ritter-trump-s-blockade-is-a-joke-2026-04-13.md) |
 | `2026-04-13` | Blasphemy, American Style (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-04-13/source-ritter-blasphemy-american-style-2026-04-13.md) |
 | `2026-04-17` | Diesen × Scott Ritter — Russia Threatens Strike on Finland & Baltic States (operator transcript SSOT) | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-04-17/source-diesen-ritter-russia-threatens-strike-finland-baltic-2026-04-17.md) |
+| `2026-04-17` | Ritter | `host-pressure test` | `upstream-unresolved` | [source](../../archive/sources/2026-04-17/source-ritter-2026-04-17.md) |
+| `2026-04-18` | Ritter | `host-pressure test` | `upstream-unresolved` | [source](../../archive/sources/2026-04-18/source-ritter-2026-04-18.md) |
+| `2026-04-19` | Ritter | `host-pressure test` | `upstream-unresolved` | [source](../../archive/sources/2026-04-19/source-ritter-2026-04-19.md) |
 | `2026-04-20` | The Shorting of America | `solo` | `ritter` | [source](../../archive/sources/2026-04-20/source-rant-shorting-america-7pXI52jKcOU-2026-04-20.md) |
 | `2026-04-20` | Scott Ritter: Trump and Hegseth Haven't a Clue | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-04-20/source-trump-hegseth-2026-04-20.md) |
 | `2026-04-27` | A New Middle Eastern Power Paradigm (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-04-27/source-ritter-new-middle-eastern-power-paradigm-2026-04-27.md) |
