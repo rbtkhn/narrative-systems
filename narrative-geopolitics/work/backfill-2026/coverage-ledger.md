@@ -17,7 +17,7 @@ Manifest-derived coverage for recognized voice-bearing upstream candidates. Coun
 | `henningsen` | 0 | 0 | 2 | 0 | 1 | 7/I1 | 1 | `gap` |
 | `hoh` | 0 | 0 | 1 | 0 | 3 | 9 | 3 | `gap` |
 | `jermy` | 3 | 1 | 3 | 1 | 0 | 1 | 3 | `gap` |
-| `jiang` | 2 | 0 | 0 | 2 | 1 | 1 | 1 | `gap` |
+| `jiang` | 2 | 0 | 0 | 3/I1 | 9/I8 | 2/I1 | 1 | `gap` |
 | `johnson` | 1/I1 | 3/I1 | 7/I1 | 17/I4 | 16/I1 | 33/I1 | 13 | `met` |
 | `karaganov` | 0 | 0 | 0 | 0 | 1 | 1 | 0 | `gap` |
 | `kent` | 0 | 0 | 2/I1 | 2 | 4 | 6/I2 | 2 | `gap` |
@@ -39,6 +39,6 @@ Manifest-derived coverage for recognized voice-bearing upstream candidates. Coun
 | `weichert` | 0 | 0 | 0 | 0 | 5 | 11 | 3 | `gap` |
 | `wilkerson` | 2 | 1 | 7 | 9 | 9 | 7 | 1 | `met` |
 
-Manifest rows considered: `1732`. Historical backfill rows tagged: `114`. Continuity flags requiring manual review: `32`.
+Manifest rows considered: `1742`. Historical backfill rows tagged: `124`. Continuity flags requiring manual review: `33`.
 
 Coverage is not verification. Provisional routing, unsectioned transcripts, and title-derived enrichment require later review.

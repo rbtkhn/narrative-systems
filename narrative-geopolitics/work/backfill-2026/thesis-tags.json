@@ -1822,5 +1822,165 @@
     "extraction_state": "title_derived_only",
     "extraction_confidence": "low",
     "source_classification": "descriptive_or_analytical_unknown"
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-04-27/source-game-theory-21-world-war-trump-2026-04-27.md",
+    "voice_slugs": [
+      "jiang"
+    ],
+    "date": "2026-04-27",
+    "thesis_object": "Iran-U.S. escalation and settlement",
+    "thesis_statement": null,
+    "mechanism": null,
+    "predicted_outcome": null,
+    "timing": null,
+    "falsifier": null,
+    "extraction_state": "title_derived_only",
+    "extraction_confidence": "low",
+    "source_classification": "descriptive_or_analytical_unknown"
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-05-06/source-game-theory-23-the-wwiii-chessboard-2026-05-06.md",
+    "voice_slugs": [
+      "jiang"
+    ],
+    "date": "2026-05-06",
+    "thesis_object": "Unclassified geopolitical source",
+    "thesis_statement": null,
+    "mechanism": null,
+    "predicted_outcome": null,
+    "timing": null,
+    "falsifier": null,
+    "extraction_state": "title_derived_only",
+    "extraction_confidence": "low",
+    "source_classification": "descriptive_or_analytical_unknown"
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-05-12/source-game-theory-24-the-ai-apocalypse-2026-05-12.md",
+    "voice_slugs": [
+      "jiang"
+    ],
+    "date": "2026-05-12",
+    "thesis_object": "Unclassified geopolitical source",
+    "thesis_statement": null,
+    "mechanism": null,
+    "predicted_outcome": null,
+    "timing": null,
+    "falsifier": null,
+    "extraction_state": "title_derived_only",
+    "extraction_confidence": "low",
+    "source_classification": "descriptive_or_analytical_unknown"
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-05-14/source-game-theory-25-trump-visits-china-2026-05-14.md",
+    "voice_slugs": [
+      "jiang"
+    ],
+    "date": "2026-05-14",
+    "thesis_object": "Iran-U.S. escalation and settlement",
+    "thesis_statement": null,
+    "mechanism": null,
+    "predicted_outcome": null,
+    "timing": null,
+    "falsifier": null,
+    "extraction_state": "title_derived_only",
+    "extraction_confidence": "low",
+    "source_classification": "descriptive_or_analytical_unknown"
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-05-19/source-game-theory-26-the-holy-empire-of-ai-2026-05-19.md",
+    "voice_slugs": [
+      "jiang"
+    ],
+    "date": "2026-05-19",
+    "thesis_object": "Unclassified geopolitical source",
+    "thesis_statement": null,
+    "mechanism": null,
+    "predicted_outcome": null,
+    "timing": null,
+    "falsifier": null,
+    "extraction_state": "title_derived_only",
+    "extraction_confidence": "low",
+    "source_classification": "descriptive_or_analytical_unknown"
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-05-21/source-game-theory-27-putin-enters-the-chat-2026-05-21.md",
+    "voice_slugs": [
+      "jiang"
+    ],
+    "date": "2026-05-21",
+    "thesis_object": "Unclassified geopolitical source",
+    "thesis_statement": null,
+    "mechanism": null,
+    "predicted_outcome": null,
+    "timing": null,
+    "falsifier": null,
+    "extraction_state": "title_derived_only",
+    "extraction_confidence": "low",
+    "source_classification": "descriptive_or_analytical_unknown"
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-05-26/source-game-theory-28-predictive-history-2026-05-26.md",
+    "voice_slugs": [
+      "jiang"
+    ],
+    "date": "2026-05-26",
+    "thesis_object": "Unclassified geopolitical source",
+    "thesis_statement": null,
+    "mechanism": null,
+    "predicted_outcome": null,
+    "timing": null,
+    "falsifier": null,
+    "extraction_state": "title_derived_only",
+    "extraction_confidence": "low",
+    "source_classification": "descriptive_or_analytical_unknown"
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-05-26/source-gb-11-dantes-revolution-2026-05-26.md",
+    "voice_slugs": [
+      "jiang"
+    ],
+    "date": "2026-05-26",
+    "thesis_object": "Unclassified geopolitical source",
+    "thesis_statement": null,
+    "mechanism": null,
+    "predicted_outcome": null,
+    "timing": null,
+    "falsifier": null,
+    "extraction_state": "title_derived_only",
+    "extraction_confidence": "low",
+    "source_classification": "descriptive_or_analytical_unknown"
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-05-26/source-gb-12-dante-in-paradise-2026-05-26.md",
+    "voice_slugs": [
+      "jiang"
+    ],
+    "date": "2026-05-26",
+    "thesis_object": "Unclassified geopolitical source",
+    "thesis_statement": null,
+    "mechanism": null,
+    "predicted_outcome": null,
+    "timing": null,
+    "falsifier": null,
+    "extraction_state": "title_derived_only",
+    "extraction_confidence": "low",
+    "source_classification": "descriptive_or_analytical_unknown"
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-06-10/source-predictive-history-founding-members-1-2026-06-10.md",
+    "voice_slugs": [
+      "jiang"
+    ],
+    "date": "2026-06-10",
+    "thesis_object": "Unclassified geopolitical source",
+    "thesis_statement": null,
+    "mechanism": null,
+    "predicted_outcome": null,
+    "timing": null,
+    "falsifier": null,
+    "extraction_state": "title_derived_only",
+    "extraction_confidence": "low",
+    "source_classification": "descriptive_or_analytical_unknown"
   }
 ]

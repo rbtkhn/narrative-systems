@@ -2,7 +2,7 @@
   "manifest_id": "narrative-geopolitics-source-manifest-v1",
   "source_basis": "central archive with completed historical strategy-codex imports",
   "imported_at": "2026-07-09",
-  "source_count": 1732,
+  "source_count": 1742,
   "boundary": {
     "archive": "source truth",
     "voices": "voice continuity and routing",
@@ -24672,6 +24672,156 @@
       "inference_basis": [
         "explicit-host"
       ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-27",
+      "title": "Game Theory #21: World War Trump",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-27/source-game-theory-21-world-war-trump-2026-04-27.md",
+      "voice_index_path": "../../archive/sources/2026-04-27/source-game-theory-21-world-war-trump-2026-04-27.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-04-27/source-game-theory-21-world-war-trump-2026-04-27.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-06",
+      "title": "Game Theory 23 The Wwiii Chessboard",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-06/source-game-theory-23-the-wwiii-chessboard-2026-05-06.md",
+      "voice_index_path": "../../archive/sources/2026-05-06/source-game-theory-23-the-wwiii-chessboard-2026-05-06.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-06/source-game-theory-23-the-wwiii-chessboard-2026-05-06.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "Game Theory 24 The Ai Apocalypse",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-12/source-game-theory-24-the-ai-apocalypse-2026-05-12.md",
+      "voice_index_path": "../../archive/sources/2026-05-12/source-game-theory-24-the-ai-apocalypse-2026-05-12.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-12/source-game-theory-24-the-ai-apocalypse-2026-05-12.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-14",
+      "title": "Game Theory 25 Trump Visits China",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-14/source-game-theory-25-trump-visits-china-2026-05-14.md",
+      "voice_index_path": "../../archive/sources/2026-05-14/source-game-theory-25-trump-visits-china-2026-05-14.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-14/source-game-theory-25-trump-visits-china-2026-05-14.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-19",
+      "title": "Game Theory 26 The Holy Empire Of Ai",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-19/source-game-theory-26-the-holy-empire-of-ai-2026-05-19.md",
+      "voice_index_path": "../../archive/sources/2026-05-19/source-game-theory-26-the-holy-empire-of-ai-2026-05-19.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-19/source-game-theory-26-the-holy-empire-of-ai-2026-05-19.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-21",
+      "title": "Game Theory 27 Putin Enters The Chat",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-21/source-game-theory-27-putin-enters-the-chat-2026-05-21.md",
+      "voice_index_path": "../../archive/sources/2026-05-21/source-game-theory-27-putin-enters-the-chat-2026-05-21.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-21/source-game-theory-27-putin-enters-the-chat-2026-05-21.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "Game Theory 28 Predictive History",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-26/source-game-theory-28-predictive-history-2026-05-26.md",
+      "voice_index_path": "../../archive/sources/2026-05-26/source-game-theory-28-predictive-history-2026-05-26.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-game-theory-28-predictive-history-2026-05-26.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "Gb 11 Dantes Revolution",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-26/source-gb-11-dantes-revolution-2026-05-26.md",
+      "voice_index_path": "../../archive/sources/2026-05-26/source-gb-11-dantes-revolution-2026-05-26.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-gb-11-dantes-revolution-2026-05-26.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "Gb 12 Dante In Paradise",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-26/source-gb-12-dante-in-paradise-2026-05-26.md",
+      "voice_index_path": "../../archive/sources/2026-05-26/source-gb-12-dante-in-paradise-2026-05-26.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-05-26/source-gb-12-dante-in-paradise-2026-05-26.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-10",
+      "title": "Predictive History Founding Members #1",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-10/source-predictive-history-founding-members-1-2026-06-10.md",
+      "voice_index_path": "../../archive/sources/2026-06-10/source-predictive-history-founding-members-1-2026-06-10.md",
+      "upstream_path": "C:/dev/strategy-codex/source-archive/statecraft/2026-06-10/source-predictive-history-founding-members-01-livestream-2026-06-10.md",
+      "source_class": "historical upstream transcript backfill",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "upstream-unresolved",
+      "inference_basis": [],
       "import_status": "imported"
     }
   ]

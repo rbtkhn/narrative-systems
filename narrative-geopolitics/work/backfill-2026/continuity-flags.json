@@ -350,5 +350,16 @@
     "crisis_object": "Iran-U.S. escalation and settlement",
     "status": "needs_manual_review",
     "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
+  },
+  {
+    "source_ref": "narrative-geopolitics/archive/sources/2026-04-27/source-game-theory-21-world-war-trump-2026-04-27.md",
+    "voice_slugs": [
+      "jiang"
+    ],
+    "date": "2026-04-27",
+    "flag_type": "potential_forecast_or_thesis_continuity",
+    "crisis_object": "Iran-U.S. escalation and settlement",
+    "status": "needs_manual_review",
+    "reason": "Title contains a forecast, plan, timing, or conflict cue; no forecast or reality claim was promoted automatically."
   }
 ]

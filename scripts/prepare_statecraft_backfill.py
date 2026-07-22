@@ -53,11 +53,13 @@ def known_provenance() -> tuple[set[str], set[str]]:
     return paths, urls
 
 
-def voice_hits(filename: str, voices: list[str]) -> list[str]:
+def voice_hits(filename: str, voices: list[str], fields: dict[str, str]) -> list[str]:
     hits = [voice for voice in voices if re.search(rf"(^|[-_]){re.escape(voice)}([-_.]|$)", filename)]
     # The canonical voice is Mercouris for both solo and The Duran uploads.
     if "alexander-mercouris" in filename and "mercouris" not in hits:
         hits.append("mercouris")
+    if "jiang" in voices and any("jiang xueqin" in fields.get(key, "").lower() for key in ("host", "guest", "show", "channel_name")):
+        hits.append("jiang")
     return sorted(set(hits))
 
 
@@ -103,7 +105,7 @@ def prepare() -> list[dict[str, object]]:
         rel = str(path).replace("\\", "/")
         normalized = str(path).replace("/", "\\").lower()
         pub_date = fields.get("pub_date") or next((part for part in path.parts if re.fullmatch(r"2026-\d{2}-\d{2}", part)), "")
-        hits = voice_hits(path.name, voices)
+        hits = voice_hits(path.name, voices, fields)
         reason = "eligible"
         if normalized in known_paths or fields.get("source_url", "") in known_urls or local_target_exists(title(fields, path), pub_date):
             reason = "already_imported"
