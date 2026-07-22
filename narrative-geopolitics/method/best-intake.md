@@ -52,6 +52,12 @@ A `best-intake` source is adequate when it has:
 - an explicit review state when certainty is incomplete
 - a manifest row
 
+Title and routing integrity rules:
+
+- Preserve the exact title exposed by the supplied source body or YouTube metadata when available. Do not shorten, normalize, or editorially rewrite it during landing.
+- If the operator supplies no channel and the channel is inferred from a title, URL, or body cue, record the route as provisional and retain the evidence basis. Do not label an inference as explicit-host.
+- Use canonical channel display names and slugs. For example, the display name is `Reason to Resist` and the slug is `reason-resist`.
+
 It does **not** need full routing, perfect family calibration, or public-synthesis readiness at landing time.
 
 ## Required Inputs
@@ -80,7 +86,7 @@ Optional overrides:
 Metadata sidecars remain valid for batch or edge-case work, but they are no
 longer the preferred same-day one-off flow.
 
-If optional fields are unclear, preserve uncertainty instead of inventing precision.
+If optional fields are unclear, preserve uncertainty instead of inventing precision. If the host is inferred, use `routing_state: provisional` and an inference basis such as `title-cue` or `body-cue`.
 
 When no recoverable public URL exists, intake remains valid. New source
 frontmatter records `source_url: ""` and `source_url_status: unavailable`.
