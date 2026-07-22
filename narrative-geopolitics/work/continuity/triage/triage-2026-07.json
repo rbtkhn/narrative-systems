@@ -1,0 +1,2151 @@
+{
+  "range": {
+    "start": "2026-07-01",
+    "end": "2026-07-31"
+  },
+  "generated_at": "2026-07-22T01:02:42.801446+00:00",
+  "summary": {
+    "total_items": 34,
+    "p1": 14,
+    "p2": 19,
+    "p3": 1
+  },
+  "p1_immediate_review": [
+    {
+      "priority": "P1",
+      "category": "forecast",
+      "entity": "NG-20260707-F01",
+      "date": "2026-07-07",
+      "crisis_objects": [
+        "hormuz"
+      ],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "longitudinal:open_forecast"
+      ],
+      "reason": "Accountable forecast is open or linked to a changed evidence state.",
+      "action": "Adjudicate against the declared observable without forcing an outcome.",
+      "links": {
+        "forecast_ids": [
+          "NG-20260707-F01"
+        ],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "forecast",
+      "entity": "NG-20260707-F02",
+      "date": "2026-07-07",
+      "crisis_objects": [],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "longitudinal:open_forecast"
+      ],
+      "reason": "Accountable forecast is open or linked to a changed evidence state.",
+      "action": "Adjudicate against the declared observable without forcing an outcome.",
+      "links": {
+        "forecast_ids": [
+          "NG-20260707-F02"
+        ],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "forecast",
+      "entity": "NG-20260708-F01",
+      "date": "2026-07-08",
+      "crisis_objects": [
+        "hormuz"
+      ],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "longitudinal:open_forecast",
+        "reality:linked_record"
+      ],
+      "reason": "Accountable forecast is open or linked to a changed evidence state.",
+      "action": "Adjudicate against the declared observable without forcing an outcome.",
+      "links": {
+        "forecast_ids": [
+          "NG-20260708-F01"
+        ],
+        "reality_ids": [
+          "NG-20260708-F01",
+          "VER-20260714-03",
+          "EPT-20260714-001"
+        ],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "forecast",
+      "entity": "NG-20260708-F02",
+      "date": "2026-07-08",
+      "crisis_objects": [
+        "hormuz"
+      ],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "longitudinal:open_forecast",
+        "reality:linked_record"
+      ],
+      "reason": "Accountable forecast is open or linked to a changed evidence state.",
+      "action": "Adjudicate against the declared observable without forcing an outcome.",
+      "links": {
+        "forecast_ids": [
+          "NG-20260708-F02"
+        ],
+        "reality_ids": [
+          "NG-20260708-F02",
+          "VER-20260710-01",
+          "VER-20260714-02",
+          "EPT-20260710-001",
+          "EPT-20260714-001"
+        ],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "forecast",
+      "entity": "NG-20260708-F03",
+      "date": "2026-07-08",
+      "crisis_objects": [
+        "hormuz"
+      ],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "longitudinal:open_forecast"
+      ],
+      "reason": "Accountable forecast is open or linked to a changed evidence state.",
+      "action": "Adjudicate against the declared observable without forcing an outcome.",
+      "links": {
+        "forecast_ids": [
+          "NG-20260708-F03"
+        ],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "forecast",
+      "entity": "NG-20260715-F01",
+      "date": "2026-07-15",
+      "crisis_objects": [
+        "gulf-access"
+      ],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "longitudinal:open_forecast"
+      ],
+      "reason": "Accountable forecast is open or linked to a changed evidence state.",
+      "action": "Adjudicate against the declared observable without forcing an outcome.",
+      "links": {
+        "forecast_ids": [
+          "NG-20260715-F01"
+        ],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "forecast",
+      "entity": "NG-20260716-F01",
+      "date": "2026-07-16",
+      "crisis_objects": [],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "longitudinal:open_forecast"
+      ],
+      "reason": "Accountable forecast is open or linked to a changed evidence state.",
+      "action": "Adjudicate against the declared observable without forcing an outcome.",
+      "links": {
+        "forecast_ids": [
+          "NG-20260716-F01"
+        ],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "forecast",
+      "entity": "NG-20260719-F01",
+      "date": "2026-07-19",
+      "crisis_objects": [
+        "basing",
+        "russia-nato"
+      ],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "longitudinal:open_forecast"
+      ],
+      "reason": "Accountable forecast is open or linked to a changed evidence state.",
+      "action": "Adjudicate against the declared observable without forcing an outcome.",
+      "links": {
+        "forecast_ids": [
+          "NG-20260719-F01"
+        ],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "forecast",
+      "entity": "NG-20260720-F01",
+      "date": "2026-07-20",
+      "crisis_objects": [
+        "maritime-access"
+      ],
+      "source_ids": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-05",
+        "SRC-06",
+        "SRC-09"
+      ],
+      "voices": [
+        "crooke",
+        "davis",
+        "mearsheimer"
+      ],
+      "hosts": [],
+      "basis": [
+        "longitudinal:open_forecast"
+      ],
+      "reason": "Accountable forecast is open or linked to a changed evidence state.",
+      "action": "Adjudicate against the declared observable without forcing an outcome.",
+      "links": {
+        "forecast_ids": [
+          "NG-20260720-F01"
+        ],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "lineage",
+      "entity": "voice:davis × voice:sachs",
+      "date": "2026-07-09",
+      "crisis_objects": [
+        "russia-nato"
+      ],
+      "source_ids": [
+        "SRC-20260709-04",
+        "SRC-20260709-07"
+      ],
+      "voices": [
+        "davis",
+        "sachs"
+      ],
+      "hosts": [
+        "glenn-diesen"
+      ],
+      "basis": [
+        "geometry:shared_host",
+        "orthogonality:collapse-risk"
+      ],
+      "reason": "shared-host limitation",
+      "action": "Confirm distinct mechanisms or recover independent lineage.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": [
+          "voice:davis->voice:sachs:shared_object"
+        ]
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "lineage",
+      "entity": "voice:pape × voice:marandi",
+      "date": "2026-07-13",
+      "crisis_objects": [
+        "hormuz"
+      ],
+      "source_ids": [
+        "SRC-20260713-02",
+        "SRC-20260713-03"
+      ],
+      "voices": [
+        "marandi",
+        "pape"
+      ],
+      "hosts": [
+        "mario-nawfal"
+      ],
+      "basis": [
+        "geometry:shared_host",
+        "orthogonality:collapse-risk"
+      ],
+      "reason": "shared-host limitation",
+      "action": "Confirm distinct mechanisms or recover independent lineage.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": [
+          "voice:pape->voice:marandi:shared_object"
+        ]
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "lineage",
+      "entity": "voice:johnson × voice:marandi",
+      "date": "2026-07-14",
+      "crisis_objects": [
+        "gulf-access"
+      ],
+      "source_ids": [
+        "SRC-20260714-02",
+        "SRC-20260714-09"
+      ],
+      "voices": [
+        "johnson",
+        "marandi"
+      ],
+      "hosts": [
+        "dialogue-works"
+      ],
+      "basis": [
+        "geometry:shared_host",
+        "orthogonality:collapse-risk"
+      ],
+      "reason": "shared-host limitation",
+      "action": "Confirm distinct mechanisms or recover independent lineage.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": [
+          "voice:johnson->voice:marandi:shared_object"
+        ]
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "lineage",
+      "entity": "voice:krapivnik × voice:sachs",
+      "date": "2026-07-19",
+      "crisis_objects": [
+        "russia-nato"
+      ],
+      "source_ids": [
+        "SRC-20260719-03",
+        "SRC-20260719-04"
+      ],
+      "voices": [
+        "krapivnik",
+        "sachs"
+      ],
+      "hosts": [
+        "glenn-diesen"
+      ],
+      "basis": [
+        "geometry:shared_host",
+        "orthogonality:collapse-risk"
+      ],
+      "reason": "shared-host limitation",
+      "action": "Confirm distinct mechanisms or recover independent lineage.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": [
+          "voice:krapivnik->voice:sachs:shared_object"
+        ]
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "lineage",
+      "entity": "voice:escobar × voice:weichert",
+      "date": "2026-07-20",
+      "crisis_objects": [
+        "bab-el-mandab"
+      ],
+      "source_ids": [
+        "SRC-20260720-11",
+        "SRC-20260720-13"
+      ],
+      "voices": [
+        "escobar",
+        "weichert"
+      ],
+      "hosts": [
+        "moral-resistance"
+      ],
+      "basis": [
+        "geometry:shared_host",
+        "orthogonality:collapse-risk"
+      ],
+      "reason": "shared-host limitation",
+      "action": "Confirm distinct mechanisms or recover independent lineage.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": [
+          "voice:escobar->voice:weichert:shared_object"
+        ]
+      }
+    }
+  ],
+  "p2_structural_review": [
+    {
+      "priority": "P2",
+      "category": "counter_pressure",
+      "entity": "basing",
+      "date": "2026-07-01",
+      "crisis_objects": [
+        "basing"
+      ],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "daily_orthogonality:counter_pressure_gap"
+      ],
+      "reason": "No independently verified basing, casualty, strike-effect, or infrastructure observations are represented; keep those reports source-attributed.",
+      "action": "supply an independent counter-pressure source or retain the limitation",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "counter_pressure",
+      "entity": "russia-nato",
+      "date": "2026-07-01",
+      "crisis_objects": [
+        "russia-nato"
+      ],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "daily_orthogonality:counter_pressure_gap"
+      ],
+      "reason": "No independently verified force-posture or diplomatic-threshold observation is represented for the Russia/NATO secondary theater.",
+      "action": "supply an independent counter-pressure source or retain the limitation",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "counter_pressure",
+      "entity": "maritime-access",
+      "date": "2026-07-07",
+      "crisis_objects": [
+        "maritime-access"
+      ],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "daily_orthogonality:counter_pressure_gap"
+      ],
+      "reason": "No vessel-level or official-maritime counter-pressure is represented in the daily source ledger; maritime threat convergence must not be treated as closure evidence.",
+      "action": "supply an independent counter-pressure source or retain the limitation",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "counter_pressure",
+      "entity": "unresolved-object",
+      "date": "2026-07-17",
+      "crisis_objects": [
+        "unresolved-object"
+      ],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "daily_orthogonality:counter_pressure_gap"
+      ],
+      "reason": "No named counter-pressure observable was identified; define one before treating convergence as decision-relevant.",
+      "action": "supply an independent counter-pressure source or retain the limitation",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "jiang",
+      "date": "2026-07-01",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260701-03"
+      ],
+      "voices": [
+        "jiang"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "macgregor",
+      "date": "2026-07-01",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260701-04",
+        "SRC-20260707-02",
+        "SRC-20260709-06",
+        "SRC-20260710-04",
+        "SRC-20260715-02"
+      ],
+      "voices": [
+        "macgregor"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "parsi",
+      "date": "2026-07-01",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260701-01",
+        "SRC-20260706-02",
+        "SRC-20260707-08",
+        "SRC-20260713-10",
+        "SRC-20260716-07",
+        "SRC-20260718-07"
+      ],
+      "voices": [
+        "parsi"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "postol",
+      "date": "2026-07-02",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260702-02"
+      ],
+      "voices": [
+        "postol"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "pape",
+      "date": "2026-07-06",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260706-01",
+        "SRC-20260708-08",
+        "SRC-20260713-02",
+        "SRC-20260713-09",
+        "SRC-20260715-03",
+        "SRC-20260716-10",
+        "SRC-20260717-01",
+        "SRC-20260718-06"
+      ],
+      "voices": [
+        "pape"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "helmer",
+      "date": "2026-07-07",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260707-04",
+        "SRC-20260714-03",
+        "SRC-20260716-05"
+      ],
+      "voices": [
+        "helmer"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "hoh",
+      "date": "2026-07-08",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260708-06",
+        "SRC-20260715-05"
+      ],
+      "voices": [
+        "hoh"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "aguilar",
+      "date": "2026-07-09",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260709-08",
+        "SRC-20260713-05"
+      ],
+      "voices": [
+        "aguilar"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "martyanov",
+      "date": "2026-07-09",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260709-05"
+      ],
+      "voices": [
+        "martyanov"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "freeman",
+      "date": "2026-07-13",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260713-08"
+      ],
+      "voices": [
+        "freeman"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "wilkerson",
+      "date": "2026-07-14",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260714-06"
+      ],
+      "voices": [
+        "wilkerson"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "kent",
+      "date": "2026-07-15",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260715-06"
+      ],
+      "voices": [
+        "kent"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "henningsen",
+      "date": "2026-07-16",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260716-04"
+      ],
+      "voices": [
+        "henningsen"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "krainer",
+      "date": "2026-07-16",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260716-03"
+      ],
+      "voices": [
+        "krainer"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "matlock",
+      "date": "2026-07-18",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260718-05"
+      ],
+      "voices": [
+        "matlock"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    }
+  ],
+  "p3_quality_review": [
+    {
+      "priority": "P3",
+      "category": "editorial",
+      "entity": "2026-07-17",
+      "date": "2026-07-17",
+      "crisis_objects": [],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "longitudinal:incomplete_context"
+      ],
+      "reason": "Daily source or synthesis context is incomplete.",
+      "action": "Recover context or retain the bounded low-confidence limitation.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    }
+  ],
+  "queue": [
+    {
+      "priority": "P1",
+      "category": "forecast",
+      "entity": "NG-20260707-F01",
+      "date": "2026-07-07",
+      "crisis_objects": [
+        "hormuz"
+      ],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "longitudinal:open_forecast"
+      ],
+      "reason": "Accountable forecast is open or linked to a changed evidence state.",
+      "action": "Adjudicate against the declared observable without forcing an outcome.",
+      "links": {
+        "forecast_ids": [
+          "NG-20260707-F01"
+        ],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "forecast",
+      "entity": "NG-20260707-F02",
+      "date": "2026-07-07",
+      "crisis_objects": [],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "longitudinal:open_forecast"
+      ],
+      "reason": "Accountable forecast is open or linked to a changed evidence state.",
+      "action": "Adjudicate against the declared observable without forcing an outcome.",
+      "links": {
+        "forecast_ids": [
+          "NG-20260707-F02"
+        ],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "forecast",
+      "entity": "NG-20260708-F01",
+      "date": "2026-07-08",
+      "crisis_objects": [
+        "hormuz"
+      ],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "longitudinal:open_forecast",
+        "reality:linked_record"
+      ],
+      "reason": "Accountable forecast is open or linked to a changed evidence state.",
+      "action": "Adjudicate against the declared observable without forcing an outcome.",
+      "links": {
+        "forecast_ids": [
+          "NG-20260708-F01"
+        ],
+        "reality_ids": [
+          "NG-20260708-F01",
+          "VER-20260714-03",
+          "EPT-20260714-001"
+        ],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "forecast",
+      "entity": "NG-20260708-F02",
+      "date": "2026-07-08",
+      "crisis_objects": [
+        "hormuz"
+      ],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "longitudinal:open_forecast",
+        "reality:linked_record"
+      ],
+      "reason": "Accountable forecast is open or linked to a changed evidence state.",
+      "action": "Adjudicate against the declared observable without forcing an outcome.",
+      "links": {
+        "forecast_ids": [
+          "NG-20260708-F02"
+        ],
+        "reality_ids": [
+          "NG-20260708-F02",
+          "VER-20260710-01",
+          "VER-20260714-02",
+          "EPT-20260710-001",
+          "EPT-20260714-001"
+        ],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "forecast",
+      "entity": "NG-20260708-F03",
+      "date": "2026-07-08",
+      "crisis_objects": [
+        "hormuz"
+      ],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "longitudinal:open_forecast"
+      ],
+      "reason": "Accountable forecast is open or linked to a changed evidence state.",
+      "action": "Adjudicate against the declared observable without forcing an outcome.",
+      "links": {
+        "forecast_ids": [
+          "NG-20260708-F03"
+        ],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "forecast",
+      "entity": "NG-20260715-F01",
+      "date": "2026-07-15",
+      "crisis_objects": [
+        "gulf-access"
+      ],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "longitudinal:open_forecast"
+      ],
+      "reason": "Accountable forecast is open or linked to a changed evidence state.",
+      "action": "Adjudicate against the declared observable without forcing an outcome.",
+      "links": {
+        "forecast_ids": [
+          "NG-20260715-F01"
+        ],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "forecast",
+      "entity": "NG-20260716-F01",
+      "date": "2026-07-16",
+      "crisis_objects": [],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "longitudinal:open_forecast"
+      ],
+      "reason": "Accountable forecast is open or linked to a changed evidence state.",
+      "action": "Adjudicate against the declared observable without forcing an outcome.",
+      "links": {
+        "forecast_ids": [
+          "NG-20260716-F01"
+        ],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "forecast",
+      "entity": "NG-20260719-F01",
+      "date": "2026-07-19",
+      "crisis_objects": [
+        "basing",
+        "russia-nato"
+      ],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "longitudinal:open_forecast"
+      ],
+      "reason": "Accountable forecast is open or linked to a changed evidence state.",
+      "action": "Adjudicate against the declared observable without forcing an outcome.",
+      "links": {
+        "forecast_ids": [
+          "NG-20260719-F01"
+        ],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "forecast",
+      "entity": "NG-20260720-F01",
+      "date": "2026-07-20",
+      "crisis_objects": [
+        "maritime-access"
+      ],
+      "source_ids": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-05",
+        "SRC-06",
+        "SRC-09"
+      ],
+      "voices": [
+        "crooke",
+        "davis",
+        "mearsheimer"
+      ],
+      "hosts": [],
+      "basis": [
+        "longitudinal:open_forecast"
+      ],
+      "reason": "Accountable forecast is open or linked to a changed evidence state.",
+      "action": "Adjudicate against the declared observable without forcing an outcome.",
+      "links": {
+        "forecast_ids": [
+          "NG-20260720-F01"
+        ],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "lineage",
+      "entity": "voice:davis × voice:sachs",
+      "date": "2026-07-09",
+      "crisis_objects": [
+        "russia-nato"
+      ],
+      "source_ids": [
+        "SRC-20260709-04",
+        "SRC-20260709-07"
+      ],
+      "voices": [
+        "davis",
+        "sachs"
+      ],
+      "hosts": [
+        "glenn-diesen"
+      ],
+      "basis": [
+        "geometry:shared_host",
+        "orthogonality:collapse-risk"
+      ],
+      "reason": "shared-host limitation",
+      "action": "Confirm distinct mechanisms or recover independent lineage.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": [
+          "voice:davis->voice:sachs:shared_object"
+        ]
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "lineage",
+      "entity": "voice:pape × voice:marandi",
+      "date": "2026-07-13",
+      "crisis_objects": [
+        "hormuz"
+      ],
+      "source_ids": [
+        "SRC-20260713-02",
+        "SRC-20260713-03"
+      ],
+      "voices": [
+        "marandi",
+        "pape"
+      ],
+      "hosts": [
+        "mario-nawfal"
+      ],
+      "basis": [
+        "geometry:shared_host",
+        "orthogonality:collapse-risk"
+      ],
+      "reason": "shared-host limitation",
+      "action": "Confirm distinct mechanisms or recover independent lineage.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": [
+          "voice:pape->voice:marandi:shared_object"
+        ]
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "lineage",
+      "entity": "voice:johnson × voice:marandi",
+      "date": "2026-07-14",
+      "crisis_objects": [
+        "gulf-access"
+      ],
+      "source_ids": [
+        "SRC-20260714-02",
+        "SRC-20260714-09"
+      ],
+      "voices": [
+        "johnson",
+        "marandi"
+      ],
+      "hosts": [
+        "dialogue-works"
+      ],
+      "basis": [
+        "geometry:shared_host",
+        "orthogonality:collapse-risk"
+      ],
+      "reason": "shared-host limitation",
+      "action": "Confirm distinct mechanisms or recover independent lineage.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": [
+          "voice:johnson->voice:marandi:shared_object"
+        ]
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "lineage",
+      "entity": "voice:krapivnik × voice:sachs",
+      "date": "2026-07-19",
+      "crisis_objects": [
+        "russia-nato"
+      ],
+      "source_ids": [
+        "SRC-20260719-03",
+        "SRC-20260719-04"
+      ],
+      "voices": [
+        "krapivnik",
+        "sachs"
+      ],
+      "hosts": [
+        "glenn-diesen"
+      ],
+      "basis": [
+        "geometry:shared_host",
+        "orthogonality:collapse-risk"
+      ],
+      "reason": "shared-host limitation",
+      "action": "Confirm distinct mechanisms or recover independent lineage.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": [
+          "voice:krapivnik->voice:sachs:shared_object"
+        ]
+      }
+    },
+    {
+      "priority": "P1",
+      "category": "lineage",
+      "entity": "voice:escobar × voice:weichert",
+      "date": "2026-07-20",
+      "crisis_objects": [
+        "bab-el-mandab"
+      ],
+      "source_ids": [
+        "SRC-20260720-11",
+        "SRC-20260720-13"
+      ],
+      "voices": [
+        "escobar",
+        "weichert"
+      ],
+      "hosts": [
+        "moral-resistance"
+      ],
+      "basis": [
+        "geometry:shared_host",
+        "orthogonality:collapse-risk"
+      ],
+      "reason": "shared-host limitation",
+      "action": "Confirm distinct mechanisms or recover independent lineage.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": [
+          "voice:escobar->voice:weichert:shared_object"
+        ]
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "counter_pressure",
+      "entity": "basing",
+      "date": "2026-07-01",
+      "crisis_objects": [
+        "basing"
+      ],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "daily_orthogonality:counter_pressure_gap"
+      ],
+      "reason": "No independently verified basing, casualty, strike-effect, or infrastructure observations are represented; keep those reports source-attributed.",
+      "action": "supply an independent counter-pressure source or retain the limitation",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "counter_pressure",
+      "entity": "russia-nato",
+      "date": "2026-07-01",
+      "crisis_objects": [
+        "russia-nato"
+      ],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "daily_orthogonality:counter_pressure_gap"
+      ],
+      "reason": "No independently verified force-posture or diplomatic-threshold observation is represented for the Russia/NATO secondary theater.",
+      "action": "supply an independent counter-pressure source or retain the limitation",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "counter_pressure",
+      "entity": "maritime-access",
+      "date": "2026-07-07",
+      "crisis_objects": [
+        "maritime-access"
+      ],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "daily_orthogonality:counter_pressure_gap"
+      ],
+      "reason": "No vessel-level or official-maritime counter-pressure is represented in the daily source ledger; maritime threat convergence must not be treated as closure evidence.",
+      "action": "supply an independent counter-pressure source or retain the limitation",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "counter_pressure",
+      "entity": "unresolved-object",
+      "date": "2026-07-17",
+      "crisis_objects": [
+        "unresolved-object"
+      ],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "daily_orthogonality:counter_pressure_gap"
+      ],
+      "reason": "No named counter-pressure observable was identified; define one before treating convergence as decision-relevant.",
+      "action": "supply an independent counter-pressure source or retain the limitation",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "jiang",
+      "date": "2026-07-01",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260701-03"
+      ],
+      "voices": [
+        "jiang"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "macgregor",
+      "date": "2026-07-01",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260701-04",
+        "SRC-20260707-02",
+        "SRC-20260709-06",
+        "SRC-20260710-04",
+        "SRC-20260715-02"
+      ],
+      "voices": [
+        "macgregor"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "parsi",
+      "date": "2026-07-01",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260701-01",
+        "SRC-20260706-02",
+        "SRC-20260707-08",
+        "SRC-20260713-10",
+        "SRC-20260716-07",
+        "SRC-20260718-07"
+      ],
+      "voices": [
+        "parsi"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "postol",
+      "date": "2026-07-02",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260702-02"
+      ],
+      "voices": [
+        "postol"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "pape",
+      "date": "2026-07-06",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260706-01",
+        "SRC-20260708-08",
+        "SRC-20260713-02",
+        "SRC-20260713-09",
+        "SRC-20260715-03",
+        "SRC-20260716-10",
+        "SRC-20260717-01",
+        "SRC-20260718-06"
+      ],
+      "voices": [
+        "pape"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "helmer",
+      "date": "2026-07-07",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260707-04",
+        "SRC-20260714-03",
+        "SRC-20260716-05"
+      ],
+      "voices": [
+        "helmer"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "hoh",
+      "date": "2026-07-08",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260708-06",
+        "SRC-20260715-05"
+      ],
+      "voices": [
+        "hoh"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "aguilar",
+      "date": "2026-07-09",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260709-08",
+        "SRC-20260713-05"
+      ],
+      "voices": [
+        "aguilar"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "martyanov",
+      "date": "2026-07-09",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260709-05"
+      ],
+      "voices": [
+        "martyanov"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "freeman",
+      "date": "2026-07-13",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260713-08"
+      ],
+      "voices": [
+        "freeman"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "wilkerson",
+      "date": "2026-07-14",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260714-06"
+      ],
+      "voices": [
+        "wilkerson"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "kent",
+      "date": "2026-07-15",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260715-06"
+      ],
+      "voices": [
+        "kent"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "henningsen",
+      "date": "2026-07-16",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260716-04"
+      ],
+      "voices": [
+        "henningsen"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "krainer",
+      "date": "2026-07-16",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260716-03"
+      ],
+      "voices": [
+        "krainer"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P2",
+      "category": "lineage",
+      "entity": "matlock",
+      "date": "2026-07-18",
+      "crisis_objects": [],
+      "source_ids": [
+        "SRC-20260718-05"
+      ],
+      "voices": [
+        "matlock"
+      ],
+      "hosts": [],
+      "basis": [
+        "geometry:unmapped_voice"
+      ],
+      "reason": "Voice recurs without a canonical descriptor.",
+      "action": "Assign or review a stable descriptor before using it as a durable identity.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    },
+    {
+      "priority": "P3",
+      "category": "editorial",
+      "entity": "2026-07-17",
+      "date": "2026-07-17",
+      "crisis_objects": [],
+      "source_ids": [],
+      "voices": [],
+      "hosts": [],
+      "basis": [
+        "longitudinal:incomplete_context"
+      ],
+      "reason": "Daily source or synthesis context is incomplete.",
+      "action": "Recover context or retain the bounded low-confidence limitation.",
+      "links": {
+        "forecast_ids": [],
+        "reality_ids": [],
+        "geometry_edges": []
+      }
+    }
+  ],
+  "forecast_accountability": {
+    "total": 20,
+    "calibration_eligible": 9,
+    "open": 9,
+    "outcomes": {
+      "active": 2,
+      "open": 2,
+      "requested": 2,
+      "assessed": 1
+    }
+  },
+  "reality_check": {
+    "linked_record_count": 8,
+    "outcome_counts": {
+      "active": 2,
+      "open": 2,
+      "requested": 2,
+      "assessed": 1
+    },
+    "note": "Evidence status and forecast outcome remain separate classifications."
+  },
+  "counter_pressure": [
+    {
+      "kind": "counter_pressure_gap",
+      "object": "basing",
+      "missing_axis": "No independently verified basing, casualty, strike-effect, or infrastructure observations are represented; keep those reports source-attributed.",
+      "basis": "daily_orthogonality",
+      "dates": [
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-03",
+        "2026-07-04",
+        "2026-07-05",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-11",
+        "2026-07-12",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-18",
+        "2026-07-19",
+        "2026-07-20"
+      ],
+      "action": "supply an independent counter-pressure source or retain the limitation"
+    },
+    {
+      "kind": "counter_pressure_gap",
+      "object": "russia-nato",
+      "missing_axis": "No independently verified force-posture or diplomatic-threshold observation is represented for the Russia/NATO secondary theater.",
+      "basis": "daily_orthogonality",
+      "dates": [
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-03",
+        "2026-07-04",
+        "2026-07-05",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-11",
+        "2026-07-12",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-18",
+        "2026-07-19",
+        "2026-07-20"
+      ],
+      "action": "supply an independent counter-pressure source or retain the limitation"
+    },
+    {
+      "kind": "counter_pressure_gap",
+      "object": "maritime-access",
+      "missing_axis": "No vessel-level or official-maritime counter-pressure is represented in the daily source ledger; maritime threat convergence must not be treated as closure evidence.",
+      "basis": "daily_orthogonality",
+      "dates": [
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-14",
+        "2026-07-16",
+        "2026-07-18",
+        "2026-07-20"
+      ],
+      "action": "supply an independent counter-pressure source or retain the limitation"
+    },
+    {
+      "kind": "counter_pressure_gap",
+      "object": "unresolved-object",
+      "missing_axis": "No named counter-pressure observable was identified; define one before treating convergence as decision-relevant.",
+      "basis": "daily_orthogonality",
+      "dates": [
+        "2026-07-17"
+      ],
+      "action": "supply an independent counter-pressure source or retain the limitation"
+    }
+  ],
+  "host_lineage_limits": [
+    {
+      "from": "voice:davis",
+      "to": "voice:sachs",
+      "type": "shared_object",
+      "basis_type": "shared_host",
+      "source_ids": [
+        "SRC-20260709-04",
+        "SRC-20260709-07"
+      ],
+      "dates": [
+        "2026-07-09"
+      ],
+      "host_ids": [
+        "glenn-diesen"
+      ],
+      "lineage_ids": [],
+      "crisis_objects": [
+        "russia-nato"
+      ],
+      "classification": "shared-host limitation",
+      "confidence": "bounded",
+      "review_required": true
+    },
+    {
+      "from": "voice:escobar",
+      "to": "voice:weichert",
+      "type": "shared_object",
+      "basis_type": "shared_host",
+      "source_ids": [
+        "SRC-20260720-11",
+        "SRC-20260720-13"
+      ],
+      "dates": [
+        "2026-07-20"
+      ],
+      "host_ids": [
+        "moral-resistance"
+      ],
+      "lineage_ids": [],
+      "crisis_objects": [
+        "bab-el-mandab"
+      ],
+      "classification": "shared-host limitation",
+      "confidence": "bounded",
+      "review_required": true
+    },
+    {
+      "from": "voice:johnson",
+      "to": "voice:marandi",
+      "type": "shared_object",
+      "basis_type": "shared_host",
+      "source_ids": [
+        "SRC-20260714-02",
+        "SRC-20260714-09"
+      ],
+      "dates": [
+        "2026-07-14"
+      ],
+      "host_ids": [
+        "dialogue-works"
+      ],
+      "lineage_ids": [],
+      "crisis_objects": [
+        "gulf-access"
+      ],
+      "classification": "shared-host limitation",
+      "confidence": "bounded",
+      "review_required": true
+    },
+    {
+      "from": "voice:krapivnik",
+      "to": "voice:sachs",
+      "type": "shared_object",
+      "basis_type": "shared_host",
+      "source_ids": [
+        "SRC-20260719-03",
+        "SRC-20260719-04"
+      ],
+      "dates": [
+        "2026-07-19"
+      ],
+      "host_ids": [
+        "glenn-diesen"
+      ],
+      "lineage_ids": [],
+      "crisis_objects": [
+        "russia-nato"
+      ],
+      "classification": "shared-host limitation",
+      "confidence": "bounded",
+      "review_required": true
+    },
+    {
+      "from": "voice:pape",
+      "to": "voice:marandi",
+      "type": "shared_object",
+      "basis_type": "shared_host",
+      "source_ids": [
+        "SRC-20260713-02",
+        "SRC-20260713-03"
+      ],
+      "dates": [
+        "2026-07-13"
+      ],
+      "host_ids": [
+        "mario-nawfal"
+      ],
+      "lineage_ids": [],
+      "crisis_objects": [
+        "hormuz"
+      ],
+      "classification": "shared-host limitation",
+      "confidence": "bounded",
+      "review_required": true
+    }
+  ],
+  "transitions": [
+    {
+      "object": "bab-el-mandab",
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "date_count": 1,
+      "state": "first appearance"
+    },
+    {
+      "object": "basing",
+      "first_seen": "2026-07-08",
+      "last_seen": "2026-07-14",
+      "date_count": 3,
+      "state": "persistent"
+    },
+    {
+      "object": "gulf-access",
+      "first_seen": "2026-07-13",
+      "last_seen": "2026-07-20",
+      "date_count": 5,
+      "state": "persistent"
+    },
+    {
+      "object": "hormuz",
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-16",
+      "date_count": 7,
+      "state": "persistent"
+    },
+    {
+      "object": "maritime-access",
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "date_count": 1,
+      "state": "first appearance"
+    },
+    {
+      "object": "red-sea",
+      "first_seen": "2026-07-16",
+      "last_seen": "2026-07-16",
+      "date_count": 1,
+      "state": "first appearance"
+    },
+    {
+      "object": "russia-nato",
+      "first_seen": "2026-07-01",
+      "last_seen": "2026-07-20",
+      "date_count": 18,
+      "state": "persistent"
+    },
+    {
+      "object": "saudi-access",
+      "first_seen": "2026-07-13",
+      "last_seen": "2026-07-13",
+      "date_count": 1,
+      "state": "first appearance"
+    }
+  ],
+  "quality_metrics": {
+    "node_counts": {
+      "source": 122,
+      "host": 19,
+      "voice": 31,
+      "object": 7,
+      "forecast": 20,
+      "reality": 7
+    },
+    "edge_counts": {
+      "routed_through": 122,
+      "appeared_in": 122,
+      "addressed": 59,
+      "shared_object": 32,
+      "linked_to": 8,
+      "forecasted": 3
+    },
+    "edges_with_source_ids": 338,
+    "edges_with_lineage_basis": 0,
+    "unsupported_candidates": 0,
+    "generic_only_rejections": 0,
+    "unmapped_voice_count": 15,
+    "unresolved_object_count": 0,
+    "counter_pressure_gap_count": 47,
+    "shared_host_edges": 5,
+    "shared_lineage_edges": 0,
+    "confidence_distribution": {
+      "bounded": 346
+    }
+  },
+  "coverage": {
+    "audited_dates": [
+      "2026-07-01",
+      "2026-07-02",
+      "2026-07-03",
+      "2026-07-04",
+      "2026-07-05",
+      "2026-07-06",
+      "2026-07-07",
+      "2026-07-08",
+      "2026-07-09",
+      "2026-07-10",
+      "2026-07-11",
+      "2026-07-12",
+      "2026-07-13",
+      "2026-07-14",
+      "2026-07-15",
+      "2026-07-16",
+      "2026-07-17",
+      "2026-07-18",
+      "2026-07-19",
+      "2026-07-20"
+    ],
+    "skipped_dates": [
+      "2026-07-21",
+      "2026-07-22",
+      "2026-07-23",
+      "2026-07-24",
+      "2026-07-25",
+      "2026-07-26",
+      "2026-07-27",
+      "2026-07-28",
+      "2026-07-29",
+      "2026-07-30",
+      "2026-07-31"
+    ]
+  },
+  "limitations": [
+    "This queue prioritizes research attention; it does not adjudicate truth, score voices, resolve forecasts, or authorize publication.",
+    "Missing evidence is not treated as negative evidence.",
+    "Different voices are not independent evidence unless lineage independence has been established."
+  ],
+  "content_hash": "7d3d068cb302aeb0"
+}

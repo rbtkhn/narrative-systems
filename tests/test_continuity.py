@@ -224,3 +224,26 @@ def test_geometry_range_emits_provenance_graph_and_quality_metrics():
     assert payload["quality_metrics"]["counter_pressure_gap_count"] > 0
     assert payload["graph_diffs"]
     assert payload["counter_pressure_gaps"]
+
+
+def test_triage_prioritizes_geometry_and_forecast_risks_without_claiming_adjudication():
+    code, output = run_continuity(
+        "triage", "--start-date", "2026-07-18", "--end-date", "2026-07-20", "--format", "json", "--dry-run"
+    )
+    assert code == 0
+    payload = json.loads(output)
+    assert payload["summary"]["total_items"] > 0
+    assert payload["summary"]["p1"] > 0
+    assert any("escobar" in item["entity"] and "weichert" in item["entity"] for item in payload["p1_immediate_review"])
+    assert all(item["source_ids"] or item["category"] in {"forecast", "counter_pressure", "editorial"} for item in payload["queue"])
+    assert "does not adjudicate truth" in payload["limitations"][0]
+
+
+def test_triage_markdown_output_and_content_stability(tmp_path):
+    target = tmp_path / "triage.md"
+    code, first = run_continuity("triage", "--date", "2026-07-20", "--format", "md", "--output", str(target))
+    assert code == 0 and target.exists()
+    before = target.read_bytes()
+    code, second = run_continuity("triage", "--date", "2026-07-20", "--format", "md", "--output", str(target))
+    assert code == 0 and target.read_bytes() == before
+    assert "P1 Immediate Review" in second

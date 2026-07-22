@@ -73,7 +73,7 @@ def all_states():
 
 def parse_args():
     p = argparse.ArgumentParser(description="Audit Narrative Geopolitics voice-state continuity.")
-    p.add_argument("command", choices=("states", "revisions", "forecasts", "hosts", "convergence", "select-voices", "orthogonality", "longitudinal", "geometry", "validate"))
+    p.add_argument("command", choices=("states", "revisions", "forecasts", "hosts", "convergence", "select-voices", "orthogonality", "longitudinal", "geometry", "triage", "validate"))
     p.add_argument("--voice")
     p.add_argument("--since")
     p.add_argument("--date")
@@ -847,6 +847,84 @@ def command_geometry():
     print(json.dumps(payload, indent=2, ensure_ascii=False) if ARGS.format == "json" else rendered)
 
 
+def triage_item(priority, category, entity, date_value, *, crisis_objects=None, source_ids=None, voices=None, hosts=None, basis=None, reason, action, links=None):
+    return {"priority": priority, "category": category, "entity": entity, "date": date_value, "crisis_objects": sorted(set(crisis_objects or [])), "source_ids": sorted(set(source_ids or [])), "voices": sorted(set(voices or [])), "hosts": sorted(set(hosts or [])), "basis": sorted(set(basis or [])), "reason": reason, "action": action, "links": links or {"forecast_ids": [], "reality_ids": [], "geometry_edges": []}}
+
+
+def triage_payload(start_date, end_date):
+    geometry = geometry_payload(start_date, end_date)
+    longitudinal = longitudinal_payload(start_date, end_date)
+    queue = []
+    for item in longitudinal["accountability_items"]:
+        if item["calibration_eligible"] and (item["status"] == "open" or item["reality_records"]):
+            queue.append(triage_item("P1", "forecast", item["hook_id"], item["date"], crisis_objects=geometry_object_terms(item["crisis_object"]), source_ids=item["source_ids"], voices=[state["voice"] for state in item["states"]], hosts=item["hosts"], basis=["longitudinal:open_forecast"] + (["reality:linked_record"] if item["reality_records"] else []), reason="Accountable forecast is open or linked to a changed evidence state.", action="Adjudicate against the declared observable without forcing an outcome.", links={"forecast_ids": [item["hook_id"]], "reality_ids": item["reality_records"], "geometry_edges": []}))
+    for edge in geometry["edges"]:
+        if edge["type"] == "shared_object" and edge["review_required"]:
+            queue.append(triage_item("P1", "lineage", f"{edge['from']} × {edge['to']}", edge["dates"][0], crisis_objects=edge["crisis_objects"], source_ids=edge["source_ids"], voices=[edge["from"].split(":", 1)[1], edge["to"].split(":", 1)[1]], hosts=edge["host_ids"], basis=[f"geometry:{edge['basis_type']}", "orthogonality:collapse-risk"], reason=edge["classification"], action="Confirm distinct mechanisms or recover independent lineage.", links={"forecast_ids": [], "reality_ids": [], "geometry_edges": [f"{edge['from']}->{edge['to']}:{edge['type']}"]}))
+    for gap in geometry["counter_pressure_gaps"]:
+        queue.append(triage_item("P2", "counter_pressure", gap["object"], gap["dates"][0], crisis_objects=[gap["object"]], basis=["daily_orthogonality:counter_pressure_gap"], reason=gap["missing_axis"], action=gap["action"], links={"forecast_ids": [], "reality_ids": [], "geometry_edges": []}))
+    unmapped_source_ids = defaultdict(set)
+    for edge in geometry["edges"]:
+        if edge["type"] == "appeared_in" and edge["from"].startswith("voice:"):
+            voice = edge["from"].split(":", 1)[1]
+            node = next((n for n in geometry["nodes"] if n["id"] == edge["from"]), None)
+            if node and node.get("axis") == "unmapped":
+                unmapped_source_ids[voice].update(edge["source_ids"])
+    for voice in sorted({node["label"] for node in geometry["nodes"] if node["type"] == "voice" and node.get("axis") == "unmapped"}):
+        dates = [node["first_seen"] for node in geometry["nodes"] if node["type"] == "voice" and node["label"] == voice]
+        queue.append(triage_item("P2", "lineage", voice, min(dates) if dates else start_date, source_ids=unmapped_source_ids[voice], voices=[voice], basis=["geometry:unmapped_voice"], reason="Voice recurs without a canonical descriptor.", action="Assign or review a stable descriptor before using it as a durable identity."))
+    missing_context_dates = [d for d in date_range(date.fromisoformat(start_date), date.fromisoformat(end_date)) if daily_source_rows(d) and (not daily_text(d, "sources.md") or not daily_text(d, "synthesis.md"))]
+    if missing_context_dates:
+        for missing_date in missing_context_dates:
+            queue.append(triage_item("P3", "editorial", missing_date, missing_date, basis=["longitudinal:incomplete_context"], reason="Daily source or synthesis context is incomplete.", action="Recover context or retain the bounded low-confidence limitation."))
+    deduped = {}
+    for item in queue:
+        key = (item["priority"], item["category"], item["entity"], item["reason"])
+        if key not in deduped:
+            deduped[key] = item
+        else:
+            deduped[key]["date"] = min(deduped[key]["date"], item["date"])
+    queue = list(deduped.values())
+    rank = {"P1": 1, "P2": 2, "P3": 3}
+    queue.sort(key=lambda item: (rank[item["priority"]], item["category"], item["date"], item["entity"]))
+    gap_map = {}
+    for gap in geometry["counter_pressure_gaps"]:
+        key = (gap["object"], gap["missing_axis"])
+        if key not in gap_map:
+            gap_map[key] = dict(gap)
+        else:
+            gap_map[key]["dates"] = sorted(set(gap_map[key]["dates"]) | set(gap["dates"]))
+    payload = {"range": {"start": start_date, "end": end_date}, "generated_at": datetime.now(timezone.utc).isoformat(), "summary": {"total_items": len(queue), "p1": sum(x["priority"] == "P1" for x in queue), "p2": sum(x["priority"] == "P2" for x in queue), "p3": sum(x["priority"] == "P3" for x in queue)}, "p1_immediate_review": [x for x in queue if x["priority"] == "P1"], "p2_structural_review": [x for x in queue if x["priority"] == "P2"], "p3_quality_review": [x for x in queue if x["priority"] == "P3"], "queue": queue, "forecast_accountability": longitudinal["forecast_summary"], "reality_check": longitudinal["reality_transition_summary"], "counter_pressure": list(gap_map.values()), "host_lineage_limits": [x for x in geometry["edges"] if x["review_required"]], "transitions": geometry["object_transitions"], "quality_metrics": geometry["quality_metrics"], "coverage": geometry["coverage"], "limitations": ["This queue prioritizes research attention; it does not adjudicate truth, score voices, resolve forecasts, or authorize publication.", "Missing evidence is not treated as negative evidence.", "Different voices are not independent evidence unless lineage independence has been established."]}
+    semantic = json.dumps({k: v for k, v in payload.items() if k not in {"generated_at", "content_hash"}}, sort_keys=True, ensure_ascii=False); payload["content_hash"] = hashlib.sha256(semantic.encode("utf-8")).hexdigest()[:16]
+    return payload
+
+
+def render_triage(payload):
+    lines = ["# Continuity Triage", "", "## Decision Summary", "", f"- Range: {payload['range']['start']} through {payload['range']['end']}; total items: {payload['summary']['total_items']}; P1: {payload['summary']['p1']}; P2: {payload['summary']['p2']}; P3: {payload['summary']['p3']}", "", "## P1 Immediate Review", ""]
+    for title, key in (("P1 Immediate Review", "p1_immediate_review"), ("P2 Structural Review", "p2_structural_review"), ("P3 Quality and Completeness Review", "p3_quality_review")):
+        if title != "P1 Immediate Review": lines.extend(["", f"## {title}", ""])
+        lines.extend([f"{i}. **{item['entity']}** [{item['category']}] {item['reason']} Action: {item['action']}" for i, item in enumerate(payload[key], 1)] or ["- None."])
+    lines.extend(["", "## Forecast Accountability Queue", "", f"- {payload['forecast_accountability']}", "", "## Reality-Check Queue", "", f"- Linked reality records: {payload['reality_check']['linked_record_count']}", "", "## Counter-Pressure and Missing-Observable Queue", ""] + [f"- {gap['object']}: {gap['missing_axis']} Action: {gap['action']}" for gap in payload["counter_pressure"]])
+    lines.extend(["", "## Host and Lineage Limitations", "", f"- Reviewable geometry relationships: {len(payload['host_lineage_limits'])}", "", "## Crisis-Object Transition Watch", ""] + [f"- {item['object']}: {item['state']} ({item['first_seen']}–{item['last_seen']})" for item in payload["transitions"]] + ["", "## Editorial Compression Warnings", "", "- Preserve counter-pressure and lineage limitations when compressing the daily brief.", "", "## Coverage and Quality Metrics", "", f"- {payload['quality_metrics']}", "", "## Limitations and Non-Evidence Notice", "", f"- Generated: `{payload['generated_at']}`", f"- Content hash: `{payload['content_hash']}`"] + [f"- {item}" for item in payload["limitations"]])
+    return "\n".join(lines) + "\n"
+
+
+def command_triage():
+    if ARGS.date and not (ARGS.start_date or ARGS.end_date): ARGS.start_date = ARGS.date; ARGS.end_date = ARGS.date
+    if not ARGS.start_date or not ARGS.end_date: raise SystemExit(2)
+    try: start = date.fromisoformat(ARGS.start_date); end = date.fromisoformat(ARGS.end_date)
+    except ValueError: raise SystemExit(2)
+    if start > end: raise SystemExit(2)
+    payload = triage_payload(ARGS.start_date, ARGS.end_date); rendered = render_triage(payload)
+    target = Path(ARGS.output) if ARGS.output else NG / "work" / "continuity" / "triage" / f"triage-{start.strftime('%Y-%m') if start != end else start.isoformat()}.md"
+    if not target.is_absolute(): target = ROOT / target
+    if not ARGS.dry_run:
+        target.parent.mkdir(parents=True, exist_ok=True); existing = target.read_text(encoding="utf-8") if target.exists() else ""
+        if re.sub(r"- Generated: `[^`]+`", "- Generated: `<normalized>`", existing) != re.sub(r"- Generated: `[^`]+`", "- Generated: `<normalized>`", rendered): target.write_text(rendered, encoding="utf-8", newline="\n")
+        target.with_suffix(".json").write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
+    print(json.dumps(payload, indent=2, ensure_ascii=False) if ARGS.format == "json" else rendered)
+
+
 def command_validate(states):
     failures = []
     ids = set()
@@ -881,6 +959,7 @@ def main():
     elif ARGS.command == "orthogonality": command_orthogonality(states)
     elif ARGS.command == "longitudinal": command_longitudinal()
     elif ARGS.command == "geometry": command_geometry()
+    elif ARGS.command == "triage": command_triage()
     else: return command_validate(states)
     return 0
 
