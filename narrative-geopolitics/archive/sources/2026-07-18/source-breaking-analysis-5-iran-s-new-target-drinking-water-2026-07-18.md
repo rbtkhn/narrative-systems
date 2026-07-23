@@ -75,3 +75,6 @@ As I argued in Bombing to Win, when civilians suddenly lose access to life's bas
 Water shortages would likely produce the same dynamic. Families would focus on finding drinking water, rationing limited supplies, and preventing dehydration. Local communities would devote their energy to survival rather than supporting the war effort.
 
 That does not make escalation less likely. It may make it more likely. Anger comes after survival. Leaders confronted with collapsing civilian conditions often seek to shift public anger outward, while neighboring states face growing pressure to respond to humanitarian and security spillovers. The result could be a wider regional war whose consequences become increasingly difficult for any side to control.
+
+Stay Ahead
+These strikes make sense only if you understand the Iran's revenge mechanisms based on rising public anger made manifest during the Supreme Leader's funeral. I explained this in Monday's Escalation Trap This Week and in the previous Monday's edition in detail. Once you see this, you'll recognize why Iran is putting concerns for justice over limits in war.

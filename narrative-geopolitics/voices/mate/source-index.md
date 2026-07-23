@@ -4,7 +4,7 @@ This index routes the unified local Mate corpus for `mate` to the central Narrat
 
 Source basis: `strategy-codex/statecraft/voices/mate/mate-index.md` plus already-local matching archive rows.
 
-Corpus: 2 local route rows across 2 central archive source files.
+Corpus: 3 local route rows across 3 central archive source files.
 
 Status: `imported-corpus`
 
@@ -21,6 +21,7 @@ Status: `imported-corpus`
 | --- | --- | --- | --- | --- |
 | `2026-03-17` | Aaron Maté : Is Kushner Netanyahu’s Agent? | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-03-17/source-judging-freedom-mate-is-kushner-netanyahus-agent-2026-03-17.md) |
 | `2026-06-24` | Aaron Maté : Iran Deal a Pause Not Peace | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-24/source-judging-freedom-mate-iran-deal-pause-not-peace-2026-06-24.md) |
+| `2026-07-21` | Aaron Maté : Lindsey Graham: The Uniparty’s War Hawk | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-07-21/source-aaron-mat-lindsey-graham-the-uniparty-s-war-hawk-2026-07-21.md) |
 
 ## Import Boundary
 

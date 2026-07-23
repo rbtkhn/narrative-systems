@@ -4,7 +4,7 @@ This index routes the imported lightweight corpus for `escobar` to the central N
 
 Source basis: `narrative-geopolitics/archive/source-manifest.json`.
 
-Corpus: 10 local route rows across 10 central archive source files.
+Corpus: 11 local route rows across 11 central archive source files.
 
 Status: `lightweight`
 
@@ -28,3 +28,4 @@ Status: `lightweight`
 | `2026-07-14` | Pepe Escobar: Yemen Joins the War, and the Entire Middle East Could Go Up in Flames | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-14/source-pepe-escobar-yemen-joins-the-war-and-the-entire-middle-east-could-go-up-in-flames-2026-07-14.md) |
 | `2026-07-16` | Pepe Escobar: Yemen Enters the War as the Strait of Hormuz Erupts Under Retaliatory Fire | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-16/source-pepe-escobar-yemen-enters-the-war-as-the-strait-of-hormuz-erupts-under-retaliatory-fire-2026-07-16.md) |
 | `2026-07-20` | BREAKING: Yemeni Ansarallah Close the Bab al Mandab, U.S. Nuclear Strikes Escalation | `host-pressure test` | `moral-resistance` | [source](../../archive/sources/2026-07-20/source-breaking-yemeni-ansarallah-close-the-bab-al-mandab-u-s-nuclear-strikes-escalation-2026-07-20.md) |
+| `2026-07-22` | Pepe Escobar: All Bets Are Off! | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-07-22/source-pepe-escobar-all-bets-are-off-2026-07-22.md) |

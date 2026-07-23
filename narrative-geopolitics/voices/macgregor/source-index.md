@@ -4,7 +4,7 @@ This index routes the transcript-bearing upstream-parity corpus for `macgregor` 
 
 Source basis: `narrative-geopolitics/archive/source-manifest.json`.
 
-Corpus: 79 local route rows across 79 central archive source files.
+Corpus: 81 local route rows across 81 central archive source files.
 
 Status: `transcript-bearing-upstream-parity`
 
@@ -103,6 +103,8 @@ Status: `transcript-bearing-upstream-parity`
 | `2026-07-09` | BREAKING: BAHRAIN & KUWAIT JUST STRUCK IRAN - w/ Col. Macgregor | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-07-09/source-breaking-bahrain-kuwait-just-struck-iran-w-col-macgregor-2026-07-09.md) |
 | `2026-07-10` | Douglas Macgregor: Disastrous NATO Summit - Renewed War on Iran & Russia | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-10/source-douglas-macgregor-disastrous-nato-summit-renewed-war-on-iran-russia-2026-07-10.md) |
 | `2026-07-15` | Col Doug Macgregor: Iran Wil Never Give Up | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-15/source-col-doug-macgregor-iran-wil-never-give-up-2026-07-15.md) |
+| `2026-07-22` | Bloomberg: Gulf Allies Push Trump to Invade Iran & Seize Kharg Island - w/ Col. Macgregor | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-07-22/source-bloomberg-gulf-allies-push-trump-to-invade-iran-seize-kharg-island-w-col-macgregor-2026-07-22.md) |
+| `2026-07-22` | Colonel Douglas MacGregor: Breaking - Trump Threatens Bridges & Power Plants Destruction in Tehran | `host-pressure test` | `moral-resistance` | [source](../../archive/sources/2026-07-22/source-colonel-douglas-macgregor-breaking-trump-threatens-bridges-power-plants-destruction-in-tehran-2026-07-22.md) |
 
 ## Import Boundary
 

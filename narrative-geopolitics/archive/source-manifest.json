@@ -2,7 +2,7 @@
   "manifest_id": "narrative-geopolitics-source-manifest-v1",
   "source_basis": "central archive with completed historical strategy-codex imports",
   "imported_at": "2026-07-09",
-  "source_count": 1742,
+  "source_count": 1783,
   "boundary": {
     "archive": "source truth",
     "voices": "voice continuity and routing",
@@ -22139,7 +22139,7 @@
       "voice_slugs": [
         "helmer"
       ],
-      "host_slug": "reason-to-resist",
+      "host_slug": "reason-resist",
       "import_status": "imported"
     },
     {
@@ -24821,6 +24821,665 @@
         "jiang"
       ],
       "host_slug": "upstream-unresolved",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-02",
+      "title": "They Could Go After Senior Leaders - Daniel Davis on Putin Attack, Peace Talks, & Trump's Call Out",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-02/source-they-could-go-after-senior-leaders-daniel-davis-on-putin-attack-peace-talks-trump-s-call-out-2026-01-02.md",
+      "voice_index_path": "../../archive/sources/2026-01-02/source-they-could-go-after-senior-leaders-daniel-davis-on-putin-attack-peace-talks-trump-s-call-out-2026-01-02.md",
+      "upstream_path": "operator-paste://2026-07-22/they-could-go-after-senior-leaders-daniel-davis-on-putin-attack-peace-talks-trump-s-call-out",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "mario-nawfal",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-14",
+      "title": "The Decision (To Strike) Was Already Made - Trita Parsi On Iran, Protests, US...",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-14/source-the-decision-to-strike-was-already-made-trita-parsi-on-iran-protests-us-2026-01-14.md",
+      "voice_index_path": "../../archive/sources/2026-01-14/source-the-decision-to-strike-was-already-made-trita-parsi-on-iran-protests-us-2026-01-14.md",
+      "upstream_path": "operator-paste://2026-07-22/the-decision-to-strike-was-already-made-trita-parsi-on-iran-protests-us",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "parsi"
+      ],
+      "host_slug": "mario-nawfal",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-22",
+      "title": "Col. Daniel Davis On Trump's CERTAIN Iran Strikes, Europe & Ukraine...",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-22/source-col-daniel-davis-on-trump-s-certain-iran-strikes-europe-ukraine-2026-01-22.md",
+      "voice_index_path": "../../archive/sources/2026-01-22/source-col-daniel-davis-on-trump-s-certain-iran-strikes-europe-ukraine-2026-01-22.md",
+      "upstream_path": "operator-paste://2026-07-22/col-daniel-davis-on-trump-s-certain-iran-strikes-europe-ukraine",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "mario-nawfal",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-04",
+      "title": "Max Blumenthal On Maduro Capture, Vice President, Resources & More...",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-04/source-max-blumenthal-on-maduro-capture-vice-president-resources-more-2026-01-04.md",
+      "voice_index_path": "../../archive/sources/2026-01-04/source-max-blumenthal-on-maduro-capture-vice-president-resources-more-2026-01-04.md",
+      "upstream_path": "operator-paste://2026-07-22/max-blumenthal-on-maduro-capture-vice-president-resources-more",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "blumenthal"
+      ],
+      "host_slug": "mario-nawfal",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-06",
+      "title": "EX-CIA Larry Johnson on Venezuela, Maduro Capture, China & More...",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-06/source-ex-cia-larry-johnson-on-venezuela-maduro-capture-china-more-2026-01-06.md",
+      "voice_index_path": "../../archive/sources/2026-01-06/source-ex-cia-larry-johnson-on-venezuela-maduro-capture-china-more-2026-01-06.md",
+      "upstream_path": "operator-paste://2026-07-22/ex-cia-larry-johnson-on-venezuela-maduro-capture-china-more",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "mario-nawfal",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-28",
+      "title": "US & ISRAEL JUST HIT IRAN - Scott Ritter On New Iran War!",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-28/source-us-israel-just-hit-iran-scott-ritter-on-new-iran-war-2026-02-28.md",
+      "voice_index_path": "../../archive/sources/2026-02-28/source-us-israel-just-hit-iran-scott-ritter-on-new-iran-war-2026-02-28.md",
+      "upstream_path": "operator-paste://2026-07-22/us-israel-just-hit-iran-scott-ritter-on-new-iran-war",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "mario-nawfal",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "IRAN HAS ESCALATION DOMINANCE OVER THE U.S. - Trita Parsi On Iran War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-22/source-iran-has-escalation-dominance-over-the-u-s-trita-parsi-on-iran-war-2026-04-22.md",
+      "voice_index_path": "../../archive/sources/2026-04-22/source-iran-has-escalation-dominance-over-the-u-s-trita-parsi-on-iran-war-2026-04-22.md",
+      "upstream_path": "operator-paste://2026-07-22/iran-has-escalation-dominance-over-the-u-s-trita-parsi-on-iran-war",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "parsi"
+      ],
+      "host_slug": "mario-nawfal",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "NOBODY TELLS US WHAT TO DO, KATZ DEFIES TRUMP'S CEASEFIRE - Max Blumenthal",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-19/source-nobody-tells-us-what-to-do-katz-defies-trump-s-ceasefire-max-blumenthal-2026-06-19.md",
+      "voice_index_path": "../../archive/sources/2026-06-19/source-nobody-tells-us-what-to-do-katz-defies-trump-s-ceasefire-max-blumenthal-2026-06-19.md",
+      "upstream_path": "operator-paste://2026-07-22/nobody-tells-us-what-to-do-katz-defies-trump-s-ceasefire-max-blumenthal",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "blumenthal"
+      ],
+      "host_slug": "mario-nawfal",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-03",
+      "title": "IRAN BOMBS OIL FACILITIES IN GULF - Scott Ritter On Iran War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-03/source-iran-bombs-oil-facilities-in-gulf-scott-ritter-on-iran-war-2026-03-03.md",
+      "voice_index_path": "../../archive/sources/2026-03-03/source-iran-bombs-oil-facilities-in-gulf-scott-ritter-on-iran-war-2026-03-03.md",
+      "upstream_path": "operator-paste://2026-07-22/iran-bombs-oil-facilities-in-gulf-scott-ritter-on-iran-war",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "mario-nawfal",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "U.S. Iran Ceasefire Fails to Hold - Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-08/source-u-s-iran-ceasefire-fails-to-hold-daniel-davis-2026-04-08.md",
+      "voice_index_path": "../../archive/sources/2026-04-08/source-u-s-iran-ceasefire-fails-to-hold-daniel-davis-2026-04-08.md",
+      "upstream_path": "operator-paste://2026-07-22/u-s-iran-ceasefire-fails-to-hold-daniel-davis",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "mario-nawfal",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "STRAIT CLOSED FOR 2 WEEKS ALREADY - Larry Johnson On Iran War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-16/source-strait-closed-for-2-weeks-already-larry-johnson-on-iran-war-2026-03-16.md",
+      "voice_index_path": "../../archive/sources/2026-03-16/source-strait-closed-for-2-weeks-already-larry-johnson-on-iran-war-2026-03-16.md",
+      "upstream_path": "operator-paste://2026-07-22/strait-closed-for-2-weeks-already-larry-johnson-on-iran-war",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "johnson"
+      ],
+      "host_slug": "mario-nawfal",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-17",
+      "title": "BREAKING: IRGC CLAIMS AMERICANS KILLED AT AL-TANF SYRIA - Col. Larry Wilkerson",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-17/source-breaking-irgc-claims-americans-killed-at-al-tanf-syria-col-larry-wilkerson-2026-07-17.md",
+      "voice_index_path": "../../archive/sources/2026-07-17/source-breaking-irgc-claims-americans-killed-at-al-tanf-syria-col-larry-wilkerson-2026-07-17.md",
+      "upstream_path": "operator-paste://2026-07-22/breaking-irgc-claims-americans-killed-at-al-tanf-syria-col-larry-wilkerson",
+      "source_class": "stream-sequence spine",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "wilkerson"
+      ],
+      "host_slug": "mario-nawfal",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-11",
+      "title": "What Will It Take To Deter NATO's Aggression? - John Helmer",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-11/source-what-will-it-take-to-deter-nato-s-aggression-john-helmer-2026-01-11.md",
+      "voice_index_path": "../../archive/sources/2026-01-11/source-what-will-it-take-to-deter-nato-s-aggression-john-helmer-2026-01-11.md",
+      "upstream_path": "operator-paste://2026-07-22/what-will-it-take-to-deter-nato-s-aggression-john-helmer",
+      "source_class": "stream-sequence spine",
+      "modality": "raw-transcript",
+      "voice_slugs": [
+        "helmer"
+      ],
+      "host_slug": "reason-resist",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-29",
+      "title": "U.S. Launches Global War On Freedom Of Navigation - John Helmer",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-29/source-u-s-launches-global-war-on-freedom-of-navigation-john-helmer-2026-01-29.md",
+      "voice_index_path": "../../archive/sources/2026-01-29/source-u-s-launches-global-war-on-freedom-of-navigation-john-helmer-2026-01-29.md",
+      "upstream_path": "operator-paste://2026-07-22/u-s-launches-global-war-on-freedom-of-navigation-john-helmer",
+      "source_class": "stream-sequence spine",
+      "modality": "raw-transcript",
+      "voice_slugs": [
+        "helmer"
+      ],
+      "host_slug": "reason-resist",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-12-08",
+      "title": "U.S. Efforts to Divide Russia And India Have Failed - John Helmer",
+      "local_path": "narrative-geopolitics/archive/sources/2025-12-08/source-u-s-efforts-to-divide-russia-and-india-have-failed-john-helmer-2025-12-08.md",
+      "voice_index_path": "../../archive/sources/2025-12-08/source-u-s-efforts-to-divide-russia-and-india-have-failed-john-helmer-2025-12-08.md",
+      "upstream_path": "operator-paste://2026-07-22/u-s-efforts-to-divide-russia-and-india-have-failed-john-helmer",
+      "source_class": "stream-sequence spine",
+      "modality": "raw-transcript",
+      "voice_slugs": [
+        "helmer"
+      ],
+      "host_slug": "reason-resist",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-20",
+      "title": "After Trump Sabotages Ceasefire, What Will Russia And China Do? - John Helmer",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-20/source-after-trump-sabotages-ceasefire-what-will-russia-and-china-do-john-helmer-2026-04-20.md",
+      "voice_index_path": "../../archive/sources/2026-04-20/source-after-trump-sabotages-ceasefire-what-will-russia-and-china-do-john-helmer-2026-04-20.md",
+      "upstream_path": "operator-paste://2026-07-22/after-trump-sabotages-ceasefire-what-will-russia-and-china-do-john-helmer",
+      "source_class": "stream-sequence spine",
+      "modality": "raw-transcript",
+      "voice_slugs": [
+        "helmer"
+      ],
+      "host_slug": "reason-resist",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-11-02",
+      "title": "China's Ten NOs To The Trump Regime - John Helmer",
+      "local_path": "narrative-geopolitics/archive/sources/2025-11-02/source-china-s-ten-nos-to-the-trump-regime-john-helmer-2025-11-02.md",
+      "voice_index_path": "../../archive/sources/2025-11-02/source-china-s-ten-nos-to-the-trump-regime-john-helmer-2025-11-02.md",
+      "upstream_path": "operator-paste://2026-07-22/china-s-ten-nos-to-the-trump-regime-john-helmer",
+      "source_class": "stream-sequence spine",
+      "modality": "raw-transcript",
+      "voice_slugs": [
+        "helmer"
+      ],
+      "host_slug": "reason-resist",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-27",
+      "title": "Is BRICS Dead? - John Helmer",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-27/source-is-brics-dead-john-helmer-2026-02-27.md",
+      "voice_index_path": "../../archive/sources/2026-02-27/source-is-brics-dead-john-helmer-2026-02-27.md",
+      "upstream_path": "operator-paste://2026-07-22/is-brics-dead-john-helmer",
+      "source_class": "stream-sequence spine",
+      "modality": "raw-transcript",
+      "voice_slugs": [
+        "helmer"
+      ],
+      "host_slug": "reason-resist",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-12-31",
+      "title": "Did Trump Green-Light An Attack On Putin's Residence? - John Helmer",
+      "local_path": "narrative-geopolitics/archive/sources/2025-12-31/source-did-trump-green-light-an-attack-on-putin-s-residence-john-helmer-2025-12-31.md",
+      "voice_index_path": "../../archive/sources/2025-12-31/source-did-trump-green-light-an-attack-on-putin-s-residence-john-helmer-2025-12-31.md",
+      "upstream_path": "operator-paste://2026-07-22/did-trump-green-light-an-attack-on-putin-s-residence-john-helmer",
+      "source_class": "stream-sequence spine",
+      "modality": "raw-transcript",
+      "voice_slugs": [
+        "helmer"
+      ],
+      "host_slug": "reason-resist",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-03-21",
+      "title": "The Trump Administration Is Peace-Incapable - John Helmer",
+      "local_path": "narrative-geopolitics/archive/sources/2025-03-21/source-the-trump-administration-is-peace-incapable-john-helmer-2025-03-21.md",
+      "voice_index_path": "../../archive/sources/2025-03-21/source-the-trump-administration-is-peace-incapable-john-helmer-2025-03-21.md",
+      "upstream_path": "operator-paste://2026-07-22/the-trump-administration-is-peace-incapable-john-helmer",
+      "source_class": "stream-sequence spine",
+      "modality": "raw-transcript",
+      "voice_slugs": [
+        "helmer"
+      ],
+      "host_slug": "reason-resist",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-09-05",
+      "title": "Trump Is Banging His Head Against a BRICS Wall - John Helmer",
+      "local_path": "narrative-geopolitics/archive/sources/2025-09-05/source-trump-is-banging-his-head-against-a-brics-wall-john-helmer-2025-09-05.md",
+      "voice_index_path": "../../archive/sources/2025-09-05/source-trump-is-banging-his-head-against-a-brics-wall-john-helmer-2025-09-05.md",
+      "upstream_path": "operator-paste://2026-07-22/trump-is-banging-his-head-against-a-brics-wall-john-helmer",
+      "source_class": "stream-sequence spine",
+      "modality": "raw-transcript",
+      "voice_slugs": [
+        "helmer"
+      ],
+      "host_slug": "reason-resist",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-08-16",
+      "title": "John Helmer: Russian Sources Say Trump Has Accepted Russia's Territorial Claims",
+      "local_path": "narrative-geopolitics/archive/sources/2025-08-16/source-john-helmer-russian-sources-say-trump-has-accepted-russia-s-territorial-claims-2025-08-16.md",
+      "voice_index_path": "../../archive/sources/2025-08-16/source-john-helmer-russian-sources-say-trump-has-accepted-russia-s-territorial-claims-2025-08-16.md",
+      "upstream_path": "operator-paste://2026-07-22/john-helmer-russian-sources-say-trump-has-accepted-russia-s-territorial-claims",
+      "source_class": "stream-sequence spine",
+      "modality": "raw-transcript",
+      "voice_slugs": [
+        "helmer"
+      ],
+      "host_slug": "reason-resist",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-05-17",
+      "title": "After Months of U.S.-Led Negotiations, Ukraine and Russia Are No Closer to Peace - John Helmer",
+      "local_path": "narrative-geopolitics/archive/sources/2025-05-17/source-after-months-of-u-s-led-negotiations-ukraine-and-russia-are-no-closer-to-peace-john-helmer-2025-05-17.md",
+      "voice_index_path": "../../archive/sources/2025-05-17/source-after-months-of-u-s-led-negotiations-ukraine-and-russia-are-no-closer-to-peace-john-helmer-2025-05-17.md",
+      "upstream_path": "operator-paste://2026-07-22/after-months-of-u-s-led-negotiations-ukraine-and-russia-are-no-closer-to-peace-john-helmer",
+      "source_class": "stream-sequence spine",
+      "modality": "raw-transcript",
+      "voice_slugs": [
+        "helmer"
+      ],
+      "host_slug": "reason-resist",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-03-04",
+      "title": "Why Does the British Elite Hate Russia So Much? - John Helmer",
+      "local_path": "narrative-geopolitics/archive/sources/2025-03-04/source-why-does-the-british-elite-hate-russia-so-much-john-helmer-2025-03-04.md",
+      "voice_index_path": "../../archive/sources/2025-03-04/source-why-does-the-british-elite-hate-russia-so-much-john-helmer-2025-03-04.md",
+      "upstream_path": "operator-paste://2026-07-22/why-does-the-british-elite-hate-russia-so-much-john-helmer",
+      "source_class": "stream-sequence spine",
+      "modality": "raw-transcript",
+      "voice_slugs": [
+        "helmer"
+      ],
+      "host_slug": "reason-resist",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-04-24",
+      "title": "Trump's Grand Protection Racket - John Helmer",
+      "local_path": "narrative-geopolitics/archive/sources/2025-04-24/source-trump-s-grand-protection-racket-john-helmer-2025-04-24.md",
+      "voice_index_path": "../../archive/sources/2025-04-24/source-trump-s-grand-protection-racket-john-helmer-2025-04-24.md",
+      "upstream_path": "operator-paste://2026-07-22/trump-s-grand-protection-racket-john-helmer",
+      "source_class": "stream-sequence spine",
+      "modality": "raw-transcript",
+      "voice_slugs": [
+        "helmer"
+      ],
+      "host_slug": "reason-resist",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "Russia Strikes Odessa 24/7 Reaches Kramatorsk; Zelensky Panics Sacks Syrsky; EU Short Of Winter Gas",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-22/source-russia-strikes-odessa-24-7-reaches-kramatorsk-zelensky-panics-sacks-syrsky-eu-short-of-winter-gas-2026-07-22.md",
+      "voice_index_path": "../../archive/sources/2026-07-22/source-russia-strikes-odessa-24-7-reaches-kramatorsk-zelensky-panics-sacks-syrsky-eu-short-of-winter-gas-2026-07-22.md",
+      "upstream_path": "operator-paste://2026-07-22/russia-strikes-odessa-24-7-reaches-kramatorsk-zelensky-panics-sacks-syrsky-eu-short-of-winter-gas",
+      "source_class": "host monologue",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mercouris"
+      ],
+      "host_slug": "alexander-mercouris",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "Trump Threatens Iran Civilian Targets / Larry Johnson & LT Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-22/source-trump-threatens-iran-civilian-targets-larry-johnson-lt-col-daniel-davis-2026-07-22.md",
+      "voice_index_path": "../../archive/sources/2026-07-22/source-trump-threatens-iran-civilian-targets-larry-johnson-lt-col-daniel-davis-2026-07-22.md",
+      "upstream_path": "operator-paste://2026-07-22/trump-threatens-iran-civilian-targets-larry-johnson-lt-col-daniel-davis",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "America's Own Words Coming Back to Haunt Them / Prof Seyed Marandi",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-22/source-america-s-own-words-coming-back-to-haunt-them-prof-seyed-marandi-2026-07-22.md",
+      "voice_index_path": "../../archive/sources/2026-07-22/source-america-s-own-words-coming-back-to-haunt-them-prof-seyed-marandi-2026-07-22.md",
+      "upstream_path": "operator-paste://2026-07-22/america-s-own-words-coming-back-to-haunt-them-prof-seyed-marandi",
+      "source_class": "host monologue",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "Colonel Douglas MacGregor: Breaking - Trump Threatens Bridges & Power Plants Destruction in Tehran",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-22/source-colonel-douglas-macgregor-breaking-trump-threatens-bridges-power-plants-destruction-in-tehran-2026-07-22.md",
+      "voice_index_path": "../../archive/sources/2026-07-22/source-colonel-douglas-macgregor-breaking-trump-threatens-bridges-power-plants-destruction-in-tehran-2026-07-22.md",
+      "upstream_path": "operator-paste://2026-07-22/colonel-douglas-macgregor-breaking-trump-threatens-bridges-power-plants-destruction-in-tehran",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "macgregor"
+      ],
+      "host_slug": "moral-resistance",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "Pepe Escobar: All Bets Are Off!",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-22/source-pepe-escobar-all-bets-are-off-2026-07-22.md",
+      "voice_index_path": "../../archive/sources/2026-07-22/source-pepe-escobar-all-bets-are-off-2026-07-22.md",
+      "upstream_path": "operator-paste://2026-07-22/pepe-escobar-all-bets-are-off",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "escobar"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "Breaking: Zelensky Pushes Out Gen Syrsky in Major Shakeup",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-22/source-breaking-zelensky-pushes-out-gen-syrsky-in-major-shakeup-2026-07-22.md",
+      "voice_index_path": "../../archive/sources/2026-07-22/source-breaking-zelensky-pushes-out-gen-syrsky-in-major-shakeup-2026-07-22.md",
+      "upstream_path": "operator-paste://2026-07-22/breaking-zelensky-pushes-out-gen-syrsky-in-major-shakeup",
+      "source_class": "host monologue",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "daniel-davis",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "Robert Barnes: Breaking: Trump Threatens to Bomb Iran's Critical Infrastructure Over Hormuz Attacks",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-22/source-robert-barnes-breaking-trump-threatens-to-bomb-iran-s-critical-infrastructure-over-hormuz-attacks-2026-07-22.md",
+      "voice_index_path": "../../archive/sources/2026-07-22/source-robert-barnes-breaking-trump-threatens-to-bomb-iran-s-critical-infrastructure-over-hormuz-attacks-2026-07-22.md",
+      "upstream_path": "operator-paste://2026-07-22/robert-barnes-breaking-trump-threatens-to-bomb-iran-s-critical-infrastructure-over-hormuz-attacks",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "barnes"
+      ],
+      "host_slug": "dialogue-works",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "Bloomberg: Gulf Allies Push Trump to Invade Iran & Seize Kharg Island - w/ Col. Macgregor",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-22/source-bloomberg-gulf-allies-push-trump-to-invade-iran-seize-kharg-island-w-col-macgregor-2026-07-22.md",
+      "voice_index_path": "../../archive/sources/2026-07-22/source-bloomberg-gulf-allies-push-trump-to-invade-iran-seize-kharg-island-w-col-macgregor-2026-07-22.md",
+      "upstream_path": "operator-paste://2026-07-22/bloomberg-gulf-allies-push-trump-to-invade-iran-seize-kharg-island-w-col-macgregor",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "macgregor"
+      ],
+      "host_slug": "mario-nawfal",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "Matthew Hoh: Iran's Untouchable Mountain - Hegseth Says the U.S. Can Reach Anything",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-22/source-matthew-hoh-iran-s-untouchable-mountain-hegseth-says-the-u-s-can-reach-anything-2026-07-22.md",
+      "voice_index_path": "../../archive/sources/2026-07-22/source-matthew-hoh-iran-s-untouchable-mountain-hegseth-says-the-u-s-can-reach-anything-2026-07-22.md",
+      "upstream_path": "operator-paste://2026-07-22/matthew-hoh-iran-s-untouchable-mountain-hegseth-says-the-u-s-can-reach-anything",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "hoh"
+      ],
+      "host_slug": "dialogue-works",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "Scott Ritter: Turn Around or Face God - Yemen Issues Chilling Warning to Saudi Ship in the Red Sea",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-22/source-scott-ritter-turn-around-or-face-god-yemen-issues-chilling-warning-to-saudi-ship-in-the-red-sea-2026-07-22.md",
+      "voice_index_path": "../../archive/sources/2026-07-22/source-scott-ritter-turn-around-or-face-god-yemen-issues-chilling-warning-to-saudi-ship-in-the-red-sea-2026-07-22.md",
+      "upstream_path": "operator-paste://2026-07-22/scott-ritter-turn-around-or-face-god-yemen-issues-chilling-warning-to-saudi-ship-in-the-red-sea",
+      "source_class": "guest interview pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "dialogue-works",
+      "inference_basis": [
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "Breaking Analysis #6: Why Aqaba?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-19/source-breaking-analysis-6-why-aqaba-2026-07-19.md",
+      "voice_index_path": "../../archive/sources/2026-07-19/source-breaking-analysis-6-why-aqaba-2026-07-19.md",
+      "upstream_path": "operator-paste://2026-07-22/breaking-analysis-6-why-aqaba",
+      "source_class": "authored forecast mechanism",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "pape"
+      ],
+      "host_slug": "escalation-trap",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "Can America Open Hormuz by the Midterms?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-20/source-can-america-open-hormuz-by-the-midterms-2026-07-20.md",
+      "voice_index_path": "../../archive/sources/2026-07-20/source-can-america-open-hormuz-by-the-midterms-2026-07-20.md",
+      "upstream_path": "operator-paste://2026-07-22/can-america-open-hormuz-by-the-midterms",
+      "source_class": "authored forecast mechanism",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "pape"
+      ],
+      "host_slug": "escalation-trap",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "Breaking Analysis #7: New Intel on Pick Axe Mountain -- Has Iran Already Won the Nuclear Race?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-21/source-breaking-analysis-7-new-intel-on-pick-axe-mountain-has-iran-already-won-the-nuclear-race-2026-07-21.md",
+      "voice_index_path": "../../archive/sources/2026-07-21/source-breaking-analysis-7-new-intel-on-pick-axe-mountain-has-iran-already-won-the-nuclear-race-2026-07-21.md",
+      "upstream_path": "operator-paste://2026-07-22/breaking-analysis-7-new-intel-on-pick-axe-mountain-has-iran-already-won-the-nuclear-race",
+      "source_class": "authored forecast mechanism",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "pape"
+      ],
+      "host_slug": "escalation-trap",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "The US-Saudi nuclear deal makes no sense",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-22/source-the-us-saudi-nuclear-deal-makes-no-sense-2026-07-22.md",
+      "voice_index_path": "../../archive/sources/2026-07-22/source-the-us-saudi-nuclear-deal-makes-no-sense-2026-07-22.md",
+      "upstream_path": "operator-paste://2026-07-22/the-us-saudi-nuclear-deal-makes-no-sense",
+      "source_class": "authored newsletter",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "parsi"
+      ],
+      "host_slug": "parsi",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "Decision Point",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-19/source-decision-point-2026-07-19.md",
+      "voice_index_path": "../../archive/sources/2026-07-19/source-decision-point-2026-07-19.md",
+      "upstream_path": "operator-paste://2026-07-22/decision-point",
+      "source_class": "authored newsletter",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "ritter",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-18",
+      "title": "Do the Iranian People Want Regime Change?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-18/source-do-the-iranian-people-want-regime-change-2026-07-18.md",
+      "voice_index_path": "../../archive/sources/2026-07-18/source-do-the-iranian-people-want-regime-change-2026-07-18.md",
+      "upstream_path": "operator-paste://2026-07-22/do-the-iranian-people-want-regime-change",
+      "source_class": "authored newsletter",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "barnes"
+      ],
+      "host_slug": "barnes",
       "inference_basis": [],
       "import_status": "imported"
     }

@@ -4,7 +4,7 @@ This index routes the unified local Wilkerson corpus for `wilkerson` to the cent
 
 Source basis: `strategy-codex/statecraft/voices/wilkerson/wilkerson-index.md` plus already-local matching archive rows.
 
-Corpus: 96 local route rows across 96 central archive source files.
+Corpus: 97 local route rows across 97 central archive source files.
 
 Status: `imported-corpus`
 
@@ -115,6 +115,7 @@ Status: `imported-corpus`
 | `2026-06-11` | COL. Lawrence Wilkerson : Israel's Collapsing Strategy | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-11/source-judging-freedom-wilkerson-israels-collapsing-strategy-2026-06-11.md) |
 | `2026-06-12` | Larry Johnson & Col. Wilkerson: Iran Just Fired at U.S.-Guided Ships: Trump REVEALS Final Decision | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-12/source-dialogue-works-johnson-wilkerson-iran-fired-us-guided-ships-trump-final-decision-2026-06-12.md) |
 | `2026-07-14` | Col. Larry Wilkerson: Full-Scale U.S.-Iran War Erupts, Every Front Now Active | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-14/source-col-larry-wilkerson-full-scale-u-s-iran-war-erupts-every-front-now-active-2026-07-14.md) |
+| `2026-07-17` | BREAKING: IRGC CLAIMS AMERICANS KILLED AT AL-TANF SYRIA - Col. Larry Wilkerson | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-07-17/source-breaking-irgc-claims-americans-killed-at-al-tanf-syria-col-larry-wilkerson-2026-07-17.md) |
 
 ## Import Boundary
 

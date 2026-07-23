@@ -92,3 +92,12 @@ Use this claim map to route a Pape-relevant daily item:
 4. Add a forecast/review hook if the claim is predictive.
 5. Note whether the use is internal-only or safe for public summary.
 
+## Permanent Method Insight
+
+Pape’s 2026 escalation-trap thesis must be audited as three separate propositions, not one omnibus claim:
+
+1. **Spiral mechanism:** escalation widens across domains or actors rather than remaining a bounded exchange.
+2. **Exit proposition:** accumulated commitments and credibility costs prevent a durable pause.
+3. **Control proposition:** the challenger can impose material costs faster than the initiating power can restore deterrence without widening the war.
+
+Continued violence confirms none of these by itself. A thesis audit should record which proposition is supported, which remains unresolved, and what observable evidence would falsify each one. Reuse this distinction for future voice-thesis audits.

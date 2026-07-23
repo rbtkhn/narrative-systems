@@ -4,7 +4,7 @@ This index routes the transcript-bearing upstream-parity corpus for `mercouris` 
 
 Source basis: `strategy-codex/statecraft/voices/mercouris/mercouris-index.md`, `strategy-codex/statecraft/channels/alexander-mercouris/alexander-mercouris-channel-index.md`, and subsequent local intake.
 
-Corpus: 357 local route rows across 357 central archive source files.
+Corpus: 358 local route rows across 358 central archive source files.
 
 Status: `transcript-bearing-upstream-parity`
 
@@ -381,6 +381,7 @@ Status: `transcript-bearing-upstream-parity`
 | `2026-07-19` | Russia Escalates Biggest Strikes On Kiev Odessa Huge Destruction; Kiev Protesters Demand Syrsky Quit | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-19/source-russia-escalates-biggest-strikes-on-kiev-odessa-huge-destruction-kiev-protesters-demand-syrsky-quit-2026-07-19.md) |
 | `2026-07-20` | Russia Cuts Off Odessa; Zelensky Discusses Syrsky Sacking; EU States Split On Sanctions Russia Talks | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-20/source-russia-cuts-off-odessa-zelensky-discusses-syrsky-sacking-eu-states-split-on-sanctions-russia-talks-2026-07-20.md) |
 | `2026-07-21` | Russia Destroys Odessa Ships Brushes Off Protests; Russia Fuel Situation Stabilises; Syrsky Survives | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-21/source-russia-destroys-odessa-ships-brushes-off-protests-russia-fuel-situation-stabilises-syrsky-survives-2026-07-21.md) |
+| `2026-07-22` | Russia Strikes Odessa 24/7 Reaches Kramatorsk; Zelensky Panics Sacks Syrsky; EU Short Of Winter Gas | `provisional-route` | `alexander-mercouris` | [source](../../archive/sources/2026-07-22/source-russia-strikes-odessa-24-7-reaches-kramatorsk-zelensky-panics-sacks-syrsky-eu-short-of-winter-gas-2026-07-22.md) |
 
 ## State Continuity
 

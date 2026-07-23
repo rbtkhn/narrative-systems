@@ -4,7 +4,7 @@ This index routes the imported Ritter corpus for `ritter` to the central Narrati
 
 Source basis: `strategy-codex/statecraft/voices/ritter/ritter-index.md`.
 
-Corpus: 108 local route rows across 108 central archive source files.
+Corpus: 112 local route rows across 112 central archive source files.
 
 Status: `imported-corpus`
 
@@ -71,8 +71,10 @@ Status: `imported-corpus`
 | `2026-02-22` | The Flamingo Effect (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-02-22/source-ritter-the-flamingo-effect-2026-02-22.md) |
 | `2026-02-23` | Scott Ritter: What War With Iran Will Look Like | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-02-23/source-judging-freedom-ritter-what-war-with-iran-will-look-like-2026-02-23.md) |
 | `2026-02-28` | Scott Ritter: Full-Scale War as Iran Attacks All U.S. Targets | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-02-28/source-glenn-diesen-scott-ritter-full-scale-war-as-iran-attacks-all-u-s-targets-2026-02-28.md) |
+| `2026-02-28` | US & ISRAEL JUST HIT IRAN - Scott Ritter On New Iran War! | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-02-28/source-us-israel-just-hit-iran-scott-ritter-on-new-iran-war-2026-02-28.md) |
 | `2026-03-01` | Regime Change, the Double-Edged Sword (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-03-01/source-ritter-regime-change-double-edged-sword-2026-03-01.md) |
 | `2026-03-02` | \"Prove Me Wrong\" – Scott Ritter Says This War Could End US Power in the Middle East | `host-pressure test` | `india-global-left` | [source](../../archive/sources/2026-03-02/source-india-global-left-prove-me-wrong-scott-ritter-2026-03-02.md) |
+| `2026-03-03` | IRAN BOMBS OIL FACILITIES IN GULF - Scott Ritter On Iran War | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-03-03/source-iran-bombs-oil-facilities-in-gulf-scott-ritter-on-iran-war-2026-03-03.md) |
 | `2026-03-04` | Scott Ritter: Iran Wins the Long War — U.S. & Israel Losing Ground! | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-03-04/source-dialogue-works-scott-ritter-iran-wins-the-long-war-us-israel-losing-ground-2026-03-04.md) |
 | `2026-03-06` | Scott Ritter & Lt Col Daniel Davis: IRAN HITTING OUR BASES LIKE NO ENEMY BEFORE | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-03-06/source-daniel-davis-scott-ritter-lt-col-daniel-davis-iran-hitting-our-bases-like-no-enemy-be-2026-03-06.md) |
 | `2026-03-11` | Scott Ritter: The U.S. Has Lost and Is Trapped in the Iran War With No Way Out | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-03-11/source-dialogue-works-scott-ritter-the-u-s-has-lost-and-is-trapped-in-the-iran-war-with-no-way-2026-03-11.md) |
@@ -126,7 +128,9 @@ Status: `imported-corpus`
 | `2026-07-12` | ðŸ”´ LIVE: Scott Ritter - Russia Ukraine Now Enters the Most Dangerous Phase! | `guest interview pressure test` | `cyrus-janssen` | [source](../../archive/sources/2026-07-12/source-live-scott-ritter-russia-ukraine-now-enters-the-most-dangerous-phase-2026-07-12.md) |
 | `2026-07-14` | Scott Ritter: Russia Is Winning the War - and Winning Decisively | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-14/source-scott-ritter-russia-is-winning-the-war-and-winning-decisively-2026-07-14.md) |
 | `2026-07-15` | Scott Ritter: Iran STRIKES Major U.S. Military Supply Hub in Kuwait | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-15/source-scott-ritter-iran-strikes-major-u-s-military-supply-hub-in-kuwait-2026-07-15.md) |
+| `2026-07-19` | Decision Point | `authored` | `ritter` | [source](../../archive/sources/2026-07-19/source-decision-point-2026-07-19.md) |
 | `2026-07-20` | SCOTT RITTER: Graham's Legacy; Zelenskyy's Blunder; Trump's Stupidity | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-07-20/source-scott-ritter-graham-s-legacy-zelenskyy-s-blunder-trump-s-stupidity-2026-07-20.md) |
+| `2026-07-22` | Scott Ritter: Turn Around or Face God - Yemen Issues Chilling Warning to Saudi Ship in the Red Sea | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-22/source-scott-ritter-turn-around-or-face-god-yemen-issues-chilling-warning-to-saudi-ship-in-the-red-sea-2026-07-22.md) |
 
 ## Import Boundary
 

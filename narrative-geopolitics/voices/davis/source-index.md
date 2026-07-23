@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `davis` to the cent
 
 Source basis: `strategy-codex/statecraft/voices/davis/davis-index.md`.
 
-Corpus: 93 local route rows across 93 central archive source files.
+Corpus: 99 local route rows across 99 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -31,6 +31,8 @@ Status: `first-slice-parity`
 | `2025-08-18` | Daniel Davis: Trump Pushes Zelensky & Europe on Peace Deal | `practical-room spine` | `glenn-diesen` | [source](../../archive/sources/2025-08-18/source-glenn-diesen-daniel-davis-trump-pushes-zelensky-europe-on-peace-deal-2025-08-18.md) |
 | `2025-12-10` | The War We Cannot Win / Lt Col Daniel Davis | `authored` | `daniel-davis` | [source](../../archive/sources/2025-12-10/source-daniel-davis-the-war-we-cannot-win-lt-col-daniel-davis-2025-12-10.md) |
 | `2025-12-20` | Ukraine Russia War Reporting Hoax /Lt Col Daniel Davis | `authored` | `daniel-davis` | [source](../../archive/sources/2025-12-20/source-daniel-davis-ukraine-russia-war-reporting-hoax-lt-col-daniel-davis-2025-12-20.md) |
+| `2026-01-02` | They Could Go After Senior Leaders - Daniel Davis on Putin Attack, Peace Talks, & Trump's Call Out | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-01-02/source-they-could-go-after-senior-leaders-daniel-davis-on-putin-attack-peace-talks-trump-s-call-out-2026-01-02.md) |
+| `2026-01-22` | Col. Daniel Davis On Trump's CERTAIN Iran Strikes, Europe & Ukraine... | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-01-22/source-col-daniel-davis-on-trump-s-certain-iran-strikes-europe-ukraine-2026-01-22.md) |
 | `2026-02-07` | Daniel Davis Ã— Glenn Diesen â€” Iran on a knifeâ€™s edge / objectives vs capability (operator transcript) | `practical-room spine` | `glenn-diesen` | [source](../../archive/sources/2026-02-07/source-glenn-diesen-daniel-davis-iran-knife-edge-2026-02-07.md) |
 | `2026-02-16` | ALERT: What Trump Must Understand EPSTEIN CLASS v. WORKING CLASS /Robert Barnes | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-02-16/source-alert-what-trump-must-understand-epstein-class-v-working-class-robert-barnes-2026-02-16.md) |
 | `2026-03-01` | Daniel Davis Ã— Glenn Diesen â€” U.S. strategic miscalculation / Iran war (operator cleaned transcript) | `practical-room spine` | `glenn-diesen` | [source](../../archive/sources/2026-03-01/source-glenn-diesen-daniel-davis-iran-miscalculation-2026-03-01.md) |
@@ -56,6 +58,7 @@ Status: `first-slice-parity`
 | `2026-03-18` | Daniel Davis Ã— Glenn Diesen â€” Iranâ€™s aims, Hormuz, military options, Joe Kent (operator transcript) | `practical-room spine` | `glenn-diesen` | [source](../../archive/sources/2026-03-18/source-glenn-diesen-daniel-davis-military-options-kent-2026-03-18.md) |
 | `2026-03-25` | Lt Col. Daniel Davis: Iranâ€™s Trap Is Already Setâ€¦ And the U.S. Is Moving In | `practical-room spine` | `dialogue-works` | [source](../../archive/sources/2026-03-25/source-dialogue-works-lt-col-daniel-davis-iran-s-trap-is-already-set-and-the-u-s-is-2026-03-25.md) |
 | `2026-04-02` | Daniel Davis Ã— Glenn Diesen â€” Trump war speech, Hormuz, NATO (operator transcript) | `practical-room spine` | `glenn-diesen` | [source](../../archive/sources/2026-04-02/source-glenn-diesen-daniel-davis-trump-war-speech-2026-04-02.md) |
+| `2026-04-08` | U.S. Iran Ceasefire Fails to Hold - Daniel Davis | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-04-08/source-u-s-iran-ceasefire-fails-to-hold-daniel-davis-2026-04-08.md) |
 | `2026-04-16` | Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-16/source-daniel-davis-2026-04-16.md) |
 | `2026-04-17` | Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-17/source-daniel-davis-2026-04-17.md) |
 | `2026-04-18` | Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-18/source-daniel-davis-2026-04-18.md) |
@@ -117,6 +120,9 @@ Status: `first-slice-parity`
 | `2026-07-14` | Third Straight Night US Attacks Iran / Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-14/source-third-straight-night-us-attacks-iran-lt-col-daniel-davis-2026-07-14.md) |
 | `2026-07-18` | IRAN SAYS: FULL SCALE WAR COULD ERUPT /Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-18/source-iran-says-full-scale-war-could-erupt-lt-col-daniel-davis-2026-07-18.md) |
 | `2026-07-20` | BREAKING: Houthis Close Babal Mandeb Strait | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-20/source-breaking-houthis-close-babal-mandeb-strait-2026-07-20.md) |
+| `2026-07-22` | America's Own Words Coming Back to Haunt Them / Prof Seyed Marandi | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-22/source-america-s-own-words-coming-back-to-haunt-them-prof-seyed-marandi-2026-07-22.md) |
+| `2026-07-22` | Breaking: Zelensky Pushes Out Gen Syrsky in Major Shakeup | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-22/source-breaking-zelensky-pushes-out-gen-syrsky-in-major-shakeup-2026-07-22.md) |
+| `2026-07-22` | Trump Threatens Iran Civilian Targets / Larry Johnson & LT Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-07-22/source-trump-threatens-iran-civilian-targets-larry-johnson-lt-col-daniel-davis-2026-07-22.md) |
 
 ## June 2026 Expansion
 

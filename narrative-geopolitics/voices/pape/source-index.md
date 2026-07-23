@@ -4,7 +4,7 @@ This index routes Robert Pape voice work to the central Narrative Geopolitics so
 
 Source basis: `strategy-codex/statecraft/voices/pape/pape-index.md`.
 
-Corpus: 64 authored sources, 22 guest appearances, 86 total imported sources.
+Corpus: 67 authored sources, 22 guest appearances, 89 total imported sources.
 
 ## Reading Rule
 
@@ -121,4 +121,7 @@ Corpus: 64 authored sources, 22 guest appearances, 86 total imported sources.
 - [2026-07-16 — Breaking Analysis #3: Tehran's Second Front Heating Up Fast - Are Markets Watching?](../../archive/sources/2026-07-16/source-breaking-analysis-3-tehran-s-second-front-heating-up-fast-are-markets-watching-2026-07-16.md) — **authored** · essay
 - [2026-07-17 — Breaking Analysis #4: The Point of No Return? How Last Night's U.S. Strikes Deepened the Escalation Trap](../../archive/sources/2026-07-17/source-breaking-analysis-4-the-point-of-no-return-how-last-night-s-u-s-strikes-deepened-the-escalation-trap-2026-07-17.md) — **authored** · essay
 - [2026-07-18 — Breaking Analysis #5: Iran's New Target - Drinking Water](../../archive/sources/2026-07-18/source-breaking-analysis-5-iran-s-new-target-drinking-water-2026-07-18.md) — **authored** · essay
+- [2026-07-19 — Breaking Analysis #6: Why Aqaba?](../../archive/sources/2026-07-19/source-breaking-analysis-6-why-aqaba-2026-07-19.md) — **authored** · substack-post
+- [2026-07-20 — Can America Open Hormuz by the Midterms?](../../archive/sources/2026-07-20/source-can-america-open-hormuz-by-the-midterms-2026-07-20.md) — **authored** · substack-post
 - [2026-07-21 — BREAKING: TRUMP REJECTS IRAN CEASEFIRE, VOWS "DEVASTATING BLOWS" - w/ Robert Pape](../../archive/sources/2026-07-21/source-breaking-trump-rejects-iran-ceasefire-vows-devastating-blows-w-robert-pape-2026-07-21.md) — **guest** · cleaned-transcript · host: `mario-nawfal`
+- [2026-07-21 — Breaking Analysis #7: New Intel on Pick Axe Mountain -- Has Iran Already Won the Nuclear Race?](../../archive/sources/2026-07-21/source-breaking-analysis-7-new-intel-on-pick-axe-mountain-has-iran-already-won-the-nuclear-race-2026-07-21.md) — **authored** · substack-post

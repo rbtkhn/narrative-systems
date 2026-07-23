@@ -9,7 +9,7 @@ guest_people:
   - John Helmer
 show_title: Reason to Resist
 channel_name: Reason to Resist
-host_slug: reason-to-resist
+host_slug: reason-resist
 show: Reason to Resist
 host: Dimitri Lascaris
 guest: "John Helmer"

@@ -4,7 +4,7 @@ This index routes the unified local Parsi corpus for `parsi` to the central Narr
 
 Source basis: `strategy-codex/statecraft/voices/parsi/parsi-index.md` plus already-local matching archive rows.
 
-Corpus: 57 local route rows across 57 central archive source files.
+Corpus: 60 local route rows across 60 central archive source files.
 
 Status: `imported-corpus`
 
@@ -27,6 +27,7 @@ Status: `imported-corpus`
 | `2025-10-20` | IRAN's NUCLEAR DILEMMA /Trita Parsi & Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2025-10-20/source-daniel-davis-irans-nuclear-dilemma-trita-parsi-lt-col-daniel-davis-2025-10-20.md) |
 | `2025-12-19` | Amb. Chas Freeman & Trita Parsi: The Middle East You Knew Is Disappearing | `cross-voice panel` | `dialogue-works` | [source](../../archive/sources/2025-12-19/source-dialogue-works-freeman-parsi-middle-east-you-knew-disappearing-2025-12-19.md) |
 | `2026-01-09` | As Tehran cracks down, Trump's likely instincts are to stay out | `authored analysis` | `parsi` | [source](../../archive/sources/2026-01-09/source-parsi-as-tehran-cracks-down-trumps-likely-instincts-are-to-stay-out-2026-01-09.md) |
+| `2026-01-14` | The Decision (To Strike) Was Already Made - Trita Parsi On Iran, Protests, US... | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-01-14/source-the-decision-to-strike-was-already-made-trita-parsi-on-iran-protests-us-2026-01-14.md) |
 | `2026-02-07` | Iran's Despair Is U.S. Policy | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-02-07/source-parsi-irans-despair-is-us-policy-2026-02-07.md) |
 | `2026-02-20` | Trump Iran No, even a 'small attack' on Iran will lead to war | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-02-20/source-parsi-no-even-a-small-attack-on-iran-will-lead-to-war-2026-02-20.md) |
 | `2026-03-04` | Further thoughts on Trump and Israel's war of choice with Iran: | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-03-04/source-parsi-further-thoughts-on-trump-and-israels-war-of-choice-with-iran-2026-03-04.md) |
@@ -42,6 +43,7 @@ Status: `imported-corpus`
 | `2026-04-17` | source-parsi-2026-04-17 | `signal capture` | `parsi` | [source](../../archive/sources/2026-04-17/source-parsi-2026-04-17.md) |
 | `2026-04-18` | source-parsi-2026-04-18 | `signal capture` | `parsi` | [source](../../archive/sources/2026-04-18/source-parsi-2026-04-18.md) |
 | `2026-04-20` | @tparsi — bundle (20 April 2026) | `signal capture` | `parsi` | [source](../../archive/sources/2026-04-20/source-x-bundle-2026-04-20.md) |
+| `2026-04-22` | IRAN HAS ESCALATION DOMINANCE OVER THE U.S. - Trita Parsi On Iran War | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-04-22/source-iran-has-escalation-dominance-over-the-u-s-trita-parsi-on-iran-war-2026-04-22.md) |
 | `2026-05-01` | Trump's Blockade Snatches Defeat from the Jaws of Victory | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-05-01/source-parsi-trumps-blockade-snatches-defeat-from-the-jaws-of-victory-2026-05-01.md) |
 | `2026-05-02` | Trump's war has destroyed the illusion of US military supremacy | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-05-02/source-parsi-trumps-war-has-destroyed-the-illusion-of-us-military-supremacy-2026-05-02.md) |
 | `2026-05-03` | A few observations on Iran's latest proposal to Trump | `authored newsletter` | `parsi` | [source](../../archive/sources/2026-05-03/source-parsi-a-few-observations-on-irans-latest-proposal-to-trump-2026-05-03.md) |
@@ -76,6 +78,7 @@ Status: `imported-corpus`
 | `2026-07-13` | A new U.S.-Iran war would end where the last one did | `authored` | `none` | [source](../../archive/sources/2026-07-13/source-a-new-u-s-iran-war-would-end-where-the-last-one-did-2026-07-13.md) |
 | `2026-07-16` | REUTERS: IRAN PREPARING TO CLOSE RED SEA IF TRUMP HITS POWER GRID - w/ Trita Parsi | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-07-16/source-reuters-iran-preparing-to-close-red-sea-if-trump-hits-power-grid-w-trita-parsi-2026-07-16.md) |
 | `2026-07-18` | Yesterday's US-Iran escalation is a mere prelude to what is likely to come | `authored` | `parsi` | [source](../../archive/sources/2026-07-18/source-yesterday-s-us-iran-escalation-is-a-mere-prelude-to-what-is-likely-to-come-2026-07-18.md) |
+| `2026-07-22` | The US-Saudi nuclear deal makes no sense | `authored` | `parsi` | [source](../../archive/sources/2026-07-22/source-the-us-saudi-nuclear-deal-makes-no-sense-2026-07-22.md) |
 
 ## Import Boundary
 

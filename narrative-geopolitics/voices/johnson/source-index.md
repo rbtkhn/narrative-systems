@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `johnson` to the ce
 
 Source basis: `narrative-geopolitics/archive/source-manifest.json`.
 
-Corpus: 99 local route rows across 99 central archive source files.
+Corpus: 101 local route rows across 101 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -33,6 +33,7 @@ Status: `first-slice-parity`
 | `2025-10-30` | Ukraine Russia War Update: Just Back from Russia: Larry Johnson | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2025-10-30/source-daniel-davis-larry-johnson-ukraine-russia-war-update-just-back-from-russia-larry-johnson-2025-10-30.md) |
 | `2025-11-28` | Putin to Ukraine: Withdraw or We'll Take it by FORCE /Larry Johnson | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2025-11-28/source-daniel-davis-larry-johnson-putin-to-ukraine-withdraw-or-we-ll-take-it-by-force-larry-johnson-2025-11-28.md) |
 | `2025-12-15` | Larry C. Johnson: Russia Launches Largest Missile & Drone Attack Yet | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2025-12-15/source-dialogue-works-larry-johnson-larry-c-johnson-russia-launches-largest-missile-drone-attack-yet-2025-12-15.md) |
+| `2026-01-06` | EX-CIA Larry Johnson on Venezuela, Maduro Capture, China & More... | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-01-06/source-ex-cia-larry-johnson-on-venezuela-maduro-capture-china-more-2026-01-06.md) |
 | `2026-01-12` | Larry Johnson: Is the CIA Fueling Iran's Chaos? | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-01-12/source-larry-johnson-is-the-cia-fueling-iran-s-chaos-2026-01-12.md) |
 | `2026-02-10` | Mohammad Marandi & Larry C. Johnson: U.S. & Iran on the Brink as Critical Negotiations Unfold LIVE | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-02-10/source-dialogue-works-mohammad-marandi-larry-c-johnson-u-s-iran-on-the-brink-as-critical-negot-2026-02-10.md) |
 | `2026-02-23` | Larry Johnson: Trump's Decision Making and Huckabee's Buffoonery | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-02-23/source-larry-johnson-trump-s-decision-making-and-huckabee-s-buffoonery-2026-02-23.md) |
@@ -41,6 +42,7 @@ Status: `first-slice-parity`
 | `2026-03-15` | Larry Johnson: U.S. Attack on Kharg Island Will Destroy the Gulf States | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-03-15/source-glenn-diesen-larry-johnson-u-s-attack-on-kharg-island-will-destroy-the-gulf-states-2026-03-15.md) |
 | `2026-03-16` | Pepe Escobar & Larry C. Johnson: Trump is LOSING Control - Iran WIPES OUT Strategic Military Targets | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-03-16/source-dialogue-works-pepe-escobar-larry-c-johnson-trump-is-losing-control-iran-wipes-out-strategic-military-targets-2026-03-16.md) |
 | `2026-03-16` | Larry Johnson : Trump's Trapped and Doesn't Know It | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-03-16/source-judging-freedom-johnson-trumps-trapped-and-doesnt-know-it-2026-03-16.md) |
+| `2026-03-16` | STRAIT CLOSED FOR 2 WEEKS ALREADY - Larry Johnson On Iran War | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-03-16/source-strait-closed-for-2-weeks-already-larry-johnson-on-iran-war-2026-03-16.md) |
 | `2026-03-21` | Larry Johnson: Trump & Netanyahu Seek Exit Ramp in Iran | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-03-21/source-glenn-diesen-larry-johnson-trump-netanyahu-seek-exit-ramp-in-iran-2026-03-21.md) |
 | `2026-03-30` | Larry C. Johnson: FULL ESCALATION: Yemen Joins, Hezbollah Crushes Tanks, US–Iran on Brink | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-03-30/source-dialogue-works-larry-c-johnson-full-escalation-yemen-joins-hezbollah-crushes-tanks-us-iran-on-brink-2026-03-30.md) |
 | `2026-03-30` | Larry Johnson: Trump's Suicide Mission of Boots on the Ground | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-03-30/source-larry-johnson-trump-s-suicide-mission-of-boots-on-the-ground-2026-03-30.md) |
