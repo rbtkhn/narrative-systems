@@ -4,7 +4,7 @@ This index routes the local external-interview corpus for `jiang` to the central
 
 Source basis: `strategy-codex/statecraft/voices/jiang/jiang-index.md` plus one existing local intake.
 
-Corpus: 17 local route rows across 17 central archive source files.
+Corpus: 18 local route rows across 18 central archive source files.
 
 Status: `imported-corpus`
 
@@ -22,6 +22,7 @@ Status: `imported-corpus`
 | --- | --- | --- | --- | --- |
 | `2026-01-05` | Predictions for 2026 (Empire, Rivalry & Collapse) | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-01-05/source-diesen-jiang-predictions-2026-empire-rivalry-collapse-2026-01-05.md) |
 | `2026-01-26` | Great Power Wars Over a New World Order | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-01-26/source-diesen-jiang-great-power-wars-new-world-order-2026-01-26.md) |
+| `2026-03-02` | Professor Jiang Predicts: US WILL LOSE Iran War | `host-pressure test` | `breaking-points` | [source](../../archive/sources/2026-03-02/source-professor-jiang-predicts-us-will-lose-iran-war-2026-03-02.md) |
 | `2026-04-11` | Diesen with Jiang Xueqin - The Iran War & the Battle for the Petrodollar | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-04-11/source-diesen-jiang-iran-war-battle-petrodollar-2026-04-11.md) |
 | `2026-04-14` | Interviews #15: Sneako — Jiang Xueqin & Aleksandr Dugin (Eschatology & Geopolitics) | `host-pressure test` | `sneako` | [source](../../archive/sources/2026-04-14/source-interviews-15-sneako-jiang-dugin-eschatology-2026-04-14.md) |
 | `2026-04-27` | Game Theory #21: World War Trump | `host-pressure test` | `upstream-unresolved` | [source](../../archive/sources/2026-04-27/source-game-theory-21-world-war-trump-2026-04-27.md) |

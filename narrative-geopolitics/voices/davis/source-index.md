@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `davis` to the cent
 
 Source basis: `strategy-codex/statecraft/voices/davis/davis-index.md`.
 
-Corpus: 99 local route rows across 99 central archive source files.
+Corpus: 101 local route rows across 101 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -38,6 +38,7 @@ Status: `first-slice-parity`
 | `2026-03-01` | Daniel Davis Ã— Glenn Diesen â€” U.S. strategic miscalculation / Iran war (operator cleaned transcript) | `practical-room spine` | `glenn-diesen` | [source](../../archive/sources/2026-03-01/source-glenn-diesen-daniel-davis-iran-miscalculation-2026-03-01.md) |
 | `2026-03-02` | source-daniel-davis-iran-war-new-phase-oil-in-the-persian-gulf-2026-03-02 | `authored` | `daniel-davis` | [source](../../archive/sources/2026-03-02/source-daniel-davis-iran-war-new-phase-oil-in-the-persian-gulf-2026-03-02.md) |
 | `2026-03-03` | source-daniel-davis-us-navy-may-secure-strait-of-hormuz-2026-03-03 | `authored` | `daniel-davis` | [source](../../archive/sources/2026-03-03/source-daniel-davis-us-navy-may-secure-strait-of-hormuz-2026-03-03.md) |
+| `2026-03-03` | War in Iran is a DISASTER and about to get much worse | `host-pressure test` | `redacted-news` | [source](../../archive/sources/2026-03-03/source-war-in-iran-is-a-disaster-and-about-to-get-much-worse-2026-03-03.md) |
 | `2026-03-04` | source-daniel-davis-deeper-strikes-in-iran-coming-2026-03-04 | `authored` | `daniel-davis` | [source](../../archive/sources/2026-03-04/source-daniel-davis-deeper-strikes-in-iran-coming-2026-03-04.md) |
 | `2026-03-04` | source-daniel-davis-iran-war-narrative-battles-2026-03-04 | `authored` | `daniel-davis` | [source](../../archive/sources/2026-03-04/source-daniel-davis-iran-war-narrative-battles-2026-03-04.md) |
 | `2026-03-07` | COMPLETE DESTRUCTION AND CERTAIN DEATH': Trump's Newest Threat to Iran /Lt Col Daniel Davis | `authored` | `daniel-davis` | [source](../../archive/sources/2026-03-07/source-daniel-davis-complete-destruction-and-certain-death-trumps-newest-threat-to-iran-2026-03-07.md) |
@@ -60,6 +61,7 @@ Status: `first-slice-parity`
 | `2026-04-02` | Daniel Davis Ã— Glenn Diesen â€” Trump war speech, Hormuz, NATO (operator transcript) | `practical-room spine` | `glenn-diesen` | [source](../../archive/sources/2026-04-02/source-glenn-diesen-daniel-davis-trump-war-speech-2026-04-02.md) |
 | `2026-04-08` | U.S. Iran Ceasefire Fails to Hold - Daniel Davis | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-04-08/source-u-s-iran-ceasefire-fails-to-hold-daniel-davis-2026-04-08.md) |
 | `2026-04-16` | Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-16/source-daniel-davis-2026-04-16.md) |
+| `2026-04-16` | Iran is fighting for its life, and they are winning by surviving | `host-pressure test` | `redacted-news` | [source](../../archive/sources/2026-04-16/source-iran-is-fighting-for-its-life-and-they-are-winning-by-surviving-2026-04-16.md) |
 | `2026-04-17` | Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-17/source-daniel-davis-2026-04-17.md) |
 | `2026-04-18` | Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-18/source-daniel-davis-2026-04-18.md) |
 | `2026-04-18` | source-deepdive-iran-closes-hormuz-2026-04-18-verbatim-2026-04-18 | `authored` | `daniel-davis` | [source](../../archive/sources/2026-04-18/source-deepdive-iran-closes-hormuz-2026-04-18-verbatim-2026-04-18.md) |

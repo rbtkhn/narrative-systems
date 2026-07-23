@@ -2,7 +2,7 @@
   "manifest_id": "narrative-geopolitics-source-manifest-v1",
   "source_basis": "central archive with completed historical strategy-codex imports",
   "imported_at": "2026-07-09",
-  "source_count": 1783,
+  "source_count": 1792,
   "boundary": {
     "archive": "source truth",
     "voices": "voice continuity and routing",
@@ -25481,6 +25481,168 @@
       ],
       "host_slug": "barnes",
       "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-28",
+      "title": "There will be total DEVASTATION in Iran and Israel and 50,000 Americans are at risk",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-28/source-there-will-be-total-devastation-in-iran-and-israel-and-50-000-americans-are-at-risk-2026-01-28.md",
+      "voice_index_path": "../../archive/sources/2026-01-28/source-there-will-be-total-devastation-in-iran-and-israel-and-50-000-americans-are-at-risk-2026-01-28.md",
+      "upstream_path": "operator-paste://2026-01-28/there-will-be-total-devastation-in-iran-and-israel-and-50-000-americans-are-at-risk",
+      "source_class": "guest interview pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "redacted-news",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-date-alias"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-06",
+      "title": "CONFIRMED! US NAVY SEALS USED IN ATTEMPTED URANIUM HEIST IN IRAN, AIRCRAFT DESTROYED ON PURPOSE",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-06/source-confirmed-us-navy-seals-used-in-attempted-uranium-heist-in-iran-aircraft-destroyed-on-purpose-2026-04-06.md",
+      "voice_index_path": "../../archive/sources/2026-04-06/source-confirmed-us-navy-seals-used-in-attempted-uranium-heist-in-iran-aircraft-destroyed-on-purpose-2026-04-06.md",
+      "upstream_path": "operator-paste://2026-04-06/confirmed-us-navy-seals-used-in-attempted-uranium-heist-in-iran-aircraft-destroyed-on-purpose",
+      "source_class": "guest interview pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "redacted-news",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-date-alias"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Scott Ritter's Shocking Report From Inside Russia",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-23/source-scott-ritter-s-shocking-report-from-inside-russia-2026-06-23.md",
+      "voice_index_path": "../../archive/sources/2026-06-23/source-scott-ritter-s-shocking-report-from-inside-russia-2026-06-23.md",
+      "upstream_path": "operator-paste://2026-06-23/scott-ritter-s-shocking-report-from-inside-russia",
+      "source_class": "guest interview pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "redacted-news",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-date-alias"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-09",
+      "title": "Israel could CEASE to exist, if it keeps doing this",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-09/source-israel-could-cease-to-exist-if-it-keeps-doing-this-2026-03-09.md",
+      "voice_index_path": "../../archive/sources/2026-03-09/source-israel-could-cease-to-exist-if-it-keeps-doing-this-2026-03-09.md",
+      "upstream_path": "operator-paste://2026-03-09/israel-could-cease-to-exist-if-it-keeps-doing-this",
+      "source_class": "guest interview pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "macgregor"
+      ],
+      "host_slug": "redacted-news",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-date-alias"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-03",
+      "title": "War in Iran is a DISASTER and about to get much worse",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-03/source-war-in-iran-is-a-disaster-and-about-to-get-much-worse-2026-03-03.md",
+      "voice_index_path": "../../archive/sources/2026-03-03/source-war-in-iran-is-a-disaster-and-about-to-get-much-worse-2026-03-03.md",
+      "upstream_path": "operator-paste://2026-03-03/war-in-iran-is-a-disaster-and-about-to-get-much-worse",
+      "source_class": "guest interview pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "redacted-news",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-date-alias"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "Iran is fighting for its life, and they are winning by surviving",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-16/source-iran-is-fighting-for-its-life-and-they-are-winning-by-surviving-2026-04-16.md",
+      "voice_index_path": "../../archive/sources/2026-04-16/source-iran-is-fighting-for-its-life-and-they-are-winning-by-surviving-2026-04-16.md",
+      "upstream_path": "operator-paste://2026-04-16/iran-is-fighting-for-its-life-and-they-are-winning-by-surviving",
+      "source_class": "guest interview pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "davis"
+      ],
+      "host_slug": "redacted-news",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-date-alias"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "Iran War Will Finish Trump and US Power",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-16/source-iran-war-will-finish-trump-and-us-power-2026-03-16.md",
+      "voice_index_path": "../../archive/sources/2026-03-16/source-iran-war-will-finish-trump-and-us-power-2026-03-16.md",
+      "upstream_path": "operator-paste://2026-03-16/iran-war-will-finish-trump-and-us-power",
+      "source_class": "guest interview pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "diesen"
+      ],
+      "host_slug": "cyrus-janssen",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-date-alias"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "UN Weapons Inspector Scott Ritter Reveals TRUTH on Iran War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-18/source-un-weapons-inspector-scott-ritter-reveals-truth-on-iran-war-2026-03-18.md",
+      "voice_index_path": "../../archive/sources/2026-03-18/source-un-weapons-inspector-scott-ritter-reveals-truth-on-iran-war-2026-03-18.md",
+      "upstream_path": "operator-paste://2026-03-18/un-weapons-inspector-scott-ritter-reveals-truth-on-iran-war",
+      "source_class": "guest interview pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "ritter"
+      ],
+      "host_slug": "cyrus-janssen",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-date-alias"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-02",
+      "title": "Professor Jiang Predicts: US WILL LOSE Iran War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-02/source-professor-jiang-predicts-us-will-lose-iran-war-2026-03-02.md",
+      "voice_index_path": "../../archive/sources/2026-03-02/source-professor-jiang-predicts-us-will-lose-iran-war-2026-03-02.md",
+      "upstream_path": "operator-paste://2026-03-02/professor-jiang-predicts-us-will-lose-iran-war",
+      "source_class": "guest interview pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "breaking-points",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-date-alias"
+      ],
       "import_status": "imported"
     }
   ]

@@ -4,7 +4,7 @@ This index routes the transcript-bearing upstream-parity corpus for `macgregor` 
 
 Source basis: `narrative-geopolitics/archive/source-manifest.json`.
 
-Corpus: 81 local route rows across 81 central archive source files.
+Corpus: 82 local route rows across 82 central archive source files.
 
 Status: `transcript-bearing-upstream-parity`
 
@@ -68,6 +68,7 @@ Status: `transcript-bearing-upstream-parity`
 | `2026-02-26` | Douglas Macgregor: US-Iran Diplomacy Fail - Full-Scale War Coming Soon | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-02-26/source-glenn-diesen-douglas-macgregor-us-iran-diplomacy-fail-full-scale-war-coming-soon-2026-02-26.md) |
 | `2026-03-02` | Douglas Macgregor: A New World Emerges: Iran Will Win & Israel May Not Survive | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-03-02/source-glenn-diesen-douglas-macgregor-a-new-world-emerges-iran-will-win-israel-may-not-survive-2026-03-02.md) |
 | `2026-03-03` | Daniel Davis Deep Dive - Col Douglas Macgregor: IRAN WAR U.S. Losing Position in the World (operator cleaned transcript) | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-03-03/source-daniel-davis-macgregor-iran-war-us-losing-position-in-the-world-2026-03-03.md) |
+| `2026-03-09` | Israel could CEASE to exist, if it keeps doing this | `host-pressure test` | `redacted-news` | [source](../../archive/sources/2026-03-09/source-israel-could-cease-to-exist-if-it-keeps-doing-this-2026-03-09.md) |
 | `2026-03-10` | Col Douglas Macgregor: NO, the IRAN WAR is NOT OVER | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-03-10/source-daniel-davis-macgregor-no-the-iran-war-is-not-over-2026-03-10.md) |
 | `2026-03-10` | Colonel Douglas Macgregor: Worst of Iran War Still Ahead | `host-pressure test` | `cyrus-janssen` | [source](../../archive/sources/2026-03-10/source-macgregor-cyrus-janssen-worst-of-iran-war-still-ahead-2026-03-10.md) |
 | `2026-03-15` | Col Doug Macgregor: IRAN WAR Not Ending Anytime Soon | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-03-15/source-daniel-davis-col-doug-macgregor-iran-war-not-ending-anytime-soon-2026-03-15.md) |

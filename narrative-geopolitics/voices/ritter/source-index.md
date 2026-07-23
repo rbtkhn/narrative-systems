@@ -4,7 +4,7 @@ This index routes the imported Ritter corpus for `ritter` to the central Narrati
 
 Source basis: `strategy-codex/statecraft/voices/ritter/ritter-index.md`.
 
-Corpus: 112 local route rows across 112 central archive source files.
+Corpus: 116 local route rows across 116 central archive source files.
 
 Status: `imported-corpus`
 
@@ -61,6 +61,7 @@ Status: `imported-corpus`
 | `2026-01-18` | Don't Drink the Water (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-01-18/source-ritter-dont-drink-the-water-2026-01-18.md) |
 | `2026-01-20` | Getting it Wrong on Russia (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-01-20/source-ritter-getting-it-wrong-on-russia-2026-01-20.md) |
 | `2026-01-27` | Scott Ritter:  US-Iran War Imminent as Military Buildup Peaks | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-01-27/source-glenn-diesen-scott-ritter-us-iran-war-imminent-as-military-buildup-peaks-2026-01-27.md) |
+| `2026-01-28` | There will be total DEVASTATION in Iran and Israel and 50,000 Americans are at risk | `host-pressure test` | `redacted-news` | [source](../../archive/sources/2026-01-28/source-there-will-be-total-devastation-in-iran-and-israel-and-50-000-americans-are-at-risk-2026-01-28.md) |
 | `2026-02-04` | Scott Ritter: Game Over? Trump\u2019s Iran Strategy Might Blow Up and Start a Regional War | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-02-04/source-dialogue-works-scott-ritter-game-over-trump-s-iran-strategy-might-blow-up-and-start-a-r-2026-02-04.md) |
 | `2026-02-05` | Alas, Babylon (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-02-05/source-ritter-alas-babylon-2026-02-05.md) |
 | `2026-02-11` | Scott Ritter: Trump in MAJOR Trouble \u2014 China & Russia Arm Iran With Deadly Weapons! | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-02-11/source-dialogue-works-scott-ritter-trump-in-major-trouble-china-russia-arm-iran-with-deadly-we-2026-02-11.md) |
@@ -85,6 +86,7 @@ Status: `imported-corpus`
 | `2026-03-16` | Scott Ritter: TRUMP is DEAD WRONG About U.S. Missiles & Stockpiles | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-03-16/source-daniel-davis-scott-ritter-trump-is-dead-wrong-about-u-s-missiles-stockpiles-2026-03-16.md) |
 | `2026-03-17` | Scott Ritter : Could US Officials Face War Crime Charges? | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-03-17/source-judging-freedom-ritter-could-us-officials-face-war-crime-charges-2026-03-17.md) |
 | `2026-03-18` | Zionism, the Human Parasitoid (Revisited) (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-03-18/source-ritter-zionism-human-parasitoid-revisited-2026-03-18.md) |
+| `2026-03-18` | UN Weapons Inspector Scott Ritter Reveals TRUTH on Iran War | `host-pressure test` | `cyrus-janssen` | [source](../../archive/sources/2026-03-18/source-un-weapons-inspector-scott-ritter-reveals-truth-on-iran-war-2026-03-18.md) |
 | `2026-03-25` | How the Chechen miracle kick-started the Russian 'Path of Redemption' (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-03-25/source-ritter-chechen-miracle-path-redemption-2026-03-25.md) |
 | `2026-03-31` | Scott Ritter: NO WAR PLAN in IRAN  We're Making It Up as we Go Along | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-03-31/source-daniel-davis-scott-ritter-no-war-plan-in-iran-we-re-making-it-up-as-we-go-along-2026-03-31.md) |
 | `2026-03-31` | Scott Ritter: Why Iran Is Winning | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-03-31/source-judging-freedom-ritter-why-iran-is-winning-2026-03-31.md) |
@@ -92,6 +94,7 @@ Status: `imported-corpus`
 | `2026-04-02` | Scott Ritter: Will Iran Force the US Out of the Middle East? | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-04-02/source-dialogue-works-scott-ritter-will-iran-force-the-us-out-of-the-middle-east-2026-04-02.md) |
 | `2026-04-03` | Combat Search and Rescue, the Prequel (operator capture) | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-04-03/source-ritter-combat-search-and-rescue-prequel-2026-04-03.md) |
 | `2026-04-05` | SCOTT RITTER: We Don't Control the Skies Over Iran! | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-04-05/source-daniel-davis-scott-ritter-we-don-t-control-the-skies-over-iran-2026-04-05.md) |
+| `2026-04-06` | CONFIRMED! US NAVY SEALS USED IN ATTEMPTED URANIUM HEIST IN IRAN, AIRCRAFT DESTROYED ON PURPOSE | `host-pressure test` | `redacted-news` | [source](../../archive/sources/2026-04-06/source-confirmed-us-navy-seals-used-in-attempted-uranium-heist-in-iran-aircraft-destroyed-on-purpose-2026-04-06.md) |
 | `2026-04-07` | Scott Ritter: War Goes Horribly Wrong - U.S. Could Use Nuclear Weapons | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-04-07/source-glenn-diesen-scott-ritter-war-goes-horribly-wrong-u-s-could-use-nuclear-weapons-2026-04-07.md) |
 | `2026-04-08` | Scott Ritter: The US War on Iran Just COLLAPSED \u2013 Ceasefire Does the Impossible | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-04-08/source-dialogue-works-scott-ritter-the-us-war-on-iran-just-collapsed-ceasefire-does-the-imposs-2026-04-08.md) |
 | `2026-04-09` | \"There Is No Ceasefire\" — Scott Ritter on Iran, Israel & What Comes Next | `host-pressure test` | `india-global-left` | [source](../../archive/sources/2026-04-09/source-india-global-left-no-ceasefire-scott-ritter-2026-04-09.md) |
@@ -123,6 +126,7 @@ Status: `imported-corpus`
 | `2026-06-10` | Shoot the Dog | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-06-10/source-ritter-shoot-the-dog-2026-06-10.md) |
 | `2026-06-19` | A Trail of Tears | `authored newsletter` | `ritter` | [source](../../archive/sources/2026-06-19/source-ritter-a-trail-of-tears-2026-06-19.md) |
 | `2026-06-23` | Scott Ritter: Russia and US/Iran MoU; Ukraine Attacks Moscow | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-23/source-judging-freedom-ritter-russia-us-iran-mou-ukraine-attacks-moscow-2026-06-23.md) |
+| `2026-06-23` | Scott Ritter's Shocking Report From Inside Russia | `host-pressure test` | `redacted-news` | [source](../../archive/sources/2026-06-23/source-scott-ritter-s-shocking-report-from-inside-russia-2026-06-23.md) |
 | `2026-07-01` | Scott Ritter: Trump Briefed on All-Out War Scenario in Iran | `guest interview pressure test` | `garland-nixon` | [source](../../archive/sources/2026-07-01/source-scott-ritter-trump-briefed-on-all-out-war-scenario-in-iran-2026-07-01.md) |
 | `2026-07-09` | The Patriot Trap | `authored` | `scott-ritter` | [source](../../archive/sources/2026-07-09/source-the-patriot-trap-2026-07-09.md) |
 | `2026-07-12` | ðŸ”´ LIVE: Scott Ritter - Russia Ukraine Now Enters the Most Dangerous Phase! | `guest interview pressure test` | `cyrus-janssen` | [source](../../archive/sources/2026-07-12/source-live-scott-ritter-russia-ukraine-now-enters-the-most-dangerous-phase-2026-07-12.md) |
