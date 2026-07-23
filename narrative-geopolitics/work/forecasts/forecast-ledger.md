@@ -60,10 +60,10 @@ Each public daily brief should include at least one forecast or review hook, and
 | `NG-20260718-F01` | `2026-07-18` | Can Washington coerce Iran through infrastructure and transit pressure without turning Gulf civilian systems into the battlefield that decides regional participation? | By `2026-08-18`, U.S., Iranian, or GCC public posture will still frame the Iran war around regional infrastructure vulnerability, base access, or terrain-control options rather than only nuclear negotiations or generic airstrikes. | `likely` | `2026-08-18` | [2026-07-18](../daily/2026-07-18/forecast.md) | `excluded_retrospective` |
 | `NG-20260719-F01` | `2026-07-19` | Can Washington sustain simultaneous coercive pressure against Iran and Russia when the bases, ports, corridors, and allies that carry that pressure become targets of the opposing strategy? | By `2026-08-19`, at least one major July follow-on source or official/regional posture signal will still frame the Iran war around U.S. regional base access, host-state exposure, or relocation/protection of U.S. assets rather than only airstrikes or nuclear bargaining. | `likely` | `2026-08-19` | [2026-07-19](../daily/2026-07-19/forecast.md) | `open` |
 | `NG-20260720-F01` | `2026-07-20` | coalition access versus regional denial | Over the next 7–14 days, political and military pressure will shift toward maritime chokepoints, bases, and energy access rather than a decisive ground settlement. | `likely` | `2026-08-03` | [2026-07-20](../daily/2026-07-20/forecast.md) | `open` |
+| `NG-20260722-F01` | `2026-07-22` | Iran-war participation-control crisis | Within 14 days, at least one public U.S., Iranian, Saudi, or Yemeni posture change will explicitly link maritime access to infrastructure protection, alliance participation, or security guarantees. | `likely` | `2026-08-05` | [2026-07-22](../daily/2026-07-22/forecast.md) | `open` |
 
 
 ## Accountability Triage
-
 Authorship dates below are conservative bounds from the earliest Git commit
 containing each entry. They are not claims about the exact drafting time.
 Only rows marked `accountable: yes` belong in later calibration.
@@ -128,3 +128,4 @@ resolve the observable.
 | `NG-20260627-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
 | `NG-20260628-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
 | `NG-20260629-F01` | `2026-07-09` | `git_commit_upper_bound` | `retrospective_hypothesis` | `excluded_retrospective` | `no` | Backfilled after the labeled run date; retained as a historical hypothesis, not an accountable forecast. |
+| `NG-20260722-F01` | `2026-07-22` | `same-day live-intake-first synthesis` | `ex_ante` | `open` | `yes` | Contemporaneous July 22 live run; carrier-linkage review remains prospective. |
