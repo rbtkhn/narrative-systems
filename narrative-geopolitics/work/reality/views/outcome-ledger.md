@@ -1,4 +1,4 @@
-<!-- reality-lattice-v1 records-sha256: c1ecdc4767f3bd5dd2c7d6d09eff325e87130f95ad1d5628c3c7eec7f5672ced -->
+<!-- reality-lattice-v1 records-sha256: a3e9b442e469e43d4bcc394c2ef7067c9a530efc65a9521008e9ea7fc687ca0f -->
 <!-- Generated from structured reality records. Do not edit directly. -->
 
 # Reality Outcome Ledger
@@ -17,3 +17,4 @@
 | `OPC-20260714-01` | `operational_factual` | `high` | `unassessed` | `unassessed` | none | 0 |
 | `OPC-20260714-02` | `operational_factual` | `high` | `contested` | `canonical_assessed` | ar, en, fa, fr | 7 |
 | `OPC-20260714-03` | `operational_factual` | `high` | `unassessed` | `unassessed` | none | 0 |
+| `OPC-20260720-01` | `operational_factual` | `high` | `unassessed` | `unassessed` | none | 0 |

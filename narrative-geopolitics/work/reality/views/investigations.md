@@ -1,4 +1,4 @@
-<!-- reality-lattice-v1 records-sha256: c1ecdc4767f3bd5dd2c7d6d09eff325e87130f95ad1d5628c3c7eec7f5672ced -->
+<!-- reality-lattice-v1 records-sha256: a3e9b442e469e43d4bcc394c2ef7067c9a530efc65a9521008e9ea7fc687ca0f -->
 <!-- Generated from structured reality records. Do not edit directly. -->
 
 # Reality Investigations

@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "as_of": "2026-07-20",
+  "claim_type": "operational_factual",
+  "claimant_refs": [],
+  "consequence": "high",
+  "created_at": "2026-07-20T00:00:00Z",
+  "created_by": "operator",
+  "crisis_object": "Bab el-Mandab maritime access",
+  "empirical_eligibility": true,
+  "id": "OPC-20260720-01",
+  "kind": "claim",
+  "revision_of": null,
+  "schema_version": 1,
+  "scope": "bounded claim",
+  "source_refs": [],
+  "status": "open",
+  "text": "Reported Saudi-linked crude flows through Bab el-Mandab fell materially after the Houthi maritime embargo announcement, without establishing physical closure of the strait."
+}

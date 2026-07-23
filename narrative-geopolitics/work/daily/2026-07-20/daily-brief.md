@@ -35,7 +35,7 @@ Watch whether shipping and basing access becomes more reliable or less reliable,
 ## Forecast / Review Hooks
 
 - `NG-20260720-F01` — `likely`: over the next 7â€“14 days, pressure shifts toward maritime chokepoints, bases, and energy access rather than a decisive ground settlement. Review: 2026-08-03.
-- `NG-20260720-F02` — `plausible`: Gulf governments increase hedging and backchannel accommodation. Review: 2026-08-10.
+- `NG-20260720-F02` — `plausible`: by 2026-08-10, at least two Gulf governments show hedging through public distancing, deconfliction language, altered basing language, or reduced coalition participation.
 
 ## Source Boundary
 
