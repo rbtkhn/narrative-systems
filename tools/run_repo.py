@@ -16,7 +16,7 @@ SURFACES = {
     "forecast-sync": REPO_ROOT / "scripts" / "sync_forecast_ledger.py",
     "forecast-triage": REPO_ROOT / "scripts" / "triage_forecast_ledger.py",
     "harness": REPO_ROOT / "scripts" / "audit_ai_harness.py",
-    "intake-land": REPO_ROOT / "scripts" / "land_best_intake.py",
+    "intake-land": REPO_ROOT / "scripts" / "smart_intake.py",
     "intake-stats": REPO_ROOT / "scripts" / "report_trim_stats.py",
     "issue-render": REPO_ROOT / "scripts" / "render_daily_issue.py",
     "narrative-reuse": REPO_ROOT / "scripts" / "report_narrative_reuse.py",

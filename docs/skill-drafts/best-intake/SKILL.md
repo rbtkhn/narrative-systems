@@ -1,6 +1,6 @@
 ---
 name: best-intake
-description: "Narrative Geopolitics source landing skill. Use when the operator has a transcript, newsletter, essay, report, or post ready to land into archive-first intake with honest provisional routing, deterministic wrapper trim where approved, and conservative transcript sectioning when confidence is high."
+description: "Compatibility alias for smart-intake. Use for legacy Narrative Geopolitics intake prompts while migrating to the canonical smart-intake front door."
 preferred_activation: best-intake
 activation: best-intake
 portable: false
@@ -8,7 +8,12 @@ version: 0.2.0
 category: narrative-geopolitics
 status: active
 ---
-# Best Intake
+# Best Intake Compatibility Alias
+
+Use `smart-intake` as the canonical source-intake skill. This file preserves
+the legacy activation and points to the merged contract.
+
+See [../smart-intake/SKILL.md](../smart-intake/SKILL.md).
 
 **Preferred activation (operator):** say **`best-intake`**.
 
