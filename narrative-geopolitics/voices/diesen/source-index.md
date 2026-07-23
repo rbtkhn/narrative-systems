@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `diesen` to the cen
 
 Source basis: `strategy-codex/statecraft/voices/diesen/diesen-index.md`.
 
-Corpus: 6 local route rows across 6 central archive source files.
+Corpus: 7 local route rows across 7 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -25,12 +25,12 @@ Status: `first-slice-parity`
 | Date | Source | Role | Host slug | Archive link |
 | --- | --- | --- | --- | --- |
 | `2026-03-11` | IRANIAN HATRED for THEIR GOV OVERBLOWN /Glenn Diesen & Lt Col Daniel Davis | `multipolar-order spine` | `daniel-davis` | [source](../../archive/sources/2026-03-11/source-daniel-davis-diesen-iranian-hatred-for-their-gov-overblown-2026-03-11.md) |
+| `2026-03-16` | Iran War Will Finish Trump and US Power | `host-pressure test` | `cyrus-janssen` | [source](../../archive/sources/2026-03-16/source-iran-war-will-finish-trump-and-us-power-2026-03-16.md) |
 | `2026-04-17` | Diesen | `host-pressure test` | `upstream-unresolved` | [source](../../archive/sources/2026-04-17/source-diesen-2026-04-17.md) |
 | `2026-04-18` | Diesen 2026 04 18 Verbatim | `host-pressure test` | `upstream-unresolved` | [source](../../archive/sources/2026-04-18/source-diesen-2026-04-18-verbatim-2026-04-18.md) |
 | `2026-04-18` | Diesen | `host-pressure test` | `upstream-unresolved` | [source](../../archive/sources/2026-04-18/source-diesen-2026-04-18.md) |
 | `2026-05-31` | BREAKING: IRAN COLLECTS TOLLS FROM 28 SHIPS IN PAST 24 HOURS - w/ Analyst Glenn Diesen | `multipolar-order spine` | `mario-nawfal` | [source](../../archive/sources/2026-05-31/source-mario-nawfal-diesen-breaking-iran-collects-tolls-from-28-ships-in-past-24-hours-2026-05-31.md) |
 | `2026-06-24` | Prof. Glenn Diesen : Is Europe Preparing for War? | `multipolar-order spine` | `judging-freedom` | [source](../../archive/sources/2026-06-24/source-judging-freedom-diesen-europe-preparing-war-2026-06-24.md) |
-| `2026-03-16` | Iran War Will Finish Trump and US Power | `host-pressure test` | `cyrus-janssen` | [source](../../archive/sources/2026-03-16/source-iran-war-will-finish-trump-and-us-power-2026-03-16.md) |
 
 ## Import Boundary
 

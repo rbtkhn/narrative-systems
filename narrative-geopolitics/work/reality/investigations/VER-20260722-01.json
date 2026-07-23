@@ -1,0 +1,19 @@
+{
+  "affected_artifacts": [],
+  "affected_forecast_hooks": [],
+  "as_of": "2026-07-22",
+  "claim_ids": [
+    "OPC-20260720-01"
+  ],
+  "created_at": "2026-07-22T00:00:00Z",
+  "created_by": "operator",
+  "id": "VER-20260722-01",
+  "kind": "investigation",
+  "observable_ids": [
+    "OBS-20260722-001"
+  ],
+  "research_boundary": "Test whether the July 20 Houthi Saudi-shipping embargo produced a material Saudi-linked flow reduction while Bab el-Mandeb remained physically traversable. Search period July 20-22, 2026; require independent maritime observation and distinguish tanker rerouting from total closure.",
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "requested"
+}

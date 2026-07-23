@@ -1,4 +1,4 @@
-<!-- reality-lattice-v1 records-sha256: a3e9b442e469e43d4bcc394c2ef7067c9a530efc65a9521008e9ea7fc687ca0f -->
+<!-- reality-lattice-v1 records-sha256: 2c934e35a1e1ee1e46d873a18ba1aad2268688e8eeba8539dffc0b93f75dc10a -->
 <!-- Generated from structured reality records. Do not edit directly. -->
 
 # Reality Outcome Ledger

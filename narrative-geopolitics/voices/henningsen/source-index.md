@@ -6,7 +6,7 @@ This index routes the unified local Henningsen corpus for `henningsen` to the ce
 
 Source basis: `narrative-geopolitics/archive/source-manifest.json`.
 
-Corpus: 11 local route rows across 11 central archive source files.
+Corpus: 15 local route rows across 15 central archive source files.
 
 Status: `imported-corpus`
 
@@ -21,8 +21,12 @@ Status: `imported-corpus`
 
 | Date | Source | Role | Host slug | Archive link |
 | --- | --- | --- | --- | --- |
+| `2026-01-05` | Disruption & Fallout from U.S. Attack on Venezuela / Patrick Henningsen & Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-01-05/source-disruption-fallout-from-u-s-attack-on-venezuela-patrick-henningsen-lt-col-daniel-davis-2026-01-05.md) |
+| `2026-02-03` | Patrick Henningsen: Is a US-Iran War Really Inevitable? Iran Could Devastate the Attacks! | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-02-03/source-patrick-henningsen-is-a-us-iran-war-really-inevitable-iran-could-devastate-the-attacks-2026-02-03.md) |
 | `2026-03-03` | source-daniel-davis-henningsen-us-iran-war-engulfs-middle-east-2026-03-03 | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-03-03/source-daniel-davis-henningsen-us-iran-war-engulfs-middle-east-2026-03-03.md) |
+| `2026-03-05` | Patrick Henningsen: Israel Just Pulled the U.S. Into Another War… This Could End Very Badly | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-03-05/source-patrick-henningsen-israel-just-pulled-the-u-s-into-another-war-this-could-end-very-badly-2026-03-05.md) |
 | `2026-03-17` | IRAN WAR GLOBAL RESET /Patrick Henningsen & Lt Col Daniel Davis | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-03-17/source-daniel-davis-iran-war-global-reset-patrick-henningsen-lt-col-daniel-davis-2026-03-17.md) |
+| `2026-03-24` | US Plays With Total War Insanity \| Patrick Henningsen | `host-pressure test` | `neutrality-studies` | [source](../../archive/sources/2026-03-24/source-us-plays-with-total-war-insanity-patrick-henningsen-2026-03-24.md) |
 | `2026-05-10` | Iran-U.S. Blockade, China, and Israel's Veto Power | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-05-10/source-dialogue-works-patrick-henningsen-iran-us-blockade-china-israel-2026-05-10.md) |
 | `2026-06-04` | Patrick Henningsen: Hezbollah Just Drew the Line: 'Israel Out of Lebanon Completely | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-04/source-dialogue-works-patrick-henningsen-hezbollah-just-drew-the-line-israel-out-of-lebanon-completely-2026-06-04.md) |
 | `2026-06-10` | Patrick Henningsen: Iran Strikes US Bases in Jordan – Retaliation Begins & Talks DEAD | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-06-10/source-dialogue-works-patrick-henningsen-iran-strikes-us-bases-jordan-retaliation-begins-talks-dead-2026-06-10.md) |

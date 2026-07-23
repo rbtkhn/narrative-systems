@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `marandi` to the ce
 
 Source basis: `strategy-codex/statecraft/voices/marandi/marandi-index.md`.
 
-Corpus: 73 local route rows across 73 central archive source files.
+Corpus: 75 local route rows across 75 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -25,6 +25,7 @@ Status: `first-slice-parity`
 | Date | Source | Role | Host slug | Archive link |
 | --- | --- | --- | --- | --- |
 | `2025-03-20` | Seyed Marandi: Is Israel Destroying Itself? | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-03-20/source-glenn-diesen-seyed-marandi-is-israel-destroying-itself-2025-03-20.md) |
+| `2026-01-20` | Who Opposes Iran's Government? U.S., Israel, Gulf States & the Protest Strategy | `host-pressure test` | `india-global-left` | [source](../../archive/sources/2026-01-20/source-who-opposes-iran-s-government-u-s-israel-gulf-states-the-protest-strategy-2026-01-20.md) |
 | `2026-02-10` | Mohammad Marandi & Larry C. Johnson: U.S. & Iran on the Brink as Critical Negotiations Unfold LIVE | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-02-10/source-dialogue-works-mohammad-marandi-larry-c-johnson-u-s-iran-on-the-brink-as-critical-negot-2026-02-10.md) |
 | `2026-02-11` | Prof Seyed Marandi: War w/Iran Will Be CATASTROPHIC FOR EVERYONE | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-02-11/source-daniel-davis-prof-seyed-marandi-war-w-iran-will-be-catastrophic-for-everyone-2026-02-11.md) |
 | `2026-02-17` | Mohammad Marandi: Iran JUST Closed the Strait of Hormuz - Wiped Out: Iran Plans to Sink the US Navy | `regional-red-line spine` | `dialogue-works` | [source](../../archive/sources/2026-02-17/source-dialogue-works-mohammad-marandi-iran-just-closed-the-strait-of-hormuz-wiped-out-iran-pl-2026-02-17.md) |
@@ -91,6 +92,7 @@ Status: `first-slice-parity`
 | `2026-07-07` | Seyed M. Marandi: Iran Strikes Ships as the U.S. Tests Iran's Control Over the Strait of Hormuz | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-07/source-glenn-diesen-seyed-m-marandi-iran-strikes-ships-as-the-u-s-tests-iran-s-control-over-the-strait-of-hormuz-2026-07-07.md) |
 | `2026-07-08` | Prof. S. M. Marandi: Iran War Round 3? US Desperation Setting In | `host-pressure test` | `neutrality-studies` | [source](../../archive/sources/2026-07-08/source-prof-s-m-marandi-iran-war-round-3-us-desperation-setting-in-2026-07-08.md) |
 | `2026-07-09` | Seyed M. Marandi: BREAKING: U.S. Renews Bombing of Iran as MILLIONS Flood Mashhad | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-09/source-seyed-m-marandi-breaking-u-s-renews-bombing-of-iran-as-millions-flood-mashhad-2026-07-09.md) |
+| `2026-07-09` | US Attacks Iran Again: Mohammad Marandi Exposes Washington's Real Plan | `host-pressure test` | `india-global-left` | [source](../../archive/sources/2026-07-09/source-us-attacks-iran-again-mohammad-marandi-exposes-washington-s-real-plan-2026-07-09.md) |
 | `2026-07-13` | BREAKING: TRUMP BLOCKS HORMUZ AGAIN /Prof Seyed Marandi Live from Tehran | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-07-13/source-breaking-trump-blocks-hormuz-again-prof-seyed-marandi-live-from-tehran-2026-07-13.md) |
 | `2026-07-14` | Seyed M. Marandi: Iran Launches 30+ Missiles and Drones at Bahrain as Explosions Rock the Gulf | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-07-14/source-seyed-m-marandi-iran-launches-30-missiles-and-drones-at-bahrain-as-explosions-rock-the-gulf-2026-07-14.md) |
 | `2026-07-16` | Seyed M. Marandi: Plans for a U.S. Land Invasion of Iran; Yemen & Iran Enters the War? | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-07-16/source-seyed-m-marandi-plans-for-a-u-s-land-invasion-of-iran-yemen-iran-enters-the-war-2026-07-16.md) |

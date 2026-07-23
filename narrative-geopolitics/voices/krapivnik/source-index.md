@@ -4,7 +4,7 @@ This index routes the imported seeded corpus for `krapivnik` to the central Narr
 
 Source basis: `strategy-codex/source-archive/statecraft` plus local July 2026 intake.
 
-Corpus: 14 local route rows across 14 central archive source files.
+Corpus: 18 local route rows across 18 central archive source files.
 
 Status: `seeded`
 
@@ -20,7 +20,11 @@ Status: `seeded`
 | Date | Source | Role | Host slug | Archive link |
 | --- | --- | --- | --- | --- |
 | `2025-02-25` | The Duran / Alexander Mercouris / Stanislav Krapivnik - Ukraine frontline update and peace deal (Live) | `host-pressure test` | `the-duran` | [source](../../archive/sources/2025-02-25/source-duran-mercouris-ukraine-frontline-update-and-peace-deal-stanislav-krapivnik-live-2025-02-25.md) |
+| `2025-11-25` | Stanislav Krapivnik: Trump's Peace Plan is a Trap for Russia | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2025-11-25/source-stanislav-krapivnik-trump-s-peace-plan-is-a-trap-for-russia-2025-11-25.md) |
+| `2026-01-16` | Stanislav Krapivnik: Odessa Is a Key Goal in Ukraine War Endgame | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-01-16/source-stanislav-krapivnik-odessa-is-a-key-goal-in-ukraine-war-endgame-2026-01-16.md) |
+| `2026-02-03` | Stanislav Krapivnik: Russia Demands Peace Through Capitulation | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-02-03/source-stanislav-krapivnik-russia-demands-peace-through-capitulation-2026-02-03.md) |
 | `2026-03-15` | Stanislav Krapivnik: IRAN TO UAE: 'Evacuate Now' After US Kharg Island Strike | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-03-15/source-dialogue-works-stanislav-krapivnik-iran-to-uae-evacuate-now-after-us-kharg-island-strike-2026-03-15.md) |
+| `2026-04-05` | THE U.S. IS AT A DEAD END - Stanislav Krapivnik On Iran War | `host-pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-04-05/source-the-u-s-is-at-a-dead-end-stanislav-krapivnik-on-iran-war-2026-04-05.md) |
 | `2026-05-07` | Diesen with Stanislav Krapivnik: NATO-Russia Escalation - Another Big Step Toward Nuclear War | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-05-07/source-diesen-krapivnik-nato-russia-escalation-nuclear-war-2026-05-07.md) |
 | `2026-05-10` | Russia, Ukraine, Drones, and the Shape of War | `host-pressure test` | `the-duran` | [source](../../archive/sources/2026-05-10/source-duran-mercouris-stanislav-krapivnik-russia-ukraine-drones-world-war-2026-05-10.md) |
 | `2026-05-22` | Stanislav Krapivnik: Tulsi Gabbard Resigns! - Hezbollah Crushes IDF - War Becomes UNAFFORDABLE | `host-pressure test` | `dialogue-works` | [source](../../archive/sources/2026-05-22/source-stanislav-krapivnik-tulsi-gabbard-resigns-hezbollah-crushes-idf-war-becomes-unaffordable-2026-05-22.md) |

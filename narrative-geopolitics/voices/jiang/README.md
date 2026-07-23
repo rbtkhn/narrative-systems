@@ -9,11 +9,11 @@ Status: `internal`
 | Name | Jiang Xueqin |
 | Slug | `jiang` |
 | Role | Predictive-history, elite-cycle, imperial-transition, and scenario-construction voice |
-| Source basis | Six external interview captures migrated from `strategy-codex/statecraft/voices/jiang/jiang-index.md` plus one existing local intake |
+| Source basis | Seventeen third-party geopolitical interviews plus 43 authored geopolitical essays; Predictive History-owned lecture material remains excluded |
 | Public summary status | `none` |
 | Parity status | `imported-corpus` |
-| Imported source rows | 7 |
-| Central archive files | 7 |
+| Imported source rows | 60 |
+| Central archive files | 60 |
 | Last reviewed | `2026-07-11` |
 
 ## Routing
@@ -31,7 +31,7 @@ Active host/channel contexts in this slice: `glenn-diesen`, `sneako`.
 
 ## Core Frame
 
-Jiang supplies explicit scenario construction and predictive claims through historical analogy, elite incentives, imperial succession, monetary order, and game-theoretic framing. This record preserves what the archive shows; it does not assume that his wider Predictive History corpus has been imported.
+Jiang supplies explicit scenario construction and predictive claims through historical analogy, elite incentives, imperial succession, monetary order, and game-theoretic framing. This record preserves what the archive shows; it does not treat Jiang's Game Theory, Great Books, Founding Members, or other Predictive History-owned material as Narrative Geopolitics interview evidence.
 
 ## Use Guidance
 

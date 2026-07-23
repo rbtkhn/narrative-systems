@@ -4,7 +4,7 @@ This index routes the imported first-slice parity corpus for `mearsheimer` to th
 
 Source basis: `strategy-codex/statecraft/voices/mearsheimer/mearsheimer-index.md`.
 
-Corpus: 64 local route rows across 64 central archive source files.
+Corpus: 66 local route rows across 66 central archive source files.
 
 Status: `first-slice-parity`
 
@@ -47,6 +47,7 @@ Status: `first-slice-parity`
 | `2026-01-15` | Prof John Mearsheimer: DISMANTLING IRAN, The Four Part Strategy | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-01-15/source-daniel-davis-prof-john-mearsheimer-dismantling-iran-the-four-part-strategy-2026-01-15.md) |
 | `2026-01-15` | John Mearsheimer: Foreign Wars, Domestic Crackdowns | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-01-15/source-john-mearsheimer-foreign-wars-domestic-crackdowns-2026-01-15.md) |
 | `2026-01-20` | Mearsheimer The Tag Team Fails In Iran | `provisional-route` | `mearsheimer` | [source](../../archive/sources/2026-01-20/source-mearsheimer-the-tag-team-fails-in-iran-2026-01-20.md) |
+| `2026-01-22` | John Mearsheimer Lays Out NEW WORLD ORDER: Mark Carney Speech, Greenland, Iran ... | `host-pressure test` | `breaking-points` | [source](../../archive/sources/2026-01-22/source-john-mearsheimer-lays-out-new-world-order-mark-carney-speech-greenland-iran-2026-01-22.md) |
 | `2026-01-29` | John Mearsheimer: There's NO DECISIVE WIN for TRUMP w/IRAN | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-01-29/source-daniel-davis-john-mearsheimer-there-s-no-decisive-win-for-trump-w-iran-2026-01-29.md) |
 | `2026-01-31` | source-diesen-mearsheimer-cold-war-nato-ukraine-2026-01-31 | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-01-31/source-diesen-mearsheimer-cold-war-nato-ukraine-2026-01-31.md) |
 | `2026-02-17` | John Mearsheimer: How Trump Has Boxed Himself Into a Corner on Iran | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-02-17/source-john-mearsheimer-how-trump-has-boxed-himself-into-a-corner-on-iran-2026-02-17.md) |
@@ -55,6 +56,7 @@ Status: `first-slice-parity`
 | `2026-02-25` | John Mearsheimer: The Case for a Nuclear Iran | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-02-25/source-diesen-mearsheimer-case-for-nuclear-iran-2026-02-25.md) |
 | `2026-03-04` | Prof John Mearsheimer NEXT MOVE in IRAN, U.S. Causing INSURRECTION | `host-pressure test` | `daniel-davis` | [source](../../archive/sources/2026-03-04/source-daniel-davis-mearsheimer-next-move-in-iran-us-causing-insurrection-2026-03-04.md) |
 | `2026-03-10` | John Mearsheimer: U.S. Already Lost Iran War â€” No Off-Ramp in Sight | `structural-realism spine` | `glenn-diesen` | [source](../../archive/sources/2026-03-10/source-diesen-mearsheimer-us-already-lost-no-offramp-2026-03-10.md) |
+| `2026-03-19` | John Mearsheimer: Trump's War Is STRATEGIC DISASTER W/ No End In Sight | `host-pressure test` | `breaking-points` | [source](../../archive/sources/2026-03-19/source-john-mearsheimer-trump-s-war-is-strategic-disaster-w-no-end-in-sight-2026-03-19.md) |
 | `2026-03-27` | source-diesen-mearsheimer-iran-holds-all-the-cards-2026-03-27 | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-03-27/source-diesen-mearsheimer-iran-holds-all-the-cards-2026-03-27.md) |
 | `2026-03-29` | Mearsheimer Will Trump Go Kamikaze | `provisional-route` | `mearsheimer` | [source](../../archive/sources/2026-03-29/source-mearsheimer-will-trump-go-kamikaze-2026-03-29.md) |
 | `2026-03-31` | John Mearsheimer: Will Trump Go Kamikaze? | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-03-31/source-john-mearsheimer-will-trump-go-kamikaze-2026-03-31.md) |

@@ -4,7 +4,7 @@ This index routes Robert Pape voice work to the central Narrative Geopolitics so
 
 Source basis: `strategy-codex/statecraft/voices/pape/pape-index.md`.
 
-Corpus: 67 authored sources, 22 guest appearances, 89 total imported sources.
+Corpus: 67 authored sources, 23 guest appearances, 90 total imported sources.
 
 ## Reading Rule
 
@@ -125,3 +125,4 @@ Corpus: 67 authored sources, 22 guest appearances, 89 total imported sources.
 - [2026-07-20 — Can America Open Hormuz by the Midterms?](../../archive/sources/2026-07-20/source-can-america-open-hormuz-by-the-midterms-2026-07-20.md) — **authored** · substack-post
 - [2026-07-21 — BREAKING: TRUMP REJECTS IRAN CEASEFIRE, VOWS "DEVASTATING BLOWS" - w/ Robert Pape](../../archive/sources/2026-07-21/source-breaking-trump-rejects-iran-ceasefire-vows-devastating-blows-w-robert-pape-2026-07-21.md) — **guest** · cleaned-transcript · host: `mario-nawfal`
 - [2026-07-21 — Breaking Analysis #7: New Intel on Pick Axe Mountain -- Has Iran Already Won the Nuclear Race?](../../archive/sources/2026-07-21/source-breaking-analysis-7-new-intel-on-pick-axe-mountain-has-iran-already-won-the-nuclear-race-2026-07-21.md) — **authored** · substack-post
+- [2026-07-22 — Iran With Major Strikes on Israel Coming Within 3-4 Days, Ground Invasion Coming](../../archive/sources/2026-07-22/source-iran-with-major-strikes-on-israel-coming-within-3-4-days-ground-invasion-coming-2026-07-22.md) — **guest** · transcript · host: `moral-resistance`

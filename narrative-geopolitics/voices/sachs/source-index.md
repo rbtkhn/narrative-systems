@@ -4,7 +4,7 @@ This index routes the unified local Sachs corpus for `sachs` to the central Narr
 
 Source basis: `strategy-codex/statecraft/voices/sachs/sachs-index.md`.
 
-Corpus: 94 local route rows across 94 central archive source files.
+Corpus: 98 local route rows across 98 central archive source files.
 
 Status: `imported-corpus`
 
@@ -83,10 +83,13 @@ Status: `imported-corpus`
 | `2026-01-07` | Europe-Russia, two-century failure w/ Jeffrey Sachs (Live) | `host-pressure test` | `jeffrey-sachs` | [source](../../archive/sources/2026-01-07/source-sachs-europe-russia-two-century-failure-2026-01-07.md) |
 | `2026-01-13` | The Western world is in a deeply neurotic state | `host-pressure test` | `jeffrey-sachs` | [source](../../archive/sources/2026-01-13/source-sachs-the-western-world-is-in-a-deeply-neurotic-state-2026-01-13.md) |
 | `2026-01-27` | Using the Economy as a Weapon — Trump and Iran | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-01-27/source-judging-freedom-sachs-using-the-economy-as-a-weapon-trump-and-iran-2026-01-27.md) |
+| `2026-01-29` | Jeffrey Sachs: Trump Iran Attack IMMINENT | `host-pressure test` | `breaking-points` | [source](../../archive/sources/2026-01-29/source-jeffrey-sachs-trump-iran-attack-imminent-2026-01-29.md) |
 | `2026-02-02` | Jeffrey Sachs: US-Iran War INEVITABLE... | `host-pressure test` | `jeffrey-sachs` | [source](../../archive/sources/2026-02-02/source-sachs-us-iran-war-inevitable-2026-02-02.md) |
 | `2026-02-03` | Prof. Jeffrey Sachs: The Global Cost of MAGA Politics | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-02-03/source-judging-freedom-sachs-the-global-cost-of-maga-politics-2026-02-03.md) |
+| `2026-02-07` | Inside U.S. Imperial Strategy: Jeffrey Sachs on Iran Talks & Latin America and ... | `host-pressure test` | `india-global-left` | [source](../../archive/sources/2026-02-07/source-inside-u-s-imperial-strategy-jeffrey-sachs-on-iran-talks-latin-america-and-2026-02-07.md) |
 | `2026-02-11` | U.S. Economic Coercion & Death of Dollar | `host-pressure test` | `jeffrey-sachs` | [source](../../archive/sources/2026-02-11/source-sachs-us-economic-coercion-and-the-death-of-the-dollar-2026-02-11.md) |
 | `2026-02-28` | Jeffrey Sachs: US & Israel Attack Iran - War Is Spreading Across the Region | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-02-28/source-diesen-sachs-us-israel-attack-iran-war-is-spreading-across-the-region-2026-02-28.md) |
+| `2026-03-02` | Jeffrey Sachs: 'PSYCHOPATH' Trump Makes Bibi's FANTASY Come True | `host-pressure test` | `breaking-points` | [source](../../archive/sources/2026-03-02/source-jeffrey-sachs-psychopath-trump-makes-bibi-s-fantasy-come-true-2026-03-02.md) |
 | `2026-03-03` | Did Trump Just Start WWIII? | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-03-03/source-judging-freedom-sachs-did-trump-just-start-wwiii-2026-03-03.md) |
 | `2026-03-16` | Jeffrey Sachs: Israel Could Use Nuclear Weapons Against Iran | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-03-16/source-glenn-diesen-jeffrey-sachs-israel-could-use-nuclear-weapons-against-iran-2026-03-16.md) |
 | `2026-03-16` | Prof. Jeffrey Sachs : Are We Drifting Toward a Global War? | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-03-16/source-judging-freedom-sachs-are-we-drifting-toward-a-global-war-2026-03-16.md) |
@@ -104,6 +107,7 @@ Status: `imported-corpus`
 | `2026-05-29` | Prof. Jeffrey Sachs: Why Is Israel At War With Its Neighbors? | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-05-29/source-judging-freedom-sachs-why-is-israel-at-war-with-its-neighbors-2026-05-29.md) |
 | `2026-05-31` | Jeffrey Sachs: Germany Is Leading Europe Toward World War III | `host-pressure test` | `glenn-diesen` | [source](../../archive/sources/2026-05-31/source-diesen-sachs-germany-is-leading-europe-toward-world-war-iii-2026-05-31.md) |
 | `2026-06-01` | Germany Is Leading Europe Toward World War III | `authored analysis` | `glenn-diesen` | [source](../../archive/sources/2026-06-01/source-diesen-sachs-germany-is-leading-europe-toward-world-war-three-2026-06-01.md) |
+| `2026-06-01` | Jeffrey Sachs BLASTS White House Economic LIES | `host-pressure test` | `breaking-points` | [source](../../archive/sources/2026-06-01/source-jeffrey-sachs-blasts-white-house-economic-lies-2026-06-01.md) |
 | `2026-06-01` | Prof. Jeffrey Sachs : How the Best Military and Intel Failed | `host-pressure test` | `judging-freedom` | [source](../../archive/sources/2026-06-01/source-judging-freedom-sachs-how-the-best-military-and-intel-failed-2026-06-01.md) |
 | `2026-06-02` | An Open Letter to Chancellor Friedrich Merz | `authored analysis` | `jeffrey-sachs` | [source](../../archive/sources/2026-06-02/source-sachs-an-open-letter-to-chancellor-friedrich-merz-2026-06-02.md) |
 | `2026-06-03` | European Leaders Do Nothing to Create Peace | `authored analysis` | `glenn-diesen` | [source](../../archive/sources/2026-06-03/source-diesen-sachs-european-leaders-do-nothing-to-create-peace-2026-06-03.md) |

@@ -15,10 +15,49 @@ from pathlib import Path
 
 
 ENGINE = Path(__file__).with_name("land_best_intake.py")
+REPO_ROOT = ENGINE.parent.parent
+
+# Common operator-facing aliases. The archive remains the authority; this
+# table only prevents a known display name from becoming a second shelf.
+VOICE_ALIASES = {
+    "jeffrey-sachs": "sachs",
+    "john-mearsheimer": "mearsheimer",
+    "mohammad-marandi": "marandi",
+    "seyed-marandi": "marandi",
+}
+
+
+def canonical_voice_slug(slug: str) -> str:
+    value = slug.strip().lower()
+    return VOICE_ALIASES.get(value, value)
+
+
+def normalize_voice_args(forwarded: list[str]) -> tuple[list[str], list[tuple[str, str]]]:
+    """Rewrite explicit voice slugs and return an auditable alias receipt."""
+    normalized = list(forwarded)
+    aliases: list[tuple[str, str]] = []
+    for index, item in enumerate(normalized[:-1]):
+        if item != "--voice-slug":
+            continue
+        original = normalized[index + 1]
+        canonical = canonical_voice_slug(original)
+        if canonical != original:
+            normalized[index + 1] = canonical
+            aliases.append((original, canonical))
+    return normalized, aliases
+
+
+def print_receipt(aliases: list[tuple[str, str]]) -> None:
+    """Emit a compact machine-readable post-land receipt when possible."""
+    if aliases:
+        for original, canonical in aliases:
+            print(f"CANONICAL_VOICE={original}->{canonical}")
+    print("INTAKE_RECEIPT=archive-and-manifest-owned")
 
 
 def main() -> int:
     forwarded = list(sys.argv[1:])
+    forwarded, aliases = normalize_voice_args(forwarded)
     parser = argparse.ArgumentParser(add_help=False)
     parser.add_argument("--confidence-gate", action="store_true")
     parser.add_argument("--no-confidence-gate", action="store_true")
@@ -54,6 +93,8 @@ def main() -> int:
             forwarded.insert(0, "--quick")
     sys.argv = [str(ENGINE), *forwarded]
     result = runpy.run_path(str(ENGINE), run_name="__main__")
+    if result.get("_smart_intake_exit", 0) == 0:
+        print_receipt(aliases)
     return int(result.get("_smart_intake_exit", 0))
 
 

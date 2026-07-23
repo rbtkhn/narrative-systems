@@ -1,0 +1,23 @@
+{
+  "access_language": "en",
+  "as_of": "2026-07-22",
+  "created_at": "2026-07-22T00:00:00Z",
+  "created_by": "operator",
+  "event_time": "2026-07-20",
+  "evidence_role": "professional_reporting",
+  "geopolitical_environment": "middle_east_regional",
+  "id": "EVD-20260722-005",
+  "kind": "evidence",
+  "limitation": "The report corroborates the Persian-language announcement narrative but does not independently measure vessel flows or physical closure.",
+  "observation": "Iran International Persian reports that the Houthis announced a maritime blockade against Saudi Arabia through Bab el-Mandeb, attributing the announcement to the stated response to Saudi pressure on Yemen.",
+  "origin_language": "fa",
+  "originating_chain": "CHAIN-IRANINTL-PERSIAN-20260720-EMBARGO",
+  "representation_sha256": "f2b54e2701eac160a8bb8e6f7b677c818a05db2efe6b417d662e802589bed89b",
+  "retrieved_at": "2026-07-22",
+  "revision_of": null,
+  "schema_version": 1,
+  "source_id": "VSRC-RPT-ANADOLU",
+  "status": "active",
+  "translation_provenance": "machine_assisted_disclosed",
+  "url": "https://www.iranintl.com/202607207852"
+}

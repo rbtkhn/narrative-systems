@@ -1,0 +1,23 @@
+{
+  "access_language": "en",
+  "as_of": "2026-07-22",
+  "created_at": "2026-07-22T00:00:00Z",
+  "created_by": "operator",
+  "event_time": "2026-03-29",
+  "evidence_role": "professional_reporting",
+  "geopolitical_environment": "western_independent",
+  "id": "EVD-20260722-004",
+  "kind": "evidence",
+  "limitation": "This is a March baseline and does not independently measure the July 20-22 post-announcement change.",
+  "observation": "Kpler reports March Bab el-Mandeb crude flows near 3.97 million barrels per day and identifies Yanbu as a major Saudi export route, establishing a baseline for why rerouting can matter.",
+  "origin_language": "en",
+  "originating_chain": "CHAIN-KPLER-BAB-EL-MANDEB-MARCH-2026",
+  "representation_sha256": "fbd534122a3180c30265b1ebb43c0d13e041398b943759d321a5b81c962c6b37",
+  "retrieved_at": "2026-07-22",
+  "revision_of": null,
+  "schema_version": 1,
+  "source_id": "VSRC-TRK-KPLER",
+  "status": "active",
+  "translation_provenance": "not_required",
+  "url": "https://www.kpler.com/blog/chokepoint-risks-could-tighten-crude-supply-as-houthis-enter-the-conflict"
+}

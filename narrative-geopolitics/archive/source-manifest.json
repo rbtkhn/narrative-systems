@@ -2,7 +2,7 @@
   "manifest_id": "narrative-geopolitics-source-manifest-v1",
   "source_basis": "central archive with completed historical strategy-codex imports",
   "imported_at": "2026-07-09",
-  "source_count": 1792,
+  "source_count": 1873,
   "boundary": {
     "archive": "source truth",
     "voices": "voice continuity and routing",
@@ -25642,6 +25642,1388 @@
       "inference_basis": [
         "wrapper-normalized",
         "explicit-date-alias"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-07",
+      "title": "Interviews #13: Patrick Bet-David — Jiang Xueqin Finally Breaks His Silence (PBD Podcast #772)",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-07/source-interviews-13-patrick-bet-david-jiang-xueqin-finally-breaks-his-silence-pbd-podcast-772-2026-04-07.md",
+      "voice_index_path": "../../archive/sources/2026-04-07/source-interviews-13-patrick-bet-david-jiang-xueqin-finally-breaks-his-silence-pbd-podcast-772-2026-04-07.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/interviews/interview-2026-04-07-patrick-bet-david",
+      "source_class": "guest interview pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "patrick-bet-david",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-11-06",
+      "title": "Predicting Geopolitics w/ Professor Jiang",
+      "local_path": "narrative-geopolitics/archive/sources/2025-11-06/source-predicting-geopolitics-w-professor-jiang-2025-11-06.md",
+      "voice_index_path": "../../archive/sources/2025-11-06/source-predicting-geopolitics-w-professor-jiang-2025-11-06.md",
+      "upstream_path": "operator-paste://2026-07-22/predicting-geopolitics-professor-jiang",
+      "source_class": "guest interview pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "the-duran",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "Prof. Jiang: Iran Has Trump TRAPPED! Full Interview",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-22/source-prof-jiang-iran-has-trump-trapped-full-interview-2026-04-22.md",
+      "voice_index_path": "../../archive/sources/2026-04-22/source-prof-jiang-iran-has-trump-trapped-full-interview-2026-04-22.md",
+      "upstream_path": "operator-paste://2026-07-22/professor-jiang-iran-has-trump-trapped-redacted-news",
+      "source_class": "guest interview pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "redacted-news",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-24",
+      "title": "He Predicted The War in Iran Now Prof. Jiang Predicts This Will Become Trump's",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-24/source-he-predicted-the-war-in-iran-now-prof-jiang-predicts-this-will-become-trump-s-2026-03-24.md",
+      "voice_index_path": "../../archive/sources/2026-03-24/source-he-predicted-the-war-in-iran-now-prof-jiang-predicts-this-will-become-trump-s-2026-03-24.md",
+      "upstream_path": "operator-paste://2026-07-22/professor-jiang-predicts-trump-redacted-news",
+      "source_class": "guest interview pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "redacted-news",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-07",
+      "title": "Jiang Xueqin: The Iran War: The Watershed Moment That Changed the Middle East Forever",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-07/source-jiang-xueqin-the-iran-war-the-watershed-moment-that-changed-the-middle-east-forever-2026-03-07.md",
+      "voice_index_path": "../../archive/sources/2026-03-07/source-jiang-xueqin-the-iran-war-the-watershed-moment-that-changed-the-middle-east-forever-2026-03-07.md",
+      "upstream_path": "operator-paste://2026-07-22/jiang-dialogue-works-watershed-moment",
+      "source_class": "guest interview pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "dialogue-works",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "Professor Jiang Xueqin: America Will Invade Iran Next!",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-11/source-professor-jiang-xueqin-america-will-invade-iran-next-2026-07-11.md",
+      "voice_index_path": "../../archive/sources/2026-07-11/source-professor-jiang-xueqin-america-will-invade-iran-next-2026-07-11.md",
+      "upstream_path": "operator-paste://2026-07-22/jiang-cyrus-janssen-america-will-invade-iran-next",
+      "source_class": "guest interview pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "cyrus-janssen",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "Political Prophet Predicts the Next Phase in Iran, Trump’s War Plan, & Israel’s Future",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-20/source-political-prophet-predicts-the-next-phase-in-iran-trump-s-war-plan-israel-s-future-2026-03-20.md",
+      "voice_index_path": "../../archive/sources/2026-03-20/source-political-prophet-predicts-the-next-phase-in-iran-trump-s-war-plan-israel-s-future-2026-03-20.md",
+      "upstream_path": "operator-paste://2026-07-22/jiang-tucker-carlson-political-prophet",
+      "source_class": "guest interview pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "tucker-carlson",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-15",
+      "title": "Iran War Is The Apocalypse Israel Wanted ALL ALONG! w/ Professor Jiang",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-15/source-iran-war-is-the-apocalypse-israel-wanted-all-along-w-professor-jiang-2026-03-15.md",
+      "voice_index_path": "../../archive/sources/2026-03-15/source-iran-war-is-the-apocalypse-israel-wanted-all-along-w-professor-jiang-2026-03-15.md",
+      "upstream_path": "operator-paste://2026-07-22/jiang-jimmy-dore-iran-war-apocalypse",
+      "source_class": "guest interview pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "jimmy-dore",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-19",
+      "title": "Emergency Discussion #1: Spain Wins World Cup, US Plans Ground Invasion of Iran",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-19/source-emergency-discussion-1-spain-wins-world-cup-us-plans-ground-invasion-of-iran-2026-07-19.md",
+      "voice_index_path": "../../archive/sources/2026-07-19/source-emergency-discussion-1-spain-wins-world-cup-us-plans-ground-invasion-of-iran-2026-07-19.md",
+      "upstream_path": "operator-paste://2026-07-22/jiang-emergency-discussion-1",
+      "source_class": "host monologue",
+      "modality": "transcript",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-08-06",
+      "title": "Vision, Mission, Goals",
+      "local_path": "narrative-geopolitics/archive/sources/2025-08-06/source-vision-mission-goals-2025-08-06.md",
+      "voice_index_path": "../../archive/sources/2025-08-06/source-vision-mission-goals-2025-08-06.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-08-06-vision-mission-goals.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-08-08",
+      "title": "\"Continuity of Government\" is a Joke. Here's Why.",
+      "local_path": "narrative-geopolitics/archive/sources/2025-08-08/source-continuity-of-government-is-a-joke-here-s-why-2025-08-08.md",
+      "voice_index_path": "../../archive/sources/2025-08-08/source-continuity-of-government-is-a-joke-here-s-why-2025-08-08.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-08-08-continuity-of-government-is-a-joke.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-08-13",
+      "title": "The Third Coming",
+      "local_path": "narrative-geopolitics/archive/sources/2025-08-13/source-the-third-coming-2025-08-13.md",
+      "voice_index_path": "../../archive/sources/2025-08-13/source-the-third-coming-2025-08-13.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-08-13-the-third-coming.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-08-20",
+      "title": "The Secret History of the World #1: The Cost of Money",
+      "local_path": "narrative-geopolitics/archive/sources/2025-08-20/source-the-secret-history-of-the-world-1-the-cost-of-money-2025-08-20.md",
+      "voice_index_path": "../../archive/sources/2025-08-20/source-the-secret-history-of-the-world-1-the-cost-of-money-2025-08-20.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-08-20-the-secret-history-of-the-world-1.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-08-22",
+      "title": "The Secret History of the World #2: Measuring the Resilience of Societies",
+      "local_path": "narrative-geopolitics/archive/sources/2025-08-22/source-the-secret-history-of-the-world-2-measuring-the-resilience-of-societies-2025-08-22.md",
+      "voice_index_path": "../../archive/sources/2025-08-22/source-the-secret-history-of-the-world-2-measuring-the-resilience-of-societies-2025-08-22.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-08-22-the-secret-history-of-the-world-2.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-08-26",
+      "title": "The Secret History of the World #3: The Corporate Re-Structuring of Canada",
+      "local_path": "narrative-geopolitics/archive/sources/2025-08-26/source-the-secret-history-of-the-world-3-the-corporate-re-structuring-of-canada-2025-08-26.md",
+      "voice_index_path": "../../archive/sources/2025-08-26/source-the-secret-history-of-the-world-3-the-corporate-re-structuring-of-canada-2025-08-26.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-08-26-the-secret-history-of-the-world-3.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-08-29",
+      "title": "The Secret History of the World #4: Enter Epstein Island",
+      "local_path": "narrative-geopolitics/archive/sources/2025-08-29/source-the-secret-history-of-the-world-4-enter-epstein-island-2025-08-29.md",
+      "voice_index_path": "../../archive/sources/2025-08-29/source-the-secret-history-of-the-world-4-enter-epstein-island-2025-08-29.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-08-29-the-secret-history-of-the-world-4.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-09-05",
+      "title": "The Secret History of the World #5: The Poetry of Transgression",
+      "local_path": "narrative-geopolitics/archive/sources/2025-09-05/source-the-secret-history-of-the-world-5-the-poetry-of-transgression-2025-09-05.md",
+      "voice_index_path": "../../archive/sources/2025-09-05/source-the-secret-history-of-the-world-5-the-poetry-of-transgression-2025-09-05.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-09-05-the-secret-history-of-the-world-5.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-09-09",
+      "title": "The Secret History of the World #6: Manchurian Candidates",
+      "local_path": "narrative-geopolitics/archive/sources/2025-09-09/source-the-secret-history-of-the-world-6-manchurian-candidates-2025-09-09.md",
+      "voice_index_path": "../../archive/sources/2025-09-09/source-the-secret-history-of-the-world-6-manchurian-candidates-2025-09-09.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-09-09-the-secret-history-of-the-world-6.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-09-12",
+      "title": "Secret History #7: The Voyage Home",
+      "local_path": "narrative-geopolitics/archive/sources/2025-09-12/source-secret-history-7-the-voyage-home-2025-09-12.md",
+      "voice_index_path": "../../archive/sources/2025-09-12/source-secret-history-7-the-voyage-home-2025-09-12.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-09-12-secret-history-7-the-voyage-home.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-09-13",
+      "title": "Tipping Point USA",
+      "local_path": "narrative-geopolitics/archive/sources/2025-09-13/source-tipping-point-usa-2025-09-13.md",
+      "voice_index_path": "../../archive/sources/2025-09-13/source-tipping-point-usa-2025-09-13.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-09-13-tipping-point-usa.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-09-17",
+      "title": "I Have Questions about Tyler Robinson",
+      "local_path": "narrative-geopolitics/archive/sources/2025-09-17/source-i-have-questions-about-tyler-robinson-2025-09-17.md",
+      "voice_index_path": "../../archive/sources/2025-09-17/source-i-have-questions-about-tyler-robinson-2025-09-17.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-09-17-i-have-questions-about-tyler-robinson.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-09-20",
+      "title": "\"Predictive History\" Reading List",
+      "local_path": "narrative-geopolitics/archive/sources/2025-09-20/source-predictive-history-reading-list-2025-09-20.md",
+      "voice_index_path": "../../archive/sources/2025-09-20/source-predictive-history-reading-list-2025-09-20.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-09-20-predictive-history-reading-list.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-09-22",
+      "title": "What Can Be Done?",
+      "local_path": "narrative-geopolitics/archive/sources/2025-09-22/source-what-can-be-done-2025-09-22.md",
+      "voice_index_path": "../../archive/sources/2025-09-22/source-what-can-be-done-2025-09-22.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-09-22-what-can-be-done.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-09-27",
+      "title": "The Empire Goes to War",
+      "local_path": "narrative-geopolitics/archive/sources/2025-09-27/source-the-empire-goes-to-war-2025-09-27.md",
+      "voice_index_path": "../../archive/sources/2025-09-27/source-the-empire-goes-to-war-2025-09-27.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-09-27-the-empire-goes-to-war.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-10-01",
+      "title": "War Machine USA",
+      "local_path": "narrative-geopolitics/archive/sources/2025-10-01/source-war-machine-usa-2025-10-01.md",
+      "voice_index_path": "../../archive/sources/2025-10-01/source-war-machine-usa-2025-10-01.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-10-01-war-machine-usa.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-10-03",
+      "title": "Why I Refuse to Get Rich",
+      "local_path": "narrative-geopolitics/archive/sources/2025-10-03/source-why-i-refuse-to-get-rich-2025-10-03.md",
+      "voice_index_path": "../../archive/sources/2025-10-03/source-why-i-refuse-to-get-rich-2025-10-03.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-10-03-why-i-refuse-to-get-rich.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-10-10",
+      "title": "Secret History #8: The Rise of the American Kakistocracy",
+      "local_path": "narrative-geopolitics/archive/sources/2025-10-10/source-secret-history-8-the-rise-of-the-american-kakistocracy-2025-10-10.md",
+      "voice_index_path": "../../archive/sources/2025-10-10/source-secret-history-8-the-rise-of-the-american-kakistocracy-2025-10-10.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-10-12",
+      "title": "The Limits of Pax Judaica",
+      "local_path": "narrative-geopolitics/archive/sources/2025-10-12/source-the-limits-of-pax-judaica-2025-10-12.md",
+      "voice_index_path": "../../archive/sources/2025-10-12/source-the-limits-of-pax-judaica-2025-10-12.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-10-12-the-limits-of-pax-judaica.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-10-15",
+      "title": "Secret History #9: The War of Heaven and Hell",
+      "local_path": "narrative-geopolitics/archive/sources/2025-10-15/source-secret-history-9-the-war-of-heaven-and-hell-2025-10-15.md",
+      "voice_index_path": "../../archive/sources/2025-10-15/source-secret-history-9-the-war-of-heaven-and-hell-2025-10-15.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-10-15-secret-history-10-the-war-of-heaven.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-10-17",
+      "title": "Secret History #10: The Great Revealing",
+      "local_path": "narrative-geopolitics/archive/sources/2025-10-17/source-secret-history-10-the-great-revealing-2025-10-17.md",
+      "voice_index_path": "../../archive/sources/2025-10-17/source-secret-history-10-the-great-revealing-2025-10-17.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2025-10-17-secret-history-10-the-great-revealing.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-03",
+      "title": "Blowback Venezuela",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-03/source-blowback-venezuela-2026-01-03.md",
+      "voice_index_path": "../../archive/sources/2026-01-03/source-blowback-venezuela-2026-01-03.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-01-03-blowback-venezuela.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-10",
+      "title": "Minnesota Burning",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-10/source-minnesota-burning-2026-01-10.md",
+      "voice_index_path": "../../archive/sources/2026-01-10/source-minnesota-burning-2026-01-10.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-01-10-minnesota-burning.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-17",
+      "title": "Iran, Greenland, and Canada",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-17/source-iran-greenland-and-canada-2026-01-17.md",
+      "voice_index_path": "../../archive/sources/2026-01-17/source-iran-greenland-and-canada-2026-01-17.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-01-17-iran-greenland-and-canada.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-24",
+      "title": "Carney’s Speech and Trump’s Letter",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-24/source-carney-s-speech-and-trump-s-letter-2026-01-24.md",
+      "voice_index_path": "../../archive/sources/2026-01-24/source-carney-s-speech-and-trump-s-letter-2026-01-24.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-01-24-carneys-speech-and-trumps-letter.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-07",
+      "title": "Twilight of the Liberal Elite",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-07/source-twilight-of-the-liberal-elite-2026-02-07.md",
+      "voice_index_path": "../../archive/sources/2026-02-07/source-twilight-of-the-liberal-elite-2026-02-07.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-02-07-twilight-of-the-liberal-elite.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-14",
+      "title": "Welcome to the Rupture",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-14/source-welcome-to-the-rupture-2026-02-14.md",
+      "voice_index_path": "../../archive/sources/2026-02-14/source-welcome-to-the-rupture-2026-02-14.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-02-14-welcome-to-the-rupture.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-21",
+      "title": "Countdown to Iran",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-21/source-countdown-to-iran-2026-02-21.md",
+      "voice_index_path": "../../archive/sources/2026-02-21/source-countdown-to-iran-2026-02-21.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-02-21-countdown-to-iran.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-28",
+      "title": "World War III Begins",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-28/source-world-war-iii-begins-2026-02-28.md",
+      "voice_index_path": "../../archive/sources/2026-02-28/source-world-war-iii-begins-2026-02-28.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-02-28-world-war-iii-begins.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-07",
+      "title": "The Acceleration",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-07/source-the-acceleration-2026-03-07.md",
+      "voice_index_path": "../../archive/sources/2026-03-07/source-the-acceleration-2026-03-07.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-03-07-the-acceleration.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-14",
+      "title": "Vietnam Redux",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-14/source-vietnam-redux-2026-03-14.md",
+      "voice_index_path": "../../archive/sources/2026-03-14/source-vietnam-redux-2026-03-14.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-03-14-vietnam-redux.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "The US-Iran End Game",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-21/source-the-us-iran-end-game-2026-03-21.md",
+      "voice_index_path": "../../archive/sources/2026-03-21/source-the-us-iran-end-game-2026-03-21.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-03-21-the-us-iran-end-game.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-04",
+      "title": "World War Trump",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-04/source-world-war-trump-2026-04-04.md",
+      "voice_index_path": "../../archive/sources/2026-04-04/source-world-war-trump-2026-04-04.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-04-04-world-war-trump.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "Our WTF! Years",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-11/source-our-wtf-years-2026-04-11.md",
+      "voice_index_path": "../../archive/sources/2026-04-11/source-our-wtf-years-2026-04-11.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-04-11-our-wtf-years.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "The US-Iran War, Round Two",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-18/source-the-us-iran-war-round-two-2026-04-18.md",
+      "voice_index_path": "../../archive/sources/2026-04-18/source-the-us-iran-war-round-two-2026-04-18.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-04-18-the-us-iran-war-round-two.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-25",
+      "title": "The Trump New Deal",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-25/source-the-trump-new-deal-2026-04-25.md",
+      "voice_index_path": "../../archive/sources/2026-04-25/source-the-trump-new-deal-2026-04-25.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-04-25-the-trump-new-deal.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-01",
+      "title": "God Emperor Trump",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-01/source-god-emperor-trump-2026-05-01.md",
+      "voice_index_path": "../../archive/sources/2026-05-01/source-god-emperor-trump-2026-05-01.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-05-01-god-emperor-trump.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-09",
+      "title": "The US-China Grand Bargain",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-09/source-the-us-china-grand-bargain-2026-05-09.md",
+      "voice_index_path": "../../archive/sources/2026-05-09/source-the-us-china-grand-bargain-2026-05-09.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-05-09-the-us-china-grand-bargain.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-16",
+      "title": "China's Third Center Strategy",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-16/source-china-s-third-center-strategy-2026-05-16.md",
+      "voice_index_path": "../../archive/sources/2026-05-16/source-china-s-third-center-strategy-2026-05-16.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-05-16-chinas-third-center-strategy.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-23",
+      "title": "The Loneliness of Mad King Trump",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-23/source-the-loneliness-of-mad-king-trump-2026-05-23.md",
+      "voice_index_path": "../../archive/sources/2026-05-23/source-the-loneliness-of-mad-king-trump-2026-05-23.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-05-23-the-loneliness-of-mad-king-trump.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-05-30",
+      "title": "Peter Thiel's Republic",
+      "local_path": "narrative-geopolitics/archive/sources/2026-05-30/source-peter-thiel-s-republic-2026-05-30.md",
+      "voice_index_path": "../../archive/sources/2026-05-30/source-peter-thiel-s-republic-2026-05-30.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-05-30-peter-thiels-republic.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-13",
+      "title": "Welcome to Boomer Hell",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-13/source-welcome-to-boomer-hell-2026-06-13.md",
+      "voice_index_path": "../../archive/sources/2026-06-13/source-welcome-to-boomer-hell-2026-06-13.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-06-13-welcome-to-boomer-hell.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "Peace in Our Time?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-19/source-peace-in-our-time-2026-06-19.md",
+      "voice_index_path": "../../archive/sources/2026-06-19/source-peace-in-our-time-2026-06-19.md",
+      "upstream_path": "https://github.com/rbtkhn/predictive-history/tree/main/essays/essay-2026-06-19-peace-in-our-time.md",
+      "source_class": "guest interview pressure test",
+      "modality": "substack-post",
+      "voice_slugs": [
+        "jiang"
+      ],
+      "host_slug": "predictive-history",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "Iran With Major Strikes on Israel Coming Within 3-4 Days, Ground Invasion Coming",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-22/source-iran-with-major-strikes-on-israel-coming-within-3-4-days-ground-invasion-coming-2026-07-22.md",
+      "voice_index_path": "../../archive/sources/2026-07-22/source-iran-with-major-strikes-on-israel-coming-within-3-4-days-ground-invasion-coming-2026-07-22.md",
+      "upstream_path": "operator-paste://2026-07-22/pape-moral-resistance-major-strikes-israel",
+      "source_class": "guest interview pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "pape"
+      ],
+      "host_slug": "moral-resistance",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "We Are Preparing for ALL OUT WAR: A Ground War Is Coming to Iran",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-22/source-we-are-preparing-for-all-out-war-a-ground-war-is-coming-to-iran-2026-07-22.md",
+      "voice_index_path": "../../archive/sources/2026-07-22/source-we-are-preparing-for-all-out-war-a-ground-war-is-coming-to-iran-2026-07-22.md",
+      "upstream_path": "operator-paste://2026-07-22/weichert-redacted-news-ground-war-iran",
+      "source_class": "guest interview pressure test",
+      "modality": "transcript",
+      "voice_slugs": [
+        "weichert"
+      ],
+      "host_slug": "redacted-news",
+      "inference_basis": [
+        "wrapper-normalized"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "US Attacks Iran Again: Mohammad Marandi Exposes Washington's Real Plan",
+      "local_path": "narrative-geopolitics/archive/sources/2026-07-09/source-us-attacks-iran-again-mohammad-marandi-exposes-washington-s-real-plan-2026-07-09.md",
+      "voice_index_path": "../../archive/sources/2026-07-09/source-us-attacks-iran-again-mohammad-marandi-exposes-washington-s-real-plan-2026-07-09.md",
+      "upstream_path": "operator-paste://2026-07-22/us-attacks-iran-again-mohammad-marandi-exposes-washington-s-real-plan",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "india-global-left",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-20",
+      "title": "Who Opposes Iran's Government? U.S., Israel, Gulf States & the Protest Strategy",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-20/source-who-opposes-iran-s-government-u-s-israel-gulf-states-the-protest-strategy-2026-01-20.md",
+      "voice_index_path": "../../archive/sources/2026-01-20/source-who-opposes-iran-s-government-u-s-israel-gulf-states-the-protest-strategy-2026-01-20.md",
+      "upstream_path": "operator-paste://2026-07-22/who-opposes-iran-s-government-u-s-israel-gulf-states-the-protest-strategy",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "marandi"
+      ],
+      "host_slug": "india-global-left",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-07",
+      "title": "Inside U.S. Imperial Strategy: Jeffrey Sachs on Iran Talks & Latin America and ...",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-07/source-inside-u-s-imperial-strategy-jeffrey-sachs-on-iran-talks-latin-america-and-2026-02-07.md",
+      "voice_index_path": "../../archive/sources/2026-02-07/source-inside-u-s-imperial-strategy-jeffrey-sachs-on-iran-talks-latin-america-and-2026-02-07.md",
+      "upstream_path": "operator-paste://2026-07-22/inside-u-s-imperial-strategy-jeffrey-sachs-on-iran-talks-latin-america-and",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "sachs"
+      ],
+      "host_slug": "india-global-left",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "John Mearsheimer: Trump's War Is STRATEGIC DISASTER W/ No End In Sight",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-19/source-john-mearsheimer-trump-s-war-is-strategic-disaster-w-no-end-in-sight-2026-03-19.md",
+      "voice_index_path": "../../archive/sources/2026-03-19/source-john-mearsheimer-trump-s-war-is-strategic-disaster-w-no-end-in-sight-2026-03-19.md",
+      "upstream_path": "operator-paste://2026-07-22/john-mearsheimer-trump-s-war-is-strategic-disaster-w-no-end-in-sight",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "breaking-points",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-22",
+      "title": "John Mearsheimer Lays Out NEW WORLD ORDER: Mark Carney Speech, Greenland, Iran ...",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-22/source-john-mearsheimer-lays-out-new-world-order-mark-carney-speech-greenland-iran-2026-01-22.md",
+      "voice_index_path": "../../archive/sources/2026-01-22/source-john-mearsheimer-lays-out-new-world-order-mark-carney-speech-greenland-iran-2026-01-22.md",
+      "upstream_path": "operator-paste://2026-07-22/john-mearsheimer-lays-out-new-world-order-mark-carney-speech-greenland-iran",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mearsheimer"
+      ],
+      "host_slug": "breaking-points",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-02",
+      "title": "Jeffrey Sachs: 'PSYCHOPATH' Trump Makes Bibi's FANTASY Come True",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-02/source-jeffrey-sachs-psychopath-trump-makes-bibi-s-fantasy-come-true-2026-03-02.md",
+      "voice_index_path": "../../archive/sources/2026-03-02/source-jeffrey-sachs-psychopath-trump-makes-bibi-s-fantasy-come-true-2026-03-02.md",
+      "upstream_path": "operator-paste://2026-07-22/jeffrey-sachs-psychopath-trump-makes-bibi-s-fantasy-come-true",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "sachs"
+      ],
+      "host_slug": "breaking-points",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-29",
+      "title": "Jeffrey Sachs: Trump Iran Attack IMMINENT",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-29/source-jeffrey-sachs-trump-iran-attack-imminent-2026-01-29.md",
+      "voice_index_path": "../../archive/sources/2026-01-29/source-jeffrey-sachs-trump-iran-attack-imminent-2026-01-29.md",
+      "upstream_path": "operator-paste://2026-07-22/jeffrey-sachs-trump-iran-attack-imminent",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "sachs"
+      ],
+      "host_slug": "breaking-points",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-06-01",
+      "title": "Jeffrey Sachs BLASTS White House Economic LIES",
+      "local_path": "narrative-geopolitics/archive/sources/2026-06-01/source-jeffrey-sachs-blasts-white-house-economic-lies-2026-06-01.md",
+      "voice_index_path": "../../archive/sources/2026-06-01/source-jeffrey-sachs-blasts-white-house-economic-lies-2026-06-01.md",
+      "upstream_path": "operator-paste://2026-07-22/jeffrey-sachs-blasts-white-house-economic-lies",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "sachs"
+      ],
+      "host_slug": "breaking-points",
+      "inference_basis": [],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "Patrick Henningsen: Israel Just Pulled the U.S. Into Another War… This Could End Very Badly",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-05/source-patrick-henningsen-israel-just-pulled-the-u-s-into-another-war-this-could-end-very-badly-2026-03-05.md",
+      "voice_index_path": "../../archive/sources/2026-03-05/source-patrick-henningsen-israel-just-pulled-the-u-s-into-another-war-this-could-end-very-badly-2026-03-05.md",
+      "upstream_path": "operator-paste://2026-07-22/patrick-henningsen-israel-just-pulled-the-u-s-into-another-war-this-could-end-very-badly",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "henningsen"
+      ],
+      "host_slug": "dialogue-works",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-24",
+      "title": "US Plays With Total War Insanity | Patrick Henningsen",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-24/source-us-plays-with-total-war-insanity-patrick-henningsen-2026-03-24.md",
+      "voice_index_path": "../../archive/sources/2026-03-24/source-us-plays-with-total-war-insanity-patrick-henningsen-2026-03-24.md",
+      "upstream_path": "operator-paste://2026-07-22/us-plays-with-total-war-insanity-patrick-henningsen",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "henningsen"
+      ],
+      "host_slug": "neutrality-studies",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-03",
+      "title": "Patrick Henningsen: Is a US-Iran War Really Inevitable? Iran Could Devastate the Attacks!",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-03/source-patrick-henningsen-is-a-us-iran-war-really-inevitable-iran-could-devastate-the-attacks-2026-02-03.md",
+      "voice_index_path": "../../archive/sources/2026-02-03/source-patrick-henningsen-is-a-us-iran-war-really-inevitable-iran-could-devastate-the-attacks-2026-02-03.md",
+      "upstream_path": "operator-paste://2026-07-22/patrick-henningsen-is-a-us-iran-war-really-inevitable-iran-could-devastate-the-attacks",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "henningsen"
+      ],
+      "host_slug": "dialogue-works",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-05",
+      "title": "Disruption & Fallout from U.S. Attack on Venezuela / Patrick Henningsen & Lt Col Daniel Davis",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-05/source-disruption-fallout-from-u-s-attack-on-venezuela-patrick-henningsen-lt-col-daniel-davis-2026-01-05.md",
+      "voice_index_path": "../../archive/sources/2026-01-05/source-disruption-fallout-from-u-s-attack-on-venezuela-patrick-henningsen-lt-col-daniel-davis-2026-01-05.md",
+      "upstream_path": "operator-paste://2026-07-22/disruption-fallout-from-u-s-attack-on-venezuela-patrick-henningsen-lt-col-daniel-davis",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "henningsen"
+      ],
+      "host_slug": "daniel-davis",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-16",
+      "title": "Stanislav Krapivnik: Odessa Is a Key Goal in Ukraine War Endgame",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-16/source-stanislav-krapivnik-odessa-is-a-key-goal-in-ukraine-war-endgame-2026-01-16.md",
+      "voice_index_path": "../../archive/sources/2026-01-16/source-stanislav-krapivnik-odessa-is-a-key-goal-in-ukraine-war-endgame-2026-01-16.md",
+      "upstream_path": "operator-paste://2026-07-22/stanislav-krapivnik-odessa-is-a-key-goal-in-ukraine-war-endgame",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "krapivnik"
+      ],
+      "host_slug": "glenn-diesen",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-11-25",
+      "title": "Stanislav Krapivnik: Trump's Peace Plan is a Trap for Russia",
+      "local_path": "narrative-geopolitics/archive/sources/2025-11-25/source-stanislav-krapivnik-trump-s-peace-plan-is-a-trap-for-russia-2025-11-25.md",
+      "voice_index_path": "../../archive/sources/2025-11-25/source-stanislav-krapivnik-trump-s-peace-plan-is-a-trap-for-russia-2025-11-25.md",
+      "upstream_path": "operator-paste://2026-07-22/stanislav-krapivnik-trump-s-peace-plan-is-a-trap-for-russia",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "krapivnik"
+      ],
+      "host_slug": "glenn-diesen",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-03",
+      "title": "Stanislav Krapivnik: Russia Demands Peace Through Capitulation",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-03/source-stanislav-krapivnik-russia-demands-peace-through-capitulation-2026-02-03.md",
+      "voice_index_path": "../../archive/sources/2026-02-03/source-stanislav-krapivnik-russia-demands-peace-through-capitulation-2026-02-03.md",
+      "upstream_path": "operator-paste://2026-07-22/stanislav-krapivnik-russia-demands-peace-through-capitulation",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "krapivnik"
+      ],
+      "host_slug": "glenn-diesen",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-05",
+      "title": "THE U.S. IS AT A DEAD END - Stanislav Krapivnik On Iran War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-05/source-the-u-s-is-at-a-dead-end-stanislav-krapivnik-on-iran-war-2026-04-05.md",
+      "voice_index_path": "../../archive/sources/2026-04-05/source-the-u-s-is-at-a-dead-end-stanislav-krapivnik-on-iran-war-2026-04-05.md",
+      "upstream_path": "operator-paste://2026-07-22/the-u-s-is-at-a-dead-end-stanislav-krapivnik-on-iran-war",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "krapivnik"
+      ],
+      "host_slug": "mario-nawfal",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-21",
+      "title": "Aaron Maté: Did a Regime-Change Operation in Iran Fail?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-21/source-aaron-mat-did-a-regime-change-operation-in-iran-fail-2026-01-21.md",
+      "voice_index_path": "../../archive/sources/2026-01-21/source-aaron-mat-did-a-regime-change-operation-in-iran-fail-2026-01-21.md",
+      "upstream_path": "operator-paste://2026-07-22/aaron-mat-did-a-regime-change-operation-in-iran-fail",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mate"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-01-15",
+      "title": "Aaron Maté: Media Myths Driving the Iran Crisis?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-01-15/source-aaron-mat-media-myths-driving-the-iran-crisis-2026-01-15.md",
+      "voice_index_path": "../../archive/sources/2026-01-15/source-aaron-mat-media-myths-driving-the-iran-crisis-2026-01-15.md",
+      "upstream_path": "operator-paste://2026-07-22/aaron-mat-media-myths-driving-the-iran-crisis",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mate"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-03",
+      "title": "Aaron Maté: A Reckless Game With Iran",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-03/source-aaron-mat-a-reckless-game-with-iran-2026-02-03.md",
+      "voice_index_path": "../../archive/sources/2026-02-03/source-aaron-mat-a-reckless-game-with-iran-2026-02-03.md",
+      "upstream_path": "operator-paste://2026-07-22/aaron-mat-a-reckless-game-with-iran",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mate"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-10",
+      "title": "Aaron Maté: Why Netanyahu Needs Another War",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-10/source-aaron-mat-why-netanyahu-needs-another-war-2026-02-10.md",
+      "voice_index_path": "../../archive/sources/2026-02-10/source-aaron-mat-why-netanyahu-needs-another-war-2026-02-10.md",
+      "upstream_path": "operator-paste://2026-07-22/aaron-mat-why-netanyahu-needs-another-war",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mate"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-06-04",
+      "title": "Aaron Maté: From the Russiagate Hoax to Attacking Russia’s Nuclear Forces",
+      "local_path": "narrative-geopolitics/archive/sources/2025-06-04/source-aaron-mat-from-the-russiagate-hoax-to-attacking-russia-s-nuclear-forces-2025-06-04.md",
+      "voice_index_path": "../../archive/sources/2025-06-04/source-aaron-mat-from-the-russiagate-hoax-to-attacking-russia-s-nuclear-forces-2025-06-04.md",
+      "upstream_path": "operator-paste://2026-07-22/aaron-mat-from-the-russiagate-hoax-to-attacking-russia-s-nuclear-forces",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mate"
+      ],
+      "host_slug": "glenn-diesen",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-02-25",
+      "title": "Aaron Maté: Huckabee Is a Dangerous Fool",
+      "local_path": "narrative-geopolitics/archive/sources/2026-02-25/source-aaron-mat-huckabee-is-a-dangerous-fool-2026-02-25.md",
+      "voice_index_path": "../../archive/sources/2026-02-25/source-aaron-mat-huckabee-is-a-dangerous-fool-2026-02-25.md",
+      "upstream_path": "operator-paste://2026-07-22/aaron-mat-huckabee-is-a-dangerous-fool",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mate"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-24",
+      "title": "Aaron Maté: Will Trump Sacrifice the Gulf States?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-24/source-aaron-mat-will-trump-sacrifice-the-gulf-states-2026-03-24.md",
+      "voice_index_path": "../../archive/sources/2026-03-24/source-aaron-mat-will-trump-sacrifice-the-gulf-states-2026-03-24.md",
+      "upstream_path": "operator-paste://2026-07-22/aaron-mat-will-trump-sacrifice-the-gulf-states",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mate"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-10",
+      "title": "Aaron Maté: The Long U.S. Hatred of Iran - The Deep Politics Behind U.S.–Iran ...",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-10/source-aaron-mat-the-long-u-s-hatred-of-iran-the-deep-politics-behind-u-s-iran-2026-03-10.md",
+      "voice_index_path": "../../archive/sources/2026-03-10/source-aaron-mat-the-long-u-s-hatred-of-iran-the-deep-politics-behind-u-s-iran-2026-03-10.md",
+      "upstream_path": "operator-paste://2026-07-22/aaron-mat-the-long-u-s-hatred-of-iran-the-deep-politics-behind-u-s-iran",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mate"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-03-03",
+      "title": "Aaron Maté: Did Netanyahu Shape Trump’s Iran Policy?",
+      "local_path": "narrative-geopolitics/archive/sources/2026-03-03/source-aaron-mat-did-netanyahu-shape-trump-s-iran-policy-2026-03-03.md",
+      "voice_index_path": "../../archive/sources/2026-03-03/source-aaron-mat-did-netanyahu-shape-trump-s-iran-policy-2026-03-03.md",
+      "upstream_path": "operator-paste://2026-07-22/aaron-mat-did-netanyahu-shape-trump-s-iran-policy",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mate"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "Aaron Maté: Trump’s New War Plans",
+      "local_path": "narrative-geopolitics/archive/sources/2026-04-30/source-aaron-mat-trump-s-new-war-plans-2026-04-30.md",
+      "voice_index_path": "../../archive/sources/2026-04-30/source-aaron-mat-trump-s-new-war-plans-2026-04-30.md",
+      "upstream_path": "operator-paste://2026-07-22/aaron-mat-trump-s-new-war-plans",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mate"
+      ],
+      "host_slug": "judging-freedom",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
+      ],
+      "import_status": "imported"
+    },
+    {
+      "date": "2025-04-17",
+      "title": "Aaron Maté: NATO's War Narratives Collapse",
+      "local_path": "narrative-geopolitics/archive/sources/2025-04-17/source-aaron-mat-nato-s-war-narratives-collapse-2025-04-17.md",
+      "voice_index_path": "../../archive/sources/2025-04-17/source-aaron-mat-nato-s-war-narratives-collapse-2025-04-17.md",
+      "upstream_path": "operator-paste://2026-07-22/aaron-mat-nato-s-war-narratives-collapse",
+      "source_class": "host-pressure test",
+      "modality": "cleaned-transcript",
+      "voice_slugs": [
+        "mate"
+      ],
+      "host_slug": "glenn-diesen",
+      "inference_basis": [
+        "wrapper-normalized",
+        "explicit-host"
       ],
       "import_status": "imported"
     }

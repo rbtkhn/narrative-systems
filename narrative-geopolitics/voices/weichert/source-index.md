@@ -4,7 +4,7 @@ This index routes the unified local Weichert corpus for `weichert` to the centra
 
 Source basis: `strategy-codex/statecraft/voices/weichert/weichert-index.md`.
 
-Corpus: 19 local route rows across 19 central archive source files.
+Corpus: 20 local route rows across 20 central archive source files.
 
 Status: `imported-corpus`
 
@@ -38,6 +38,7 @@ Status: `imported-corpus`
 | `2026-07-07` | BREAKING: TRUMP STRIKES IRAN'S KHARG ISLAND FOR FIRST TIME SINCE CEASEFIRE w/Brandon Weichert | `guest interview pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-07-07/source-mario-nawfal-brandon-weichert-breaking-trump-strikes-irans-kharg-island-for-first-time-since-ceasefire-2026-07-07.md) |
 | `2026-07-12` | BREAKING: U.S. HEAVILY BOMBING IRAN NOW â€“ w/ Geopolitical Analyst Brandon Weichert | `guest interview pressure test` | `mario-nawfal` | [source](../../archive/sources/2026-07-12/source-breaking-u-s-heavily-bombing-iran-now-w-geopolitical-analyst-brandon-weichert-2026-07-12.md) |
 | `2026-07-20` | U.S OUT OF OIL, YEMENI HOUTHIS CLOSE BAB EL MANDAB, GROUND INVASION? w/ BRANDON WEICHERT | `guest interview pressure test` | `moral-resistance` | [source](../../archive/sources/2026-07-20/source-u-s-out-of-oil-yemeni-houthis-close-bab-el-mandab-ground-invasion-w-brandon-weichert-2026-07-20.md) |
+| `2026-07-22` | We Are Preparing for ALL OUT WAR: A Ground War Is Coming to Iran | `host-pressure test` | `redacted-news` | [source](../../archive/sources/2026-07-22/source-we-are-preparing-for-all-out-war-a-ground-war-is-coming-to-iran-2026-07-22.md) |
 
 ## Import Boundary
 

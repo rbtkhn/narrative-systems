@@ -1,0 +1,29 @@
+{
+  "as_of": "2026-07-22",
+  "claim_ids": [
+    "OPC-20260720-01"
+  ],
+  "created_at": "2026-07-22T00:00:00Z",
+  "created_by": "operator",
+  "domain_profile": "DOMAIN-MARITIME-TRACKING",
+  "id": "OBS-20260722-002",
+  "kind": "observable",
+  "possible_results": [
+    "observed",
+    "not_observed",
+    "contested",
+    "unavailable"
+  ],
+  "question": "Bab el-Mandab remained physically traversable by at least some commercial vessels after the announcement.",
+  "required_language_environments": [
+    "ar"
+  ],
+  "resolution_rule": "Independent vessel-tracking or official maritime reporting documents post-announcement crossings.",
+  "revision_of": null,
+  "schema_version": 1,
+  "status": "open",
+  "window": {
+    "end": "2026-07-22",
+    "start": "2026-07-22"
+  }
+}

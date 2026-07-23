@@ -1,0 +1,23 @@
+{
+  "access_language": "ar",
+  "as_of": "2026-07-22",
+  "created_at": "2026-07-22T00:00:00Z",
+  "created_by": "operator",
+  "event_time": "2026-07-22",
+  "evidence_role": "observational",
+  "geopolitical_environment": "regional",
+  "id": "EVD-20260722-003",
+  "kind": "evidence",
+  "limitation": "The article relays open-source vessel tracking and Kpler data; its sample is event-driven and does not by itself establish a complete daily flow series.",
+  "observation": "Al Jazeera Arabic reports that nine vessels, including seven tankers departing Saudi ports, reversed after the embargo announcement, while non-oil vessels continued to cross; it cites Kpler data on Saudi flows via Yanbu.",
+  "origin_language": "ar",
+  "originating_chain": "CHAIN-AJ-MARINETRAFFIC-20260722-REROUTES",
+  "representation_sha256": "796eef15709c51d122b86632a92509e52cbaf2cf0e45f72aed9cd562639b2e07",
+  "retrieved_at": "2026-07-22",
+  "revision_of": null,
+  "schema_version": 1,
+  "source_id": "VSRC-RPT-AJ",
+  "status": "active",
+  "translation_provenance": "machine_assisted_disclosed",
+  "url": "https://www.aljazeera.net/news/2026/7/22/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D8%AD%D9%88%D8%AB%D9%8A%D8%A9-%D8%AA%D8%AC%D8%A8%D8%B1-9-%D9%86%D8%A7%D9%82%D9%84%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D9%88%D8%A7%D8%B1%D8%AC%D8%B9"
+}
